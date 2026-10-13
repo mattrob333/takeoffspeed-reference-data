@@ -1,0 +1,1634 @@
+[
+ {
+  "file": "source/drawings/Architectural/A-110-FLOOR-PLAN-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-110",
+  "title": "FLOOR PLAN",
+  "pages": 1,
+  "textChars": 8059,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-120-DIMENSIONAL-FLOOR-PLAN-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-120",
+  "title": "DIMENSIONAL FLOOR PLAN",
+  "pages": 1,
+  "textChars": 8882,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-130-REFLECTED-CEILING-PLAN-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-130",
+  "title": "REFLECTED CEILING PLAN",
+  "pages": 1,
+  "textChars": 4430,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-131-ENLARGED-REFLECTED-CEILING-PLAN-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-131",
+  "title": "ENLARGED REFLECTED CEILING PLAN",
+  "pages": 1,
+  "textChars": 3458,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-140-ROOF-PLAN-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-140",
+  "title": "ROOF PLAN",
+  "pages": 1,
+  "textChars": 3275,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-150-FINISH-PLAN-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-150",
+  "title": "FINISH PLAN",
+  "pages": 1,
+  "textChars": 7169,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-160-FURNITURE-&-EQUIPMENT-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-160",
+  "title": "FURNITURE & EQUIPMENT",
+  "pages": 1,
+  "textChars": 1379,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-170-SCHEDULES-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-170",
+  "title": "SCHEDULES",
+  "pages": 1,
+  "textChars": 844,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-190-TRASH-ENCLOSURE-AND-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-190",
+  "title": "TRASH ENCLOSURE AND DETAILS",
+  "pages": 1,
+  "textChars": 7260,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-200-EXTERIOR-ELEVATIONS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-200",
+  "title": "EXTERIOR ELEVATIONS",
+  "pages": 1,
+  "textChars": 5700,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-201-EXTERIOR-ELEVATIONS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-201",
+  "title": "EXTERIOR ELEVATIONS",
+  "pages": 1,
+  "textChars": 5642,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-202-COLOR-EXTERIOR-ELEVATIONS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-202",
+  "title": "COLOR EXTERIOR ELEVATIONS",
+  "pages": 1,
+  "textChars": 2394,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-300-BUILDING-SECTIONS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-300",
+  "title": "BUILDING SECTIONS",
+  "pages": 1,
+  "textChars": 2708,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-310-EXTERIOR-WALL-SECTIONS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-310",
+  "title": "EXTERIOR WALL SECTIONS",
+  "pages": 1,
+  "textChars": 3342,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-311-EXTERIOR-WALL-SECTIONS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-311",
+  "title": "EXTERIOR WALL SECTIONS",
+  "pages": 1,
+  "textChars": 2922,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-401-BANK-EQUIPMENT-PLANS-&-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-401",
+  "title": "BANK EQUIPMENT PLANS & DETAILS",
+  "pages": 1,
+  "textChars": 4721,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-402-BANK-EQUIPMENT-CUT-SHEETS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-402",
+  "title": "BANK EQUIPMENT CUT SHEETS",
+  "pages": 1,
+  "textChars": 780,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-410-ENLARGED-RESTROOM-PLANS-&-ELEVATIONS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-410",
+  "title": "ENLARGED RESTROOM PLANS & ELEVATIONS",
+  "pages": 1,
+  "textChars": 4524,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-420-ENLARGED-WING-WALL-PLANS-&-ELEVATIONS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-420",
+  "title": "ENLARGED WING WALL PLANS & ELEVATIONS",
+  "pages": 1,
+  "textChars": 2433,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-430-SECTION-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-430",
+  "title": "SECTION DETAILS",
+  "pages": 1,
+  "textChars": 6488,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-440-PLAN-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-440",
+  "title": "PLAN DETAILS",
+  "pages": 1,
+  "textChars": 5320,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-450-ROOF-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-450",
+  "title": "ROOF DETAILS",
+  "pages": 1,
+  "textChars": 5141,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-600-DOOR-SCHEDULE-&-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-600",
+  "title": "DOOR SCHEDULE & DETAILS",
+  "pages": 1,
+  "textChars": 10007,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-601-HARDWARE-SCHEDULES-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-601",
+  "title": "HARDWARE SCHEDULES",
+  "pages": 1,
+  "textChars": 10018,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-610-WINDOW-ELEVATIONS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-610",
+  "title": "WINDOW ELEVATIONS",
+  "pages": 1,
+  "textChars": 2787,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-620-INTERIOR-PARTITION-SCHEDULE-&-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-620",
+  "title": "INTERIOR PARTITION SCHEDULE & DETAILS",
+  "pages": 1,
+  "textChars": 7708,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-630-CEILING-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-630",
+  "title": "CEILING DETAILS",
+  "pages": 1,
+  "textChars": 2786,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-700-TRANSACTION-BAR---ENLARGED-PLAN-&-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-700",
+  "title": "TRANSACTION BAR   ENLARGED PLAN & DETAILS",
+  "pages": 1,
+  "textChars": 4967,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-701-BACK-COUNTER---ENLARGED-PLAN-&-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-701",
+  "title": "BACK COUNTER   ENLARGED PLAN & DETAILS",
+  "pages": 1,
+  "textChars": 5496,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-702-LIBRARY---ENLARGED-PLAN-&-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-702",
+  "title": "LIBRARY   ENLARGED PLAN & DETAILS",
+  "pages": 1,
+  "textChars": 3285,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-703-SERVICE-COUNTER---ENLARGED-PLAN-&-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-703",
+  "title": "SERVICE COUNTER   ENLARGED PLAN & DETAILS",
+  "pages": 1,
+  "textChars": 4749,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-704-TECH-WALL-&-LOUNGE-BOOTH---ENLARGED-PLAN-&-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-704",
+  "title": "TECH WALL & LOUNGE BOOTH   ENLARGED PLAN & DETAILS",
+  "pages": 1,
+  "textChars": 4125,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-705-EMPLOYEE-LOUNGE---ENLARGED-PLAN-&-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-705",
+  "title": "EMPLOYEE LOUNGE   ENLARGED PLAN & DETAILS",
+  "pages": 1,
+  "textChars": 4889,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-706-BOOTH---ENLARGED-PLAN-&-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-706",
+  "title": "BOOTH   ENLARGED PLAN & DETAILS",
+  "pages": 1,
+  "textChars": 3683,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-707-WORK-ROOM---ENLARGED-PLAN-&-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-707",
+  "title": "WORK ROOM   ENLARGED PLAN & DETAILS",
+  "pages": 1,
+  "textChars": 5978,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/A-708-CHECK-DESK---ENLARGED-PLAN-&-DETAILS-Rev.0.pdf",
+  "discipline": "Architectural",
+  "sheet": "A-708",
+  "title": "CHECK DESK   ENLARGED PLAN & DETAILS",
+  "pages": 1,
+  "textChars": 2458,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Architectural/ARCHITECTURAL A.110-A7.08.pdf",
+  "discipline": "Architectural",
+  "sheet": null,
+  "title": "ARCHITECTURAL A.110 A7.08.pdf",
+  "pages": 36,
+  "textChars": 169807,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-0.0-COVER-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-0.0",
+  "title": "COVER",
+  "pages": 1,
+  "textChars": 6358,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-0.1-GENERAL-NOTES-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-0.1",
+  "title": "GENERAL NOTES",
+  "pages": 1,
+  "textChars": 26343,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-1.0-DEMOLITION-PLAN-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-1.0",
+  "title": "DEMOLITION PLAN",
+  "pages": 1,
+  "textChars": 8660,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-2.0-ESPC---PHASE-1-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-2.0",
+  "title": "ESPC   PHASE 1",
+  "pages": 1,
+  "textChars": 7662,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-2.1-ESPC---PHASE-2-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-2.1",
+  "title": "ESPC   PHASE 2",
+  "pages": 1,
+  "textChars": 8222,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-2.2-ESPC---PHASE-3-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-2.2",
+  "title": "ESPC   PHASE 3",
+  "pages": 1,
+  "textChars": 7732,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-2.3-ESPC-NOTES---1-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-2.3",
+  "title": "ESPC NOTES   1",
+  "pages": 1,
+  "textChars": 45862,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-2.4-ESPC-NOTES---2-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-2.4",
+  "title": "ESPC NOTES   2",
+  "pages": 1,
+  "textChars": 21595,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-2.5-ESPC-DETAILS---1-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-2.5",
+  "title": "ESPC DETAILS   1",
+  "pages": 1,
+  "textChars": 8083,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-2.6-ESPC-DETAILS---2-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-2.6",
+  "title": "ESPC DETAILS   2",
+  "pages": 1,
+  "textChars": 3381,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-3.0-SITE-PLAN-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-3.0",
+  "title": "SITE PLAN",
+  "pages": 1,
+  "textChars": 6915,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-4.0-GRADING-PLAN-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-4.0",
+  "title": "GRADING PLAN",
+  "pages": 1,
+  "textChars": 7739,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-4.1-STORM-PROFILES-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-4.1",
+  "title": "STORM PROFILES",
+  "pages": 1,
+  "textChars": 3077,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-4.2-INFILTRATION-BASIN-DETAIL-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-4.2",
+  "title": "INFILTRATION BASIN DETAIL",
+  "pages": 1,
+  "textChars": 2847,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-5.0-UTILITY-PLAN-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-5.0",
+  "title": "UTILITY PLAN",
+  "pages": 1,
+  "textChars": 8010,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-5.1-SANITARY-PROFILES-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-5.1",
+  "title": "SANITARY PROFILES",
+  "pages": 1,
+  "textChars": 2826,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-6.0-CONSTRUCTION-DETAILS---1-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-6.0",
+  "title": "CONSTRUCTION DETAILS   1",
+  "pages": 1,
+  "textChars": 7075,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-6.1-CONSTRUCTION-DETAILS---2-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-6.1",
+  "title": "CONSTRUCTION DETAILS   2",
+  "pages": 1,
+  "textChars": 1506,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-6.2-CONSTRUCTION-DETAILS---3-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-6.2",
+  "title": "CONSTRUCTION DETAILS   3",
+  "pages": 1,
+  "textChars": 1451,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/C-6.3-CONSTRUCTION-DETAILS---4-Rev.0.pdf",
+  "discipline": "Civil",
+  "sheet": "C-6.3",
+  "title": "CONSTRUCTION DETAILS   4",
+  "pages": 1,
+  "textChars": 1472,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Civil/CIVIL C.00-C6.3.pdf",
+  "discipline": "Civil",
+  "sheet": null,
+  "title": "CIVIL C.00 C6.3.pdf",
+  "pages": 20,
+  "textChars": 186816,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-001-ELECTRICAL-LEGEND-AND-ABBREVIATION-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-001",
+  "title": "ELECTRICAL LEGEND AND ABBREVIATION",
+  "pages": 1,
+  "textChars": 11573,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-002-ELECTRICAL-GENERAL-NOTES-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-002",
+  "title": "ELECTRICAL GENERAL NOTES",
+  "pages": 1,
+  "textChars": 20628,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-003-ELECTRICAL-SPECIFICATIONS-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-003",
+  "title": "ELECTRICAL SPECIFICATIONS",
+  "pages": 1,
+  "textChars": 31295,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-004-COMCHECK-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-004",
+  "title": "COMCHECK",
+  "pages": 1,
+  "textChars": 785,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-010-ELECTRICAL-SITE-PLAN-AND-REMOTE-DRIVE-THRU-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-010",
+  "title": "ELECTRICAL SITE PLAN AND REMOTE DRIVE THRU",
+  "pages": 1,
+  "textChars": 4589,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-011-ELECTRICAL-PHOTOMETRIC-SITE-PLAN-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-011",
+  "title": "ELECTRICAL PHOTOMETRIC SITE PLAN",
+  "pages": 1,
+  "textChars": 7654,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-012-ELECTRICAL-SITE-DETAILS-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-012",
+  "title": "ELECTRICAL SITE DETAILS",
+  "pages": 1,
+  "textChars": 4448,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-100-ELECTRICAL-POWER-&-AUXILIARY-PLAN-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-100",
+  "title": "ELECTRICAL POWER & AUXILIARY PLAN",
+  "pages": 1,
+  "textChars": 8972,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-101-ELECTRICAL-POWER-ROOF-PLAN-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-101",
+  "title": "ELECTRICAL POWER ROOF PLAN",
+  "pages": 1,
+  "textChars": 3349,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-130-ELECTRICAL-LIGHTING-PLAN-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-130",
+  "title": "ELECTRICAL LIGHTING PLAN",
+  "pages": 1,
+  "textChars": 7260,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-150-ELECTRICAL-SECURITY-PLAN-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-150",
+  "title": "ELECTRICAL SECURITY PLAN",
+  "pages": 1,
+  "textChars": 6257,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-160-ELECTRICAL-FIRE-ALARM-PLAN-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-160",
+  "title": "ELECTRICAL FIRE ALARM PLAN",
+  "pages": 1,
+  "textChars": 2821,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-500-ELECTRICAL-DETAILS-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-500",
+  "title": "ELECTRICAL DETAILS",
+  "pages": 1,
+  "textChars": 7127,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-600-LUMINAIRE-AND-SENSOR-SCHEDULE-AND-DETAILS-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-600",
+  "title": "LUMINAIRE AND SENSOR SCHEDULE AND DETAILS",
+  "pages": 1,
+  "textChars": 9759,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-601-EXTERIOR-LIGHTING-CUTSHEETS-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-601",
+  "title": "EXTERIOR LIGHTING CUTSHEETS",
+  "pages": 1,
+  "textChars": 804,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-602-EXTERIOR-LIGHTING-CUTSHEETS-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-602",
+  "title": "EXTERIOR LIGHTING CUTSHEETS",
+  "pages": 1,
+  "textChars": 804,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-603-EXTERIOR-LIGHTING-CUTSHEETS-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-603",
+  "title": "EXTERIOR LIGHTING CUTSHEETS",
+  "pages": 1,
+  "textChars": 804,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-610-ELECTRICAL-PANEL-SCHEDULES-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-610",
+  "title": "ELECTRICAL PANEL SCHEDULES",
+  "pages": 1,
+  "textChars": 2951,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-700-ELECTRICAL-DEVICE-PLAN-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-700",
+  "title": "ELECTRICAL DEVICE PLAN",
+  "pages": 1,
+  "textChars": 1048,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-701-ELECTRICAL-ELEVATIONS-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-701",
+  "title": "ELECTRICAL ELEVATIONS",
+  "pages": 1,
+  "textChars": 1888,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-702-ELECTRICAL-ELEVATIONS-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-702",
+  "title": "ELECTRICAL ELEVATIONS",
+  "pages": 1,
+  "textChars": 4374,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-703-ELECTRICAL-ELEVATIONS-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-703",
+  "title": "ELECTRICAL ELEVATIONS",
+  "pages": 1,
+  "textChars": 3330,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-704-ELECTRICAL-ELEVATIONS-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-704",
+  "title": "ELECTRICAL ELEVATIONS",
+  "pages": 1,
+  "textChars": 1585,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/E-800-ELECTRICAL-RISER-DIAGRAM-Rev.0.pdf",
+  "discipline": "Electrical",
+  "sheet": "E-800",
+  "title": "ELECTRICAL RISER DIAGRAM",
+  "pages": 1,
+  "textChars": 6405,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Electrical/ELECTRICAL E.001-E.8.00.pdf",
+  "discipline": "Electrical",
+  "sheet": null,
+  "title": "ELECTRICAL E.001 E.8.00.pdf",
+  "pages": 48,
+  "textChars": 301020,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/General/G-000-COVER-SHEET-Rev.0.pdf",
+  "discipline": "General",
+  "sheet": "G-000",
+  "title": "COVER SHEET",
+  "pages": 1,
+  "textChars": 12101,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/General/G-001-LIFE-SAFETY-PLAN-Rev.0.pdf",
+  "discipline": "General",
+  "sheet": "G-001",
+  "title": "LIFE SAFETY PLAN",
+  "pages": 1,
+  "textChars": 5057,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/General/G-002-ACCESSIBILITY-NOTES-Rev.0.pdf",
+  "discipline": "General",
+  "sheet": "G-002",
+  "title": "ACCESSIBILITY NOTES",
+  "pages": 1,
+  "textChars": 14188,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/General/G-003-COMCHECK-Rev.0.pdf",
+  "discipline": "General",
+  "sheet": "G-003",
+  "title": "COMCHECK",
+  "pages": 1,
+  "textChars": 1124,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/General/GENERAL G.000-G.003.pdf",
+  "discipline": "General",
+  "sheet": null,
+  "title": "GENERAL G.000 G.003.pdf",
+  "pages": 4,
+  "textChars": 32470,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/GeoTechnical/_70 - 49265099 Terracon Geotechnical Engineering Report - Fifth Third Bank Watson.pdf",
+  "discipline": "GeoTechnical",
+  "sheet": null,
+  "title": "_70   49265099 Terracon Geotechnical Engineering Report   Fifth Third Bank Watson.pdf",
+  "pages": 63,
+  "textChars": 100814,
+  "sizeIn": [
+   8.5,
+   11.0
+  ]
+ },
+ {
+  "file": "source/drawings/GeoTechnical/_71 - Fifth Third Watson_boring locations.pdf",
+  "discipline": "GeoTechnical",
+  "sheet": null,
+  "title": "_71   Fifth Third Watson_boring locations.pdf",
+  "pages": 1,
+  "textChars": 2887,
+  "sizeIn": [
+   11.0,
+   8.5
+  ]
+ },
+ {
+  "file": "source/drawings/Landscape/L-1.0-LANDSCAPE-PLAN-Rev.0.pdf",
+  "discipline": "Landscape",
+  "sheet": "L-1.0",
+  "title": "LANDSCAPE PLAN",
+  "pages": 1,
+  "textChars": 5581,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Landscape/L-1.1-LANDSCAPE-DETAILS-Rev.0.pdf",
+  "discipline": "Landscape",
+  "sheet": "L-1.1",
+  "title": "LANDSCAPE DETAILS",
+  "pages": 1,
+  "textChars": 13750,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Landscape/LANDSCAPE L.01-L.02.pdf",
+  "discipline": "Landscape",
+  "sheet": null,
+  "title": "LANDSCAPE L.01 L.02.pdf",
+  "pages": 2,
+  "textChars": 19331,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Mechanical/M-001-MECHANICAL-NOTES-AND-SPECIFICATIONS-Rev.0.pdf",
+  "discipline": "Mechanical",
+  "sheet": "M-001",
+  "title": "MECHANICAL NOTES AND SPECIFICATIONS",
+  "pages": 1,
+  "textChars": 21367,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Mechanical/M-002-MECHANICAL-NOTES-AND-LEGEND-Rev.0.pdf",
+  "discipline": "Mechanical",
+  "sheet": "M-002",
+  "title": "MECHANICAL NOTES AND LEGEND",
+  "pages": 1,
+  "textChars": 21634,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Mechanical/M-101-MECHANICAL-SCHEDULES-Rev.0.pdf",
+  "discipline": "Mechanical",
+  "sheet": "M-101",
+  "title": "MECHANICAL SCHEDULES",
+  "pages": 1,
+  "textChars": 16141,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Mechanical/M-102-MECHANICAL-VENTILATION-SCHEDULES-Rev.0.pdf",
+  "discipline": "Mechanical",
+  "sheet": "M-102",
+  "title": "MECHANICAL VENTILATION SCHEDULES",
+  "pages": 1,
+  "textChars": 889,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Mechanical/M-301-MECHANICAL-PROPOSED-CEILING-PLAN-Rev.0.pdf",
+  "discipline": "Mechanical",
+  "sheet": "M-301",
+  "title": "MECHANICAL PROPOSED CEILING PLAN",
+  "pages": 1,
+  "textChars": 3550,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Mechanical/M-302-MECHANICAL-PROPOSED-ROOF-PLAN-Rev.0.pdf",
+  "discipline": "Mechanical",
+  "sheet": "M-302",
+  "title": "MECHANICAL PROPOSED ROOF PLAN",
+  "pages": 1,
+  "textChars": 2577,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Mechanical/M-401-MECHANIAL-ISOMETRIC-PLAN-Rev.0.pdf",
+  "discipline": "Mechanical",
+  "sheet": "M-401",
+  "title": "MECHANIAL ISOMETRIC PLAN",
+  "pages": 1,
+  "textChars": 829,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Mechanical/M-402-MECHANICAL-DUCT-SECTION-VIEWS-Rev.0.pdf",
+  "discipline": "Mechanical",
+  "sheet": "M-402",
+  "title": "MECHANICAL DUCT SECTION VIEWS",
+  "pages": 1,
+  "textChars": 1012,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Mechanical/M-501-MECHANICAL-DETAILS-Rev.0.pdf",
+  "discipline": "Mechanical",
+  "sheet": "M-501",
+  "title": "MECHANICAL DETAILS",
+  "pages": 1,
+  "textChars": 5711,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Mechanical/M-502-MECHANICAL-DETAILS-AND-CONTROLS-Rev.0.pdf",
+  "discipline": "Mechanical",
+  "sheet": "M-502",
+  "title": "MECHANICAL DETAILS AND CONTROLS",
+  "pages": 1,
+  "textChars": 5760,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Mechanical/M-503-MECHANICAL-CONTROLS-DETAILS-Rev.0.pdf",
+  "discipline": "Mechanical",
+  "sheet": "M-503",
+  "title": "MECHANICAL CONTROLS DETAILS",
+  "pages": 1,
+  "textChars": 11364,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Mechanical/MECHANICAL M.001.M.503.pdf",
+  "discipline": "Mechanical",
+  "sheet": null,
+  "title": "MECHANICAL M.001.M.503.pdf",
+  "pages": 11,
+  "textChars": 90834,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Plumbing/P-001-PLUMBING-SPECIFICATIONS-AND-NOTES-Rev.0.pdf",
+  "discipline": "Plumbing",
+  "sheet": "P-001",
+  "title": "PLUMBING SPECIFICATIONS AND NOTES",
+  "pages": 1,
+  "textChars": 16591,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Plumbing/P-101-PLUMBING-TABLES-AND-SCHEDULES-Rev.0.pdf",
+  "discipline": "Plumbing",
+  "sheet": "P-101",
+  "title": "PLUMBING TABLES AND SCHEDULES",
+  "pages": 1,
+  "textChars": 14336,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Plumbing/P-301-PLUMBING-SANITARY-FOUNDATION-PLAN-Rev.0.pdf",
+  "discipline": "Plumbing",
+  "sheet": "P-301",
+  "title": "PLUMBING SANITARY FOUNDATION PLAN",
+  "pages": 1,
+  "textChars": 4302,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Plumbing/P-302-PLUMBING-DOMESTIC-FLOOR-PLAN-Rev.0.pdf",
+  "discipline": "Plumbing",
+  "sheet": "P-302",
+  "title": "PLUMBING DOMESTIC FLOOR PLAN",
+  "pages": 1,
+  "textChars": 4460,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Plumbing/P-303-PLUMBING-PROPOSED-ROOF-PLAN-Rev.0.pdf",
+  "discipline": "Plumbing",
+  "sheet": "P-303",
+  "title": "PLUMBING PROPOSED ROOF PLAN",
+  "pages": 1,
+  "textChars": 3719,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Plumbing/P-401-PLUMBING-BUILDING-ISOMETRIC-Rev.0.pdf",
+  "discipline": "Plumbing",
+  "sheet": "P-401",
+  "title": "PLUMBING BUILDING ISOMETRIC",
+  "pages": 1,
+  "textChars": 830,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Plumbing/P-402-PLUMBING-ISOMETRIC-RISER-DIAGRAM-Rev.0.pdf",
+  "discipline": "Plumbing",
+  "sheet": "P-402",
+  "title": "PLUMBING ISOMETRIC RISER DIAGRAM",
+  "pages": 1,
+  "textChars": 1126,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Plumbing/P-403-PLUMBING-NATURAL-GAS-ISO-PLAN-Rev.0.pdf",
+  "discipline": "Plumbing",
+  "sheet": "P-403",
+  "title": "PLUMBING NATURAL GAS ISO PLAN",
+  "pages": 1,
+  "textChars": 4381,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Plumbing/P-501-PLUMBING-DETAILS-Rev.0.pdf",
+  "discipline": "Plumbing",
+  "sheet": "P-501",
+  "title": "PLUMBING DETAILS",
+  "pages": 1,
+  "textChars": 4089,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Plumbing/PLUMBING P.001-P.501.pdf",
+  "discipline": "Plumbing",
+  "sheet": null,
+  "title": "PLUMBING P.001 P.501.pdf",
+  "pages": 9,
+  "textChars": 53834,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-001-General-Notes-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-001",
+  "title": "General Notes",
+  "pages": 1,
+  "textChars": 24540,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-002-General-Notes-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-002",
+  "title": "General Notes",
+  "pages": 1,
+  "textChars": 11840,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-003-Special-Inspections-Schedules-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-003",
+  "title": "Special Inspections Schedules",
+  "pages": 1,
+  "textChars": 15836,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-201-Structural-Plan---Foundation-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-201",
+  "title": "Structural Plan   Foundation",
+  "pages": 1,
+  "textChars": 8935,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-203-Structural-Plan---Roof-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-203",
+  "title": "Structural Plan   Roof",
+  "pages": 1,
+  "textChars": 9353,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-301-Elevations---Steel-Frames-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-301",
+  "title": "Elevations   Steel Frames",
+  "pages": 1,
+  "textChars": 7042,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-410-Exterior-Axonometrics-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-410",
+  "title": "Exterior Axonometrics",
+  "pages": 1,
+  "textChars": 1858,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-411-Exterior-Axonometrics-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-411",
+  "title": "Exterior Axonometrics",
+  "pages": 1,
+  "textChars": 1858,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-600-Wall-Sections---Foundation-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-600",
+  "title": "Wall Sections   Foundation",
+  "pages": 1,
+  "textChars": 4428,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-601-Wall-Sections-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-601",
+  "title": "Wall Sections",
+  "pages": 1,
+  "textChars": 4403,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-602-Wall-Sections-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-602",
+  "title": "Wall Sections",
+  "pages": 1,
+  "textChars": 4046,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-603-Wall-Sections-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-603",
+  "title": "Wall Sections",
+  "pages": 1,
+  "textChars": 4051,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-680-Typical-Details-(Foundation)-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-680",
+  "title": "Typical Details (Foundation)",
+  "pages": 1,
+  "textChars": 4880,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-681-Typical-Details-(Steel)-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-681",
+  "title": "Typical Details (Steel)",
+  "pages": 1,
+  "textChars": 5440,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-682-Typical-Details-(Steel)-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-682",
+  "title": "Typical Details (Steel)",
+  "pages": 1,
+  "textChars": 4330,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-683-Enlarged-Steel-Details-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-683",
+  "title": "Enlarged Steel Details",
+  "pages": 1,
+  "textChars": 7054,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/S-685-Typical-Details-(Misc)-Rev.0.pdf",
+  "discipline": "Structural",
+  "sheet": "S-685",
+  "title": "Typical Details (Misc)",
+  "pages": 1,
+  "textChars": 5846,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Structural/STRUCTURAL S.001-S.685.pdf",
+  "discipline": "Structural",
+  "sheet": null,
+  "title": "STRUCTURAL S.001 S.685.pdf",
+  "pages": 17,
+  "textChars": 125740,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Survey/1-OF-2-ALTA-NSPS-LAND-TITLE-SURVEY-Rev.0.pdf",
+  "discipline": "Survey",
+  "sheet": null,
+  "title": "1 OF 2 ALTA NSPS LAND TITLE SURVEY",
+  "pages": 1,
+  "textChars": 15054,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Survey/2-OF-2-ALTA-NSPS-LAND-TITLE-SURVEY-Rev.0.pdf",
+  "discipline": "Survey",
+  "sheet": null,
+  "title": "2 OF 2 ALTA NSPS LAND TITLE SURVEY",
+  "pages": 1,
+  "textChars": 9866,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ },
+ {
+  "file": "source/drawings/Survey/SURVEY-LAND &TITLE 1-2.pdf",
+  "discipline": "Survey",
+  "sheet": null,
+  "title": "SURVEY LAND &TITLE 1 2.pdf",
+  "pages": 2,
+  "textChars": 24920,
+  "sizeIn": [
+   36.0,
+   24.0
+  ]
+ }
+]

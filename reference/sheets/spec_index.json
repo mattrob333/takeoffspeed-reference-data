@@ -1,0 +1,351 @@
+{
+ "pages": 484,
+ "toc": [],
+ "sections": [
+  {
+   "page": 10,
+   "section": "011000",
+   "title": "SUMMARY"
+  },
+  {
+   "page": 13,
+   "section": "012200",
+   "title": "UNIT PRICES"
+  },
+  {
+   "page": 18,
+   "section": "013300",
+   "title": "SUBMITTAL PROCEDURES"
+  },
+  {
+   "page": 26,
+   "section": "017419",
+   "title": "CONSTRUCTION WASTE MANAGEMENT AND DISPOSAL"
+  },
+  {
+   "page": 38,
+   "section": "019113",
+   "title": "GENERAL COMMISSIONING REQUIREMENTS"
+  },
+  {
+   "page": 45,
+   "section": "032000",
+   "title": "CONCRETE REINFORCEMENT"
+  },
+  {
+   "page": 49,
+   "section": "033000",
+   "title": "CAST-IN-PLACE CONCRETE"
+  },
+  {
+   "page": 67,
+   "section": "042113",
+   "title": "BRICK VENEER MASONRY"
+  },
+  {
+   "page": 78,
+   "section": "047200",
+   "title": "ARCHITECTURAL STONE VENEER"
+  },
+  {
+   "page": 84,
+   "section": "051200",
+   "title": "STRUCTURAL STEEL FRAMING"
+  },
+  {
+   "page": 96,
+   "section": "052100",
+   "title": "STEEL JOIST FRAMING"
+  },
+  {
+   "page": 100,
+   "section": "053000",
+   "title": "STEEL ROOF DECKING"
+  },
+  {
+   "page": 104,
+   "section": "054000",
+   "title": "COLD-FORMED METAL FRAMING"
+  },
+  {
+   "page": 113,
+   "section": "055000",
+   "title": "METAL FABRICATIONS"
+  },
+  {
+   "page": 122,
+   "section": "061053",
+   "title": "MISCELLANEOUS ROUGH CARPENTRY"
+  },
+  {
+   "page": 128,
+   "section": "061600",
+   "title": "SHEATHING"
+  },
+  {
+   "page": 134,
+   "section": "064116",
+   "title": "PLASTIC-LAMINATE-FACED ARCHITECTURAL CABINETS"
+  },
+  {
+   "page": 142,
+   "section": "066400",
+   "title": "PLASTIC PANELING"
+  },
+  {
+   "page": 146,
+   "section": "072100",
+   "title": "THERMAL INSULATION"
+  },
+  {
+   "page": 159,
+   "section": "072500",
+   "title": "WEATHER BARRIERS"
+  },
+  {
+   "page": 162,
+   "section": "072616",
+   "title": "BELOW-GRADE VAPOR RETARDERS"
+  },
+  {
+   "page": 164,
+   "section": "072726",
+   "title": "FLUID-APPLIED MEMBRANE AIR BARRIERS"
+  },
+  {
+   "page": 171,
+   "section": "074213",
+   "title": "METAL COMPOSITE MATERIAL WALL PANELS"
+  },
+  {
+   "page": 188,
+   "section": "076200",
+   "title": "SHEET METAL FLASHING AND TRIM"
+  },
+  {
+   "page": 197,
+   "section": "077200",
+   "title": "ROOF ACCESSORIES"
+  },
+  {
+   "page": 203,
+   "section": "079200",
+   "title": "JOINT SEALANTS"
+  },
+  {
+   "page": 212,
+   "section": "081113",
+   "title": "HOLLOW METAL DOORS AND FRAMES"
+  },
+  {
+   "page": 221,
+   "section": "081416",
+   "title": "FLUSH WOOD DOORS"
+  },
+  {
+   "page": 226,
+   "section": "083113",
+   "title": "ACCESS DOORS AND FRAMES"
+  },
+  {
+   "page": 229,
+   "section": "084113",
+   "title": "ALUMINUM-FRAMED ENTRANCES AND STOREFRONTS"
+  },
+  {
+   "page": 240,
+   "section": "084413",
+   "title": "GLAZED ALUMINUM CURTAIN WALLS"
+  },
+  {
+   "page": 248,
+   "section": "087100",
+   "title": "DOOR HARDWARE"
+  },
+  {
+   "page": 258,
+   "section": "088000",
+   "title": "GLAZING"
+  },
+  {
+   "page": 267,
+   "section": "092216",
+   "title": "NON-STRUCTURAL METAL FRAMING"
+  },
+  {
+   "page": 273,
+   "section": "092900",
+   "title": "GYPSUM BOARD"
+  },
+  {
+   "page": 282,
+   "section": "093000",
+   "title": "TILING"
+  },
+  {
+   "page": 289,
+   "section": "095113",
+   "title": "ACOUSTICAL PANEL CEILINGS"
+  },
+  {
+   "page": 296,
+   "section": "095426",
+   "title": "LINEAR WOOD CEILINGS"
+  },
+  {
+   "page": 304,
+   "section": "096513",
+   "title": "RESILIENT BASE AND ACCESSORIES"
+  },
+  {
+   "page": 309,
+   "section": "096519",
+   "title": "RESILIENT TILE FLOORING"
+  },
+  {
+   "page": 315,
+   "section": "096813",
+   "title": "TILE CARPETING"
+  },
+  {
+   "page": 320,
+   "section": "099100",
+   "title": "PAINTING"
+  },
+  {
+   "page": 328,
+   "section": "099110",
+   "title": "PAINT SCHEDULE"
+  },
+  {
+   "page": 330,
+   "section": "099653",
+   "title": "ELASTOMERIC COATINGS"
+  },
+  {
+   "page": 335,
+   "section": "102800",
+   "title": "TOILET ACCESSORIES"
+  },
+  {
+   "page": 339,
+   "section": "104413",
+   "title": "FIRE EXTINGUISHER CABINETS"
+  },
+  {
+   "page": 344,
+   "section": "104416",
+   "title": "FIRE EXTINGUISHERS"
+  },
+  {
+   "page": 347,
+   "section": "122413",
+   "title": "ROLLER WINDOW SHADES"
+  },
+  {
+   "page": 353,
+   "section": "123623",
+   "title": "PLASTIC-LAMINATE-CLAD COUNTERTOPS"
+  },
+  {
+   "page": 358,
+   "section": "123669",
+   "title": "QUARTZ AGGLOMERATE COUNTERTOPS"
+  },
+  {
+   "page": 363,
+   "section": "124813",
+   "title": "ENTRANCE FLOOR MATS AND FRAMES"
+  },
+  {
+   "page": 367,
+   "section": "220500",
+   "title": "WARNER ROBINS, GA"
+  },
+  {
+   "page": 382,
+   "section": "220700",
+   "title": "WARNER ROBINS, GA"
+  },
+  {
+   "page": 384,
+   "section": "221000",
+   "title": "WARNER ROBINS, GA"
+  },
+  {
+   "page": 391,
+   "section": "224000",
+   "title": "WARNER ROBINS, GA"
+  },
+  {
+   "page": 395,
+   "section": "230500",
+   "title": "WARNER ROBINS, GA"
+  },
+  {
+   "page": 410,
+   "section": "230593",
+   "title": "WARNER ROBINS, GA"
+  },
+  {
+   "page": 414,
+   "section": "230713",
+   "title": "WARNER ROBINS, GA"
+  },
+  {
+   "page": 417,
+   "section": "232300",
+   "title": "WARNER ROBINS, GA"
+  },
+  {
+   "page": 423,
+   "section": "233100",
+   "title": "WARNER ROBBINS, GA"
+  },
+  {
+   "page": 429,
+   "section": "237400",
+   "title": "WARNER ROBINS, GA"
+  },
+  {
+   "page": 434,
+   "section": "233713",
+   "title": "WARNER ROBINS, GA"
+  },
+  {
+   "page": 438,
+   "section": "263000",
+   "title": "LIGHTING"
+  },
+  {
+   "page": 443,
+   "section": "260100",
+   "title": "ELECTRICAL GENERAL"
+  },
+  {
+   "page": 448,
+   "section": "260923",
+   "title": "LIGHTING CONTROL DEVICES"
+  },
+  {
+   "page": 452,
+   "section": "261000",
+   "title": "ELECTRICAL BASIC MATERIALS & METHODS"
+  },
+  {
+   "page": 465,
+   "section": "287210",
+   "title": "LIFE SAFETY SYSTEMS"
+  },
+  {
+   "page": 478,
+   "section": "287250",
+   "title": "SECURITY SYSTEM"
+  },
+  {
+   "page": 481,
+   "section": "313116",
+   "title": "TERMITE CONTROL"
+  }
+ ]
+}

@@ -1,0 +1,5481 @@
+[
+ {
+  "page": 1,
+  "sheet": "G-000",
+  "title": "COVER SHEET",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "Cover sheet G-000: drawing index, symbols, general notes, Florida product approval table, owner/consultants. No takeoff legend. The only markup is a green highlight on the A-620 INTERIOR PARTITION SCHEDULE & DETAILS row in the sheet index and a red highlight box over the project address; neither is a measured item. | Cover sheet. There is no takeoff legend. The only markups are a red highlight box over the project address and a green highlight on sheet index row A-620 INTERIOR PARTITION SCHEDULE & DETAILS. Neither one carries a quantity."
+ },
+ {
+  "page": 2,
+  "sheet": "G-001",
+  "title": "LIFE SAFETY PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "6\"x4\" TACTILE SIGNAGE",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "6\"x9\" ADA MEN TOILET SIGNAGE",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "cyan/light blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "6\"x9\" ADA WOMAN TOILET SIGNAGE",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "brownish red/dusty rose",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at the bottom-left of the page, outside the sheet border, three rows with red dotted bullets at the left. Quantities are printed as 3.0, 1.0 and 1.0 EA. Read at 5x zoom, all digits clear. Plan check: 3 magenta circles on the plan (near the east exit, and two at the south entry), 1 cyan circle at the men's toilet door, 1 brown circle at the women's toilet door, so counts match the legend. | The legend is at the bottom-left corner of the page, below the floor plan. All 3 rows are clear and printed as 3.0 EA, 1.0 EA and 1.0 EA. The plan agrees with them: 3 magenta dots at the T.S. tags, 1 cyan dot and 1 brown dot at the restrooms."
+ },
+ {
+  "page": 3,
+  "sheet": "A-110",
+  "title": "FLOOR PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "4\"THK. CMU STEM WALL W/ GROUT CAVITY SOLID @ 1'4\"H",
+    "quantity": 157.4,
+    "unit": "FT",
+    "color": "mauve purple",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "KNOX BOX W/ TAMPER SWITCHMODEL: #3200R",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "periwinkle blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "MOOD MEDIA & MECHOSHADE CONTROLS",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "magenta pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DUAL CONTROL KEY BOX",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PLYWOOD @ 8'H",
+    "quantity": 32.5,
+    "unit": "FT",
+    "color": "olive khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1'9\"W ROOF ACCESS LADDER - 1/A312",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "slate blue / indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "REMOTE TELLER TERMINAL",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "orchid purple",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PL2 COUNTERTOP",
+    "quantity": 11,
+    "unit": "SQ FT",
+    "color": "olive khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "BACKSPLASH",
+    "quantity": 5.5,
+    "unit": "FT",
+    "color": "slate blue",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend at lower-left of page, 9 rows, all clearly readable at 3.2x. Row 2 is printed 'SWITCHMODEL' with no space between SWITCH and MODEL. The PLYWOOD and PL2 COUNTERTOP swatches are both olive/khaki (PLYWOOD swatch partially obscured by plan linework); ladder and backsplash swatches are both slate-blue shades. Quantities are the right-aligned blue numbers. | Legend at bottom-left of sheet A-110 (approx x 0-0.33, y 0.84-0.96). All 9 rows clearly legible at 5x zoom. 'SWITCHMODEL' printed as one word. PL2 COUNTERTOP is an area item (SQ FT); others are linear (FT) or counts (EA)."
+ },
+ {
+  "page": 4,
+  "sheet": "A-120",
+  "title": "DIMENSIONAL FLOOR PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "WALL A6B @ 12'6\"H",
+    "quantity": 28.4,
+    "unit": "FT",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WALL A3B @ 12'6\"H",
+    "quantity": 34.2,
+    "unit": "FT",
+    "color": "salmon red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WALL A6A @ 12'6\"H",
+    "quantity": 36.7,
+    "unit": "FT",
+    "color": "green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WALL A3A @ 12'6\"H",
+    "quantity": 49.9,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WALL D3C @ 12'6\"H 1 SIDE",
+    "quantity": 3.7,
+    "unit": "FT",
+    "color": "blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WALL D3A @ 12'6\"H 1 SIDE",
+    "quantity": 46,
+    "unit": "FT",
+    "color": "magenta pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EXT 8\" STUD WALL @ 12'9\"H",
+    "quantity": 89.7,
+    "unit": "FT",
+    "color": "brownish red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EXT 6\" STUD WALL @ 12'3\"H SHTNG 10'3\"H",
+    "quantity": 9.2,
+    "unit": "FT",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PARAPET WALL @ 7'2\"H A310",
+    "quantity": 5.9,
+    "unit": "FT",
+    "color": "olive khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EXT 8\" STUD WALL @ 15'9\"H",
+    "quantity": 41.5,
+    "unit": "FT",
+    "color": "slate blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EXT 8\" STUD WALL @ 4'H",
+    "quantity": 13,
+    "unit": "FT",
+    "color": "orchid purple",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EXT 8\" STUD WALL @ 15'9\"H NO GWB",
+    "quantity": 8.7,
+    "unit": "FT",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "6\" & 3-5/8\" METAL STUD @ 18'8\"H, BS 1/2\" SHTNG ONLY",
+    "quantity": 8.4,
+    "unit": "FT",
+    "color": "salmon red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "6\" METAL STUD WALL @ 4'4\" HT, BS GWB",
+    "quantity": 18.3,
+    "unit": "FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WALL A3A @ 3'9\"H (NO INS)",
+    "quantity": 7.7,
+    "unit": "FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend at lower-left of page, 15 rows, all clearly readable at 3.2x. Colors repeat across rows (teal rows 1 and 12; salmon rows 2 and 13; green rows 3, 14, 15 in slightly different shades). Item names transcribed exactly as printed including 'BS' and 'SHTNG'. No legend continues beyond the 15th row. | Legend at bottom-left of sheet A-120 (approx x 0-0.27, y 0.80-0.96). All 15 rows clearly legible at 5x zoom; all linear (FT) items. No uncertain digits."
+ },
+ {
+  "page": 5,
+  "sheet": "A-130",
+  "title": "REFLECTED CEILING PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "AC1 CEILING",
+    "quantity": 948.7,
+    "unit": "SQ FT",
+    "color": "teal (muted blue-green)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "5/8\" GWB CEILING O/ 3-5/8\" METAL STUD FRAMING (PT3)",
+    "quantity": 516.1,
+    "unit": "SQ FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EXPOSED STRUCTURE",
+    "quantity": 98.4,
+    "unit": "SQ FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SOFFIT @ 3'6\"H, GWB BS",
+    "quantity": 4.2,
+    "unit": "FT",
+    "color": "pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SOFFIT @ 6'6\"H, GWB @ 4'H",
+    "quantity": 2.7,
+    "unit": "FT",
+    "color": "light cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SOFFIT @ 3'6\"H, GWB @ 1'6\"H",
+    "quantity": 6.7,
+    "unit": "FT",
+    "color": "brownish red (rose brown)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SOFFIT @ 4'6\"H, GWB @ 3'H",
+    "quantity": 30.5,
+    "unit": "FT",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SOFFIT @ 5'9\"H, GWB @ 2'6\"H",
+    "quantity": 35.3,
+    "unit": "FT",
+    "color": "olive / khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3-5/8\" METAL STUD BRACING @ 48\" O.C @ 5'H",
+    "quantity": 27.1,
+    "unit": "FT",
+    "color": "slate blue / indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3-5/8\" METAL STUD BRACING @ 48\" O.C @ 8'H",
+    "quantity": 28.1,
+    "unit": "FT",
+    "color": "purple / orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SOFFIT @ 2'H",
+    "quantity": 28.1,
+    "unit": "FT",
+    "color": "teal (muted blue-green)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "ACM-3 ALUMINUM COMPOSITE METAL PANEL CANOPY - 10/A430",
+    "quantity": 358.7,
+    "unit": "SQ FT",
+    "color": "light cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EIFS SOFFIT 1/A310",
+    "quantity": 8.8,
+    "unit": "SQ FT",
+    "color": "brownish red (rose brown)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "AC2 CEILING",
+    "quantity": 244.8,
+    "unit": "SQ FT",
+    "color": "magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "MOTORIZED MECHOSHADE",
+    "quantity": 74,
+    "unit": "FT",
+    "color": "red (salmon red)",
+    "verified": "settled by third reader"
+   }
+  ],
+  "disputedCount": 2,
+  "notes": "Legend is a 15-row block at the lower-left of the sheet, just below the drawing and under the sheet's printed RCP legend. All values read clearly at 3.2x. Icons: area rows (AC1, GWB ceiling, EXPOSED STRUCTURE, ACM-3, EIFS, AC2) have a green polygon icon and are SQ FT; linear rows (MECHOSHADE, SOFFIT rows, STUD BRACING) have a blue line icon. MOTORIZED MECHOSHADE is a linear-icon row but is printed in SQ FT; transcribed as printed. Swatch colours are approximate; several rows share similar hues (e.g. SOFFIT @ 2'H teal matches AC1 CEILING; 6'6\"H soffit cyan matches ACM-3; 3'6\"H/1'6\"H brown matches EIFS). | Legend sits at the lower-left of the sheet, below the plan. All 15 rows read clearly in a 5x crop. Area items use 'SQ FT' and linear items use 'FT'. The 3-5/8\" bracing @ 8'H row and the SOFFIT @ 2'H row both read 28.1 FT; that is how they are printed, not a transcription mistake. | PlanSwift legend sits at the bottom-left of the page (sheet A-130, Reflected Ceiling Plan), below gridline 16, left of the 3/A-311 section marker; it has 15 rows total. The single disputed item resolves to one row: 'MOTORIZED MECHOSHADE' printed as 74.0 FT (linear unit, blue linear-takeoff icon, red swatch); Reader A's 'SQ FT' is a misread. The two disputed entries are the same row, so only one row exists for it. No legend row was missed by both readers. Sharp crop at /home/user/work/rec-5-1.png (zoom 5) confirms all digits and units; nothing is cut off or unreadable. The architect's 'LEGEND - RCP' symbol legend on the right side of the sheet is not a PlanSwift takeoff legend and was not transcribed."
+ },
+ {
+  "page": 6,
+  "sheet": "A-131",
+  "title": "ENLARGED REFLECTED CEILING PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "2\"x8\" BAFFLE SYSTEM - BAR-1",
+    "quantity": 370.8,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Only one legend row, at the bottom-left of the sheet, overlapping the A-131 detail titles (partly hiding the title text 'ENLARGED RCP @ TRANSACTION PENDANTS'). Confirmed with a 5x crop: quantity reads 370.8 FT, with a blue line-type icon and a yellow swatch. No other legend rows are visible anywhere on the page, including the lower-right region. | The legend is one row at the bottom-left, laid over the title strip of detail 4. It is clearly legible."
+ },
+ {
+  "page": 7,
+  "sheet": "A-140",
+  "title": "ROOF PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "TPO WALKWAY PAD MEMBRANE",
+    "quantity": 286.8,
+    "unit": "SQ FT",
+    "color": "blue (periwinkle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TAPERED POLYISOCYANURATE INSULATION ROOF CRICKET",
+    "quantity": 262.1,
+    "unit": "SQ FT",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "30\"x36\" ROOF ACCESS HATCH - 3/A450",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "cyan (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "FLASHING @ ROOF DRAIN",
+    "quantity": 11,
+    "unit": "EA",
+    "color": "brownish red (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "FLASHING @ VENT PIPE",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "green (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PARAPET WALL @ 2'7\"H",
+    "quantity": 38,
+    "unit": "FT",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PARAPET WALL @ 1'7\"H",
+    "quantity": 46,
+    "unit": "FT",
+    "color": "slate blue/indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PARAPET WALL @ 4'7\"H",
+    "quantity": 96.6,
+    "unit": "FT",
+    "color": "purple/orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "COPING 9/A450",
+    "quantity": 38.5,
+    "unit": "FT",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "COPING 6/A450",
+    "quantity": 148.1,
+    "unit": "FT",
+    "color": "red/coral",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "COPING 3/A430",
+    "quantity": 13.9,
+    "unit": "FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RT2 ROOFING",
+    "quantity": 285.4,
+    "unit": "SQ FT",
+    "color": "very light cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CANOPY EDGE 7/A430",
+    "quantity": 138.5,
+    "unit": "FT",
+    "color": "blue (periwinkle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "9/A430",
+    "quantity": 119.4,
+    "unit": "FT",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "8/A450 LAP ROOF 2', INCL WALL",
+    "quantity": 45.3,
+    "unit": "FT",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CURB - 1/A450",
+    "quantity": 39.9,
+    "unit": "FT",
+    "color": "slate blue/indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PARAPET LAP @ 2'1\"H - 4,6/A450",
+    "quantity": 43.3,
+    "unit": "FT",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PARAPET LAP @ 1'H - 4,6/A450",
+    "quantity": 56.5,
+    "unit": "FT",
+    "color": "red/coral",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PARAPET LAP @ 3'6\"H - 4,6/A450",
+    "quantity": 87.8,
+    "unit": "FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RT1 ROOFING",
+    "quantity": 1864.3,
+    "unit": "SQ FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits in the bottom-center/right of the sheet, left of the title block, over the plan border; 20 rows, fully visible. Verified at 4x crop. Row 14 is printed as just '9/A430' (no item prefix). Units: area rows print 'SQ FT', linear 'FT', counts 'EA'. | Legend sits lower-right of the drawing area (just left of the title block, overlapping the 'ROOF PLAN 1/4\" = 1'-0\"' drawing title and a faint project-north note). All 21 rows read clearly at 5x zoom. Swatch for RT2 ROOFING is very pale cyan, close to white."
+ },
+ {
+  "page": 8,
+  "sheet": "A-150",
+  "title": "FINISH PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "CON-1 FLOORING",
+    "quantity": 68.8,
+    "unit": "SQ FT",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CR1 FLOORING",
+    "quantity": 131.4,
+    "unit": "SQ FT",
+    "color": "blue (periwinkle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CR2 FLOORING",
+    "quantity": 435.7,
+    "unit": "SQ FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CR3 FLOORING",
+    "quantity": 27.1,
+    "unit": "SQ FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CR4 FLOORING",
+    "quantity": 82.4,
+    "unit": "SQ FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "FINISH",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "magenta/pink (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "FT1 FLOORING",
+    "quantity": 946.1,
+    "unit": "SQ FT",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "FTS-4 TRANSITION",
+    "quantity": 10,
+    "unit": "FT",
+    "color": "purple/orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "FTS1 TRANSITION",
+    "quantity": 51.6,
+    "unit": "FT",
+    "color": "dark gray",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "FTS2 TRANSITION",
+    "quantity": 29,
+    "unit": "FT",
+    "color": "red/coral",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "LVT1 FLOORING",
+    "quantity": 94,
+    "unit": "SQ FT",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "MAT-1 FLOORING",
+    "quantity": 6,
+    "unit": "SQ FT",
+    "color": "slate blue/indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "FTS3 TRANSITION",
+    "quantity": 12.2,
+    "unit": "FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WC1 @ 12'H",
+    "quantity": 10.1,
+    "unit": "FT",
+    "color": "brownish red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WB-1",
+    "quantity": 404.7,
+    "unit": "FT",
+    "color": "light green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PT1 PAINT @ 12'H",
+    "quantity": 62.6,
+    "unit": "FT",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PT1 PAINT @ 11'H",
+    "quantity": 15,
+    "unit": "FT",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PT1 PAINT @ 8'6\"H",
+    "quantity": 39.7,
+    "unit": "FT",
+    "color": "red/coral",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PT1 PAINT @ 6'6\"H",
+    "quantity": 4.9,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PT1 PAINT @ 10'H",
+    "quantity": 51.8,
+    "unit": "FT",
+    "color": "blue (periwinkle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PT1 PAINT @ 9'H",
+    "quantity": 117.1,
+    "unit": "FT",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PT1 PAINT @ 12'6\"H",
+    "quantity": 48,
+    "unit": "FT",
+    "color": "brownish red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PT7 @ 10'",
+    "quantity": 10.3,
+    "unit": "FT",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PT8 @ 10'",
+    "quantity": 7.4,
+    "unit": "FT",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WALL COVERING @ 10'H ABOVE PT7",
+    "quantity": 10.3,
+    "unit": "FT",
+    "color": "slate blue/indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PT4 @ 9'H",
+    "quantity": 5.3,
+    "unit": "FT",
+    "color": "purple/orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "FRP-1 @ 4'H",
+    "quantity": 4,
+    "unit": "FT",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PT4 @ 10'H",
+    "quantity": 10.6,
+    "unit": "FT",
+    "color": "slate blue/indigo",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at the far lower-left of the sheet, overlapping the detail drawings at the bottom; 28 rows, all legible. The rows for LVT1 FLOORING (94.0) and MAT-1 FLOORING (6.0) have faint background detail text behind the numbers but digits are clear. 'FINISH' is an EA count row (1.0, magenta circle). Names transcribed as printed (FTS-4 has a hyphen, FTS1/FTS2/FTS3 do not). | Legend sits at the far lower-left of the page (x 0-0.29, y 0.66-0.96), partly overlapping the threshold detail and FTS-4 detail text; the faint background text does not obscure any digits. All 29 rows read clearly at 5x zoom. Row 'FINISH' is a count item (1.0 EA, pink circle)."
+ },
+ {
+  "page": 9,
+  "sheet": "A-160",
+  "title": "FURNITURE & EQUIPMENT",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "AE02",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "dark slate blue / indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "AE03",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "AE04",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "orchid purple",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "AE06",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "brownish red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "AE07",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SS01",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TB01",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "salmon red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CH01",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CH11",
+    "quantity": 4,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CH02",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "periwinkle blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TB02",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PL02",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SS03",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "dusty brown-red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CH06",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CH10",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "olive khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CH03",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "dark slate blue / indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TB04A",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "orchid purple",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CH04",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WS01",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "salmon red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CH07",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "ST02?",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CH08",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "periwinkle blue",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at the lower-left of the sheet, 22 rows, AE02 at top to CH08 at bottom. Verified all digits on the 3.2x crop (AE07 through CH08) and the full-page view (AE02 through AE06). All quantities print as X.0 EA. 'ST02?' is printed with the question mark. The legend box ends after CH08; no rows are cut off. Swatch colours repeat for some rows (for example the two teals, the two yellows, the two salmon reds). Plan markup circles are over the A-160 furniture and equipment floor plan. | The legend is at the lower left of the sheet, outside the title border (about x 0-0.26, y 0.53-0.97). It has 22 rows and every row reads cleanly at 3x zoom. All counts are EA. The 'ST02?' row really has a question mark in its name. The legend box ends just after CH08, near the bottom edge of the page, so it looks complete, but rows below CH08 cut off by the page edge cannot be fully ruled out. Several colours repeat across different items: slate blue is AE02/CH03, olive is AE03/CH10, purple is AE04/TB04A, brown-red is AE06/SS03, green is AE07/CH06, teal is SS01/CH04, red is TB01/WS01, bright green is CH01/CH07, yellow is CH11/ST02?, and blue is CH02/CH08."
+ },
+ {
+  "page": 10,
+  "sheet": "A-170",
+  "title": "SCHEDULES",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "A-170 is a schedules sheet (Appliance, Bank Equipment, Furniture and Finishes schedules). There is no takeoff legend with swatches and measured quantities. The only markup is green highlighting on schedule rows: Appliance AE-01, AE-02, AE-03, AE-04, AE-06, AE-07; Furniture MS-03 (planter); Finishes ACT-1 and ACT-1 GRID (acoustical ceiling tile and grid), PT-2 and PT-5 (paint). No quantities are printed. I checked the lower-left and lower-right crops and found nothing else. | This is the A-170 schedules sheet. It has no takeoff legend and no measured quantities. The only markup is green highlighting on some schedule rows: appliance schedule AE-01, AE-02, AE-03, AE-04, AE-06 and AE-07; furniture schedule MS-03 PLANTER (The Chandler Company, 48\"L x 12\"W x 30\"H); finishes ACT-1 Acoustical Ceiling Tile and ACT-1 Grid (USG); paint PT-2 (Sherwin Williams SW9166 Drift of Mist, semi-gloss) and PT-5 (Benjamin Moore 2037-30 Kelly Green, semi-gloss). I checked the full page and the lower-left, lower-right and bottom-strip crops and found no legend block anywhere."
+ },
+ {
+  "page": 11,
+  "sheet": "A-200",
+  "title": "EXTERIOR ELEVATIONS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "HSS1-1/2\"x1-1/2\"x3/16\" TUBE POST @ 1'7\"H",
+    "quantity": 6,
+    "unit": "EA",
+    "color": "blue (circle swatch)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EXT-1: 3-5/8\"THK. STANDARD MODULAR BRICK VENEE...",
+    "quantity": 163.6,
+    "unit": "SQ FT",
+    "color": "purple/magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "THRU WALL FLASHING",
+    "quantity": 101.6,
+    "unit": "FT",
+    "color": "light cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3-1/4\"THK. x 3-5/8\"H HALF ROWLOCK BRICK",
+    "quantity": 61.4,
+    "unit": "FT",
+    "color": "brownish red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "7-5/8\"THK. x 3-5/8\"H ROWLOCK SILL",
+    "quantity": 61.5,
+    "unit": "FT",
+    "color": "green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SEALANT W/ BACKER ROD",
+    "quantity": 65.7,
+    "unit": "FT",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "ALUMINUM FLASHING",
+    "quantity": 31.2,
+    "unit": "FT",
+    "color": "slate blue/indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PRE-FINISHED ALUMINUM SILL",
+    "quantity": 28.9,
+    "unit": "FT",
+    "color": "purple/magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "ACM1, ACM2 FINISH - 1/A440",
+    "quantity": 108.7,
+    "unit": "SQ FT",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "5/8\" PLYWOOD SHEATHING",
+    "quantity": 52.1,
+    "unit": "SQ FT",
+    "color": "periwinkle blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EIFS-1",
+    "quantity": 599.9,
+    "unit": "SQ FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EIFS-2",
+    "quantity": 189.7,
+    "unit": "SQ FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "Linear",
+    "quantity": 24.4,
+    "unit": "FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at lower-left of the page (13 rows), read from the 3.2x crop; all digits clear. The EXT-1 row name is truncated by the software with an ellipsis (\"VENEE...\") so the full name is not available. Legend overlaps drawing slightly at the right edge but no rows are cut off. The first row has a circle swatch (count item), the others square. | Legend at lower-left of page, overlapping the North Elevation. EXT-1 name is truncated in the legend as printed ('...VENEE...'). Units printed as 'SQ FT', 'FT', 'EA'. All digits clearly legible at 3.2x."
+ },
+ {
+  "page": 12,
+  "sheet": "A-201",
+  "title": "EXTERIOR ELEVATIONS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "EXT-1: 3-5/8\"THK. STANDARD MODULAR BRICK VEN...",
+    "quantity": 232.1,
+    "unit": "SQ FT",
+    "color": "purple/magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "THRU WALL FLASHING",
+    "quantity": 111.5,
+    "unit": "FT",
+    "color": "light cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3-1/4\"THK. x 3-5/8\"H HALF ROWLOCK BRICK",
+    "quantity": 87.9,
+    "unit": "FT",
+    "color": "brownish red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "7-5/8\"THK. x 3-5/8\"H ROWLOCK SILL",
+    "quantity": 88.3,
+    "unit": "FT",
+    "color": "green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SEALANT W/ BACKER ROD",
+    "quantity": 156.2,
+    "unit": "FT",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "ALUMINUM FLASHING",
+    "quantity": 70,
+    "unit": "FT",
+    "color": "slate blue/indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PRE-FINISHED ALUMINUM SILL",
+    "quantity": 19.4,
+    "unit": "FT",
+    "color": "purple/magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EIFS-2",
+    "quantity": 84.7,
+    "unit": "SQ FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EIFS-1",
+    "quantity": 1039,
+    "unit": "SQ FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "2x6 BLOCKING",
+    "quantity": 8.8,
+    "unit": "FT",
+    "color": "purple/magenta",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at lower-left of the page (10 rows), read from the 3.2x crop; all digits clear. The EXT-1 row name is truncated by the software with an ellipsis (\"VEN...\") and abuts the quantity. Unlike A-200 there is no HSS tube post, ACM1/ACM2 finish, plywood sheathing or Linear row on this page. | Legend at lower-left of page, overlapping the South Elevation. EXT-1 name is truncated in the legend as printed ('...VEN...'). All digits clearly legible at 3.2x."
+ },
+ {
+  "page": 13,
+  "sheet": "A-300",
+  "title": "BUILDING SECTIONS",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "No legend block (swatch + name + quantity/unit list) anywhere on A-300, checked the full page and the lower-left and lower-right crops. The only markup is a few red/blue dimension callouts on the building sections: 4'-7 1/16\" on section 2 (parapet wall height), and on section 1 about 4'-7 1/8\" (partly hidden behind the drawing, so uncertain), 15'-9\", 12'-6 1/4\" and 12'-3\". These are loose dimension tags with no item names, units or swatches, so they are not legend rows and were not transcribed as items. All other text is the architect's own drawing callouts and title block. | A-300 BUILDING SECTIONS: I checked the full page and both lower crops, and found no PlanSwift legend block anywhere (no swatch / item name / quantity list). The only takeoff markups are blue dimension annotations with red measure lines and arrows. Section 2 (top): 4'-7 1/16\" at the left parapet. Section 1 (bottom): 1'-7 1/8\" (top left, confirmed in a zoomed crop), 15'-9\" (left wall), 12'-6 1/4\" (centre) and 12'-3\" (right wall). These are vertical height measurements, not legend rows, so I did not report them as items."
+ },
+ {
+  "page": 14,
+  "sheet": "A-310",
+  "title": "EXTERIOR WALL SECTIONS",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "No legend block with quantities anywhere on A-310, checked the full page and the lower-left and lower-right crops. Markup consists of green highlighter on a few of the architect's own callout lines: 1/2\" EXT. SHEATHING, 8\" MTL. STUD & BATT INSULATION and 5/8\" INTERIOR GYP FINISH on section 3; 1/2\" EXT. SHEATHING and 8\" MTL. STUD & BATT INSULATION on section 2; 6\" MTL. STUD & BATT INSULATION on section 1. Section 2 also has a blue vertical dimension of 15'-9 1/16\" with red arrows. None of these has a quantity or unit attached, so they are not legend rows and were not transcribed as items. | A-310 EXTERIOR WALL SECTIONS: I checked the full page and both lower crops, and found no PlanSwift legend block. Markups on this page: (1) One blue dimension annotation, 15'-9 1/16\", with a red measure line and arrows in detail 2, WALL SECTION AT HIGH CANOPY. (2) Green highlights on note callouts. Detail 3 (typical wall): '1/2\" EXT. SHEATHING', '8\" MTL. STUD & BATT INSULATION', '5/8\" INTERIOR GYP FINISH'. Detail 2: '1/2\" EXT. SHEATHING', '8\" MTL. STUD & BATT INSULATION'. Detail 1 (wall section @ VAT): '6\" MTL. STUD & BATT INSULATION'. These are highlights and measurements, not legend rows with quantities, so I did not report them as items."
+ },
+ {
+  "page": 15,
+  "sheet": "A-311",
+  "title": "EXTERIOR WALL SECTIONS",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "No PlanSwift legend block anywhere on the page (checked full page, lower-left and lower-right crops). The only markup is on the storefront wall section (detail 1): a green highlight on the callout text '5/8\" EXTERIOR SHEATHING', a blue vertical dimension label reading 12'-8 1/4\" with red arrows at its top and bottom ends, and a thin red vertical line. These are in-drawing annotations, not legend rows, so no items were transcribed. The 12'-8 1/4\" value is a single measured height, not a legend quantity. | No takeoff legend block on A-311. Only markups: a blue measured dimension '12'-8 1/4\"' with red arrows on the storefront section (detail 1), spanning top of storefront to F.F.E., and a green highlight on the note '5/8\" EXTERIOR SHEATHING' in detail 1. Neither is a legend row with a quantity/unit."
+ },
+ {
+  "page": 16,
+  "sheet": "A-410",
+  "title": "ENLARGED RESTROOM PLANS & ELEVATIONS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "PT1 WALL PAINT",
+    "quantity": 252.6,
+    "unit": "SQ FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WT-8 BASE",
+    "quantity": 11.3,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WT9 WALL TILE",
+    "quantity": 50.6,
+    "unit": "SQ FT",
+    "color": "blue (periwinkle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WT2 WALL TILE",
+    "quantity": 43.8,
+    "unit": "SQ FT",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WT1 WALL TILE",
+    "quantity": 120.7,
+    "unit": "SQ FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TA10",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal (grey-blue circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TA4",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "red (salmon circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TA9",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "light green circle",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TA1",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "yellow circle",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TA3",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "blue (periwinkle) circle",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TA2",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "magenta/pink circle",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TA8",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "cyan circle",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TA6",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "brown/maroon circle",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TA5",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "medium green circle",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SCHLUTER COVE TRIM",
+    "quantity": 51.9,
+    "unit": "FT",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SCHLUTER TRIM",
+    "quantity": 39.6,
+    "unit": "FT",
+    "color": "slate blue/purple",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1'6\"D ADJUSTABLE WHITE MELAMINE SHELVES ON HEAVY DUTY BRACKET",
+    "quantity": 12.7,
+    "unit": "FT",
+    "color": "mauve/purple-pink",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at lower-left of the page, 17 rows, all clearly legible at 3.2x. Quantities are printed as 1.0 EA / 2.0 EA etc. and transcribed as 1 / 2. Names are exactly as printed (WT-8 BASE has a hyphen, the others WT9/WT2/WT1 do not). Swatch colours are approximate descriptions; PT1 is bright green, and the TA swatches are circles. Row order is as printed top to bottom. | The legend sits at the lower left of A-410, below the Enlarged Restroom Plan, and has 17 rows. Every row read clearly at 3.2x. Area items use the unit 'SQ FT' as printed. Count rows print as 'TA10', 'TA4' and so on, with no hyphen, even though the drawing tags are 'TA-10' etc."
+ },
+ {
+  "page": 17,
+  "sheet": "A-420",
+  "title": "ENLARGED WING WALL PLANS & ELEVATIONS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "ACM1, ACM2 FINISH - 1/A440",
+    "quantity": 379.6,
+    "unit": "SQ FT",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CONFIRM DETAIL AFTER WALL EXCEL",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at the bottom-left of the sheet, partly overlapping the title block of elevation 4 (the faint 'WING WALL ELEVATION' text behind the quantities is the drawing title, not a legend row). Two rows. Both quantities were checked on a 5x crop and read clearly. Row 1 is an area measurement (square teal swatch). Row 2 is a count (round teal swatch). The icon at the left of each name is a left-side marker in different colors (green polygon and red dots), not the swatch. The swatch at the right of each row is teal. No other legend rows are present. | The legend sits along the bottom-left edge of the page and partly covers the title strip of elevation 4. Both rows are clear at 3.2x. Row 1 has a green area-tool icon and a teal square swatch on the right. Row 2 has a red count-dots icon and a teal circle swatch on the right; it matches the single teal count marker on wing wall enlarged plan 1."
+ },
+ {
+  "page": 18,
+  "sheet": "A-430",
+  "title": "SECTION DETAILS",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "No takeoff legend or measured quantities on this page. The sheet is clean section detail drawings (A-430) with only drafted dimensions and callouts. I checked the full page, the lower-left crop and the lower-right crop and found no colored swatches or blue quantity text. | A-430 SECTION DETAILS: this sheet has no PlanSwift legend and no takeoff markups. I checked the full page, lower-left and lower-right crops."
+ },
+ {
+  "page": 19,
+  "sheet": "A-440",
+  "title": "PLAN DETAILS",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "A-440 Plan Details contains only architectural detail drawings (11 details) and the title block. No takeoff legend, no swatch/name/quantity list anywhere on the page, including lower-left and lower-right crops. Markups present are a vertical translucent red bar (x about 45%-48% of width, near-full height), a few small green highlights (Prefinished alum. sill flashing detail 10, Backer rod & sealant detail 3) and green outlines on the HSS columns in details 1 and 2. None has a printed quantity or legend row, so nothing was transcribed. | A-440 PLAN DETAILS is a detail sheet with no takeoff legend block. I checked the full page and the lower-left and lower-right crops. The only markups are a translucent dark-red vertical band down the page centre, near x~0.45-0.47, which looks like a reviewed/struck mark and has no label or quantity. Green text highlights mark 'PREFINISHED ALUM. SILL FLASHING (BELOW)' in detail 10 and 'BACKER ROD & SEALANT' in detail 3. A green outline marks the steel tube column in details 1 and 2. None of these markups has a measured quantity."
+ },
+ {
+  "page": 20,
+  "sheet": "A-450",
+  "title": "ROOF DETAILS",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "A-450 Roof Details contains only architectural roof detail drawings (11 details) and the title block. No takeoff legend, no swatch/name/quantity list anywhere on the page, including lower-left and lower-right crops. Markups present are a vertical translucent red bar (x about 51%-56% of width, upper-middle to lower area), plus small olive/yellow and magenta dashed line markups on the coping and equipment curb details. None has a printed quantity or legend row, so nothing was transcribed. | A-450 ROOF DETAILS is a detail sheet with no takeoff legend block. I checked the full page and the lower-left and lower-right crops. The only markups are a translucent dark-red vertical band, near x~0.51-0.56, through details 8, 5 and 2, with no label or quantity. Olive/yellow outlines mark the coping in details 9 and 6. A magenta line marks the air/vapour barrier in detail 1 (Equipment Curb). None of these markups has a measured quantity."
+ },
+ {
+  "page": 21,
+  "sheet": "A-600",
+  "title": "DOOR SCHEDULE & DETAILS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "EXT (2) 3'Wx8'H MED. STILE STOREFRONT GLASS DOOR W/ ALUMINUM STOREFRONT FRAME",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "salmon red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EXT 3'Wx8'H TYPE E MED. STILE STOREFRONT GLASS DOOR W/ ALUMINUM STOREFRONT FRAME",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3'Wx7'H TYPE B SOLID CORE WOOD DOOR W/ WELDED HOLLOW METAL FRAME",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "magenta pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3'Wx7'H TYPE C SOLID CORE WOOD DOOR W/ KNOCK-DOWN HOLLOW METAL FRAME",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "magenta pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HARDWARE 1",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "dusty brownish red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HARDWARE 4",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HARDWARE 14",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HARDWARE 7",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "slate blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HARDWARE 3",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "purple orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HARDWARE 6",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HARDWARE 11",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "salmon red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HARDWARE 10",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HARDWARE 9",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(2) 3'Wx8'H MED. STILE STOREFRONT GLASS DOOR W/ ALUMINUM STOREFRONT FRAME- AUTO OPERATION BUTTON",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "periwinkle blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3'4\"Wx7'H TYPE F THIN PROFILE SLIDING GLASS DOOR W/ ALUMINUM FRAME- GC PURCHASE & COORDINATE W/ FIFTHHIRDSUPPORT@DIRT...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "settled by third reader"
+   },
+   {
+    "name": "3'Wx7'H TYPE B SOLID CORE WOOD DOOR W/ WELDED HOLLOW METAL FRAME",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "blue",
+    "verified": "settled by third reader"
+   }
+  ],
+  "disputedCount": 2,
+  "notes": "Legend sits bottom-left of the sheet, overlapping the drawing, 16 rows. Row 3 name is truncated by the software with an ellipsis (ends 'W/ FIFTHTHIRDSUPPORT@DIRT...'); the zoomed crop letters read slightly like 'FIFTHHIRDSUPPORT' but the schedule comment on the sheet reads FIFTHTHIRDSUPPORT@DIRTT.COM, so I transcribed the latter. Rows 4 and 16 have identical names (TYPE B) with different quantities (3.0 and 2.0) and are kept separate. Quantity-to-row alignment was checked against the full-page y positions (e.g. 3.0 EA sits on the first TYPE B row, 2.0 EA on HARDWARE 11 and on the last row). Swatch colours are approximate. | Legend in the lower-left corner of the sheet, spanning the bottom strip (about x 0-0.53, y 0.78-0.97). Row 3 is cut off by PlanSwift with '...' after 'FIFTHHIRDSUPPORT@DIRT' and is transcribed as shown. 'FIFTHHIRDSUPPORT' is printed that way (the schedule says FIFTHTHIRDSUPPORT@DIRTT.COM). The row '3'Wx7'H TYPE B SOLID CORE WOOD DOOR W/ WELDED HOLLOW METAL FRAME' appears twice, blue 3.0 EA and magenta 2.0 EA. Both rows are kept. | Legend sits at the bottom-left of sheet A-600 (page fractions approx x 0-0.53, y 0.78-0.96), 16 rows, red bullet markers, quantities in blue at the right edge with a color swatch. Disputed row: both readers listed the same TYPE F row; only the spelling differs. Verified at zoom 8 (/home/user/work/rec-21-4.png) that the legend as printed reads FIFTHHIRDSUPPORT@DIRT... (single T, truncated with an ellipsis by PlanSwift) - reader B is correct, 1.0 EA, yellow. The door schedule comment on the same sheet spells it FIFTHTHIRDSUPPORT@DIRTT.COM, but the legend label itself has the typo. Missed by both: the name 3'Wx7'H TYPE B SOLID CORE WOOD DOOR W/ WELDED HOLLOW METAL FRAME appears TWICE in the legend - row 4 at 3.0 EA (blue swatch, verified in /home/user/work/rec-21-3.png) and row 16, the last row, at 2.0 EA (pink/magenta swatch, verified in /home/user/work/rec-21-5.png). The agreed list carries only the 2 EA instance, so the 3 EA blue row is missing; together they are 5 Type B doors with welded HM frames, which matches the door schedule (marks 111, 112, 113, 114 WORK ROOM/WOMENS/MENS/PHONE ROOM plus 115 JANITOR = 5 SCW/HM). Nothing else cut off or unreadable; the TYPE F row text is truncated only by PlanSwift's own ellipsis."
+ },
+ {
+  "page": 22,
+  "sheet": "A-610",
+  "title": "WINDOW ELEVATIONS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "ANODIZED ALUMINUM EXTERIOR STOREFRONT SYSTEM",
+    "quantity": 107.3,
+    "unit": "SQ FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "ANODIZED ALUMINUM INTERIOR STOREFRONT SYSTEM BASIS OF DESIGN: YKK YES45 FS - ...",
+    "quantity": 44.6,
+    "unit": "SQ FT",
+    "color": "dusty rose brown",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "12'11-1/2\"W x 12'H ALUMINUM FRAME GLAZING WINDOW - A",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "7'4\"W x 12'H ALUMINUM FRAME GLAZING WINDOW - C",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "8'W x 9'4\"H ALUMINUM FRAME GLAZING WINDOW - D",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "slate blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "6'W x 7'4\"H ALUMINUM FRAME GLAZING WINDOW - E",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "purple orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "13'4\"W x 9'4\"H ALUMINUM FRAME GLAZING WINDOW - G",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "14'W x 9'4\"H ALUMINUM FRAME GLAZING WINDOW - H",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "salmon red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "INTERIOR STOREFRONT",
+    "quantity": 53.2,
+    "unit": "SQ FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DETAIL",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend is in the upper-left of the sheet (not bottom), 10 rows. Row 2 name is truncated by the software with an ellipsis after 'YKK YES45 FS -'; full text not recoverable. No legend rows for windows B, F, J, K, which appear as area-filled cyan/brown/green regions and are covered by the SQ FT rows (cyan = exterior storefront, rose = interior storefront on window J, bright green = interior storefront on window K). Swatch colours are approximate. | Legend in the upper-left of the sheet (about x 0.04-0.58, y 0.13-0.30). The name in row 2 is cut off by PlanSwift with '...' after 'YKK YES45 FS -' and is transcribed as shown. The unit is printed 'SQ FT'. The 'INTERIOR STOREFRONT' area row is a separate item from the row above. No uncertain digits."
+ },
+ {
+  "page": 23,
+  "sheet": "A-700",
+  "title": "TRANSACTION BAR ENLARGED PLAN & DETAILS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "SLD-1 COUNTERTOP",
+    "quantity": 73.4,
+    "unit": "SQ FT",
+    "color": "slate blue / indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WT3 TILE",
+    "quantity": 38.4,
+    "unit": "SQ FT",
+    "color": "purple / orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(2) 3/4\" PLYWOOD @ 1'4\"H",
+    "quantity": 3.7,
+    "unit": "FT",
+    "color": "olive / khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(5) 2x4 WOOD BLOCKING FRAMING",
+    "quantity": 1.6,
+    "unit": "FT",
+    "color": "bright blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1/2\" PLYWOOD @ 3'9\"H",
+    "quantity": 4,
+    "unit": "FT",
+    "color": "magenta / pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3/4\" PLYWOOD @ 8\"H",
+    "quantity": 1.6,
+    "unit": "FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1/4\" CEMENTITIOUS BACKER BOARD",
+    "quantity": 38.4,
+    "unit": "SQ FT",
+    "color": "dusty brick red / brown",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "BASE CABINET",
+    "quantity": 4.7,
+    "unit": "FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PENCIL DRAWER",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "yellow (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PL-4 FINISH",
+    "quantity": 38.4,
+    "unit": "SQ FT",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PL-5 FINISH",
+    "quantity": 6.2,
+    "unit": "SQ FT",
+    "color": "peach / light orange",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "MOCKETT MAX6-94 18\" BRUSH GROMMET, SATIN FINISH",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "purple (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RICHELIEU PC2026Z869 SQUARE GROMMET",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PL3 FINISH",
+    "quantity": 6.6,
+    "unit": "SQ FT",
+    "color": "red / coral",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "Linear",
+    "quantity": 18.6,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at lower-left, 15 rows, all clearly legible at 3.2x. Row 'Linear' is the generic default linear item name as printed. Swatch colours are approximate descriptions. | Legend at lower-left over the 3D view (detail 2). All 15 rows legible at 3.2x; no uncertain digits."
+ },
+ {
+  "page": 24,
+  "sheet": "A-701",
+  "title": "BACK COUNTER ENLARGED PLAN & DETAILS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "SLD-1 COUNTERTOP",
+    "quantity": 18.1,
+    "unit": "SQ FT",
+    "color": "slate blue / indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(7) 1x4 FIRE RETARDANT TREATED BLOCKING",
+    "quantity": 8.6,
+    "unit": "FT",
+    "color": "olive / khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3/4\" PLYWOOD @ 7.67H",
+    "quantity": 8.6,
+    "unit": "FT",
+    "color": "purple / orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RICHELIEU PC2026Z869 SQUARE GROMMET",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "blue (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "5",
+    "quantity": 2,
+    "unit": "FT",
+    "color": "magenta / pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "7",
+    "quantity": 5.7,
+    "unit": "FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "9",
+    "quantity": 0.9,
+    "unit": "FT",
+    "color": "dusty brick red / brown",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PL-1 FINISH",
+    "quantity": 83.1,
+    "unit": "SQ FT",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "Linear",
+    "quantity": 15.3,
+    "unit": "FT",
+    "color": "slate blue / indigo",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend at lower-left, 9 rows, all legible. Row 3 name printed as '3/4\" PLYWOOD @ 7.67H' (no inch mark after 7.67H as printed). Row 1 on page 24 is spelled 'FIRE RETARDANT' in the printed legend as 'FIRE RETARDANT TREATED BLOCKING' per image (printed text reads 'RETARDANT'). Rows named just '5', '7', '9' are unnamed linear items, likely referencing detail numbers (printed as bare digits). The legend's right side overlaps the faint 'VAT ACCESS' title text but quantities remain readable. | Legend at lower-left over details 8/6. All 10 rows legible. Rows '5', '7', '9' are linear items named only by their detail number, transcribed as printed. 'Linear' is a generic unnamed linear item."
+ },
+ {
+  "page": 25,
+  "sheet": "A-702",
+  "title": "LIBRARY ENLARGED PLAN & DETAILS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "UPPER CABINET",
+    "quantity": 3.9,
+    "unit": "FT",
+    "color": "olive / khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PL1 COUNTERTOP",
+    "quantity": 4.8,
+    "unit": "SQ FT",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PL-1 FINISH",
+    "quantity": 95.6,
+    "unit": "SQ FT",
+    "color": "light red / salmon",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3/4\" PLYWOOD",
+    "quantity": 46.9,
+    "unit": "SQ FT",
+    "color": "light green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "BASE CABINET",
+    "quantity": 5.3,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "Linear",
+    "quantity": 19.4,
+    "unit": "FT",
+    "color": "blue / periwinkle",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(2) 1x4 WOOD BLOCKING FRAMING",
+    "quantity": 14.6,
+    "unit": "FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at the lower-left corner of the page, 7 rows, all clearly legible at 3.2x. The legend box overlaps the start of the 'CABINET @ BOOTH' title. The row named 'Linear' is printed that way, with no descriptive name. | Legend in the lower-left corner of the page, overlapping the title strip of detail 6 (CABINET @ BOOTH). Checked all 7 rows on a 5x crop and every digit is clear. Units are printed as 'FT' and 'SQ FT'. The row literally named 'Linear' is the default PlanSwift item name, transcribed as printed."
+ },
+ {
+  "page": 26,
+  "sheet": "A-703",
+  "title": "SERVICE COUNTER ENLARGED PLAN & DETAILS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "SLD-1 COUNTERTOP",
+    "quantity": 19.7,
+    "unit": "SQ FT",
+    "color": "purple / slate blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(4) 1x4 WOOD BLOCKING FRAMING",
+    "quantity": 9.8,
+    "unit": "FT",
+    "color": "magenta / pink",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at the lower-left corner, 2 rows, clearly legible. It overlaps the faint 'SERVICE COUNTER AXONOMETRIC VIEW' title text, which is not part of the legend. | Legend in the lower-left corner, laid over the faint 'SERVICE COUNTER AXONOMETRIC VIEW' detail title. Checked both rows on a 5x crop and they are clear. There are only 2 rows."
+ },
+ {
+  "page": 27,
+  "sheet": "A-703",
+  "title": "SERVICE COUNTER ENLARGED PLAN & DETAILS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "WT1 WALL TILE",
+    "quantity": 15.3,
+    "unit": "SQ FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WT2 WALL TILE",
+    "quantity": 1.4,
+    "unit": "SQ FT",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WT9 WALL TILE",
+    "quantity": 1.3,
+    "unit": "SQ FT",
+    "color": "blue/periwinkle",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3/4\" PLYWOOD",
+    "quantity": 8,
+    "unit": "SQ FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at the lower-left of the page, overlapping the axonometric view. All four rows are clearly legible at 3.2x. Quantities are printed to one decimal (8.0 for the plywood row). | Legend at lower-left, over the Service Counter Axonometric view (detail 7). All 4 rows read clearly at 3.2x. Areas are measured on Millwork Elevation 2 (green plywood area left of backsplash, cyan WT1 field with magenta WT2 and blue WT9 accent tiles)."
+ },
+ {
+  "page": 28,
+  "sheet": "A-704",
+  "title": "TECH WALL & LOUNGE BOOTH ENLARGED PLAN & DETAILS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "PT6",
+    "quantity": 37.2,
+    "unit": "SQ FT",
+    "color": "dusty red/brownish rose",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TYPE X GWB",
+    "quantity": 37.2,
+    "unit": "SQ FT",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "5/8\" PLYWOOD BACKING",
+    "quantity": 37.2,
+    "unit": "SQ FT",
+    "color": "olive/khaki yellow-green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TABLE",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal (circle swatch)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "NO",
+    "quantity": 0,
+    "unit": "EA",
+    "color": "light cyan/aqua (circle swatch)",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at the lower-left of the page. The last row \"NO\" prints its quantity as \"NAN EA\" (not a number, a PlanSwift artifact for an empty or unmeasured count item). The schema requires a number, so 0 is a placeholder meaning no valid quantity; do not treat it as a real zero count. The three SQ FT rows all read 37.2, which is the same area of the tech wall recess elevation (the olive/gold rectangle on the Tech Wall Elevation). The TABLE and NO rows use circle count markers (red dotted icon) rather than the green area icon. | Legend at lower-left, over the Tech Wall 3D View (detail 3). The 'NO' row prints its quantity as 'NAN EA' (not a number, no count taken); quantity entered as 0 only because the schema needs a number. Treat it as having no quantity, not as a measured zero. The three 37.2 SQ FT areas are the same recess area on Tech Wall Elevation 1. TABLE 1.0 EA is the teal dot on Section 6."
+ },
+ {
+  "page": 29,
+  "sheet": "A-706",
+  "title": "BOOTH ENLARGED PLAN & DETAILS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "WALL 706",
+    "quantity": 15.9,
+    "unit": "FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "13/16\"THK. PLASTIC LAMINATE FINISH ATTACH W/ Z-CLIPS - PL1",
+    "quantity": 296.9,
+    "unit": "SQ FT",
+    "color": "purple/magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PNL-1 PANEL W/ HARDWOO BLOCKING FILLER BOTH SIDE",
+    "quantity": 36,
+    "unit": "SQ FT",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1/2\" FRY REGLET U-CHANNEL REVEAL MWU5050",
+    "quantity": 89.3,
+    "unit": "FT",
+    "color": "red/salmon",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PT5 FINISH @ BOOTH ROOF",
+    "quantity": 76.2,
+    "unit": "SQ FT",
+    "color": "green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "6\"THK. 16GA. METAL STUD @ 12\" O.C W/ 6\"THK. SOUND BATT INSULATION W/ 3/4\"THK. PL...",
+    "quantity": 76.2,
+    "unit": "SQ FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "13/16\"THK. PLASTIC LAMINATE FINISH AT CEILING ATTACH W/ Z-CLIPS - PL1",
+    "quantity": 64.2,
+    "unit": "SQ FT",
+    "color": "blue",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits in lower-left corner of the page, overlapping the title block of the lower-left details. 7 rows. Row 6 name is truncated on the page itself (ends with 'PL...' where the quantity column begins); full name not recoverable. Row 3 is printed 'HARDWOO' (sic, missing D). Quantities and units read clearly at 3.2x. The first and fourth rows (WALL 706, 1/2\" FRY REGLET) are linear items with unit FT; the rest are area SQ FT. Row 5 and 6 both show 76.2 SQ FT (green and yellow swatches respectively). | Legend at lower-left of sheet. Row 6 name is cut off by PlanSwift with '...' after '3/4\"THK. PL' (probably PLYWOOD). 'HARDWOO' is misspelled that way on the legend. On the drawing the yellow-green area on the booth roof framing plan reads as lime; the legend swatch is yellow."
+ },
+ {
+  "page": 30,
+  "sheet": "A-707",
+  "title": "WORK ROOM ENLARGED PLAN & DETAILS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "PL-2 COUNTERTOP OVER 1-1/2\" THK.",
+    "quantity": 22.6,
+    "unit": "SQ FT",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "4\"H PL2 BASE O/ 3/4\"THK. PLYWOOD",
+    "quantity": 13.6,
+    "unit": "FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "Linear",
+    "quantity": 16.5,
+    "unit": "FT",
+    "color": "brown/dark red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(2) 1x4 WOOD BLOCKING FRAMING",
+    "quantity": 23.3,
+    "unit": "FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits in lower-left corner, overlapping the 'COUNTERTOP GROMMET' detail title and drawing notes (faint text behind the quantity column is page content, not legend). 4 rows. The third row is named just 'Linear' (a default PlanSwift item name, unrenamed), 16.5 FT, brown swatch. Quantities clearly legible at 3.2x. | Legend at lower-left of sheet. The 'Linear' row has the default PlanSwift name with no material description; on the elevations it looks like the red line through the upper cabinets. Row 1 name ends at 'THK.' as printed, with no material after it."
+ },
+ {
+  "page": 31,
+  "sheet": "A-708",
+  "title": "CHECK DESK ENLARGED PLAN & DETAILS",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "A-708 Check Desk sheet has no PlanSwift legend block and no colored takeoff markup anywhere. Checked the full page and the lower-left and lower-right crops. Only the architect's linework and PL-5 / PL-6 / WB-1 callouts appear. | No legend block anywhere on A-708 (I checked the full page plus the lower-left and lower-right crops). Detail 12 (Shelf at Night Drop Elevation) has two thin green lines drawn over the two shelves (18\" deep 3/4\" white melamine shelves). They look like takeoff linear marks, but the page prints no legend, quantity or unit for them, so none is recorded."
+ },
+ {
+  "page": 32,
+  "sheet": "A-705",
+  "title": "EMPLOYEE LOUNGE ENLARGED PLAN & DETAILS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "PL2 COUNTERTOP FINISH O/ 1\"THK. PLYWOOD",
+    "quantity": 17.4,
+    "unit": "SQ FT",
+    "color": "red/salmon",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WT1 WALL TILE",
+    "quantity": 8.2,
+    "unit": "SQ FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WT2 WALL TILE",
+    "quantity": 1.6,
+    "unit": "SQ FT",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WT9 WALL TILE",
+    "quantity": 1.3,
+    "unit": "SQ FT",
+    "color": "blue/periwinkle",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "7",
+    "quantity": 2.7,
+    "unit": "FT",
+    "color": "green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(2) 1x4 BLOCKING",
+    "quantity": 15.7,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(3) 2x4 BLOCKING",
+    "quantity": 8.7,
+    "unit": "FT",
+    "color": "blue/periwinkle",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at the bottom-left of the page, overlapping the 3D view. There are 7 rows and all were clear in the 3.2x lower-left crop. The row named just \"7\" is a linear item (green, 2.7 FT) whose name appears to be only the digit 7, so the printed name may be truncated or may be a bare tag. Its green swatch matches the green line on the plan. Rows 1-4 have area-icon prefixes and rows 5-7 have linear-icon prefixes. WT9 and (3) 2x4 BLOCKING are both blue and look nearly the same shade. The unit is printed as \"SQ FT\" for area rows. | The legend is at the lower left of the page, over the Employee Lounge 3D View (detail 3). All values were checked at 5x zoom. The first four rows are area items with green area icons. The last three are linear items with linear icons. The fifth row's name prints only as \"7\", which looks like an unnamed or default linear item; I transcribed it as printed. WT9 and (3) 2x4 BLOCKING both have similar blue/periwinkle swatches."
+ },
+ {
+  "page": 33,
+  "sheet": "S-201",
+  "title": "Structural Plan Foundation",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "F50",
+    "quantity": 6,
+    "unit": "EA",
+    "color": "green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "F38",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "olive / khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "F10050",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "slate blue / indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "F70",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "purple",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "F30",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "F60",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "F7040",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SAW-CUT JOINT - 3/S680",
+    "quantity": 364.1,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WF20",
+    "quantity": 124.2,
+    "unit": "FT",
+    "color": "periwinkle blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "BP12",
+    "quantity": 9,
+    "unit": "EA",
+    "color": "magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "BP1518",
+    "quantity": 4,
+    "unit": "EA",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "BP14",
+    "quantity": 4,
+    "unit": "EA",
+    "color": "brown / dusty red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "ISOLATION JOINT - 8/S680",
+    "quantity": 39.2,
+    "unit": "FT",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "10\"THK. CONCRETE STEM WALL W/ #4 BARS @ 10\" O.C @ 2'H",
+    "quantity": 8.4,
+    "unit": "FT",
+    "color": "olive / khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "8\"THK. CONCRETE STEM WALL W/ #4 BARS @ 10\" O.C & #4 DOWEL BAR @ 18\" O.C @ 2'H",
+    "quantity": 193.8,
+    "unit": "FT",
+    "color": "slate blue / indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "4\"THK. CONCRETE SLAB ON GRADE W/ 6x6 W2.9xW2.9 WIRE MESH O/ VAPOR BARRIER O/ GRAVEL BED",
+    "quantity": 1917.6,
+    "unit": "SQ FT",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "New Count",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "green",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at bottom-left, overlaid on the faint WALL FOOTING SCHEDULE and SPREAD FOOTING SCHEDULE. All 17 rows read clearly at 3.2x. Slab row unit printed as 'SQ FT'. Row 'New Count' is an unnamed extra count item (2.0 EA). Plan-view footing tags (F50, F38 etc.) are the same names as the legend rows. | Legend at lower-left of page (overlaid on faded wall/spread footing schedules). All 17 rows read clearly at 4x zoom. 'New Count' (2.0 EA, green) is an unnamed generic count item as printed."
+ },
+ {
+  "page": 34,
+  "sheet": "S-203",
+  "title": "Structural Plan Roof",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "12KCS2 ROOF JOIST",
+    "quantity": 54,
+    "unit": "FT",
+    "color": "slate blue / indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "16KCS3 ROOF JOIST",
+    "quantity": 248.6,
+    "unit": "FT",
+    "color": "olive / khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "18KCS2 ROOF JOIST",
+    "quantity": 108.5,
+    "unit": "FT",
+    "color": "purple / orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS4x4x1/4 BEAM",
+    "quantity": 40.2,
+    "unit": "FT",
+    "color": "magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS5x5x1/4 BEAM",
+    "quantity": 21.5,
+    "unit": "FT",
+    "color": "magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS6x4x3/8 BEAM",
+    "quantity": 9,
+    "unit": "FT",
+    "color": "periwinkle blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS6x6x3/8 BEAM",
+    "quantity": 3.1,
+    "unit": "FT",
+    "color": "slate blue / indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS8x2x1/4 BEAM",
+    "quantity": 76.7,
+    "unit": "FT",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS8x3x1/4 BEAM",
+    "quantity": 36.9,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS8x6x1/4 BEAM",
+    "quantity": 33.6,
+    "unit": "FT",
+    "color": "purple / orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS10x6x1/4 BEAM",
+    "quantity": 65.2,
+    "unit": "FT",
+    "color": "gold / light orange-yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "W8x10 BEAM",
+    "quantity": 13.5,
+    "unit": "FT",
+    "color": "olive / khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "W10x12 BEAM",
+    "quantity": 51.5,
+    "unit": "FT",
+    "color": "cyan / light aqua",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "W10x22 BEAM",
+    "quantity": 11.9,
+    "unit": "FT",
+    "color": "red / coral",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "W12x14 BEAM",
+    "quantity": 74.7,
+    "unit": "FT",
+    "color": "periwinkle blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "W12x22 BEAM",
+    "quantity": 15,
+    "unit": "FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "W14x26 BEAM",
+    "quantity": 19.5,
+    "unit": "FT",
+    "color": "cyan / light aqua",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "W14x30 BEAM",
+    "quantity": 20.1,
+    "unit": "FT",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "W16x26 BEAM",
+    "quantity": 20.1,
+    "unit": "FT",
+    "color": "brown / dusty red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS6x2x1/4 BEAM",
+    "quantity": 3,
+    "unit": "FT",
+    "color": "red / coral",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "L3x3x3/16 ANGLE",
+    "quantity": 99.4,
+    "unit": "FT",
+    "color": "slate blue / indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "L4x3x1/4 LLV ANGLE",
+    "quantity": 179.9,
+    "unit": "FT",
+    "color": "purple / orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "C7x9.8 CHANNEL",
+    "quantity": 236.7,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "L2x2x3/16 ANGLE @ 4'L",
+    "quantity": 18,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "6\" METAL STUD CANOPY FRAMING @ 16\" O.C",
+    "quantity": 416.9,
+    "unit": "SQ FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "L2x2x3/16 ANGLE @ 5'8\"L",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "blue / periwinkle",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "L3x3x1/4 HORIZONTAL BRACING",
+    "quantity": 19.1,
+    "unit": "FT",
+    "color": "magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS4x4x1/4 POST @ 1'4\"H",
+    "quantity": 6,
+    "unit": "EA",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1-1/2\" WIDE RIB TYPE B 22GA. GALVANIZED (G90) ROOF DECK",
+    "quantity": 2208.4,
+    "unit": "SQ FT",
+    "color": "brown / dusty red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RIGID JOIST BRACING *2",
+    "quantity": 121.9,
+    "unit": "FT",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "L2-1/2x2-1/2x1/4 X-TYPE BRIDGING *2",
+    "quantity": 35.5,
+    "unit": "FT",
+    "color": "olive / khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "C5x6.7 CHANNEL",
+    "quantity": 53.4,
+    "unit": "FT",
+    "color": "slate blue / indigo",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at bottom-left, overlaid on the faint Slab and Deck Schedule. 33 rows, top row 12KCS2 starts just under the SLAB AND DECK SCHEDULE title; verified with a 5x crop. HSS6x4x3/8 BEAM appears twice as separate rows (22.2 FT brown, 9.0 FT periwinkle) exactly as printed. Area rows print unit as 'SQ FT'. Swatch colours for similar shades (olive vs gold, indigo vs periwinkle) are approximate. | Legend in lower-left of page, overlaid on faded slab/deck schedule and frame elevations. All 33 rows read clearly at 4x zoom. HSS6x4x3/8 BEAM appears twice as separate rows (22.2 FT brown-red and 9.0 FT blue), transcribed as two rows, not merged. '*2' suffixes on bracing/bridging rows are printed as shown."
+ },
+ {
+  "page": 35,
+  "sheet": "S-203",
+  "title": "Structural Plan Roof",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "HSS6x6x3/8 COLUMN",
+    "quantity": 61.4,
+    "unit": "FT",
+    "color": "red (salmon)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "C7x9.8 CHANNEL",
+    "quantity": 14,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "C8x11.5 CHANNEL",
+    "quantity": 10.1,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS5x5x3/8 COLUMN",
+    "quantity": 20.3,
+    "unit": "FT",
+    "color": "green (medium)",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at bottom centre-right of the page (below the Roof Framing Plan, roughly x 47-80%, y 87-95%), not in the lower-left crop. 4 rows, all read clearly at 5x zoom. C7x9.8 and C8x11.5 share the same yellow swatch. | Legend sits bottom-centre, below the Roof Framing Plan (about x 0.46-0.80, y 0.87-0.95). There are 4 rows, all linear (FT), and all are clearly legible in a 4x crop. C7x9.8 and C8x11.5 both have yellow swatches."
+ },
+ {
+  "page": 36,
+  "sheet": "S-301",
+  "title": "Elevations Steel Frames",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "HSS6x6x3/8 COLUMN",
+    "quantity": 175,
+    "unit": "FT",
+    "color": "red (salmon)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS6x6x1/4 DIAGONAL BRACING",
+    "quantity": 59.6,
+    "unit": "FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "C7x9.8 CHANNEL",
+    "quantity": 177.8,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS6x6x1/2 COLUMN",
+    "quantity": 19.7,
+    "unit": "FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS4x4x1/4 DIAGONAL BRACING",
+    "quantity": 28.6,
+    "unit": "FT",
+    "color": "blue (periwinkle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS7x7x1/2 COLUMN",
+    "quantity": 97.3,
+    "unit": "FT",
+    "color": "magenta (pink)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "W10x12 BEAM",
+    "quantity": 4.8,
+    "unit": "FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "C8x11.5 CHANNEL",
+    "quantity": 14.5,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS4x4x1/4 COLUMN",
+    "quantity": 5.6,
+    "unit": "FT",
+    "color": "brown (dusty red-brown)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HSS5x5x3/8 COLUMN",
+    "quantity": 18.9,
+    "unit": "FT",
+    "color": "green (medium)",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at the middle-left of the page (roughly x 2-33%, y 25-42%), overlapping faint underlying detail text, not in the lower-left crop. 10 rows, read at 5x zoom with no uncertain digits. The last row's swatch is partly overlapped by faint background text. HSS6x6x1/4 DIAGONAL BRACING and HSS6x6x1/2 COLUMN share the same bright green; C7x9.8 and C8x11.5 CHANNEL share the same yellow. | Legend sits upper-left, over the Typical Diagonal Brace detail (about x 0.02-0.33, y 0.25-0.42), not in the lower-left. There are 10 rows, all linear (FT), and all are clearly legible in a 4x crop. HSS6x6x1/4 DIAGONAL BRACING and HSS6x6x1/2 COLUMN share a similar light-green swatch. HSS5x5x3/8 COLUMN is a darker green."
+ },
+ {
+  "page": 37,
+  "sheet": "S-600",
+  "title": "Wall Sections Foundation",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "Checked the full page and the lower-left and lower-right crops. There is no legend block with swatch, item name and quantity. The page is only the S-600 title block and six foundation wall-section details. The one markup overlay is a translucent red band across the middle of the page, behind the 'Section at Exterior Wall' titles for details 1, 2 and 3. It has no printed name or quantity next to it. I did not infer any rows from it. | S-600 Wall Sections - Foundation. No takeoff legend block anywhere on the page; I checked the full page and the lower-left crop. The only markup is a translucent red/maroon rectangle across the title band of sections 1, 2 and 3 (about x 0.08-0.66, y 0.39-0.43 of the page). It has no item name or quantity, so nothing was transcribed."
+ },
+ {
+  "page": 38,
+  "sheet": "S-601",
+  "title": "Wall Sections",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "Checked the full page and the lower-left and lower-right crops. There is no legend block with swatch, item name and quantity. The page is only the S-601 title block and six wall-section details. The markup is several bright green rectangles laid over the details, mostly over callout bubbles and text. They carry no printed item name or quantity. I did not infer any rows from them. | S-601 Wall Sections. No takeoff legend block anywhere on the page; I checked the full page and the lower-left and lower-right crops. The only markups are bright green highlight rectangles over the Sim detail callouts that point to S-683/S-682 (e.g. 4/S-683, 6/S-683, 1/S-683, 3/S-683, 11/S-683) and over the 4/S-601 section tag. They look like review or detail-reference highlights, not measured takeoff items. None of them has an item name, quantity or unit."
+ },
+ {
+  "page": 39,
+  "sheet": "S-602",
+  "title": "Wall Sections",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "No legend block on S-602. Whole page, lower-left and lower-right crops checked. The page holds six wall-section details (title block at right) and a few unlabeled solid green highlight rectangles over detail bubbles and section titles. These are unlabeled markup shapes, not legend rows. There is no swatch, item name or quantity list anywhere on the page, so nothing was transcribed. | S-602 Wall Sections. No takeoff legend block on the page. The only markups are bright green rectangles. They are highlight or review boxes over detail tags, over the section 2 wall, and over the section 2 and section 4 title tags, and none of them has a printed item name or quantity. I checked the full page and the lower-left crop."
+ },
+ {
+  "page": 40,
+  "sheet": "S-603",
+  "title": "Wall Sections",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "No legend block on S-603. Whole page, lower-left and lower-right crops checked. The page holds six section and detail drawings and several solid green highlight rectangles over section titles and bubbles. These are unlabeled markup shapes with no names or quantities, not a legend. There is no list of swatch, name and quantity rows anywhere on the page, so nothing was transcribed. | S-603 Wall Sections. No takeoff legend block on the page. The only markups are bright green rectangles. They sit over the titles of sections 2, 3, 5 and 6, and there are two blank green boxes above the titles of sections 1 and 4. None of them has a printed item name or quantity. I checked the full page and the lower-left crop."
+ },
+ {
+  "page": 41,
+  "sheet": "E-010",
+  "title": "ELECTRICAL SITE PLAN AND REMOTE DRIVE THRU",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "1\"DIA CONDUIT",
+    "quantity": 15.4,
+    "unit": "FT",
+    "color": "dusty brown/rose",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(2) 2\"DIA CONDUIT",
+    "quantity": 15.4,
+    "unit": "FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend is at bottom-left of the page, 3 rows, all clearly legible. The two 1\"DIA CONDUIT rows are separate legend entries with different swatches (magenta 4.8 FT, brown 15.4 FT); not merged. | Legend sits at the bottom-left corner of the page. All 3 rows read clearly at 3.2x. Two separate rows are both named '1\"DIA CONDUIT' (pink 4.8 FT and brown 15.4 FT). I kept them as separate rows and did not merge them."
+ },
+ {
+  "page": 42,
+  "sheet": "E-010",
+  "title": "ELECTRICAL SITE PLAN AND REMOTE DRIVE THRU",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "SAFETY SWITCH, 30A, 3 POLE, FUSED@ 20A",
+    "quantity": 0,
+    "unit": "EA",
+    "color": "slate blue/indigo (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "120V, 20A TOGGLE SWITCH IN METALLIC BELL BOX W/ METALLIC...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "purple/orchid (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "120V, 20A GFCI WEATHER RESISTANT DUPLEX RECEPTACLE",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DDCV HOT BOX",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "salmon red (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "IRRIGATION BACKFLOW",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "bright green (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(2) 4\"DIA CONDUIT",
+    "quantity": 71.5,
+    "unit": "FT",
+    "color": "yellow (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "JUNCTION BOX",
+    "quantity": 4,
+    "unit": "EA",
+    "color": "medium green (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "STUBOUT & TERMINATE PER UTILITY COMPANY REQUIREMENT...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive/khaki (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(2) 5\"DIA CONDUIT",
+    "quantity": 11.4,
+    "unit": "FT",
+    "color": "slate blue/indigo (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TRANSFORMER SLABBOX W/ TRAFFIC GUARD",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "purple/orchid (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(2) 2\"DIA CONDUIT",
+    "quantity": 61.8,
+    "unit": "FT",
+    "color": "cyan (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "ELECTRIC UTILITY METER",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SERVICE DISCONNECT SWITCH",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "salmon red (circle)",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend at bottom-left, 13 rows, all legible. IMPORTANT: the first row SAFETY SWITCH, 30A, 3 POLE, FUSED@ 20A prints its quantity as the literal text 'NAN EA' (PlanSwift not-a-number, nothing measured/placed); the schema requires a number so it is entered as 0 - treat it as NO VALUE/unmeasured, not a real zero. Row 2 name and row 8 name are truncated with '...' in the printed legend (METALLIC... and REQUIREMENT...); full text not available on the page. Quantities are printed to one decimal (e.g. 1.0 EA). Several rows share similar swatch colours (purple: toggle switch and slabbox; teal: GFCI receptacle and utility meter; salmon red: DDCV hot box and service disconnect) but are distinct rows. | Legend sits at the bottom-left corner of the page. It has 13 rows, all readable. IMPORTANT: The quantity for 'SAFETY SWITCH, 30A, 3 POLE, FUSED@ 20A' is printed as 'NAN EA', which is PlanSwift's not-a-number value, so there is no real measured quantity. 0 is only a stand-in because the schema needs a number. It is NOT a measured zero and should be treated as unknown ('\u2014'). On the drawing I could not see any marker in that slate-blue colour. Two names are cut off with '...' as printed: '120V, 20A TOGGLE SWITCH IN METALLIC BELL BOX W/ METALLIC...' and 'STUBOUT & TERMINATE PER UTILITY COMPANY REQUIREMENT...'. I copied them as shown. Several colours repeat across different items (purple: toggle switch and transformer slabbox; teal: GFCI receptacle and utility meter; red: DDCV hot box and service disconnect)."
+ },
+ {
+  "page": 43,
+  "sheet": "E-011",
+  "title": "ELECTRICAL PHOTOMETRIC SITE PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "1P4F LIGHT",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "2P4DA LIGHT",
+    "quantity": 4,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend is a 2-row box at the lower-left corner of the sheet, overlapping the lighting-standard notes text. Both rows clearly legible at 3.2x. Swatch counts match the plan markups (1 green, 4 yellow circles). | Legend at the bottom-left corner, overlapping the lighting standard notes. 2 rows, both read clearly at 4x."
+ },
+ {
+  "page": 44,
+  "sheet": "E-100",
+  "title": "ELECTRICAL POWER & AUXILIARY PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "QUAD RECEPTACLE, 20A, 125V",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "brownish red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DUPLEX RECEPTACLE, SURGE PROTECTIVE (LEVITON T5380W) 20A, 125V",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "USB DUPLEX RECEPTACLE, 20A, 125V",
+    "quantity": 7,
+    "unit": "EA",
+    "color": "brownish red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "JUNCTION BOX",
+    "quantity": 9,
+    "unit": "EA",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "COMBINATION DATA OUTLET",
+    "quantity": 14,
+    "unit": "EA",
+    "color": "indigo/slate blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SINGLE SWITCH, 120/277V, TOOGLE TYPE",
+    "quantity": 6,
+    "unit": "EA",
+    "color": "purple/orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PUSH BUTTON W/ 2\"W CUTIN BOX",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PUSH BUTTON W/ GANG DOOR PUSH PLATE & ELECTRIC BOX FOR PUSH PLATE",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RECESSED FLOOR BOX LEGRAND WIREMOLD #RFBA4C300G, RFBADP, RFBA24C4EXT,...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DUPLEX RECEPTACLE, 20A, 125V",
+    "quantity": 6,
+    "unit": "EA",
+    "color": "blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TEMPER RESISTANT DUPLEX RECEPTACLE, 20A, 125V",
+    "quantity": 5,
+    "unit": "EA",
+    "color": "magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "GFCI DUPLEX RECEPTACLE, 20A, 125V",
+    "quantity": 6,
+    "unit": "EA",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TEMPER RESISTANT GFCI DUPLEX RECEPTACLE, 20A, 125V",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "MOTOR RATED SINGLE SWITCH, 120/277V, TOOGLE TYPE",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TAMPER RESISTANT QUAD RECEPTACLE, 20A, 125V",
+    "quantity": 7,
+    "unit": "EA",
+    "color": "indigo/slate blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WEATHERPROOF SINGLE SWITCH, 120/277V, TOOGLE TYPE",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "purple/orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "20/2 NF DISCONNECT SWITCH",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(4) 3/4\"DIA IMC CONDUIT",
+    "quantity": 19.6,
+    "unit": "FT",
+    "color": "bright green (square swatch)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(4) 2\"DIA IMC W/ STRING CONDUIT",
+    "quantity": 19.5,
+    "unit": "FT",
+    "color": "yellow (square swatch)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SIMPLEX LEFT RECEPTACLE, 20A, 125V",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TAMPER RESISTANT DUPLEX RECEPTACLE, 20A, 125V W/ BLACK COVER PLATE",
+    "quantity": 5,
+    "unit": "EA",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "COMBINATION DATA OUTLET W/ BLACK COVER PLATE",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "JUNCTION BOX W/ 2\"W CUTIN BOX",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "MOTION SENSOR, ASSUMED",
+    "quantity": 6,
+    "unit": "EA",
+    "color": "magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DRIVE THRU ALERT LIGHT",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TEMPER RESISTANT DUPLEX RECEPTACLE, 20A, 125V- PROVIDE FACTORY ENGRAVED...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "brownish red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "4\" SQUARE JUNCTION BOX",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "USB DUPLEX RECETACLE, 20A, 125V",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "indigo/slate blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "20A, 125V QUAD RECEPTACLE W/ BLACK DEVICE & COVER PLATES",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "purple/orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "USB DUPLEX RECEPTACLE, 20A, 125V W/ BLACK DEVICE & COVER PLATES",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "COMBINATION DATA OUTLET W/ BLACK DEVICE & COVER PLATE",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "JUNCTION BOX W/ DOUBLE GANG, DEEP JBOX",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(2) 4\"DIA CONDUIT",
+    "quantity": 30.2,
+    "unit": "FT",
+    "color": "yellow (square swatch)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "(2) 2\"DIA CONDUIT",
+    "quantity": 30.2,
+    "unit": "FT",
+    "color": "light cyan (square swatch)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "GFCI DUPLEX RECEPTACLE, 20A, 125V- PROVIDE FACTORY ENGRAVED COVER PLATE ...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DUPLEX RECEPTACLE, 20A, 125V W/ COVER PLATE",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "VOLUMN CONTROL SWITCH BY OTHERS, GC TO INSTALL ONLY",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend is a 39-row block at the lower-left of the sheet, listed top to bottom; the full-page view and the 5x crop of the top rows confirm QUAD RECEPTACLE 20A, 125V is the first row and VOLUMN CONTROL SWITCH is the last. Rows 14 (TEMPER RESISTANT GFCI DUPLEX RECEPTACLE, 20A, 125V, first occurrence) prints 'NAN EA' instead of a number; I entered 0 as a placeholder because the schema requires a number, so treat it as unknown/not-a-number (the plan shows no measured quantity). Three names are truncated with '...' in the print and are transcribed as printed: the RECESSED FLOOR BOX row, the TEMPER RESISTANT DUPLEX ... FACTORY ENGRAVED row, and the GFCI DUPLEX ... FACTORY ENGRAVED COVER PLATE row. Spellings as printed (TOOGLE, TEMPER, TAMPER, RECETACLE, VOLUMN) are kept. Several names repeat with different swatches or quantities (e.g. TEMPER RESISTANT GFCI DUPLEX RECEPTACLE appears twice, NAN and 1.0) and were not merged. Four rows are linear conduit (square swatches, FT units); the rest are EA with round swatches. Swatch colours are approximate descriptions, and several rows share similar hues (olive, blue, magenta repeat). | Legend runs down the bottom-left edge (about x 0-0.28, y 0.61-0.97) with 38 rows, all read at 4x. Row 14 'TEMPER RESISTANT GFCI DUPLEX RECEPTACLE, 20A, 125V' (green) prints its quantity as 'NAN EA'. That is a PlanSwift NaN, not a measured zero. The value 0 was entered only because the schema requires a number, so treat it as unknown. A second row with the same name, further down (green), reads 1.0 EA. Typos are kept as printed: TOOGLE, TEMPER, RECETACLE, VOLUMN. Three names end in '...' because PlanSwift cut them off: the RECESSED FLOOR BOX row, the TEMPER RESISTANT DUPLEX ... FACTORY ENGRAVED row and the GFCI DUPLEX ... COVER PLATE row. The full text is not on the page. The conduit rows (19.6 FT, 19.5 FT, 30.2 FT, 30.2 FT) have square swatches. Swatch colours are approximate."
+ },
+ {
+  "page": 45,
+  "sheet": "E-101",
+  "title": "ELECTRICAL POWER ROOF PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "DISCONNECT SWITCH, PROVIDE NEMA 3R FUSIBLE DISCONNECT SWITCH",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "GFCI WEATHERPROOF DUPLEX RECEPTACLE, 20A 120V W/ METALLIC COVER",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PITCH POCKET",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "brownish red (dusty rose-brown)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "OUTLET BOX HOOD",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "green",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend at bottom-left, 4 rows, all clearly legible. Quantities printed with one decimal (e.g. 3.0 EA). | Legend sits along the bottom-left edge of the sheet. All 4 rows checked in a 4x crop and are clear."
+ },
+ {
+  "page": 46,
+  "sheet": "E-130",
+  "title": "ELECTRICAL LIGHTING PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "PB",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "AE",
+    "quantity": 6,
+    "unit": "EA",
+    "color": "slate blue/indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "A",
+    "quantity": 8,
+    "unit": "EA",
+    "color": "purple/orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "F3",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "G1",
+    "quantity": 22,
+    "unit": "EA",
+    "color": "red/coral",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "J",
+    "quantity": 9,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "JE",
+    "quantity": 4,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "GEM",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "X2",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "X1",
+    "quantity": 4,
+    "unit": "EA",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TE",
+    "quantity": 9,
+    "unit": "EA",
+    "color": "brownish red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "T",
+    "quantity": 7,
+    "unit": "EA",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "B",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "C",
+    "quantity": 53,
+    "unit": "EA",
+    "color": "dark blue/indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "X3",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "purple/orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "FEM",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "S",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "red/coral",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "U1",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "U3",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "L",
+    "quantity": 30.4,
+    "unit": "FT",
+    "color": "brownish red (square swatch)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "G",
+    "quantity": 26.8,
+    "unit": "FT",
+    "color": "green (square swatch)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "UC",
+    "quantity": 9.1,
+    "unit": "FT",
+    "color": "olive/khaki (square swatch)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SWITCH BANK FOR SWITCHES",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "slate blue/indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "LOW VOLTAGE DIMMING OVERRIDE SWITCH W/ COVER PLATE",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "purple/orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "OCCUPANCY SENSOR",
+    "quantity": 10,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DISCONNECT SWITCH",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "OPEN/CLOSE GANG SWITCH W/ (1) COVER PLATE FOR BOTH",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "red/coral",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DIMMER SWITCH, 20A, 120/277V",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "LOW VOLTAGE DIMMER SWITCH",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DIMMABLE POWER PACK LIGHTING CONTROL DEVICE",
+    "quantity": 7,
+    "unit": "EA",
+    "color": "blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WEATHER PROOF JUNCTION BOX",
+    "quantity": 6,
+    "unit": "EA",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SINGLE SWITCH 20A, 120/277V",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "brownish red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "INTERNET OF TEAM BMS LCP-SA LIGHTING CONTROL PANEL",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "LOW VOLTAGE 2-HOUR MANUAL OVERRIDE SWITCH",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "LOW VOLTAGE 2-HOUR MANUAL OVERRIDE DIMMER SWITCH",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "purple/orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "JUNCTION BOX",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PHOTOSENSOR",
+    "quantity": 4,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend at lower-left, 37 rows, overlapping faint ghosted switch-bank detail and keypad drawing behind it. Single-letter/short names (PB, AE, A, F3, G1, J, JE, GEM, X2, X1, TE, T, B, C, X3, FEM, S, U1, U3) are fixture type tags; L, G, UC are linear (FT) items shown with square swatches. Rows read at 3.2x and 5x zoom; all digits clear. Colours of near-identical hues (olive vs. khaki, indigo vs. blue) are approximate. | Long legend (37 rows) in the lower-left of the sheet, drawn over the faded switch-bank detail. Rows L, G and UC are linear items in FT with square swatches. All other rows are counts in EA. Every row was checked in 4x crops and all digits are legible. Fixture-tag rows (PB, AE, A, etc.) are printed as bare tags, transcribed as shown."
+ },
+ {
+  "page": 47,
+  "sheet": "E-150",
+  "title": "ELECTRICAL SECURITY PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "16",
+    "quantity": 10,
+    "unit": "EA",
+    "color": "red/coral",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "4",
+    "quantity": 5,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3",
+    "quantity": 8,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "9",
+    "quantity": 5,
+    "unit": "EA",
+    "color": "blue/periwinkle",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "7",
+    "quantity": 5,
+    "unit": "EA",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "12",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "10",
+    "quantity": 5,
+    "unit": "EA",
+    "color": "brown/maroon",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "2",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "11",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "slate blue/indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "20",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "purple/orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "6",
+    "quantity": 4,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "15",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "red/coral",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "13",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "5",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "8",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "blue/periwinkle",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "18",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "17",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "19",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "brown/maroon",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "14",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RFI: Per Sheet Notes 1 and 4, se...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend at lower-left corner of page, 21 rows. Item names are the security device schedule tag numbers (1-20) plus one RFI row. The RFI name is truncated with an ellipsis in the legend itself (printed as 'RFI: Per Sheet Notes 1 and 4, se...'); full text not available. Schedule on page maps tags to devices (1 alarm panel, 2 network video recorder, 3 IP dome camera indoor, 4 card reader, 5 video monitor, 6 electric strike, 7 motion detector, 8 alarm lamp/indicator light, 9 360 motion detector, 10 hold up button, 11 temperature sensor, 12 door contact, 13 alarm keypad, 14 analog miniature board camera, 15 roof contact, 16 360 IP dome camera, 17 IP miniature board camera, 18 alarm interface, 19 night deposit, 20 venus router), but legend rows print only the numbers. All digits verified on a 4x crop. | Legend sits at the lower left (about x 0-0.25, y 0.56-0.97), 21 rows. The item names are only the device numbers from the Security Device Schedule on the sheet (for example 16 = 360 IP Dome Camera, 3 = IP Dome Camera - Indoor); they are transcribed as printed. The last row name is cut off in the legend itself: 'RFI: Per Sheet Notes 1 and 4, se...'. All quantities were read clearly at 4x zoom. Several colours repeat across rows (red, green, yellow, blue, magenta, cyan, brown, dark green, olive)."
+ },
+ {
+  "page": 48,
+  "sheet": "E-160",
+  "title": "ELECTRICAL FIRE ALARM PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "FIRE ALARM PULL S...",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "slate blue/indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "FIRE ALARM ADA AP...",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "FIRE ALARM ANNUC...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "FIRE ALARM CONTR...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "red/coral",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "FIRE ALARM SMOKE...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "ALLOWANCE FOR W...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "blue/periwinkle",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend at lower-left corner, 7 rows. All names are truncated with ellipses in the legend itself, so full names are not readable. The two 'FIRE ALARM ADA AP...' rows are different items (purple 9 EA vs yellow 3 EA), likely ADA appliance variants such as horn/strobe vs strobe only, but this is not confirmed from the legend text. Quantities read clearly at 3.2x. | Legend sits at the lower left (about x 0-0.25, y 0.78-0.97), 7 rows. Every name is cut off with '...' in the legend itself, so the full text cannot be read. Likely full names from the plan (not printed in the legend): pull station, ADA strobe or horn/strobe, annunciator, control panel (FACP), smoke detector, ADA strobe, and an allowance item. Two different rows both read 'FIRE ALARM ADA AP...' (purple 9.0 EA and yellow 3.0 EA) and stay as separate rows. All quantities were read clearly at 4x zoom."
+ },
+ {
+  "page": 49,
+  "sheet": "E-702",
+  "title": "ELECTRICAL ELEVATIONS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "PANEL PP",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "purple",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PANEL RP-A",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "GFCI DUPLEX RECEPTACLE, 20A, 125V",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "light cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "LCP",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RELAY#2",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RELAY#3",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "QUAD RECEPTACLE, 20A, 125V",
+    "quantity": 14,
+    "unit": "EA",
+    "color": "brownish red (maroon)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3/4\"THK. FIRE RATED PLYWOOD BACKBOARD",
+    "quantity": 215.3,
+    "unit": "SQ FT",
+    "color": "purple (square swatch)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SECURITY PANEL",
+    "quantity": 7,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TELECOMMUNICATION BOX",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DIGITAL ALARM COMMUNICATOR TRANSMITTER",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DIMMER PANEL",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PANDUIT TWO POST CABLE MANAGMENT RACK SYSTEM",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "18\" STEEL HOMACO LADDER RACK",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "light cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "GROUND BUS BAR, 12\"x2\"x1/4\" COPPER GROUND BAR W/ STANDOFF INSULATORS...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "brownish red (maroon)",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits in the lower-left corner of the sheet, 15 rows. The last row name is truncated with '...' as printed (presumably continues past the legend box width). Spellings kept as printed (MANAGMENT, HOMACO). The plywood backboard row has a square swatch and a green marker icon at left instead of the dotted red marker. All quantities read clearly at 3.2x. | The legend is in the lower-left corner of the sheet: 15 rows, all clearly readable at 4x zoom. The last row's name is cut off with '...' in the legend itself, and I kept it as printed. 'MANAGMENT' is misspelled on the sheet and also kept as printed. The plywood backboard is the only area item (SQ FT); every other row is a count (EA)."
+ },
+ {
+  "page": 50,
+  "sheet": "E-703",
+  "title": "ELECTRICAL ELEVATIONS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "COMBINATION DATA OUTLET",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "slate blue / indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1-GANG BOX",
+    "quantity": 5,
+    "unit": "EA",
+    "color": "light cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "MECHOSHADES CONTROL SWITCH",
+    "quantity": 4,
+    "unit": "EA",
+    "color": "brownish red (maroon)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "MOOD MEDIA SWITCH",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RECESSED ELECTRICAL BOX (ARLINGTON BOXES TVBS507 3-GANG)",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "slate blue / indigo",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits in the lower-left corner of the sheet, 5 rows, all clearly legible at 3.2x. Spelling kept as printed (MECHOSHADES). | The legend is in the lower-left corner of the sheet: 5 rows, all clearly readable at 4x zoom. Every row is a count (EA)."
+ },
+ {
+  "page": 51,
+  "sheet": "E-704",
+  "title": "ELECTRICAL ELEVATIONS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "DISCONNECT SWITCH",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "blue (periwinkle/indigo)",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at the bottom-left corner of the page, partly outside the drawing border, with a single row. The legend box appears to run to the bottom page edge, so rows below could be cropped off, but nothing else is visible. The quantity is read clearly as 1.0 EA, and the blue dot on the sheet is in the Janitor 115/2 elevation (detail 8). A red dot cluster sits to the left of the label and is part of the legend icon. The edge of the page also carries a partly hidden timestamp, which is not legend text. | Legend sits at the bottom-left corner of the page, below the title-block line. It is a single row and reads clearly: DISCONNECT SWITCH 1.0 EA. The matching blue count marker is on Elevation 8 (Janitor 115/2) at the disconnect switch, next to the water heater coordination note. No other legend rows are on the page."
+ },
+ {
+  "page": 52,
+  "sheet": "M-101",
+  "title": "MECHANICAL SCHEDULES",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "No takeoff legend (colour swatch, item name and quantity) appears anywhere on this page, including the lower-left and lower-right crops. The sheet holds mechanical schedules: RTU, mini-split, exhaust fan, duct sizing, air distribution and notes. The only markup is red/maroon highlight shading over schedule rows and cells (RTU-1 and RTU-2 rows, the FCU-1/HP-1 capacity, voltage and weight cells, the EF-1 to EF-3 rows, and the LSD, LSR, diffuser and eggcrate grille text). These are highlights, not measured quantities, and none has a number with a unit. | Mechanical schedules sheet (M-101). There is no PlanSwift legend block with quantities. The only markup is red/maroon highlighting on schedule fields. It covers the RTU-1/RTU-2 rows of the packaged rooftop heat pump schedule (room temp, CFM, MERV 13, capacities, R-454B, natural gas, electrical, weight, SEER) and parts of the mini-split schedule (FCU-1/HP-1: rated/minimal cooling capacity, volt/ph/hz, unit weights). It also covers the exhaust fan schedule rows EF-1 to EF-3 (Greenheck SP-B90/SP-B110, ceiling, 55/80/80 CFM). In the air distribution schedule, the LSD (X) and LSR (X) marks and part of the description text are highlighted: the modulinear slot supply diffuser 4'-0\" long with insulated plenum box (Titus MLTI-39), the architectural square panel ceiling supply diffuser (Titus OMNI), and the eggcrate return air grille (Titus 50F). None of these highlights carries a measured quantity, so no items were recorded."
+ },
+ {
+  "page": 53,
+  "sheet": "M-301",
+  "title": "MECHANICAL PROPOSED CEILING PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "8x10 DUCT",
+    "quantity": 31.1,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "14x12 DUCT",
+    "quantity": 7.3,
+    "unit": "FT",
+    "color": "periwinkle blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "20x12 DUCT",
+    "quantity": 94.4,
+    "unit": "FT",
+    "color": "magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "24x12 DUCT",
+    "quantity": 13.3,
+    "unit": "FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "8\" DUCT",
+    "quantity": 113.7,
+    "unit": "FT",
+    "color": "brownish red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "8\"DIA FLEXIBLE DUCT",
+    "quantity": 50.1,
+    "unit": "FT",
+    "color": "olive",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "6\" DUCT",
+    "quantity": 18,
+    "unit": "FT",
+    "color": "slate indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "6\"DIA FLEXIBEL DUCT",
+    "quantity": 6.9,
+    "unit": "FT",
+    "color": "purple",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "10\" DUCT",
+    "quantity": 10.5,
+    "unit": "FT",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "10\"DIA FLEXIBLE DUCT",
+    "quantity": 4.8,
+    "unit": "FT",
+    "color": "salmon red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "14\" DUCT",
+    "quantity": 10.2,
+    "unit": "FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "14\"DIA FLEXIBLE DUCT",
+    "quantity": 3.1,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "16x12 DUCT",
+    "quantity": 41.4,
+    "unit": "FT",
+    "color": "periwinkle blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "LSD (2-48\")",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "LSD (3-48\")",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "LSD (2-48\")CFM: 140",
+    "quantity": 6,
+    "unit": "EA",
+    "color": "brownish red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "LSR (3-48\")",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "LSD (1-48\")",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "slate indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "LSD (1-48\")CFM: 90",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "purple",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "LSD (2-24\")",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "salmon red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EF-1",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EF2",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EF3",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "periwinkle blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "24\"x24\" SUPPLY AIR DIFFUSER",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "12\"x12\" SUPPLY AIR DIFFUSERCFM: 65",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "24\"x24\" RETURN AIR GRILLENECK SIZE: 12\"x12\"CFM: 360",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "24\"x24\" RETURN AIR GRILLE",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "24\"x24\" RETURN AIR GRILLENECK SIZE: 8\"x8\"CFM: 65",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "salmon red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "24\"x24\" RETURN AIR GRILLENECK SIZE: 16\"x16\"CFM: 1000",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "periwinkle blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "10x10 DUCT",
+    "quantity": 7.4,
+    "unit": "FT",
+    "color": "magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "8x8 DUCT",
+    "quantity": 10.6,
+    "unit": "FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "12x12 DUCT",
+    "quantity": 9.8,
+    "unit": "FT",
+    "color": "brownish red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "THERMOSTAT CONTROL",
+    "quantity": 4,
+    "unit": "EA",
+    "color": "slate indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CARBON DIOXIDE (C02) SENSOR",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "purple",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "VOC SENSOR",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PARTICLE COUNTER EQUAL TO SENSIRION AG SP530",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "salmon red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TEMPERATURE & RELATIVE HUMIDITY DISPLAY",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TEMPERATURE SENSOR",
+    "quantity": 4,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SUPPLY AIR TEMPERATURE SENSOR",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "periwinkle blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RETURN AIR TEMPERATURE SENSOR",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "REMOTE CABLE OPERATED DAMPER",
+    "quantity": 13,
+    "unit": "EA",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PETROLEUM BASED WAX CONTROLLED DAMPER",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "brownish red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "TITUS SB STEEL SECTORIZING BAFFLE",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PAINT LSD BLACK",
+    "quantity": 4,
+    "unit": "EA",
+    "color": "olive",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PAINT BLACK LSR",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "slate indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "REFRIGERANT PIPING, SIZE NOT GIVEN",
+    "quantity": 30.9,
+    "unit": "FT",
+    "color": "purple",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "MANUAL DAMPER",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend at lower right of sheet, 56 rows, partly overlapping the title block on its right edge (swatches visible). Read at 4x zoom; all digits clear. Spellings kept as printed, including '6\"DIA FLEXIBEL DUCT', 'C02', and rows where the CFM/NECK SIZE text is run together with the name (e.g. 'DIFFUSERCFM: 65', 'GRILLENECK SIZE'). Duplicate names (e.g. 24\"x24\" SUPPLY AIR DIFFUSER, LSD (2-24\"), LSD (3-48\")) are separate rows with different swatch colours and were not merged. Duct rows have square swatches with FT; device rows have round swatches with EA. | Legend block on the right side of the sheet, beside the title block (about x 0.62-0.89, y 0.36-0.95). 55 rows, all read clearly at zoom 4. Names are copied as printed, including the misspelling '6\"DIA FLEXIBEL DUCT', 'C02' written with a zero, and run-together text such as 'DIFFUSERCFM: 65' and 'GRILLENECK SIZE:'. Some names repeat with different swatch colours (several 24\"x24\" SUPPLY AIR DIFFUSER and RETURN AIR GRILLE rows, two LSD (2-24\") rows, two LSD (3-48\") rows). These are separate rows and were not merged."
+ },
+ {
+  "page": 54,
+  "sheet": "M-302",
+  "title": "MECHANICAL PROPOSED ROOF PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "HP-1",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "salmon red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RTU-1",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RTU-2",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "OUTDOOR AIR TEMPERATURE SENSOR",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1-1/2\" RTU CONDENSATE DRAIN W/ P-TRAP & REMOVEABLE VENTED CAP",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "24\"x22\" EXHAUST HOOD, NOA 19-0802.02 EQUAL TO GREENHECK FGR",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "slate indigo",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend at bottom-left of sheet, 6 rows, clear at 3.2x. Spelling 'REMOVEABLE' kept as printed. | Legend block in the bottom-left corner of the sheet (about y 0.89-0.97). 6 rows, all read clearly at zoom 5. 'REMOVEABLE' is spelled that way on the sheet."
+ },
+ {
+  "page": 55,
+  "sheet": "M-503",
+  "title": "MECHANICAL CONTROLS DETAILS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "DISCONNECT SWITCH",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "blue (periwinkle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3-POLE DISCONNECT SWITCH",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WIRED REMOTE CONTROLLER",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "cyan",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits in the lower-left corner of the page, 3 rows, all clearly legible at 3.2x. Each row carries a red dotted point-count icon. | The legend is at the bottom-left of the sheet, below detail 4. It has three count rows, all read clearly at 3.2x."
+ },
+ {
+  "page": 56,
+  "sheet": "P-301",
+  "title": "PLUMBING SANITARY FOUNDATION PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "3\"DIA STORM PIPE",
+    "quantity": 33.5,
+    "unit": "FT",
+    "color": "red/salmon",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "4\"DIA STORM PIPE",
+    "quantity": 12.7,
+    "unit": "FT",
+    "color": "green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1-1/4\"DIA CW",
+    "quantity": 2,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "4\"DIA SANITARY PIPE",
+    "quantity": 21.9,
+    "unit": "FT",
+    "color": "blue (periwinkle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3\"DIA SANITARY PIPE",
+    "quantity": 86.7,
+    "unit": "FT",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1\"DIA NATURAL GAS PIPE",
+    "quantity": 18.6,
+    "unit": "FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1-1/2\"DIA SANITARY PIPE",
+    "quantity": 3.6,
+    "unit": "FT",
+    "color": "brown/dusty rose",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "FL",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "magenta/pink (circle)",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits in the lower-left corner, 8 rows, all clearly legible at 3.2x. The first 7 rows are linear pipe runs (line icon); the last row, FL, is a point count (red dotted icon, pink circle swatch). The swatch for 3\"DIA SANITARY PIPE (rectangle) and FL (circle) are both magenta. | The legend is at the bottom-left of the sheet. It has seven linear pipe rows and one count row (FL, floor drains). All values read clearly at 3.2x. The FL marker is a magenta circle, the same colour as the 3\"DIA SANITARY PIPE swatch."
+ },
+ {
+  "page": 57,
+  "sheet": "P-302",
+  "title": "PLUMBING DOMESTIC FLOOR PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "CD",
+    "quantity": 7,
+    "unit": "EA",
+    "color": "slate blue / indigo (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1\"DIA HW",
+    "quantity": 162.2,
+    "unit": "FT",
+    "color": "purple / orchid (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3/4\"DIA CW",
+    "quantity": 39.8,
+    "unit": "FT",
+    "color": "teal (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "4\"DIA VENT PIPE",
+    "quantity": 47.3,
+    "unit": "FT",
+    "color": "red / salmon (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3\"DIA VENT PIPE",
+    "quantity": 12.8,
+    "unit": "FT",
+    "color": "bright green (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "2\"DIA VENT PIPE",
+    "quantity": 58.2,
+    "unit": "FT",
+    "color": "yellow (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SHUT-OFF VALVE",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "bright blue / periwinkle (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1-1/4\"DIA CW",
+    "quantity": 62.5,
+    "unit": "FT",
+    "color": "yellow (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "4\"DIA STORM PIPE",
+    "quantity": 103.7,
+    "unit": "FT",
+    "color": "bright green (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3\"DIA STORM PIPE",
+    "quantity": 25.8,
+    "unit": "FT",
+    "color": "red / salmon (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1\"DIA CW",
+    "quantity": 45.5,
+    "unit": "FT",
+    "color": "cyan / aqua (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "HB",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "brownish red / dusty rose (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "VB",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "medium green (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SK-U",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive / khaki (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CP",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "slate blue / indigo (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "MS",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "purple / orchid (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EWH",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "WC",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "red / salmon (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "LAV",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "bright green (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SK-T",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "yellow (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "EDF",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "bright blue / periwinkle (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1/2\"DIA CW PIPE TYPE K COPPER",
+    "quantity": 15.3,
+    "unit": "FT",
+    "color": "cyan / aqua (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DW",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "brownish red / dusty rose (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "STANDARD FILTER SIMILAR TO \"WHIRLPOOL L...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "medium green (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "18\"x18\"x6\"THK. CONCRETE PAD FOR CLEAN O...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "olive / khaki (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DSN",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "slate blue / indigo (circle)",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend is in the lower-left corner of the page, 26 rows, each with an icon (red-dot count marker for EA items, blue polyline icon for FT items) then name then quantity+unit then swatch (squares for linear items, circles for counts). Two names are truncated with an ellipsis in the print itself (STANDARD FILTER ... 'WHIRLPOOL L...' and 18\"x18\"x6\"THK. CONCRETE PAD FOR CLEAN O...), so the full text is not available. The legend box ends at DSN right at the bottom edge of the page; rows below it could be clipped by the page boundary but none are visible. Quantities read from the 3.2x crop with high confidence; all digits clear. Note that 'CD' (7.0 EA), 'CP' and 'DSN' share a similar slate-blue swatch, and 'SHUT-OFF VALVE' and 'EDF' share a brighter blue. | Legend in the lower-left corner of the sheet. It has 26 rows, and I read all of them in 4x crops. Two names are cut off by PlanSwift with an ellipsis in the printout: 'STANDARD FILTER SIMILAR TO \"WHIRLPOOL L...' and '18\"x18\"x6\"THK. CONCRETE PAD FOR CLEAN O...'. They are transcribed exactly as printed, ellipsis included. From the drawing notes, the full names are likely 'WHIRLPOOL LARGE CAPACITY...' and 'CLEAN OUT', but that is inferred and not printed in the legend."
+ },
+ {
+  "page": 58,
+  "sheet": "P-303",
+  "title": "PLUMBING PROPOSED ROOF PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "3/4\"DIA GAS PIPE",
+    "quantity": 44.2,
+    "unit": "FT",
+    "color": "olive / khaki (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1\"DIA GAS PIPE",
+    "quantity": 9.7,
+    "unit": "FT",
+    "color": "slate blue / indigo (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3/4\"DIA CW",
+    "quantity": 4.7,
+    "unit": "FT",
+    "color": "teal (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "4\"DIA STORM PIPE",
+    "quantity": 56.3,
+    "unit": "FT",
+    "color": "bright green (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3\"DIA STORM PIPE",
+    "quantity": 91.2,
+    "unit": "FT",
+    "color": "red / salmon (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1-1/2\"DIA CONDENSATE DRAIN PIPE, DIA ASSUMED",
+    "quantity": 34.5,
+    "unit": "FT",
+    "color": "purple / orchid (square)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "OD",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "teal (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RD",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "red / salmon (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "MANUAL SHUT-OFF VALVE",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "bright green (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RH-1",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "yellow (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SAFETY YELLOW PAINT AT ROOD GAS PIPE",
+    "quantity": 53.9,
+    "unit": "FT",
+    "color": "brownish red / dusty rose (square)",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend is in the lower-left corner, 11 rows, with the quantity column right-aligned near x~600 of the full page. Name 'SAFETY YELLOW PAINT AT ROOD GAS PIPE' is printed with 'ROOD' (typo for ROOF) and transcribed as printed. 'DIA ASSUMED' is printed as shown in the 1-1/2\" condensate row. All digits read clearly at 3.2x. The legend box ends at the bottom page edge right after the SAFETY YELLOW row; no further rows visible. | Legend in the lower-left corner of the sheet. It has 11 rows, all clearly legible in a 3.5x crop. 'ROOD' in the last row is printed that way, probably a typo for ROOF, and is transcribed as printed."
+ },
+ {
+  "page": 59,
+  "sheet": "P-402",
+  "title": "PLUMBING ISOMETRIC RISER DIAGRAM",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "FCO",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "blue (periwinkle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "NON FREEZE GROUND HYDRANT",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "magenta / pink",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at the bottom-left corner of the page and is cut off at the page edge, so more rows could exist below the visible area. The visible box ends right after the NON FREEZE GROUND HYDRANT row. Quantities read as 1.0 EA each; the FCO blue dot is on the sanitary riser and the pink dot (NFGH) is on the domestic water riser. | Legend sits at the bottom-left page edge and has 2 rows, both clearly legible. The markup circles match it: one FCO on the SAN/VENT riser and one NFWH (non-freeze wall hydrant) tag on the domestic water riser."
+ },
+ {
+  "page": 60,
+  "sheet": "P-403",
+  "title": "PLUMBING NATURAL GAS ISO PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "NATURAL GAS METER BY GAS COMPANY",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "cyan / light aqua",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at the bottom-left corner and is cut off at the page edge, so more rows could exist below the visible area. Only one row is visible. The cyan dot is on the natural gas meter on the plan. | Legend sits at the bottom-left page edge and has 1 row, clearly legible. It matches the cyan markup circle on the NATURAL GAS METER callout in the gas iso plan."
+ },
+ {
+  "page": 61,
+  "sheet": "P-501",
+  "title": "PLUMBING DETAILS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "ISOLATION & BALANCING VALVE",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "green",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend is a single row in the bottom-left strip of the sheet, spanning the lower-left corner. Quantity 1.0 EA is blue text with a green swatch at the right end of the row. The 1.0 is cut off at the right edge of the lower-left crop, but the whole-page render shows the full row. It matches the single green dot marker on detail 2 (Public Lavatory Supply Detail) at the isolation valve and balancing valve. No other legend rows are present. | The legend is a single row in a band across the bottom-left of the sheet, under detail 3. It shows a red dot icon, then 'ISOLATION & BALANCING VALVE', then '1.0 EA' in blue text with a green circle swatch. The one green count mark is on the isolation valve callout in detail 2 (Public Lavatory Supply Detail). No other legend rows on the page."
+ },
+ {
+  "page": 62,
+  "sheet": "C-0.0",
+  "title": "COVER",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "Cover sheet C-0.0 has no takeoff legend. It carries a sheet index, site summary, project team, general notes and a title block. The only markup is a purple highlight on the 'TOTAL DISTURBED AREA = 0.9 ACRES' line in the Disturbed Area box. That highlight is not a legend row and has no quantity or unit. | C-0.0 is the civil cover sheet: title, location maps, sheet index, site summary and notes. There is no takeoff legend. The faint purple highlights behind 'TOTAL DISTURBED AREA = 0.9 ACRES' and the site area value in the Site Summary look like part of the original drawing, not takeoff marks."
+ },
+ {
+  "page": 63,
+  "sheet": "C-0.1",
+  "title": "GENERAL NOTES",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "C-0.1 General Notes sheet: text-only notes columns (General, Erosion Control, Grading, Drainage, Utility, Traffic Control, Demolition, As-Built notes) plus title block. No PlanSwift takeoff legend or measured quantities present. | C-0.1 General Notes sheet: text-only notes (General, Erosion Control, Grading, Drainage, Utility, Traffic Control, Demolition, As-Built). It has no takeoff markup legend."
+ },
+ {
+  "page": 64,
+  "sheet": "C-1.0",
+  "title": "DEMOLITION PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "1: REMOVE EXISTING CURB & GUTTER",
+    "quantity": 987.2,
+    "unit": "FT",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "2: REMOVE EXISTING TWO STORY BUILDING STRUCTURE AND FOUNDATION",
+    "quantity": 4489.1,
+    "unit": "SQ FT",
+    "color": "red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "2: REMOVE EXISTING ONE STORY BUILDING STRUCTURE AND FOUNDATION",
+    "quantity": 1713.7,
+    "unit": "SQ FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "9: REMOVE EXISTING SIDEWALK",
+    "quantity": 390.2,
+    "unit": "SQ FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "10: REMOVE EXISTING  MONUMENT SIGN",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "blue (periwinkle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "11: REMOVE EXISTING CONCRETE RAMP",
+    "quantity": 442.4,
+    "unit": "SQ FT",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "11: REMOVE EXISTING BRICK STAIR STEPS",
+    "quantity": 7,
+    "unit": "EA",
+    "color": "brownish red (rose-brown)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "7: REMOVE EXISTING PAVEMENT W/ PAVEMENT STRIPING",
+    "quantity": 19363.6,
+    "unit": "SQ FT",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "8: REMOVE EXISTING TREES/VEGETATION",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "slate blue/purple",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "6: REMOVE EXISTING WATER LINE AND ASSOCIATED STRUCTURES",
+    "quantity": 55.6,
+    "unit": "FT",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "5: REMOVE EXISTING POWER LINE AND ASSOCIATED STRUCTURES",
+    "quantity": 965.4,
+    "unit": "FT",
+    "color": "red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "REMOVE EXISTING METAL HANDRAIL",
+    "quantity": 76.2,
+    "unit": "FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "4: REMOVE EXISTING STORM SEWER LINE AND ASSOCIATED STRUCTURES - ASSUMED",
+    "quantity": 107.1,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "4: REMOVE EXISTING STORM STRUCTURE",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "blue (periwinkle)",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at lower-left, overlaid on the plan; 14 rows, all read from a 5x crop with quantities right-aligned in blue text and swatch squares at far right. The METAL HANDRAIL row has no numeric prefix (as printed). Note the double space in '10: REMOVE EXISTING  MONUMENT SIGN' as printed. Names are printed in caps with '2:' used twice (two-story and one-story) and '11:' used twice (ramp and brick steps). The printed 'TREES/VEGETATION' appears with a slash. The separate drawing legend and key notes on the right of the sheet are the engineer's CAD legend, not takeoff rows, and were excluded. | The PlanSwift legend is in the lower-left corner of the sheet, across the bottom-left of the plan. I checked every row at 5x zoom and all values are clear. Two rows start with '2:' and two start with '11:', as printed. The METAL HANDRAIL row has no key-note number. The sheet's printed LEGEND and KEY NOTES boxes on the right are part of the drawing, not the takeoff legend, so I did not include them."
+ },
+ {
+  "page": 65,
+  "sheet": "C-2.0",
+  "title": "ESPC PHASE 1",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "CO: CONSTRUCTION EXIT",
+    "quantity": 1569.4,
+    "unit": "SQ FT",
+    "color": "dusty brick red / maroon",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "CONCRETE WASHOUT",
+    "quantity": 25.1,
+    "unit": "SQ FT",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "FUEL STORAGE",
+    "quantity": 25.1,
+    "unit": "SQ FT",
+    "color": "olive / khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SD1-NS: SEDIMENT BARRIER - NON SENSITIVE",
+    "quantity": 767.9,
+    "unit": "FT",
+    "color": "slate blue / indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RT-B: SLOTTED BOARD DAM RETROFIT",
+    "quantity": 5.1,
+    "unit": "FT",
+    "color": "purple / orchid",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DS1, DS2 & DU",
+    "quantity": 15581.9,
+    "unit": "SQ FT",
+    "color": "coral red",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend is a 7-row overlay at the bottom-left of the sheet, with the swatch at the right end of each row. All text was clear at 4x zoom. The two DS1, DS2 & DU rows have identical names but different colours (teal 20298.9, red 15581.9), so I kept them as separate rows. | Legend at lower-left of the sheet. Area items have area icons, SD1-NS and RT-B have linear icons. The two 'DS1, DS2 & DU' rows are different areas (teal 20298.9 and red 15581.9 SQ FT), so they are kept as separate rows. Every digit checked on a 4x crop."
+ },
+ {
+  "page": 66,
+  "sheet": "C-2.1",
+  "title": "ESPC PHASE 2",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "SD2-F: TRMPORARY INLETE SEDIMENT TRAP( FILTER FABRI...",
+    "quantity": 193.7,
+    "unit": "FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "RT-P: PERFORATED HALF-ROUND PIPE RETROFIT",
+    "quantity": 7.5,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SS, DS3: AREA",
+    "quantity": 2114,
+    "unit": "SQ FT",
+    "color": "periwinkle blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "ST-1:",
+    "quantity": 962.4,
+    "unit": "SQ FT",
+    "color": "magenta / pink",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend is a 4-row overlay at the bottom-left of the sheet, with the swatch at the right end of each row. The first row name is truncated with an ellipsis in the markup itself (FILTER FABRI...), and I transcribed it as printed, including the typos TRMPORARY and INLETE. The ST-1 row has no description after the colon. All digits were clear at 4x zoom. | Legend at lower-left of the sheet. The SD2-F row name is cut off by PlanSwift with '...' after 'FILTER FABRI'. The misspellings 'TRMPORARY' and 'INLETE' are copied as printed. The ST-1 row has no text after the colon. Every digit checked on a 4x crop."
+ },
+ {
+  "page": 67,
+  "sheet": "C-2.2",
+  "title": "ESPC PHASE 3",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "TEMPORARY INLET SEDIMENT  TRAP (CURB INLET PROTEC...",
+    "quantity": 74.5,
+    "unit": "FT",
+    "color": "light cyan / aqua",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DS4",
+    "quantity": 14393.7,
+    "unit": "SQ FT",
+    "color": "muted brick red / maroon",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend is a PlanSwift overlay strip at the bottom-left of the sheet, two rows. Row 1 name is truncated with an ellipsis as printed (full name presumably TEMPORARY INLET SEDIMENT TRAP (CURB INLET PROTECTION)); I transcribed it as shown, with the double space between SEDIMENT and TRAP. Digits verified on a 5x crop. The unit on row 2 is printed as SQ FT. The Erosion Control Legend table on the sheet (Ds3, Ds4, Ss, Sd2-P, St) is part of the drawing, not a takeoff legend, and has no quantities. | Legend is a 2-row strip across the bottom-left of the page, below the drawing border (spans roughly 0-62% width at ~88-92% height). Row 1 name is truncated with an ellipsis as printed in the legend; full name likely 'TEMPORARY INLET SEDIMENT TRAP (CURB INLET PROTECTION)' but transcribed as printed (note the double space before TRAP). Quantities confirmed from a 4x crop."
+ },
+ {
+  "page": 68,
+  "sheet": "C-2.3",
+  "title": "ESPC NOTES 1",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "Sheet C-2.3 is an all-text notes sheet (permit coverage, erosion control notes, schedule of activities, inspections and so on). No PlanSwift markup legend, swatches or measured quantities were visible on the full page or the lower-left crop. | C-2.3 ESPC NOTES 1 is a notes-only sheet (permit coverage, ES&PC notes, sampling, inspections, schedule). It has no takeoff legend or markup."
+ },
+ {
+  "page": 69,
+  "sheet": "C-2.4",
+  "title": "ESPC NOTES 2",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "C-2.4 ESPC NOTES 2 is a text and notes sheet (GSWCC checklist, best management practices, retention of records, keeping plant clean, inspection and maintenance procedures, pollution prevention, product specific practices, spill prevention, seeding requirements, NTU tables, state waters notes, certification). No PlanSwift takeoff legend, colour swatches or measured quantities anywhere on the page, checked full page and the lower-left and lower-right crops. The only numeric tables are specification content (seeding rates, turbidity values), not takeoff quantities. | C-2.4 ESPC NOTES 2 is a notes sheet: GSWCC checklist, seeding requirements, NTU tables, BMP/spill/records notes, certification. There is no PlanSwift takeoff legend and there are no measured quantities. The only markup is small numbered callout tags with arrows (e.g. 54, 35, 12 13, 2, 8) beside the section headers, and none of them carry a quantity."
+ },
+ {
+  "page": 70,
+  "sheet": "C-2.5",
+  "title": "ESPC DETAILS 1",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "C-2.5 ESPC DETAILS 1 is a detail sheet with 12 detail panels (inlet sediment trap, dust control, silt fence, compost filter sock, disturbed area stabilization, riprap outlet, mulching/fertilizer rates, slope stabilization, outlet protection, concrete washdown, construction exit, uniform coding system). Light purple highlight bands appear only behind detail titles and a few callout texts (e.g. PROVIDE 7'x7' CONCRETE WASHOUT AREA, ENTRANCE ELEVATION, CRUSHED STONE CONSTRUCTION EXIT). These are text highlights, not takeoff legend rows. No list of swatch, item name and measured quantity with unit exists on the page, checked full page and the lower-left and lower-right crops. | C-2.5 ESPC DETAILS 1 is a standard detail sheet. The only markup is purple highlight boxes over detail titles and labels: INLET SEDIMENT TRAP (Sd2-P), DUST CONTROL (Du), COMPOST FILTER SOCK (Sd1-NS), DISTURBED AREA STABILIZATION (Ds1), CONCRETE WASHDOWN, 'PROVIDE 7'x7' CONCRETE WASHOUT AREA', CRUSHED STONE CONSTRUCTION EXIT, ENTRANCE ELEVATION, the N.S.A. R-2 coarse aggregate / geotextile underliner callouts, and CONSTRUCTION EXIT (Co). There is no legend block with swatches and measured quantities."
+ },
+ {
+  "page": 71,
+  "sheet": "C-2.6",
+  "title": "ESPC DETAILS 2",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "C-2.6 ESPC details sheet (erosion control details, vegetative practice tables). No PlanSwift legend on the full page or the lower-left crop; no takeoff markup visible. | C-2.6 ESPC Details 2 is a detail/table sheet only (silt fence inlet protection, half-round pipe filter, fertilizer table, sodding, permanent/temporary vegetative practices tables). No PlanSwift takeoff legend or markup present."
+ },
+ {
+  "page": 72,
+  "sheet": "C-3.0",
+  "title": "SITE PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "3:HEAVY DUTY ASPHALT PAVEME...",
+    "quantity": 11367.3,
+    "unit": "SQ FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "4: STANDARD DUTY ASPHALT PAV...",
+    "quantity": 2459.2,
+    "unit": "SQ FT",
+    "color": "brown/dusty red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "5: CONCRETE SIDEWALK -C6.0",
+    "quantity": 1834.7,
+    "unit": "SQ FT",
+    "color": "green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "6: GDOT STANDARD ADA RAMP WI...",
+    "quantity": 113.3,
+    "unit": "SQ FT",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1: 24\" CURB & GUTTER - C6.0",
+    "quantity": 993.9,
+    "unit": "FT",
+    "color": "slate blue/indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "21: HEAVY DUTY CONCRETE PAVE...",
+    "quantity": 241.8,
+    "unit": "SQ FT",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "16: 4\" W SINGLE SOLID WHITE LINE (...",
+    "quantity": 441.3,
+    "unit": "FT",
+    "color": "red/salmon",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "17: WHITE STRIPED PEDESTRIAN CR...",
+    "quantity": 79.5,
+    "unit": "FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "4\" W DA 45 DEGREE PAVEMENT MARKI...",
+    "quantity": 97.5,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "ADA PAINTED PARKING SIGN",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "blue (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "ADA PARKING SIGN - C6.0",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "magenta/pink (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DUMPSTER ENCLOSURE WALL",
+    "quantity": 36.2,
+    "unit": "FT",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DUMPSTER BOLLARDS",
+    "quantity": 5,
+    "unit": "EA",
+    "color": "brown/dusty red (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "DUMPSTER GATE",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "green (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "12: R1-1:STOP SIGN",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "olive/khaki (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "13: RF-1: DO NOT ENTER SIGN",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "slate blue/indigo (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "24\" WHITE STOP BAR - C6.0",
+    "quantity": 49.6,
+    "unit": "FT",
+    "color": "purple/mauve",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "ARROW MARKING",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "teal (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "14: TRANSFORMER PAD",
+    "quantity": 16,
+    "unit": "SQ FT",
+    "color": "red/salmon",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "18: HEAVY DUTY CONCRETE PAVE...",
+    "quantity": 505.8,
+    "unit": "SQ FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "20: DRIVE TRRU EQUIPMENT - SEE AR...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "yellow (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "PROPOSED MONUMENT SIGN",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "blue/periwinkle (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "23: PROPOSED STORMWATER PO...",
+    "quantity": 3074,
+    "unit": "SQ FT",
+    "color": "magenta/pink",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "19:BIKE RACK",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "cyan (circle)",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at the lower-left of the page, overlapping the plan, with 31 rows. Several names are truncated with '...' in the legend itself, so the full names are not recoverable: rows 3, 4, 6, both 21s, 16, 17, 4\" W DA 45, 18, 20 and 23. Two rows are both labeled '21: HEAVY DUTY CONCRETE PAVE...' with different quantities (384.3 purple, 241.8 teal) and are listed separately. 'DRIVE TRRU' is printed that way. All quantities were read at 5x zoom and are clear. Colours are approximate. | Legend sits at lower-left of the sheet (about x 0-0.27, y 0.53-0.93), 25 rows, read from 5x crops. Several names are cut off with '...' in the legend itself (the full names are not printed). Two separate rows are both labeled '21: HEAVY DUTY CONCRETE PAVE...' (384.3 SQ FT purple and 241.8 SQ FT teal). 'TRRU' (meaning THRU) is spelled that way on the legend. The units appear exactly as printed: SQ FT, FT, EA. All digits were legible."
+ },
+ {
+  "page": 73,
+  "sheet": "C-4.0",
+  "title": "GRADING PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "437.500 - Existing",
+    "quantity": 2991.5,
+    "unit": "SQ FT",
+    "color": "light khaki / pale tan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "439.500 - Existing",
+    "quantity": 11373.4,
+    "unit": "SQ FT",
+    "color": "olive khaki (medium tan-green)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "441.000 - Existing",
+    "quantity": 5128.9,
+    "unit": "SQ FT",
+    "color": "pale khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "440.000 - Existing",
+    "quantity": 1531.8,
+    "unit": "SQ FT",
+    "color": "khaki tan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "438.500 - Existing",
+    "quantity": 16957.7,
+    "unit": "SQ FT",
+    "color": "dark olive khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "439.000 - Existing",
+    "quantity": 3080.6,
+    "unit": "SQ FT",
+    "color": "light khaki / pale tan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "440.000 - Proposed",
+    "quantity": 20233.7,
+    "unit": "SQ FT",
+    "color": "light aqua / turquoise",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "439.500 - Proposed",
+    "quantity": 498.8,
+    "unit": "SQ FT",
+    "color": "light sky blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "439.000 - Proposed",
+    "quantity": 4284.7,
+    "unit": "SQ FT",
+    "color": "medium steel blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "436.500 - Proposed",
+    "quantity": 2167.8,
+    "unit": "SQ FT",
+    "color": "light aqua / turquoise",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "435.000 - Proposed",
+    "quantity": 967.6,
+    "unit": "SQ FT",
+    "color": "very pale cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "438.000 - Proposed",
+    "quantity": 716.1,
+    "unit": "SQ FT",
+    "color": "bright medium blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "437.000 - Proposed",
+    "quantity": 438.2,
+    "unit": "SQ FT",
+    "color": "pale sky blue",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at lower-left of page, 14 rows (6 Existing, 8 Proposed), each with an E or P icon. All digits read clearly in the 3.2x and 4x crops. Elevation values appear in the order printed, not sorted; 439.500 appears twice as Existing and as Proposed (different rows), and 440.000 and 439.000 also appear in both Existing and Proposed. Several swatch colours are near-identical (e.g. 437.500 and 439.000 Existing; 440.000 and 436.500 Proposed; 439.500 and 435.000 Proposed). | Legend at lower-left of page, 14 rows of grading area takeoffs (6 Existing, 6+2 Proposed elevations). Two separate '439.500 - Proposed' rows with different quantities and swatches (3841.3 very pale cyan, 498.8 light blue). All digits clear at 3.2x. Swatch colours approximate."
+ },
+ {
+  "page": 74,
+  "sheet": "C-4.0",
+  "title": "GRADING PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "8\" HDPE HEADER PIPE FOR ROOF DRAIN",
+    "quantity": 168.2,
+    "unit": "FT",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "A1-STHW: HEADWALL",
+    "quantity": 8.8,
+    "unit": "FT",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "A2-2-STGI: HOODED GRATE INLET",
+    "quantity": 5,
+    "unit": "EA",
+    "color": "blue / periwinkle (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "YARD INLET",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "magenta / pink (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "JUNCTION BOX",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "cyan / aqua (circle)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "OUTLET CONTROL STRUCTURE",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "brown / dusty maroon (circle)",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at lower-left of page, 6 rows. All values were read at 4x zoom and are clear. HEADWALL is printed in FT (8.8 FT) rather than EA, transcribed as printed. Row names are verbatim; the page's storm structure table lists additional inlets, but only these 6 legend rows were transcribed. | Legend at lower-left of page, 6 rows (storm drainage linear + count items). Quantities verified with 5x crop."
+ },
+ {
+  "page": 75,
+  "sheet": "C-4.1",
+  "title": "STORM PROFILES",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "No PlanSwift takeoff legend (colour swatch + item + measured quantity) found on the full page or in the lower-left/lower-right crops. Page is a clean engineering sheet. The only 'legends' are the drawing's own STRUCTURE TYPES table and PROFILE LEGEND (existing grade, proposed grade, 100 YR HGL line styles) in the upper right, plus Storm Sewer Tabulation and Inlet Report tables. None are takeoff rows. Profile callouts (not takeoff legend, not transcribed): 10 LF 18\" HDPE @0.50%, 30 LF 18\" HDPE @0.50%, 70 LF 18\" HDPE @0.50%, 40 LF 18\" HDPE @1.50%, 90 LF 18\" HDPE @0.50%, 20 LF 18\" HDPE @0.50%, 21 LF 18\" HDPE @0.50% (printed in the profile callouts; small text, digits not verified at high zoom). | No PlanSwift takeoff legend and no coloured takeoff markups on this page. The page shows only the engineer's original drawing: storm profiles A1-A4, A2-A2.2, B1-B2 and C1-C2, the Storm Sewer Tabulation and Inlet Report tables, a STRUCTURE TYPES table, and a CAD 'PROFILE LEGEND' at the upper right (existing grade, proposed grade, 100 yr HGL lines). That legend is part of the drawing and has no quantities. Pipe callouts on the profiles (for example '21 LF OF 18\" HDPE @ 0.50%') are drawing annotations, not estimator legend rows, so they are not transcribed here."
+ },
+ {
+  "page": 76,
+  "sheet": "C-4.2",
+  "title": "INFILTRATION BASIN DETAIL",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "No PlanSwift takeoff legend found. Sheet is an infiltration basin section detail and infiltration trench cross section with design callouts only (e.g. 18\" HDPE storm drain, 6\" perforated HDPE underdrain, 6 OZ/SY non-woven geotextile fabric, 24\"x24\" trash rack, concrete riser, provided WQv = 2,225 CF, bottom of gravel 429.5, bottom of basin 435.00). These are drawing annotations, not measured takeoff quantities. No colour-swatch rows anywhere on the page. | No PlanSwift takeoff legend and no coloured takeoff markups on this page. The page shows only the engineer's original Infiltration Basin Detail and Infiltration Trench Cross Section, with text callouts (6 OZ/SY non-woven geotextile fabric, 6\" perforated HDPE underdrain, 18\" HDPE storm drain, provided WQv = 2,225 CF, elevations). None of these has a measured takeoff quantity."
+ },
+ {
+  "page": 77,
+  "sheet": "C-5.0",
+  "title": "UTILITY PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "6\" SANITARY PIPE LINE -",
+    "quantity": 295.8,
+    "unit": "FT",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "SANITARY CLEANOUTS",
+    "quantity": 6,
+    "unit": "EA",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "1: UNDERGROUND GAS SERVICE LINE - COORDI...",
+    "quantity": 156.4,
+    "unit": "FT",
+    "color": "cyan/aqua",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "2: CONNECTION AT EXISTING MANHOLE FOR SANI...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "dusty red/brown",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3: UNDERGROUND POWER SERVICE.",
+    "quantity": 72.9,
+    "unit": "FT",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "4: UNDERGROUND TELEPHONE SERVICE",
+    "quantity": 74.4,
+    "unit": "FT",
+    "color": "olive/khaki",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "5: PROPOSED 8\"x8\"x1\" TAPPING SADDLE AND CO...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "blue-purple/indigo",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "8: 1\" PVC DOMESTIC WATERINE",
+    "quantity": 138.3,
+    "unit": "FT",
+    "color": "purple/magenta",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "9: 1\" DOMESTIC WATER METER",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "9: 1\" DOMESTICRPZ BACKFLOW PREVENTER",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "light red/coral",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits across the lower-left of the page, overlaying the drawing. Three names are truncated with an ellipsis by PlanSwift and the full text is not recoverable: row 3 (GAS SERVICE LINE - COORDI...), row 4 (CONNECTION AT EXISTING MANHOLE FOR SANI...), row 7 (PROPOSED 8\"x8\"x1\" TAPPING SADDLE AND CO...). Row 1 name ends with a dangling dash, as printed. Spellings 'WATERINE' and 'DOMESTICRPZ' are as printed. Pipe-line rows have a polyline icon, count rows have a dotted-point icon. All digits were read on a 4x crop. Sheet's own tables list sanitary pipe lengths S1-S2..S7-S8 of 49.92, 92.03, 14.14, 90.70, 14.14, 23.03, 12.00 (sum 295.96), vs. legend 295.8. | The legend sits along the bottom-left edge of the sheet, below the site plan. It has 10 rows, all clearly readable in a 4x crop. Three names are cut off with '...' in the legend itself and are transcribed exactly as shown: 'COORDI...', 'SANI...' and 'CO...'. Two rows both start with the tag '9:' as printed. 'DOMESTICRPZ' is printed with no space. 'WATERINE' is printed as shown, not 'WATERLINE'. Swatch shapes: square swatches go with the FT line items and circle swatches with the EA count items."
+ },
+ {
+  "page": 78,
+  "sheet": "C-5.1",
+  "title": "SANITARY PROFILES",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "Sanitary profile sheet C-5.1. No PlanSwift takeoff legend and no markup overlay is present. The only text on the sheet is the engineer's profile legend and structure types. Profile annotations such as 50 LF OF 6\" PVC are printed drawing text, not takeoff rows. | This is a sanitary profile sheet (SANITARY S1-S8) with no PlanSwift takeoff legend. I checked the full page and the lower-left and lower-right crops. The only legend-like blocks are the printed STRUCTURE TYPES and PROFILE LEGEND boxes, which are part of the drawing and not takeoff items. The profile notes the pipe segments in LF of 6\" PVC (e.g. 50 LF), but these are design annotations, not estimator quantities."
+ },
+ {
+  "page": 79,
+  "sheet": "C-6.0",
+  "title": "CONSTRUCTION DETAILS 1",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "C-6.0 is a detail sheet with no takeoff legend (no swatch, name and quantity rows). I checked the full page and the lower-left and lower-right crops. The only markup is light purple highlighting over detail titles (ADA PARKING DETAIL, ADA PARKING SYMBOL DETAIL, TRAFFIC SIGN MOUNTING DETAIL, STOP BAR DETAIL, ADA SIGN MOUNTING DETAIL, CURB & GUTTER DETAIL, PAVEMENT MARKING DETAIL, SIDEWALK DETAIL, ADA SIGN DETAIL) and over a few note text blocks. There are no measured quantities or units anywhere on the page. The right-hand strip is the title block (Construction Details - 1, C-6.0). | C-6.0 Construction Details 1. No takeoff legend anywhere on the page (checked full page, lower-left and lower-right crops). The only markups are translucent purple highlight boxes over some detail titles: ADA Parking, ADA Parking Symbol, Traffic Sign Mounting, Stop Bar, ADA Sign Mounting, Curb & Gutter, Pavement Marking, Sidewalk and ADA Sign Detail. There are also highlights over some note text: the stop-bar paint note, the sidewalk expansion/contraction joint note (25' max expansion, 5' contraction, 3000 PSI, 2\" slump, broom finish), the ADA parking blue-line note, the van-accessible sign and the contractor-compliance note. These are review highlights only, with no swatch, quantity or unit."
+ },
+ {
+  "page": 80,
+  "sheet": "C-6.1",
+  "title": "CONSTRUCTION DETAILS 2",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "C-6.1 is a detail sheet with no takeoff legend and no markup highlights. It holds four GDOT standard details (Inlet, Manhole, Detectable Warning, ADA Ramp) and the title block (Construction Details - 2, C-6.1). I checked the full page and the lower-left and lower-right crops. There are no measured quantities or units anywhere on the page. | C-6.1 Construction Details 2. These are GDOT standard details: Inlet, Manhole, Detectable Warning and ADA Ramp. No takeoff legend and no markups were found anywhere on the page (checked full page, lower-left and lower-right crops)."
+ },
+ {
+  "page": 81,
+  "sheet": "C-6.2",
+  "title": "CONSTRUCTION DETAILS 3",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "C-6.2 is a standard-details sheet: sanitary sewer bedding, drop tie-in, tracer wire, cleanout to grade, and a dome grate cut sheet. I checked the full page and the lower-left and lower-right crops. There is no PlanSwift takeoff legend, no colour swatches and no measured quantities. The title block is on the right edge. | C-6.2 Construction Details 3: only standard details (sanitary sewer bedding, drop tie-in, tracer wire, cleanout to grade, Nyloplast 18 in dome grate). I checked the full page and the lower-left crop and found no PlanSwift legend block, coloured swatches or takeoff markups."
+ },
+ {
+  "page": 82,
+  "sheet": "C-6.3",
+  "title": "CONSTRUCTION DETAILS 4",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "C-6.3 is a standard-details sheet: water line bedding, thrust blocks, line conflict, cutting-in sleeve, tapping sleeve, valve setting, tracer wire and water meter. I checked the full page and the lower-left and lower-right crops. There is no PlanSwift takeoff legend, no colour swatches and no measured quantities. The title block is on the right edge. | C-6.3 Construction Details 4: only standard water details (water line bedding, thrust blocks, water line conflict, cutting-in sleeve, tapping sleeve, valve setting, tracer wire, water meter). I checked the full page and the lower-left crop and found no PlanSwift legend block, coloured swatches or takeoff markups."
+ },
+ {
+  "page": 83,
+  "sheet": "L-1.0",
+  "title": "LANDSCAPE PLAN",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "American Holly (Ilex opaca 'Greenleaf')",
+    "quantity": 5,
+    "unit": "EA",
+    "color": "light purple highlight over common + botanical name cells only",
+    "verified": "settled by third reader"
+   },
+   {
+    "name": "Eastern Redcedar (Juniperus virginiana)",
+    "quantity": 11,
+    "unit": "EA",
+    "color": "light purple highlight over common + botanical name cells only",
+    "verified": "settled by third reader"
+   },
+   {
+    "name": "Florida Sunshine Anise (Illicium parviflorum 'Florida Sunshine')",
+    "quantity": 17,
+    "unit": "EA",
+    "color": "light purple highlight over common + botanical name cells only",
+    "verified": "settled by third reader"
+   },
+   {
+    "name": "Don's Dwarf Wax Myrtle (Myrica cerifera 'Don's Dwarf')",
+    "quantity": 15,
+    "unit": "EA",
+    "color": "name cells not highlighted; purple band covers the quantity/size columns of this row and the TOTAL NUMBER OF SHRUBS row below it",
+    "verified": "settled by third reader"
+   },
+   {
+    "name": "Pinestraw (Mulch A)",
+    "quantity": 2500,
+    "unit": "S.F.",
+    "color": "light purple highlight over full row including quantity",
+    "verified": "settled by third reader"
+   },
+   {
+    "name": "Sod",
+    "quantity": 11500,
+    "unit": "S.F.",
+    "color": "light purple highlight over full row including quantity",
+    "verified": "settled by third reader"
+   }
+  ],
+  "disputedCount": 6,
+  "notes": "Page 83 has no PlanSwift swatch-style legend. The only quantity block is the architect's printed PLANT LIST (lower right, above title block) with the estimator's purple highlighter marks over some rows. I transcribed its rows. Tree and shrub quantities have no unit printed (plain counts); I entered EA for them, which is my inference. Pinestraw and Sod units are printed as S.F. Printed subtotals (not transcribed as items): TOTAL NUMBER OF TREES 16 (5+11 checks); TOTAL NUMBER OF SHRUBS 32 (17+15 checks). The Pinestraw row botanical column reads 'Mulch A'; Sod botanical reads '---'. The Don's Dwarf Wax Myrtle row is not highlighted in purple while Florida Sunshine Anise is. Plant list also gives size/spacing: American Holly 6' HT 12' O.C.; Eastern Redcedar 6' HT 40' O.C.; both shrubs 3 GAL 5' O.C. Plan callouts show (7) ANISE, (3) ANISE, (6) WAX MYRTLE, (1) EASTERN REDCEDAR, (11) AMERICAN HOLLY, (9) WAX MYRTLE, (5) EASTERN REDCEDAR, (7) ANISE, which differ from the plant list counts; I did not reconcile them. Hatch legend (SOD / GRASS, MULCH, 20' DRAINAGE & UTILITY EASEMENT) and plant symbol legend carry no quantities. | No PlanSwift takeoff legend on this sheet; no takeoff swatch/quantity block anywhere on the page. The only estimator markup is purple highlighting over rows of the landscape architect's printed PLANT LIST table (lower right, about x 0.69-0.91, y 0.82-0.90). The highlighted rows, with the architect's printed quantities, are: American Holly (Ilex opaca 'Greenleaf') 5, 6' HT., 12' O.C.; Eastern Redcedar (Juniperus virginiana) 11, 6' HT., 40' O.C.; a small highlight mark near TOTAL NUMBER OF TREES 16; Florida Sunshine Anise (Illicium parviflorum 'Florida Sunshine') 17, 3 GAL, 5' O.C.; a highlight bar across the Don's Dwarf Wax Myrtle (Myrica cerifera 'Don's Dwarf') 15, 3 GAL row and the TOTAL NUMBER OF SHRUBS 32 row; Pinestraw (Mulch A) 2,500 S.F.; Sod (---) 11,500 S.F. These are design-table values the estimator highlighted, not PlanSwift-measured quantities, so they are not entered as legend items. The callouts on the plan are (7) ANISE, (3) ANISE, (7) ANISE, (6) WAX MYRTLE, (9) WAX MYRTLE, (1) EASTERN REDCEDAR, (5) EASTERN REDCEDAR, (11) AMERICAN HOLLY. These do not match the table exactly (17 anise vs 7+3+7, and 11 holly on the plan vs 5 in the table). The HATCH LEGEND (sod/grass, mulch, 20' drainage easement) and PLANT LEGEND (symbols only) are the architect's, with no quantities. | NO PlanSwift legend exists on page 83 (sheet L-1.0 Landscape Plan, Gaskins + LeCraw, dated July 9 2026). The page is a flattened raster with zero PDF annotations and zero text. The only markup is purple highlighter strokes over the sheet's own native PLANT LIST table at lower right (page fraction x 0.68-0.83, y 0.83-0.93). Reader A transcribed that native plant list (correctly); Reader B listed nothing, presumably because there is no PlanSwift-generated legend. All six disputed rows are real printed rows and every value was verified at 14x zoom: TREES: American Holly / Ilex opaca 'Greenleaf' / 5 / 6' HT. / 12' O.C. / B&B - healthy, single leader, full to ground; Eastern Redcedar / Juniperus virginiana / 11 / 6' HT. / 40' O.C. / B&B - healthy, one central leader; TOTAL NUMBER OF TREES: 16 (a small vertical purple stroke sits over the '16'). SHRUBS/HERBACEOUS ORNAMENTALS: Florida Sunshine Anise / Illicium parviflorum 'Florida Sunshine' / 17 / 3 GAL / 5' O.C. / full, free of pest & disease; Don's Dwarf Wax Myrtle / Myrica cerifera 'Don's Dwarf' / 15 / 3 GAL / 5' O.C.; TOTAL NUMBER OF SHRUBS: 32. GROUNDCOVERS/VINES/PERENNIALS: Pinestraw / Mulch A / 2,500 S.F.; Sod / --- / 11,500 S.F. UNIT CAVEAT: the plant rows print no unit in the QUANTITY column; 'EA' is inferred (printed MIN. SIZE is 6' HT. for trees, 3 GAL for shrubs). 'S.F.' is printed as-is on the Pinestraw and Sod rows. No rows were missed by both readers; there are no other highlighted or legend-like rows on the page (HATCH LEGEND and PLANT LEGEND boxes are symbol keys with no quantities). ACCURACY FLAG for takeoff: the plan callouts on the south landscape buffer read (11) AMERICAN HOLLY, (1) EASTERN REDCEDAR, (5) EASTERN REDCEDAR, (7)+(3)+(7) ANISE, (6)+(9) WAX MYRTLE, and a direct count of the drawn symbols gives ~11 holly (scalloped round) and 5-6 redcedar (star-burst). The schedule's 5 holly / 11 redcedar therefore appears SWAPPED relative to the drawing (plan shows 11 holly, 6 redcedar = 17 trees vs schedule total 16). Anise (17) and wax myrtle (15) agree between callouts and schedule. The sheet NOTE box states all quantities are a general guide only and the contractor shall confirm."
+ },
+ {
+  "page": 84,
+  "sheet": "L-1.1",
+  "title": "LANDSCAPE DETAILS",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "L-1.1 Landscape Details contains planting detail drawings (shrub and groundcover bed edging, tree planting, tree protection, sod placement, seasonal color), general irrigation notes and general landscape notes. No takeoff legend, swatches or measured quantities are present on this page. | Sheet L-1.1 LANDSCAPE DETAILS is planting, sod and tree-protection details plus the general irrigation and landscape notes. It has no PlanSwift takeoff legend and no visible estimator colour markup; the only colour is the logo, the 811 badge and the seal signature."
+ },
+ {
+  "page": 85,
+  "sheet": "L-1.0",
+  "title": "LANDSCAPE PLAN",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "No PlanSwift takeoff legend with measured quantities found on L-1.0. The page has only the engineer's printed Hatch Legend (lower right), where 'SOD / GRASS' and 'MULCH' carry a purple estimator highlight but no quantity or unit, plus the Plant Legend, Note and Plant List. I did not treat those as takeoff rows. For reference only, the engineer's printed Plant List shows: American Holly 5, Eastern Redcedar 11 (16 trees); Florida Sunshine Anise 17, Don's Dwarf Wax Myrtle 15 (32 shrubs); Pinestraw (Mulch A) 2,500 SF; Sod 11,500 SF. These are design-plan numbers, not the estimator's measured quantities. The upper-left and the rest of the sheet were checked and contain no other markup legend. | No PlanSwift takeoff legend block on this page. It is the designer's landscape plan as issued, with no estimator markup except purple highlighter over 'SOD / GRASS' and 'MULCH' in the designer's HATCH LEGEND (lower right). These have no measured quantities and no swatch rows, so I did not record them as items. For context only, not transcribed as takeoff rows: the designer's PLANT LIST (lower right, above the title block) shows American Holly 5 (6' HT., 12' O.C.), Eastern Redcedar 11 (6' HT., 40' O.C.), 16 trees in total; Florida Sunshine Anise 17 (3 GAL, 5' O.C.), Don's Dwarf Wax Myrtle 15 (3 GAL, 5' O.C.), 32 shrubs in total; Pinestraw (Mulch A) 2,500 S.F.; Sod 11,500 S.F. The plan callouts are (7) ANISE, (3) ANISE, (7) ANISE, (6) WAX MYRTLE, (9) WAX MYRTLE, (1) EASTERN REDCEDAR, (5) EASTERN REDCEDAR and (11) AMERICAN HOLLY. Note that these callouts do not match the plant list counts: the anise callouts add up to 17, but the wax myrtle callouts add up to 15 vs 15, the redcedar callouts to 6 vs 11, and the holly callout is 11 vs 5. These are the designer's figures, not estimator-measured quantities."
+ },
+ {
+  "page": 86,
+  "sheet": "L-1.1",
+  "title": "LANDSCAPE DETAILS",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "L-1.1 Landscape Details contains only planting details and general irrigation and landscape notes. There is no takeoff legend, swatch list or measured quantities anywhere on the page, including the lower-left and lower-right crops. | No PlanSwift takeoff legend and no estimator markup. This is a details-and-notes sheet: planting, sod, tree protection and edging details, plus the General Irrigation Notes and General Landscape Notes. It has no measured quantities."
+ },
+ {
+  "page": 87,
+  "sheet": "E-010",
+  "title": "ELECTRICAL SITE PLAN AND REMOTE DRIVE THRU",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "2: IRRIGATION BACKFLOW",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "purple",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "3:DDCV HOT BOX",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "4: ELECTRIC UTILITY METER",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "red",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "5: SERVICE DISCONNECT",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "bright green",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "6: MAINTENANCE RECEPTACLE- PROVIDE 120V,20A, GFCI WEATHER RESISTANT DUP...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "yellow",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "13: MONUMENT SIGN POWER",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "blue",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "11: KIOSK MANUFACTURE EC TO COORDINATE WITH THE MFR",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "cyan",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "9: TRANSFORMER SLABBOX WITH TRAFFIC GUARDS",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "brown",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "JUNCTION BOX",
+    "quantity": 4,
+    "unit": "EA",
+    "color": "medium green",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at the bottom-left of the page, 9 rows. Row 6 name is truncated with an ellipsis in the printed legend itself (ends 'DUP...'), so the full text is not available. The first row's printed text has no space after the colon in '3:DDCV HOT BOX' (transcribed as printed). 'MANUFACTURE' is spelled that way in the legend. All quantities read clearly at 6x zoom. | Legend at lower-left of page, 9 rows, all count items (EA). Row 6 name is truncated in the legend itself with '...' (full keyed note: maintenance receptacle 120V 20A GFCI weather-resistant duplex receptacle). All quantities read clearly at 4x zoom."
+ },
+ {
+  "page": 88,
+  "sheet": "E-012",
+  "title": "ELECTRICAL SITE DETAILS",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "No takeoff legend on this page. It is an electrical site details sheet (hand hole, pole base and pole light details, notes) with no colour-swatch quantity rows. Checked the full page and the lower-left and lower-right crops. | E-012 Electrical Site Details: detail sheet (hand hole, site pole light, pole base details) with no PlanSwift takeoff legend or markup found anywhere on the page."
+ },
+ {
+  "page": 89,
+  "sheet": "A-401",
+  "title": "BANK EQUIPMENT PLANS & DETAILS",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "PREFABRIFATED CANOPY COORDINATE W/ BANK EQUIPMENT VENDER OR BANK ...",
+    "quantity": 61.7,
+    "unit": "SQ FT",
+    "color": "slate blue / indigo (medium blue-purple)",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "6\" DIA STEEL BOLLARD & WRAP PER FIFTH THIRD STANDARD",
+    "quantity": 8,
+    "unit": "EA",
+    "color": "magenta / orchid purple",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "ATM BY BANK EQUIPMENT VENDOR COORDINATE W/ VENDOR PRIOR TO INSTALLATI...",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "Legend sits at the bottom-left, overlapping the lower edge of the drawing area. Two of the three names are truncated with an ellipsis in the printed legend (canopy row ends 'BANK ...', ATM row ends 'INSTALLATI...'), so the full text is not recoverable from the page; they are transcribed as printed, including the 'PREFABRIFATED' and 'VENDER' spellings. Quantities read from a 5x crop: 61.7 SQ FT, 8.0 EA, 1.0 EA. The legend is only three rows; nothing else sits below it. The plan shows 8 magenta bollard circles, 1 teal circle for the ATM and a large blue canopy rectangle, which agrees with the quantities. | Legend sits at bottom-left of the sheet, over the Enlarged Drive-Thru Island detail. Names of rows 1 and 3 are truncated with '...' in the legend itself (PlanSwift truncation). 'PREFABRIFATED' and 'VENDER' are spelled as printed."
+ },
+ {
+  "page": 90,
+  "sheet": "A-190",
+  "title": "TRASH ENCLOSURE AND DETAILS",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "No takeoff legend appears anywhere on this page. The lower-left and lower-right crops show only the side elevation, the title block and the north note. The purple highlights on the page (the bollard note, wall section title, precast cap and cementitious coating callouts, key notes TE1 to TE3) are markup highlights on drawing text, not legend rows, and carry no measured quantities. | No takeoff legend block on A-190; only purple highlight markups on notes/keynotes (e.g. TE1-TE3 keynotes, wall section callouts). Checked full page and bottom strip at higher zoom."
+ },
+ {
+  "page": 91,
+  "sheet": "C-4.0",
+  "title": "GRADING PLAN",
+  "legendFound": false,
+  "items": [],
+  "disputedCount": 0,
+  "notes": "C-4.0 Grading Plan has no PlanSwift takeoff legend. The lower-left and lower-right crops show only the engineer's title block, storm pipe and structure tables, seal and scale. The markup is unlabeled colour hatching over the site: blue (large area, mostly west and north), red (east/southeast, including the parking loop) and tan/beige (border strip around the site). None have names or quantities on this sheet. The quantities are on the page 92 Earthwork Pro Summary. | No PlanSwift legend block on this page. The markup shows earthwork shading over the site: blue hatch (fill areas), red hatch (cut areas), a tan/brown site boundary area, and small grey areas. The quantities are on the Earthwork Pro Summary (page 92). The STORM PIPES and STORM STRUCTURES tables in the lower right are part of the engineer's drawing, not estimator takeoff rows, so I did not transcribe them."
+ },
+ {
+  "page": 92,
+  "sheet": "PlanSwift Earthwork Pro Summary",
+  "title": "C-4.0 cut/fill report",
+  "legendFound": true,
+  "items": [
+   {
+    "name": "440 - Proposed Contour",
+    "quantity": 12.81,
+    "unit": "CU YD",
+    "color": "none",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "439.5 - Proposed Contour",
+    "quantity": -15.69,
+    "unit": "CU YD",
+    "color": "none",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "439 - Proposed Contour",
+    "quantity": -40.61,
+    "unit": "CU YD",
+    "color": "none",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "438 - Proposed Contour",
+    "quantity": -42.74,
+    "unit": "CU YD",
+    "color": "none",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "437 - Proposed Contour",
+    "quantity": -25.2,
+    "unit": "CU YD",
+    "color": "none",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "436.5 - Proposed Contour",
+    "quantity": -238.52,
+    "unit": "CU YD",
+    "color": "none",
+    "verified": "two readers agree"
+   },
+   {
+    "name": "435 - Proposed Contour",
+    "quantity": -158.17,
+    "unit": "CU YD",
+    "color": "none",
+    "verified": "two readers agree"
+   }
+  ],
+  "disputedCount": 0,
+  "notes": "This is a PlanSwift Earthwork Pro Summary table, not a swatch legend, so there are no colour swatches. Project WATSON BLVD - SITE, group C-4.0-GRADING-PLAN-Rev.0, 14 rows, generated 10/6/2026. The item quantity above is the Qty column, which is net: Fill minus Cut, so negative means net cut. Rows in printed order as Name: Cut Total / Fill Total / Qty, all CU YD. (1) 440: blank / 51.72 / 51.72. (2) 440: 1.78 / 151.02 / 149.24. (3) 440: blank / 224.56 / 224.56. (4) 440: blank / 199 / 199. (5) 440: blank / 2.11 / 2.11. (6) 440: blank / 12.81 / 12.81. (7) 439.5: 61.2 / 84.11 / 22.91. (8) 439.5: 15.69 / blank / -15.69. (9) 439: 27.56 / 37.98 / 10.42. (10) 439: 58.96 / 18.35 / -40.61. (11) 438: 47.33 / 4.59 / -42.74. (12) 437: 25.2 / blank / -25.2. (13) 436.5: 238.52 / blank / -238.52. (14) 435: 158.17 / blank / -158.17. Blank cut or fill cells print just 'CU YD' with no number and are not zero. Printed totals row, not included as an item: Cut 634.41 CU YD, Fill 786.25 CU YD, Qty 151.84 CU YD. Sums of the rows agree with these totals. All text was clearly legible. | This page is a PlanSwift Earthwork Pro Summary table ('WATSON BLVD - SITE', section 'C-4.0-GRADING-PLAN-Rev.0'), not a swatch legend, so there are no colours. Each quantity above is the printed net Qty column, which is Fill minus Cut. Cut / Fill for each row, in order: 1) 0 / 51.72; 2) 1.78 / 151.02; 3) 0 / 224.56; 4) 0 / 199; 5) 0 / 2.11; 6) 0 / 12.81; 7) 61.2 / 84.11; 8) 15.69 / 0; 9) 27.56 / 37.98; 10) 58.96 / 18.35; 11) 47.33 / 4.59; 12) 25.2 / 0; 13) 238.52 / 0; 14) 158.17 / 0. A blank cell printed as just 'CU YD' is recorded as 0. Printed totals: Cut 634.41 CU YD, Fill 786.25 CU YD, Net Qty 151.84 CU YD (net fill). My sums of the rows match the printed Cut and Fill totals exactly. The total line is not included as an item. All text was clearly legible. Report dated 10/6/2026, Page 1 of 1."
+ }
+]
