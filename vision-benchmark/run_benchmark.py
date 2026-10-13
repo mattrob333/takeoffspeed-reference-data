@@ -2,8 +2,11 @@
 
 usage: DUTYGRAPH_ANTHROPIC_API_KEY=... python3 -I vision-benchmark/run_benchmark.py <image_dir> <run_name> <budget_usd> model:res[,model:res...] [task_id,...]
 Appends one JSON line per call to vision-benchmark/results/<run_name>.jsonl and stops before the budget is spent.
+res: hi (2576 px long edge) or lo (1280 px), from build_tasks.py; OpenAI models get them with detail "high".
+     orig (OpenAI only): <task>-orig.png from render_openai.py (up to 6000 px, <= 30,000 patches), sent with detail "original".
+A call that errored is retried when the same run is started again.
 """
-import sys, os, json, base64, re, collections, threading, concurrent.futures as cf
+import sys, os, json, base64, re, struct, time, collections, threading, concurrent.futures as cf
 import anthropic
 from openai import OpenAI
 
@@ -12,12 +15,12 @@ ONLY = set(sys.argv[5].split(',')) if len(sys.argv) > 5 else None
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, 'results', f'{RUN}.jsonl')
 # gpt-6-astra: price not published with the API; booked at an assumed conservative $10/$50 per MTok.
-PRICE = {'gpt-6-astra': (10, 50), 'claude-fable-5-1': (10, 50), 'claude-opus-5-5': (4, 20), 'claude-sonnet-5-5': (2, 10), 'claude-haiku-5-5': (0.10, 0.50)}
-client = anthropic.Anthropic(api_key=os.environ['DUTYGRAPH_ANTHROPIC_API_KEY'])
-oai = OpenAI(api_key=os.environ['OPENAI_API_KEY']) if os.environ.get('OPENAI_API_KEY') else None
+PRICE = {'gpt-6-astra': (10, 50), 'gpt-6.1-sol': (2, 10), 'gpt-6-sol': (2, 10), 'claude-fable-5-1': (10, 50), 'claude-opus-5-5': (4, 20), 'claude-sonnet-5-5': (2, 10), 'claude-haiku-5-5': (0.10, 0.50)}
+client = anthropic.Anthropic(api_key=os.environ['DUTYGRAPH_ANTHROPIC_API_KEY']) if os.environ.get('DUTYGRAPH_ANTHROPIC_API_KEY') else None
+oai = OpenAI(api_key=os.environ['OPENAI_API_KEY'], timeout=600, max_retries=5) if os.environ.get('OPENAI_API_KEY') else None
 lock = threading.Lock()
 spent = [sum(json.loads(l)['usd'] for l in open(OUT)) if os.path.exists(OUT) else 0.0]
-done = {(j['task'], j['model'], j['res']) for j in map(json.loads, open(OUT))} if os.path.exists(OUT) else set()
+done = {(j['task'], j['model'], j['res']) for j in map(json.loads, open(OUT)) if 'error' not in j} if os.path.exists(OUT) else set()
 
 PROMPTS = {
     'dimensions': ('This image is a crop of a construction drawing. List every dimension string printed in it: feet-and-inch values such as 12\'-6", 8\'-3 1/4", 2\'-0 1/2" and inch-only values such as 11" or 2". '
@@ -88,21 +91,34 @@ def score(task, ans):
     return {'exactTags': sum(1 for t in key if got.get(t, 0) == key[t]), 'tags': len(key), 'absError': abs_err, 'countAccuracy': round(max(0, 1 - abs_err / total), 4), 'got': got}
 
 def call(task, model, res):
-    img = base64.standard_b64encode(open(os.path.join(IMG, task['images'][res]), 'rb').read()).decode()
+    if res == 'orig' and not model.startswith('gpt'):
+        raise ValueError('res "orig" is an OpenAI-only variant (detail "original")')
+    raw = open(os.path.join(IMG, task['images'].get(res) or f"{task['id']}-{res}.png"), 'rb').read()
+    img = base64.standard_b64encode(raw).decode()
+    px = list(struct.unpack('>II', raw[16:24]))  # PNG IHDR width, height
     prompt, schema = PROMPTS[task['kind']]
     prompt = task.get('prompt') or prompt
     if model.startswith('gpt'):
-        r = oai.responses.create(model=model, reasoning={'effort': 'high'}, max_output_tokens=32000,
-            input=[{'role': 'user', 'content': [{'type': 'input_image', 'image_url': f'data:image/png;base64,{img}', 'detail': 'high'}, {'type': 'input_text', 'text': prompt}]}],
+        detail = 'original' if res == 'orig' else 'high'
+        # background mode + short polls: long-held connections (minutes of reasoning) were dropped by the network path
+        r = oai.responses.create(model=model, reasoning={'effort': 'high'}, max_output_tokens=32000, background=True,
+            input=[{'role': 'user', 'content': [{'type': 'input_image', 'image_url': f'data:image/png;base64,{img}', 'detail': detail}, {'type': 'input_text', 'text': prompt}]}],
             text={'format': {'type': 'json_schema', 'name': task['kind'].replace('-', '_'), 'strict': True, 'schema': schema}})
+        while r.status in ('queued', 'in_progress'):
+            time.sleep(10)
+            r = oai.responses.retrieve(r.id)
+        if r.usage is None:
+            raise RuntimeError(f'response {r.id} ended {r.status}: {r.error}')
         pin, pout = PRICE[model]
         usd = (r.usage.input_tokens * pin + r.usage.output_tokens * pout) / 1e6
         try:
             ans = json.loads(r.output_text)
         except Exception:
             ans = {}
-        return {'task': task['id'], 'kind': task['kind'], 'model': model, 'res': res, 'stop': r.status, 'inputTokens': r.usage.input_tokens, 'outputTokens': r.usage.output_tokens,
-                'usd': round(usd, 5), 'score': score(task, ans), 'answer': ans}
+        rec = {'task': task['id'], 'kind': task['kind'], 'model': model, 'res': res, 'stop': r.status, 'inputTokens': r.usage.input_tokens, 'outputTokens': r.usage.output_tokens,
+               'usd': round(usd, 5), 'score': score(task, ans), 'answer': ans}
+        rec.update({'responseId': r.id, 'detail': detail, 'imagePx': px, 'reasoningTokens': getattr(r.usage.output_tokens_details, 'reasoning_tokens', None)})
+        return rec
     with client.messages.stream(model=model, max_tokens=32000, output_config={'effort': 'high', 'format': {'type': 'json_schema', 'schema': schema}},
                                 messages=[{'role': 'user', 'content': [{'type': 'image', 'source': {'type': 'base64', 'media_type': 'image/png', 'data': img}}, {'type': 'text', 'text': prompt}]}]) as st:
         msg = st.get_final_message()
@@ -133,7 +149,7 @@ def work(job):
         spent[0] += rec['usd']
         open(OUT, 'a').write(json.dumps(rec) + '\n')
         s = rec.get('score', {})
-        print(f"{rec['task']:16} {rec['model']:18} {rec['res']} ${rec['usd']:.3f} total ${spent[0]:.2f}  {s.get('f1', s.get('countAccuracy', rec.get('error', '')))}", flush=True)
+        print(f"{rec['task']:16} {rec['model']:18} {rec['res']} ${rec['usd']:.3f} total ${spent[0]:.2f}  {s.get('f1', s.get('countAccuracy', s.get('meanAbsPctError', rec.get('error', ''))))}", flush=True)
     return rec
 
 with cf.ThreadPoolExecutor(6) as ex:
