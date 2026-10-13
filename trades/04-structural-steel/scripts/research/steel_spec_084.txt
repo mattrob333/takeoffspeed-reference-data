@@ -1,0 +1,1319 @@
+FIFTH THIRD BANK –WATSON 
+05 1200-1 
+WARNER ROBINS, GA 
+STRUCTURAL STEEL FRAMING 
+PRAXIS3-26032 
+JUNE 25, 2026 
+
+
+
+
+SECTION 05 1200 
+
+STRUCTURAL STEEL FRAMING 
+
+
+PART 1 – GENERAL 
+
+
+1.1 
+RELATED DOCUMENTS 
+
+A. 
+Drawings and general provisions of the Contract, including General Conditions, Supplementary 
+General Conditions, and Division 01 Specification Sections, apply to this Section. 
+
+
+1.2 
+SUMMARY 
+
+A. 
+This section includes structural steel and all related items. 
+
+B. 
+Related Sections: The following sections contain requirements that relate to this Section: 
+
+
+1. 
+Division 03 Section “Cast-In-Place Concrete”. 
+
+2. 
+Division 05 Sections “Steel Joist” and “Steel Roof Decking”. 
+
+
+1.3 
+REFERENCE STANDARDS 
+
+A. 
+Except as called for otherwise herein, all fabrication and erection shall meet the ANSI/AISC 360-10, 
+Specifications for Structural Steel Buildings, and AISC 303-05, Code of Standard Practice for Steel 
+Buildings and Bridges, except Section 4.4. 
+
+
+
+B. 
+AISC Fourteenth Edition, except as noted above. 
+
+
+
+C. 
+All welding shall be in compliance with the American Welding Society, AWS D1.1 – Latest Edition, 
+Structural Welding Code – Steel. 
+
+
+
+D. 
+American Society for Testing and Materials: 
+
+
+
+
+
+A36/A36M-08 
+Standard Specification for Carbon Structural Steel 
+
+
+
+
+A307-07b 
+
+
+Standard Specification for Carbon Steel Bolts and Studs, 60 000 PSI Tensile 
+Strength 
+
+
+
+
+A325-07a 
+
+
+Standard Specification for Structural Bolts, Steel, Heat Treated, 120/105 ksi 
+Minimum Tensile Strength 
+
+
+
+
+A6/A6M-08 
+
+Standard Specification for General Requirements for Rolled Structural Steel Bars, 
+
+
+
+
+
+
+
+
+
+
+
+Plates, Shapes, Sheet Piling, and Bars for Structural Use 
+
+
+
+
+A53/A53M-07 
+Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated Welded and 
+Seamless 
+FIFTH THIRD BANK –WATSON 
+05 1200-2 
+WARNER ROBINS, GA 
+STRUCTURAL STEEL FRAMING 
+PRAXIS3-26032 
+JUNE 25, 2026 
+
+
+
+
+
+
+
+A500/A500M-07 Standard Specification for Cold-Formed Welded and Seamless Carbon Steel 
+
+
+
+
+
+
+
+
+
+
+
+Structural Tubing in Rounds and Shapes. Use Grade B (Fy = 46,00psi). 
+
+
+
+
+A992/A992M-06a Standard Specification for Structural Steel Shapes 
+
+
+
+
+E329-08 
+
+
+Standard Specification for Agencies Engaged in Construction Inspection and/or Testing 
+
+
+
+
+F1554-07a 
+
+Standard Specification for Anchor Bolts, Steel, 36,55, and 105 ksi Yield Strength. 
+
+
+
+E. 
+Fabricator shall be AISC Certified. 
+
+1.35 QUALITY ASSURANCE 
+
+A. Installer Qualifications: A qualified installer who participates in the AISC Quality Certification Program and is 
+designated as SISC Certified Erector, Category CASE. 
+
+B. Fabricator Qualifications: A qualified fabricator who participates in the American Institute of Steel Construction 
+Quality Certification Program and is designated an AISC Certified Plant, Category Cbd. Fabricators not 
+complying with Category Cbd shall have fabrication procedures and fabricated steel tested and inspected by 
+an independent testing agency acceptable to the Structural Engineer. Refer to Source Quality Control section 
+for requirements. 
+
+C. Welding: Quality procedures and personnel according to AWS D1.1, “Structural Welding Code – Steel”, as 
+record copy indicating compliance. 
+
+D. Use prequalifying welding procedures prepared by the fabricator and erector as a written procedure 
+specification. 
+
+E. Land Surveyor: Land Surveyor Qualification: A professional land surveyor who is legally qualified to practice 
+in jurisdiction where Project is located and with a minimum of five years experience in providing surveying 
+services of the kind indicated. 
+
+1.4 
+SHOP DRAWINGS 
+
+A. Qualification Data: For installer, fabricator, Professional Engineer, and testing agency as record copy 
+indication compliance. 
+
+B. Mill Test Reports: Signed by manufacturers certifying and accompanied by a letter from the Contractor 
+indicating that the following products comply with requirements of the Contract Documents as a record copy 
+indicating compliance. 
+
+
+1. Structural steel including chemical and physical properties. 
+
+
+2. Bolts, nuts, and washers including mechanical properties and chemical analysis. 
+
+
+3. Direct tension indicators. 
+
+
+4. Tension-control, high-strength bolt-nut-washer assemblies. 
+
+
+5. Shear stud connectors 
+
+
+6. Shop primers 
+
+
+7. Nonshrink grout. 
+
+
+8. Weld materials. 
+
+
+
+C. 
+All drawings for review must be submitted electronically to the Architect, one master submittal will be 
+FIFTH THIRD BANK –WATSON 
+05 1200-3 
+WARNER ROBINS, GA 
+STRUCTURAL STEEL FRAMING 
+PRAXIS3-26032 
+JUNE 25, 2026 
+
+
+
+returned to the Contractor electronically with each disciplines comments marked in a separate color. 
+Submittals shall include erection drawings, sections, and fabrication drawings. 
+
+
+
+D. 
+Where welded connections are detailed, standard AWS symbols shall be used. 
+
+
+
+E. 
+Shop drawings shall be made to conform with the design drawings. Contract drawings shall take 
+precedence over shop drawings unless otherwise authorized in writing. Review of the shop drawings by 
+the Architect or the Architect's Structural Engineer does not constitute a change to the contract. 
+
+
+
+F. 
+All connections and joints shall be completely detailed to cover both shop and field work. Any 
+connections or designs not shown shall be designed by a Design professional licensed in the project 
+State and signed and sealed calculations shall be submitted with the shop drawings. 
+
+
+
+G. 
+Where the Contractor is in doubt regarding certain dimensions shown on the contract drawings, or if
+
+there is an apparent discrepancy on the contract drawings, the Contractor or his agent shall circle and 
+question such dimensions on his shop drawings in an obvious manner. In such cases, the dimensions 
+shall be especially checked or supplied by the Architect. 
+
+
+
+H. 
+Where project scope includes additions and or renovations to existing structures, all existing dimensions, 
+sizes and conditions shall be field verified by the Contractor prior to the purchase, detailing, or fabrication 
+of any steel. 
+
+
+
+I. 
+One master electronic copy shall be returned to the contractor with each disciplines marks in a separate 
+color. 
+
+1. 
+Final Unrestricted Release: Work may proceed, provided it complies with contract 
+documents, when submittal is returned with the following: 
+
+Marking: "No Exceptions Taken". 
+
+2. 
+Final-But-Restricted Release: Work may proceed, provided it complies with notations and 
+corrections on submittal and with contract documents, when submittal is returned with the 
+following: 
+
+Marking: "Exceptions Noted". 
+
+3. 
+Returned by Resubmittal: Do not proceed with work. Revise submittal in accordance with 
+notations thereon, and resubmit without delay to obtain a different action marking. Do not 
+allow submittals with the following marking (or unmarked submittals where a marking is 
+required) to be used in connection with performance of the work: 
+
+Marking: "Resubmit". 
+
+4. 
+Other Action: Where submittal is returned for other reasons, with Architect's explanation 
+included, it will be marked as follows: 
+
+Marking: "Action Not Required". 
+FIFTH THIRD BANK –WATSON 
+05 1200-4 
+WARNER ROBINS, GA 
+STRUCTURAL STEEL FRAMING 
+PRAXIS3-26032 
+JUNE 25, 2026 
+
+
+
+
+
+
+J. 
+Details shall be furnished of all steel stairs. Stairs shall meet the AISC Code of Standard Practice for Steel 
+Buildings and Bridges, Section 10, Architecturally Exposed Structural Steel. 
+
+
+
+
+
+1. 
+Treads and risers shall be preformed of 14 gauge metal. Landing pan shall be 14 gauge. 
+
+
+
+
+2. 
+Stringers, landing beams, closure plates, stiffeners and connection angles shall be of sizes as 
+shown on drawings. 
+
+
+
+
+3. 
+Members shall be aligned and fit-up made without offsets or visible flaws. 
+
+
+
+
+4. 
+Welds are to be ground smooth. 
+
+
+
+
+5. 
+Self-supporting stairs will be permitted provided they meet these Specifications. 
+
+
+
+
+6. 
+Stair rails shall meet architectural details. See Metal Stairs Section. 
+
+
+
+7. 
+Where stair widths are greater than 5’-0”, provide a W6x15 at midspan of pan to span from header 
+to header. Provide a w-tee cut to fit at each riser to support pan. 
+
+
+8. 
+Where steel stair landings are suspended from floors above, use a minimum of a 3x3x1/4” angle 
+hanger. Hang concentrically from floor beam. Contractor coordinate with architectural partition 
+schedule to insure hangers are concealed within partitions. Do not use rods for hangers. 
+
+
+9. 
+Where landing channels frame into concrete walls, provide a double clip angle connection with a 
+minimum of (4) –1”Ø expansion anchors. 
+
+
+
+K. 
+The Contractor shall be responsible for the conforming of all steel details indicated on the contract 
+drawings. 
+
+
+
+L. 
+Show steel shear stud size, number and location. 
+
+
+
+M. 
+At composite floor construction, all steel shear studs shall be field welded. Steel studs shall project a 
+minimum of 1 ½” above top flute of floor deck. 
+
+
+
+N. 
+Show type of paint and members to be painted. 
+
+
+
+O. 
+Show details of anchoring. 
+
+
+1.5 
+RESPONSIBILITY FOR ERRORS 
+
+A. 
+The Contractor shall be responsible for all errors of detailing, fabrication and for the correct fitting 
+of the structural members. The Contractor shall make all measurements in the field to verify or 
+supplement dimensions shown on shop drawings, and he will verify that all dimensions shown on 
+shop drawings are coordinated with the dimensions and requirements of the architectural plans, 
+elevations and sections. 
+
+
+
+B. 
+If steel is damaged or does not fit up, the Contractor shall prepare and submit drawings for review to the 
+Architect showing his proposed corrective measures. No modifications shall be made to the steel until 
+such drawings have no exceptions by the Architect. 
+
+
+1.6 
+TESTS & INSPECTIONS 
+
+FIFTH THIRD BANK –WATSON 
+05 1200-5 
+WARNER ROBINS, GA 
+STRUCTURAL STEEL FRAMING 
+PRAXIS3-26032 
+JUNE 25, 2026 
+
+
+
+
+
+A. 
+Inspections and tests shall be performed by an independent laboratory complying with ASTM E329 
+selected and directed by the Architect. 
+
+
+
+B. 
+The Contractor shall furnish three (3) certified copies of all mill reports covering the chemical and 
+physical properties of the steel used. Reports shall be of steel made within the last 60 days before 
+shipment. Reports shall certify that steel is of domestic manufacture. 
+
+
+
+C. 
+Inspection of welding shall meet paragraphs 6.1 through 6.5 of AWS D1.1. Inspection of preparation of 
+materials and welding shall be by the visual method as covered in paragraph 8.15 of AWS D1.1 
+Inspection shall cover the following: 
+
+
+
+
+
+1. 
+Butt welds introduced by the fabricator shall be inspected. Such welds shall be indicated on shop 
+drawings with the appropriate reference welded joint number as shown in Table 8-2 of the AISC 
+Steel Construction Manual.. 
+
+
+
+
+
+2. 
+All welds indicated on contract drawings as full penetration welds shall be inspected. Such welds 
+shall be taken to include all welds shown in Table 8-2 of the AISC Steel Construction Manual. 
+. 
+
+
+
+
+3. 
+If inspection of full strength welding is not accomplished during preparation and welding, 
+non-destructive testing will be provided in compliance with paragraph 6.7 of AWS D1.1. Such 
+testing shall be paid for by the Contractor. 
+
+
+
+
+
+4. 
+If the fabricator elects to use full value for fillet welds as set forth in AISC Steel Construction 
+Manual, initial inspection shall be made of a random selection of 15% of such welds. If the fillet 
+welding fails to pass this inspection than 50% of such welding shall be inspected and passed 
+before acceptance. 
+
+
+
+
+
+
+
+D. 
+Inspections shall be in accordance with the International Building Code, Chapter 17, and project Special 
+Inspections Guidelines. The Special Inspection Agency shall be in accordance with ASTM E329-latest 
+edition.. 
+
+
+
+E. 
+Inspection reports shall include a certification that: 
+
+
+
+
+
+1. 
+The work has been checked against the contract drawings and that full strength butt welds have 
+been provided where they were called for on the plans. 
+
+
+
+
+2. 
+The work has been checked against the shop drawings and full strength butt welds introduced by 
+the fabricator (see paragraph 1.4 B2) have been provided. 
+
+
+
+
+
+
+
+
+
+3. 
+That welding has been accomplished to meet ASW Standards and the provisions of this 
+Specification. 
+
+
+
+
+4. 
+That high strength bolts have been installed with one hardened washer and they meet the 
+inspection requirements prescribed in the contract specifications. 
+
+
+1.7 ARCHITECTURALLY EXPOSED STRUCTURAL STEEL 
+FIFTH THIRD BANK –WATSON 
+05 1200-6 
+WARNER ROBINS, GA 
+STRUCTURAL STEEL FRAMING 
+PRAXIS3-26032 
+JUNE 25, 2026 
+
+
+
+
+
+
+A. 
+All steel exposed to pedestrian view shall be considered Architecturally Exposed Structural Steel 
+and shall meet the requirements in Section 10 of the AISC Code of Standard Practice. 
+
+
+
+B. Connections which are exposed to view shall be welded and have all welds ground smooth. 
+
+
+
+C. 
+Where Architecturally Exposed Structural Steel is supported by other framing, such framing shall be 
+fabricated and erected to meet the tolerance requirements of Architecturally Exposed Structural 
+Steel. 
+
+
+
+
+
+PART 2 - PRODUCT 
+
+
+2.1 MATERIAL 
+
+
+
+A. 
+All W Sections and Channels shall conform to A992/A992M Grade 50 Fy=50ksi Steel. All tubes or HSS 
+Sections shall conform to ASTM A500 Fy=46 ksi. All other steel shall conform to ASTM A36/A36M. 
+
+
+
+B. 
+High strength bolts, nuts and washers shall conform to ASTM A325. Use for all bolted connections 
+unless otherwise noted. 
+
+
+
+C. 
+All Anchor Rods shall be ASTM F1554, 36 ksi yield strength unless noted otherwise. 
+. 
+
+
+D. 
+Machine bolts, nuts and washers shall conform to ASTM A307. Use for bolts set in concrete only. 
+
+
+
+E. 
+Electrodes for mild steel arc welding shall conform to Classification E7015, E7016, or E7018 of AWS 
+A5.20 – Latest Edition.. 
+
+
+
+F. 
+Materials shall be of domestic manufacture only. 
+
+
+
+G. 
+Where roof decks frame on to a roof beam member, and deck is in a different plane than the beam, 
+provide a 3/16" continuous bent plate welded across the top of roof member sloped to match plane of 
+roof deck. 
+
+
+
+H. 
+When joist framing changes direction, provide a 2½"x2½"x¼" angle vertical leg down welded to top of 
+supporting roof member. Horizontal leg of angle shall be at the same elevation as top of joist to receive 
+
+deck. 
+
+
+
+I. 
+"AX" indicates to provide additional "X" type bridging and to use angle 2½"x2½"x¼" unless a larger size 
+angle is specifically noted on the Contract Documents. 
+
+
+
+J. 
+H.B. indicates a horizontal brace angle 3"x3"x¼" extending from top chord of joist or beam to top of 
+column, unless a larger size angle is specifically noted on the Contract Documents. 
+FIFTH THIRD BANK –WATSON 
+05 1200-7 
+WARNER ROBINS, GA 
+STRUCTURAL STEEL FRAMING 
+PRAXIS3-26032 
+JUNE 25, 2026 
+
+
+
+
+
+
+K. 
+At perimeters of all roofs, openings, expansion joints and where high and low roofs occur, provide a 
+minimum angle size of 4x3x1/4” continuous angle field welded to joist or beam unless noted otherwise 
+on plans. 
+
+
+
+L. 
+At perimeters of all floors, openings and expansions joints, provide a minimum of a ¼” thick closure bent 
+plate extending from centerline of floor member to edge of slab x height of slab unless noted otherwise. 
+
+
+
+M. 
+Where elevators occur, closure angle at sill face shall have ¾”Ø headed studs x 5” long welded to vertical 
+face of angle unless noted otherwise. Stud shall be spaced at 18”o.c. max. 
+
+
+
+N. 
+At composite floor construction, at all floor openings 12”x12” and larger shall be framed with W8X10 on 
+four sides; two of which will frame to adjacent composite beams. 
+
+
+
+O. 
+At all roof top units, provide a C5x6.7 framing at perimeter of unit. Provide solid wood blocking between 
+deck and channel typical. Maximum span of channel shall not exceed 7’-6”. 
+
+P. 
+At elevator, the general contractor shall provide a vertical tube minimum T.S.6x6x1/4” with base plate 
+expansion anchored to floor and slip connected to underside of floor or roof above, at each rail location. 
+General Contractor coordinate bracing requirements with the elevator manufacturer. 
+
+
+2.2 
+CONNECTIONS 
+
+
+
+A. 
+GENERAL 
+
+
+
+
+
+1. 
+Beam and girder connections shall meet Tables 10-1 through 10-11 of the AISC Steel Construction 
+Manual, Thirteenth Edition unless noted otherwise on plans. 
+. 
+
+
+2. 
+At composite floor construction, where reactions are shown on plan, connections shall develop 
+125% of reaction shown. 
+
+
+
+
+3. 
+Unrestrained Members: Except as otherwise indicated by the design, all connections of beams or 
+
+girders shall be designed as flexible and may ordinarily be proportioned for the reaction shears 
+only. If, however, the connection is eccentric, provision shall be made for the resulting moment. 
+
+
+
+
+4. 
+Where final connection is to be welded, provision shall be made for erection and fastening the 
+members together during erection and alignment. 
+
+
+
+
+5. 
+Except where called for otherwise, field connections shall be bolted. 
+
+
+
+
+6. 
+Placement of Bolts and Welds: The bolts or welds at the ends of any member transmitting stresses 
+into that member shall preferably have their centers of gravity on the gravity axis of the member; 
+otherwise, provision shall be made for the effect of the resulting eccentricity. Pins shall be located 
+to counteract the effect of bending due to dead load. 
+
+
+
+
+7. 
+Connections for bracing members carrying calculated forces shall have sufficient bolts or welds to 
+develop the force indicated. Unless higher forces are indicated, connections shall be designed for a 
+minimum of 12,000 pounds. 
+
+
+
+
+8. 
+Eccentric Connections: Members meeting at a point shall have their gravity axis meet at a point if 
+practical, if not provision shall be made for bending stresses due to eccentricity. 
+
+
+
+
+9. 
+In tension members composed of two angles, a pitch of 3'-6" will be allowed and in compression 
+members 2'-0", but the ratio l/r for each angle between spacers shall be not more than ¾ of that for 
+FIFTH THIRD BANK –WATSON 
+05 1200-8 
+WARNER ROBINS, GA 
+STRUCTURAL STEEL FRAMING 
+PRAXIS3-26032 
+JUNE 25, 2026 
+
+
+
+the whole member. 
+
+
+
+
+10. The distance between the holes in the ends of diagonal tension bracing members shall be 1/8" less 
+than the actual distance so that during erection an initial stress can be introduced by means of a 
+drift pin. 
+
+
+
+
+11. Fabricator shall punch all holes for the attachment of nailers, hangers or other work to the steel. 
+
+
+
+
+12. Where a steel joist is designated on plans as a strut joist, it shall serve as an erection strut and have 
+bolted end connections. Provision shall be made in the steel to receive these joists and two 9/16" 
+OH shall be provided for each connection (OSHA). 
+
+
+
+
+13. Where diagonal bracing is shown and forces are not provided on diagrams, connection shall 
+develop the full tensile/compressive force of that member at each end. 
+
+
+
+
+14. Where diagonal bracing occurs over a basement wall, or shear wall, contractor shall provide a 
+shear transfer connection from base gusset to top of concrete wall. 
+
+
+
+
+15. At all column splices, connections shall be moment splices with full penetration welds all around. 
+
+
+
+B. 
+WELDS 
+
+
+
+
+
+1. 
+Welding and joint details shall meet the requirements of the AWS D1.1 and the AISC Steel 
+Construction Manual, Thirteenth Edition with the following limitations: 
+: 
+
+
+
+
+
+
+
+
+
+
+
+
+2. 
+All welders used shall be currently qualified for the most complex weld to be accomplished. 
+
+
+
+
+3. 
+Welds shall not be made through galvanizing unless properly prepared or compatible welding rods 
+used. 
+
+
+
+C. 
+HIGH STRENGTH STEEL BOLTS 
+
+
+
+
+
+1. 
+High strength steel bolts connections shall be provided and installed in accordance with Research 
+Council on Structural Connections. “Specifications for Structural Joints Using ASTM A325 or A490 
+Bolts”, 2004 edition. This document is available in the AISC Steel Construction Manual. 
+
+
+
+
+2. 
+Bolts, nuts, and washers shall conform to ASTM A325. 
+
+
+
+
+3. 
+Bolts shall be equipped with nut and one hardened washer. Washers shall be flat and smooth but if 
+the bearing faces of the bolted parts have a slope of more than 1:20 with respect to a plane normal 
+to the bolt axis, smooth beveled washers shall be used to compensate for the lack of parallelism. 
+
+
+
+
+4. 
+Bolts shall be in bearing and threads shall be included in the shear plane. 
+
+
+
+
+5. 
+Bolts shall be tightened by use of a power wrench or manual torque wrench calibrated to the 
+minimum bolt pretension prescribed in the Specifications. The turn of the nut method will not be 
+accepted. Tension control bolts are recommended. 
+
+
+
+D. 
+EXPANSION BOLTS 
+
+
+
+
+
+1. 
+Bolts for attaching steel to existing concrete shall be one of the following: 
+
+
+
+
+
+
+
+a. 
+"Wedge Anchors" as manufactured by Phillips Drill Co., Inc., Michigan City, Indiana 46360. 
+
+
+
+
+
+
+b. 
+"Parabolt" as manufactured by the Molly Co., 504 Mt. Laurel Ave., Temple, Pa. 19560 
+
+
+
+
+
+
+c. 
+"Kwik-Bolt" as manufactured by McCulloch Industries, 1125 Washington Ave., Minneapolis, 
+Minn. 55415. 
+
+
+
+
+
+
+d. 
+"Wej-it" as manufactured by Expansion Products, Inc., Industrial Park, Broomfield, Colorado 
+FIFTH THIRD BANK –WATSON 
+05 1200-9 
+WARNER ROBINS, GA 
+STRUCTURAL STEEL FRAMING 
+PRAXIS3-26032 
+JUNE 25, 2026 
+
+
+
+80020. 
+
+
+
+
+
+2. 
+Holes for expansion bolts shall be made by first securing the steel item in place then drilling the 
+holes through the holes in the steel using the steel as a template. Drilling of the holes by center 
+measurement will not be permitted. Reaming or burning of the holes in the steel will not be 
+permitted. The drill size shall be of the same diameter as the bolt. 
+
+
+
+E. 
+PAINT 
+
+
+
+
+
+1. 
+Approved paints are as follows: 
+
+
+
+
+
+
+
+a. 
+L. Sonneborn Sons SRP #387; 
+
+
+
+
+
+
+b. 
+Pittsburgh Duresto; 
+
+
+
+
+
+
+c. 
+Rustoleum Corporation 1069; 
+
+
+
+
+
+
+d. 
+Tnemec Company #67 Special Red Primer; 
+
+
+
+
+
+
+e. 
+Sherwin Williams Kem Kromik Primer. 
+
+
+PART 3 - EXECUTION 
+
+
+3.1 WORKMANSHIP 
+
+
+A. 
+The steel fabricator shall have a current AISC Fabrication Certification. 
+
+B. 
+All work shall be executed by skilled workmen under experienced supervision. 
+
+C. 
+Both shop and field welding shall be done by certified welders. 
+
+
+
+
+3.2 FABRICATION 
+
+
+
+A. 
+Structural material shall be fabricated and assembled in the shop to the extent that additional assembly is 
+restricted by shipping limitations. Flamecutting and chipping shall be done to prescribed dimensions. 
+Burrs and shavings shall be removed. Parts not connected on the shop shall be secured by bolts to 
+prevent loss or damage in shipment and handling. 
+
+
+
+B. 
+Shearing and punching shall be without ragged or torn edges. The diameter of the punch shall not 
+exceed that of the bolt or the diameter of the die exceed that of the punch by more than 1/16 inch. The 
+thickness of the material in punched work shall not exceed the normal diameter of the bolts plus 1/8 inch. 
+Holes shall be spaced so that when parts are assembled, bolts will enter without distortion. Holes shall 
+
+be enlarged only by reaming. Drift pins shall not enlarge or distort the holes. 
+
+
+
+C. 
+Shop connections may be welds or high strength steel bolts unless specified otherwise. 
+
+
+
+D. 
+All members shall be free from twists, kinks, buckles or open joints. Parts assembled with bolts shall be 
+in close contact except where separators are prescribed. All members shall be so made that when 
+FIFTH THIRD BANK –WATSON 
+05 1200-10 
+WARNER ROBINS, GA 
+STRUCTURAL STEEL FRAMING 
+PRAXIS3-26032 
+JUNE 25, 2026 
+
+
+
+assembled, the parts shall come together without shimming. 
+
+
+
+E. 
+Open holes shall be provided for bolted connections of other work under the General Contract to 
+Structural Metal Work. 
+
+
+
+F. 
+Metal shall be properly prepared in accordance with shop details before welding is begun. 
+
+
+
+G. 
+No shop splice or other connection welded or otherwise shall be made without having been detailed on 
+shop drawings and approved by the Design Professional. 
+
+
+
+H. 
+Steel shear studs shall be attached using a special installation welding gun with ceramic ferrule spacers. 
+
+
+
+I. 
+Where connections are indicated on the Contract Drawings, no deviation from the type and method 
+thereof shall be made without the approval of the Design Professional. One sided or other types of 
+eccentric connections will not be permitted without the approval of the Design Professional. 
+
+
+
+J. 
+Provide web stiffeners in all girders and beams at points of concentrated loads or bearings. 
+
+K. 
+Architecturally Exposed Structural Steel shall meet the following criteria: 
+
+
+
+1. Form work true to line and level with accurate angles and surfaces and straight edges. Ease 
+exposed edges. Form bent-metal corners to smallest radius possible without causing grain 
+separation or otherwise impairing work. 
+
+
+2. Weld corners and seams continuously and in accord with AWS recommendations. Grind 
+exposed welds smooth and flush to match and blend with adjoining surfaces. 
+
+
+3. Seams in pipes and tubes shall all be turned to face the same direction. Seams shall be located 
+where they are least noticeable to pedestrian view. Seam location shall be shown on shop 
+drawings. 
+
+
+4. Provide anchorage of type shown on approved shop drawings coordinated with the supporting 
+structure. 
+
+
+3.3 
+SHOP PAINTING 
+
+
+
+A. 
+All steel and iron work shall be thoroughly cleaned of mill scale, rust, dirt, oils and grease by use of wire 
+brushes and scrapers and all members except those encased in concrete shall be given one shop coat of 
+a rust inhibitive paint. Minimum dry film thickness shall be 2 mils. 
+
+
+
+B. 
+Paint shall be used from original containers without dilution. 
+
+
+
+C. 
+Steel to be encased in concrete or to receive spray-on fireproofing shall not be painted. 
+
+
+
+3.4 
+ERECTION PRECAUTIONS 
+
+
+
+A. 
+It shall be the responsibility of the Contractor to secure steel against displacement during erection and to 
+FIFTH THIRD BANK –WATSON 
+05 1200-11 
+WARNER ROBINS, GA 
+STRUCTURAL STEEL FRAMING 
+PRAXIS3-26032 
+JUNE 25, 2026 
+
+
+
+maintain it against displacement until the erection of all steel is completed, all floor and roof decks are in 
+place, and all exterior masonry is completed. 
+
+
+
+B. 
+All structural metal work shall be accurately set and secured with temporary or permanent connections as 
+erected. 
+
+
+
+C. 
+All structural metal work shall have temporary guys, braces and stays to hold it in position until it is 
+permanently secure. In general, exterior masonry, diagonal bracing and or moment frames are relied 
+upon to secure the steel, therefore, temporary bracing shall be maintained until all is in place. 
+
+
+
+D. 
+Column bases are designed as unrestrained and columns shall be guyed, braced or stayed as erected. 
+(Staying may be accomplished by fastening to framing members attached to a section of framing already 
+
+braced.) 
+
+
+3.5 
+ERECTION 
+
+
+
+A. 
+Field connections may be welds or high strength steel bolts unless specified otherwise. 
+
+
+
+B. 
+Bolts for structural work exposed to the weather shall be dipped in rust inhibitive paint just before they are 
+put in place. 
+
+
+
+C. 
+Anchor bolts shall be located and built into the connecting work in advance. All columns shall have a 
+minimum of (4) anchor bolts. Column bases shall be set on four metal shims and grouted solid with a 
+minimum of 1-1/2" thick nonshrink, non-metallic, cementitious type grout. Grouting shall be performed 
+prior to loading column. Contractor shall have testing company present to observe grouting. All copies 
+of reports shall be forwarded to the Architect/Design Professional. 
+
+
+
+D. 
+Bearing plates shall be set in nonshrink, non-metallic, cementitious type grout. 
+
+
+
+E. 
+No erection holes shall be burned or enlarged with a torch. 
+
+
+
+F. 
+After assembly, the various members forming parts of a completed frame or structure shall be aligned 
+and adjusted before being permanently fastened. Tolerance shall conform to AISC. Fastening of splices 
+of compression members shall be done after the abutting surfaces have been brought completely into 
+contact. Bearing surfaces and surfaces that will be in permanent contact shall be cleaned before the 
+members are assembled. Unless removal is required by the Architect, erection bolts used in welded 
+construction shall be tightened and left in place. 
+
+
+
+G. 
+As erection progresses the work shall be fastened to take care of all dead load, wind and erection 
+stresses. Splices will be permitted only where indicated. 
+
+
+
+
+
+
+H. 
+As erection progresses steel joists designated on plans as strut joists shall be bolted in place with two ½" 
+high strength bolts to serve as an erection strut. (OSHA) 
+
+
+
+I. 
+All bolts, including anchor bolts, shall expose 1½ threads minimum after nut is tightened. 
+FIFTH THIRD BANK –WATSON 
+05 1200-12 
+WARNER ROBINS, GA 
+STRUCTURAL STEEL FRAMING 
+PRAXIS3-26032 
+JUNE 25, 2026 
+
+
+
+
+
+3.6 
+FIELD PAINTING 
+
+
+
+A. 
+After erection, all surfaces on which the shop coat is damaged or destroyed or on which the metal is 
+exposed by rust spots shall be cleaned off and painted one coat of paint. 
+
+
+
+B. 
+After erection, all bolts, heads and welds shall be painted by Erector. 
+
+
+
+C. 
+After erection, all steel which is exposed to the weather or to the earth shall have one coat of rust 
+
+inhibitive paint. Primer shall be applied to provide a minimum dry-film of two mils. 
+
+
+3.7 
+SURFACE PREPARATION 
+
+A. 
+Architecturally Exposed Structural Steel and steel exposed to the weather shall be prepared for 
+painting to meet the requirements of SSPC – SP10, conduct blasting only when steel 
+structures are more than 5 deg. F above the dew point. 
+
+3.8 
+SHOP PAINTING 
+
+
+A. 
+All steel and iron work shall be cleaned of mill scale, dirt, rust, oils and grease. 
+
+
+B. 
+Paint shall be used from original containers without dilution. 
+
+C. 
+All drips and runs shall be removed leaving a smooth finish for the finish coat of paint. 
+
+D. 
+Shop paint for work not exposed to pedestrian view shall meet Federal Specification TT-P-86G, 
+Type I. 
+
+E. 
+Architecturally Exposed Structural Steel or steel exposed to the weather shall be primed with a 
+primer which is compatible with the finish coat specified in Division 09 of these Specifications. 
+
+F. 
+All structural steel not encased in concrete, not encased in sprayed-on fireproofing or not 
+encased in direct applied fireproofing shall be painted with one coat of rust inhibitive paint two 
+mils thick. 
+
+G. 
+All structural steel encased in concrete shall not be painted. 
+
+
+END OF SECTION 05 1200 
+

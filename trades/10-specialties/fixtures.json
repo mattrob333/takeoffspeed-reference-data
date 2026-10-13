@@ -1,0 +1,454 @@
+[
+ {
+  "name": "L322 18\" vertical grab bar TA-3, Bradley 1-1/4\" SS",
+  "formula": "EA = sum(plan tag count per room) x bars of this size per TA-3 set",
+  "engineAssembly": "specialties.toilet-accessory",
+  "inputs": {
+   "tag": "TA-3",
+   "count": {
+    "value": [
+     1,
+     1
+    ],
+    "unit": "EA",
+    "per": "room (MEN 112; WOMEN 111)"
+   },
+   "size": {
+    "value": "18\" VERTICAL",
+    "unit": "text"
+   }
+  },
+  "expected": {
+   "quantity": 2,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 2.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 322 / markup p16 (A-410) legend TA3 + elev. 8 (C)/A-410 + detail 2/A-410 (18\" MIN)"
+ },
+ {
+  "name": "L323 42\" horizontal grab bar TA-3, Bradley 1-1/4\" SS",
+  "formula": "EA = sum(plan tag count per room) x bars of this size per TA-3 set",
+  "engineAssembly": "specialties.toilet-accessory",
+  "inputs": {
+   "tag": "TA-3",
+   "count": {
+    "value": [
+     1,
+     1
+    ],
+    "unit": "EA",
+    "per": "room (MEN 112; WOMEN 111)"
+   },
+   "size": {
+    "value": "42\" HORIZONTAL",
+    "unit": "text"
+   }
+  },
+  "expected": {
+   "quantity": 2,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 2.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 323 / markup p16 (A-410) legend TA3 + elev. 8 (C)/A-410 (side wall) + detail 2/A-410 (42\" MIN)"
+ },
+ {
+  "name": "L324 Waste receptacle TA-4, Bobrick B-3644 recessed",
+  "formula": "EA = sum(plan tag count per room)",
+  "engineAssembly": "specialties.toilet-accessory",
+  "inputs": {
+   "tag": "TA-4",
+   "count": {
+    "value": [
+     1,
+     1
+    ],
+    "unit": "EA",
+    "per": "room (MEN 112; WOMEN 111)"
+   },
+   "mounting": {
+    "value": "RECESSED",
+    "unit": "text"
+   }
+  },
+  "expected": {
+   "quantity": 2,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 2.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 324 / markup p16 (A-410) legend TA4"
+ },
+ {
+  "name": "L325 2'x3' mirror TA-6, Bobrick B-290 SS angle frame",
+  "formula": "EA = sum(plan tag count per room)",
+  "engineAssembly": "specialties.toilet-accessory",
+  "inputs": {
+   "tag": "TA-6",
+   "count": {
+    "value": [
+     1,
+     1
+    ],
+    "unit": "EA",
+    "per": "room (MEN 112; WOMEN 111)"
+   },
+   "size": {
+    "value": "2'x3'",
+    "unit": "text"
+   }
+  },
+  "expected": {
+   "quantity": 2,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 2.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 325 / markup p16 (A-410) legend TA6"
+ },
+ {
+  "name": "L326 Sanitary napkin disposal TA-8, Bobrick B-270",
+  "formula": "EA = sum(plan tag count per room)",
+  "engineAssembly": "specialties.toilet-accessory",
+  "inputs": {
+   "tag": "TA-8",
+   "count": {
+    "value": [
+     0,
+     1
+    ],
+    "unit": "EA",
+    "per": "room (MEN 112; WOMEN 111)"
+   }
+  },
+  "expected": {
+   "quantity": 1,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 326 / markup p16 (A-410) legend TA8"
+ },
+ {
+  "name": "L327 Coat hook TA-9",
+  "formula": "EA = sum(plan tag count per room)",
+  "engineAssembly": "specialties.toilet-accessory",
+  "inputs": {
+   "tag": "TA-9",
+   "count": {
+    "value": [
+     1,
+     1
+    ],
+    "unit": "EA",
+    "per": "room (MEN 112; WOMEN 111)"
+   }
+  },
+  "expected": {
+   "quantity": 2,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 2.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 327 / markup p16 (A-410) legend TA9",
+  "notes": "Reproduces the estimator (2 EA = plan-6 TA-9 tags). Convention: the hooks are carried in door hardware set 11.0 (line 205: 2 RM817 per door x 2 doors = 4); the TA-9 record is a cross-reference and the engine should warn \"also in hardware set 11.0\", never add both silently. The estimator carried both."
+ },
+ {
+  "name": "L328 Surface mop holder TA-10, Bobrick B-223x24 satin",
+  "formula": "EA = sum(plan tag count per room)",
+  "engineAssembly": "specialties.toilet-accessory",
+  "inputs": {
+   "tag": "TA-10",
+   "count": {
+    "value": [
+     1
+    ],
+    "unit": "EA",
+    "per": "room (JANITOR 115)"
+   }
+  },
+  "expected": {
+   "quantity": 1,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 328 / markup p16 (A-410) legend TA10"
+ },
+ {
+  "name": "L329 Toilet tissue dispenser TA-1",
+  "formula": "EA = sum(plan tag count per room)",
+  "engineAssembly": "specialties.toilet-accessory",
+  "inputs": {
+   "tag": "TA-1",
+   "count": {
+    "value": [
+     1,
+     1
+    ],
+    "unit": "EA",
+    "per": "room (MEN 112; WOMEN 111)"
+   },
+   "furnishedBy": {
+    "value": "OWNER VENDOR",
+    "unit": "text"
+   },
+   "installedBy": {
+    "value": "GC",
+    "unit": "text"
+   }
+  },
+  "expected": {
+   "quantity": 2,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 2.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 329 / markup p16 (A-410) legend TA1"
+ },
+ {
+  "name": "L330 Paper towel dispenser TA-2",
+  "formula": "EA = sum(plan tag count per room)",
+  "engineAssembly": "specialties.toilet-accessory",
+  "inputs": {
+   "tag": "TA-2",
+   "count": {
+    "value": [
+     1,
+     1
+    ],
+    "unit": "EA",
+    "per": "room (MEN 112; WOMEN 111)"
+   },
+   "furnishedBy": {
+    "value": "OWNER VENDOR",
+    "unit": "text"
+   },
+   "installedBy": {
+    "value": "GC",
+    "unit": "text"
+   }
+  },
+  "expected": {
+   "quantity": 2,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 2.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 330 / markup p16 (A-410) legend TA2"
+ },
+ {
+  "name": "L331 Soap dispenser TA-5",
+  "formula": "EA = sum(plan tag count per room)",
+  "engineAssembly": "specialties.toilet-accessory",
+  "inputs": {
+   "tag": "TA-5",
+   "count": {
+    "value": [
+     1,
+     1
+    ],
+    "unit": "EA",
+    "per": "room (MEN 112; WOMEN 111)"
+   },
+   "furnishedBy": {
+    "value": "OWNER VENDOR",
+    "unit": "text"
+   },
+   "installedBy": {
+    "value": "GC",
+    "unit": "text"
+   }
+  },
+  "expected": {
+   "quantity": 2,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 2.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 331 / markup p16 (A-410) legend TA5"
+ },
+ {
+  "name": "L332 6\"x4\" tactile (exit) signage",
+  "formula": "EA = count",
+  "engineAssembly": "specialties.signage",
+  "inputs": {
+   "count": {
+    "value": [
+     3
+    ],
+    "unit": "EA"
+   },
+   "size": {
+    "value": "6\" x 4\"",
+    "unit": "in (W x H)"
+   }
+  },
+  "expected": {
+   "quantity": 3,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 3.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 332 / markup p2 (G-001) legend \"6\"x4\" TACTILE SIGNAGE\""
+ },
+ {
+  "name": "L333 6\"x9\" ADA men toilet sign, 5/8\" raised, Gr.2 braille",
+  "formula": "EA = count",
+  "engineAssembly": "specialties.signage",
+  "inputs": {
+   "count": {
+    "value": [
+     1
+    ],
+    "unit": "EA"
+   },
+   "size": {
+    "value": "6\" x 9\"",
+    "unit": "in (W x H)"
+   }
+  },
+  "expected": {
+   "quantity": 1,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 333 / markup p2 (G-001) legend \"6\"x9\" ADA MEN TOILET SIGNAGE\""
+ },
+ {
+  "name": "L334 6\"x9\" ADA women toilet sign",
+  "formula": "EA = count",
+  "engineAssembly": "specialties.signage",
+  "inputs": {
+   "count": {
+    "value": [
+     1
+    ],
+    "unit": "EA"
+   },
+   "size": {
+    "value": "6\" x 9\"",
+    "unit": "in (W x H)"
+   }
+  },
+  "expected": {
+   "quantity": 1,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 334 / markup p2 (G-001) legend \"6\"x9\" ADA WOMAN TOILET SIGNAGE\""
+ },
+ {
+  "name": "L335 Fire extinguisher cabinet",
+  "formula": "EA = count",
+  "engineAssembly": "specialties.fire-extinguisher",
+  "inputs": {
+   "mount": {
+    "value": "recessed",
+    "unit": "choice",
+    "from": "drawing (G-001 legend F.E.C. RECESSED; spec 10 44 13 3.3.B.1), not the estimate line"
+   },
+   "count": {
+    "value": [
+     1,
+     1
+    ],
+    "unit": "EA"
+   },
+   "extinguisherSize": {
+    "value": "10 LB",
+    "unit": "text",
+    "from": "drawing (G-001 legend 10LB), not the estimate line"
+   },
+   "rating": {
+    "value": "4A:80B:C",
+    "unit": "text",
+    "from": "drawing (G-001 legend 4A:80B:C); conflicts with spec 10 44 16 2.2.B 4-A:60-B:C; not the estimate line"
+   }
+  },
+  "expected": {
+   "quantity": 2,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 2.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 335 / G-001 life safety plan F.E.C. symbols (no legend row on markup p2); A-110 FEC tags",
+  "notes": "Estimate line 335 reads only \"FIRE EXTINGUISHER CABINET\" (2 EA). mount/extinguisherSize/rating are drawing-derived engine inputs; the rating is a legend-vs-spec conflict. The extinguishers themselves (2 x 10 lb, spec 10 44 16) are a separate record this estimate does not carry. Expected quantity is the cabinet count only."
+ },
+ {
+  "name": "L336 Booth screen panel system PNL-1, Big Apple Visual Group",
+  "formula": "SF = sum(W x H)/144",
+  "engineAssembly": "specialties.panel-system",
+  "inputs": {
+   "faces": {
+    "value": [
+     [
+      32,
+      108
+     ],
+     [
+      16,
+      108
+     ]
+    ],
+    "unit": "in (W x H)"
+   }
+  },
+  "expected": {
+   "quantity": 36.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "estimatorQty": 36.0,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": 0.0,
+  "classification": "measured",
+  "source": "line 336 / markup p29 (A-706) legend \"PNL-1 PANEL W/ HARDWOO BLOCKING FILLER BOTH SIDE\"",
+  "notes": "Widths from plan 11/A-706 dimensions 2'-8\" and 1'-4\"; height from elevation 6/A-706 9'-0\". Vector read is a cross-check only."
+ }
+]

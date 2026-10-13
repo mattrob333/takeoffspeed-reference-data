@@ -1,0 +1,6351 @@
+
+=====PAGE 1
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-09 90 00 (August 2026)
+------------------------------------
+Preparing Activity:  NAVFAC
+Superseding
+UFGS-09 90 00 (February 2021)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated July 2026
+**************************************************************************
+SECTION TABLE OF CONTENTS
+DIVISION 09 - FINISHES
+SECTION 09 90 00
+ARCHITECTURAL PAINTS AND COATINGS
+08/26
+PART 1   GENERAL
+  1.1   SUMMARY
+  1.2   SURFACES TO BE PAINTED
+    1.2.1   Painting Included
+      1.2.1.1   Exterior Painting
+      1.2.1.2   Interior Painting
+    1.2.2   Painting Excluded
+    1.2.3   Mechanical and Electrical Painting
+      1.2.3.1   Fire Extinguishing Sprinkler Systems
+    1.2.4   Exterior Painting of Site Work Items
+    1.2.5   Miscellaneous Painting
+      1.2.5.1   Lettering [Building ][Room Number(s)]
+      1.2.5.2   Obstructions To Aviation
+  1.3   REFERENCES
+  1.4   DEFINITIONS
+  1.5   SCHEDULING
+  1.6   SUBMITTALS
+  1.7   QUALITY ASSURANCE
+    1.7.1   Contract Errors, Omissions, and Other Discrepancies
+    1.7.2   Coating Contractor Qualifications
+    1.7.3   Approved Products List
+    1.7.4   Paints and Coatings Indoor Air Quality Certifications
+    1.7.5   Coating Sampling and Testing
+      1.7.5.1   Sampling Procedure
+      1.7.5.2   Testing Procedure
+    1.7.6   Textured Wall Coating System
+    1.7.7   Sample Textured Wall Coating System Mock-Up
+  1.8   DELIVERY AND STORAGE
+  1.9   SAFETY AND HEALTH
+    1.9.1   Regulatory Requirements
+      1.9.1.1   Environmental Protection
+      1.9.1.2   Lead Content
+      1.9.1.3   Chromate Content
+SECTION 09 90 00  Page 1
+
+
+=====PAGE 2
+      1.9.1.4   Asbestos Content
+      1.9.1.5   Mercury Content
+      1.9.1.6   Silica
+      1.9.1.7   Human Carcinogens
+      1.9.1.8   Carbon Based Fibers / Tubes
+    1.9.2   Toxic Materials
+  1.10   ENVIRONMENTAL REQUIREMENTS
+    1.10.1   Coatings Application
+    1.10.2   Post-Application
+  1.11   JOB SITE REFERENCES
+PART 2   PRODUCTS
+  2.1   COATING SYSTEMS
+    2.1.1   Coating Systems For Metal
+    2.1.2   Coating Systems for Concrete and Cementitious Substrates
+    2.1.3   Coating Systems for Wood and Plywood
+  2.2   COLOR CODING FOR SHORE-TO-SHIP UTILITY CONNECTIONS
+  2.3   COLOR SELECTION OF FINISH COATS
+PART 3   EXECUTION
+  3.1   PROTECTION OF AREAS AND SPACES NOT TO BE PAINTED
+  3.2   REPUTTYING AND REGLAZING
+  3.3   RESEALING OF EXISTING EXTERIOR JOINTS
+    3.3.1   Surface Condition
+    3.3.2   Backstops
+    3.3.3   Primer and Bond Breaker
+    3.3.4   Ambient Temperature
+    3.3.5   Exterior Sealant
+    3.3.6   Cleaning
+  3.4   SURFACE PREPARATION
+    3.4.1   Additional Requirements for Preparation of Surfaces With 
+Existing Coatings
+    3.4.2   Existing Coated Surfaces with Minor Defects
+    3.4.3   Removal of Existing Coatings
+    3.4.4   Removal of Existing Sealants and Caulking
+    3.4.5   Substrate Repair
+  3.5   PREPARATION OF METAL SURFACES
+    3.5.1   Existing and New Ferrous Surfaces
+    3.5.2   Final Ferrous Surface Condition:
+      3.5.2.1   Tool Cleaned Surfaces
+      3.5.2.2   Abrasive Blast Cleaned Surfaces
+      3.5.2.3   Waterjet Cleaned Surfaces
+    3.5.3   Galvanized Surfaces
+    3.5.4   Non-Ferrous Metallic Surfaces
+    3.5.5   Terne-Coated Metal Surfaces
+    3.5.6   Existing Surfaces with a Bituminous or Mastic-Type Coating
+  3.6   PREPARATION OF CONCRETE AND CEMENTITIOUS SURFACE
+    3.6.1   Concrete and Masonry
+    3.6.2   Gypsum Board, Plaster, and Stucco
+      3.6.2.1   Surface Cleaning
+      3.6.2.2   Repair of Minor Defects
+      3.6.2.3   Allowable Moisture Content
+    3.6.3   Existing Asbestos Cement Surfaces
+  3.7   PREPARATION OF WOOD AND PLYWOOD SURFACES
+    3.7.1   New[, Existing Uncoated,][ and][ Existing Coated] Plywood and 
+Wood Surfaces, Except Floors:
+    3.7.2   Wood Floor Surfaces, Natural Finish
+SECTION 09 90 00  Page 2
+
+
+=====PAGE 3
+    3.7.3   Interior Wood Surfaces, Stain Finish
+    3.7.4   Water Blasting of Existing Coated Wood Surfaces:
+  3.8   APPLICATION
+    3.8.1   Coating Application
+    3.8.2   Mixing and Thinning of Paints
+    3.8.3   Two-Component Systems
+  3.9   PIPING IDENTIFICATION
+  3.10   INSPECTION AND ACCEPTANCE
+  3.11   WASTE MANAGEMENT
+  3.12   PAINT TABLES
+    3.12.1   Exterior Paint Tables
+      3.12.1.1   MPI Division 3:  Exterior Concrete Paint Table
+      3.12.1.2   MPI Division 4:  Exterior Concrete Masonry Units Paint 
+Table
+      3.12.1.3   MPI Division 5:  Exterior Metal, Ferrous and Non-Ferrous 
+Paint Table
+      3.12.1.4   MPI Division 6:  Exterior Wood; Dressed Lumber, Paneling, 
+Decking, Shingles Paint Table
+      3.12.1.5   MPI Division 9:  Exterior Stucco Paint Table
+      3.12.1.6   MPI Division 10:  Exterior Cloth Coverings and Bituminous 
+Coated Surfaces Paint Table
+    3.12.2   Interior Paint Tables
+      3.12.2.1   MPI Division 3:  Interior Concrete Paint Table
+      3.12.2.2   MPI Division 4:  Interior Concrete Masonry Units Paint 
+Table
+      3.12.2.3   MPI Division 5:  Interior Metal, Ferrous and Non-Ferrous 
+Paint Table
+      3.12.2.4   MPI Division 6:  Interior Wood Paint Table
+      3.12.2.5   MPI Division 9:  Interior Plaster, Gypsum Board, Textured 
+Surfaces Paint Table
+-- End of Section Table of Contents --
+SECTION 09 90 00  Page 3
+
+
+=====PAGE 4
+**************************************************************************
+USACE / NAVFAC / AFCEC
+UFGS-09 90 00 (August 2026)
+------------------------------------
+Preparing Activity:  NAVFAC
+Superseding
+UFGS-09 90 00 (February 2021)
+UNIFIED FACILITIES GUIDE SPECIFICATIONS
+References are in agreement with UMRL dated July 2026
+**************************************************************************
+SECTION 09 90 00
+ARCHITECTURAL PAINTS AND COATINGS
+08/26
+**************************************************************************
+NOTE:  This guide specification covers the 
+requirements for painting of new and existing, 
+architectural interior and exterior substrates, 
+including masonry, concrete, metal, wood, and other 
+miscellaneous materials.
+Adhere to UFS 1-300-02 Unified Facilities Guide 
+Specifications (UFGS) Format Standard when editing 
+this guide specification or preparing new project 
+specification sections.  Edit this guide 
+specification for project specific requirements by 
+adding, deleting, or revising text.  For bracketed 
+items, choose applicable item(s) or insert 
+appropriate information.
+Remove information and requirements not required in 
+respective project, whether or not brackets are 
+present.
+Comments, suggestions and recommended changes for 
+this guide specification are welcome and should be 
+submitted as a Criteria Change Request (CCR).
+**************************************************************************
+**************************************************************************
+NOTE:  This guide specification includes tailoring 
+for ARMY and NAVY projects, and for INTERIOR and 
+EXTERIOR painting.  Where an Editor's Note states a 
+paragraph is tailored for a Service or painting 
+type, the content of the paragraph, or a portion of 
+the paragraph, is suited specifically to be included 
+only for that Service or painting type.
+**************************************************************************
+**************************************************************************
+NOTE:  This Guide Specification is used in the 
+preparation of project specifications for Department 
+of Defense facilities:
+1.  Buildings;
+SECTION 09 90 00  Page 4
+
+
+=====PAGE 5
+2.  Related mechanical, electrical, and 
+miscellaneous items; and
+3.  Shore-to-ship utility connections.
+This guide specification generally contains only two 
+types of coating systems, solvent based and water 
+based.  If different systems are required 
+regionally, or for special needs, modify the guide 
+accordingly.
+This guide specification has been prepared to 
+address the requirements of routine maintenance 
+painting when modified to include or utilize 
+maintenance options.
+This guide specification DOES NOT address 
+high-performance or specialty coating requirements, 
+or protective coating of industrial structures or 
+facilities, including but not limited to:
+1.  Towers;
+2.  Pilings;
+3.  Pavement markings;
+4.  Items requiring specialized treatment due to 
+peculiar usage;
+5.  Petroleum storage facilities;
+6.  Water storage facilities;
+7.  Waterfront facilities, except shore-to-ship 
+utility connections; and 
+8.  Hangars
+If items above are in the project, include in a 
+separate section or modify this section 
+accordingly.  The following guide specifications are 
+examples of those available for specific service 
+conditions noted, and may be modified to provide 
+appropriate service conditions:
+1.  Section 09 97 23 METALLIC TYPE CONDUCTIVE/SPARK 
+RESISTANT CONCRETE FLOOR FINISH.  This specification 
+covers the requirements for metallic type 
+conductive/spark resistant concrete floor finish for 
+ordnance and other similar structures.
+2.  Section 09 97 02 PAINTING:  HYDRAULIC 
+STRUCTURES.  This specification covers the painting 
+of hydraulic structures located in fresh water such 
+as locks and dams.
+3.  Section 09 97 13 HIGH PERFORMANCE STEEL 
+COATINGS.  This specification is usable for any 
+steel structure exposed to weather, and is usable 
+for other purposes as well, such as hangar 
+structures, and most situations requiring 
+high-performance protective coating systems for 
+atmospheric environments.  This section also covers 
+coatings for the interior and exterior of fuel tanks 
+and piping, interior and exterior of water tanks, 
+and splash zones.
+SECTION 09 90 00  Page 5
+
+
+=====PAGE 6
+4.  Section 09 96 00 HEAT- AND CHEMICAL-RESISTANT 
+COATINGS.  This guide specification covers the 
+requirements for coatings as required for service in 
+high temperature or harsh chemical environments.
+**************************************************************************
+PART 1   GENERAL
+1.1   SUMMARY
+**************************************************************************
+NOTE:  Indicate type and extent of work on 
+drawings.  Specific quantities should not be cited 
+in the specification.  Indicate on the drawings the 
+linear amount of existing putty, glazing compound, 
+sealant or caulking to be replaced with new material 
+and quantify the area of existing coating to be 
+removed by methods specified for each substrate 
+material.  Coordinate with paragaph SURFACES TO BE 
+PAINTED.
+**************************************************************************
+This section includes requirements for the surface preparation and 
+coatings application for [_____].
+1.2   SURFACES TO BE PAINTED
+**************************************************************************
+NOTE:  Indicate type and extent of work on 
+drawings.  Specific quantities should not be cited 
+in the specification.  Indicate on the drawings the 
+linear amount of existing putty, glazing compound, 
+sealant or caulking to be replaced with new material 
+and quantify the area of existing coating to be 
+removed by methods specified for each substrate 
+material.  Coordinate with SUMMARY paragraph.
+**************************************************************************
+1.2.1   Painting Included
+Where a space or surface is indicated to be painted, include the following 
+unless indicated otherwise.
+a.  Surfaces behind portable objects and surface mounted articles readily 
+detachable by removal of fasteners, such as screws and bolts.
+b.  New factory finished surfaces that require identification or color 
+coding and factory finished surfaces that are damaged during 
+performance of the work.
+c.  Existing coated surfaces that are damaged during performance of the 
+work.
+1.2.1.1   Exterior Painting
+**************************************************************************
+NOTE:  The following subparagraph is tailored for 
+inclusion in projects with exterior painting.
+SECTION 09 90 00  Page 6
+
+
+=====PAGE 7
+Choose bracketed items according to scope of project.
+**************************************************************************
+Includes new surfaces[, existing coated surfaces,][ and] [existing 
+uncoated surfaces,] of the building[s] and appurtenances.  Also included 
+are existing coated surfaces made bare by cleaning operations.
+1.2.1.2   Interior Painting
+**************************************************************************
+NOTE:  The following subparagraph is tailored for 
+inclusion in projects with interior painting.
+Choose bracketed items according to scope of project.
+**************************************************************************
+Includes new surfaces[, existing uncoated surfaces,][ and][ existing 
+coated surfaces] of the building[s] and appurtenances as indicated and 
+existing coated surfaces made bare by cleaning operations.  Where a space 
+or surface is indicated to be painted, include the following items, unless 
+indicated otherwise.
+a.  Exposed columns, girders, beams, joists, and metal deck; and
+b.  Other contiguous surfaces.
+1.2.2   Painting Excluded
+Do not paint the following unless indicated otherwise.
+a.  Surfaces concealed and made inaccessible by panelboards, fixed 
+ductwork, machinery, and equipment fixed in place.
+b.  Surfaces in concealed spaces.  Concealed spaces are defined as 
+enclosed spaces above suspended ceilings, furred spaces, attic spaces, 
+crawl spaces, elevator shafts and chases.
+c.  Steel to be embedded in concrete.
+d.  Copper, stainless steel, aluminum, anodized aluminum, brass, and lead 
+except existing coated surfaces.
+e.  Hardware, fittings, and other factory finished items.
+[ f.  Do not paint surfaces in the following areas: [_____].
+]1.2.3   Mechanical and Electrical Painting
+**************************************************************************
+NOTE:  Choose bracketed items in paragraph below 
+according to scope of project.
+**************************************************************************
+Includes field coating of[ interior][ and][ exterior] new[ and existing] 
+surfaces.
+a.  Where a space or surface is indicated to be painted, include the 
+following items unless indicated otherwise.
+SECTION 09 90 00  Page 7
+
+
+=====PAGE 8
+(1)  Exposed piping, conduit, and ductwork;
+(2)  Supports, hangers, air grilles, and registers;
+(3)  Miscellaneous metalwork and insulation coverings.
+[ b.  Do not paint the following, unless indicated otherwise:
+[
+(1)  New zinc-coated, aluminum, and copper surfaces under insulation
+][
+(2)  New aluminum jacket on piping
+][
+(3)  New interior ferrous piping under insulation.
+]][1.2.3.1   Fire Extinguishing Sprinkler Systems
+Clean, pretreat, prime, and paint new fire extinguishing sprinkler systems 
+including valves, piping,[ and] conduit[, hangers, supports, miscellaneous 
+metalwork, and accessories].  Apply coatings to clean, dry surfaces, using 
+clean brushes.
+][1.2.4   Exterior Painting of Site Work Items
+**************************************************************************
+NOTE:  The following paragraph is tailored for 
+inclusion in projects with exterior painting.
+Insert list of Site Work Items to be painted in 
+table below, such as hand rails, fire extinguishing 
+systems, doors.
+**************************************************************************
+Field coat the following items:
+New Surfaces
+Existing Surfaces
+a.
+b.
+c.
+]1.2.5   Miscellaneous Painting
+1.2.5.1   Lettering [Building ][Room Number(s)]
+Provide lettering[ as scheduled on the drawings][ block][ Gothic] type,[ 
+black enamel][ water-type decalcomania, finished with a protective coating 
+of spar varnish].  Samples must be approved before application.
+[1.2.5.2   Obstructions To Aviation
+**************************************************************************
+NOTE:  Specify by name structures such as 
+smokestacks, poles, and buildings which have been 
+identified as obstruction to aviation.  Verify that 
+the structures so identified are not specified to be 
+painted in the sections specifying the structures so 
+SECTION 09 90 00  Page 8
+
+
+=====PAGE 9
+that painting will not be specified twice.  
+Coordinate with FAA for alternate colors and 
+patterns.
+**************************************************************************
+Paint the following obstructions to aviation in the pattern and color 
+prescribed by FAA AC 70/7460-1: [ smokestacks][ poles][ buildings] [_____].
+]1.3   REFERENCES
+**************************************************************************
+NOTE:  This paragraph is used to list the 
+publications cited in the text of the guide 
+specification.  The publications are referred to in 
+the text by basic designation only and listed in 
+this paragraph by organization, designation, date, 
+and title.
+Use the Reference Wizard's Check Reference feature 
+when you add a Reference Identifier (RID) outside of 
+the Section's Reference Article to automatically 
+place the reference in the Reference Article.  Also 
+use the Reference Wizard's Check Reference feature 
+to update the issue dates.
+References not used in the text will automatically 
+be deleted from this section of the project 
+specification when you choose to reconcile 
+references in the publish print process.
+**************************************************************************
+The publications listed below form a part of this specification to the 
+extent referenced.  The publications are referred to within the text by 
+the basic designation only.
+AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIAL HYGIENISTS (ACGIH)
+ACGIH 0100
+(2017; Suppl 2020) Documentation of the 
+Threshold Limit Values and Biological 
+Exposure Indices
+AMERICAN SOCIETY OF MECHANICAL ENGINEERS (ASME)
+ASME A13.1
+(2023) Scheme for the Identification of 
+Piping Systems
+ASSOCIATION FOR MATERIALS PROTECTION AND PERFORMANCE (AMPP)
+AMPP QP 1
+(2019) Standard Procedure for Evaluating 
+the Qualifications of Industrial/Marine 
+Painting Contractors (Field Application to 
+Complex Industrial Steel Structures and 
+Other Metal Components)
+AMPP QP 9
+(2014) Standard Procedure for Evaluating 
+the Qualifications of Commercial Painting 
+and Coating Contractors
+SSPC Guide 6
+(2021) Guide for Containing Surface 
+SECTION 09 90 00  Page 9
+
+
+=====PAGE 10
+Preparation Debris Generated During Paint 
+Removal Operations
+SSPC Guide 7
+(2015) Guide to the Disposal of 
+Lead-Contaminated Surface Preparation 
+Debris
+SSPC PA 1
+(2024) Shop, Field, and Maintenance 
+Coating of Metals
+SSPC SP 1
+(2016) Solvent Cleaning
+SSPC SP 2
+(2024) Hand Tool Cleaning
+SSPC SP 3
+(2024) Power Tool Cleaning
+SSPC SP 5/NACE No. 1
+(2007) White Metal Blast Cleaning
+SSPC SP 6/NACE No.3
+(2007) Commercial Blast Cleaning
+SSPC SP 7/NACE No.4
+(2007) Brush-Off Blast Cleaning
+SSPC SP 10/NACE No. 2
+(2024) Near-White Metal Blast Cleaning
+SSPC SP 11
+(2020) Surface Preparation Standard No. 11 
+- Power Tool Cleaning to Bare Metal
+SSPC SP 13/NACE No. 6
+(2024) Surface Preparation of Concrete
+SSPC SP 16
+(2020) Brush-Off Blast Cleaning of Coated 
+and Uncoated Galvanized Steel, Stainless 
+Steels, and Non-Ferrous Metals
+SSPC VIS 1
+(2012) Guide and Reference Photographs for 
+Steel Surfaces Prepared by Dry Abrasive 
+Blast Cleaning
+SSPC VIS 3
+(2004) Guide and Reference Photographs for 
+Steel Surfaces Prepared by Hand and Power 
+Tool Cleaning
+SSPC VIS 4/NACE VIS 7
+(2005) Guide and Reference Photographs for 
+Steel Surfaces Prepared by Waterjetting
+SSPC-SP WJ-1/NACE WJ-1
+(2021) Clean to Bare Substrate, Waterjet 
+Cleaning of Metals
+SSPC-SP WJ-2/NACE WJ-2
+(2021) Very Thorough Cleaning, Waterjet 
+Cleaning of Metals
+SSPC-SP WJ-3/NACE WJ-3
+(2021) Thorough Cleaning, Waterjet 
+Cleaning of Metals
+SSPC-SP WJ-4/NACE WJ-4
+(2021) Light Cleaning, Waterjet Cleaning 
+of Metals
+ASTM INTERNATIONAL (ASTM)
+ASTM C920
+(2018; R 2024) Standard Specification for 
+SECTION 09 90 00  Page 10
+
+
+=====PAGE 11
+Elastomeric Joint Sealants
+ASTM D235
+(2022) Standard Specification for Mineral 
+Spirits (Petroleum Spirits) (Hydrocarbon 
+Dry Cleaning Solvent)
+ASTM D523
+(2025) Standard Test Method for Specular 
+Gloss
+ASTM D2824/D2824M
+(2018) Standard Specification for 
+Aluminum-Pigmented Asphalt Roof Coatings, 
+Non-Fibered, and Fibered without Asbestos
+ASTM D4214
+(2023) Standard Test Method for Evaluating 
+the Degree of Chalking of Exterior Paint 
+Films
+ASTM D4263
+(1983; R 2018) Standard Test Method for 
+Indicating Moisture in Concrete by the 
+Plastic Sheet Method
+ASTM D4444
+(2013; R 2018) Standard Test Method for 
+Laboratory Standardization and Calibration 
+of Hand-Held Moisture Meters
+ASTM D6386
+(2022) Standard Practice for Preparation 
+of Zinc (Hot-Dip Galvanized) Coated Iron 
+and Steel Product and Hardware Surfaces 
+for Painting
+ASTM F1869
+(2023) Standard Test Method for Measuring 
+Moisture Vapor Emission Rate of Concrete 
+Subfloor Using Anhydrous Calcium Chloride
+CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC)
+Intelligence Bulletin 65
+(2013) Occupational Exposure to Carbon 
+Nanotubes and Nanofibers
+MASTER PAINTERS INSTITUTE (MPI)
+MPI 1
+(2012) Aluminum Paint
+MPI 3
+(2016) Primer, Alkali Resistant, Water 
+Based
+MPI 4
+(2016) Interior/Exterior Latex Block Filler
+MPI 5
+(2015) Primer, Exterior Alkyd Wood
+MPI 6
+(2015) Primer, Exterior Latex Wood
+MPI 8
+(2016) Alkyd, Exterior Flat (MPI Gloss 
+Level I)
+MPI 9
+(2016) Alkyd, Exterior Gloss (MPI Gloss 
+Level 6)
+MPI 10
+(2016) Latex, Exterior Flat (MPI Gloss 
+SECTION 09 90 00  Page 11
+
+
+=====PAGE 12
+Level 1)
+MPI 11
+(2016) Latex, Exterior Semi-Gloss, MPI 
+Gloss Level 5
+MPI 13
+(2016) Stain, Exterior Solvent-Based, 
+Semi-Transparent
+MPI 16
+(2016) Stain, Exterior, Water Based, Solid 
+Hide
+MPI 17
+(2016) Primer, Bonding, Water Based
+MPI 23
+(2015) Primer, Metal, Surface Tolerant
+MPI 27
+(2016) Floor Enamel, Alkyd, Gloss (MPI 
+Gloss Level 6)
+MPI 31
+(2012) Varnish, Polyurethane, Moisture 
+Cured, Gloss (MPI Gloss Level 6)
+MPI 38
+(2016) Elastomeric Coating, Exterior, 
+Water Based, Non-Flat
+MPI 39
+(2018) Primer, Latex, for Interior Wood
+MPI 42
+(2012) Textured Coating, Latex, Flat
+MPI 44
+(2016) Latex, Interior, (MPI Gloss Level 2)
+MPI 45
+(2016) Primer Sealer, Interior Alkyd
+MPI 46
+(2016) Undercoat, Enamel, Interior
+MPI 47
+(2016) Alkyd, Interior, Semi-Gloss (MPI 
+Gloss Level 5)
+MPI 48
+(2016) Alkyd, Interior, Gloss (MPI Gloss 
+Level 6-7)
+MPI 49
+(2015) Alkyd, Interior, Flat (MPI Gloss 
+Level 1)
+MPI 50
+(2015) Primer Sealer, Latex, Interior
+MPI 51
+(2016) Alkyd, Interior, (MPI Gloss Level 
+3)2
+MPI 52
+(2016) Latex, Interior, (MPI Gloss Level 3)
+MPI 54
+(2016) Latex, Interior, Semi-Gloss (MPI 
+Gloss Level 5)
+MPI 56
+(2012) Varnish, Interior, Polyurethane, 
+Oil Modified, Gloss
+MPI 57
+(2012) Varnish, Interior, Polyurethane, 
+Oil Modified, Satin
+SECTION 09 90 00  Page 12
+
+
+=====PAGE 13
+MPI 59
+(2016) Floor Paint, Alkyd, Low Gloss
+MPI 60
+(2016) Floor Paint, Latex, Low Gloss
+MPI 68
+(2016) Floor Paint, Latex, Gloss
+MPI 71
+(2012) Varnish, Polyurethane, Moisture 
+Cured, Flat (MPI Gloss Level 1)
+MPI 72
+(2016) Polyurethane, Two-Component, 
+Pigmented, Gloss (MPI Gloss Level 6-7)
+MPI 76
+(2016) Primer, Alkyd, Quick Dry, for Metal
+MPI 77
+(2015) Epoxy, Gloss
+MPI 79
+(2016) Primer, Alkyd, Anti-Corrosive for 
+Metal
+MPI 90
+(2012) Stain, Semi-Transparent, for 
+Interior Wood
+MPI 94
+(2016) Alkyd, Exterior, Semi-Gloss (MPI 
+Gloss Level 5)
+MPI 95
+(2015) Primer, Quick Dry, for Aluminum
+MPI 101
+(2016) Primer, Epoxy, Anti-Corrosive, for 
+Metal
+MPI 107
+(2016) Primer, Rust-Inhibitive, Water Based
+MPI 108
+(2015) Epoxy, High Build, Low Gloss
+MPI 113
+(2018) Elastomeric, Pigmented, Exterior, 
+Water Based, Flat
+MPI 116
+(2012) Block Filler, Epoxy
+MPI 119
+(2016) Latex, Exterior, Gloss (MPI Gloss 
+Level 6)
+MPI 120
+(2020) Epoxy, High Build, Self Priming, 
+Low Gloss
+MPI 134
+(2015) Primer, Galvanized, Water Based
+MPI 138
+(2016) Latex, Interior, High Performance 
+Architectural, (MPI Gloss Level 2)
+MPI 139
+(2016) Latex, Interior, High Performance 
+Architectural, (MPI Gloss Level 3)
+MPI 140
+(2016) Latex, Interior, High Performance 
+Architectural, (MPI Gloss Level 4)
+MPI 141
+(2016) Latex, Interior, High Performance 
+Architectural, Semi-Gloss (MPI Gloss Level 
+5)
+SECTION 09 90 00  Page 13
+
+
+=====PAGE 14
+MPI 144
+(2016) Latex, Interior, Institutional Low 
+Odor/VOC, (MPI Gloss Level 2)
+MPI 145
+(2016) Latex, Interior, Institutional Low 
+Odor/VOC, ( MPI Gloss Level 3)
+MPI 146
+(2016) Latex, Interior, Institutional Low 
+Odor/VOC, (MPI Gloss Level 4)
+MPI 147
+(May 2016) Latex, Interior, Institutional 
+Low Odor/VOC, Semi-Gloss (MPI Gloss Level 
+5)
+MPI 149
+(2016) Primer Sealer, Interior, 
+Institutional Low Odor/VOC
+MPI 151
+(2016) Light Industrial Coating, Interior, 
+Water Based (MPI Gloss Level 3)
+MPI 153
+(2016) Light Industrial Coating, Interior, 
+Water Based, Semi-Gloss (MPI Gloss Level 5)
+MPI 154
+(2016) Light Industrial Coating, Interior, 
+Water Based, Gloss (MPI Gloss Level 6)
+MPI 161
+(2016) Light Industrial Coating, Exterior, 
+Water Based ( MPI Gloss Level 3)
+MPI 163
+(2016) Light Industrial Coating, Exterior, 
+Water Based, Semi-Gloss (MPI Gloss Level 5)
+MPI 164
+(2016) Light Industrial Coating, Exterior, 
+Water Based, Gloss (MPI Gloss Level 6)
+MPI 177
+(2020) Epoxy, Semi-Gloss (MPI Gloss Level 
+5)
+MPI 214
+(2016) Latex, Exterior (MPI Gloss Level 2)
+MPI ASM
+(2019) Architectural Painting 
+Specification Manual
+MPI GPS-1-14
+(2014) Green Performance Standard GPS-1-14
+MPI GPS-2-14
+(2014) Green Performance Standard GPS-2-14
+MPI RSM
+(2024) Repainting Specification Manual
+SOCIETY OF AUTOMOTIVE ENGINEERS INTERNATIONAL (SAE)
+SAE AMS-STD-595A
+(2017) Colors used in Government 
+Procurement
+U.S. ARMY CORPS OF ENGINEERS (USACE)
+EM 385-1-1
+(2024) Safety -- Safety and Occupational 
+Health (SOH) Requirements
+SECTION 09 90 00  Page 14
+
+
+=====PAGE 15
+U.S. DEPARTMENT OF DEFENSE (DOD)
+MIL-PRF-680
+(2010; Rev C; Notice 1 2015) Degreasing 
+Solvent
+MIL-STD-101
+(2014; Rev C; Notice 1 2025) Color Code 
+for Pipelines and for Compressed Gas 
+Cylinders
+U.S. ENVIRONMENTAL PROTECTION AGENCY (EPA)
+EPA Method 24
+(2000) Determination of Volatile Matter 
+Content, Water Content, Density, Volume 
+Solids, and Weight Solids of Surface 
+Coatings
+U.S. FEDERAL AVIATION ADMINISTRATION (FAA)
+FAA AC 70/7460-1
+(2016; Rev L; Change 2) Obstruction 
+Marking and Lighting
+U.S. GENERAL SERVICES ADMINISTRATION (GSA)
+FED-STD-313
+(2018) Material Safety Data, 
+Transportation Data and Disposal Data for 
+Hazardous Materials Furnished to 
+Government Activities
+U.S. NATIONAL ARCHIVES AND RECORDS ADMINISTRATION (NARA)
+29 CFR 1910.1000
+Air Contaminants
+29 CFR 1910.1001
+Asbestos
+29 CFR 1910.1025
+Lead
+29 CFR 1926.62
+Lead
+1.4   DEFINITIONS
+The following definitions are used throughout this section:
+a.  Qualification Testing - Qualification testing is the performance of 
+all test requirements listed in the product specification.  This 
+testing is accomplished by MPI to qualify each product for the MPI 
+Approved Product List and may also be accomplished by Contractor's 
+third-party testing lab if an alternative to Batch Quality Conformance 
+Testing by MPI is desired.
+b.  Batch Quality Conformance Testing - Batch quality conformance testing 
+determines that the product provided is the same as the product 
+qualified to the appropriate product specification.  This testing must 
+be accomplished by an MPI testing lab.
+c.  DSD - Degree of Surface Degradation, the MPI system of defining degree 
+of surface degradation.  Five levels are generically defined under the 
+Assessment sections in the MPI RSM, MPI Repainting Specificatiion 
+Manual.
+SECTION 09 90 00  Page 15
+
+
+=====PAGE 16
+**************************************************************************
+NOTE:  The following definition is tailored for 
+inclusion in projects with exterior painting.
+**************************************************************************
+d.  EXT - MPI short term designation for an exterior coating system.
+**************************************************************************
+NOTE:  The following definition is tailored for 
+inclusion in projects with interior painting.
+**************************************************************************
+e.  INT - MPI short term designation for an interior coating system.
+f.  Loose Paint - Paint or coating that can be removed with a dull putty 
+knife.
+g.  MPI Gloss Levels - MPI system of defining gloss.  Seven gloss levels 
+(G1 to G7) are generically defined under the Evaluation sections of 
+the MPI Manuals.  Traditionally, Flat refers to G1/G2, Eggshell refers 
+to G3, Semigloss refers to G5, and Gloss refers to G6.
+Gloss levels are defined by MPI as follows:
+Gloss Level
+Description
+Units at 60 degree 
+angle
+Units at 80 degree 
+angle
+G1
+Matte or Flat
+0 to 5
+10 max
+G2
+Velvet
+0 to 10
+10 to 35
+G3
+Eggshell
+10 to 25
+10 to 35
+G4
+Satin
+20 to 35
+35 min
+G5
+Semi-Gloss
+35 to 70
+G6
+Gloss
+70 to 85
+G7
+High Gloss
+85 min
+Gloss is tested in accordance with ASTM D523.  Historically, the 
+Government has used Flat (G1 / G2), Eggshell (G3), Semi-Gloss (G5), 
+and Gloss (G6).
+h.  MPI System Number - The MPI coating system number in each MPI Division 
+found in either the MPI Architectural Painting Specification Manual or 
+the Maintenance Repainting Manual and defined as an exterior (EXT/REX) 
+or interior system (INT/RIN).
+**************************************************************************
+NOTE:  The following definition is tailored for 
+inclusion in projects with exterior painting.
+**************************************************************************
+i.  REX - MPI short term designation for an exterior coating system used 
+in repainting projects or over existing coating systems.
+**************************************************************************
+SECTION 09 90 00  Page 16
+
+
+=====PAGE 17
+NOTE:  The following definition is tailored for 
+inclusion in projects with interior painting.
+**************************************************************************
+j.  RIN - MPI short term designation for an interior coating system used 
+in repainting projects or over existing coating systems.
+1.5   SCHEDULING
+**************************************************************************
+NOTE:  This Article is tailored for inclusion in 
+NAVY projects only.
+Materials that adsorb VOCs include carpets, 
+textiles, unprimed gypsum wallboard, and acoustical 
+ceiling panels.  Add any of these materials that are 
+included in the project and other adsorbing 
+materials into the empty bracket.
+**************************************************************************
+Allow paint, polyurethane, varnish, and wood stain installations to cure 
+prior to the installation of materials that adsorb VOCs, including[ 
+carpets,][ textiles,][ unprimed gypsum wallboard,][ acoustical ceiling 
+panels,] [_____].
+1.6   SUBMITTALS
+**************************************************************************
+NOTE:  NOTE:  Review Submittal Description (SD) 
+definitions in Section 01 33 00 SUBMITTAL PROCEDURES 
+and edit the following list, and corresponding 
+submittal items in the text, to reflect only the 
+submittals required for the project.  The Guide 
+Specification technical editors have classified 
+those items that require Government approval, due to 
+their complexity or criticality, with a "G."  
+Generally, other submittal items can be reviewed by 
+the Contractor's Quality Control System.  Only add a 
+"G" to an item if the submittal is sufficiently 
+important or complex in context of the project.
+For Army projects, fill in the empty brackets 
+following the "G" classification with a code of up 
+to three characters to indicate the approving 
+authority.  Codes for Army projects using the 
+Resident Management System (RMS) are:  "AE" for 
+Architect-Engineer; "DO" for District Office 
+(Engineering Division or other organization in the 
+District Office); "AO" for Area Office; "RO" for 
+Resident Office; and "PO" for Project Office.  Codes 
+following the "G" typically are not used for Navy 
+and Air Force projects.
+The "S" classification indicates submittals required 
+as proof of compliance for sustainability Guiding 
+Principles Validation or Third Party Certification 
+and as described in Section 01 33 00 SUBMITTAL 
+PROCEDURES.
+**************************************************************************
+SECTION 09 90 00  Page 17
+
+
+=====PAGE 18
+Government approval is required for submittals with a "G" or "S" 
+classification.  Submittals not having a "G" or "S" classification are for 
+Contractor Quality Control approval.  Submittals not having a "G" or "S" 
+classification are for information only.  When used, a code following the 
+"G" classification identifies the office that will review the submittal 
+for the Government.  Submit the following in accordance with Section 
+01 33 00 SUBMITTAL PROCEDURES:
+Samples of specified materials may be taken and tested for compliance with 
+specification requirements.
+SD-01 Preconstruction Submittals
+Contract Errors, Omissions, and Other Discrepancies; G, [_____]
+Coating Contractor Qualifications; G, [_____]
+SD-02 Shop Drawings
+Piping Identification
+SD-03 Product Data
+Product Data Sheets; G, [_____]
+Sealant
+SD-04 Samples
+Color; G, [_____]
+[
+Textured Wall Coating System; G, [_____]
+][
+Sample Textured Wall Coating System Mock-Up; G, [_____]
+]
+SD-07 Certificates
+Qualification Testing; G, [_____]
+Qualification Testing Laboratory; G, [_____]
+Indoor Air Quality for Paints and Primers
+[
+Indoor Air Quality for Consolidated Latex Paints
+]
+SD-08 Manufacturer's Instructions
+Application Instructions
+Manufacturer's Safety Data Sheets
+SD-10 Operation and Maintenance Data
+Maintenance Instructions; G, [_____]
+1.7   QUALITY ASSURANCE
+**************************************************************************
+SECTION 09 90 00  Page 18
+
+
+=====PAGE 19
+NOTE:  For projects in continental U.S., Hawaii, 
+Alaska, and Puerto Rico, require AMPP 
+Certification.  Use in other locations where 
+qualified U.S. Contractor is desired.
+**************************************************************************
+1.7.1   Contract Errors, Omissions, and Other Discrepancies
+Submit all errors, omissions, and other discrepancies in contract 
+documents to the Contracting Officer within 30 days of contract award for 
+all work covered in this section, other than the work that will not be 
+uncovered until a later date.  Address and resolve all discrepancies prior 
+to beginning work.  Identify and submit discrepancies that become apparent 
+only after work is uncovered at the earliest discoverable time and 
+submitted for resolution.  Build schedule time (float) into the project 
+schedule at those points where old work is to be uncovered or where access 
+is not available during the first 30 days after award to allow for 
+resolution of contract discrepancies.
+1.7.2   Coating Contractor Qualifications
+**************************************************************************
+NOTE:  AMPP QP 1 and AMPP QP 9 are company 
+accrediations for qualified industrial and 
+architectural coating contractors, respectively.  
+AMPP QP 9 (archtectural) is a newer accrediation.  
+To allow for a sufficient pool of qualified 
+contractors, AMPP QP 1 is included as an option for 
+coating contractor qualification.  When specifying 
+AMPP accredidations remove the bracketed paragraph.
+AMPP accredidations should be specified, however, 
+when deemed not necessary, use the bracketed 
+paragraph only and edit to require appropriate 
+experience.  If removed, update paragraph JOB SITE 
+REFERENCES to remove the AMPP Contractor Evaluation 
+form.
+**************************************************************************
+**************************************************************************
+NOTE: **WARNING**WARNING**WARNING**WARNING** 
+Solicitations requiring AMPP Certification must 
+point out the existence and location of the 
+certification requirement, in the Project 
+Information Form.  To be enforceable, include the 
+requirement in the solicitation documents.  AMPP 
+Certification is a special responsibility 
+requirement pursuant to FAR 9.104-2 Special 
+Standards.  This is analogous to requiring bidders 
+to have a specified level of experience or expertise 
+and GAO has sustained these types of special 
+requirements.
+**************************************************************************
+Contractors that perform surface preparation or coating application must 
+be certified by The Association for Materials Protection and Performance 
+(AMPP, formerly NACE and SSPC) to the requirements of AMPP QP 9 or 
+AMPP QP 1 prior to Contract award, and must remain certified while 
+accomplishing any surface preparation or coating application.  If a 
+SECTION 09 90 00  Page 19
+
+
+=====PAGE 20
+Contractor's certification expires, the firm will not be allowed to 
+perform any work until the certification is reissued.  Requests for 
+extension of time for any delay to the completion of the project due to an 
+inactive certification will not be considered.  Notify the Contracting 
+Officer of any change in Contractor certification status.  Notify the 
+Contracting Officer of all scheduled and unannounced on-site audits from 
+AMPP and furnish a copy of all audit reports.
+**************************************************************************
+NOTE:  Insert structure type comparable to those 
+being painted in brackets.
+**************************************************************************
+[ Submit the name, address, telephone number, and e-mail address of the 
+Contractor that will be performing all surface preparation and coating 
+application.  Submit evidence that key personnel have successfully 
+performed surface preparation and application of coatings on [_____] on a 
+minimum of three similar projects within the past 3 years.  List 
+information by individual and include the following:
+a.  Name of individual and proposed position for this work.
+b.  Information about each previous assignment including:
+(1)  Position or responsibility
+(2)  Employer (if other than the Contractor)
+(3)  Name of facility owner
+(4)  Mailing address and telephone number of facility owner
+(5)  Name of individual in facility owner's organization who can be 
+contacted as a reference
+(6)  Location, size and description of structure
+(7)  Dates work was carried out
+(8)  Description of work carried out on structure
+]1.7.3   Approved Products List
+The current MPI "Approved Product List," which lists paint by brand, 
+label, product name and product code as of the date of Contract award, 
+will be used to determine compliance with the submittal requirements of 
+this specification.  The Contractor may choose to use a subsequent MPI 
+"Approved Product List"; however, only one list may be used for the entire 
+Contract and each coating system is to be from a single manufacturer.  
+Provide all coats on a particular substrate from a single manufacturer.  
+No variation from the MPI Approved Products List is acceptable.
+1.7.4   Paints and Coatings Indoor Air Quality Certifications
+**************************************************************************
+NOTE:  The Government's preference is for use of 
+products that have been certified for indoor air 
+quality by a third-party organization such as MPI's 
+MPI GPS-1-14 and MPI GPS-2-14 Green Performance 
+SECTION 09 90 00  Page 20
+
+
+=====PAGE 21
+Standards.  Verify there is a certified product 
+available when specifying consolidated latex paint 
+that is both cost effective and appropriate for the 
+project.  Confirm local/regional availability of 
+certified products when specifying consolidated 
+latex paint that does not impact cost effectiveness.
+**************************************************************************
+Provide paint and coating products certified to meet indoor air quality 
+requirements by MPI GPS-1-14, MPI GPS-2-14 or provide certification by 
+other third-party programs.  Provide current product certification 
+documentation from certification body.
+Provide certification of Indoor Air Quality for Paints and Primers.[  
+Provide certification of Indoor Air Quality for Consolidated Latex Paints.]  
+Submit required indoor air quality certifications in one submittal package.
+1.7.5   Coating Sampling and Testing
+**************************************************************************
+NOTE: The following paragraph is tailored for 
+inclusion in ARMY projects only.
+Only require Batch Quality Conformance Testing for 
+large quantities of epoxy/polyurethane coatings or a 
+single liquid coating system that is used in large 
+quantities on the project.  A large quantity of 
+epoxy/polyurethane coatings is 189 Liters 50 gallons 
+or more, a large quantity of other coating systems 
+is considered to be 757 Liters 200 gallons or more.  
+List all coatings for testing, using MPI or SSPC 
+paint numbers, in bracketed location in the 
+following paragraph.
+**************************************************************************
+[ Provide Batch Quality Conformance Testing to prove conformance of the 
+manufacturer's paint to the specified MPI standard.  This testing is 
+accomplished before the materials are delivered to the job site.  Provide 
+testing for [_____] paint products.  Test paint products as specified in 
+the paragraph TESTING PROCEDURE.
+]
+Provide Qualification Testing for coating products delivered to site and 
+selected by the Contracting Officer.  The Contracting Officer may choose 
+up to two products that have been delivered to the site to be tested at no 
+cost to the Government.  This selection may be random or at the 
+Contracting Officers descresion.  Take samples of each chosen product as 
+specified in the paragraph SAMPLING PROCEDURE.  Test each chosen product 
+as specified in the paragraph TESTING PROCEDURE.  Remove products from the 
+job site which do not conform, and replace with new products that conform 
+to the referenced specification.  Test replacement products that failed 
+initial testing as specified in the paragraph TESTING PROCEDURE at no cost 
+to the Government.
+1.7.5.1   Sampling Procedure
+The Contractor must provide one liter one quart samples of each part of 
+the selected paint materials.  Mix the individual container of each 
+component prior to sampling each component.  Lack of mixing prior to 
+sampling can lead to product failure and full batch rejection from site.  
+SECTION 09 90 00  Page 21
+
+
+=====PAGE 22
+Take samples in the presence of the Contracting Officer, and label, and 
+identify each sample.  Provide labels in accordance with the paragraph 
+DELIVERY AND STORAGE.
+1.7.5.2   Testing Procedure
+Provide Qualification Testing Reports for each product specified in the 
+paragraph SAMPLING PROCEDURE.[  Include Batch Quality Conformance Testing 
+for each product required with this submittal.]  Test to the appropriate 
+MPI product specification, using a third-party Qualification Testing 
+Laboratory.  Include the backup data and summary of the test results 
+within the qualification testing lab report.  Provide a summary listing of 
+all the reference specification requirements and the result of each test.  
+Clearly indicate in the summary whether the tested paint meets each test 
+requirement.  Note that Qualification Testing may take 4 to 6 weeks to 
+perform, due to the extent of testing required.
+Submit name, address, telephone number, and e-mail address of the 
+independent third party laboratory selected to perform testing of coating 
+samples for compliance with specification requirements.  Submit 
+documentation that laboratory is regularly engaged in testing of paint 
+samples for conformance with specifications, and that employees performing 
+testing are qualified.  If MPI is chosen to perform the Batch Quality 
+Conformance testing, the above submittal information is not required, only 
+a letter is required from the Contractor stating that MPI will perform the 
+testing.
+[1.7.6   Textured Wall Coating System
+**************************************************************************
+NOTE:  Include the following Mock-Up section when a 
+textured wall coating system is included in the 
+project.
+**************************************************************************
+Submit three complete samples of each indicated type, pattern, and color 
+of textured wall coating system applied to a panel of the same material as 
+that on which the coating system will be applied in the work.  Provide 
+samples of wall coating systems minimum 125 by 175 mm 5 by 7 inches and of 
+sufficient size to show pattern repeat and texture.
+1.7.7   Sample Textured Wall Coating System Mock-Up
+After coating samples are approved and prior to starting installation, 
+provide a minimum 2.43 m by 2.43 m 8 foot by 8 foot mock-up for each 
+substrate and for each color and type of textured wall coating using the 
+actual substrate materials.  Use the approved mock-up samples as a 
+standard of workmanship for installation within the facility.  Submit at 
+least 48 hour advance written notice to the Contracting Officer's 
+Representative prior to mock-up installation.
+]1.8   DELIVERY AND STORAGE
+**************************************************************************
+NOTE:  The following paragraph includes tailoring 
+for inclusion in Navy projects.  Include the last 
+two sentences for Navy projects only.
+Materials with a high capacity to absorb VOC 
+SECTION 09 90 00  Page 22
+
+
+=====PAGE 23
+emissions include materials which are woven, fibrous 
+or porous in nature, such as acoustical ceilings, 
+carpet, and textiles.  Include such materials being 
+installed in brackets.
+**************************************************************************
+Provide paints in sealed containers that legibly show the Contract 
+specification number, designation name, formula or specification number, 
+batch number, color, quantity, date of manufacture, manufacturer's 
+formulation number, manufacturer's directions including any warnings and 
+special precautions, and name and address of manufacturer.  Furnish 
+pigmented paints in containers not larger than 20 liters 5 gallons.  Store 
+paints and thinners in accordance with the manufacturer's written 
+directions, and as a minimum, stored off the ground, under cover, with 
+sufficient ventilation to prevent the buildup of flammable vapors, and at 
+temperatures between 4 to 35 degrees C 40 to 95 degrees F.  Do not store 
+paint, polyurethane, varnish, or wood stain products with materials that 
+have a high capacity to absorb VOC emissions[, including [_____]].  Do not 
+store paint, polyurethane, varnish, or wood stain products in occupied 
+spaces.
+1.9   SAFETY AND HEALTH
+Comply with applicable Federal, State, and local laws and regulations, and 
+with the ACCIDENT PREVENTION PLAN, including the Activity Hazard Analysis 
+as specified in Section 01 35 26 GOVERNMENTAL SAFETY REQUIREMENTS and in 
+Appendix A of EM 385-1-1.  Include in the Activity Hazard Analysis the 
+potential impact of painting operations on painting personnel and on 
+others involved in and adjacent to the work zone.
+1.9.1   Regulatory Requirements
+1.9.1.1   Environmental Protection
+In addition to requirements specified elsewhere for environmental 
+protection, provide coating materials that conform to the restrictions of 
+the local Air Pollution Control District and regional jurisdiction.  
+Notify Contracting Officer of any paint specified herein which fails to 
+conform.
+1.9.1.2   Lead Content
+Do not use coatings having a lead content over 0.009 percent by weight of 
+nonvolatile content.
+1.9.1.3   Chromate Content
+Do not use coatings containing zinc-chromate or strontium-chromate.
+1.9.1.4   Asbestos Content
+Provide asbestos-free materials.
+1.9.1.5   Mercury Content
+Provide materials free of mercury or mercury compounds.
+SECTION 09 90 00  Page 23
+
+
+=====PAGE 24
+1.9.1.6   Silica 
+Provide abrasive blast media containing no free crystalline silica.
+1.9.1.7   Human Carcinogens
+Provide materials that do not contain ACGIH 0100 confirmed human 
+carcinogens (A1) or suspected human carcinogens (A2).
+1.9.1.8   Carbon Based Fibers / Tubes
+Materials must not contain carbon-based fibers such as carbon nanotubes or 
+carbon nanofibers.  Intelligence Bulletin 65 ranks toxicity of carbon 
+nanotubes on a par with asbestos.
+1.9.2   Toxic Materials
+To protect personnel from overexposure to toxic materials, conform to the 
+most stringent guidance of:
+a.  The applicable manufacturer's Safety Data Sheets (SDS) or local 
+regulation.
+b.  29 CFR 1910.1000.
+c.  ACGIH 0100, threshold limit values.
+**************************************************************************
+NOTE:  Delete following paragraph if no lead is 
+contained in existing coating systems.
+**************************************************************************
+[ d.  The appropriate OSHA standard in 29 CFR 1910.1025 and 29 CFR 1926.62 
+for surface preparation on painted surfaces containing lead.  Removal 
+and disposal of coatings which contain lead is specified in Section 
+02 83 00 LEAD REMEDIATION.  Additional guidance is given in 
+SSPC Guide 6 and SSPC Guide 7.  Refer to drawings for list of 
+hazardous materials located on this project.  Coordinate paint 
+preparation activities with this specification section.
+] **************************************************************************
+NOTE:  Delete following paragraph if no asbestos is 
+contained in existing coating systems.
+**************************************************************************
+[ e.  The appropriate OSHA standards in 29 CFR 1910.1001 for surface 
+preparation of painted surfaces containing asbestos.  Removal and 
+disposal of coatings which contain asbestos materials is specified in 
+Section 02 82 00 ASBESTOS REMEDIATION.  Refer to drawings for list of 
+hazardous materials located on this project.  Coordinate paint 
+preparation activities with this specification section.
+] Submit manufacturer's Safety Data Sheets for coatings, solvents, and other 
+potentially hazardous materials, as defined in FED-STD-313.
+1.10   ENVIRONMENTAL REQUIREMENTS
+**************************************************************************
+NOTE:  Choose bracketed option in the following 
+SECTION 09 90 00  Page 24
+
+
+=====PAGE 25
+paragraph if high emission paints or coatings, such 
+as epoxies or alkyds, will be used.
+**************************************************************************
+Comply, at minimum, with manufacturer recommendations for space 
+ventilation during and after installation.[  Isolate area of application 
+from rest of building when applying high-emission paints or coatings.]
+1.10.1   Coatings Application
+Do not apply coating when air or substrate conditions are:
+a.  Less than 3 degrees C 5 degrees F above dew point;
+b.  Below 10 degrees C 50 degrees F or over 35 degrees C 95 degrees F, 
+unless specifically pre-approved by the Contracting Officer and the 
+product manufacturer.  Apply coatings in accordance with the 
+manufacturer's written application recommendations.
+1.10.2   Post-Application
+**************************************************************************
+NOTE:  The following paragraphs are tailored for 
+inclusion in NAVY projects only.
+Choose the most appropriate option(s) for 
+ventilation.  For instance, high-humidity regions 
+may generate too much condensate when using 100 
+percent outside air.
+**************************************************************************
+Vacate space for as long as possible after application.  Wait a minimum of 
+48 hours before occupying freshly painted rooms.  Maintain one of the 
+following ventilation conditions during the curing period, or for 72 hours 
+after application:
+a.  Supply 100 percent outside air 24 hours a day.
+b.  Supply airflow at a rate of 6 air changes per hour, when outside 
+temperatures are between 13 degrees C 55 degrees F and 29 degrees C 85 
+degrees F and humidity is between 30 percent and 60 percent.
+c.  Supply airflow at a rate of 1.5 air changes per hour, when outside air 
+conditions are not within the range stipulated above.
+1.11   JOB SITE REFERENCES
+**************************************************************************
+NOTE:  Include any other job-site-related references 
+that might be added during design.  Remove AMPP 
+Certified Contractor Evaluation Form if AMPP QP 9 or 
+AMPP QP 1 are not specified in Paragraph COATING 
+CONTRACTOR QUALIFICATION.
+**************************************************************************
+Make available to the Contracting Officer at least one copy each of all 
+pertinent standards and an AMPP Accredidated Contractor Evaluation Form at 
+the job site.
+SECTION 09 90 00  Page 25
+
+
+=====PAGE 26
+PART 2   PRODUCTS
+2.1   COATING SYSTEMS
+**************************************************************************
+NOTE:  Reprocessed and consolidated latex paints are 
+EPA designated products.  Verify the availability of 
+certified products within the region when specifying 
+consolidated latex paint.
+**************************************************************************
+Submit Product Data Sheets and Manufacturer's Application Instructions for 
+specified coatings and solvents.  Include detailed mixing instructions 
+with the Manufacturer's Application Instructions, minimum and maximum 
+application temperature and humidity, pot life, and curing and drying 
+times between coats.  Provide preprinted cleaning and Maintenance 
+Instructions for all coating systems. 
+**************************************************************************
+NOTE:  Delete MPI Divisions from the Table listing 
+below that are not required for the project.
+**************************************************************************
+a.  Systems by Substrates:  Apply coatings that conform to the respective 
+specifications listed in the following Tables:
+**************************************************************************
+NOTE:  The following Table is tailored for inclusion 
+in projects with exterior painting.
+**************************************************************************
+Table for Exterior Applications
+MPI Division
+Substrate Application
+MPI Division 3
+Exterior Concrete Paint Table
+MPI Division 4
+Exterior Concrete Masonry Units Paint Table
+MPI Division 5
+Exterior Metal, Ferrous and Non-Ferrous 
+Paint Table
+MPI Division 6
+Exterior Wood; Dressed Lumber, Paneling, 
+Decking, Shingles Paint Table
+MPI Division 9
+Exterior Stucco Paint Table
+MPI Division 10
+Exterior Cloth Coverings and Bituminous 
+Coated Surfaces Paint Table
+SECTION 09 90 00  Page 26
+
+
+=====PAGE 27
+**************************************************************************
+NOTE:  The following Table is tailored for inclusion 
+in projects with interior painting.
+**************************************************************************
+Table for Interior Applications
+MPI Division
+Substrate Application
+MPI Division 3
+Interior Concrete Paint Table
+MPI Division 4
+Interior Concrete Masonry Units Paint Table
+MPI Division 5
+Interior Metal, Ferrous and Non-Ferrous 
+Paint Table
+MPI Division 6
+Interior Wood Paint Table
+MPI Division 9
+Interior Plaster, Gypsum Board, Textured 
+Surfaces Paint Table
+b.  Minimum Dry Film Thickness (DFT):  Apply paints, primers, varnishes, 
+enamels, undercoats, and other coatings to a minimum DFT of 0.038 mm 
+1.5 mil each coat unless specified otherwise in the Tables.  Coating 
+thickness, where specified, refers to the minimum DFT.
+**************************************************************************
+NOTE:  Update list item c."Coatings for Surfaces Not 
+Specified Otherwise" to reflect paragraph PAINTING 
+EXCLUDED and paragraph MECHANICAL AND ELECTRICAL 
+PAINTING.
+**************************************************************************
+c.  Coatings for Surfaces Not Specified Otherwise:  Coat unspecified 
+surfaces the same as surfaces of the same substrate having similar 
+conditions of exposure.  Do not paint surfaces listed in paragraph 
+PAINTING EXCLUDED.
+d.  Existing Coated Surfaces To Be Painted:  Apply coatings conforming to 
+the respective specifications listed in the Tables herein, except that 
+pretreatments, sealers and fillers need not be provided on surfaces 
+where existing coatings are soundly adhered and in good condition.  Do 
+not omit undercoats or primers.
+e.  Repair of Existing Coated Surfaces Damaged During Performance of the 
+Work, Including New Patches on Existing Surfaces:  After surface 
+preparation, coat surfaces with the following:
+(1)  One coat of primer.
+(2)  One coat of undercoat or intermediate coat.
+(3)  One topcoat to match adjacent surfaces.
+SECTION 09 90 00  Page 27
+
+
+=====PAGE 28
+2.1.1   Coating Systems For Metal
+Apply coatings of Tables in MPI Division 5 for Exterior and Interior.
+a.  Apply specified ferrous metal primer to steel surfaces on the same day 
+that surface is cleaned, to surfaces that meet all specified surface 
+preparation requirements at time of application.
+b.  Inaccessible Surfaces:  Prior to erection, use one coat of specified 
+primer on metal surfaces that will be inaccessible after erection.
+c.  Shop-primed Surfaces:  Touch up exposed substrates and damaged 
+coatings to protect from rusting prior to applying field primer.
+d.  Surface Previously Coated with Epoxy or Urethane:  Apply MPI 101, 
+0.038 mm 1.5 mils DFT immediately prior to application of epoxy or 
+urethane coatings.
+e.  Pipes and Tubing:  The semitransparent film applied to some pipes and 
+tubing at the mill is not to be considered a shop coat.  Overcoat 
+these items with the specified ferrous-metal primer prior to 
+application of finish coats.
+f.  Exposed Nails, Screws, Fasteners, and Miscellaneous Ferrous Surfaces.  
+On surfaces to be coated with water thinned coatings, spot prime 
+exposed nails and other ferrous metal with latex primer MPI 107.
+2.1.2   Coating Systems for Concrete and Cementitious Substrates
+Apply coatings of Tables in MPI Division 3, 4 and 9 for Exterior and 
+Interior in accordance with manufacturer's printed instructions.
+2.1.3   Coating Systems for Wood and Plywood
+a.  Apply coatings of Tables in MPI Division 6 for Exterior and Interior 
+in accordance with manufacturer's printed instructions.
+b.  Prior to erection, apply two coats of specified primer to treat and 
+prime wood[ and plywood] surfaces which will be inaccessible after 
+erection.
+c.  Apply stains in accordance with manufacturer's printed instructions.
+d.  Wood Floors to Receive Natural Finish:  Thin first coat 2 to 1 using 
+thinner recommended by coating manufacturer.  Apply all coatings at 
+rate of 30 square meters per 4 liters 300 to 350 square feet per gallon.  
+Apply second coat not less than 2 hours and not over 24 hours after 
+first coat has been applied.  Apply with lamb's wool applicators or 
+roller as recommended by coating manufacturer.  Buff or lightly sand 
+between intermediate coats as recommended by coating manufacturer's 
+printed instructions.
+[2.2   COLOR CODING FOR SHORE-TO-SHIP UTILITY CONNECTIONS
+**************************************************************************
+NOTE:  Include this bracketed section and Table if 
+the project includes painting of Shore-To-Ship 
+Utility connections
+**************************************************************************
+SECTION 09 90 00  Page 28
+
+
+=====PAGE 29
+Color Coding For Shore-To-Ship Utility Connections:  Paint hose connection 
+fittings and shut-off valves the designated color.  In addition to color 
+coding provide 50 mm 2 inch high stenciled letters using black stencil 
+paint, clearly designating service for each connection.
+Color Coding for Shore-to-Ship
+Utility Connections
+Service
+Color
+SAE AMS-STD-595A No.
+Potable Water*
+Blue
+15044
+Water Provided for Fire 
+Protection**
+Red
+11105
+Chilled Water
+Striped Blue/White
+15044 / 17886
+Oily Waste Water
+Striped Yellow/Black
+13528 / 17038
+Sewer
+Gold
+17043
+Steam
+White
+17886
+High Pressure Air
+Gray
+16081
+Low Pressure Air
+Tan
+10324
+Fuels
+Yellow
+13655
+*   This includes connections serving domestic functions.
+**   This includes non-potable salt water or, at some locations, fresh water 
+connections provided for fire protection (may also include flushing and cooling 
+requirements).  Note:  This does not include waterfront fire hydrants.
+]2.3   COLOR SELECTION OF FINISH COATS
+Provide colors of finish coats as indicated or specified.  Contracting 
+Officer will select colors not indicated or specified.  Manufacturers' 
+names and color identification are used for the purpose of color 
+identification only.  Named products are acceptable for use only if they 
+conform to specified requirements.  Products of other manufacturers are 
+acceptable if the colors are approximately the colors indicated and the 
+product conforms to specified requirements.
+**************************************************************************
+NOTE:  On Navy projects, do not use Section 09 06 00 
+SCHEDULES FOR FINISHES.  Provide color selection on 
+the Contract drawings.
+**************************************************************************
+Provide color, texture, and pattern of wall coating systems[ as 
+indicated][ in accordance with Section 09 06 00 SCHEDULES FOR FINISHES] 
+[_____].  Submit manufacturer's samples of paint colors.  Cross reference 
+color samples to color scheme as indicated. Submit color stencil codes.  
+Tint each coat progressively darker to enable confirmation of the number 
+of coats.
+SECTION 09 90 00  Page 29
+
+
+=====PAGE 30
+PART 3   EXECUTION
+**************************************************************************
+NOTE:  Exercise caution when deviating from paint 
+systems listed in tables of PART 3 EXECUTION.  
+Verify compatibility and suitability of paint 
+systems substituted by reviewing the Evaluation of 
+Systems sections of the MPI Manuals.
+**************************************************************************
+3.1   PROTECTION OF AREAS AND SPACES NOT TO BE PAINTED
+Prior to surface preparation and coating applications, remove, mask, or 
+otherwise protect hardware, hardware accessories, machined surfaces, 
+radiator covers, plates, lighting fixtures, public and private property, 
+and other such items not to be coated that are in contact with surfaces to 
+be coated.  Following completion of painting, reinstall removed items by 
+workmen skilled in the trades.  Restore surfaces contaminated by coating 
+materials, to original condition and repair damaged items.
+[3.2   REPUTTYING AND REGLAZING
+**************************************************************************
+NOTE:  Include this paragraph only for projects 
+involving painting of existing windows but not 
+including a glazing section.  Reputtying work should 
+be covered in glazing section if such a section is 
+used in the project specifications.  This is 
+normally used in historical preservation.  Avoid 
+using linseed oil putty at building interior.
+**************************************************************************
+Remove cracked, loose, and defective putty or glazing compound on glazed 
+sash and provide new putty or glazing compound.  Where defective putty or 
+glazing compound constitutes 30 percent or more of the putty at any one 
+light, remove the glass and putty or glazing compound and reset the glass. 
+Remove putty or glazing compound without damaging sash or glass.  Clean 
+rabbets to bare wood or metal and prime prior to reglazing.  Provide 
+linseed oil putty for wood sash.  Patch surfaces to provide smooth 
+transition between existing and new surfaces.  Finish putty or glazing 
+compound to a neat and true bead.  Allow glazing compound time to cure, in 
+accordance with manufacturer's recommendation, prior to coating 
+application.  Allow putty to set one week prior to coating application.
+][3.3   RESEALING OF EXISTING EXTERIOR JOINTS
+**************************************************************************
+NOTE:  The following Article is tailored for 
+inclusion in projects with exterior painting.
+**************************************************************************
+3.3.1   Surface Condition
+**************************************************************************
+NOTE:  Include this paragraph only for projects 
+involving resealing of existing exterior joints but 
+not including a sealant Section 07 92 00 JOINT 
+SEALANTS.  Such work should be covered in sealant 
+section if such a section is used in the project 
+SECTION 09 90 00  Page 30
+
+
+=====PAGE 31
+specifications.
+**************************************************************************
+Begin with surfaces that are clean, dry to the touch, and free from frost 
+and moisture; remove grease, oil, wax, lacquer, paint, defective backstop, 
+or other foreign matter that would prevent or impair adhesion.  Where 
+adequate grooves have not been provided, clean out to a depth of 13 mm 1/2 
+inch and grind to a minimum width of 6 mm 1/4 inch without damage to 
+adjoining work.  Grinding is not required on metal surfaces.
+3.3.2   Backstops
+In joints more than 13 mm 1/2 inch deep, install glass fiber roving or 
+neoprene, butyl, polyurethane, or polyethylene foams free of oil or other 
+staining elements as recommended by sealant manufacturer.  Provide 
+backstop material compatible with sealant.  Do not use oakum and other 
+types of absorptive materials as backstops.
+3.3.3   Primer and Bond Breaker
+Install the type recommended by the sealant manufacturer.
+3.3.4   Ambient Temperature
+Temperatures must remain between 4 degrees C 38 degrees F and 35 degrees C 
+95 degrees F when applying sealant.
+3.3.5   Exterior Sealant
+For joints in vertical surfaces, provide ASTM C920, Type S or M, Grade NS, 
+Class 25, Use NT.  For joints in horizontal surfaces, provide ASTM C920, 
+Type S or M, Grade P, Class 25, Use T.  Color(s) will be selected by the 
+Contracting Officer.  Apply the sealant in accordance with the 
+manufacturer's printed instructions.  Force sealant into joints with 
+sufficient pressure to fill the joints solidly.  Apply sealant uniformly 
+smooth and free of wrinkles.
+3.3.6   Cleaning
+Immediately remove fresh sealant from adjacent areas using a solvent 
+recommended by the sealant manufacturer.  Upon completion of sealant 
+application, remove remaining smears and stains and leave the work in a 
+clean condition.  Allow sealant time to cure, in accordance with 
+manufacturer's recommendations, prior to coating.
+]3.4   SURFACE PREPARATION
+**************************************************************************
+NOTE: Define existing coating systems 
+compositionally before recoating:
+1.  Hazardous Materials:  Follow regulatory 
+restrictions when planning either partial or full 
+removal of existing coatings.  Records establishing 
+the composition of materials in the coating systems, 
+if available, may assist in a preliminary review of 
+planned surface preparation and disposal.  Generally 
+an overall assessment of applicable regulations for 
+personnel and environmental protection will be 
+SECTION 09 90 00  Page 31
+
+
+=====PAGE 32
+required, with appropriate sampling and testing, 
+followed by use of proper material control 
+procedures.
+2.  Determine compatibility of the existing coating 
+system with a planned repair or overcoating system 
+by procedures such as the following:
+  a.  Identification of the existing topcoat and any 
+undercoats that will be exposed, by consulting local 
+records.
+  b.  If binder extraction is possible, ASTM D2621, 
+"Infrared Identification of Vehicle Solids from 
+Solvent-Reducible Paints," can be used for vehicle 
+identification.
+  c.  General compatibility considerations and chart 
+listings of expected relationships between binder 
+types are given in MPI Evaluation of systems, 
+"Transition Coat and Architectural Paint 
+Compatibility Chart".  Consult coating specialist 
+codes regarding questionable compatibilities 
+indicated in the chart.
+  d.  For some maintenance operations, use of ASTM 
+D5064, "Standard Practice for Conducting a Patch 
+Test to Assess Coating Compatibility," may be 
+warranted.  Interpretation of the results of patch 
+testing is not always straight-forward, therefore, 
+consult appropriate AMPP Protective Coating 
+Specialist when considering patch testing.
+**************************************************************************
+**************************************************************************
+NOTE:  Delete inapplicable phrases or entire 
+paragraph based on substrates to be coated. Specify 
+nonhazardous cleaning agents when possible. 
+**************************************************************************
+Remove dirt,[ splinters,] loose particles, grease, oil,[ disintegrated 
+coatings,] and other foreign matter and substances deleterious to coating 
+performance as specified for each substrate before application of paint or 
+surface treatments.  Remove oil and grease prior to mechanical cleaning.  
+Schedule cleaning so that dust and other contaminants will not fall on 
+wet, newly painted surfaces.[  Spot-prime exposed ferrous metals such as 
+nail heads on or in contact with surfaces to be painted with water-thinned 
+paints, with a suitable corrosion-inhibitive primer capable of preventing 
+flash rusting and compatible with the coating specified for the adjacent 
+areas.]  Refer to MPI ASM and MPI RSM for additional more specific 
+substrate preparation requirements.
+[3.4.1   Additional Requirements for Preparation of Surfaces With Existing 
+Coatings
+**************************************************************************
+NOTE:  Delete inapplicable phrases or entire 
+paragraph if no previously painted surfaces will be 
+encountered.
+SECTION 09 90 00  Page 32
+
+
+=====PAGE 33
+**************************************************************************
+Before application of coatings, perform the following on surfaces covered 
+by soundly-adhered coatings, defined as those which cannot be removed with 
+a putty knife:
+a.  Test existing finishes for lead before sanding, scraping, or 
+removing.  If lead is present, refer to paragraph TOXIC MATERIALS.
+b.  Wipe previously painted surfaces to receive solvent-based coatings, 
+except stucco and similarly rough surfaces, clean in accordance with 
+SSPC SP 1 or as specified in MPI RSM.  Wipe the surfaces dry with a 
+clean, dry, lint free cloth.  Wipe immediately preceding the 
+application of the first coat of any coating, unless specified 
+otherwise.
+c.  Sand existing glossy surfaces to be painted to reduce gloss.  Brush, 
+and wipe clean with a damp cloth to remove dust.
+d.  The requirements specified are minimum.  Comply also with the 
+application instructions of the paint manufacturer and specific 
+surface preparation requirements as outlined in MPI RSM Exterior 
+Surface Preparation and Interior Surface Preparation.
+e.  Thoroughly clean previously painted surfaces[ specified to be 
+repainted][ damaged during construction] of all grease, dirt, dust or 
+other foreign matter.
+f.  Remove blistering, cracking, flaking and peeling or otherwise 
+deteriorated coatings.
+g.  Remove chalk so that when tested in accordance with ASTM D4214, the 
+chalk resistance rating is no less than 8.
+h.  Roughen slick surfaces.  Repair damaged areas such as, but not limited 
+to, nail holes, cracks, chips, and spalls with suitable material to 
+match adjacent undamaged areas.
+i.  Feather and sand smooth edges of chipped paint.
+j.  Clean rusty metal surfaces in accordance with AMPP/SSPC requirements.  
+Use solvent, mechanical, or chemical cleaning methods to provide 
+surfaces suitable for painting.
+k.  Provide new, proposed coatings that are compatible with existing 
+coatings.
+][3.4.2   Existing Coated Surfaces with Minor Defects
+**************************************************************************
+NOTE:  Delete inapplicable phrases or entire 
+paragraph if no previously painted surfaces will be 
+encountered.
+**************************************************************************
+[Sand, spackle, and treat minor defects to render them smooth.  Minor 
+defects are defined as scratches, nicks, cracks, gouges, spalls, 
+alligatoring, chalking, and irregularities due to partial peeling of 
+previous coatings.][  Remove chalking by sanding[ or blasting] so that 
+SECTION 09 90 00  Page 33
+
+
+=====PAGE 34
+when tested in accordance with ASTM D4214, the chalk rating is not less 
+than 8.]
+][3.4.3   Removal of Existing Coatings
+**************************************************************************
+NOTE:  Delete this paragraph if project does not 
+include removal of existing coatings.
+**************************************************************************
+Remove existing coatings from the following surfaces:
+a.  Surfaces containing large areas of minor defects;
+b.  Surfaces containing more than 20 percent peeling area; and
+c.  Surfaces designated by the Contracting Officer, such as surfaces where 
+rust shows through existing coatings.
+][3.4.4   Removal of Existing Sealants and Caulking
+Remove loose, cracked, or otherwise defective sealant materials and 
+replace with new sealant as specified in Section 07 92 00 JOINT SEALANTS.  
+Provide new sealant materials compatible with new or existing coating 
+system materials.
+]3.4.5   Substrate Repair
+a.  Repair substrate surface damaged during coating removal;
+b.  Sand edges of adjacent soundly-adhered existing coatings so they are 
+tapered as smooth as practical to areas involved with coating removal; 
+and
+c.  Clean and prime the substrate as specified.
+3.5   PREPARATION OF METAL SURFACES
+3.5.1   Existing and New Ferrous Surfaces
+**************************************************************************
+NOTE:  Surface preparation procedures must be 
+compliant with any local or base restrictions.  
+Specify use of nonhazardous cleaning agents when 
+possible.  For cleaning or blasting ferrous 
+surfaces, select applicable options from the table 
+below.
+The considerations suggested here for painting over 
+existing paint are covered in a Coating Condition 
+Survey (CCS).  Consult UFC 3-190-06 "Protective 
+Coatings and Paints" for details.  The intent of 
+performing a CCS is to be able to design a 
+maintenance coating project that carries minimum 
+risk of coating failure.
+Use the following table to help select a primer type 
+and surface preparation to specify for steel 
+surfaces.  The table provides minimum requirements 
+SECTION 09 90 00  Page 34
+
+
+=====PAGE 35
+for mild or severe exposure.  Mild exposure includes 
+climate-controlled environments, project locations 
+with Environmental Severity Classifications (ESC) C1 
+or C2, and low humidity locations.  Severe exposure 
+includes high humidity locations or project 
+locations with ESC of C3 thru C5.  Humid locations 
+are those in ASHRAE climate zones 0A, 1A, 2A, 3A, 
+3C, 4C and 5C (as identified in ASHRAE 90.1).  See 
+UFC 1-200-01 for determination of ESC for project 
+locations.  Severe exposure also includes marine, 
+chemical, or immersion service, as well as 
+application of heat resistant or nonslip floor 
+coatings.  A high-performing system may be a better 
+choice for longer performance, even in mild exposure.
+Ferrous Surface Preparation
+SSPC Blasting/Cleaning Levelsa - Primer Types/Exposures
+Exposure
+Mild
+Severeb
+Primer Type
+alkyd/oil
+latex
+oleoresinous
+phenolic
+epoxy
+silicone
+inorganic zinc-rich
+Surface Condition
+Uncoated
+Oil, Grease, Dirt
+SSPC SP 1
+SSPC SP 10; 
+(SSPC-SP WJ-2/NACE 
+WJ-2) or SSPC-SP 5 
+(SSPC-SP WJ-1/NACE 
+WJ-1)
+Localized corrosion - mill scale, 
+rust
+SSPC-SP 2,SSPC SP 3, 
+or SSPC-SP 7; SSPC SP 
+11; (SSPC-SP 
+WJ-4/NACE WJ-4)
+SSPC SP 10; 
+(SSPC-SP WJ-2/NACE 
+WJ-2) or SSPC-SP 5; 
+(SSPC-SP WJ-1/NACE 
+WJ-1)
+Extensive deterioration
+SSPC-SP 6c;(SSPC-SP 
+WJ-3/NACE WJ-3)
+SSPC SP 10; 
+(SSPC-SP WJ-2/NACE 
+WJ-2) or SSPC-SP 5; 
+(SSPC-SP WJ-1/NACE 
+WJ-1)
+Shop coated
+Oil, Grease, Dirt
+d
+SSPC SP 10; 
+(SSPC-SP WJ-2/NACE 
+WJ-2) or SSPC-SP 5; 
+(SSPC-SP WJ-1/NACE 
+WJ-1)
+SECTION 09 90 00  Page 35
+
+
+=====PAGE 36
+Ferrous Surface Preparation
+Localized damage to be spot repaired
+SSPC-SP 2,SSPC SP 3, 
+or SSPC-SP 7; SSPC SP 
+11; (SSPC-SP 
+WJ-4/NACE WJ-4)
+SSPC SP 10; 
+(SSPC-SP WJ-2/NACE 
+WJ-2) or SSPC-SP 5; 
+(SSPC-SP WJ-1/NACE 
+WJ-1)
+Extensive deterioration
+SSPC-SPc;(SSPC-SP 
+WJ-3/NACE WJ-3)
+SSPC SP 10; 
+(SSPC-SP WJ-2/NACE 
+WJ-2) or SSPC-SP 5; 
+(SSPC-SP WJ-1/NACE 
+WJ-1)
+Existing coating
+Oil, Grease
+d
+SSPC SP 1
+Chalking, foreign matter other than 
+oil or grease, localized 
+deterioration
+e
+f
+Extensive deterioration
+SSPC-SPc;(SSPC-SP 
+WJ-3/NACE WJ-3)
+SSPC SP 10; 
+(SSPC-SP WJ-2/NACE 
+WJ-2) or SSPC-SP 5; 
+(SSPC-SP WJ-1/NACE 
+WJ-1)
+  a If it is not possible to abrasive blast or use waterjetting, SSPC SP 11 is 
+recommended.  SSPC SP 11 meets the cleanliness standard of SSPC-SP 6. SP 11 is 
+also preferred wherever SSPC SP 2 or SSPC SP 3 are shown in the Table.
+  b For marine, chemical, or immersion service, or application of heat resistant 
+or nonslip floor coatings.  SSPC SP 10/NACE No. 2 is preferred for zinc-rich 
+primers, and for extremely severe environments where long-term performance is 
+desired. SSPC SP 5/NACE No. 1 is a higher cleanliness than SSPC SP 10, may not be 
+achievable in the field in certain environments, and is only recommended for 
+components that will be in service in high corrosivity environments where 
+excellent aesthetics are desired.
+  c Use water jetting to SSPC-SP WJ-3/NACE WJ-3, as alternate to SSPC-SP 6 degree 
+of cleanliness where abrasive blasting cannot be used.
+  d Use only the steam clean, or non-alkaline detergent solutions of SP 1.
+  e First, remove chalk and dirt with a non-alkaline detergent solution, and 
+follow with power wash to SSPC-SP WJ-4/NACE WJ-4.  Second, spot clean, in order 
+of preference by SSPC-SP 6, SSPC SP 11, SSPC-SP 7, SSPC SP 3, or SSPC SP 2.
+  f First, remove chalk and dirt with a non-alkaline detergent solution, and 
+follow with power wash to SSPC-SP WJ-4/NACE WJ-4.  Second, spot clean, in order 
+of preference, by SSPC SP 10, SSPC-SP 6, or SSPC SP 11.
+**************************************************************************
+a.  Ferrous Surfaces including Shop-coated Surfaces and Small Areas That 
+Contain Rust, Mill Scale and Other Foreign Substances:[  Solvent 
+SECTION 09 90 00  Page 36
+
+
+=====PAGE 37
+clean][ or][ Detergent wash] in accordance with SSPC SP 1 to remove 
+oil and grease.  Where shop coat is missing or damaged, clean 
+according to[ SSPC SP 2,][ SSPC SP 3,][ SSPC SP 11,][ 
+SSPC SP 6/NACE No.3,][ SSPC SP 10/NACE No. 2,] or[ SSPC SP 5/NACE No. 1
+].[  Brush-off blast remaining surface in accordance with 
+SSPC SP 7/NACE No.4][;][  Water jetting to SSPC-SP WJ-4/NACE WJ-4 may 
+be used to remove loose coating and other loose materials.  Use 
+inhibitor as recommended by coating manufacturer to prevent premature 
+rusting.]  Protect shop-coated ferrous surfaces from corrosion by 
+treating and touching up corroded areas immediately upon detection.
+b.  Surfaces With More Than 20 Percent Rust, Mill Scale, and Other Foreign 
+Substances:  Clean entire surface in accordance with[ 
+SSPC SP 6/NACE No.3 / SSPC-SP WJ-3/NACE WJ-3][ SSPC SP 10/NACE No. 2 / 
+SSPC-SP WJ-2/NACE WJ-2].
+**************************************************************************
+NOTE:  For rusted surfaces, modify surface 
+preparation requirements to include near white blast 
+cleaning in accordance with SSPC SP 10 or 
+waterjetting equivalent of WJ-2 prior to coating 
+application.
+**************************************************************************
+[ c.  Metal Floor Surfaces to Receive Nonslip Coating:  Clean in accordance 
+with[ SSPC SP 10/NACE No. 2][ SSPC-SP WJ-2/NACE WJ-2].
+]3.5.2   Final Ferrous Surface Condition:
+**************************************************************************
+NOTE:  Verify there are no local or base 
+restrictions on use of abrasive blasting.  Specify 
+cleaning options as follows:
+Type Coating
+Level of Cleaning, SSPC-SP
+a.  Latex or Alkyd
+2,3,6 or WJ-2.
+(Alternatively, 7 and 10,  SSPC-SP 
+WJ-2/NACE WJ-2 or SSPC-SP WJ-1/NACE WJ-1 
+may be left in as Contractor options)
+b.  High Performance (i.e., Epoxy, 
+Urethane, others)
+6,10
+**************************************************************************
+3.5.2.1   Tool Cleaned Surfaces
+Comply with SSPC SP 2, SSPC SP 3, or SSPC SP 11, as applicable.  Use as a 
+visual reference, photographs in SSPC VIS 3 for the appearance of cleaned 
+surfaces.
+3.5.2.2   Abrasive Blast Cleaned Surfaces
+Comply with[ SSPC SP 7/NACE No.4][ SSPC SP 6/NACE No.3][ 
+SSPC SP 10/NACE No. 2].  Use as a visual reference, photographs in 
+SSPC VIS 1 for the appearance of cleaned surfaces.  Achieve the anchor 
+profile recommended by the manufacturer using the appropriate abrasive.
+SECTION 09 90 00  Page 37
+
+
+=====PAGE 38
+3.5.2.3   Waterjet Cleaned Surfaces
+Comply with[ SSPC-SP WJ-1/NACE WJ-1][ SSPC-SP WJ-2/NACE WJ-2][ 
+SSPC-SP WJ-3/NACE WJ-3][ SSPC-SP WJ-4/NACE WJ-4].  Use as a visual 
+reference, photographs in SSPC VIS 4/NACE VIS 7 for the appearance of 
+cleaned surfaces.
+3.5.3   Galvanized Surfaces
+**************************************************************************
+NOTE:  Choose bracketed items in paragraph below 
+according to scope of project.  Local restrictions 
+may apply or limits imposed by project location.
+**************************************************************************
+a.  New or Existing Galvanized Surfaces With Only Dirt and Zinc Oxidation 
+Products:  Clean with[ solvent,][ steam,][ or][ non-alkaline detergent 
+solution] in accordance with SSPC SP 1.  Completely remove zinc 
+oxidation products by brush-off abrasive blast to SSPC SP 16 if the 
+galvanized metal has been passivated or stabilized.  Do not 
+"passivate" or "stabilize" new galvanized steel to be coated.  If the 
+absence of hexavalent stain inhibitors is not documented, test as 
+described in ASTM D6386, Appendix X2, and remove by one of the methods 
+described therein.
+**************************************************************************
+NOTE:  Delete the text below if there are no 
+existing surfaces to receive coatings.  Verify there 
+are no local or base restrictions on the use of 
+abrasive blasting.
+**************************************************************************
+b.  Galvanized with Slight Coating Deterioration or with Little or No 
+Rusting:  Water jetting to SSPC-SP WJ-3/NACE WJ-3 or SSPC SP 16 to 
+remove loose coating from surfaces with less than 20 percent coating 
+deterioration and no blistering, peeling, or cracking.  Use inhibitor 
+as recommended by the coating manufacturer to prevent rusting.
+**************************************************************************
+NOTE:  Delete the text below if there are no 
+existing surfaces to receive coatings.  Verify there 
+are no local or base restrictions on the use of 
+abrasive blasting.
+**************************************************************************
+c.  Galvanized With Severe Deteriorated Coating or Severe Rusting: [ Water 
+jet to SSPC-SP WJ-3/NACE WJ-3 degree of cleanliness.][ Brush blast 
+rusted areas SSPC SP 16, and waterjet to SSPC-SP WJ-3/NACE WJ-3 to 
+remove existing coating.]
+3.5.4   Non-Ferrous Metallic Surfaces
+Aluminum and aluminum-alloy, lead, copper, and other nonferrous metal 
+surfaces.
+Surface Cleaning:  Solvent clean in accordance with SSPC SP 1 and wash 
+with mild non-alkaline detergent to remove dirt and water soluble 
+contaminants.
+SECTION 09 90 00  Page 38
+
+
+=====PAGE 39
+3.5.5   Terne-Coated Metal Surfaces
+Solvent clean surfaces with mineral spirits, ASTM D235.  Wipe dry with 
+clean, dry cloths.
+3.5.6   Existing Surfaces with a Bituminous or Mastic-Type Coating
+Remove chalk, mildew, and other loose material by washing with a solution 
+of 0.20 liter 1/2 cup trisodium phosphate, 0.1 liter 1/4 cup household 
+detergent, 1.6 liters one quart 5 percent sodium hypochlorite solution and 
+4.8 liters 3 quarts of warm water.
+3.6   PREPARATION OF CONCRETE AND CEMENTITIOUS SURFACE
+3.6.1   Concrete and Masonry
+a.  Curing:  Allow concrete, stucco and masonry surfaces to cure at least 
+30 days before painting, and concrete slab on grade to cure at least 
+90 days before painting.
+b.  Surface Cleaning:  Prepare concrete surfaces in accordance with 
+SSPC SP 13/NACE No. 6.  Remove the following deleterious substances.
+**************************************************************************
+NOTE:  Choose bracketed items in subparagraphs below 
+according to scope of project that should be based 
+on a coating condition survey.
+**************************************************************************
+(1)  Dirt,[ Chalking,] Grease, and Oil:  Wash new[ and existing 
+uncoated] surfaces with a solution composed of 0.2 liter 1/2 cup 
+trisodium phosphate, 0.1 liter 1/4 cup household detergent, and 
+6.4 liters 4 quarts of warm water.  Then rinse thoroughly with 
+fresh water.[  Wash existing coated surfaces with a suitable 
+detergent and rinse thoroughly.]  For large areas, water blasting 
+may be used.
+(2)  Fungus and Mold:  Wash[ new][, existing coated,][ and existing 
+uncoated] surfaces with a solution composed of 0.2 liter 1/2 cup 
+trisodium phosphate, 0.1 liter 1/4 cup household detergent, 1.6 
+liters one quart 5 percent sodium hypochlorite solution and 4.8 
+liters 3 quarts of warm water.  Rinse thoroughly with fresh water.
+(3)  Paint, Loose Particles, and Laitance:  Remove by wire brushing, 
+abrasive blasting, or grinding until paint, loose particles, and 
+laitance is removed.
+(4)  Efflorescence:  Remove by scraping or wire brushing followed by 
+washing with a 5 to 10 percent by weight aqueous solution of 
+hydrochloric (muriatic) acid.  Do not allow acid to remain on the 
+surface for more than five minutes before rinsing with fresh 
+water.  Do not acid clean more than 0.4 square meter 4 square feet
+ of surface, per workman, at one time.
+[
+(5)  Removal of Existing Coatings:  For surfaces to receive textured 
+coating MPI 42, remove existing coatings including soundly 
+adhered coatings if recommended by textured coating manufacturer.
+SECTION 09 90 00  Page 39
+
+
+=====PAGE 40
+] c.  Cosmetic Repair of Minor Defects:  Repair or fill mortar joints and 
+minor defects, including but not limited to spalls, in accordance with 
+manufacturer's recommendations and prior to coating application.
+d.  Allowable Moisture Content:  Latex coatings may be applied to damp 
+surfaces, but not to surfaces with droplets of water.  Do not apply 
+epoxies to damp vertical surfaces as determined by ASTM D4263 or 
+horizontal surfaces that exceed 169.0 micrograms moisture per second, 
+square meter 3 lbs of moisture per 1000 square feet in 24 hours as 
+determined by ASTM F1869.  In all cases follow manufacturer's 
+recommendations.  Allow surfaces to cure a minimum of 30 days before 
+painting.
+3.6.2   Gypsum Board, Plaster, and Stucco
+3.6.2.1   Surface Cleaning
+Verify that plaster and stucco surfaces are free from loose matter and 
+that gypsum board is dry.  Remove loose dirt and dust by brushing with a 
+soft brush, rubbing with a dry cloth, or vacuum-cleaning prior to 
+application of the first coat material.  A damp cloth or sponge may be 
+used if paint is water-based.
+3.6.2.2   Repair of Minor Defects
+Prior to painting, repair joints, cracks, holes, surface irregularities, 
+and other minor defects with patching plaster or spackling compound and 
+sand smooth.
+3.6.2.3   Allowable Moisture Content
+Latex coatings may be applied to damp surfaces, but not surfaces with 
+droplets of water.  Do not apply epoxies to damp surfaces as determined by 
+ASTM D4263.  Verify that new plaster to be coated has a maximum moisture 
+content of 8 percent, when measured in accordance with ASTM D4444, Method 
+A, unless otherwise authorized.  In addition to moisture content 
+requirements, allow new plaster to age a minimum of 30 days before 
+preparation for painting.
+[3.6.3   Existing Asbestos Cement Surfaces
+**************************************************************************
+NOTE:  Delete entire paragraph if no asbestos cement 
+surfaces will be encountered.
+**************************************************************************
+Remove oily stains by solvent cleaning with mineral spirits in accordance 
+with MIL-PRF-680 or ASTM D235.  Remove loose dirt, dust, and other 
+deleterious substances by brushing with a soft brush or rubbing with a dry 
+cloth prior to application of the first coat material.  Do not wire brush 
+or clean using other abrasive methods.  Verify surfaces are dry and clean 
+prior to application of the coating.
+][3.7   PREPARATION OF WOOD AND PLYWOOD SURFACES
+**************************************************************************
+NOTE:  Choose bracketed items in this Article 
+according to scope of project.
+SECTION 09 90 00  Page 40
+
+
+=====PAGE 41
+Delete inapplicable phrases or entire Article if no 
+wood surfaces will be encountered.
+**************************************************************************
+3.7.1   New[, Existing Uncoated,][ and][ Existing Coated] Plywood and Wood 
+Surfaces, Except Floors:
+a.  Surface Cleaning:  Clean wood surfaces of foreign matter.  Verify that 
+surfaces are free from dust and other deleterious substances and in a 
+condition approved by the Contracting Officer prior to receiving paint 
+or other finish.  Do not use water to clean uncoated wood.[  Scrape to 
+remove loose coatings.  Lightly sand to roughen the entire area of 
+previously enamel-coated wood surfaces.]
+[ b.  Removal of Fungus and Mold:  Wash existing coated surfaces with a 
+solution composed of 0.2 liter 3 ounces (2/3 cup) trisodium phosphate, 
+0.1 liter one ounce (1/3 cup) household detergent, 1.6 liters one quart
+ 5 percent sodium hypochlorite solution and 4.8 liters 3 quarts of 
+warm water.  Rinse thoroughly with fresh water.
+] c.  Do not exceed 12 percent moisture content of the wood as measured by a 
+moisture meter in accordance with ASTM D4444, Method A, unless 
+otherwise authorized.
+d.  Prime or touch up wood surfaces adjacent to surfaces to receive 
+water-thinned paints before applying water-thinned paints.
+e.  Cracks and Nailheads:  Set and putty stop nailheads and putty cracks 
+after the prime coat has dried.
+f.  Cosmetic Repair of Minor Defects:
+(1)  Knots and Resinous Wood[ and Fire, Smoke, Water, and Color Marker 
+Stained Existing Coated Surface]:  Prior to application of 
+coating, cover knots and stains with two or more coats of 
+1.3-kg-cut 3-pound-cut shellac varnish, plasticized with 0.14 
+liters 5 ounces of castor oil per liter gallon.  Scrape away 
+existing coatings from knotty areas, and sand before treating.  
+Prime before applying any putty over shellacked area.
+(2)  Open Joints and Other Openings:  Fill with whiting putty, linseed 
+oil putty.  Sand smooth after putty has dried.
+(3)  Checking:  Where checking of the wood is present, sand the 
+surface, wipe and apply a coat of pigmented orange shellac.  
+Allow to dry before paint is applied.
+g.  Prime Coat For New Exterior Surfaces:  Prime coat[ wood doors,][ 
+windows,][ frames,][ and][ trim] before wood becomes dirty, warped[ or 
+weathered].
+3.7.2   Wood Floor Surfaces, Natural Finish
+a.  Initial Surface Cleaning:  As specified in paragraph SURFACE 
+PREPARATION.
+[ b.  Existing Loose Boards and Shoe Molding:  Before sanding, renail loose 
+boards.  Countersink nails and fill with an approved wood filler.  
+Remove shoe molding before sanding and reinstall after completing 
+SECTION 09 90 00  Page 41
+
+
+=====PAGE 42
+other work.  At Contractor's option, new shoe molding may be provided 
+in lieu of reinstalling old.  Provide new wood molding of the same 
+size, wood species, and finish as the existing.
+] c.  Sanding and Scraping:  Sanding of wood floors is specified in Section[ 
+09 64 29 WOOD STRIP AND PLANK FLOORING][ 09 64 66 WOOD ATHLETIC 
+FLOORING][ 09 64 00 PORTABLE (DEMOUNTABLE) WOOD FLOORING].  Fill 
+floors of oak or similar open-grain wood with wood filler recommended 
+by the finish manufacturer and the excess filler removed.
+d.  Final Cleaning:  After sanding, sweep and vacuum floors clean.  Do not 
+walk on floors thereafter until specified sealer has been applied and 
+is dry.
+3.7.3   Interior Wood Surfaces, Stain Finish
+**************************************************************************
+NOTE:  The following paragraph is tailored for 
+inclusion in projects with interior painting.
+**************************************************************************
+Sand interior wood surfaces to receive stain.  Fill oak and other 
+open-grain wood to receive stain with a coat of wood filler not less than 
+8 hours before the application of stain; remove excess filler and sand the 
+surface smooth.
+3.7.4   Water Blasting of Existing Coated Wood Surfaces:
+**************************************************************************
+NOTE:  Require water blasting for existing wood 
+surfaces only for architectural restoration work 
+where the cost is justified.
+Add surfaces to be water blasted, such as wood 
+siding, in brackets.
+**************************************************************************
+Provide water blasting for the following surfaces:  [_____].
+a.  Sample Panel:  Prior to the initial surface cleaning, water blast a 
+representative surface designated by the Contracting Officer.  Provide 
+surface cleaning of the remaining work to match the sample panel 
+approved by the Contracting Officer.
+b.  Initial Surface Cleaning:  Water blast surfaces to receive paint with 
+a high pressure spray, to remove loose paint, dirt, and other foreign 
+or deleterious materials.  Provide working pressure less than 17 MPa 
+2500 pounds per square inch gage (psig).  Do not flood vents or damage 
+windows and floors.  If the pressure specified will cause damage to 
+existing wood, advise the Contracting Officer and obtain permission to 
+vary the pressure.  Direct the wash nozzle at the surface at an angle 
+of approximately 75 degrees with the surface and at a distance not 
+greater than 1500 mm 5 feet to apply water pressure required to remove 
+loose paint, dirt, chalking, and other foreign matter.
+c.  Final Surface Cleaning:  After allowing the surfaces to dry for a 
+minimum of 24 hours, remove remaining dirt, splinters, loose 
+particles, disintegrated and loose paint, grease, oil, and other 
+foreign matter from the surface.
+SECTION 09 90 00  Page 42
+
+
+=====PAGE 43
+]3.8   APPLICATION
+3.8.1   Coating Application
+a.  Comply with applicable federal, state and local laws enacted to ensure 
+compliance with Federal Clean Air Standards.  Apply coating materials 
+in accordance with SSPC PA 1.  SSPC PA 1 methods are applicable to all 
+substrates, except as modified herein.
+b.  At the time of application, paint must show no signs of 
+deterioration.  Maintain uniform suspension of pigments during 
+application.
+c.  Unless otherwise specified or recommended by the paint manufacturer, 
+paint may be applied by brush, roller, or spray.  Use trigger operated 
+spray nozzles for water hoses.  Use rollers for applying paints and 
+enamels of a type designed for the coating to be applied and the 
+surface to be coated.  Wear protective clothing and respirators when 
+applying oil-based paints or using spray equipment with any paints.
+d.  Only apply paints, except water-thinned types, to surfaces that are 
+completely free of moisture as determined by sight or touch.
+e.  Thoroughly work coating materials into joints, crevices, and open 
+spaces.  Pay special attention to ensure that all edges, corners, 
+crevices, welds, and rivets receive a film thickness equal to that of 
+adjacent painted surfaces. Use stripe coating as needed to achieve 
+appropriate thickness.
+f.  Apply each coat of paint so that dry film is of uniform thickness and 
+free from runs, drops, ridges, waves, pinholes or other voids, laps, 
+brush marks, and variations in color, texture, and finish. Completely 
+hide all blemishes.
+**************************************************************************
+NOTE:  Use broom cleaning when other means are not 
+available.
+**************************************************************************
+g.  Touch up damaged coatings before applying subsequent coats.[  Broom 
+clean and clear dust from interior areas before and during the 
+application of coating material.]
+**************************************************************************
+NOTE:  Delete inapplicable phrases or entire 
+subparagraphs if no fire extinguishing sprinkler 
+system surfaces will be encountered.
+**************************************************************************
+[ h.  Apply paint to new fire extinguishing sprinkler systems including 
+valves, piping, conduit, hangers, supports, miscellaneous metal work, 
+and accessories.  Shield sprinkler heads with protective coverings 
+while painting is in progress.  Remove sprinkler heads which have been 
+painted and replace with new sprinkler heads.  Unfinished spaces 
+include attic spaces, spaces above suspended ceilings, crawl spaces, 
+pipe chases, mechanical equipment room, and space where walls or 
+ceiling are not painted or not constructed of a prefinished material.  
+Upon completion of painting, remove protective covering from sprinkler 
+SECTION 09 90 00  Page 43
+
+
+=====PAGE 44
+heads.
+i.  Piping in Unfinished Areas:  Provide primed surfaces with one coat of 
+red alkyd gloss enamel (MPI 9) applied to a minimum dry film thickness 
+of 0.025 mm 1.0 mil in attic spaces, spaces above suspended ceilings, 
+crawl spaces, pipe chases, mechanical equipment room, and spaces where 
+walls or ceiling are not painted or not constructed of a prefinished 
+material.
+j.  Piping in Finished Areas:  Provide primed surfaces with two coats of 
+paint to match adjacent surfaces, except provide valves and operating 
+accessories with one coat of red alkyd gloss enamel (MPI 9) applied to 
+a minimum dry film thickness of 0.025 mm 1.0 mil or two component 
+gloss polyurethane (MPI 72) in exterior applications.
+k.  Provide labeling on the surfaces of all feed and cross mains to show 
+the pipe function such as "Sprinkler System", "Fire Department 
+Connection", "Standpipe".  For pipe sizes 100 mm 4-inch and larger 
+provide white painted stenciled letters and arrows, a minimum of 50 mm 
+2 in in height and visible from at least two sides when viewed from 
+the floor.  For pipe sizes less than 100 mm 4-inch, provide white 
+painted stenciled letters and arrows, a minimum of 18 mm 0.75 in in 
+height and visible from the floor.
+l.  All fire suppression system valves must be marked with permanent tags 
+indicating normally open or normally closed.
+] m.  Drying Time:  Allow time between coats, as recommended by the coating 
+manufacturer, to permit thorough drying, but not to present topcoat 
+adhesion problems.  Provide each coat in specified condition to 
+receive next coat.
+n.  Primers, and Intermediate Coats:  Do not allow primers or intermediate 
+coats to dry more than 30 days, or longer than recommended by 
+manufacturer, before applying subsequent coats.  Follow manufacturer's 
+recommendations for surface preparation if primers or intermediate 
+coats are allowed to dry longer than recommended by manufacturers of 
+subsequent coatings.  Cover each preceding coat or surface completely 
+by ensuring visually perceptible difference in shades of successive 
+coats.
+o.  Finished Surfaces:  Provide finished surfaces free from runs, drops, 
+ridges, waves, laps, brush marks, and variations in colors.
+p.  Thermosetting Paints:  Apply topcoats over thermosetting paints 
+(epoxies and urethanes) within the overcoat window recommended by the 
+manufacturer.
+**************************************************************************
+NOTE:  Choose bracketed items in the subparagraph 
+below according to scope of project.
+Delete inapplicable phrases or entire subparagraph 
+if nonslip surfacing to floors or ramps will not be 
+encountered.
+**************************************************************************
+q.  Floors:  [For nonslip surfacing on level floors, as the intermediate 
+coat is applied, cover wet surface completely with almandite garnet, 
+SECTION 09 90 00  Page 44
+
+
+=====PAGE 45
+Grit No. 36, with maximum passing U.S. Standard Sieve No. 40 less than 
+0.5 percent.  When the coating is dry, use a soft bristle broom to 
+sweep up excess grit, which may be reused, and vacuum up remaining 
+residue before application of the topcoat.  ][For nonslip surfacing on 
+ramps, provide MPI 77 with non-skid additive, applied by roller in 
+accordance with manufacturer's instructions.]
+3.8.2   Mixing and Thinning of Paints
+Reduce paints to proper consistency by adding fresh paint, except when 
+thinning is mandatory to suit surface, temperature, weather conditions, 
+application methods, or for the type of paint being used.  Obtain written 
+permission from the Contracting Officer to use thinners.  Verify that the 
+written permission includes quantities and types of thinners to use.
+When thinning is allowed, thin paints immediately prior to application 
+with not more than 0.125 L one pint of suitable thinner per liter gallon.  
+The use of thinner does not relieve the Contractor from obtaining complete 
+hiding, full film thickness, or required gloss.  Thinning cannot cause the 
+paint to exceed limits on volatile organic compounds.  Do not mix paints 
+of different manufacturers.
+3.8.3   Two-Component Systems
+Mix two-component systems in accordance with manufacturer's application 
+instructions.  Follow recommendation by the manufacturer for any thinning 
+of the first coat to ensure proper penetration and sealing for each type 
+of substrate.
+3.9   PIPING IDENTIFICATION
+**************************************************************************
+NOTE:  If pipe marking is to be covered in the 
+mechanical section, delete this paragraph.  Use the 
+Activity preferred bracketed reference.
+**************************************************************************
+Piping Identification, Including Surfaces In Concealed Spaces:  Provide in 
+accordance with[ MIL-STD-101][ ASME A13.1].  Place stenciling in clearly 
+visible locations.  On piping not covered by[ MIL-STD-101][ ASME A13.1], 
+stencil approved names or code letters, in letters a minimum of 13 mm 1/2 
+inch high for piping and a minimum of 50 mm 2 inches high elsewhere.  
+Stencil arrow-shaped markings on piping to indicate direction of flow 
+using black stencil paint.
+3.10   INSPECTION AND ACCEPTANCE
+In addition to meeting previously specified requirements, demonstrate 
+mobility of moving components, including swinging and sliding doors, 
+cabinets, and windows with operable sash, for inspection by the 
+Contracting Officer.  Perform this demonstration after appropriate curing 
+and drying times of coatings have elapsed and prior to invoicing for final 
+payment.
+3.11   WASTE MANAGEMENT
+**************************************************************************
+NOTE:  Coordinate with Section 01 74 19 CONSTRUCTION 
+WASTE MANAGEMENT AND DISPOSAL.
+SECTION 09 90 00  Page 45
+
+
+=====PAGE 46
+NOTE:  Take-back programs refer to programs in which 
+the product manufacturer "takes-back" scrap material 
+or packaging associated with its product.  
+**************************************************************************
+As specified in the Waste Management Plan and as follows.  Do not use 
+kerosene or any such organic solvents to clean up water based paints.  
+Properly dispose of paints or solvents in designated containers.  Close 
+and seal partially used containers of paint to maintain quality as 
+necessary for reuse.  Store in protected, well-ventilated, fire-safe area 
+at moderate temperature.  Place materials defined as hazardous or toxic 
+waste in designated containers.[  Coordinate with manufacturer for 
+take-back program.  Set aside scrap to be returned to manufacturer for 
+recycling into new product.  When such a service is not available, contact 
+local recyclers to reclaim the materials.][  Set aside extra paint for 
+future color matches or reuse by the Government.][  Where local options 
+exist for leftover paint recycling, collect all waste paint by type and 
+provide for delivery to recycling or collection facility for reuse by 
+local organizations.]
+3.12   PAINT TABLES
+**************************************************************************
+NOTE:  Choose coatings that meet the MPI Green 
+PerformanceTM Standard (GPS-1-12), unless no such 
+products are available for the specified 
+application.  An E3 rating is more stringent than an 
+E2 rating, which is more stringent than an E1 
+rating.  Where indoor air quality (odor) is an 
+issue, use only MPI listed materials having a 
+minimum E2 rating.  Edit Interior Paint Tables to 
+include only products that are listed in the MPI 
+Green Approved Products List, available at
+https://www.mpi.net/APL/index to maximize 
+sustainability in all projects.
+**************************************************************************
+**************************************************************************
+NOTE:  MPI Division Numbers are in accordance with 
+MPI designated divisions and follow the CSI 
+MasterFormat.  MPI number designations are from MPI 
+Product List.
+**************************************************************************
+**************************************************************************
+NOTE:  These paint tables largely include MPI 
+designated coating systems and materials.  The 
+specifier may find the Master Painters Institute 
+(MPI) Architectural Painting Specification resources 
+helpful when specifying paint systems for the 
+multiple architectural substrates (both interior and 
+exterior).  Note that not all coatings and systems 
+available in MPI are included in this 
+specification.  In the event of conflicts between 
+MPI resources and these tables, use the paint 
+materials specified in this table.
+When using the MPI resources, such as the MPI 
+SECTION 09 90 00  Page 46
+
+
+=====PAGE 47
+Decision Tree, MPI designates systems for "Normal" 
+or Aggressive" service and identifies the coating 
+performance level which the specifier may find 
+helpful when selecting from coating system options.  
+When using the MPI resources, select "Normal" for 
+locations defined as noncorrosive and select 
+"Aggressive" for corrosive locations.
+**************************************************************************
+**************************************************************************
+NOTE:  Where available, select more durable coatings 
+for projects located in corrosive environments and 
+humid locations.  Some of the coating systems for 
+substrates listed in this table are explicitly for 
+aggressive environments.  Corrosive locations are 
+defined in UFC 1-200-01, section titled "Corrosion 
+Prone Locations".  For exterior painting of metallic 
+surfaces, corrosive locations include project 
+locations with Environmental Severity 
+Classifications (ESC) of C3 thru C5, or humid 
+locations.  For exterior painting of nonmetallic 
+surfaces, corrosive locations are project locations 
+with ESC of C4 and C5, or humid locations.  Humid 
+locations are those in ASHRAE climate zones 0A, 1A, 
+2A, 3A, 3C, 4C and 5C (as identified in ASHRAE 
+90.1).  Corrosive locations also includes marine, 
+chemical, or immersion service as well as 
+application of heat resistant or nonslip floor 
+coatings.  Interior high humidity areas such as 
+bathrooms, locker rooms, laundry rooms, pools, and 
+trainers are also considered as corrosive locations 
+and require more durable coatings.
+**************************************************************************
+All DFT's are minimum values.  For maximum values, refer to coating 
+manufacturer's recommended thickness in the application instructions.  If 
+the DFT range specified in paint tables are outside of the manufacturer's 
+recommended DFT, apply coatings in accordance with the manufacturer's 
+recommended DFT.[  Use only materials with a MPI GPS-1-14 green check mark 
+having a minimum MPI "Environmentally Friendly" [E1][E2][E3] rating based 
+on VOC (EPA Method 24) content levels.]  Acceptable products are listed in 
+the MPI Green Approved Products List, available at 
+https://www.mpi.net/APL/index.asp.
+**************************************************************************
+NOTE:  Eliminate paint systems and gloss levels from 
+the paint tables below that are not to be used for 
+this project.
+**************************************************************************
+**************************************************************************
+NOTE:  As guidance in selection of coating systems 
+in the Paint Tables, VOC compliant materials may be 
+selected, based on:
+1.  Regional air quality regulations for the site 
+location,
+2.  The applicable rule, and
+SECTION 09 90 00  Page 47
+
+
+=====PAGE 48
+3.  Any specialty or exemption category.
+Environmentally acceptable coatings may be further 
+ensured by avoiding hazardous materials and 
+including, as a minimum, requirements in purchase 
+order or bill of materials to prohibit coatings 
+containing materials listed in paragraph entitled 
+"Environmental Protection."  ACGIH A1 confirmed 
+human carcinogens include asbestos, benzene, 
+chromates, and coal tar.  ACGIH A2 suspected human 
+carcinogens include cadmium and certain chromates.  
+Specify new galvanized steel, in appropriate 
+section, to be without hexavalent chromium stain 
+inhibitors.
+Where only topcoating for cosmetic purposes is 
+required, select a compatible topcoat that hides 
+substrate.  There are proposed rules limiting VOC 
+content in states other than California.  These 
+rules are for architectural and industrial 
+maintenance paints and coatings.  Check local and 
+State regulations concerning allowable VOC limits.  
+The most stringent govern.
+Water-based paints and acrylic latex paints are 
+lower in VOCs than solvent-based paints.  
+Water-based paints are generally safer to handle and 
+can be cleaned up with water, reducing health risks 
+to workers and minimizing or avoiding hazardous 
+waste.
+**************************************************************************
+**************************************************************************
+NOTE:  Gloss levels are defined by MPI as follows:
+Gloss Level
+Description
+Units at 60 degrees
+Units at 80 degrees
+G1
+Matte or Flat
+0 to 5
+10 max
+G2
+Velvet
+0 to 10
+10 to 35
+G3
+Eggshell
+10 to 25
+10 to 35
+G4
+Satin
+20 to 35
+35 min
+G5
+Semi-Gloss
+35 to 70
+G6
+Gloss
+70 to 85
+G7
+High Gloss
+85 min
+**************************************************************************
+**************************************************************************
+SECTION 09 90 00  Page 48
+
+
+=====PAGE 49
+NOTE:  The following paragraphs / Tables are 
+tailored for inclusion in projects with exterior 
+painting.
+**************************************************************************
+3.12.1   Exterior Paint Tables
+**************************************************************************
+NOTE:  MPI paints No. 10 and No. 11 are mildew 
+resistant paints.  Specify these paints in the 
+Tables for MPI Divisions 3, 4, 5, 6, 9, and 10 in 
+high humidity locations or project locations with 
+Environmental Severity Classifications (ESC) of C4 
+and C5.  Humid locations are those in ASHRAE climate 
+zones 0A, 1A, 2A, 3A, 4C and 5C (as identified in 
+ASHRAE 90.1).
+**************************************************************************
+**************************************************************************
+NOTE:  For high-temperature applications, refer to 
+Section 09 96 00 HEAT- AND CHEMICAL-RESISTANT 
+COATINGS.  These high performance coatings are 
+normally used to meet heat-resistant requirements 
+and can be applied to concrete, masonry, 
+carbon-steel, alloyed-steel, galvanized metal, 
+passivated metal, and wood.
+**************************************************************************
+**************************************************************************
+NOTE:  Edit following tables as needed based on the 
+scope of the project.  Use lower gloss levels in 
+non-contact areas such as ceilings.  Use higher 
+gloss levels where ease of cleanliness or impact and 
+abrasion resistance are critical such as barrack 
+walls and floors.
+**************************************************************************
+3.12.1.1   MPI Division 3:  Exterior Concrete Paint Table
+**************************************************************************
+NOTE:  MPI DIVISION 3:  Exterior Concrete Paint 
+Table.  For applications of high-build glaze 
+finishes over concrete requiring block filler that 
+meets resistance to wind-driven rain or resistance 
+to hydrostatic pressure, specify filler materials 
+and application of MPI 72.
+Color:  The main reason for painting concrete and 
+stucco is to obtain desired color. Before specifying 
+paint systems, coordinate with other specification 
+sections to confirm that concrete does not have 
+special waterproof finish or applied, colored 
+cementitious finish and that stucco does not have 
+color pigment integral with mix.
+**************************************************************************
+A.  Concrete; Vertical Surfaces, Undersides of Balconies and Soffits
+(1) [New and uncoated existing][ and ][Existing, previously painted] 
+SECTION 09 90 00  Page 49
+
+
+=====PAGE 50
+concrete; vertical surfaces, including undersides of balconies and soffits 
+but excluding tops of slabs
+Latex
+New and uncoated
+existing
+Existing,
+previously
+painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 3.1A-G1 
+(Flat)
+MPI REX 3.1A-G1 
+(Flat)
+MPI 3
+MPI 10
+MPI 10
+88 microns
+3.5 mils
+MPI EXT 3.1A-G2 
+(Velvet)
+MPI REX 3.1A-G2 
+(Velvet)
+MPI 3
+MPI 214
+MPI 214
+88 microns
+3.5 mils
+MPI EXT 3.1A-G5 
+(Semigloss)
+MPI REX 3.1A-G5 
+(Semigloss)
+MPI 3
+MPI 11
+MPI 11
+88 microns
+3.5 mils
+MPI EXT 3.1A-G6 
+(Gloss)
+MPI REX 3.1A-G6 
+(Gloss)
+MPI 3
+MPI 119
+MPI 119
+88 microns
+3.5 mils
+Primer as recommended by manufacturer.
+Topcoat:  Coating to match adjacent surfaces.
+Pigmented Polyurethane
+New and uncoated
+existing
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 3.1M-G6 
+(Gloss)
+MPI REX 3.1M-G6 
+(Gloss)
+N/A
+MPI 72
+MPI 72
+Per 
+Manufacturer
+Surface preparation and number of coats in accordance with manufacturer's instructions.
+(2) [New and uncoated existing][ and ][Existing, previously painted] 
+concrete, textured system; vertical surfaces, including undersides of 
+balconies and soffits but excluding tops of slabs
+**************************************************************************
+NOTE:  Use MPI 10, MPI 11, or MPI 119 on new 
+cast-in-place concrete walls.  Use MPI 42, for 
+accent panels, special effect, or ceilings.
+**************************************************************************
+Latex Aggregate
+New and uncoated
+existing
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+SECTION 09 90 00  Page 50
+
+
+=====PAGE 51
+MPI EXT 3.1B-G2 
+(Flat)
+MPI REX 3.1A-G1 
+(Flat)
+MPI 42
+MPI 10
+MPI 10
+Per 
+Manufacture
+MPI EXT 3.1B-G5 
+(Semigloss)
+MPI REX 3.1A-G5 
+(Semigloss)
+MPI 42
+MPI 11
+MPI 11
+Per 
+Manufacture
+MPI EXT 3.1B-G6 
+(Gloss)
+ MPI REX 3.1A-G6 
+(Gloss)
+MPI 42
+MPI 119
+MPI 119
+Per 
+Manufacture
+Texture - [Fine] [Medium] [Coarse].  
+Surface preparation and number of coats in accordance with manufacturer's 
+instructions.  
+Topcoat:  Coating to match adjacent surfaces.
+Pigmented Polyurethane
+New and uncoated
+existing
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 3.1M-G6 
+(Gloss)
+MPI REX 3.1M-G6 
+(Gloss)
+N/A
+MPI 72
+MPI 72
+Per 
+Manufacturer
+Surface preparation and number of coats in accordance with manufacturer's instructions.
+(3) [New and uncoated existing][ and ][Existing, previously painted] 
+concrete, elastomeric system; vertical surfaces, including undersides of 
+balconies and soffits but excluding tops of slabs
+**************************************************************************
+NOTE:  Use MPI 10, MPI 11, or MPI 119 on new 
+cast-in-place concrete walls.  Use MPI 42, for 
+accent panels, special effect, or ceilings.
+**************************************************************************
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 38 currently has 
+approved products from fewer than three 
+manufacturers. Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Elastomeric Coating
+New and uncoated
+existing
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 3.1F-G1 
+(Flat)
+MPI REX 3.1F-G1 
+(Flat)
+Per 
+Manufacturer
+MPI 113
+MPI 113
+400 microns
+16 mils
+SECTION 09 90 00  Page 51
+
+
+=====PAGE 52
+MPI EXT 
+3.1F-G2/3 
+(Velvet)
+MPI REX 
+3.1F-G2/3 (Velvet)
+Per 
+Manufacturer
+MPI 38
+MPI 38
+400 microns
+16 mils
+Primer as recommended by manufacturer.
+Topcoat:  Coating to match adjacent surfaces.
+Surface preparation and number of coats in accordance with manufacturer's instructions.
+NOTE:  Apply sufficient coats to achieve a minimum dry film thickness of  400 microns 
+16 mils.
+B.  Concrete; Swimming Pools
+**************************************************************************
+NOTE:  If a project includes swimming pools, consult 
+with a knowledgeable expert to select an appropriate 
+coating.  Identify the coating type, surface 
+preparation, and thickness in this paint schedule.  
+Chlorinated rubber coatings are common choices but 
+due to their high VOC content may not be locally 
+available.
+**************************************************************************
+(1) [New and uncoated existing][ and ][Existing, previously painted] 
+concrete:  Walls and bottom of swimming pools
+Swimming Pool Paint
+New and
+uncoated
+existing
+Existing,
+previously
+painted
+Primer
+Intermediate
+Topcoat
+System DFT
+Per
+Manufacturer
+Per 
+Manufacturer
+Per 
+Manufacturer
+Per 
+Manufacturer
+Per 
+Manufacturer
+Per
+Manufacturer
+Primer as recommended by manufacturer.
+Surface preparation and number of coats in accordance with manufacturer's instructions.
+C.  Cementitious Composition Board
+(1) [New][ and ][Existing] Cementitious composition board (including 
+Asbestos cement board)
+Latex
+New and uncoated
+existing
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+SECTION 09 90 00  Page 52
+
+
+=====PAGE 53
+MPI EXT 3.3A-G1
+ (Flat)
+MPI REX 3.3A-G1 
+(Flat)
+MPI 10
+MPI 10
+MPI 10
+Per 
+Manufacture
+MPI EXT 3.3A-G5 
+(Semigloss)
+MPI REX 3.3A-G5 
+(Semigloss)
+MPI 11
+MPI 11
+MPI 11
+Per 
+Manufacture
+MPI EXT 3.3A
+-G6 (Gloss)
+ MPI REX 3.3A-G6 
+(Gloss)
+MPI 119
+MPI 119
+MPI 119
+Per 
+Manufacture
+Topcoat:  Coating to match adjacent surfaces.
+3.12.1.2   MPI Division 4:  Exterior Concrete Masonry Units Paint Table
+**************************************************************************
+NOTE:  MPI Division 4:  Exterior Concrete Masonry 
+Units Paint Table.  For applications of high-build 
+glaze finishes over concrete masonry units requiring 
+block filler that meets resistance to wind-driven 
+rain or resistance to hydrostatic pressure, specify 
+filler materials and application of MPI 72.
+Color:  The main reason for painting concrete 
+masonry is to obtain desired color.  Before 
+specifying paint systems, coordinate with other 
+specification sections to confirm that concrete 
+masonry does not have special waterproof finish or 
+applied, colored cementitious finish and that it 
+does not have color pigment integral with mix.
+**************************************************************************
+A.  [New][ and ][Existing] concrete masonry; on uncoated surface
+Latex
+New
+Existing
+Block 
+Filler
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 4.2A-G1 
+(Flat)
+MPI REX 4.2A-G1 
+(Flat)
+MPI 4
+N/A
+MPI 10
+MPI 10
+275 microns
+11 mils
+MPI EXT 4.2A-G5 
+(Semigloss)
+MPI REX 4.2A-G5 
+(Semigloss)
+MPI 4
+N/A
+MPI 11
+MPI 11
+275 microns
+11 mils
+MPI EXT 4.2A-G6 
+(Gloss)
+MPI REX 4.2A-G6 
+(Gloss)
+MPI 4
+N/A
+MPI 119
+MPI 119
+275 microns
+ 11 mils
+Topcoat:  Coating to match adjacent surfaces.
+Pigmented Polyurethane
+New
+Existing
+Block 
+Filler
+Primer
+Intermediate
+Topcoat
+System DFT
+SECTION 09 90 00  Page 53
+
+
+=====PAGE 54
+MPI EXT 4.2G-G6 
+(Gloss)
+MPI REX 4.2G-G6 
+(Gloss)
+Per 
+Manufactu
+N/A
+MPI 72
+MPI 72
+Per 
+Manufacturer
+Surface preparation and number of coats in accordance with manufacturer's instructions.
+B.  [New][ and ][Existing] concrete masonry, textured system; on uncoated 
+surface
+Latex Aggregate
+New
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 4.2B-G1 
+(Flat)
+MPI REX 3.1A-G1 
+(Flat)
+MPI 42
+MPI 42
+MPI 10
+Per 
+Manufacturer
+MPI EXT 4.2B-G5 
+(Semigloss)
+MPI REX 3.1A-G5 
+(Semigloss)
+MPI 42
+MPI 42
+MPI 11
+Per 
+Manufacturer
+MPI EXT 4.2B-G6 
+(Gloss)
+MPI REX 3.1A-G6 
+(Gloss)
+MPI 42
+MPI 42
+MPI 119
+Per 
+Manufacturer
+Texture - [Fine] [Medium] [Coarse].  
+Surface preparation and number of coats in accordance with manufacturer's 
+instructions.  
+Topcoat:  Coating to match adjacent surfaces.
+Pigmented Polyurethane
+New
+Existing
+Block 
+Filler
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 4.2G-G6 
+(Gloss)
+MPI REX 4.2G-G6 
+(Gloss)
+Per 
+Manufactu
+N/A
+MPI 72
+MPI 72
+Per 
+Manufacturer
+Surface preparation and number of coats in accordance with manufacturer's instructions.
+C.  [New][ and ][Existing] concrete masonry, elastomeric system; on 
+uncoated surfaces.
+Elastomeric Coating
+New and uncoated
+existing
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+SECTION 09 90 00  Page 54
+
+
+=====PAGE 55
+MPI EXT 3.1F-G1 
+(Flat)
+MPI REX 3.1F-G1 
+(Flat)
+Per 
+Manufacturer
+MPI 113
+MPI 113
+400 microns
+16 mils
+Primer as recommended by manufacturer.
+Topcoat:  Coating to match adjacent surfaces.
+Surface preparation and number of coats in accordance with manufacturer's instructions.
+NOTE:  Apply sufficient coats of MPI 113 to achieve a minimum dry film thickness of  
+400 microns 16 mils.
+3.12.1.3   MPI Division 5:  Exterior Metal, Ferrous and Non-Ferrous Paint 
+Table
+**************************************************************************
+NOTE:  For high-temperature applications, refer to 
+Section 09 96 00 HEAT- AND CHEMICAL-RESISTANT 
+COATINGS.  These high performance coatings are 
+normally used to meet heat-resistant requirements 
+and can be applied to concrete, masonry, 
+carbon-steel, alloyed-steel, galvanized metal, 
+passivated metal, and wood.
+**************************************************************************
+A.  Steel / Ferrous Surfaces
+(1) New Steel that has been hand or power tool cleaned to SSPC SP 2 or 
+SSPC SP 3
+Alkyd
+New
+Existing, uncoated
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 5.1Q-G5 
+(Semigloss)
+MPI REX 5.1D-G5 
+(Semigloss)
+MPI 23
+MPI 94
+MPI 94
+131 microns
+5.25 mils
+MPI EXT 5.1Q-G6 
+(Gloss)
+ MPI REX 5.1D-G6 
+(Gloss)
+MPI 23
+MPI 9
+MPI 9
+131 microns
+5.25 mils
+Topcoat:  Coating to match adjacent surfaces.
+(2) New Steel that has been blast-cleaned to SSPC SP 6/NACE No.3
+Alkyd
+New
+Existing, uncoated
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 5.1D-G5 
+(Semigloss)
+MPI REX 5.1D-G5 
+(Semigloss)
+MPI 79
+MPI 94
+MPI 94
+131 microns
+5.25 mils
+SECTION 09 90 00  Page 55
+
+
+=====PAGE 56
+MPI EXT 5.1D-G6 
+(Gloss)
+ MPI REX 5.1D-G6 
+(Gloss)
+MPI 79
+MPI 9
+MPI 9
+131 microns
+5.25 mils
+Topcoat:  Coating to match adjacent surfaces.
+(3) Existing steel that has been spot-blasted to SSPC SP 6/NACE No.3
+**************************************************************************
+NOTE:  Use MPI 72 in severe environments for a 
+durable, glossy appearance.  Use latex systems where 
+MPI 20, MPI 101, or MPI 108 is not allowed.  MPI 72, 
+urethane is allowed in California.  For selection of 
+top coats, use the first bracketed option for 
+geographic areas that do not have harsh 
+environmental conditions.  Use the second bracketed 
+option for areas that have harsh corrosive 
+environments.
+**************************************************************************
+(a) Surface previously coated with alkyd or latex
+Waterborne Light Industrial Coating
+Existing, previously
+coated with alkyd or
+latex
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI REX 5.1C-G5 
+(Semigloss)
+MPI 79
+MPI 163
+MPI 163
+125 microns5 
+mils
+MPI REX 5.1C-G6 (Gloss)
+MPI 79
+MPI 164
+MPI 164
+125 microns5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+(b) Surfaces previously coated with epoxy
+Waterborne Light Industrial Coating
+Existing, previously
+coated with epoxy
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI REX 5.1L-G5 
+(Semigloss)
+MPI 101
+MPI 163
+MPI 163
+125 microns5 
+mils
+MPI REX 5.1L-G6 (Gloss) MPI 101
+MPI 164
+MPI 164
+125 microns5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+SECTION 09 90 00  Page 56
+
+
+=====PAGE 57
+Pigmented Polyurethane
+Existing, previously
+coated with epoxy
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI REX 5.1H-G6 (Gloss) MPI 101
+MPI 108
+MPI 72
+212 microns8.5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+(4) New[ and existing] steel blast cleaned to SSPC SP 10/NACE No. 2
+Waterborne Light Industrial
+New
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 5.1R-G5 
+(Semigloss)
+MPI EXT 5.1R-G5 
+(Semigloss)
+MPI 101
+MPI 108
+MPI 163
+212 microns
+8.5 mils
+MPI EXT 5.1R-G6 
+(Gloss)
+MPI EXT 5.1R-G6 
+(Gloss)
+MPI 101
+MPI 108
+MPI 164
+212 microns
+8.5 mils
+Topcoat:  Coating to match adjacent surfaces.
+Pigmented Polyurethane
+New
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 5.1J-G6 
+(Gloss)
+MPI EXT 5.1J-G6 
+(Gloss)
+MPI 101
+MPI 108
+MPI 72
+212 microns
+8.5 mils
+Topcoat:  Coating to match adjacent surfaces.
+(5) Metal floors (non-shop-primed surfaces or non-slip deck surfaces) with 
+non-skid additive (NSA), load at manufacturer's recommendations
+Epoxy
+New
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 5.1S-G5 
+(Semi Gloss)
+MPI EXT 5.1S-G5 
+(Semi Gloss)
+MPI 120
+MPI 177
+MPI 177
+131 microns
+5.25 mils
+MPI EXT 5.1S-G6 
+(Gloss)
+MPI EXT 5.1S-G6 
+(Gloss)
+MPI 120
+MPI 77
+MPI 77
+131 microns
+5.25 mils
+SECTION 09 90 00  Page 57
+
+
+=====PAGE 58
+Topcoat:  Coating to match adjacent surfaces.
+Load Non-Skid Additive at manufacturer's recommendations.
+B.  Exterior Galvanized Surfaces
+(1) New Galvanized surfaces
+**************************************************************************
+NOTE:  For overcoating existing alkyd, latex or 
+epoxy systems refer to Evaluation Section of MPI 
+Repaint Manual.
+In the first option, select appropriate top coat.  
+Use first top coat option for geographic areas that 
+do not have harsh environmental conditions.  Use the 
+second top coat option for areas that have harsh, 
+corrosive environments.
+**************************************************************************
+Waterborne Primer / Latex
+New Galvanized
+Surfaces
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 5.3H-G1 
+(Flat)
+MPI 134
+MPI 10
+MPI 10
+112 microns4.5 
+mils
+EXT 5.3H-G5 
+(Semigloss)
+MPI 134
+MPI 11
+MPI 11
+112 microns4.5 
+mils
+MPI EXT 5.3H-G6 
+(Gloss)
+MPI 134
+MPI 119
+MPI 119
+112 microns4.5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Waterborne Primer / Waterborne Light Industrial Coating
+New Galvanized
+Surfaces
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 5.3J-G5 
+(Semigloss)
+MPI 134
+MPI 163
+MPI 163
+112 microns4.5 
+mils
+MPI EXT 5.3J-G6 
+(Gloss)
+MPI 134
+MPI 164
+MPI 164
+112 microns4.5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Epoxy Primer / Waterborne Light Industrial Coating
+SECTION 09 90 00  Page 58
+
+
+=====PAGE 59
+New Galvanized
+Surfaces
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 5.3K-G5 
+(Semigloss)
+MPI 101
+MPI 163
+MPI 163
+125 microns5 
+mils
+MPI EXT 5.3K-G6 
+(Gloss)
+MPI 101
+MPI 164
+MPI 164
+125 microns5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Pigmented Polyurethane
+New Galvanized
+Surfaces
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 5.3L-G6 
+(Gloss)
+MPI 101
+N/A
+MPI 72
+125 microns5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+(2)  Galvanized surfaces with slight coating deterioration; little or no 
+rusting
+**************************************************************************
+NOTE:  For overcoating existing alkyd, latex or 
+epoxy systems refer to Evaluation Section of MPI 
+Repaint Manual.
+**************************************************************************
+Waterborne Light Industrial Coating
+Galvanized Surfaces
+with slight coating
+deterioration
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI REX 5.3J-G5 
+(Semigloss)
+MPI 134
+N/A
+MPI 163
+112 microns4.5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Pigmented Polyurethane
+Galvanized Surfaces
+with slight coating
+deterioration
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI REX 5.3D-G6 
+(Gloss)
+MPI 101
+N/A
+MPI 72
+125 microns5 
+mils
+SECTION 09 90 00  Page 59
+
+
+=====PAGE 60
+Topcoat:  Coating to match adjacent surfaces.
+(3) Galvanized surfaces with severely deteriorated coating or rusting
+Waterborne Light Industrial Coating
+Galvanized surfaces
+with severely
+deteriorated coating
+or rusting
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI REX 
+5.3L-G5(Semigloss)
+MPI 101
+MPI 108
+MPI 163
+212 microns8.5 
+mils
+MPI REX 5.3L-G6(Gloss) MPI 101
+MPI 108
+MPI 164
+212 microns8.5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Pigmented Polyurethane
+Galvanized surfaces
+with severely
+deteriorated
+coating or rusting
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI REX 
+5.3D-G6(Gloss)
+MPI 101
+MPI 72
+MPI 72
+125 microns5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+C.  Exterior Surfaces, Other Metals (Non-Ferrous)
+(1) Aluminum, aluminum alloy and other miscellaneous non-ferrous metal 
+items not otherwise specified except hot metal surfaces, roof surfaces, 
+and new prefinished equipment
+Alkyd
+New Galvanized
+Surfaces
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 5.4F-G1 
+(Flat
+MPI 95
+MPI 8
+MPI 8
+125 microns5 
+mils
+MPI EXT 5.4F-G5 
+(Semigloss)
+MPI 95
+MPI 94
+MPI 94
+125 microns5 
+mils
+SECTION 09 90 00  Page 60
+
+
+=====PAGE 61
+MPI EXT 5.4F-G6 
+(Gloss)
+MPI 95
+MPI 9
+MPI 9
+125 microns5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Waterborne Light Industrial Coating
+New Galvanized
+Surfaces
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 5.4F-G1 
+(Flat
+MPI 95
+MPI 161
+MPI 161
+125 microns5 
+mils
+MPI EXT 5.4F-G5 
+(Semigloss)
+MPI 95
+MPI 163
+MPI 163
+125 microns5 
+mils
+MPI EXT 5.4F-G6 
+(Gloss)
+MPI 95
+MPI 164
+MPI 164
+125 microns5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+(2) Existing roof surfaces previously coated
+Aluminum Pigmented Asphalt Roof Coating
+Existing roof
+surfaces previously
+coated
+N/A
+Intermediate
+Topcoat
+System DFT
+Non-MPI System
+ASTM D2824/D2824M N/A
+N/A
+200 microns8 
+mils
+Sufficient coats to provide not less than 200 microns 8 mils of finished coating system 
+(without asbestos fibers).
+Aluminum Paint
+Existing roof
+surfaces previously
+coated
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI REX 10.2D
+MPI 107
+MPI 1
+MPI 1
+88 microns3.5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+(3) Surfaces adjacent to painted surfaces;[ Mechanical,][ Electrical,][ 
+SECTION 09 90 00  Page 61
+
+
+=====PAGE 62
+Fire extinguishing sprinkler systems including valves, conduit, hangers, 
+supports,][ exposed copper piping,][ and miscellaneous metal items] not 
+otherwise specified except floors, hot metal surfaces, and new prefinished 
+equipment
+Alkyd
+New
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 5.1D-G1 (Flat)
+MPI 79
+MPI 8
+MPI 8
+131 microns5.25 
+mils
+MPI EXT 5.1D-G5 
+(Semigloss)
+MPI 79
+MPI 94
+MPI 94
+131 microns5.25 
+mils
+MPI EXT 5.1D-G6 (Gloss) MPI 79
+MPI 9
+MPI 9
+131 microns5.25 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Waterborne Light Industrial Coating
+New
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 
+5.1C-G3(Eggshell)
+MPI 79 
+MPI 161
+MPI 161
+125 microns5 mils
+MPI EXT 
+5.1C-G5(Semigloss)
+MPI 79 
+MPI 163
+MPI 163
+125 microns5 mils
+MPI EXT 5.1C-G6(Gloss)
+MPI 79 
+MPI 164
+MPI 164
+125 microns5 mils
+Primer as recommended by manufacturer.
+Topcoat:  Coating to match adjacent
+ surfaces.
+3.12.1.4   MPI Division 6:  Exterior Wood; Dressed Lumber, Paneling, 
+Decking, Shingles Paint Table
+A.  New[ and Existing, uncoated] Dressed lumber, Wood and plywood, trim, 
+[including top, bottom and edges of doors] not otherwise specified
+Alkyd
+New
+Existing,
+uncoated
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 6.3B-G5 
+(Semigloss)
+MPI EXT 6.3B-G5 
+(Semigloss)
+MPI 5
+MPI 94
+MPI 94
+125 microns
+5 mils
+MPI EXT 6.3B-G6 
+(Gloss)
+MPI EXT 6.3B-G6 
+(Gloss)
+MPI 5
+MPI 9
+MPI 9
+125 microns
+5 mils
+SECTION 09 90 00  Page 62
+
+
+=====PAGE 63
+Topcoat:  Coating to match adjacent surfaces.
+Latex
+New
+Existing, uncoated
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 6.3A-G1 
+(Flat)
+MPI EXT 6.3A-G1 
+(Flat)
+MPI 5
+MPI 10
+MPI 10
+125 microns5 
+mils
+MPI EXT 6.3A-G5 
+(Semigloss)
+MPI EXT 6.3B-G5 
+(Semigloss)
+MPI 5
+MPI 11
+MPI 11
+125 microns5 
+mils
+MPI EXT 6.3A-G6 
+(Gloss)
+MPI EXT 6.3B-G6 
+(Gloss)
+MPI 5
+MPI 119
+MPI 119
+125 microns5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Waterborne Solid Color Stain
+New
+Existing, uncoated
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 6.3K
+MPI EXT 6.3K
+MPI 5
+MPI 16
+MPI 16
+106 microns
+4.25 mils
+Topcoat:  Coating to match adjacent surfaces.
+B.  Existing, dressed lumber, Wood and plywood, trim,[ including top, 
+bottom and edges of doors] previously coated with an alkyd / oil based 
+finish coat not otherwise specified
+Alkyd
+Existing,
+previously coated
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI REX 6.3B-G5 
+(Semigloss)
+MPI 5
+MPI 94
+MPI 94
+125 microns5 
+mils
+MPI REX 6.3B-G6 
+(Gloss)
+MPI 5
+MPI 9
+MPI 9
+125 microns5 
+mils
+Latex
+Existing, previously
+coated
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI REX 6.3A-G1 (Flat)
+MPI 5
+MPI 10
+MPI 10
+125 microns5 mils
+MPI REX 6.3B-G5 
+(Semigloss)
+MPI 5
+MPI 11
+MPI 11
+125 microns5 mils
+SECTION 09 90 00  Page 63
+
+
+=====PAGE 64
+MPI REX 6.3B-G6 (Gloss) MPI 5
+MPI 119
+MPI 119
+125 microns5 mils
+C.  Existing, dressed lumber, Wood and plywood, trim,[ including top, 
+bottom and edges of doors] previously coated with a latex / waterborne 
+finish coat not otherwise specified
+Latex
+Existing, previously
+coated
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI REX 6.3L-G1 (Flat)
+MPI 6
+MPI 10
+MPI 10
+112 microns4.5 
+mils
+MPI REX 6.3L-G5 
+(Semigloss)
+MPI 6
+MPI 11
+MPI 11
+112 microns4.5 
+mils
+MPI REX 6.3L-G6 (Gloss) MPI 6
+MPI 119
+MPI 119
+112 microns4.5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Waterborne Solid Color Stain
+Existing, previously
+coated
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 6.3K
+MPI 6
+MPI 16
+MPI 16
+100 microns
+4 mils
+Topcoat:  Coating to match adjacent surfaces.
+D.  Wood Siding
+(1) New, Uncoated wood siding
+Semi-Transparent Stain
+New
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 6.3D
+N/A
+MPI 13
+MPI 13
+Per Manufacturer
+Topcoat:  Coating to match adjacent surfaces.
+(2) Existing, previously stained wood siding
+Latex
+Existing, previously
+stained
+Primer
+Intermediate
+Topcoat
+System DFT
+SECTION 09 90 00  Page 64
+
+
+=====PAGE 65
+MPI REX 6.2K-G1 (Flat)
+MPI 5
+MPI 10
+MPI 10
+112 microns4.5 
+mils
+MPI REX 6.2K-G5 
+(Semigloss)
+MPI 5
+MPI 11
+MPI 11
+112 microns4.5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+(3) Existing Uncoated or previously semitransparent stained wood siding
+Semi-Transparent Stain
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI REX 6.3D
+N/A
+MPI 13
+MPI 13
+Per Manufacturer
+Topcoat:  Coating to match adjacent surfaces.
+E.  Wood:  [Steps, ][platforms, ][ floors of open porches, ]and [_____][ 
+with non-skid additive (NSA), load at manufacturer's recommendations.]
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 68 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Latex Floor Paint
+New
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 6.5A-G2 (Flat)
+MPI 5
+MPI 60 [plus NSA] MPI 60 [plus 
+NSA]
+112 microns4.5 
+mils
+MPI EXT 6.5A-G6 (Gloss)
+MPI 5
+MPI 68 [plus NSA] MPI 68 [plus 
+NSA]
+112 microns4.5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Load non-skid additive (NSA) at manufacturer's recommendations.
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 59 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+SECTION 09 90 00  Page 65
+
+
+=====PAGE 66
+satisfied by multiple sources.
+**************************************************************************
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 27 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Alkyd Floor Paint
+New
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 6.5B-G2 (Flat)
+MPI 59
+MPI 59 [plus NSA] MPI 59 [plus 
+NSA]
+125 microns5 
+mils
+MPI EXT 6.5B-G6 (Gloss) MPI 27
+MPI 27 [plus NSA] MPI 27 [plus 
+NSA]
+125 microns5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Load non-skid additive (NSA) at manufacturer's recommendations.
+3.12.1.5   MPI Division 9:  Exterior Stucco Paint Table
+**************************************************************************
+NOTE:  (MPI DIVISION 9:  EXTERIOR STUCCO PAINT TABLE)
+Color:  The main reason for painting stucco is to 
+obtain desired color.  Before specifying paint 
+systems, coordinate with other specification 
+sections to confirm that stucco does not have 
+special waterproof finish or applied, colored 
+cementitious finish and that stucco does not have 
+color pigment integral with mix.
+**************************************************************************
+A.  [New][ and Existing] stucco
+Latex
+New
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 9.1A-G1 
+(Flat)
+MPI REX 9.1A-G2 
+(Flat
+MPI 10
+MPI 10
+MPI 10
+112 microns
+4.5 mils
+MPI EXT 9.1A-G5 
+(Semigloss)
+MPI REX 9.1A-G5 
+(Semigloss)
+MPI 11
+MPI 11
+MPI 11
+112 microns
+4.5 mils
+MPI EXT 9.1A-G6 
+(Gloss)
+MPI REX 9.1A-G6 
+(Gloss)
+MPI 119
+MPI 119
+MPI 119
+112 microns
+4.5 mils
+SECTION 09 90 00  Page 66
+
+
+=====PAGE 67
+Primer as recommended by manufacturer.
+Topcoat:  Coating to match adjacent surfaces.
+On existing stucco, apply primer based on surface
+ condition.
+B.  [New][ and ][Existing] stucco, elastomeric system
+Elastomeric Coating
+New
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 9.1C-G1 
+(Flat)
+MPI REX 9.1C-G1 
+(Flat)
+N/A
+MPI 113
+MPI 113
+400 microns
+16 mils
+Primer as recommended by manufacturer.
+Topcoat:  Coating to match adjacent surfaces.
+Surface preparation and number of coats in accordance with manufacturer's instructions
+Apply sufficient coats of MPI 113 to achieve a minimum dry film thickness of 400 microns
+ 16 mils.
+3.12.1.6   MPI Division 10:  Exterior Cloth Coverings and Bituminous Coated 
+Surfaces Paint Table
+A.  Insulation and surfaces of insulation coverings (canvas, cloth, 
+paper): (Interior and Exterior Applications)
+Latex
+New
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI EXT 10.1A-G1 (Flat) N/A
+MPI 10
+MPI 10
+80 microns3.2 
+mils
+MPI EXT 10.1A-G5 
+(Semigloss)
+N/A
+MPI 11
+MPI 11
+80 microns3.2 
+mils
+MPI EXT 10.1A-G6 
+(Gloss)
+N/A
+MPI 119
+MPI 119
+80 microns3.2 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+3.12.2   Interior Paint Tables
+**************************************************************************
+NOTE:  The following Tables / paragraphs are 
+tailored for inclusion in projects with interior 
+painting.
+**************************************************************************
+**************************************************************************
+NOTE:  Consider latex paint options for occupied 
+buildings and where strong odors would be 
+objectionable.  Where allowable, consider eggshell 
+or semigloss enamel in lieu of flat paint for areas 
+subject to soiling where gloss is not desired.
+SECTION 09 90 00  Page 67
+
+
+=====PAGE 68
+For existing surfaces with alkyd enamel coating, do 
+not specify latex paint which does not bond well to 
+enamel.
+**************************************************************************
+**************************************************************************
+NOTE:  MPI paint No. 54 is mildew resistant paint.  
+Specify this paint in the Tables for MPI Division 3 
+and 5 in high humidity locations or project 
+locations with Environmental Severity 
+Classifications (ESC) of C4 and C5.  Humid locations 
+are those in ASHRAE climate zones 0A, 1A, 2A, 3A, 4C 
+and 5C (as identified in ASHRAE 90.1).
+**************************************************************************
+**************************************************************************
+NOTE:  For high-temperature applications, refer to 
+Section 09 96 00 HEAT- AND CHEMICAL-RESISTANT 
+COATINGS.  These heat- and chemical-resistant 
+coatings are used to meet heat-resistant 
+requirements and can be applied to concrete, 
+masonry, carbon-steel, alloyed-steel, galvanized 
+metal, passivated metal, and wood.
+**************************************************************************
+3.12.2.1   MPI Division 3:  Interior Concrete Paint Table
+A.  [New and uncoated existing][ and Existing, previously painted] 
+Concrete, vertical surfaces, not specified otherwise
+Latex
+New, uncoated
+Existing
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 3.1A-G2 
+(Flat)
+MPI RIN 3.1A-G2 
+(Flat)
+MPI 3
+MPI 44
+MPI 44
+100 microns4 
+mils
+MPI INT 3.1A-G3 
+(Eggshell)
+MPI RIN 3.1A-G3 
+(Eggshell)
+MPI 3
+MPI 52
+MPI 52
+100 microns4 
+mils
+MPI INT 3.1A-G5
+MPI RIN 3.1A-G5 
+(Semigloss)
+MPI 3
+MPI 54
+MPI 54
+100 microns4 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+High Performance Architectural Latex
+New, uncoated
+Existing
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+SECTION 09 90 00  Page 68
+
+
+=====PAGE 69
+MPI INT 3.1C-G2 
+(Flat)
+MPI RIN 3.1J-G2 
+(Flat)
+MPI 3
+MPI 138
+MPI 138
+100 microns4 
+mils
+MPI INT 3.1C-G3 
+(Eggshell)
+MPI RIN 3.1J-G3 
+(Eggshell)
+MPI 3
+MPI 139
+MPI 139
+100 microns4 
+mils
+MPI INT 3.1C-G4 
+(satin)
+MPI RIN 3.1J-G4
+MPI 3
+MPI 140
+MPI 140
+100 microns4 
+mils
+MPI INT 3.1C-G5 
+(Semigloss)
+MPI RIN 3.1J-G5 
+(Semigloss)
+MPI 3
+MPI 141
+MPI 141
+100 microns4 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Institutional Low Odor / Low VOC Latex
+New, uncoated
+Existing
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 3.1M-G2 
+(Flat)
+MPI RIN 3.1L-G2 
+(Flat)
+MPI 149
+MPI 144
+MPI 144
+100 microns4 
+mils
+MPI INT 3.1M-G3 
+(Eggshell)
+MPI RIN 3.1L-G3 
+(Eggshell)
+MPI 149
+MPI 145
+MPI 145
+100 microns4 
+mils
+MPI INT 3.1M-G4 
+(satin)
+MPI RIN 3.1L-G4
+MPI 149
+MPI 146
+MPI 146
+100 microns4 
+mils
+MPI INT 3.1M-G5 
+(Semigloss)
+MPI RIN 3.1L-G5 
+(Semigloss)
+MPI 149
+MPI 147
+MPI 147
+100 microns4 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+B.  Concrete Ceilings, Uncoated
+**************************************************************************
+NOTE:  For hiding imperfections in new concrete 
+ceilings.  Do not specify in wet or humid areas or 
+for previously painted surfaces.
+**************************************************************************
+Latex Aggregate
+New, uncoated
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 3.1N-G1 (Flat)
+N/A
+N/A
+MPI 42
+Per Manufacturer
+SECTION 09 90 00  Page 69
+
+
+=====PAGE 70
+Texture - [Fine] [Medium] [Coarse].
+Surface preparation, number of coats, and primer in accordance with manufacturer's 
+instructions.
+Topcoat:  Coating to match adjacent surfaces.
+C.  [New and uncoated existing][ and ][Existing, previously painted] 
+Concrete in[ toilets,][ food-preparation,][ food-serving,][ restrooms,][ 
+laundry areas,][ shower areas,][ areas requiring a high degree of 
+sanitation,] [_____][ and other high-humidity areas] not otherwise 
+specified except floors
+**************************************************************************
+NOTE:  List other high humidity areas requiring 
+enamel finishes.  For tile-like finishes, filler 
+materials, and applications, specify application of 
+MPI 31, MPI 71, or MPI 72.
+**************************************************************************
+Waterborne Light Industrial Coating
+New, uncoated
+Existing
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 
+3.1L-G3(Eggshell)
+MPI RIN 
+3.1C-G3(Eggshell)
+MPI 3
+MPI 151
+MPI 151
+120 microns
+4.8 mils
+MPI INT 
+3.1L-G5(Semigloss)
+MPI RIN 
+3.1C-G5(Semigloss)
+MPI 3
+MPI 153
+MPI 153
+120 microns
+4.8 mils
+MPI INT 
+3.1L-G6(Gloss)
+MPI RIN 
+3.1C-G6(Gloss)
+MPI 3
+MPI 154
+MPI 154
+120 microns
+4.8 mils
+Topcoat:  Coating to match adjacent surfaces.
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 51 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 31 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 71 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+SECTION 09 90 00  Page 70
+
+
+=====PAGE 71
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Alkyd
+New, uncoated
+Existing
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 3.1D-G3 
+(Eggshell)
+MPI RIN 3.1D-G3 
+(Eggshell)
+MPI 3
+MPI 51 
+MPI 51 
+112 microns
+4.5 mils
+MPI INT 3.1D-G5 
+(Semigloss)
+MPI RIN 3.1D-G5 
+(Semigloss)
+MPI 3
+MPI 47
+MPI 47
+112 microns
+4.5 mils
+MPI INT 3.1D-G6 
+(Gloss)
+MPI RIN 3.1D-G6 
+(Gloss)
+MPI 3
+MPI 48
+MPI 48
+112 microns
+4.5 mils
+Topcoat:  Coating to match adjacent surfaces.
+Epoxy
+New, uncoated
+Existing
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 3.1F-G6 
+(Gloss)
+MPI RIN 3.1E-G6 
+(Gloss)
+MPI 77
+MPI 77
+MPI 77
+100 microns4 
+mils
+Note:  Primer may be reduced for penetration per manufacturer's instructions.
+Pigmented Polyurethane
+New
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 
+3.2D-G6 
+(Gloss)
+MPI RIN 
+3.2D-G6 
+(Gloss)
+Per 
+Manufacturer
+MPI 31
+MPI 31
+Per 
+Manufacturer
+MPI INT 
+3.2D-G6 
+(Gloss)
+MPI RIN 
+3.2D-G6 
+(Gloss)
+Per 
+Manufacturer
+MPI 71
+MPI 71
+Per 
+Manufacturer
+MPI INT 
+3.2D-G6 
+(Gloss)
+MPI RIN 
+3.2D-G6 
+(Gloss)
+Per 
+Manufacturer
+MPI 72
+MPI 72
+Per 
+Manufacturer
+Surface preparation and number of coats in accordance with manufacturer's instructions.
+D.  [New and uncoated existing][ and Existing, previously painted] 
+concrete walls and bottom of swimming pools
+**************************************************************************
+NOTE:  If a project includes swimming pools, consult 
+with a knowledgeable expert to select an appropriate 
+coating.  Identify the coating type, surface 
+SECTION 09 90 00  Page 71
+
+
+=====PAGE 72
+preparation, and thickness in this paint schedule.  
+Chlorinated rubber coatings are common choices but 
+due to their high VOC content may not be locally 
+available.
+**************************************************************************
+Chlorinated Rubber
+New and
+uncoated
+existing
+Existing,
+previously
+painted
+Primer
+Intermediate
+Topcoat
+System DFT
+Chlorinated 
+Rubber
+Per 
+Manufacturer
+Per 
+Manufacturer
+Per 
+Manufacturer
+Per 
+Manufacturer
+Per 
+Manufacturer
+Note:  Primer may be reduced for penetration per manufacturer's instructions.
+Epoxy
+New, uncoated
+Existing
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 3.1F
+MPI RIN 3.1E
+MPI 77
+MPI 77
+MPI 77
+100 microns4 
+mils
+Note:  Primer may be reduced for penetration per manufacturer's instructions.
+E.  [New and uncoated existing][ and Existing, previously painted] 
+concrete floors in following areas [_____]
+Latex Floor Paint
+New, uncoated
+Existing
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 3.2A-G2 
+(Flat)
+MPI RIN 3.2A-G2 
+(Flat)
+MPI 60
+MPI 60
+MPI 60
+125 microns5 
+mils
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 59 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+SECTION 09 90 00  Page 72
+
+
+=====PAGE 73
+Alkyd Floor Paint
+New, uncoated
+Existing
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 3.2B-G2 
+(Flat)
+MPI RIN 3.2B-G2 
+(Flat)
+MPI 59
+MPI 59
+MPI 59
+125 microns5 
+mils
+Note:  Primer may be reduced for penetration per manufacturer's instructions.
+Epoxy
+New, uncoated
+Existing
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 3.2C-G6 
+(Gloss)
+MPI RIN 3.2C-G6 
+(Gloss)
+MPI 77
+MPI 77
+MPI 77
+125 microns5 
+mils
+Note:  Primer may be reduced for penetration per manufacturer's instructions.
+3.12.2.2   MPI Division 4:  Interior Concrete Masonry Units Paint Table
+**************************************************************************
+NOTE:  Use MPI 4 or MPI 116 block filler if smooth 
+surface is required on CMU surfaces.
+**************************************************************************
+A.  New[ and uncoated Existing] Concrete Masonry
+High Performance Architectural Latex
+New, uncoated
+Existing
+Filler
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 4.2D-G2 
+(Flat)
+MPI 4
+N/A
+MPI 139
+MPI 138
+275 microns11 
+mils
+MPI INT 4.2D-G3 
+(Eggshell)
+MPI 4
+N/A
+MPI 139
+MPI 139
+275 microns11 
+mils
+MPI INT 4.2D-G4 
+(Satin)
+MPI 4
+N/A
+MPI 140
+MPI 140
+275 microns11 
+mils
+MPI INT 4.2D-G5 
+(Semigloss)
+MPI 4
+N/A
+MPI 141
+MPI 141
+275 microns11 
+mils
+Fill all holes in masonry surface
+Institutional Low Odor / Low VOC Latex
+New, uncoated
+Existing
+Filler
+Primer
+Intermediate
+Topcoat
+System DFT
+SECTION 09 90 00  Page 73
+
+
+=====PAGE 74
+MPI INT 4.2E-G2 
+(Flat)
+MPI 4
+N/A
+MPI 144
+MPI 144
+100 microns4 
+mils
+MPI INT 4.2E-G3 
+(Eggshell)
+MPI 4
+N/A
+MPI 145
+MPI 145
+100 microns4 
+mils
+MPI INT 4.2E-G4 
+(Satin)
+MPI 4
+N/A
+MPI 146
+MPI 146
+100 microns4 
+mils
+MPI INT 4.2E-G5 
+(Semigloss)
+MPI 4
+N/A
+MPI 147 
+MPI 147 
+100 microns4 
+mils
+Fill all holes in masonry surface
+B.  Existing, Previously Painted Concrete Masonry
+High Performance Architectural Latex
+Existing,
+previously
+painted
+Filler
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI RIN 
+4.2K-G2 (Flat)
+N/A
+MPI 138
+MPI 138
+MPI 138
+112 microns
+4.5 mils
+MPI RIN 
+4.2K-G3 
+(Eggshell)
+N/A
+MPI 139
+MPI 139
+MPI 139
+112 microns
+4.5 mils
+MPI RIN 
+4.2K-G4
+N/A
+MPI 140
+MPI 140
+MPI 140
+112 microns
+4.5 mils
+MPI RIN 
+4.2K-G5 
+(Semigloss)
+N/A
+MPI 141
+MPI 141
+MPI 141
+112 microns
+4.5 mils
+Institutional Low Odor / Low VOC Latex
+Existing,
+previously
+painted
+Filler
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI RIN 
+4.2L-G2 (Flat)
+N/A
+MPI 144
+MPI 144
+MPI 144
+100 microns4 
+mils
+MPI RIN 
+4.2L-G3 
+(Eggshell)
+N/A
+MPI 145
+MPI 145
+MPI 145
+100 microns4 
+mils
+MPI RIN 
+4.2L-G4 
+(Satin)
+N/A
+MPI 146
+MPI 146
+MPI 146
+100 microns4 
+mils
+MPI RIN 
+4.2L-G5 
+(Semigloss)
+N/A
+MPI 147 
+MPI 147 
+MPI 147 
+100 microns4 
+mils
+C.  New[ and uncoated Existing] Concrete masonry units in[ toilets,][ 
+food-preparation,][ food-serving,][ restrooms,][ laundry areas,][ shower 
+areas,][ areas requiring a high degree of sanitation,] [_____][ and other 
+SECTION 09 90 00  Page 74
+
+
+=====PAGE 75
+high humidity areas] unless otherwise specified
+**************************************************************************
+NOTE:  List other high humidity areas requiring 
+enamel finishes.  For tile-like finishes, filler 
+materials, and applications, specify application of 
+MPI 72.
+**************************************************************************
+Waterborne Light Industrial Coating
+New, uncoated
+Existing
+Filler
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 
+4.2K-G3(Eggshell)
+MPI 4
+N/A
+MPI 151
+MPI 151
+275 microns11 
+mils
+MPI INT 
+4.2K-G5(Semigloss)
+MPI 4
+N/A
+MPI 153
+MPI 153
+275 microns11 
+mils
+MPI INT 
+4.2K-G6(Gloss)
+MPI 4
+N/A
+MPI 154
+MPI 154
+275 microns11 
+mils
+Fill all holes in masonry surface
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 51 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Alkyd
+New, uncoated
+Existing
+Filler
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 
+4.2K-G3(Eggshell)
+MPI 4
+MPI 50
+MPI 51
+MPI 51
+300 microns12 
+mils
+MPI INT 
+4.2K-G5(Semigloss)
+MPI 4
+MPI 50
+MPI 47
+MPI 47
+300 microns12 
+mils
+MPI INT 
+4.2K-G6(Gloss)
+MPI 4
+MPI 50
+MPI 48
+MPI 48
+300 microns12 
+mils
+Fill all holes in masonry surface
+SECTION 09 90 00  Page 75
+
+
+=====PAGE 76
+Epoxy
+New, uncoated
+Existing
+Filler
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 4.2G-G6 
+(Gloss)
+MPI 116
+N/A
+MPI 77
+MPI 77
+250 microns10 
+mils
+Fill all holes in masonry surface
+Pigmented Polyurethane
+New
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 
+4.2Q-G6 
+(Gloss)
+MPI RIN 
+4.2Q-G6 
+(Gloss)
+Per 
+Manufacturer
+MPI 72
+MPI 72
+Per 
+Manufacturer
+Surface preparation and number of coats in accordance with manufacturer's instructions.
+D.  Existing, previously painted, concrete masonry units in[ toilets,][ 
+food-preparation,][ food-serving,][ restrooms,][ laundry areas,][ shower 
+areas,][ areas requiring a high degree of sanitation,] [_____][ and other 
+high humidity areas] unless otherwise specified
+Waterborne Light Industrial Coating
+Existing, previously
+painted
+Filler
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI RIN 
+4.2G-G3(Eggshell)
+N/A
+MPI 151
+MPI 151
+MPI 151
+112 microns
+4.5 mils
+MPI RIN 
+4.2G-G5(Semigloss)
+N/A
+MPI 153
+MPI 153
+MPI 153
+112 microns
+4.5 mils
+MPI RIN 4.2G-G6(Gloss) N/A
+MPI 154
+MPI 154
+MPI 154
+112 microns
+4.5 mils
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 51 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Alkyd
+SECTION 09 90 00  Page 76
+
+
+=====PAGE 77
+Existing, previously
+painted
+Filler
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI RIN 4.2C-G3 
+(Eggshell)
+N/A
+MPI 17
+MPI 51
+MPI 51
+112 microns
+4.5 mils
+MPI RIN 4.2C-G5 
+(Semigloss)
+N/A
+MPI 17
+MPI 47
+MPI 47
+112 microns
+4.5 mils
+MPI RIN 4.2C-G6 
+(Gloss)
+N/A
+MPI 17
+MPI 48
+MPI 48
+112 microns
+4.5 mils
+Epoxy
+Existing, previously
+painted
+Filler
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI RIN 4.2D-G6 
+(Gloss)
+N/A
+MPI 77
+MPI 77
+MPI 77
+125 microns5 
+mils
+3.12.2.3   MPI Division 5:  Interior Metal, Ferrous and Non-Ferrous Paint 
+Table
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 51 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+A.  Interior Steel / Ferrous Surfaces
+(1) Metal,[ Mechanical,][ Electrical,][ Fire extinguishing sprinkler 
+systems including valves, conduit, hangers, supports,][ Surfaces adjacent 
+to painted surfaces (Match surrounding finish),][ exposed copper piping,][ 
+and miscellaneous metal items] not otherwise specified except floors, hot 
+metal surfaces, and new prefinished equipment
+High Performance Architectural Latex
+New, uncoated Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 5.1R-G2 (Flat)
+MPI 76
+MPI 138
+MPI 138
+125 microns
+5 mils
+MPI INT 5.1R-G3 
+(Eggshell)
+MPI 76
+MPI 139
+MPI 139
+125 microns
+5 mils
+MPI INT 5.1R-G5 
+(Semigloss)
+MPI 76
+MPI 141
+MPI 141
+125 microns
+5 mils
+SECTION 09 90 00  Page 77
+
+
+=====PAGE 78
+Topcoat:  Coating to match adjacent surfaces.
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 51 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Alkyd
+New, uncoated Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 5.1E-G2 (Flat)
+MPI 76
+MPI 49
+MPI 49
+131 microns5.25 
+mils
+MPI INT 5.1E-G3 
+(Eggshell)
+MPI 76
+MPI 51 
+MPI 51 
+131 microns5.25 
+mils
+MPI INT 5.1E-G5 
+(Semigloss)
+MPI 76
+MPI 47
+MPI 47
+131 microns5.25 
+mils
+MPI INT 5.1E-G6 (Gloss) MPI 76
+MPI 48
+MPI 48
+131 microns5.25 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+(2) Metal floors (non-shop-primed surfaces or non-slip deck surfaces) with 
+non-skid additive (NSA), load at manufacturer's recommendations
+Alkyd (over q.d. Alkyd Primer)
+New, uncoated Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 5.1E-G5 
+(Semi-Gloss)
+MPI 76
+MPI 47
+MPI 47
+131 microns5.25 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Epoxy
+New, uncoated Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+SECTION 09 90 00  Page 78
+
+
+=====PAGE 79
+MPI INT 5.1L-G6 (Gloss) MPI 101
+MPI 101
+MPI 101
+131 microns5.25 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+(3) Metal in[ toilets,][ food-preparation,][ food-serving,][ restrooms,][ 
+laundry areas,][ shower areas,][ areas requiring a high degree of 
+sanitation,] [_____][ and other high-humidity areas] not otherwise 
+specified except floors, hot metal surfaces, and new prefinished equipment
+**************************************************************************
+NOTE:  List other high humidity areas requiring 
+enamel finishes.  For tile-like finishes, filler 
+materials, and applications, specify application of 
+MPI 31, MPI 71, or MPI 72.
+**************************************************************************
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 51 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Alkyd
+New, uncoated Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 5.1E-G3 
+(Eggshell)
+MPI 76
+MPI 51 
+MPI 51 
+131 microns5.25 
+mils
+MPI INT 5.1E-G5 
+(Semigloss)
+MPI 76
+MPI 47
+MPI 47
+131 microns5.25 
+mils
+MPI INT 5.1E-G6 (Gloss) MPI 76
+MPI 48
+MPI 48
+131 microns5.25 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 51 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+SECTION 09 90 00  Page 79
+
+
+=====PAGE 80
+Alkyd; For Hand Tool Cleaning
+New, uncoated Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 5.1T-G3 
+(Eggshell)
+MPI 23
+MPI 51 
+MPI 51 
+131 microns5.25 
+mils
+MPI INT 5.1T-G5 
+(Semigloss)
+MPI 23
+MPI 47
+MPI 47
+131 microns5.25 
+mils
+MPI INT 5.1T-G6 (Gloss) MPI 23
+MPI 48
+MPI 48
+131 microns5.25 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Pigmented Polyurethane
+New, uncoated
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 5.1G-G6 
+(Gloss)
+Per Manufacturer
+MPI 72
+MPI 72
+Per Manufacturer
+Surface preparation and number of coats in accordance with manufacturer's instructions.
+(4) Ferrous metal in concealed damp spaces or in exposed areas having 
+unpainted adjacent surfaces as follows:  [_____]
+Aluminum Paint
+New, uncoated
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 5.1M
+MPI 76
+MPI 1
+MPI 1
+106 microns4.25 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+(5) Miscellaneous non-ferrous metal items not otherwise specified except 
+floors, hot metal surfaces, and new prefinished equipment.  Match 
+surrounding finish
+High Performance Architectural Latex
+New, uncoated Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 5.4F-G2 (Flat)
+MPI 95
+MPI 138
+MPI 138
+125 microns
+5 mils
+SECTION 09 90 00  Page 80
+
+
+=====PAGE 81
+MPI INT 5.4F-G3 
+(Eggshell)
+MPI 95
+MPI 139
+MPI 139
+125 microns
+5 mils
+MPI INT 5.4F-G4 (Satin) MPI 95
+MPI 140
+MPI 140
+125 microns
+5 mils
+MPI INT 5.4F-G5 
+(Semigloss)
+MPI 95
+MPI 141
+MPI 141
+125 microns
+5 mils
+Topcoat:  Coating to match adjacent surfaces.
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 51 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Alkyd
+New, uncoated Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 5.4J-G2 (Flat)
+MPI 95
+MPI 49 
+MPI 49 
+125 microns
+5 mils
+MPI INT 5.4J-G3 
+(Eggshell)
+MPI 95
+MPI 51
+MPI 51
+125 microns
+5 mils
+MPI INT 5.4J-G5 
+(Semigloss)
+MPI 95
+MPI 47
+MPI 47
+125 microns
+5 mils
+MPI INT 5.4J-G6 (Gloss) MPI 95
+MPI 48
+MPI 48
+125 microns
+5 mils
+Topcoat:  Coating to match adjacent surfaces.
+3.12.2.4   MPI Division 6:  Interior Wood Paint Table
+A.  Interior Wood and Plywood
+(1) New[ and Existing, uncoated] Wood and plywood not otherwise specified
+High Performance Architectural Latex
+New, uncoated Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+SECTION 09 90 00  Page 81
+
+
+=====PAGE 82
+MPI INT 6.4S-G3 
+(Eggshell)
+MPI 39
+MPI 139
+MPI 139
+112 microns4.5 
+mils
+MPI INT 6.4S-G4 (Satin) MPI 39
+MPI 140
+MPI 140
+112 microns4.5 
+mils
+MPI INT 6.4S-G5 
+(Semigloss)
+MPI 39
+MPI 141
+MPI 141
+112 microns4.5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 51 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Alkyd
+New, uncoated Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 6.4B-G3 
+(Eggshell)
+MPI 45
+MPI 51
+MPI 51
+112 microns
+4.5 mils
+MPI INT 6.4B-G5 
+(Semigloss)
+MPI 45
+MPI 47
+MPI 47
+112 microns
+4.5 mils
+MPI INT 6.4B-G6 (Gloss) MPI 45
+MPI 48
+MPI 48
+112 microns
+4.5 mils
+Topcoat:  Coating to match adjacent surfaces.
+Institutional Low Odor / Low VOC Latex
+New, uncoated
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 6.3V-G2 
+(Flat)
+MPI 39
+MPI 144
+MPI 144
+100 microns4 mils
+MPI INT 6.3V-G3 
+(Eggshell)
+MPI 39
+MPI 145
+MPI 145
+100 microns4 mils
+MPI INT 6.3V-G4 
+(Satin)
+MPI 39
+MPI 146
+MPI 146
+100 microns4 mils
+SECTION 09 90 00  Page 82
+
+
+=====PAGE 83
+MPI INT 6.3V-G5 
+(Semigloss)
+MPI 39
+MPI 147 
+MPI 147 
+100 microns4 mils
+(2) Existing, previously painted Wood and plywood not otherwise specified
+High Performance Architectural Latex
+Existing, previously
+painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI RIN 6.4B-G3 
+(Eggshell)
+MPI 39
+MPI 139
+MPI 139
+112 microns4.5 
+mils
+MPI RIN 6.4B-G4 (Satin)
+MPI 39
+MPI 140
+MPI 140
+112 microns4.5 
+mils
+MPI RIN 6.4B-G5 
+(Semigloss)
+MPI 39
+MPI 141
+MPI 141
+112 microns4.5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 51 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Alkyd
+Existing, previously
+painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI RIN 6.4C-G3 
+(Eggshell)
+MPI 46
+MPI 51
+MPI 51
+112 microns
+4.5 mils
+MPI RIN 6.4C-G5 
+(Semigloss)
+MPI 46
+MPI 47
+MPI 47
+112 microns
+4.5 mils
+MPI RIN 6.4C-G6 (Gloss) MPI 46
+MPI 48
+MPI 48
+112 microns
+4.5 mils
+Topcoat:  Coating to match adjacent surfaces.
+Institutional Low Odor / Low VOC Latex
+SECTION 09 90 00  Page 83
+
+
+=====PAGE 84
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI RIN 6.4D-G2 
+(Flat)
+MPI 39
+MPI 144
+MPI 144
+100 microns4 mils
+MPI RIN 6.4D-G3 
+(Eggshell)
+MPI 39
+MPI 145
+MPI 145
+100 microns4 mils
+MPI RIN 6.4D-G4 
+(Satin)
+MPI 39
+MPI 146
+MPI 146
+100 microns4 mils
+MPI RIN 6.4D-G5 
+(Semigloss)
+MPI 39
+MPI 147 
+MPI 147 
+100 microns4 mils
+B.  Interior New[ and Existing, previously finished or stained] Wood and 
+Plywood, except floors; natural finish or stained
+Natural finish, oil-modified polyurethane
+New
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 6.4J-G4
+MPI RIN 6.4L-G4
+MPI 57
+MPI 57
+MPI 57
+100 microns4 
+mils
+MPI INT 6.4J-G6 
+(Gloss)
+MPI RIN 6.4L-G6 
+(Gloss)
+MPI 56
+MPI 56
+MPI 56
+100 microns4 
+mils
+Stained, oil-modified polyurethane
+New
+Existing
+Stain
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 
+6.4E-G4
+MPI RIN 
+6.4G-G4
+MPI 90
+MPI 57
+MPI 57
+MPI 57
+100 microns4 
+mils
+MPI INT 
+6.4E-G6 
+(Gloss)
+MPI RIN 
+6.4G-G6 
+(Gloss)
+MPI 90
+MPI 56
+MPI 56
+MPI 56
+100 microns4 
+mils
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 71 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 31 currently has 
+approved products from fewer than three 
+SECTION 09 90 00  Page 84
+
+
+=====PAGE 85
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Stained, Moisture Cured Urethane
+New
+Existing
+Stain
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 
+6.4V-G2 (Flat)
+MPI RIN 
+6.4V-G2 
+(Flat)
+MPI 90
+MPI 71
+MPI 71
+MPI 71
+100 microns4 
+mils
+MPI INT 
+6.4V-G6 
+(Gloss)
+MPI RIN 
+6.4V-G6 
+(Gloss)
+MPI 90
+MPI 31
+MPI 31
+MPI 31
+100 microns4 
+mils
+C.  Interior New[ and Existing, previously finished or stained] Wood 
+Floors; Natural finish or stained
+Natural finish, oil-modified polyurethane
+New
+Existing,
+previously
+finished or stained
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 
+6.5C-G6 (Gloss)
+MPI RIN 6.5C-G6 
+(Gloss)
+MPI 56
+MPI 56
+MPI 56
+100 microns4 
+mils
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 31 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Natural finish, Moisture Cured Polyurethane
+New
+Existing,
+previously
+finished or
+stained
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 6.5K-G6 
+(Gloss)
+MPI RIN 6.5D-G6 
+(Gloss)
+MPI 31
+MPI 31
+MPI 31
+100 microns4 
+mils
+Stained, oil-modified polyurethane
+SECTION 09 90 00  Page 85
+
+
+=====PAGE 86
+New
+Existing,
+previously
+finished or
+stained
+Stain
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 6.5B-G6 
+(Gloss)
+MPI RIN 
+6.5B-G6 
+(Gloss)
+MPI 90
+MPI 56
+MPI 56
+MPI 56
+100 microns
+4 mils
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 31 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Stained, Moisture Cured Urethane
+New
+Existing,
+previously
+finished or
+stained
+Stain
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 6.4V-G6 
+(Gloss)
+MPI RIN 6.4V-G6 
+(Gloss)
+MPI 90
+MPI 31
+MPI 31
+MPI 31
+100 microns
+4 mils
+D.  New [and Existing, previously coated] Wood floors; pigmented finish
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 68 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Latex Floor Paint
+New
+Existing, 
+previously 
+finished
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 
+6.5G-G2 
+(Flat)
+MPI RIN 
+6.5J-G2 
+(Flat)
+MPI 45 
+MPI 60
+MPI 60
+112 microns
+4.5 mils
+SECTION 09 90 00  Page 86
+
+
+=====PAGE 87
+MPI INT 
+6.5G-G6 
+(Gloss)
+MPI RIN 
+6.5J-G6 
+(Gloss)
+MPI 45 
+MPI 68
+MPI 68
+112 microns
+4.5 mils
+Topcoat:  Coating to match adjacent surfaces.
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 59 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 27 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Alkyd Floor Paint
+New
+Existing, 
+previously 
+finished
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 
+6.5A-G2 (Flat)
+MPI RIN 
+6.5A-G2 
+(Flat)
+MPI 59
+MPI 59
+MPI 59
+112 microns
+4.5 mils
+MPI INT 
+6.5A-G6 
+(Gloss)
+MPI RIN 
+6.5A-G6 
+(Gloss)
+MPI 27
+MPI 27
+MPI 27
+112 microns
+4.5 mils
+Topcoat:  Coating to match adjacent surfaces.
+E.  Interior New[ and Existing, uncoated] wood surfaces in[ toilets,][ 
+food-preparation,][ food-serving,][ restrooms,][ laundry areas,][ shower 
+areas,][ areas requiring a high degree of sanitation,] [_____][ and other 
+high humidity areas] not otherwise specified
+**************************************************************************
+NOTE:  List other high humidity areas requiring 
+enamel finishes.  For tile-like finishes, filler 
+materials, and applications, specify MPI 72.
+**************************************************************************
+SECTION 09 90 00  Page 87
+
+
+=====PAGE 88
+Clear Polyurethane
+New, uncoated
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 6.2Q-G6 
+(Gloss)
+Per Manufacturer
+MPI 72
+MPI 72
+Per Manufacturer
+Surface preparation and number of coats in accordance with manufacturer's instructions.
+Waterborne Light Industrial
+New, uncoated Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 6.3P-G5 
+(Semigloss)
+MPI 45
+MPI 153
+MPI 153
+112 microns4.5 
+mils
+MPI INT 6.3P-G6 (Gloss) MPI 45
+MPI 154
+MPI 154
+112 microns4.5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Alkyd
+New, uncoated Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 6.3B-G5 
+(Semigloss)
+MPI 45
+MPI 47
+MPI 47
+112 microns4.5 
+mils
+MPI INT 6.3B-G6 (Gloss) MPI 45
+MPI 48
+MPI 48
+112 microns4.5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+F.  Existing, previously painted wood surfaces in[ toilets,][ 
+food-preparation,][ food-serving,][ restrooms,][ laundry areas,][ shower 
+areas,][ areas requiring a high degree of sanitation,] [_____][ and other 
+high humidity areas] not otherwise specified
+**************************************************************************
+NOTE:  List other high humidity areas requiring 
+enamel finishes.  For tile-like finishes, filler 
+materials, and applications, specify MPI 31, MPI 71, 
+or MPI 72.
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 31 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+SECTION 09 90 00  Page 88
+
+
+=====PAGE 89
+promoting full and open competition and can be 
+satisfied by multiple sources.
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 71 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+Pigmented Polyurethane
+Existing,
+previously
+finished
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI RIN 6.2N-G6 
+(Gloss)
+Per Manufacturer
+MPI 31
+MPI 31
+Per Manufacturer
+MPI RIN 6.2N-G6 
+(Gloss)
+Per Manufacturer
+MPI 71
+MPI 71
+Per Manufacturer
+MPI RIN 6.2A-G6 
+(Gloss)
+Per Manufacturer
+MPI 72
+MPI 72
+Per Manufacturer
+Surface preparation and number of coats in accordance with manufacturer's instructions.
+Waterborne Light Industrial
+Existing, previously
+finished
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI RIN 6.3P-G5 
+(Semigloss)
+MPI 39
+MPI 153
+MPI 153
+112 microns4.5 
+mils
+MPI RIN 6.3P-G6 (Gloss) MPI 39
+MPI 154
+MPI 154
+112 microns4.5 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Alkyd
+Existing, previously
+finished
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI RIN 6.3B-G5 
+(Semigloss)
+MPI 46
+MPI 47
+MPI 47
+112 microns4.5 
+mils
+MPI RIN 6.3B-G6 (Gloss) MPI 46
+MPI 48
+MPI 48
+112 microns4.5 
+mils
+SECTION 09 90 00  Page 89
+
+
+=====PAGE 90
+Topcoat:  Coating to match adjacent surfaces.
+G.  Interior New[ and Existing, previously finished or stained] Wood 
+Doors; Natural Finish or Stained
+Natural finish, oil-modified polyurethane
+New
+Existing,
+previously
+finished or
+stained
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 6.3K-G4
+MPI RIN 6.3K-G4
+MPI 57 
+MPI 57 
+MPI 57 
+100 microns4 
+mils
+MPI INT 6.3K-G6 
+(Gloss)
+MPI RIN 6.3K-G6 
+(Gloss)
+MPI 56
+MPI 56
+MPI 56
+100 microns4 
+mils
+Note:  Sand between all coats per manufacturers recommendations.
+Stained, oil-modified polyurethane
+New
+Existing,
+previously
+finished or
+stained
+Stain
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 6.3E-G4
+MPI RIN 
+6.3E-G4
+MPI 90
+MPI 57
+MPI 57
+MPI 57
+100 microns
+4 mils
+MPI INT 6.5B-G6 
+(Gloss)
+MPI RIN 
+6.5B-G6 
+(Gloss)
+MPI 90
+MPI 56
+MPI 56
+MPI 56
+100 microns
+4 mils
+Note:  Sand between all coats per manufacturers recommendations.
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 71 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+**************************************************************************
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 31 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+**************************************************************************
+SECTION 09 90 00  Page 90
+
+
+=====PAGE 91
+Stained, Moisture Cured Urethane
+New
+Existing,
+previously
+finished or
+stained
+Stain
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 6.4V-G2 
+(Flat)
+MPI RIN 6.4V-G2 
+(Flat)
+MPI 90
+MPI 71
+MPI 71
+MPI 71
+100 microns
+4 mils
+MPI INT 6.4V-G6 
+(Gloss)
+MPI RIN 6.4V-G6 
+(Gloss)
+MPI 90
+MPI 31
+MPI 31
+MPI 31
+100 microns
+4 mils
+Note:  Sand between all coats per manufacturers recommendations.
+H.  New [ and Existing, uncoated] Wood Doors; Pigmented finish
+Alkyd
+New, uncoated Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 6.3B-G5 
+(Semigloss)
+MPI 45
+MPI 47
+MPI 47
+112 microns4.5 
+mils
+MPI INT 6.3B-G6 (Gloss) MPI 45
+MPI 48
+MPI 48
+112 microns4.5 
+mils
+Note:  Sand between all coats per manufacturers recommendations.
+Pigmented Polyurethane
+New, uncoated Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 6.1E-G6 (Gloss) MPI 72
+MPI 72
+MPI 72
+112 microns4.5 
+mils
+Note:  Sand between all coats per manufacturers recommendations.
+I.  Existing, previously painted Wood Doors; Pigmented finish
+Alkyd
+Existing, previously
+finished
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI RIN 6.3B-G5 
+(Semigloss)
+MPI 46
+MPI 47
+MPI 47
+112 microns4.5 
+mils
+MPI RIN 6.3B-G6 (Gloss) MPI 46
+MPI 48
+MPI 48
+112 microns4.5 
+mils
+Note:  Sand between all coats per manufacturers recommendations.
+SECTION 09 90 00  Page 91
+
+
+=====PAGE 92
+3.12.2.5   MPI Division 9:  Interior Plaster, Gypsum Board, Textured 
+Surfaces Paint Table
+A.  Interior New[ and Existing, previously painted][ Plaster][ and][ 
+Wallboard] not otherwise specified
+Latex
+New
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 9.2A-G2 
+(Flat)
+RIN 9.2A-G2 (Flat) MPI 50
+MPI 44
+MPI 44
+100 microns4 
+mils
+MPI INT 9.2A-G3 
+(Eggshell)
+RIN 9.2A-G3 
+(Eggshell)
+MPI 50
+MPI 52
+MPI 52
+100 microns4 
+mils
+MPI INT 9.2A-G5 
+(Semigloss)
+RIN 9.2A-G5 
+(Semigloss)
+MPI 50
+MPI 54 
+MPI 54 
+100 microns4 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+High Performance Architectural Latex - High Traffic Areas
+New
+Existing,
+previously painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 9.2B-G2 
+(Flat)
+MPI RIN 9.2B-G2 
+(Flat)
+MPI 50
+MPI 138
+MPI 138
+100 microns
+4 mils
+MPI INT 9.2B-G3 
+(Eggshell)
+MPI RIN 9.2B-G3 
+(Eggshell)
+MPI 50
+MPI 139
+MPI 139
+100 microns
+4 mils
+MPI INT 9.2B-G5 
+(Semigloss)
+MPI RIN 9.2B-G5 
+(Semigloss)
+MPI 50
+MPI 141
+MPI 141
+100 microns
+4 mils
+Topcoat:  Coating to match adjacent surfaces.
+Institutional Low Odor / Low VOC Latex, New
+Institutional Low Odor / Low VOC Latex
+New
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 9.2M-G2 
+(Flat)
+MPI 149
+MPI 144
+MPI 144
+100 microns4 
+mils
+MPI INT 9.2M-G3 
+(Eggshell)
+MPI 149
+MPI 145
+MPI 145
+100 microns4 
+mils
+MPI INT 9.2M-G4 
+(Satin)
+MPI 149
+MPI 146
+MPI 146
+100 microns4 
+mils
+SECTION 09 90 00  Page 92
+
+
+=====PAGE 93
+MPI INT 9.2M-G5 
+(Semigloss)
+MPI 149
+MPI 147
+MPI 147
+100 microns4 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Institutional Low Odor / Low VOC Latex, Existing, previously painted
+Institutional Low Odor / Low VOC Latex
+Existing, previously
+painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI RIN 9.2M-G2 (Flat)
+MPI 144
+MPI 144
+MPI 144
+100 microns4 mils
+MPI RIN 9.2M-G3 
+(Eggshell)
+MPI 144
+MPI 145
+MPI 145
+100 microns4 mils
+MPI RIN 9.2M-G4 (Satin) MPI 144
+MPI 146
+MPI 146
+100 microns4 mils
+MPI RIN 9.2M-G5 
+(Semigloss)
+MPI 144
+MPI 147
+MPI 147
+100 microns4 mils
+Topcoat:  Coating to match adjacent surfaces.
+B.  Interior New[ and Existing, previously painted][ Plaster][ and][ 
+Wallboard] in[ toilets,][ food-preparation,][ food-serving,][ restrooms,][ 
+laundry areas,][ shower areas,][ areas requiring a high degree of 
+sanitation,] [_____][ and other high humidity areas] not otherwise 
+specified
+**************************************************************************
+NOTE:  List other high humidity areas requiring 
+enamel finishes.  For tile-like finishes, filler 
+materials, and applications, specify MPI 31, MPI 71, 
+or MPI 72.  These high performance coatings are 
+normally used to meet exposure-resistant 
+requirements and can be applied to wood, metal, and 
+concrete substrates.
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 31 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+satisfied by multiple sources.
+NOTE:  At the time of this Section revision, the MPI 
+Approved Product List for MPI 71 currently has 
+approved products from fewer than three 
+manufacturers.  Ensure that all requirements for 
+specified coatings comply with FAR requirements for 
+promoting full and open competition and can be 
+SECTION 09 90 00  Page 93
+
+
+=====PAGE 94
+satisfied by multiple sources.
+**************************************************************************
+Pigmented Polyurethane
+New, Uncoated
+Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 9.1A-G6 
+(Gloss)
+Per Manufacturer
+MPI 31
+MPI 31
+Per Manufacturer
+MPI INT 9.1A-G6 
+(Gloss)
+Per Manufacturer
+MPI 71
+MPI 71
+Per Manufacturer
+MPI INT 9.1A-G6 
+(Gloss)
+Per Manufacturer
+MPI 72
+MPI 72
+Per Manufacturer
+Surface preparation and number of coats in accordance with manufacturer's instructions.
+Waterborne Light Industrial Coating
+New, uncoated
+Existing
+Existing, 
+previously 
+painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 
+9.2L-G5(Semigloss)
+MPI RIN 9.2L-G5 
+(Semigloss)
+MPI 50
+MPI 153
+MPI 153
+100 microns4 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Alkyd
+New, uncoated
+Existing
+Existing, 
+previously 
+painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 9.2C-G5 
+(Semigloss)
+MPI RIN 9.2C-G5 
+(Semigloss)
+MPI 50
+MPI 47
+MPI 47
+100 microns4 
+mils
+Topcoat:  Coating to match adjacent surfaces.
+Epoxy, New, uncoated Existing
+Epoxy
+New, uncoated Existing
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI INT 9.2E-G6 (Gloss)
+MPI 50
+MPI 77
+MPI 77
+100 microns4 mils
+SECTION 09 90 00  Page 94
+
+
+=====PAGE 95
+Topcoat:  Coating to match adjacent surfaces.
+Epoxy, Existing, previously painted
+Epoxy
+Existing, previously
+painted
+Primer
+Intermediate
+Topcoat
+System DFT
+MPI RIN 9.2D-G6 (Gloss)
+MPI 17
+MPI 77
+MPI 77
+100 microns4 mils
+Topcoat:  Coating to match adjacent surfaces.
+        -- End of Section --
+SECTION 09 90 00  Page 95

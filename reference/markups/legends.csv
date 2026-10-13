@@ -289,6 +289,7 @@ page,sheet,item,quantity,unit,verified
 34,S-203,RIGID JOIST BRACING *2,121.9,FT,two readers agree
 34,S-203,L2-1/2x2-1/2x1/4 X-TYPE BRIDGING *2,35.5,FT,two readers agree
 34,S-203,C5x6.7 CHANNEL,53.4,FT,two readers agree
+34,S-203,HSS6x4x3/8 BEAM,22.2,FT,two readers agree (duplicate name restored)
 35,S-203,HSS6x6x3/8 COLUMN,61.4,FT,two readers agree
 35,S-203,C7x9.8 CHANNEL,14,FT,two readers agree
 35,S-203,C8x11.5 CHANNEL,10.1,FT,two readers agree
@@ -303,8 +304,9 @@ page,sheet,item,quantity,unit,verified
 36,S-301,C8x11.5 CHANNEL,14.5,FT,two readers agree
 36,S-301,HSS4x4x1/4 COLUMN,5.6,FT,two readers agree
 36,S-301,HSS5x5x3/8 COLUMN,18.9,FT,two readers agree
-41,E-010,"1""DIA CONDUIT",15.4,FT,two readers agree
+41,E-010,"1""DIA CONDUIT",4.8,FT,added on review: dropped by the reader-merge step (same normalised name); Claude render + GPT-6 Astra agree
 41,E-010,"(2) 2""DIA CONDUIT",15.4,FT,two readers agree
+41,E-010,"1""DIA CONDUIT",15.4,FT,two readers agree
 42,E-010,"SAFETY SWITCH, 30A, 3 POLE, FUSED@ 20A",0,EA,two readers agree
 42,E-010,"120V, 20A TOGGLE SWITCH IN METALLIC BELL BOX W/ METALLIC...",1,EA,two readers agree
 42,E-010,"120V, 20A GFCI WEATHER RESISTANT DUPLEX RECEPTACLE",1,EA,two readers agree
@@ -320,7 +322,7 @@ page,sheet,item,quantity,unit,verified
 42,E-010,SERVICE DISCONNECT SWITCH,1,EA,two readers agree
 43,E-011,1P4F LIGHT,1,EA,two readers agree
 43,E-011,2P4DA LIGHT,4,EA,two readers agree
-44,E-100,"QUAD RECEPTACLE, 20A, 125V",3,EA,two readers agree
+44,E-100,"QUAD RECEPTACLE 20A, 125V",1,EA,added on review: dropped by the reader-merge step (same normalised name); Claude render + GPT-6 Astra agree
 44,E-100,"DUPLEX RECEPTACLE, SURGE PROTECTIVE (LEVITON T5380W) 20A, 125V",3,EA,two readers agree
 44,E-100,"USB DUPLEX RECEPTACLE, 20A, 125V",7,EA,two readers agree
 44,E-100,JUNCTION BOX,9,EA,two readers agree
@@ -332,7 +334,8 @@ page,sheet,item,quantity,unit,verified
 44,E-100,"DUPLEX RECEPTACLE, 20A, 125V",6,EA,two readers agree
 44,E-100,"TEMPER RESISTANT DUPLEX RECEPTACLE, 20A, 125V",5,EA,two readers agree
 44,E-100,"GFCI DUPLEX RECEPTACLE, 20A, 125V",6,EA,two readers agree
-44,E-100,"TEMPER RESISTANT GFCI DUPLEX RECEPTACLE, 20A, 125V",1,EA,two readers agree
+44,E-100,"QUAD RECEPTACLE, 20A, 125V",3,EA,two readers agree
+44,E-100,"TEMPER RESISTANT GFCI DUPLEX RECEPTACLE, 20A, 125V",0,EA,"added on review: dropped by the reader-merge step (same normalised name); Claude render + GPT-6 Astra agree; prints NAN EA, 0 is a placeholder (unknown, not a measured zero)"
 44,E-100,"MOTOR RATED SINGLE SWITCH, 120/277V, TOOGLE TYPE",2,EA,two readers agree
 44,E-100,"TAMPER RESISTANT QUAD RECEPTACLE, 20A, 125V",7,EA,two readers agree
 44,E-100,"WEATHERPROOF SINGLE SWITCH, 120/277V, TOOGLE TYPE",1,EA,two readers agree
@@ -346,6 +349,7 @@ page,sheet,item,quantity,unit,verified
 44,E-100,"MOTION SENSOR, ASSUMED",6,EA,two readers agree
 44,E-100,DRIVE THRU ALERT LIGHT,1,EA,two readers agree
 44,E-100,"TEMPER RESISTANT DUPLEX RECEPTACLE, 20A, 125V- PROVIDE FACTORY ENGRAVED...",1,EA,two readers agree
+44,E-100,"TEMPER RESISTANT GFCI DUPLEX RECEPTACLE, 20A, 125V",1,EA,two readers agree
 44,E-100,"4"" SQUARE JUNCTION BOX",1,EA,two readers agree
 44,E-100,"USB DUPLEX RECETACLE, 20A, 125V",1,EA,two readers agree
 44,E-100,"20A, 125V QUAD RECEPTACLE W/ BLACK DEVICE & COVER PLATES",2,EA,two readers agree
@@ -425,6 +429,7 @@ page,sheet,item,quantity,unit,verified
 48,E-160,FIRE ALARM CONTR...,1,EA,two readers agree
 48,E-160,FIRE ALARM SMOKE...,1,EA,two readers agree
 48,E-160,ALLOWANCE FOR W...,1,EA,two readers agree
+48,E-160,FIRE ALARM ADA AP...,9,EA,two readers agree (duplicate name restored)
 49,E-702,PANEL PP,1,EA,two readers agree
 49,E-702,PANEL RP-A,1,EA,two readers agree
 49,E-702,"GFCI DUPLEX RECEPTACLE, 20A, 125V",1,EA,two readers agree
@@ -493,6 +498,14 @@ page,sheet,item,quantity,unit,verified
 53,M-301,PAINT BLACK LSR,1,EA,two readers agree
 53,M-301,"REFRIGERANT PIPING, SIZE NOT GIVEN",30.9,FT,two readers agree
 53,M-301,MANUAL DAMPER,1,EA,two readers agree
+53,M-301,"LSD (3-48"")",1,EA,two readers agree (duplicate name restored)
+53,M-301,"LSD (2-24"")",2,EA,two readers agree (duplicate name restored)
+53,M-301,"24""x24"" SUPPLY AIR DIFFUSER",1,EA,two readers agree (duplicate name restored)
+53,M-301,"24""x24"" SUPPLY AIR DIFFUSER",1,EA,two readers agree (duplicate name restored)
+53,M-301,"24""x24"" SUPPLY AIR DIFFUSER",1,EA,two readers agree (duplicate name restored)
+53,M-301,"24""x24"" SUPPLY AIR DIFFUSER",1,EA,two readers agree (duplicate name restored)
+53,M-301,"24""x24"" RETURN AIR GRILLE",2,EA,two readers agree (duplicate name restored)
+53,M-301,"24""x24"" RETURN AIR GRILLE",1,EA,two readers agree (duplicate name restored)
 54,M-302,HP-1,1,EA,two readers agree
 54,M-302,RTU-1,1,EA,two readers agree
 54,M-302,RTU-2,1,EA,two readers agree
@@ -571,6 +584,7 @@ page,sheet,item,quantity,unit,verified
 65,C-2.0,SD1-NS: SEDIMENT BARRIER - NON SENSITIVE,767.9,FT,two readers agree
 65,C-2.0,RT-B: SLOTTED BOARD DAM RETROFIT,5.1,FT,two readers agree
 65,C-2.0,"DS1, DS2 & DU",15581.9,SQ FT,two readers agree
+65,C-2.0,"DS1, DS2 & DU",20298.9,SQ FT,two readers agree (duplicate name restored)
 66,C-2.1,SD2-F: TRMPORARY INLETE SEDIMENT TRAP( FILTER FABRI...,193.7,FT,two readers agree
 66,C-2.1,RT-P: PERFORATED HALF-ROUND PIPE RETROFIT,7.5,FT,two readers agree
 66,C-2.1,"SS, DS3: AREA",2114,SQ FT,two readers agree
@@ -601,6 +615,7 @@ page,sheet,item,quantity,unit,verified
 72,C-3.0,PROPOSED MONUMENT SIGN,1,EA,two readers agree
 72,C-3.0,23: PROPOSED STORMWATER PO...,3074,SQ FT,two readers agree
 72,C-3.0,19:BIKE RACK,2,EA,two readers agree
+72,C-3.0,21: HEAVY DUTY CONCRETE PAVE...,384.3,SQ FT,two readers agree (duplicate name restored)
 73,C-4.0,437.500 - Existing,2991.5,SQ FT,two readers agree
 73,C-4.0,439.500 - Existing,11373.4,SQ FT,two readers agree
 73,C-4.0,441.000 - Existing,5128.9,SQ FT,two readers agree
@@ -614,6 +629,7 @@ page,sheet,item,quantity,unit,verified
 73,C-4.0,435.000 - Proposed,967.6,SQ FT,two readers agree
 73,C-4.0,438.000 - Proposed,716.1,SQ FT,two readers agree
 73,C-4.0,437.000 - Proposed,438.2,SQ FT,two readers agree
+73,C-4.0,439.500 - Proposed,3841.3,SQ FT,two readers agree (duplicate name restored)
 74,C-4.0,"8"" HDPE HEADER PIPE FOR ROOF DRAIN",168.2,FT,two readers agree
 74,C-4.0,A1-STHW: HEADWALL,8.8,FT,two readers agree
 74,C-4.0,A2-2-STGI: HOODED GRATE INLET,5,EA,two readers agree
@@ -655,3 +671,10 @@ page,sheet,item,quantity,unit,verified
 92,PlanSwift Earthwork Pro Summary,437 - Proposed Contour,-25.2,CU YD,two readers agree
 92,PlanSwift Earthwork Pro Summary,436.5 - Proposed Contour,-238.52,CU YD,two readers agree
 92,PlanSwift Earthwork Pro Summary,435 - Proposed Contour,-158.17,CU YD,two readers agree
+92,PlanSwift Earthwork Pro Summary,440 - Proposed Contour,51.72,CU YD,two readers agree (duplicate name restored)
+92,PlanSwift Earthwork Pro Summary,440 - Proposed Contour,149.24,CU YD,two readers agree (duplicate name restored)
+92,PlanSwift Earthwork Pro Summary,440 - Proposed Contour,224.56,CU YD,two readers agree (duplicate name restored)
+92,PlanSwift Earthwork Pro Summary,440 - Proposed Contour,199,CU YD,two readers agree (duplicate name restored)
+92,PlanSwift Earthwork Pro Summary,440 - Proposed Contour,2.11,CU YD,two readers agree (duplicate name restored)
+92,PlanSwift Earthwork Pro Summary,439.5 - Proposed Contour,22.91,CU YD,two readers agree (duplicate name restored)
+92,PlanSwift Earthwork Pro Summary,439 - Proposed Contour,10.42,CU YD,two readers agree (duplicate name restored)

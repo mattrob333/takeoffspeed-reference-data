@@ -1,0 +1,1091 @@
+[
+ {
+  "name": "stud-sf-308",
+  "formula": "stud_sf = sum(runLF x height)",
+  "inputs": {
+   "groups": [
+    {
+     "runLF": 133.8,
+     "height_ft": 12.5,
+     "height": "12'-6\"",
+     "rows": [
+      "A3B",
+      "A3A",
+      "D3C",
+      "D3A"
+     ]
+    },
+    {
+     "runLF": 7.7,
+     "height_ft": 3.75,
+     "height": "3'-9\"",
+     "rows": [
+      "A3A_39"
+     ]
+    },
+    {
+     "runLF": 8.4,
+     "height_ft": 18.67,
+     "height": "18'-8\"",
+     "rows": [
+      "DBL_188"
+     ]
+    },
+    {
+     "runLF": 74.0,
+     "height_ft": 3.0,
+     "height": "3'-0\"",
+     "rows": [
+      "MECHO"
+     ]
+    },
+    {
+     "runLF": 45.3,
+     "height_ft": 2.0,
+     "height": "2'-0\"",
+     "rows": [
+      "ROOFSTEP"
+     ]
+    }
+   ],
+   "spacing_in": 16,
+   "units": "LF, ft (heights in the estimator's two-decimal feet)"
+  },
+  "expected": {
+   "quantity": 2180.195,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceBasis": "class lf-x-h: 0.5% (legend LF x height sums; one tolerance for the class, not fitted to this line)",
+  "source": "line 308 / p4/p5/p7",
+  "estimatorDeltaPct": -0.431,
+  "knownResidual": false
+ },
+ {
+  "name": "stud-sf-309",
+  "formula": "stud_sf = sum(runLF x height)",
+  "inputs": {
+   "groups": [
+    {
+     "runLF": 65.1,
+     "height_ft": 12.5,
+     "height": "12'-6\"",
+     "rows": [
+      "A6B",
+      "A6A"
+     ]
+    },
+    {
+     "runLF": 18.3,
+     "height_ft": 4.33,
+     "height": "4'-4\"",
+     "rows": [
+      "S6_44"
+     ]
+    }
+   ],
+   "spacing_in": 16,
+   "units": "LF, ft (heights in the estimator's two-decimal feet)"
+  },
+  "expected": {
+   "quantity": 897.989,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceBasis": "class lf-x-h: 0.5% (legend LF x height sums; one tolerance for the class, not fitted to this line)",
+  "source": "line 309 / p4",
+  "estimatorDeltaPct": -0.557,
+  "knownResidual": true,
+  "knownResidualNote": "expected to FAIL at 0.5%: 897.989 = 65.5 x 12.50 + 18.3 x 4.33 exactly; the legend shows 65.1 LF at 12'-6\" (0.4 LF unexplained)"
+ },
+ {
+  "name": "stud-sf-310",
+  "formula": "stud_sf = sum(runLF x height)",
+  "inputs": {
+   "groups": [
+    {
+     "runLF": 5.9,
+     "height_ft": 9.0,
+     "height": "9'-0\"",
+     "rows": [
+      "PAR_72"
+     ]
+    },
+    {
+     "runLF": 9.2,
+     "height_ft": 12.25,
+     "height": "12'-3\"",
+     "rows": [
+      "EXT6_123"
+     ]
+    },
+    {
+     "runLF": 8.4,
+     "height_ft": 18.67,
+     "height": "18'-8\"",
+     "rows": [
+      "DBL_188"
+     ]
+    }
+   ],
+   "spacing_in": 16,
+   "units": "LF, ft (heights in the estimator's two-decimal feet)"
+  },
+  "expected": {
+   "quantity": 322.77,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceBasis": "class lf-x-h: 0.5% (legend LF x height sums; one tolerance for the class, not fitted to this line)",
+  "source": "line 310 / p4",
+  "estimatorDeltaPct": -0.044,
+  "knownResidual": false
+ },
+ {
+  "name": "stud-sf-311",
+  "formula": "stud_sf = sum(runLF x height)",
+  "inputs": {
+   "groups": [
+    {
+     "runLF": 46.0,
+     "height_ft": 1.58,
+     "height": "1'-7\"",
+     "rows": [
+      "PAR_17"
+     ]
+    },
+    {
+     "runLF": 38.0,
+     "height_ft": 2.58,
+     "height": "2'-7\"",
+     "rows": [
+      "PAR_27"
+     ]
+    },
+    {
+     "runLF": 13.0,
+     "height_ft": 4.0,
+     "height": "4'-0\"",
+     "rows": [
+      "EXT8_4"
+     ]
+    },
+    {
+     "runLF": 96.6,
+     "height_ft": 4.58,
+     "height": "4'-7\"",
+     "rows": [
+      "PAR_47"
+     ]
+    },
+    {
+     "runLF": 5.9,
+     "height_ft": 7.17,
+     "height": "7'-2\"",
+     "rows": [
+      "PAR_72"
+     ]
+    },
+    {
+     "runLF": 89.7,
+     "height_ft": 12.75,
+     "height": "12'-9\"",
+     "rows": [
+      "EXT8_129"
+     ]
+    },
+    {
+     "runLF": 50.2,
+     "height_ft": 15.75,
+     "height": "15'-9\"",
+     "rows": [
+      "EXT8_159",
+      "EXT8_159_NOGWB"
+     ]
+    }
+   ],
+   "spacing_in": 16,
+   "units": "LF, ft (heights in the estimator's two-decimal feet)"
+  },
+  "expected": {
+   "quantity": 2652.875,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceBasis": "class lf-x-h: 0.5% (legend LF x height sums; one tolerance for the class, not fitted to this line)",
+  "source": "line 311 / p4/p7",
+  "estimatorDeltaPct": -0.418,
+  "knownResidual": false
+ },
+ {
+  "name": "runner-314",
+  "formula": "runner_lf = sum(runLF)",
+  "inputs": {
+   "runLF": [
+    34.2,
+    49.9,
+    3.7,
+    46.0,
+    7.7,
+    8.4,
+    74.0,
+    45.3
+   ],
+   "units": "LF"
+  },
+  "expected": {
+   "quantity": 270.5,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceBasis": "class lf-x-h: 0.5% (legend LF x height sums; one tolerance for the class, not fitted to this line)",
+  "source": "line 314 / rows of line 308",
+  "estimatorDeltaPct": -0.481,
+  "knownResidual": false
+ },
+ {
+  "name": "runner-318",
+  "formula": "runner_lf = sum(runLF)",
+  "inputs": {
+   "runLF": [
+    34.2,
+    49.9,
+    3.7,
+    46.0,
+    7.7,
+    8.4,
+    74.0,
+    45.3
+   ],
+   "units": "LF"
+  },
+  "expected": {
+   "quantity": 270.5,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceBasis": "class lf-x-h: 0.5% (legend LF x height sums; one tolerance for the class, not fitted to this line)",
+  "source": "line 318 / rows of line 308",
+  "estimatorDeltaPct": -0.481,
+  "knownResidual": false
+ },
+ {
+  "name": "runner-315",
+  "formula": "runner_lf = sum(runLF)",
+  "inputs": {
+   "runLF": [
+    28.4,
+    36.7,
+    18.3
+   ],
+   "units": "LF"
+  },
+  "expected": {
+   "quantity": 84.3,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceBasis": "class lf-x-h: 0.5% (legend LF x height sums; one tolerance for the class, not fitted to this line)",
+  "source": "line 315 / rows of line 309",
+  "estimatorDeltaPct": -1.068,
+  "knownResidual": true,
+  "knownResidualNote": "expected to FAIL at this tolerance: the estimate carries quantity no legend row shows (unexplained residual)"
+ },
+ {
+  "name": "runner-319",
+  "formula": "runner_lf = sum(runLF)",
+  "inputs": {
+   "runLF": [
+    28.4,
+    36.7,
+    18.3
+   ],
+   "units": "LF"
+  },
+  "expected": {
+   "quantity": 84.3,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceBasis": "class lf-x-h: 0.5% (legend LF x height sums; one tolerance for the class, not fitted to this line)",
+  "source": "line 319 / rows of line 309",
+  "estimatorDeltaPct": -1.068,
+  "knownResidual": true,
+  "knownResidualNote": "expected to FAIL at this tolerance: the estimate carries quantity no legend row shows (unexplained residual)"
+ },
+ {
+  "name": "runner-316",
+  "formula": "runner_lf = sum(runLF)",
+  "inputs": {
+   "runLF": [
+    5.9,
+    9.2,
+    8.4
+   ],
+   "units": "LF"
+  },
+  "expected": {
+   "quantity": 24.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceBasis": "class lf-x-h: 0.5% (legend LF x height sums; one tolerance for the class, not fitted to this line)",
+  "source": "line 316 / rows of line 310",
+  "estimatorDeltaPct": -2.083,
+  "knownResidual": true,
+  "knownResidualNote": "expected to FAIL at this tolerance: the estimate carries quantity no legend row shows (unexplained residual)"
+ },
+ {
+  "name": "runner-320",
+  "formula": "runner_lf = sum(runLF)",
+  "inputs": {
+   "runLF": [
+    5.9,
+    9.2,
+    8.4
+   ],
+   "units": "LF"
+  },
+  "expected": {
+   "quantity": 24.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceBasis": "class lf-x-h: 0.5% (legend LF x height sums; one tolerance for the class, not fitted to this line)",
+  "source": "line 320 / rows of line 310",
+  "estimatorDeltaPct": -2.083,
+  "knownResidual": true,
+  "knownResidualNote": "expected to FAIL at this tolerance: the estimate carries quantity no legend row shows (unexplained residual)"
+ },
+ {
+  "name": "runner-317",
+  "formula": "runner_lf = sum(runLF)",
+  "inputs": {
+   "runLF": [
+    46.0,
+    38.0,
+    13.0,
+    96.6,
+    5.9,
+    89.7,
+    41.5,
+    8.7
+   ],
+   "units": "LF"
+  },
+  "expected": {
+   "quantity": 341.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceBasis": "class lf-x-h: 0.5% (legend LF x height sums; one tolerance for the class, not fitted to this line)",
+  "source": "line 317 / rows of line 311",
+  "estimatorDeltaPct": -0.469,
+  "knownResidual": false
+ },
+ {
+  "name": "runner-321",
+  "formula": "runner_lf = sum(runLF)",
+  "inputs": {
+   "runLF": [
+    46.0,
+    38.0,
+    13.0,
+    96.6,
+    5.9,
+    89.7,
+    41.5,
+    8.7
+   ],
+   "units": "LF"
+  },
+  "expected": {
+   "quantity": 341.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceBasis": "class lf-x-h: 0.5% (legend LF x height sums; one tolerance for the class, not fitted to this line)",
+  "source": "line 321 / rows of line 311",
+  "estimatorDeltaPct": -0.469,
+  "knownResidual": false
+ },
+ {
+  "name": "booth-ceiling-framing-312",
+  "formula": "lf = ceil(areaSF) x 12 / spacing_in",
+  "inputs": {
+   "areaSF": 76.2,
+   "spacing_in": 12
+  },
+  "expected": {
+   "quantity": 77.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 312 / p29"
+ },
+ {
+  "name": "canopy-framing-313",
+  "formula": "lf = ceil(areaSF/5)*5 / 1.33",
+  "inputs": {
+   "areaSF": 416.9,
+   "spacing_in": 16,
+   "spacingFtConvention": 1.33
+  },
+  "expected": {
+   "quantity": 315.789474,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 313 / p34"
+ },
+ {
+  "name": "gwb-walls-242",
+  "formula": "sf = sum(runLF x height x faces) - sum(specialtyAreaSF)",
+  "inputs": {
+   "rows": [
+    {
+     "key": "A6B",
+     "runLF": 28.4,
+     "height_ft": 12.5,
+     "faces": 2
+    },
+    {
+     "key": "A3B",
+     "runLF": 34.2,
+     "height_ft": 12.5,
+     "faces": 2
+    },
+    {
+     "key": "A6A",
+     "runLF": 36.7,
+     "height_ft": 12.5,
+     "faces": 2
+    },
+    {
+     "key": "A3A",
+     "runLF": 49.9,
+     "height_ft": 12.5,
+     "faces": 2
+    },
+    {
+     "key": "D3C",
+     "runLF": 3.7,
+     "height_ft": 12.5,
+     "faces": 1
+    },
+    {
+     "key": "D3A",
+     "runLF": 46.0,
+     "height_ft": 12.5,
+     "faces": 1
+    },
+    {
+     "key": "EXT8_129",
+     "runLF": 89.7,
+     "height_ft": 12.75,
+     "faces": 1
+    },
+    {
+     "key": "EXT6_123",
+     "runLF": 9.2,
+     "height_ft": 12.25,
+     "faces": 1
+    },
+    {
+     "key": "EXT8_159",
+     "runLF": 41.5,
+     "height_ft": 15.75,
+     "faces": 1
+    },
+    {
+     "key": "EXT8_4",
+     "runLF": 13.0,
+     "height_ft": 4.0,
+     "faces": 1
+    },
+    {
+     "key": "S6_44",
+     "runLF": 18.3,
+     "height_ft": 4.33,
+     "faces": 2
+    },
+    {
+     "key": "A3A_39",
+     "runLF": 7.7,
+     "height_ft": 3.75,
+     "faces": 2
+    }
+   ],
+   "specialtyAreaSF": {
+    "MR_restroomPaint": 252.6,
+    "wallTile": 244.2,
+    "typeX": 37.2
+   }
+  },
+  "expected": {
+   "quantity": 6004.8655,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceBasis": "class lf-x-h: 0.5% (legend LF x height sums; one tolerance for the class, not fitted to this line)",
+  "source": "line 242 / p4,p16,p27,p28,p32",
+  "estimatorDeltaPct": -0.156,
+  "knownResidual": false
+ },
+ {
+  "name": "typex-248",
+  "formula": "sf = ceil(areaSF/5)*5",
+  "inputs": {
+   "areaSF": 37.2
+  },
+  "expected": {
+   "quantity": 40.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 248 / p28"
+ },
+ {
+  "name": "glassmat-parapet-254",
+  "formula": "sf = sum(ceil(runLF x height)) ; faces = 1 (per-row ceil is fitted to this one line; the unrounded sum also passes)",
+  "inputs": {
+   "rows": [
+    {
+     "key": "PAR_17",
+     "runLF": 46.0,
+     "height_ft": 1.58
+    },
+    {
+     "key": "PAR_27",
+     "runLF": 38.0,
+     "height_ft": 2.58
+    },
+    {
+     "key": "PAR_47",
+     "runLF": 96.6,
+     "height_ft": 4.58
+    },
+    {
+     "key": "PAR_72",
+     "runLF": 5.9,
+     "height_ft": 7.17
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 658.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceBasis": "class lf-x-h: 0.5% (legend LF x height sums; one tolerance for the class, not fitted to this line)",
+  "source": "line 254 / p7,p4",
+  "estimatorDeltaPct": 0.0,
+  "knownResidual": false
+ },
+ {
+  "name": "mr-board-260",
+  "formula": "sf = ceil(areaSF/5)*5",
+  "inputs": {
+   "areaSF": 252.6
+  },
+  "expected": {
+   "quantity": 255.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 260 / p16"
+ },
+ {
+  "name": "cement-board-266",
+  "formula": "sf = ceil(sum(tileAreaSF)/5)*5",
+  "inputs": {
+   "tileAreaSF": {
+    "WT1_410": 120.7,
+    "WT2_410": 43.8,
+    "WT9_410": 50.6,
+    "WT1_703": 15.3,
+    "WT2_703": 1.4,
+    "WT9_703": 1.3,
+    "WT1_705": 8.2,
+    "WT2_705": 1.6,
+    "WT9_705": 1.3,
+    "WT3_700": 38.4
+   }
+  },
+  "expected": {
+   "quantity": 285.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 266 / p16,p23,p27,p32"
+ },
+ {
+  "name": "cement-board-quarter-272",
+  "formula": "sf = ceil(areaSF/5)*5",
+  "inputs": {
+   "areaSF": 38.4
+  },
+  "expected": {
+   "quantity": 40.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 272 / p23"
+ },
+ {
+  "name": "no-of-sheets-243",
+  "formula": "sheets = SF / 32 (4x8)",
+  "inputs": {
+   "parentSF": 6004.8655,
+   "ratio": "1/32"
+  },
+  "expected": {
+   "quantity": 187.652047,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 243 / line 242"
+ },
+ {
+  "name": "adhesive-244",
+  "formula": "tubes = SF x 0.031",
+  "inputs": {
+   "parentSF": 6004.8655,
+   "ratio": "31/1000"
+  },
+  "expected": {
+   "quantity": 186.15083,
+   "unit": "TUBES"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 244 / line 242"
+ },
+ {
+  "name": "taping-245",
+  "formula": "rolls = SF x 0.00075 (0.375 LF/SF / 500 LF roll)",
+  "inputs": {
+   "parentSF": 6004.8655,
+   "ratio": "3/4000"
+  },
+  "expected": {
+   "quantity": 4.503649,
+   "unit": "ROLLS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 245 / line 242"
+ },
+ {
+  "name": "drywall-screws-246",
+  "formula": "lb = SF x 3/560 (0.0053571 lb/SF)",
+  "inputs": {
+   "parentSF": 6004.8655,
+   "ratio": "3/560"
+  },
+  "expected": {
+   "quantity": 32.168922,
+   "unit": "LBS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 246 / line 242"
+ },
+ {
+  "name": "mud-plaster-247",
+  "formula": "lb = SF x 0.53",
+  "inputs": {
+   "parentSF": 6004.8655,
+   "ratio": "53/100"
+  },
+  "expected": {
+   "quantity": 3182.578715,
+   "unit": "LBS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 247 / line 242"
+ },
+ {
+  "name": "no-of-sheets-249",
+  "formula": "sheets = SF / 32 (4x8)",
+  "inputs": {
+   "parentSF": 40.0,
+   "ratio": "1/32"
+  },
+  "expected": {
+   "quantity": 1.25,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 249 / line 248"
+ },
+ {
+  "name": "adhesive-250",
+  "formula": "tubes = SF x 0.031",
+  "inputs": {
+   "parentSF": 40.0,
+   "ratio": "31/1000"
+  },
+  "expected": {
+   "quantity": 1.24,
+   "unit": "TUBES"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 250 / line 248"
+ },
+ {
+  "name": "taping-251",
+  "formula": "rolls = SF x 0.00075 (0.375 LF/SF / 500 LF roll)",
+  "inputs": {
+   "parentSF": 40.0,
+   "ratio": "3/4000"
+  },
+  "expected": {
+   "quantity": 0.03,
+   "unit": "ROLLS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 251 / line 248"
+ },
+ {
+  "name": "drywall-screws-252",
+  "formula": "lb = SF x 3/560 (0.0053571 lb/SF)",
+  "inputs": {
+   "parentSF": 40.0,
+   "ratio": "3/560"
+  },
+  "expected": {
+   "quantity": 0.214286,
+   "unit": "LBS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 252 / line 248"
+ },
+ {
+  "name": "mud-plaster-253",
+  "formula": "lb = SF x 0.53",
+  "inputs": {
+   "parentSF": 40.0,
+   "ratio": "53/100"
+  },
+  "expected": {
+   "quantity": 21.2,
+   "unit": "LBS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 253 / line 248"
+ },
+ {
+  "name": "no-of-sheets-255",
+  "formula": "sheets = SF / 32 (4x8)",
+  "inputs": {
+   "parentSF": 658.0,
+   "ratio": "1/32"
+  },
+  "expected": {
+   "quantity": 20.5625,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 255 / line 254"
+ },
+ {
+  "name": "adhesive-256",
+  "formula": "tubes = SF x 0.031",
+  "inputs": {
+   "parentSF": 658.0,
+   "ratio": "31/1000"
+  },
+  "expected": {
+   "quantity": 20.398,
+   "unit": "TUBES"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 256 / line 254"
+ },
+ {
+  "name": "taping-257",
+  "formula": "rolls = SF x 0.00075 (0.375 LF/SF / 500 LF roll)",
+  "inputs": {
+   "parentSF": 658.0,
+   "ratio": "3/4000"
+  },
+  "expected": {
+   "quantity": 0.4935,
+   "unit": "ROLLS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 257 / line 254"
+ },
+ {
+  "name": "drywall-screws-258",
+  "formula": "lb = SF x 3/560 (0.0053571 lb/SF)",
+  "inputs": {
+   "parentSF": 658.0,
+   "ratio": "3/560"
+  },
+  "expected": {
+   "quantity": 3.525,
+   "unit": "LBS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 258 / line 254"
+ },
+ {
+  "name": "mud-plaster-259",
+  "formula": "lb = SF x 0.53",
+  "inputs": {
+   "parentSF": 658.0,
+   "ratio": "53/100"
+  },
+  "expected": {
+   "quantity": 348.74,
+   "unit": "LBS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 259 / line 254"
+ },
+ {
+  "name": "no-of-sheets-261",
+  "formula": "sheets = SF / 32 (4x8)",
+  "inputs": {
+   "parentSF": 255.0,
+   "ratio": "1/32"
+  },
+  "expected": {
+   "quantity": 7.96875,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 261 / line 260"
+ },
+ {
+  "name": "adhesive-262",
+  "formula": "tubes = SF x 0.031",
+  "inputs": {
+   "parentSF": 255.0,
+   "ratio": "31/1000"
+  },
+  "expected": {
+   "quantity": 7.905,
+   "unit": "TUBES"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 262 / line 260"
+ },
+ {
+  "name": "taping-263",
+  "formula": "rolls = SF x 0.00075 (0.375 LF/SF / 500 LF roll)",
+  "inputs": {
+   "parentSF": 255.0,
+   "ratio": "3/4000"
+  },
+  "expected": {
+   "quantity": 0.19125,
+   "unit": "ROLLS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 263 / line 260"
+ },
+ {
+  "name": "drywall-screws-264",
+  "formula": "lb = SF x 3/560 (0.0053571 lb/SF)",
+  "inputs": {
+   "parentSF": 255.0,
+   "ratio": "3/560"
+  },
+  "expected": {
+   "quantity": 1.366071,
+   "unit": "LBS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 264 / line 260"
+ },
+ {
+  "name": "mud-plaster-265",
+  "formula": "lb = SF x 0.53",
+  "inputs": {
+   "parentSF": 255.0,
+   "ratio": "53/100"
+  },
+  "expected": {
+   "quantity": 135.15,
+   "unit": "LBS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 265 / line 260"
+ },
+ {
+  "name": "no-of-sheets-267",
+  "formula": "sheets = SF / 32 (4x8)",
+  "inputs": {
+   "parentSF": 285.0,
+   "ratio": "1/32"
+  },
+  "expected": {
+   "quantity": 8.90625,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 267 / line 266"
+ },
+ {
+  "name": "adhesive-268",
+  "formula": "tubes = SF x 0.031",
+  "inputs": {
+   "parentSF": 285.0,
+   "ratio": "31/1000"
+  },
+  "expected": {
+   "quantity": 8.835,
+   "unit": "TUBES"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 268 / line 266"
+ },
+ {
+  "name": "taping-269",
+  "formula": "rolls = SF x 0.00075 (0.375 LF/SF / 500 LF roll)",
+  "inputs": {
+   "parentSF": 285.0,
+   "ratio": "3/4000"
+  },
+  "expected": {
+   "quantity": 0.21375,
+   "unit": "ROLLS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 269 / line 266"
+ },
+ {
+  "name": "drywall-screws-270",
+  "formula": "lb = SF x 3/560 (0.0053571 lb/SF)",
+  "inputs": {
+   "parentSF": 285.0,
+   "ratio": "3/560"
+  },
+  "expected": {
+   "quantity": 1.526786,
+   "unit": "LBS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 270 / line 266"
+ },
+ {
+  "name": "mud-plaster-271",
+  "formula": "lb = SF x 0.53",
+  "inputs": {
+   "parentSF": 285.0,
+   "ratio": "53/100"
+  },
+  "expected": {
+   "quantity": 151.05,
+   "unit": "LBS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 271 / line 266"
+ },
+ {
+  "name": "no-of-sheets-273",
+  "formula": "sheets = SF / 32 (4x8)",
+  "inputs": {
+   "parentSF": 40.0,
+   "ratio": "1/32"
+  },
+  "expected": {
+   "quantity": 1.25,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 273 / line 272"
+ },
+ {
+  "name": "adhesive-274",
+  "formula": "tubes = SF x 0.031",
+  "inputs": {
+   "parentSF": 40.0,
+   "ratio": "31/1000"
+  },
+  "expected": {
+   "quantity": 1.24,
+   "unit": "TUBES"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 274 / line 272"
+ },
+ {
+  "name": "taping-275",
+  "formula": "rolls = SF x 0.00075 (0.375 LF/SF / 500 LF roll)",
+  "inputs": {
+   "parentSF": 40.0,
+   "ratio": "3/4000"
+  },
+  "expected": {
+   "quantity": 0.03,
+   "unit": "ROLLS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 275 / line 272"
+ },
+ {
+  "name": "drywall-screws-276",
+  "formula": "lb = SF x 3/560 (0.0053571 lb/SF)",
+  "inputs": {
+   "parentSF": 40.0,
+   "ratio": "3/560"
+  },
+  "expected": {
+   "quantity": 0.214286,
+   "unit": "LBS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 276 / line 272"
+ },
+ {
+  "name": "mud-plaster-277",
+  "formula": "lb = SF x 0.53",
+  "inputs": {
+   "parentSF": 40.0,
+   "ratio": "53/100"
+  },
+  "expected": {
+   "quantity": 21.2,
+   "unit": "LBS"
+  },
+  "tolerancePct": 0.01,
+  "toleranceBasis": "class exact: 0.01% (formula reproduces the estimate; float noise only)",
+  "source": "line 277 / line 272"
+ }
+]

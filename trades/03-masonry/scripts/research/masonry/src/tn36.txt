@@ -1,0 +1,990 @@
+[[p1]]
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Technical Notes 36 - Brick Masonry Details, Sills, and Soffits 
+Rev [July/Aug. 1981] (Reissued Jan. 1988) 
+Abstract: Detailing of brick masonry is both an art and a science. Recommendations are provided for the 
+development of successful details using brick masonry and other materials. Detailing of sills and soffits is 
+specifically addressed. Performance, esthetic value and economics are the principal considerations in the 
+development of successful details. 
+Key Words: brick, connections, construction, design, detailing, economics, esthetic value, function, 
+performance, prefabrication, sills, soffits, structural stability. 
+INTRODUCTION 
+Successful detailing of brick masonry is both an art and a science. Proper details should result in a structure 
+which is pleasing to the eye, but more importantly, performs well over its lifetime. Good detailing is not accidental, 
+it requires proper planning. This planning may involve close cooperation between the architectural, engineering 
+and construction disciplines in the early stages of the design process. 
+There are three items which should be considered in the development of a successful detail. These are: 1. 
+Performance considerations; 2. Esthetic value considerations; and 3. Economic considerations. The last two of 
+these items may be traded off against each other. But, the first is mandatory and if it is not the primary concern, 
+the detail may, and probably will, be doomed to failure. This failure can manifest itself in several ways: cracking, 
+structural failure, moisture penetration to the interior, or efflorescence, to mention a few. 
+It is possible to have a successful detail while compromising either the esthetic value or the economic 
+considerations. But, it is impossible to have a successful detail if the performance considerations are 
+compromised. A successful detail can be developed with excellent esthetic value while completely ignoring the 
+economic considerations or vice versa, but to ignore the performance considerations is to invite trouble. 
+APPROACH TO DETAILING 
+General 
+Proper planning in the development of brick details is essential to the successful execution of that detail in the 
+field. The designer must be familiar not only with the properties of the various materials involved, but also how 
+they go together in the construction process and how they will perform, both individually and together in service. 
+The most esthetically pleasing detail is of no benefit if it can't be built, or does not perform its intended function. 
+The designer should always keep in mind that different materials react to temperature and moisture changes in 
+different ways. While in some cases these differences may be minor, in others they may be significant. If they are 
+not properly addressed, the result can be facade failures, such as leaking, bowing, cracking, etc. For a discussion 
+of differential movement, see Technical Notes 18 Series. 
+Performance Considerations 
+Performance is all-important if the detail is to be successful. There are three items which must be considered in 
+the development of a detail which will provide satisfactory performance. They are: 1. Functional considerations; 2. 
+Structural stability; and 3. Construction considerations. In the development of the detail, it is imperative that all of 
+these items be given proper consideration. 
+
+[[p2]]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Functional Considerations. One of the first steps in the development of a successful detail is to determine the 
+function of the element. The designer must determine the purpose of the element, and how the element will affect 
+the overall performance of the building. Typical questions which should be addressed are: 1. Is the element to 
+serve as a weather-tight enclosure? 2. Will stresses, axial, flexural or shear, be developed in the member? 3. 
+Should it channel and direct the flow of moisture? 4. Is it to seal the top of a vertical element? 5. Is its purpose 
+merely for esthetic value? Only after the designer has determined the required functions of the element can he 
+begin to consider the other factors which will dictate the final design. 
+Structural Stability. The designer must develop a detail which ensures that all applied loads can be adequately 
+resisted by the element or that they are transferred to other elements of the structure which can resist them. 
+These applied loads may be axial, transverse, shear or in the case of prefabricated elements, loads due to 
+transportation and erection. One area of concern is the manner and adequacy of the connection of the element to 
+the structure. It is imperative that these connections be structurally sound, to ensure structural stability of the 
+element. 
+Construction Considerations. The designer should take great care to ensure that the details can be easily 
+executed in the field. This requires that the designer be knowledgeable in current construction practices. While 
+some innovation may be necessary and beneficial, the detail should not require radical deviation from 
+conventional construction practices. Typically, the more simple and straightforward the detail is, the easier it is to 
+construct and thus, the better its performance. In some instances, the construction can be simplified by 
+prefabrication of the element. Care should be taken by the designer to ensure, to the greatest extent possible, 
+that the detail does not require several crafts to be working in the same location at the same time. 
+Esthetic Value Considerations 
+The designer must also determine how best to fulfill the functional requirements and yet provide the desired 
+esthetic value. This involves decisions on materials, colors and textures, and other esthetic considerations. The 
+configuration of the element is also an important esthetic consideration. The designer may decide to project or 
+recess parts of the element to provide shadow lines or to use a different bond pattern to call attention to the detail. 
+The esthetic value of the detail is limited only by its function, its ease of construction, the designer's imagination 
+and possibly its economic feasibility. 
+Economic Considerations 
+A detail, to be successful, should have the capability of being constructed economically. Economics involves both 
+materials and labor. A successful detail requires that both the quantity and quality of materials be closely 
+controlled. The use of excess materials to achieve the function of the detail should be avoided. 
+Details which require very specialized skills by the crafts involved should be avoided. If very specialized skills are 
+required, there is usually a reduction in productivity of the craftsmen and an increase in cost. 
+SILLS 
+General 
+The prime function of a sill is to channel water away from the building. The sill may consist of a single unit or 
+multiple units; it may be built in place or prefabricated; and it may be constructed of various materials. 
+Esthetic Value 
+The desired esthetic effect may be achieved through the use of special shaped units, either manufactured or cut 
+to the desired shape. A word of caution concerning manufactured special shapes-while most manufacturers are 
+capable of making special shapes to match the color and texture of the units selected for the project, there will be 
+an added cost for each special-shaped unit. The added cost for the special shapes is dependent upon the 
+complexity of the configuration of the shape and the number of units of each special shape required. Some 
+manufacturers carry certain special shapes in stock. It may be advantageous to slightly alter the detail so that 
+these stock special shapes may be used in lieu of one with a slightly different configuration. 
+
+[[p3]]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The appearance of the sill and the overall esthetic appeal of the structure may also be achieved by the use of a 
+contrasting color or texture or by use of materials other than brick for the sill. Esthetics may also be affected by 
+the use of a different bond pattern than that used in the adjacent wall. See Figs. 1 and 2. 
+General Studies/Classroom/Instructional Resources Center ­
+State University Agricultural and Technical College - Delhi, New York 
+FIG. 1 
+Westgate Corporation Building - McLean, Virginia 
+FIG. 2 
+Materials 
+Sills for use in brick masonry construction are typically brick, concrete, stone or metal. The selection of material is 
+primarily dependent upon the required esthetic effect. But it is also important to note that metal, concrete and 
+stone sills normally require fewer joints than do brick sills, and therefore provide fewer potential avenues for water 
+penetration. Once the decision of which material to use is made, then decisions concerning the quality of that 
+material can be made. Whichever material is selected, it should be of high quality. A discussion of brick and 
+mortar properties is found in Technical Notes 7B Revised. 
+Flashings for use in sills can be of a number of materials, such as copper, lead or plastics, see Technical Notes 
+7A Revised for additional information. Aluminum and asphaltic-impregnated felt are not recommended for use as 
+flashing materials. Aluminum is not recommended since alkalies in the cement of the mortar may attack it and 
+cause corrosion. Asphaltic-impregnated felt is not recommended because it is easily punctured during 
+construction. For the same reason, plastic films of less than 20 mil thickness should also be avoided. Once the 
+flashing has been punctured, it ceases to fulfill its function, thus in place flashing should be inspected for 
+
+[[p4]]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+punctures and tears, and appropriately repaired prior to laying brick masonry on the flashing. Also, some plastics 
+are subject to continued degradation after having been exposed to sunlight for an extended period of time. 
+Details 
+General. Since the primary function of sills is to divert water away from the building, the top surface should slope 
+downward and away from the building. In the case of brick sills, see Figures 3 and 4, the slope should be at least 
+15 deg from horizontal. This may vary somewhat according to the sill configuration of the window unit, particularly 
+in the case of wood windows. The sill should extend a minimum of 1 in. (25 mm) beyond the face of the wall at its 
+closest point to the wall, see Fig. 3. In some instances, it may be necessary that the brick units at the ends of the 
+sills be uncored units so that no cores are exposed to view. 
+Sill in Frame/Brick Veneer Construction 
+FIG. 3 
+Sill in Cavity Wall Construction 
+FIG. 4 
+When concrete or stone sills are used, they should be sloped away from the building, and also sloped from the 
+ends toward the center, see Figs. 5 and 6. The slope away from the building should be at least 15 deg from 
+horizontal, the slope from the ends should be 1/8 in. (3 mm) to 12 in. (300 mm) toward the center of the sill. For 
+sills longer than 4 ft ( 1.2 m), the slope should extend for at least a distance of 2 ft (600 mm) from the ends, see 
+Fig. 6. 
+
+[[p5]]
+ 
+ 
+ 
+ 
+ 
+ 
+Concrete or Stone Sill 
+FIG. 5 
+Concrete or Stone Sill 
+FIG. 6 
+
+[[p6]]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Flashing and Weepholes. In general, when a collar joint, cavity or air space is interrupted, such as at sills, at the 
+base of the walls, at lintels over openings and at shelf angle supports, flashing should be provided in the wall. The 
+function of flashing is to serve as a collector for any moisture penetrating the wall or the sill. It is important that the 
+flashing extend through the brick to the exterior face of the wall at the lower end of the flashing and be turned 
+down at least to in. (6 mm) to form a drip. The flashing at the sill should extend beyond the ends of the sill to the 
+first head joint outside of the jamb of the opening, and should be turned up and outward for a distance of at least 
+1 in. (25 mm) at each end, see Fig. 5. If the ends are not turned up and out, the moisture collected on the flashing 
+will have a path into the adjacent wall and there is no way to predict where it may go. The purpose of turning the 
+flashing up and out is to assure that the moisture stays on the flashing until it drains from the wall. See Technical 
+Notes 7A Revised for a discussion of materials to be used as flashing. 
+Once moisture penetrating the wall or sill has been collected on the flashing, it must be removed from the wall. 
+This is the function of weepholes. Weepholes may be installed in several ways, see Technical Notes 21C. 
+Weepholes should be placed on top of the flashing, not one course up. If wick-type materials are employed, or if 
+hidden flashing is used, the weepholes should have a maximum horizontal spacing of 16 in. (400 mm). If open 
+weepholes with no wicks are used, the horizontal spacing may be increased to 24 in. (600 mm) maximum. 
+Drips. Every sill should be provided with a drip. The function of the drip is to prevent water from returning to the 
+exterior face of the wall. The drip of a properly sloped brick sill is the lower corner of the brickwork. A drip in a 
+concrete or stone sill is usually formed, or cut into the bottom face of the sill, as shown in Figs. 5 and 6. The drip 
+on a concrete or stone sill can be cut in several shapes, Vee-shape, rectangular, semi-circular, or a combination 
+of these. The shape of the drip is not important, but its presence and location are important. The inner lip of the 
+drip should be located a minimum of 1 in. (25 mm) from the exterior face of the wall, , as shown in Fig. 5. 
+Connections. In brick masonry sills of short length, 4 ft. (1.2 m) or less, no special anchorage is necessary. 
+However, sills of brick, concrete, metal and stone having long runs should be anchored to the masonry below or 
+behind the sill, see Figs. 3 and 5. This will require penetration of the flashing below or behind the sill. Care must 
+be taken to ensure that these penetrations are adequately sealed so that the flashing functions as intended. 
+Attachment of the sill to the window will vary with window type and manufacturer. It is most important that the joint 
+where the sill and window make contact be sealed with a high-quality sealant, see Technical Notes 28 Revised 
+and 28B Revised. 
+Expansion Joints. When expansion joints are necessary, it may be desirable to install them in vertical alignment 
+with window jamb lines. If this is done, the expansion joint should also be installed through the sill. This will enable 
+the expansion joint to perform as intended. 
+If the sill extends beyond the jamb of the opening and an expansion joint is required at the jamb, then the 
+expansion joint should be continuous around the entire sill extension, as should the flashing, see Fig. 6. 
+Construction 
+In the past, sills for use in brick masonry construction have generally been built in place, using conventional 
+construction practices. A trend during recent years has been to use prefabricated sills, particularly when 
+combined with a spandrel and soffit, see Technical Notes 40 Series. This type of construction will be further 
+discussed in the Soffits portion of this Technical Notes. 
+When prefabricated brick, pre-cast concrete, or stone sills are used, they should have section lengths as long as 
+is practical. The lengths will be determined by ease of handling and erection and the sills' ability to resist erection 
+stresses. The length of sill sections should be limited to a length that can easily be handled by equipment already 
+on the jobsite. The joints between long sill sections should be constructed using a soft joint. It may also be 
+necessary, in very long runs of sill, to provide expansion joints at the ends where the sill abuts the jamb. 
+SOFFITS 
+General 
+Detailing of soffits for brick masonry requires special considerations. The primary function of a brick masonry soffit 
+is to enclose the building while providing an esthetically pleasing appearance. There are two primary 
+
+[[p7]]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+considerations in addition to esthetic value in the detailing of soffits: the structural stability of the system and 
+whether it can be easily and economically constructed using conventional methods. 
+Though prefabrication has not been widely used for total projects, it has been successfully used in many 
+specialized applications and is considered a conventional construction method. Prefabrication has been widely 
+used in the construction of soffits and may provide the most economical approach on certain projects. 
+Construction of soffits in place often requires expensive forming and shoring. However, if there is only a small 
+area of soffits involved on a given project, this may be the most efficient method. 
+Materials 
+Soffits generally are reinforced and grouted in some manner, whether built in place or prefabricated. Several 
+projects have been constructed using reinforced and grouted hollow units, conforming to ASTM C 652. See 
+Technical Notes 17 for information on reinforcement and grout. Properties for brick and mortar are discussed in 
+Technical Notes 7B Revised. 
+There are several high bond mortar additives available which may allow the designer to eliminate the 
+reinforcement and grout. However, it should be noted that the high bond mortars do not work well with all brick 
+units. The instructions of the additive manufacturer must be strictly followed, and a pre-design testing program 
+should be carried out, see Technical Notes 39A. 
+Design 
+There are several questions which must be answered when designing soffits. Some deal with esthetic value, 
+some with structural stability and some with construction. The primary esthetic concern is configuration. Should 
+the soffit be horizontal, or sloped, should it be integral with the spandrel or separate? The primary design concern 
+is structural. How should it be detailed to assure structural soundness, under all loading conditions, including any 
+loads imparted during erection? This may require detailing and construction practices unfamiliar to the designer 
+and contractor since this is not like a wall and demands careful consideration. One of the earliest decisions to be 
+made about the construction of the soffit is whether it will be best to construct it in place, or to prefabricate it. The 
+configuration, structural and economic considerations may dictate the method of construction to be used. See 
+Figs. 7 and 8. 
+BIA Headquarters Building - McLean, Virginia 
+FIG. 7 
+
+[[p8]]
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Evans Library, Texas A&M University - College Station, Texas 
+FIG. 8 
+Details 
+General. Each soffit entails its own unique detailing problems. These may include: configuration, support 
+available from the surrounding structure, space restriction on built in place soffits and construction sequencing. 
+The manner in which these problems are solved will determine how successfully the soffit will perform. 
+Flashing and Weepholes. Normally, soffits do not require flashing or weepholes. However, in some applications, 
+both may be required, see Fig. 9. In other applications, only weepholes may be required, since the inclusion of 
+flashing in some cases may impair the structural stability of the soffit. It can only be stressed that the detailer 
+should always keep in mind the primary function of flashing and weepholes in determining whether they are 
+needed in any particular application. Their primary functions are: 
+Flashing - collect and divert to the weepholes any moisture which might penetrate the element. 
+Weepholes - convey all collected and diverted water to the exterior. 
+Built-in-Place Brick Soffit 
+FIG. 9 
+Connections. Whether the soffit is prefabricated or built in place, its connection to the structure is the most 
+demanding detail for the designer to develop. Previously developed details may be totally inappropriate in the 
+present situation. Connection details are critical in providing structural stability to the soffit. In detailing 
+
+[[p9]]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+connections, it is important to keep one principal always in mind. That principle is: Keep It Simple. The simplest 
+connection details are in most cases the most successful. 
+Expansion Joints. The installation of expansion joints, in most cases, should be avoided in soffits; however, it 
+may be necessary to provide expansion joints when soffits are to be installed over large areas. The installation of 
+expansion joints may cause problems in providing structural stability of the element and require additional 
+connections to the structure. If it is necessary that expansion joints be installed in soffits, it is important to 
+remember that the function is expansion control. This is provided by resilient joints which can be compressed to 
+provide for the movement of brick masonry, especially during hot weather, due to thermal expansion of the brick 
+masonry and return to its original shape when the temperature is cooler. Reinforced and grouted brick masonry 
+does not usually require expansion joints. 
+Construction 
+Structural and economic considerations normally determine the construction methods to be used. While the 
+detailer does not normally specify the manner in which the detail is to be executed during construction, the 
+method of support and economic aspects determined by the detail will affect the method of construction chosen. 
+The method of supporting the soffit, both its permanent support and support during construction, has a direct 
+bearing on the method of construction selected. The economics of constructing the element can be affected by 
+configuration, structural support and materials selection. Economics in turn may well be the final determining 
+factor in the selection of the construction methods employed. 
+When a soffit is constructed in place, it sometimes requires a complicated system of centering and falsework 
+which must be left in place for a number of days. Normal practice is to provide spacer strips on the forms which 
+locate each unit within the form and provide a joint on the exposed face suitable for tuckpointing once the form is 
+removed, see Fig. 10. These strips should be the width of the joint and a minimum of 1/2 in. (13 mm) in height. 
+After the units have been placed on the form, the upper side is grouted and ties are placed in the joints for 
+anchorage to the structure. After several days of curing, the forms are stripped and the joints can then be 
+tuckpointed. The number of days required for curing is dependent upon conditions at the site during the curing 
+period and the materials used. See Technical Notes 7 for tuckpointing recommendations. 
+Built-in-Place Brick Soffit Forming 
+FIG. 10 
+In some cases, the use of built in place soffits may be precluded. Then, prefabrication may be the most logical 
+and economical approach, see Technical Notes 40 Series. This method of construction has been used very 
+satisfactorily on many projects. On most of the projects where it has been used, the soffit is built integral with a 
+spandrel cover and a sloped sill, see Figs 11 and 12. 
+
+[[p10]]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prefabricated Brick Sill, Spandrel and Soffit 
+FIG. 11 
+Prefabricated Brick Sill, Spandrel and Soffit 
+FIG. 12 
+
+[[p11]]
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUMMARY 
+The designer, when developing details for sills and soffits, should keep in mind the function of the element being 
+detailed, the esthetic value he wishes to achieve, the structural stability of the element, and the economics of 
+construction. It is essential to provide details which allow the elements to perform their primary functions as well 
+as possible. In order to do this, the designer must select the proper materials, locate them in the proper place, 
+and provide sufficient information so that the element can be properly constructed. Several decisions and 
+assumptions must be made by the designer because each project and each element on the project must be 
+satisfactorily addressed. 
+This Technical Notes addresses the major considerations necessary to successfully detail sills and soffits of brick 
+masonry. In some cases, other considerations may be necessary due to unusual or unique conditions. It is 
+beyond the scope of this Technical Notes to address all conditions and combinations of conditions which may 
+occur, therefore the designer or owner, or both, must make the final decision on the details, the materials selected 
+and the construction procedures used. The recommendations made in this Technical Notes are merely that-
+recommendations. The final configuration of the detail must in the long run be based on the designer's application 
+of some or all of the principles set forth here. 

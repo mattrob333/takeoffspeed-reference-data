@@ -1,0 +1,2824 @@
+6
+INDEX
+SEDIMENT
+TRAPS
+AND
+BARRIERS
+TEMPORARY SEDIMENT TRAP
+SEDIMENT BASIN
+SEDIMENT FENCE (Silt Fence)
+ROCK DAM
+SKIMMER SEDIMENT BASIN
+POROUS BAFFLES
+6.60.1
+6.61.1
+6.62.1
+6.63.1
+6.64.1
+6.65.1
+                             COMPOST SOCK                                                                             6.66.1 
+Rev. 5/13
+
+6
+
+Definition
+A small, temporary ponding basin formed by an embankment or excavation 
+to capture sediment.
+Purpose
+To detain sediment-laden runoff and trap the sediment to protect receiving 
+streams, lakes, drainage systems, and protect adjacent property.
+Conditions Where 
+Practice Applies
+Specific criteria for installation of a temporary sediment trap are as follows:
+•  At  the  outlets  of  diversions,  channels,  slope  drains,  or  other  runoff 
+conveyances that discharge sediment-laden water.
+•  Below areas that are draining 5 acres or less.
+•  Where  access  can  be  maintained  for  sediment  removal  and  proper 
+disposal.
+• In the approach to a stormwater inlet located below a disturbed area as 
+part of an inlet protection system.
+• Structure life limited to 2 years.
+A temporary sediment trap should not be located in an intermittent or 
+perennial stream.  
+Planning 
+Considerations
+Select  locations  for  sediment  traps  during  site  evaluation.    Note  natural 
+drainage divides and select trap sites so that runoff from potential sediment-
+producing areas can easily be diverted into the traps.  Ensure the drainage 
+areas for each trap does not exceed 5 acres.  Install temporary sediment traps 
+before land disturbing takes place within the drainage area.
+Make  traps  readily  accessible  for  periodic  sediment  removal  and  other 
+necessary maintenance.  Plan locations for sediment disposal as part of trap 
+site selection.  Clearly designate all disposal areas on the plans.
+In preparing plans for sediment traps, it is important to consider provisions to 
+protect the embankment from failure from storm runoff that exceeds the design 
+capacity.  Locate bypass outlets so that flow will not damage the embankment. 
+Direct emergency bypasses to undisturbed natural, stable areas.   If a bypass is 
+not possible and failure would have severe consequences, consider alternative 
+sites.
+Sediment trapping is achieved primarily by settling within a pool formed by 
+an embankment.  The sediment pool may also be formed by excavation, or by 
+a combination of excavation and embankment.  Sediment-trapping efficiency 
+is a function of surface area and inflow rate (Practice 6.61, Sediment Basin). 
+Therefore, maximize the surface area in the design. Because porous baffles 
+improve flow distribution across the basin, high length to width ratios are not 
+necessary to reduce short-circuiting and to optimize efficiency.
+Because  well  planned  sediment  traps  are  key  measures  to  preventing  off-
+site  sedimentation,  they  should  be  installed  in  the  first  stages  of  project 
+development.
+6.60
+temporary sediment trap
+Rev. 6/06 
+6.60.1
+Practice Standards and Specifications
+
+6
+Design Criteria
+Summary:                                  
+Primary Spillway:                        
+Maximum Drainage Area:           
+Minimum Volume:                        
+Minimum Surface Area:              
+Minimum L/W Ratio:                                   
+Minimum  Depth:
+Maximum Height: 
+Dewatering Mechanism:   
+Minimum Dewatering Time:       
+Baffles Required:
+Temporary Sediment Trap
+Stone Spillway
+5 acres
+3600 cubic feet per acre of disturbed area
+435 square feet per cfs of Q10 peak inflow
+2:1
+3.5 feet, 1.5 feet excavated below grade
+Weir elevation 3.5 feet above grade
+Stone Spillway
+N/A
+3
+Storage capacity—Provide a minimum volume of 3600 ft3/acre of disturbed 
+area draining into the basin.  Required storage volume may also be determined 
+by modeling the soil loss with the Revised Universal Soil Loss Equation or 
+other acceptable methods.  Measure volume to the crest elevation of the stone 
+spillway outlet.  
+Trap cleanout—Remove  sediment  from  the  trap,  and  restore  the  capacity 
+to original trap dimensions when sediment has accumulated to one-half the 
+design depth.
+Trap efficiency—The  following  design  elements  must  be  provided  for 
+adequate trapping efficiency:
+• Provide a surface area of 0.01 acres (435 square feet) per cfs based on the 
+10-year storm;
+• Convey runoff into the basin through stable diversions or temporary slope 
+drains;
+• Locate sediment inflow to the basin away from the dam to prevent short 
+circuits from inlets to the outlet;
+• Provide porous baffles (Practice 6.65, Porous Baffles);
+• Excavate  1.5  feet  of  the  depth  of  the  basin  below  grade,  and  provide 
+minimum storage depth of 2 feet above grade.
+Embankment—Ensure that embankments for temporary sediment traps do 
+not exceed 5 feet in height.  Measure from the center line of the original ground 
+surface to the top of the embankment.  Keep the crest of the spillway outlet 
+a minimum of 1.5 feet below the settled top of the embankment.  Freeboard 
+may be added to the embankment height to allow flow through a designated 
+bypass location.  Construct embankments with a minimum top width of 5 feet 
+and side slopes of 2:1 or flatter.  Machine compact embankments.
+Excavation—Where sediment pools are formed or enlarged by excavation, 
+keep side slopes at 2:1 or flatter for safety.
+Outlet section—Construct the sediment trap outlet using a stone section of 
+the embankment located at the low point in the basin.  The stone section serves 
+two purposes:  (1) the top section serves as a non-erosive spillway outlet for 
+flood flows; and (2) the bottom section provides a means of dewatering the 
+basin between runoff events.
+Stone size—Construct the outlet using well-graded stones with a d50 size of 9 
+inches (Class B erosion control stone is recommended,) and a maximum stone
+6.60.2 
+Rev. 6/06
+
+size of 14 inches.  The entire upstream face of the rock structure should be 
+covered with fine gravel (NCDOT #57 or #5 wash stone) a minimum of 1 foot 
+thick to reduce the drainage rate. 
+Side slopes—Keep the side slopes of the spillway section at 2:1 or flatter. 
+To protect the embankment, keep the sides of the spillway at least 21 inches 
+thick.
+Depth—The basin should be excavated 1.5 feet below grade.  
+Stone spillway height—The sediment storage depth should be a minimum of 
+2 feet and a maximum of 3.5 feet above grade. 
+Protection from piping—Place filter cloth on the foundation below the riprap 
+to prevent piping.  An alternative would be to excavate a keyway trench across 
+the riprap foundation and up the sides to the height of the dam. 
+Weir length and depth—Keep the spillway weir at least 4 feet long and sized 
+to pass the peak discharge of the 10-year storm (Figure 6.60a).  A maximum 
+flow depth of six inches, a minimum freeboard of 1 foot, and maximum side 
+slopes of 2:1 are recommended.  Weir length may be selected from Table 6.60a 
+shown for most site locations in North Carolina.
+Rev. 6/06 
+6.60.3
+Figure 6.60a Plan view and cross-section view of a temporary sediment trap. 
+Practice Standards and Specifications
+3600 cu ft/acre
+5’ 
+max
+1.5’ min.
+2:1
+5’ 
+min
+2:1
+12” min. of NCDOT #5 
+or #57 washed stone
+Cross-Section
+1:1
+1.5’ 
+min
+Plan View
+4’
+min.
+3’
+min.
+2’ to 3.5’
+5’ 
+max 
+fill
+Design settled 
+top
+21”
+min.
+filter 
+fabric
+Overfill 6” for 
+settlement
+Emergency by-
+pass 6” below 
+settled top of 
+dam
+Natural 
+Ground
+2:1 side 
+slope 
+max
+1:1 side 
+slope 
+max
+filter 
+fabric
+
+6
+table 6.60a 
+design of spillways
+drainage area 
+(acres)
+1
+2
+3
+4
+5
+Weir length1
+(ft)
+4.0
+6.0
+8.0
+10.0
+12.0
+  1 Dimensions shown are minimum.
+Construction 
+Specifications
+1. 
+Clear, grub, and strip the area under the embankment of all vegetation and 
+root mat.  Remove all surface soil containing high amounts of organic matter, 
+and stockpile or dispose of it properly.  Haul all objectionable material to the 
+designated disposal area. 
+2. 
+Ensure  that  fill  material  for  the  embankment  is  free  of  roots,  woody 
+vegetation, organic matter, and other objectionable material.  Place the fill in 
+lifts not to exceed 9 inches, and machine compact it.  Over fill the embankment 
+6 inches to allow for settlement.
+3. 
+Construct the outlet section in the embankment.  Protect the connection 
+between the riprap and the soil from piping by using filter fabric or a keyway 
+cutoff trench between the riprap structure and soil.
+• Place the filter fabric between the riprap and the soil.  Extend the fabric 
+across the spillway foundation and sides to the top of the dam; or
+• Excavate a keyway trench along the center line of the spillway foundation 
+extending up the sides to the height of the dam.  The trench should be at 
+least 2 feet deep and 2 feet wide with 1:1 side slopes.
+4. 
+Clear the pond area below the elevation of the crest of the spillway to 
+facilitate sediment cleanout.
+5. 
+All cut and fill slopes should be 2:1 or flatter.
+6. 
+Ensure  that  the  stone  (drainage)  section  of  the  embankment  has  a 
+minimum bottom width of 3 feet and maximum side slopes of 1:1 that extend 
+to the bottom of the spillway section.
+7. 
+Construct the minimum finished stone spillway bottom width, as shown 
+on  the  plans,  with  2:1  side  slopes  extending  to  the  top  of  the  over  filled 
+embankment.  Keep the thickness of the sides of the spillway outlet structure 
+at a minimum of 21 inches.  The weir must be level and constructed to 
+grade to assure design capacity.
+8. 
+Material used in the stone section should be a well-graded mixture of stone 
+with a d50 size of 9 inches (class B erosion control stone is recommended) and 
+a maximum stone size of 14 inches.  The stone may be machine placed and the 
+smaller stones worked into the voids of the larger stones.  The stone should be 
+hard, angular, and highly weather-resistant.
+9. Discharge inlet water into the basin in a manner to prevent erosion.  Use 
+temporary slope drains or diversions with outlet protection to divert sediment-
+laden water to the upper end of the pool area to improve basin trap efficiency 
+(References: Runoff Control Measures and Outlet Protection).
+6.60.4 
+Rev. 6/06
+
+10. Ensure that the stone spillway outlet section extends downstream past the 
+toe of the embankment until stable conditions are reached and outlet velocity 
+is acceptable for the receiving stream.  Keep the edges of the stone outlet 
+section flush with the surrounding ground, and shape the center to confine the 
+outflow stream (References: Outlet Protection).
+11.  Direct emergency bypass to natural, stable areas.  Locate bypass outlets 
+so that flow will not damage the embankment.
+12.  Stabilize the embankment and all disturbed areas above the sediment pool 
+and downstream from the trap immediately after construction (References: 
+Surface Stabilization).
+13.  Show the distance from the top of the spillway to the sediment cleanout 
+level (1/2 the design depth) on the plans and mark it in the field.
+14.   Install porous baffles as specified in Practice 6.65, Porous Baffles.
+Maintenance
+Inspect temporary sediment traps at least weekly and after each significant (½ 
+inch or greater) rainfall event and repair immediately.  Remove sediment, and 
+restore the trap to its original dimensions when the sediment has accumulated 
+to one-half the design depth of the trap.  Place the sediment that is removed in 
+the designated disposal area, and replace the part of the gravel facing that is 
+impaired by sediment.
+Check the structure for damage from erosion or piping.  Periodically check the 
+depth of the spillway to ensure it is a minimum of 1.5 feet below the low point 
+of the embankment.  Immediately fill any settlement of the embankment to 
+slightly above design grade.  Any riprap displaced from the spillway must 
+be replaced immediately.
+After all sediment-producing areas have been permanently stabilized, remove 
+the structure and all unstable sediment.  Smooth the area to blend with the 
+adjoining areas, and stabilize properly (References: Surface Stabilization).
+References
+Outlet Protection
+6.41, Outlet Stabilization Structure
+Runoff Control Measures
+6.20, Temporary Diversions 
+6.21, Permanent Diversions 
+6.22, Diversion Dike (Perimeter Protection) 
+6.23, Right-of-way Diversion (Water Bars)
+Surface Stabilization
+6.10, Temporary Seeding 
+6.11, Permanent Seeding 
+6.15, Riprap
+Sediment Traps and Barriers
+6.61, Sediment Basins
+  6.64, Skimmer Basins
+  6.65, Porous Baffles
+North Carolina Department of Transportation
+Standard Specifications for Roads and Structures
+Rev. 6/06 
+6.60.5
+Practice Standards and Specifications
+
+6
+6.60.6 
+Rev. 6/06
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.61 
+ 
+Definition 
+An earthen embankment suitably located to capture sediment with a primary  
+spillway system consisting of a riser and barrel pipe. 
+ 
+ Purpose 
+To retain sediment on the construction site, and prevent sedimentation in off-site 
+streams, lakes, and drainageways. 
+ 
+     Conditions Where  
+Special limitation – This practice applies only to the design and installation of  
+         Practice Applies  
+sediment basins where failure of the structure would not result in the loss of life, 
+damage to homes or buildings, or interrupt the use of public roads or utilities.  
+All high hazard potential dams and structures taller than 25 feet, and that also 
+have a maximum storage capacity of 50 acre-feet or more are subject to the 
+N.C. Dam Safety
+. 
+ Law of 1967
+ 
+ 
+Sediment basins are needed where drainage areas exceed design criteria of other 
+measures.  Specific criteria for installation of a sediment basin are as follows: 
+• 
+Keep the drainage area less than 100 acres; 
+• 
+Ensure that basin location provides a convenient concentration point for 
+sediment-laden flows from the area served; 
+• 
+Ensure that basin location allows access for sediment removal and 
+proper disposal under all weather conditions; and 
+• 
+Keep the basin life limited to 3 years, unless it is designed as a 
+permanent structure; 
+ 
+ 
+ 
+ 
+ 
+Do not locate sediment basins in intermittent or perennial streams.  
+ 
+         
+Planning  
+Select key locations for sediment basins during initial site evaluation.  Install  
+Considerations  basins before any land-disturbance takes place within the drainage area. 
+Select basin sites to capture sediment from all areas that are not treated 
+adequately by other sediment controls.  Always consider access for cleanout and 
+disposal of the trapped sediment.  Locations where a pond can be formed by 
+constructing a low dam across a natural swale are generally preferred to sites that 
+require excavation.  Where practical, divert sediment-free runoff away from the 
+basin. 
+Sediment trapping efficiency is primarily a function of sediment particle size and 
+the ratio of basin surface area to inflow rate.  Therefore, design the basin to have 
+a large surface area for its volume.  Figure 6.61a shows the relationship between 
+the ratio of surface area to peak inflow rate and trap efficiency observed by 
+Barfield and Clar (1986). 
+Sediment basins with an expected life greater than 3 years should be designed as 
+permanent structures.  Often sediment basins are converted to stormwater ponds.  
+In these cases, the structure should be designed by a qualified professional 
+engineer experienced in the design of dams.  Permanent ponds and artificial lakes 
+are beyond the scope of this practice standard.  USDA Soil Conservation 
+Services Practice Standard Ponds Code No. 378 provides criteria for design of 
+permanent ponds. 
+SEDIMENT BASIN 
+Rev. 5/13
+6.61.1
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6.61a Relationship between the ratio of surface area to peak inflow rate and trap efficiency.  
+ 
+Design Criteria  
+Summary: 
+ 
+ 
+ 
+ 
+Primary Spillway: 
+ 
+ 
+Riser/Barrel Pipe 
+Temporary Sediment Basin: 
+ 
+Maximum Drainage Area: 
+ 
+100 acres 
+ 
+Minimum Sediment Storage Volume: 
+1800 cubic feet per acre of disturbed area 
+ 
+Minimum Surface Area: 
+ 
+435 square feet per cfs of Q10
+ 
+Minimum L/W Ratio:  
+ 
+2:1 
+ peak inflow 
+ 
+Maximum L/W Ratio:  
+ 
+6:1 
+ 
+Minimum Depth: 
+ 
+ 
+2 feet 
+Dewatering Mechanism: 
+Skimmer(s) attached at bottom of riser 
+pipe or flashboard riser 
+ 
+Minimum Dewatering Time: 
+ 
+48
+ 
+hours
+ 
+ 
+Baffles Required: 
+ 
+ 
+3 baffles*  
+ 
+ 
+ 
+ 
+ 
+ 
+(*Note:  Basins less than 20 feet in length may use 2 baffles.) 
+ 
+ 
+ 
+Drainage areas- Limit drainage areas to 100 acres. 
+ 
+Design basin life- Ensure a design basin life of 3 years or less. 
+ 
+Dam height- Limit dam height to 15 feet.  Height of a dam is measured from the 
+top of the dam to the lowest point at the downstream toe.  Volume is measured 
+from the top of the dam when determining if the dam impounds enough water to 
+be regulated by the Dam Safety Law. 
+ 
+Rev. 5/13
+6.61.2
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Basin locations- Select areas that: 
+• Provide capacity for sediment storage from as much of the planned 
+disturbed area as practical; 
+• Exclude runoff from undisturbed areas where practical; 
+• Provide access for sediment removal throughout the life of the project and; 
+• Interfere minimally with construction activities. 
+Basin shape- Ensure that the flow length to basin width ratio is at least 2:1 to 
+improve trapping efficiency.  This basin shape may be attained by site selection 
+or excavation.  Length is measured at the elevation of the principal spillway. 
+Storage volume- Ensure that the sediment storage volume of the basin, as 
+measured to the elevation of the crest of the principal spillway, is at least 1,800 
+ft3/acre for the disturbed area draining into the basin (1,800 ft3
+Remove sediment from the basin when approximately one-half of the storage 
+volume has been filled. 
+ is equivalent to a 
+½ inch of sediment per acre of basin drainage area). 
+Spillway capacity- The spillway system must carry the peak runoff from the 10-
+year storm with a minimum 1 foot freeboard in the emergency spillway. 
+Base runoff computations on the disturbed soil cover conditions expected 
+during the effective life of the structure. 
+Principal spillway- Construct the principal spillway with a vertical riser 
+connected to a horizontal barrel that extends through the embankment and outlets 
+beyond the downstream toe of the dam, or an equivalent design. 
+• 
+Capacity- The primary spillway system must carry the peak runoff from 
+the 2-year storm, with the water surface at the emergency spillway crest 
+elevation. 
+Sediment cleanout elevation- Show the distance from the top of the riser to the 
+pool level when the basin is 50 percent full.  This elevation should also be 
+marked in the field with a permanent stake set at this ground elevation (not the 
+top of the stake). 
+Crest elevation- Keep the crest elevation of the riser a minimum of 1 foot below 
+the crest elevation of the emergency spillway. 
+Riser and Barrel- Keep the minimum barrel size at 15 inches for corrugated 
+metal pipe or 12 inches for smooth wall pipe to facilitate installation and reduce 
+potential for failure from blockage.  Ensure that the pipe is capable of 
+withstanding the maximum external loading without yielding, buckling or 
+cracking.  To improve the efficiency of the principal spillway system, make the 
+cross-sectional area of the riser at least 1.5 times that of the barrel.  The riser 
+should be sized to minimize the range of stages when orifice flow will occur. 
+Pipe Connections- Ensure that all conduit connections are watertight.  Rod and 
+lug type connector bands with gaskets are preferred for corrugated metal pipe to 
+assure watertightness under maximum loading and internal pressure.  Do not use 
+dimple (universal) connectors under any circumstances. 
+• 
+Trash guard- It is important that a suitable trash guard be installed to 
+prevent the riser and barrel pipes from becoming clogged.  Install a trash 
+guard on the top of the riser to prevent trash and other debris from 
+Rev. 5/13
+6.61.3
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+clogging the conduit.  A combination anti-vortex device and trash guard 
+improves the efficiency of the principal spillway and protects against 
+trash intake. 
+• 
+Protection against piping- Install at least one watertight anti-seep collar 
+with a minimum projection of 1.5 feet around the barrel of principal 
+spillway conduits, 8 inches or larger in diameter.  Locate the anti-seep 
+collar slightly downstream from the dam center line.  A properly 
+designed drainage diaphragm installed around the barrel may be used 
+instead of an anti-seep collar when it is appropriate. 
+• 
+Protection against flotation- Secure the riser by an anchor with buoyant 
+weight greater than 1.1 times the water displaced by the riser. 
+• 
+Outlet- Protect the outlet of barrel against erosion. 
+Discharge velocities must be within allowable limits for the receiving stream 
+(References:  Outlet Protection). 
+Basin dewatering- The basin should be provided with a mechanism to dewater 
+the basin from the water surface.  Previously sediment basins were dewatered 
+with a perforated riser.  These were designed to dewater relatively quickly and 
+draw water from the entire water column.  Dewatering from the surface provides 
+greater trapping efficiency.  Two common methods are a skimmer and flashboard 
+riser. 
+• 
+Skimmer- A floating skimmer should be attached to the base of the riser.  
+The orifice in the skimmer will control the rate of dewatering.  The 
+skimmer should be sized to dewater the basin in 2-5 days.  A chart to
+determine the appropriate skimmer and orifice size is included on page 
+6.64.3.  See Practice 6.64, Skimmer Basins for details on the installation
+of skimmers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6.61b   Sediment basin with skimmer attached to riser for dewatering. 
+Photo Credit:  Town of Apex 
+Rev. 5/13
+6.61.4
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Flashboard Riser- A different approach is to use a flashboard riser, which 
+forces the basin to fill to a given level before the water tops the riser.  In 
+this way it is similar to a solid riser, but with the option of being able to 
+lower the water level in the basin when accumulated sediment must be 
+removed.  Flashboard risers are usually fabricated as a box or as a riser 
+pipe cut in half.  The open face has slots on each side into which boards 
+or “stop logs” are placed, forcing the water up and over them.  This 
+device should be sized the same way as a typical riser. 
+ 
+Forcing the water to exit the sediment basin from the top of the water 
+column has the same advantages in sediment capture as the skimmer.  A 
+flashboard riser basin will have an adjustable, permanent pool which also 
+improves basin efficiency.  This method is a disadvantage when the 
+sediment needs to be removed because the operator may need to remove 
+the boards down to the sediment level to drain the basin.  Flashboard 
+risers are a good option for stilling basins for pump discharges, or when 
+sandy soil conditions will allow dewatering of the basin through 
+infiltration.  They should not be selected when the basin will have to be 
+cleaned frequently, or when located in clay soils. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6.61c   Flashboard Riser installation example. 
+Photo credit:  NC State University 
+ 
+ 
+Rev. 5/13
+6.61.5
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Emergency spillway- Construct the entire flow area of the emergency 
+spillway in undisturbed soil (not fill).  Make the cross section trapezoidal 
+with side slopes of 3:1 or flatter.  Make the control section of the spillway 
+straight and at least 20 feet long.  The inlet portion of the spillway may be 
+curved to improve alignment, but ensure that the outlet section is straight due 
+to supercritical flow in this portion. 
+• 
+Capacity- The minimum design capacity of the emergency spillway must 
+be the peak rate of runoff from the 10-year storm, less any reduction due 
+to flow in the principal spillway.  In no case should freeboard of the 
+emergency spillway be less than 1 foot above the design depth of flow. 
+• 
+Velocity- Ensure that the velocity of flow discharged from the basin is 
+non-erosive for the existing conditions.  When velocities exceed that 
+allowable for the receiving areas, provide outlet protection (References:  
+Outlet Protection). 
+Embankment- 
+• 
+Cut-off trench- Excavate a trench at the center line of the embankment.  
+Ensure that the trench is in undisturbed soil and extends through the 
+length of the embankment to the elevation of the riser crest at each end.  
+A minimum of depth of 2 feet is recommended. 
+• 
+Top width- The minimum top width of the dam is shown in Table 6.61a. 
+• 
+Freeboard- Ensure that the minimum difference between the design 
+water elevation in the emergency spillway and the top of the settled 
+embankment is 1 foot. 
+• 
+Side slopes- Make the side slopes of the impoundment structure 2.5:1 or 
+flatter (Figure 6.61d). 
+• 
+Allowance for settlement- Increase the constructed height of the fill at 
+least 10 percent above the design height to allow for settlement. 
+• 
+Erosion protection- Stabilize all areas disturbed by construction (except 
+the lower ½ of the sediment pool) by suitable means immediately after 
+completing the basin (References:  Surface Stabilization). 
+Design information included in the Appendices may be used to develop final 
+plans for sediment basins (References:  Appendices). 
+Trap efficiency- Improve sediment basin trapping efficiency by employing the 
+following considerations in the basin design: 
+• 
+Surface area- In the design of the settling pond, allow the largest surface 
+area possible.  Studies of Barfield and Clar (1986) indicate that surface 
+area (in acres) should be larger than 0.01 times the peak inflow rate in 
+cfs, or 435 sq. ft. per cfs of peak flow. 
+• 
+Length- The length to width ratio should be between 2:1 to 6:1. 
+ 
+Fill Height 
+Minimum Top Width 
+less than 10 ft 
+8.0 ft 
+10 ft to 15 ft 
+10.0 ft 
+Table 6.61a 
+ Acceptable Dimensions for  
+Basin Embankment 
+Rev. 5/13
+6.61.6
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Baffles- Provides a minimum of three porous baffles to evenly distribute 
+flow across the basin and reduces turbulence.  Basins less than 20 feet in 
+length may use 2 baffles .  
+• Inlets- Locate the sediment inlets to the basin the greatest distance from 
+the principal spillway. 
+ 
+• 
+Inflow rate- Reduce the inflow velocity and divert all sediment-free 
+runoff. 
+ 
+Construction 
+1.  Site preparations- Clear, grub, and strip topsoil from areas under the  
+Specifications        embankment to remove trees, vegetation, roots, and other objectionable material.  
+Delay clearing the pool area until the dam is complete and then remove brush,  
+trees, and other objectionable materials to facilitate sediment cleanout.  Stockpile  
+all topsoil or soil containing organic matter for use on the outer shell of the  
+embankment to facilitate vegetative establishment.  Place temporary sediment  
+control measures below the basin as needed. 
+ 
+2.  Cut-off trench- Excavate a cut-off trench along the center line of the earth fill 
+embankment.  Cut the trench to stable soil material, but in no case make it less 
+than 2 feet deep.  The cut-off trench must extend into both abutments to at least 
+the elevation of the riser crest.  Make the minimum bottom width wide enough to 
+permit operation of excavation and compaction equipment, but in no case less 
+than 2 feet.  Make side slopes of the trench no steeper than 1:1.  Compaction 
+requirements are the same as those for the embankment.  Keep the trench dry 
+during backfilling and compaction operations. 
+ 
+3.  Embankment- Take fill material from the approved areas shown on the plans.  
+It should be clean mineral soil, free of roots, woody vegetation, rocks, and other 
+objectionable material.  Scarify areas on which fill is to be placed before placing fill.  
+The fill material must contain sufficient moisture so it can be formed by hand 
+into a ball without crumbling.  If water can be squeezed out of the ball, it is too 
+wet for proper compaction.  Place fill material in 6 to 8 inch continuous layers 
+over the entire length of the fill area and compact it.  Compaction may be 
+obtained by routing the construction hauling equipment over the fill so that the 
+entire surface of each layer is traversed by at least one wheel or tread track of 
+heavy equipment, or a compactor may be used.  Construct the embankment to an 
+elevation 10 percent higher than the design height to allow for settling. 
+ 
+4.  Conduit spillways- Securely attach the riser to the barrel or barrel stub to 
+make a watertight structural connection.  Secure all connections between barrel 
+sections by approved watertight assemblies.  Place the barrel and riser on a firm, 
+smooth foundation of impervious soil.  Do not use pervious material such as 
+sand, gravel, or crushed stone as backfill around the pipe or anti-seep collars.  
+Place the fill material around the pipe spillway in 4-inch layers, and compact it 
+under and around the pipe to at least the same density as the adjacent 
+embankment.  Care must be taken not to raise the pipe from firm contact 
+with its foundation when compacting under the pipe haunches. 
+• Dewatering- Allow the maximum reasonable detention period before the 
+basin is completely dewatered-at least 48 hours.
+Rev. 5/13
+6.61.7
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Place a minimum depth of 2 feet of compacted backfill over the pipe spillway 
+before crossing it with construction equipment.  Anchor the riser in place by 
+concrete or other satisfactory means to prevent flotation.  In no case should the 
+pipe conduit be installed by cutting a trench through the dam after the 
+embankment is complete. 
+ 
+5.  Emergency spillway- Install the emergency spillway in undisturbed soil.  The 
+achievement of planned elevations, grade, design width, and entrance and exit 
+channel slopes are critical to the successful operation of the emergency spillway. 
+ 
+6.  Inlets- Discharge water into the basin in a manner to prevent erosion.  Use 
+diversions with outlet protection to divert sediment-laden water to the upper end 
+of the pool area to improve basin trap efficiency (References:  Runoff Control 
+Measures and Outlet Protection). 
+ 
+7.  Erosion control- Construct the structure so that the disturbed area is 
+minimized.  Divert surface water away from bare areas.  Complete the 
+embankment before the area is cleared.  Stabilize the emergency spillway 
+embankment and all other disturbed areas above the crest of the principal 
+spillway immediately after construction (References:  Surface Stabilization). 
+ 
+8.  Install porous baffles as specified in Practice 6.65, Porous Baffles. 
+ 
+9.  Safety- Sediment basins may attract children and can be dangerous.  Avoid 
+steep side slopes, and fence and mark basins with warning signs if trespassing is 
+likely.  Follow all state and local requirements. 
+ 
+Maintenance 
+Inspect temporary sediment basins at least weekly and after each significant (1/2  
+inch or greater) rainfall event and repair immediately.  Remove sediment and 
+restore the basin to its original dimensions when it accumulates to one-half the 
+design depth.  Place removed sediment in an area with sediment controls. 
+ 
+Check the embankment, spillways, and outlet for erosion damage, and inspect the 
+embankment for piping and settlement.  Make all necessary repairs immediately.  
+Remove all trash and other debris from the riser and pool area. 
+  
+ 
+ 
+Rev. 5/13
+6.61.8
+
+NOT  TO  SCALE
+NOTES
+1. SEED AND PLACE MATTING FOR EROSION CONTROL ON INTERIOR AND EXTERIOR SIDESLOPES.
+2. INSTALL A MINIMUM OF 3 COIR FIBER BAFFLES IN ACCORDANCE WITH PRACTICE STANDARD 6.65.
+3. INSTALL SKIMMER AND COUPLING TO RISER STRUCTURE OR DIRECTLY INTO EMBANKMENT 1 FT. FROM BOTTOM OF BASIN.
+4. THE ARM PIPE SHALL HAVE A MINIMUM LENGTH OF 6 FT. BETWEEN THE SKIMMER AND COUPLING.
+SECTIONAL VIEW
+PLAN VIEW
+4’MAX.
+4’
+4’
+1’
+1’
+6’ MIN.
+STEEL POSTS (QUANTITY VAR.)
+SKIMMER (SIZE VAR.)
+RISER STRUCTURE
+STONE ENERGY
+DISSIPATOR
+EMBANKMENT
+PLASTIC SLOPE DRAIN PIPE
+(PRACTICE STANDARD 6.32)
+OR
+GEOTEXTILE LINING
+TEMPORARY OR
+PERMANENT DITCH
+COIR FIBER BAFFLES
+(PRACTICE STANDARD 6.65)
+STONE PAD
+(below skimmer)
+WOOD STAKE
+OR METAL POST
+ROPE
+BARREL
+PIPE
+2.5:1 SLOPE MAX
+2.5:1 SLOPE MAX
+TOP OF EMBANKMENT
+RISER STRUCTURE
+TRASH RACK
+SKIMMER
+CLASS B STONE PAD
+(4’ X 4’ X 1’ MIN.)
+EMERGENCY SPILLWAY
+ANTIFLOTATION BLOCK
+FREEBOARD - 
+1’ MIN.
+EMERGENCY SPILLWAY
+STABILIZED
+OUTLET
+ANTI-SEEP
+COLLAR
+CUT-OFF
+TRENCH
+2’ DEEP
+1.1
+ 1’ MIN.
+Rev. 5/13
+6.61.9
+Practice Standards and Specifications 
+ 
+Figure 6.61d
+Sediment Basin (with Riser Barrel Pipe)
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References   
+Surface Stabilization  
+   6.10, Temporary Seeding 
+   6.11, Permanent Seeding 
+   6.12, Sodding 
+   6.13, Trees, Shrubs, Vines, and Ground Covers 
+Runoff Control Measures 
+  
+   6.20, Temporary Diversions 
+   6.21, Permanent Diversions 
+   6.22, Perimeter Dike 
+Outlet Protection 
+   6.40, Level Spreader 
+   6.41, Outlet Stabilization Structure 
+Sediment Traps and Barriers 
+   6.64, Skimmer Sediment Basin 
+   6.65, Porous Baffles 
+Appendices 
+   8.01, Soil Information 
+   8.02, Vegetation Tables 
+   8.03, Estimating Runoff 
+   8.04, Estimating Roughness Coefficients 
+   8.05, Design of Stable Channels and Diversions 
+   8.06, Design of Riprap Outlet Protection 
+   8.07, Sediment Basin Design 
+   8.08, The Sediment Control Law 
+Barfield, B.J. and M.L. Clar. Erosion and Sediment Control Practices.   
+   Report to the Sediment and Stormwater Division – Maryland Water 
+   Resources Administration, 1986. 
+ 
+ 
+ 
+ 
+Rev. 5/13
+6.61.10
+
+'H¿QLWLRQ
+$ WHPSRUDU\ VHGLPHQW FRQWURO PHDVXUH FRQVLVWLQJ RI IDEULF EXULHG DW WKH
+ERWWRPVWUHWFKHGDQGVXSSRUWHGE\SRVWV
+Purpose
+7RUHWDLQVHGLPHQWIURPVPDOOGLVWXUEHGDUHDVE\UHGXFLQJWKHYHORFLW\RI
+VKHHWÀRZVWRDOORZVHGLPHQWGHSRVLWLRQ
+Conditions Where 
+3UDFWLFH$SSOLHV
+%HORZVPDOOGLVWXUEHGDUHDVWKDWDUHOHVVWKHQóDFUHSHUIHHWRIIHQFH
+:KHUHUXQRIIFDQEHVWRUHGEHKLQGWKHVHGLPHQWIHQFHZLWKRXWGDPDJLQJWKH
+IHQFHRUWKHVXEPHUJHGDUHDEHKLQGWKHIHQFH
+'RQRWLQVWDOOVHGLPHQWIHQFHVDFURVVVWUHDPVGLWFKHVRUZDWHUZD\VRU
+RWKHUDUHDVRIFRQFHQWUDWHGÀRZ
+6HGLPHQWIHQFHVKRXOGEHSODFHGDORQJWRSRJUDSKLFHOHYDWLRQFRQWRXUVZKHUH
+LWFDQLQWHUFHSWVWRUPZDWHUUXQRIIWKDWLVLQGLVSHUVHGVKHHWÀRZ6HGLPHQW
+IHQFHVKRXOGQRWEHXVHGDORQHEHORZJUDGHGVORSHVJUHDWHUWKDQIHHWLQ
+KHLJKW
+3ODQQLQJ
+&RQVLGHUDWLRQV
+$VHGLPHQWIHQFHLVDV\VWHPWRUHWDLQVHGLPHQWRQWKHFRQVWUXFWLRQVLWH7KH
+IHQFHUHWDLQVVHGLPHQWSULPDULO\E\UHWDUGLQJÀRZDQGSURPRWLQJGHSRVLWLRQ
+,QRSHUDWLRQJHQHUDOO\WKHIHQFHEHFRPHVFORJJHGZLWK¿QHSDUWLFOHVZKLFK
+UHGXFHWKHÀRZUDWH7KLVFDXVHVDSRQGWRGHYHORSEHKLQGWKHIHQFH7KH
+GHVLJQHUVKRXOGDQWLFLSDWHSRQGLQJDQGSURYLGHVXI¿FLHQWVWRUDJHDUHDVDQG
+RYHUÀRZRXWOHWVWRSUHYHQWÀRZVIURPRYHUWRSSLQJWKHIHQFH6LQFHVHGLPHQW
+IHQFHVDUHQRWGHVLJQHGWRZLWKVWDQGKLJKZDWHUOHYHOVORFDWHWKHPVRWKDW
+RQO\VKDOORZSRROVFDQIRUP7LHWKHHQGVRIDVHGLPHQWIHQFHLQWRKLJKHU
+JURXQGWRSUHYHQWÀRZDURXQGWKHHQGRIWKHIHQFHEHIRUHWKHSRROUHDFKHV
+GHVLJQOHYHO&XUOLQJHDFKHQGRIWKHIHQFHXSKLOOLQD³-´SDWWHUQPD\EH
+DSSURSULDWHWRSUHYHQWHQGÀRZ3URYLGHVWDELOL]HGRXWOHWVWRSURWHFWWKHIHQFH
+V\VWHPDQGUHOHDVHVWRUPÀRZVWKDWH[FHHGWKHGHVLJQVWRUP
+'HSRVLWLRQRFFXUVDVWKHVWRUDJHSRROIRUPVEHKLQGWKHIHQFH7KHGHVLJQHUFDQ
+GLUHFWÀRZVWRVSHFL¿HGGHSRVLWLRQDUHDVWKURXJKDSSURSULDWHSRVLWLRQLQJRI
+WKHIHQFHRUE\SURYLGLQJDQH[FDYDWHGDUHDEHKLQGWKHIHQFH3ODQGHSRVLWLRQ
+DUHDVDWDFFHVVLEOHSRLQWVWRSURPRWHURXWLQHFOHDQRXWDQGPDLQWHQDQFH6KRZ
+GHSRVLWLRQDUHDVLQWKHHURVLRQDQGVHGLPHQWDWLRQFRQWUROSODQ$VHGLPHQW
+IHQFHDFWVDVDGLYHUVLRQLISODFHGVOLJKWO\RIIWKHFRQWRXU$PD[LPXPVORSH
+RISHUFHQWLVUHFRPPHQGHG7KLVWHFKQLTXHPD\EHXVHGWRFRQWUROVKDOORZ
+XQLIRUPÀRZVIURPVPDOOGLVWXUEHGDUHDVDQGWRGHOLYHUVHGLPHQWODGHQZDWHU
+WRGHSRVLWLRQDUHDV7KHDQFKRULQJRIWKHWRHRIWKHIHQFHVKRXOGEHUHLQIRUFHG
+ZLWKLQFKHVRI1&'27RUZDVKHGVWRQHZKHQÀRZZLOOUXQSDUDOOHO
+WRWKHWRHRIWKHIHQFH
+6HGLPHQWIHQFHVVHUYHQRIXQFWLRQDORQJULGJHVRUQHDUGUDLQDJHGLYLGHVZKHUH
+WKHUHLVOLWWOHPRYHPHQWRIZDWHU&RQ¿QLQJRUGLYHUWLQJUXQRIIXQQHFHVVDULO\
+ZLWKDVHGLPHQWIHQFHPD\FUHDWHHURVLRQDQGVHGLPHQWDWLRQSUREOHPVWKDW
+ZRXOGQRWRWKHUZLVHRFFXU
+SEDIMENT FENCE
+6.62
+6.62.1
+3UDFWLFH6WDQGDUGVDQG6SHFL¿FDWLRQV
+Rev. 5/13
+
+6
+6WUDZEDUULHUVKDYHRQO\DWUDSSLQJHI¿FLHQF\DQGDUHLQDGHTXDWH6WUDZ
+EDOHVPD\QRWEHXVHGLQSODFHRIVHGLPHQWIHQFH3UHIDEULFDWHGVHGLPHQWIHQFH
+ZLWKWKHIDEULFDOUHDG\VWDSOHGWRWKLQZRRGHQSRVWVGRHVQRWPHHWPLQLPXP
+VWDQGDUGVVSHFL¿HGODWHULQWKLVVHFWLRQ
+$QFKRULQJRIVHGLPHQWIHQFHLVFULWLFDO7KHWRHRIWKHIDEULFPXVWEHDQFKRUHG
+LQDWUHQFKEDFN¿OOHGZLWKFRPSDFWHGHDUWK0HFKDQLFDOFRPSDFWLRQPXVWEH
+SURYLGHGLQRUGHUIRUWKHIHQFHWRHIIHFWLYHO\SRQGUXQRII
+'HVLJQ&ULWHULD
+(QVXUHWKDWGUDLQDJHDUHDLVQRJUHDWHUWKDQóDFUHSHUIHHWRIIHQFH7KLV
+LVWKHPD[LPXPGUDLQDJHDUHDZKHQWKHVORSHLVOHVVWKDQSHUFHQW:KHUH
+DOOUXQRIILVWREHVWRUHGEHKLQGWKHIHQFHHQVXUHWKDWWKHPD[LPXPVORSH
+OHQJWKEHKLQGDVHGLPHQWIHQFHGRHVQRWH[FHHGWKHVSHFL¿FDWLRQVVKRZQLQ
+7DEOHD7KHVKRUWHUVORSHOHQJWKDOORZHGIRUVWHHSHUVORSHVZLOOJUHDWO\
+UHGXFHWKHPD[LPXPGUDLQDJHDUHD)RUH[DPSOHD±VORSHPD\KDYH
+DPD[LPXPVORSHOHQJWKRIIHHW)RUDIRRWOHQJWKRIVHGLPHQWIHQFH
+WKHGUDLQDJHDUHDZRXOGEHIW;IW VTIWRUDFUHV
+Table 6.62a Maximum
+Slope Length and Slope for 
+which Sediment Fence is 
+Applicable
+Slope
+<2%
+2 to 5%
+WR
+WR
+!
+Slope Length (ft)
+
+75
+
+25
+15
+Maximum Area (ft2)
+
+
+
+
+
+0DNHWKHIHQFHVWDEOHIRUWKH\HDUSHDNVWRUPUXQRII
+(QVXUHWKDWWKHGHSWKRILPSRXQGHGZDWHUGRHVQRWH[FHHGIHHWDWDQ\SRLQW
+DORQJWKHIHQFH
+,IQRQHURVLYHRXWOHWVDUHSURYLGHGVORSHOHQJWKPD\EHLQFUHDVHGEH\RQG
+WKDWVKRZQLQ7DEOHDEXWUXQRIIIURPWKHDUHDVKRXOGEHGHWHUPLQHGDQG
+E\SDVVFDSDFLW\DQGHURVLRQSRWHQWLDODORQJWKHIHQFHPXVWEHFKHFNHG7KH
+YHORFLW\RIWKHÀRZDWWKHRXWOHWRUDORQJWKHIHQFHVKRXOGEHLQNHHSLQJZLWK
+7DEOHG$SSHQGL[
+3URYLGHDULSUDSVSODVKSDGRURWKHURXWOHWSURWHFWLRQGHYLFHIRUDQ\SRLQW
+ZKHUHÀRZPD\RYHUWRSWKHVHGLPHQWIHQFHVXFKDVQDWXUDOGHSUHVVLRQVRU
+VZDOHV(QVXUHWKDWWKHPD[LPXPKHLJKWRIWKHIHQFHDWDSURWHFWHGUHLQIRUFHG
+RXWOHWGRHVQRWH[FHHGIHHWDQGWKDWVXSSRUWSRVWVSDFLQJGRHVQRWH[FHHG
+IHHW
+7KHGHVLJQOLIHRIDV\QWKHWLFVHGLPHQWIHQFHVKRXOGEHPRQWKV
+Construction
+6SHFL¿FDWLRQV
+MATERIALS
+1. 8VHDV\QWKHWLF¿OWHUIDEULFRIDWOHDVWE\ZHLJKWRISRO\ROH¿QVRU
+SRO\HVWHUZKLFKLVFHUWL¿HGE\WKHPDQXIDFWXUHURUVXSSOLHUDVFRQIRUPLQJWR
+WKHUHTXLUHPHQWVLQ$670'ZKLFKLVVKRZQLQSDUWLQ7DEOHE
+6\QWKHWLF¿OWHUIDEULFVKRXOGFRQWDLQXOWUDYLROHWUD\LQKLELWRUVDQGVWDELOL]HUV
+WRSURYLGHDPLQLPXPRIPRQWKVRIH[SHFWHGXVDEOHFRQVWUXFWLRQOLIHDWD
+WHPSHUDWXUHUDQJHRIWR)
+6.62.2
+Rev. 5/13
+
+2. (QVXUH WKDW SRVWV IRU VHGLPHQW IHQFHV DUH
+OEOLQHDU
+1.25
+IWminimum
+steel ZLWKDPLQLPXPOHQJWKRIIHHW0DNHVXUHWKDWVWHHOSRVWVKDYH
+SURMHFWLRQVWRIDFLOLWDWHIDVWHQLQJWKHIDEULF
+3. )RUUHLQIRUFHPHQWRIVWDQGDUGVWUHQJWK¿OWHUIDEULFXVHZLUHIHQFHZLWKD
+PLQLPXPJDXJHDQGDPD[LPXPPHVKVSDFLQJRILQFKHV
+CONSTRUCTION
+1. &RQVWUXFW WKH VHGLPHQW EDUULHU RI VWDQGDUG VWUHQJWK RU H[WUD VWUHQJWK
+V\QWKHWLF¿OWHUIDEULFV
+2. (QVXUHWKDWWKHKHLJKWRIWKHVHGLPHQWIHQFHGRHVQRWH[FHHGLQFKHV
+DERYH WKH JURXQG VXUIDFH  +LJKHU IHQFHV PD\ LPSRXQG YROXPHV RI ZDWHU
+VXI¿FLHQWWRFDXVHIDLOXUHRIWKHVWUXFWXUH
+3. &RQVWUXFWWKH¿OWHUIDEULFIURPDFRQWLQXRXVUROOFXWWRWKHOHQJWKRIWKH
+EDUULHUWRDYRLGMRLQWV:KHQMRLQWVDUHQHFHVVDU\VHFXUHO\IDVWHQWKH¿OWHU
+FORWKRQO\DWDVXSSRUWSRVWZLWKIHHWPLQLPXPRYHUODSWRWKHQH[WSRVW
+4. 6XSSRUWVWDQGDUGVWUHQJWK¿OWHUIDEULFE\ZLUHPHVKIDVWHQHGVHFXUHO\WR
+the XSVORSHVLGHRIWKHSRVWV([WHQGWKHZLUHPHVKVXSSRUWWRWKHERWWRPRI
+WKHWUHQFK)DVWHQWKHZLUHUHLQIRUFHPHQWWKHQIDEULFRQWKHXSVORSHVLGHRI
+WKHIHQFHSRVW:LUHRUSODVWLF]LSWLHVVKRXOGKDYHPLQLPXPSRXQGWHQVLOH
+VWUHQJWK
+5. :KHQDZLUHPHVKVXSSRUWIHQFHLVXVHGVSDFHSRVWVDPD[LPXPRIIHHW
+DSDUW6XSSRUWSRVWVVKRXOGEHGULYHQVHFXUHO\LQWRWKHJURXQGDPLQLPXPRI
+LQFKHV
+6. ([WUDVWUHQJWK¿OWHUIDEULFZLWKIHHWSRVWVSDFLQJGRHVQRWUHTXLUHZLUH
+PHVKVXSSRUWIHQFH6HFXUHO\IDVWHQWKH¿OWHUIDEULFGLUHFWO\WRSRVWV:LUHRU
+SODVWLF]LSWLHVVKRXOGKDYHPLQLPXPSRXQGWHQVLOHVWUHQJWK
+6.62.3
+7DEOHE6SHFL¿FDWLRQV)RU6HGLPHQW)HQFH)DEULF
+Temporary Silt Fence Material Property Requirements
+7HVW0DWHULDO
+Units
+Supported1
+6LOW)HQFH
+8Q6XSSRUWHG1
+6LOW)HQFH
+7\SHRI
+9DOXH
+*UDE6WUHQJWK
+$670'
+1OEV
+0DFKLQH'LUHFWLRQ
+
+
+0$59
+
+
+;0DFKLQH'LUHFWLRQ
+
+
+0$59
+
+
+3HUPLWWLYLW\2
+$670'
+VHF
+
+
+0$59
+$SSDUHQW2SHQLQJ6L]H2
+$670'
+PP
+
+
+0D[$593
+866LHYH
+
+
+8OWUDYLROHW6WDELOLW\
+$670'
+%
+5HWDLQHG
+Strength
+DIWHU
+KRIH[SRVXUH
+DIWHU
+KRIH[SRVXUH
+7\SLFDO
+16LOW)HQFHVXSSRUWVKDOOFRQVLVWRIJDJHVWHHOZLUHZLWKDPHVKVSDFLQJRIPPLQFKHVRUSUHIDEULFDWHGSR\OPHUPHVKRI
+HTXLYDOHQWVWUHQJWK
+27KHVHGHIDXOWYDOXHVDUHEDVHGRQHPSLULFDOHYLGHQFHZLWKDYDULHW\RIVHGLPHQW)RUHQYLURQPHQWDOO\VHQVLWLYHDUHDVDUHYLHZRI
+SUHYLRXVH[SHULHQFHDQGRUVLWHRUUHJLRQDOO\VSHFL¿FJHRWH[WLOHWHVWVLQDFFRUGDQFHZLWK7HVW0HWKRG'VKRXOGEHSHUIRUPHG
+E\WKHDJHQF\WRFRQ¿UPVXLWDELOLW\RIWKHVHUHTXLUHPHQWV
+3$VPHDVXUHGLQDFFRUGDQFHZLWK7HVW0HWKRG'
+3UDFWLFH6WDQGDUGVDQG6SHFL¿FDWLRQV
+Rev. 5/13
+
+6
+7. ([FDYDWHDWUHQFKDSSUR[LPDWHO\LQFKHVZLGHDQGLQFKHVGHHSDORQJ
+WKHSURSRVHGOLQHRISRVWVDQGXSVORSHIURPWKHEDUULHU)LJXUHD
+8. 3ODFHLQFKHVRIWKHIDEULFDORQJWKHERWWRPDQGVLGHRIWKHWUHQFK
+9. %DFN¿OOWKHWUHQFKZLWKVRLOSODFHGRYHUWKH¿OWHUIDEULFDQGFRPSDFW
+7KRURXJKFRPSDFWLRQRIWKHEDFN¿OOLVFULWLFDOWRVLOWIHQFHSHUIRUPDQFH
+10. 'RQRWDWWDFK¿OWHUIDEULFWRH[LVWLQJWUHHV
+SEDIMENT FENCE INSTALLATION USING THE SLICING METHOD
+,QVWHDG RI H[FDYDWLQJ D WUHQFK SODFLQJ IDEULF DQG WKHQ EDFN¿OOLQJ WUHQFK
+VHGLPHQW IHQFH PD\ EH LQVWDOOHG XVLQJ VSHFLDOO\ GHVLJQHG HTXLSPHQW WKDW
+LQVHUWVWKHIDEULFLQWRDFXWVOLFHGLQWKHJURXQGZLWKDGLVF)LJXUHE
+,QVWDOODWLRQ
+6SHFL¿FDWLRQV
+1.
+7KHEDVHRIERWKHQGSRVWVVKRXOGEHDWOHDVWRQHIRRWKLJKHUWKDQWKH
+PLGGOHRIWKHIHQFH&KHFNZLWKDOHYHOLIQHFHVVDU\
+2. ,QVWDOO SRVWV  IHHW DSDUW LQ FULWLFDO DUHDV DQG  IHHW DSDUW RQ VWDQGDUG
+DSSOLFDWLRQV
+3. ,QVWDOOSRVWVIHHWGHHSRQWKHGRZQVWUHDPVLGHRIWKHVLOWIHQFHDQG
+DVFORVHDVSRVVLEOHWRWKHIDEULFHQDEOLQJSRVWVWRVXSSRUWWKHIDEULFIURP
+XSVWUHDPZDWHUSUHVVXUH
+4. ,QVWDOOSRVWVZLWKWKHQLSSOHVIDFLQJDZD\IURPWKHVLOWIDEULF
+5. $WWDFKWKHIDEULFWRHDFKSRVWZLWKWKUHHWLHVDOOVSDFHGZLWKLQWKHWRS
+LQFKHVRIWKHIDEULF$WWDFKHDFKWLHGLDJRQDOO\GHJUHHVWKURXJKWKHIDEULF
+ZLWKHDFKSXQFWXUHDWOHDVWLQFKYHUWLFDOO\DSDUW$OVRHDFKWLHVKRXOGEH
+SRVLWLRQHGWRKDQJRQDSRVWQLSSOHZKHQWLJKWHQHGWRSUHYHQWVDJJLQJ
+6. :UDSDSSUR[LPDWHO\LQFKHVRIIDEULFDURXQGWKHHQGSRVWVDQGVHFXUH
+ZLWKWLHV
+7. 1R PRUH WKDQ  LQFKHV RI D  LQFK IDEULF LV DOORZHG DERYH JURXQG
+OHYHO
+8. 7KHLQVWDOODWLRQVKRXOGEHFKHFNHGDQGFRUUHFWHGIRUDQ\GHYLDWLRQVEHIRUH
+FRPSDFWLRQ
+9. &RPSDFWLRQLVYLWDOO\LPSRUWDQWIRUHIIHFWLYHUHVXOWV&RPSDFWWKHVRLO
+LPPHGLDWHO\QH[WWRWKHVLOWIHQFHIDEULFZLWKWKHIURQWZKHHORIWKHWUDFWRU
+VNLGVWHHURUUROOHUH[HUWLQJDWOHDVWSRXQGVSHUVTXDUHLQFK&RPSDFWWKH
+XSVWUHDPVLGH¿UVWDQGWKHQHDFKVLGHWZLFHIRUDWRWDORIWULSV
+6.62.4
+Rev. 5/13
+
+6.62.5
+3UDFWLFH6WDQGDUGVDQG6SHFL¿FDWLRQV
+Figure 6.62a,QVWDOODWLRQGHWDLORIDVHGLPHQWIHQFH
+·PD[VWDQGDUGVWUHQJWKIDEULFZLWKZLUHIHQFH
+· PD[ H[WUD VWUHQJWK IDEULF ZLWKRXW ZLUH IHQFH
+18-24”
+24”
+)LOWHU
+IDEULF
+:LUH
+IHQFH
+3ODVWLFRU
+ZLUHWLHV
+1DWXUDO
+ground
+6WHHO
+SRVW
+8”
+PLQ
+··
+PLQ
+6WHHO
+SRVW
+)LOWHU
+IDEULF
+1DWXUDO
+ground
+&URVV6HFWLRQ
+9LHZ
+%DFNÀOOWUHQFK
+DQGFRPSDFW
+J
+\
+WKRURXJKO\
+S
+8SVORSH
+24”
+:LUH
+IHQFH
+Rev. 5/13
+
+6.62.6
+Rev. 5/13
+
+3UDFWLFH6WDQGDUGVDQG6SHFL¿FDWLRQV
+0DLQWHQDQFH
+,QVSHFWVHGLPHQWIHQFHVDWOHDVWRQFHDZHHNDQGDIWHUHDFKUDLQIDOO0DNHDQ\
+UHTXLUHGUHSDLUVLPPHGLDWHO\
+6KRXOGWKHIDEULFRIDVHGLPHQWIHQFHFROODSVHWHDUGHFRPSRVHRUEHFRPH
+LQHIIHFWLYHUHSODFHLWSURPSWO\
+5HPRYHVHGLPHQWGHSRVLWVDVQHFHVVDU\WRSURYLGHDGHTXDWHVWRUDJHYROXPH
+IRUWKHQH[WUDLQDQGWRUHGXFHSUHVVXUHRQWKHIHQFH7DNHFDUHWRDYRLG
+XQGHUPLQLQJWKHIHQFHGXULQJFOHDQRXW
+5HPRYHDOOIHQFLQJPDWHULDOVDQGXQVWDEOHVHGLPHQWGHSRVLWVDQGEULQJWKH
+DUHDWRJUDGHDQGVWDELOL]HLWDIWHUWKHFRQWULEXWLQJGUDLQDJHDUHDKDVEHHQ
+SURSHUO\VWDELOL]HG
+References
+$670'±³6WDQGDUG6SHFL¿FDWLRQIRU6LOW)HQFH0DWHULDOV´$670
+,QWHUQDWLRQDO )RU UHIHUHQFHG $670 VWDQGDUGV YLVLW WKH $670 ZHEVLWH
+ZZZDVWPRUJRUFRQWDFW$670&XVWRPHU6HUYLFHDWVHUYLFH#DVWPRUJ)RU
+$QQXDO%RRNRI$6706WDQGDUGVYROXPHLQIRUPDWLRQUHIHUWRWKHVWDQGDUG¶V
+'RFXPHQW6XPPDU\SDJHRQWKH$670ZHEVLWH
+$670'±³6WDQGDUG3UDFWLFHIRU6LOW)HQFH,QVWDOODWLRQ´$670
+,QWHUQDWLRQDO )RU UHIHUHQFHG $670 VWDQGDUGV YLVLW WKH $670 ZHEVLWH
+ZZZDVWPRUJRUFRQWDFW$670&XVWRPHU6HUYLFHDWVHUYLFH#DVWPRUJ)RU
+$QQXDO%RRNRI$6706WDQGDUGVYROXPHLQIRUPDWLRQUHIHUWRWKHVWDQGDUG¶V
+'RFXPHQW6XPPDU\SDJHRQWKH$670ZHEVLWH
+& -RHO 6SUDJXH 3( 6LOW )HQFH 3HUIRUPDQFH /LPLWV DQG ,QVWDOODWLRQ
+5HTXLUHPHQWV  6SUDJXH DQG 6SUDJXH &RQVXOWLQJ (QJLQHHUV DQG 75,
+(QYLURQPHQWDO,QF
+&DUSHQWHU(URVLRQ&RQWUROKWWSZZZWRPP\VIPFRP
+.HQWXFN\(URVLRQ3UHYHQWLRQDQG6HGLPHQW&RQWURO)LHOG0DQXDO
+Runoff Control Measures
+7HPSRUDU\'LYHUVLRQV
+Outlet Protection
+2XWOHW6WDELOL]DWLRQ6WUXFWXUH
+Appendix
+(VWLPDWLQJ5XQRII
+6.62.7
+Rev. 5/13
+
+6
+6.62.8
+Rev. 5/13
+
+Practice Standards and Specifications
+Definition
+A rock embankment located to capture sediment in a naturally formed drainage 
+feature. 
+Purpose
+To trap sediment on the construction site, and prevent off-site sedimentation in 
+streams, lakes, and drainageways.
+Conditions Where 
+Practice Applies
+The rock dam may be used in drainage areas too large for the use of a temporary 
+sediment trap.  The height of the dam is limited to 8 feet, and drainage area 
+should be no larger than 10 acres.
+The  rock  dam  is  preferred  where  a  stable,  earthen  embankment  would  be 
+difficult to construct, and riprap and gravel are readily available.  The site 
+must be accessible for periodic sediment removal.
+A rock dam should not be located in a intermittent or perennial stream.
+Planning 
+Considerations
+A sediment basin formed by a rock embankment is used primarily where it is 
+desirable to have the top of the structure serve as the overflow outlet and where 
+suitable rock is readily available.  A long weir crest is designed to keep flow 
+depth shallow and discharge velocities low.  The inside face of the rock dam 
+must be covered with gravel to reduce the rate of seepage through the dam so 
+that a sediment pool will form during runoff events.  The pool should drain 
+slowly through the gravel.
+The abutments of the rock dam must be higher than the top of the dam to 
+prevent any water from flowing against the soil.  Suitable filter fabric should 
+be placed between the rock structure and its soil base and abutments.  This 
+practice prevents “piping” or soil movement in the foundation and abutments. 
+Rock should extend downstream from the toe of the dam, on zero grade, and a 
+sufficient distance to stabilize flow and prevent erosion.
+For other planning considerations see Practice 6.61, Sediment Basin.
+Design Criteria
+Summary:                                   
+Primary Spillway:                        
+Maximum Drainage Area: 
+Minimum Sediment Storage 
+Volume:                       
+Minimum Surface Area:              
+Minimum L/W Ratio:                  
+Minimum Depth:                         
+Maximum Height:                       
+Dewatering Mechanism               
+Minimum Dewatering Time:       
+Baffles Required:                         
+Temporary Rock Dam
+Stone Spillway
+10 acres
+3600 cubic feet per acre of disturbed area
+435 square feet per cfs of Q10 peak inflow
+2:1
+3.5 feet, 1.5 feet excavated below grade
+Weir elevation 6 feet above grade
+Stone Spillway
+N/A
+3
+Design basin life—3 years or less.
+Dam height—limited to 8 feet.
+6.63
+sediment Basin WitH rock dam
+ 
+6.63.1
+Rev. 5/13
+
+6
+Basin locations—select areas that:
+• provide a large surface area to trap sediment;
+• intercept runoff from disturbed areas;
+• are accessible for periodic sediment removal; and
+• interfere minimally with construction activities.
+Basin volume—The volume of the basin should be at least 3600 cubic feet 
+per acre based on disturbed area draining into the basin, and measured 1 foot 
+below the spillway crest.  A sediment cleanout elevation, where the sediment 
+pool is 50% full, should be marked in the field with a permanent stake.
+Trap efficiency—The  following  design  elements  must  be  provided  for 
+adequate trapping efficiency:
+• provide a surface area of 0.01 acres (435 square feet) per cfs based on the 
+area draining to the rock dam.
+• locate sediment inflow to the basin away from the dam to prevent short 
+circuits from inlets to the outlet;
+• provide porous baffles (Practice 6.65, Porous Baffles); and
+• excavate 1.5 feet of the depth of the basin below grade, and a minimum 
+of 2 feet above grade.
+Spillway capacity—The  spillway  should  carry  peak  runoff  for  a  10-year 
+storm with maximum flow depth of 6 inches and a minimum freeboard of 1 
+foot.  The top of the rock embankment may serve as the spillway.
+Embankment—
+  Top width—  5 feet minimum 
+Side Slopes—  Maximum:  2:1 upstream slope 
+ 
+ 
+3:1 downstream slope
+Rock abutments should extend to an elevation at least 2 feet above the spillway. 
+Abutments should be 2 feet thick with 2:1 side slopes.  The rock abutments 
+should extend down the downstream face of the dam to the toe, at least 1 foot 
+higher than the rest of the dam to protect the earth abutments from scour.
+Outlet protection—A  rock  apron,  at  least  1.5  feet  thick,  should  extend 
+downstream from the toe of the dam on zero grade.  A sufficient distance or 
+a distance equal to the height of the dam (whichever is greater) is needed to 
+prevent channel erosion.
+Rock fill—Rock should be well graded, hard, erosion resistant stone with a 
+minimum d50 size of 12 inches.  Typically, a rock dam should be constructed of 
+a downstream layer of Class II riprap providing 3 feet of the crest width and an 
+upstream layer of Class I riprap providing 2 feet of the crest width. 
+Protection from “piping”—To prevent soil movement and piping under the 
+dam, the entire foundation including both earth abutments must be covered 
+by filter fabric.  Overlap 1 foot at all joints, with the upstream strip over the 
+downstream strip.
+Basin dewatering—The entire upstream face of the rock structure should be 
+covered with fine gravel (NC DOT #57 or #5 washed stone) a minimum of 1 
+foot thick to reduce the drainage rate.
+6.63.2 
+Rev. 6/06
+
+Practice Standards and Specifications
+Construction 
+Specifications
+1.  Clear  the  areas  under  the  embankment  and  strip  of  roots  and  other 
+objectionable material.  Delay cleaning the reservoir area until the dam is in 
+place.
+2. Cover the foundation area including the abutments with extra-strength filter 
+fabric before backfilling with rock.  If a cutoff trench is required, excavate at 
+center line of dam, extending all the way up the earth abutments.  Apply filter 
+fabric under the rockfill embankment from the upstream edge of the dam to 
+the downstream edge of the apron.  Overlap fill material a minimum of 1 foot 
+at all joints, with the upstream strip laid over the downstream strip. 
+3.  Construct the embankment with well-graded rock and gravel to the size 
+and dimensions shown on the drawings.  It is important that rock abutments 
+be at least 2 feet higher than the spillway crest and at least 1 foot higher than 
+the dam, all the way to the downstream toe, to prevent scour and erosion at the 
+abutments.
+Figure 6.63a Rock Dam cross section
+Rev. 6/06 
+6.63.3
+Class I and II 
+Riprap
+1’ min. NC DOT #5 
+or #57 washed 
+stone
+5’
+2’
+2:1
+3:1
+Rock Abutment
+Weir Elevation
+Min. 1.5’ thick 
+Rock Apron
+Filter Fabric
+Cut-off Trench
+6’
+Cross-Section View
+
+6
+4.  Sediment-laden water from the construction site should be diverted into 
+the basin reservoir at the furthest area from the dam.
+5.  Construct  the  rock  dam  before  the  basin  area  is  cleared  to  minimize 
+sediment  yield  from  construction  of  the  basin.    Immediately  stabilize  all 
+areas disturbed during the construction of the dam except the sediment pool 
+(References: Surface Stabilization).
+6. Safety—Sediment basins should be considered dangerous because they 
+attract children.  Steep side slopes should be avoided.  Fences with warning 
+signs may be needed if trespassing is likely.  All state and local requirements 
+must be followed.
+6.63.4 
+Rev. 6/06
+Natural Ground
+Level apron
+Gravel 
+facing
+Spillway crest
+Rock Abutment
+5’ min
+Flow
+1
+2’ min
+2
+Slope foundation
+Filter fabric
+Spillway
+2’ min
+2:1
+Top of rock abutment
+Spillway Details
+Figure 6.63b Rock Dam plan view and 
+spillway details
+
+Maintenance
+Check sediment basins after each rainfall.  Remove sediment and restore original 
+volume  when  sediment  accumulates  to  about  one-half  the  design  volume. 
+Sediment should be placed above the basin and adequately stabilized.  
+Check the structure for erosion, piping, and rock displacement weekly and 
+after each significant (½ inch or greater) rainstorm and repair immediately.
+Remove  the  structure  and  any  unstable  sediment  immediately  after  the 
+construction site has been permanently stabilized.  Smooth the basin site to 
+blend with the surrounding area and stabilize.  All water and sediment should 
+be removed from the basin prior to dam removal.  Sediment should be placed 
+in designated disposal areas and not allowed to flow into streams or drainage 
+ways during structure removal.
+References
+Surface Stabilization
+6.10, Temporary Seeding 
+6.11, Permanent Seeding 
+6.12, Sodding 
+6.13, Trees, Shrubs, Vines, and Ground Covers
+Sediment Traps and Barriers
+6.61, Sediment Basins 
+6.65, Porous Baffles
+North Carolina Department of Transportation 
+Standard Specifications for Roads and Structures
+Rev. 6/06 
+6.63.5
+Practice Standards and Specifications
+
+6
+6.63.6 
+Rev. 6/06
+
+3UDFWLFH6WDQGDUGVDQG6SHFL¿FDWLRQV
+'H¿QLWLRQ
+$QHDUWKHQHPEDQNPHQWVXLWDEO\ORFDWHGWRFDSWXUHUXQRIIZLWKDWUDSH]RLGDO
+VSLOOZD\OLQHGZLWKDQLPSHUPHDEOHJHRWH[WLOHRUODPLQDWHGSODVWLFPHPEUDQH
+DQGHTXLSSHGZLWKDÀRDWLQJVNLPPHUIRUGHZDWHULQJ
+Purpose
+6HGLPHQWEDVLQVDUHGHVLJQHGWRSURYLGHDQDUHDIRUUXQRIIWRSRRODQGVHWWOH
+RXW D SRUWLRQ RI WKH VHGLPHQW FDUULHG GRZQ JUDGLHQW  3DVW GHVLJQV XVHG D
+SHUIRUDWHGULVHUIRUGHZDWHULQJZKLFKDOORZHGZDWHUWROHDYHWKHEDVLQIURP
+DOOGHSWKV2QHZD\WRLPSURYHWKHVHGLPHQWFDSWXUHUDWHLVWRKDYHDQRXWOHW
+ZKLFKGHZDWHUVWKHEDVLQIURPWKHWRSRIWKHZDWHUFROXPQZKHUHWKHZDWHU
+LVFOHDQHVW$VNLPPHULVSUREDEO\WKHPRVWFRPPRQPHWKRGWRGHZDWHUD
+VHGLPHQWEDVLQIURPWKHVXUIDFH7KHEDVLFFRQFHSWLVWKDWWKHVNLPPHUGRHV
+QRWGHZDWHUWKHEDVLQDVIDVWDVUXQRIIHQWHUVLWEXWLQVWHDGDOORZVWKHEDVLQ
+WR¿OODQGWKHQVORZO\GUDLQRYHUKRXUVRUGD\V7KLVSURFHVVKDVWZRHIIHFWV
+)LUVWWKHVHGLPHQWLQWKHUXQRIIKDVPRUHWLPHWRVHWWOHRXWSULRUWRGLVFKDUJH
+6HFRQGDSRRORIZDWHUIRUPVHDUO\LQDVWRUPHYHQWDQGWKLVIXUWKHULQFUHDVHV
+VHGLPHQWDWLRQ UDWHV LQ WKH EDVLQ  0DQ\ RI WKH VWRUPV ZLOO SURGXFH PRUH
+YROXPHWKDQWKHW\SLFDOVHGLPHQWEDVLQFDSDFLW\DQGÀRZUDWHVLQH[FHVVRI
+WKHVNLPPHUFDSDELOLW\UHVXOWLQJLQÀRZRYHUWKHHPHUJHQF\VSLOOZD\7KLV
+ZDWHULVDOVRFRPLQJIURPWKHWRSRIWKHZDWHUFROXPQDQGKDVWKHUHE\EHHQ
+³WUHDWHG´WRUHPRYHVHGLPHQWDVPXFKDVSRVVLEOH$GDSWHGIURP6RLO)DFWV
+'HZDWHULQJ6HGLPHQW%DVLQV8VLQJ6XUIDFH2XWOHWV1&6WDWH8QLYHUVLW\
+6RLO6FLHQFH'HSDUWPHQW
+Conditions Where 
+3UDFWLFH$SSOLHV
+6NLPPHU VHGLPHQW EDVLQV DUH QHHGHG ZKHUH GUDLQDJH DUHDV DUH WRR ODUJH
+IRUWHPSRUDU\VHGLPHQWWUDSV'RQRWORFDWHWKHVNLPPHUVHGLPHQWEDVLQLQ
+LQWHUPLWWHQWRUSHUHQQLDOVWUHDPV
+3ODQQLQJ
+&RQVLGHUDWLRQV
+6HOHFW ORFDWLRQV IRU VNLPPHU EDVLQV GXULQJ LQLWLDO VLWH HYDOXDWLRQ  ,QVWDOO
+VNLPPHU VHGLPHQW EDVLQV EHIRUH DQ\ VLWH JUDGLQJ WDNHV SODFH ZLWKLQ WKH
+GUDLQDJHDUHD
+6HOHFWVNLPPHUVHGLPHQWEDVLQVLWHVWRFDSWXUHVHGLPHQWIURPDOODUHDVWKDWDUH
+QRWWUHDWHGDGHTXDWHO\E\RWKHUVHGLPHQWFRQWUROPHDVXUHV$OZD\VFRQVLGHU
+DFFHVVIRUFOHDQRXWDQGGLVSRVDORIWKHWUDSSHGVHGLPHQW/RFDWLRQVZKHUH
+DSRQGFDQEHIRUPHGE\FRQVWUXFWLQJDORZGDPDFURVVDQDWXUDOVZDOHDUH
+JHQHUDOO\SUHIHUUHGWRVLWHVWKDWUHTXLUHH[FDYDWLRQ:KHUHSUDFWLFDOGLYHUW
+VHGLPHQWIUHHUXQRIIDZD\IURPWKHEDVLQ
+$VNLPPHULVDVHGLPHQWDWLRQEDVLQGHZDWHULQJFRQWUROGHYLFHWKDWZLWKGUDZV
+ZDWHUIURPWKHEDVLQ¶VZDWHUVXUIDFHWKXVUHPRYLQJWKHKLJKHVWTXDOLW\ZDWHU
+IRUGHOLYHU\WRWKHXQFRQWUROOHGHQYLURQPHQW$VNLPPHULVVKRZQLQ)LJXUH
+D%\SURSHUO\VL]LQJWKHVNLPPHU¶VFRQWURORUL¿FHWKHVNLPPHUFDQEH
+PDGHWRGHZDWHUDGHVLJQK\GURORJLFHYHQWLQDSUHVFULEHGSHULRG%HFDXVHWKH
+VSLOOZD\LVDFWXDOO\XVHGUHODWLYHO\IUHTXHQWO\LWVKRXOGEHFDUHIXOO\VWDELOL]HG
+XVLQJJHRWH[WLOHVRUURFNLIQHFHVVDU\WKDWFDQZLWKVWDQGWKHH[SHFWHGÀRZV
+7KHVSLOOZD\VKRXOGEHSODFHGDVIDUIURPWKHLQOHWRIWKHEDVLQDVSRVVLEOHWR
+PD[LPL]HVHGLPHQWDWLRQEHIRUHGLVFKDUJH7KHVSLOOZD\VKRXOGEHORFDWHGLQ
+QDWXUDOJURXQGFRYHUWRWKHJUHDWHVWH[WHQWSRVVLEOH
+6.64
+SKIMMER SEDIMENT BASIN
+6.64.1
+Rev. 5/13
+
+6
+7KH FRVWV RI XVLQJ D VNLPPHU V\VWHP DUH VLPLODU RU RFFDVLRQDOO\ OHVV WKDQ
+D FRQYHQWLRQDO URFN RXWOHW RU SHUIRUDWHG ULVHU +RZHYHU WKH EDVLQ LV PRUH
+HI¿FLHQW LQ UHPRYLQJ VHGLPHQW $QRWKHU DGYDQWDJH RI WKH VNLPPHU LV WKDW LW
+FDQ EH UHXVHG RQ IXWXUH SURMHFWV 7KH PDLQ GLVDGYDQWDJH RI WKH VNLPPHU LV
+WKDW LW GRHV UHTXLUH IUHTXHQW PDLQWHQDQFH SULPDULO\ LQ UHPRYLQJ GHEULV IURP
+WKH LQOHW
+$ VNLPPHU PXVW GHZDWHU WKH EDVLQ IURP WKH WRS RI WKH ZDWHU VXUIDFH 7KH UDWH
+Figure 6.64a6FKHPDWLFRIDVNLPPHUIURP3HQQV\OYDQLD(URVLRQDQG6HGLPHQW3ROOXWLRQ&RQWURO0DQXDO
+0DUFK
+6.64.2
+39&
+39&(QG
+&DS
+39&(OERZ
+39&(QG
+&DS
+
+Q
+H
+´&µ(QFORVXUH
+DWHU(QWU\
+8QLW
+$UP $VVHPEO\
+PERSPECTIVE VIEW
+39&9HQW
+3LSH
+)
+FH
+H
+6FKHGXOH
+3LSH
+FRONT VIEW
+ END VIEW
+of dewatering must be controlled.  A dewatering time of 2-5 days is required.
+Any skimmer design that dewaters from the surface at a controlled rate
+is acceptable.
+Rev. 5/13
+
+3UDFWLFH6WDQGDUGVDQG6SHFL¿FDWLRQV
+                                                                                                                                                                      6.64.3
+SKIMMER ORIFICE DIAMETER
+7KH RUL¿FH RI D VNLPPHU VKRXOG EH VHOHFWHG LQ RUGHU WR DFKLHYH WKH GHVLUHG
+GHZDWHULQJWLPHThree daysLVSUREDEO\WKHRSWLPDOOHQJWKRIWLPHIRUWHPSRUDU\
+VHGLPHQWFRQWUROV,WDOORZVORQJHUVHWWOLQJWLPHIRUVXVSHQGHGVROLGVUHPDLQLQJ
+LQWKHEDVLQDIWHUDVWRUPHYHQWZKLOHGHZDWHULQJWKHEDVLQLQOHVVWLPHWKDQ
+WKH DYHUDJH LQWHUYDO EHWZHHQ UDLQIDOO HYHQWV  'HVLJQ FULWHULD IRU SHUPDQHQW
+VWRUPZDWHUGHWHQWLRQEDVLQVLQWKH'LYLVLRQRI:DWHU4XDOLW\6WRUPZDWHU%03
+0DQXDOUHTXLUHGD\VIRUGHZDWHULQJ
+Procedure
+)LUVWGHWHUPLQHWKHGHVLUHGGHZDWHULQJWLPHLQGD\VWdDQGWKHYROXPH9RI
+ZDWHUWREHUHOHDVHGLQWKDWWLPHSHULRG'LYLGLQJWKHYROXPHLQFXELFIHHWE\WKH
+GHZDWHULQJWLPHLQGD\VJLYHVDÀRZUDWH4dLQFXELFIHHWSHUGD\
+4d 9Wd  (ftGD\
+1H[WGHWHUPLQHWKHKHDGRQWKHVNLPPHURUL¿FH7DEOHDKDVWKHYDOXHVIRU
+YDULRXVVL]HVRIWKH)DLUFORWKVNLPPHU
+7DEOHD+HDGRQRUL¿FHRIYDULRXVVNLPPHUVL]HV
+7KH GHVLUHG RUL¿FH GLDPHWHU ' LQ LQFKHV FDQ QRZ EH FDOFXODWHG XVLQJ WKH
+HTXDWLRQ
+            _______________
+' 
+4d +LQFKHV
+([DPSOH6HOHFWDVNLPPHUWKDWZLOOGHZDWHUDIWVNLPPHUEDVLQLQ
+GD\V
+
+4d 9Wd  (ftGD\ IWGD\V IWGD\
+
+7U\DLQFKVNLPPHUZLWK+ IW7DEOHD
+______________
+___________________________
+' 
+4d +LQ 
+IWGD\ IWLQ
+
+ LQFKHV8VHóLQFKHV
+6NLPPHU6L]HLQ
++HDGRQ2UL¿FHIW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+Rev. 5/13
+
+6
+6.64.4
+The desired dewatering time can also be achieved by adjusting the skimmer 
+VL]H DQG RUL¿FH GLDPHWHU XVLQJ WKH VSUHDGVKHHW HQWLWOHG ³6HGLPHQW &RQWURO
+0HDVXUHV´ZKLFKLVDYDLODEOHDWKWWSportal.ncdenr.org/web/lr/links
+)LJXUHE([DPSOH([FHO6SUHDGVKHHW
+Adapted from training materials developed by Albert R. Jarrett, Ph.D. 
+IRU (URVLRQ DQG 6HGLPHQW &RQWURO6WRUPZDWHU &HUWL¿FDWLRQ IRU 1&
+'273URMHFWV/HYHO,,,$DQG,,,%1&6WDWH8QLYHUVLW\'HSDUWPHQWRI
+%LRORJLFDODQG$JULFXOWXUDO(QJLQHHULQJ
+6NLPPHU6L]H +HDGRQ6NLPPHU
+(Inches)
+(Feet)
+
+
+
+
+
+
+3
+
+
+
+
+
+6
+
+
+
+
+6NLPPHU6L]HLQFKHV
+
++HDGRQ6NLPPHUIHHW
+
+2UL¿FH6L]H in increment)
+
+Dewatering Time (days)
+Rev. 5/13
+
+3UDFWLFH6WDQGDUGVDQG6SHFL¿FDWLRQV
+'HVLJQ&ULWHULD
+Summary:
+3ULPDU\6SLOOZD\
+0D[LPXP'UDLQDJH$UHD
+0LQLPXP9ROXPH
+0LQLPXP6XUIDFH$UHD
+0LQLPXP/:5DWLR
+0D[LPXP/:5DWLR
+0LQLPXP'HSWK
+'HZDWHULQJ0HFKDQLVP
+0LQLPXP'HZDWHULQJ7LPH
+%DIÀHV5HTXLUHG
+Skimmer Sediment Basin
+7UDSH]RLGDO VSLOOZD\ ZLWK LPSHUPHDEOH
+PHPEUDQH
+DFUHV
+FXELFIHHWSHUDFUHRIGLVWXUEHGDUHD
+VTXDUHIHHWSHUFIVRI4SHDNLQÀRZ
+
+
+IHHW
+6NLPPHU
+GD\V
+EDIÀHV*
+                                                                                               (*Note: Basins less than 20 feet in length may use 2 baffles.) 
+Drainage areas²/LPLWGUDLQDJHDUHDVWRDFUHV
+'HVLJQEDVLQOLIH²(QVXUHDGHVLJQEDVLQOLIHRI\HDUVRUOHVV
+Dam height²/LPLWGDPKHLJKWWRIHHW
+%DVLQORFDWLRQV²6HOHFWDUHDVWKDW
+3URYLGHFDSDFLW\IRUVWRUDJHRIVHGLPHQWIURPDVPXFKRIWKHSODQQHG
+GLVWXUEHGDUHDDVSUDFWLFDO
+([FOXGHUXQRIIIURPXQGLVWXUEHGDUHDVZKHUHSUDFWLFDO
+3URYLGHDFFHVVIRUVHGLPHQWUHPRYDOWKURXJKRXWWKHOLIHRIWKHSURMHFW
+,QWHUIHUHPLQLPDOO\ZLWKFRQVWUXFWLRQDFWLYLWLHV
+Basin shape²(QVXUHWKDWWKHÀRZOHQJWKWREDVLQZLGWKUDWLRLVDWOHDVW
+WRLPSURYHWUDSSLQJHI¿FLHQF\/HQJWKLVPHDVXUHGDWWKHHOHYDWLRQRIWKH
+SULQFLSDOVSLOOZD\
+6WRUDJHYROXPH²(QVXUHWKDWWKHVHGLPHQWVWRUDJHYROXPHRIWKHEDVLQDV
+PHDVXUHGWRWKHHOHYDWLRQRIWKHFUHVWRIWKHSULQFLSDOVSLOOZD\LVDWOHDVW
+FXELFIHHWSHUDFUHIRUWKHGLVWXUEHGDUHDGUDLQLQJLQWRWKHEDVLQ
+FXELFIHHWLVHTXLYDOHQWWRKDOIDQLQFKRIVHGLPHQWSHUDFUHRIEDVLQGLVWXUEHG
+DUHD
+5HPRYHVHGLPHQWIURPWKHEDVLQZKHQDSSUR[LPDWHO\RQHKDOIRIWKHVWRUDJH
+YROXPHKDVEHHQ¿OOHG
+6SLOOZD\FDSDFLW\²7KHVSLOOZD\V\VWHPPXVWFDUU\WKHSHDNUXQRIIIURP
+WKH\HDUVWRUPZLWKDPLQLPXPIRRWRIIUHHERDUGLQWKHVSLOOZD\%DVH
+UXQRIIFRPSXWDWLRQVRQWKHGLVWXUEHGVRLOFRYHUFRQGLWLRQVH[SHFWHGGXULQJ
+WKHHIIHFWLYHOLIHRIWKHVWUXFWXUH
+6HGLPHQWFOHDQRXWHOHYDWLRQ²'HWHUPLQHWKHHOHYDWLRQDWZKLFKWKHLQYHUWRI
+WKHEDVLQZRXOGEHKDOIIXOO7KLVHOHYDWLRQVKRXOGDOVREHPDUNHGLQWKH¿HOG
+ZLWKDSHUPDQHQWVWDNHVHWDWWKLVJURXQGHOHYDWLRQQRWWKHWRSRIWKHVWDNH
+6.64.5
+Rev. 5/13
+
+6
+6.64.6
+Basin dewatering²7KHEDVLQVKRXOGEHSURYLGHGZLWKDVXUIDFHRXWOHW$
+ÀRDWLQJVNLPPHUVKRXOGEHDWWDFKHGWRD6FKHGXOH39&EDUUHOSLSHRIWKH
+VDPHGLDPHWHUDVWKHVNLPPHUDUP7KHRUL¿FHLQWKHVNLPPHUZLOOFRQWURO
+WKHUDWHRIGHZDWHULQJ7KHVNLPPHUVKRXOGEHVL]HGWRGHZDWHUWKHEDVLQLQ
+GD\V
+2XWOHW3URWHFWLRQ²'LVFKDUJHYHORFLWLHVPXVWEHZLWKLQDOORZDEOHOLPLWVIRU
+WKHUHFHLYLQJVWUHDP5HIHUHQFHVOutlet Protection
+%DVLQVSLOOZD\²&RQVWUXFWWKHHQWLUHÀRZDUHDRIWKHVSLOOZD\LQXQGLVWXUEHG
+VRLOLISRVVLEOH0DNHWKHFURVVVHFWLRQWUDSH]RLGDOZLWKVLGHVORSHVRIRU
+ÀDWWHU
+&DSDFLW\²7KHPLQLPXPGHVLJQFDSDFLW\RIWKHVSLOOZD\PXVWEHWKHSHDN
+UDWHRIUXQRIIIURPWKH\HDUVWRUP0D[LPXPGHSWKRIÀRZGXULQJWKH
+SHDNUXQRIIVKRXOGEHLQFKHV,QQRFDVHVKRXOGWKHIUHHERDUGRIWKH
+VSLOOZD\EHOHVVWKDQIRRWDERYHWKHGHVLJQGHSWKRIÀRZ
+ 9HORFLW\²(QVXUH WKDW WKH YHORFLW\ RI ÀRZ GLVFKDUJHG IURP WKH EDVLQ
+LVQRQHURVLYHIRUWKHH[LVWLQJFRQGLWLRQV:KHQYHORFLWLHVH[FHHGWKDW
+DOORZDEOHIRUWKHUHFHLYLQJDUHDVSURYLGHRXWOHWSURWHFWLRQ5HIHUHQFHV
+Outlet Protection
+Embankment²(QVXUHWKDWHPEDQNPHQWVIRUVNLPPHUVHGLPHQWEDVLQVGR
+QRW H[FHHG  IHHW LQ KHLJKW PHDVXUHG DW WKH FHQWHU OLQH IURP WKH RULJLQDO
+JURXQGVXUIDFHWRWKHWRSRIWKHHPEDQNPHQW.HHSWKHFUHVWRIWKHVSLOOZD\
+RXWOHWDPLQLPXPRIIHHWEHORZWKHWRSRIWKHHPEDQNPHQW$GGLWLRQDO
+IUHHERDUGPD\EHDGGHGWRWKHHPEDQNPHQWKHLJKWZKLFKDOORZVÀRZWKURXJK
+D GHVLJQDWHG E\SDVV ORFDWLRQ  &RQVWUXFW HPEDQNPHQWV ZLWK D PLQLPXP
+WRSZLGWKRIIHHWDQGVLGHVORSHVRIRUÀDWWHU0DFKLQHFRPSDFWWKH
+HPEDQNPHQWV
+Excavation²:KHUHVHGLPHQWSRROVDUHIRUPHGRUHQODUJHGE\H[FDYDWLRQ
+NHHSVLGHVORSHVDWRUÀDWWHUIRUVDIHW\
+Erosion protection²6WDELOL]H DOO DUHDV GLVWXUEHG E\ FRQVWUXFWLRQ H[FHSW
+WKH ORZHU KDOI RI WKH VHGLPHQW SRRO E\ VXLWDEOH PHDQV LPPHGLDWHO\ DIWHU
+FRPSOHWLQJWKHEDVLQ5HIHUHQFHVSurface Stabilization
+7UDSHI¿FLHQF\²,PSURYHVHGLPHQWEDVLQWUDSSLQJHI¿FLHQF\E\HPSOR\LQJ
+WKHIROORZLQJFRQVLGHUDWLRQVLQWKHEDVLQGHVLJQ
+6XUIDFHDUHD²,QWKHGHVLJQRIWKHVHWWOLQJSRQGDOORZWKHODUJHVWVXUIDFH
+DUHDSRVVLEOH
+/HQJWK²0D[LPL]HWKHOHQJWKWRZLGWKUDWLRRIWKHEDVLQWRSUHYHQWVKRUW
+FLUFXLWLQJDQGHQVXUHXVHRIWKHHQWLUHGHVLJQVHWWOLQJDUHD
+%DIÀHV²3URYLGHDPLQLPXPRIWKUHHSRURXVEDIÀHVWRHYHQO\GLVWULEXWH
+ÀRZDFURVVWKHEDVLQDQGUHGXFHWXUEXOHQFH
+,QOHWV²$UHDEHWZHHQWKHVHGLPHQWLQOHWVDQGWKHEDVLQVKRXOGEHVWDELOL]HG
+E\JHRWH[WLOHPDWHULDOZLWKRUZLWKRXWURFNV)LJXUHFVKRZVWKHDUHD
+ZLWKURFNV7KHLQOHWWREDVLQVKRXOGEHORFDWHGWKHJUHDWHVWGLVWDQFH
+SRVVLEOHIURPWKHSULQFLSDOVSLOOZD\
+Rev. 5/13
+
+3UDFWLFH6WDQGDUGVDQG6SHFL¿FDWLRQV
+ 'HZDWHULQJ²$OORZ WKH PD[LPXP UHDVRQDEOH GHWHQWLRQ SHULRG EHIRUH WKH
+EDVLQ LV FRPSOHWHO\ GHZDWHUHG DW OHDVW 48 KRXUV
+ ,QÀRZ UDWH²5HGXFH WKH LQÀRZ YHORFLW\ DQG GLYHUW DOO VHGLPHQWIUHH
+UXQRII
+\
+Figure 6.64c([DPSOHRIDVHGLPHQWEDVLQZLWKDVNLPPHURXWOHWDQGHPHUJHQF\VSLOOZD\)URP3HQQV\OYDQLD
+(URVLRQDQG6HGLPHQW3ROOXWLRQ&RQWURO0DQXDO0DUFK
+Cross-Section
+View
+RI
+RI
+HP
+6HGLPHQW
+storage zone
+6.64.7
+Rev. 5/13
+
+6
+6.64.8
+Construction
+6SHFL¿FDWLRQV
+1.  &OHDUJUXEDQGVWULSWKHDUHDXQGHUWKHHPEDQNPHQWRIDOOYHJHWDWLRQDQG
+URRWPDW5HPRYHDOOVXUIDFHVRLOFRQWDLQLQJKLJKDPRXQWVRIRUJDQLFPDWWHU
+DQGVWRFNSLOHRUGLVSRVHRILWSURSHUO\+DXODOOREMHFWLRQDEOHPDWHULDOWRWKH
+GHVLJQDWHGGLVSRVDODUHD3ODFHWHPSRUDU\VHGLPHQWFRQWUROPHDVXUHVEHORZ
+EDVLQDVQHHGHG
+2. (QVXUH WKDW ¿OO PDWHULDO IRU WKH HPEDQNPHQW LV IUHH RI URRWV ZRRG\
+YHJHWDWLRQRUJDQLFPDWWHUDQGRWKHUREMHFWLRQDEOHPDWHULDO3ODFHWKH¿OOLQ
+OLIWVQRWWRH[FHHGLQFKHVDQGPDFKLQHFRPSDFWLW2YHU¿OOWKHHPEDQNPHQW
+LQFKHVWRDOORZIRUVHWWOHPHQW
+3. 6KDSHWKHEDVLQWRWKHVSHFL¿HGGLPHQVLRQV3UHYHQWWKHVNLPPLQJGHYLFH
+IURPVHWWOLQJLQWRWKHPXGE\H[FDYDWLQJDVKDOORZSLWXQGHUWKHVNLPPHURU
+SURYLGLQJDORZVXSSRUWXQGHUWKHVNLPPHURIVWRQHRUWLPEHU
+4.  3ODFHWKHEDUUHOW\SLFDOO\LQFK6FKHGXOH39&SLSHRQD¿UPVPRRWK
+IRXQGDWLRQRILPSHUYLRXVVRLO'RQRWXVHSHUYLRXVPDWHULDOVXFKDVVDQG
+JUDYHORUFUXVKHGVWRQHDVEDFN¿OODURXQGWKHSLSH3ODFHWKH¿OOPDWHULDO
+DURXQGWKHSLSHVSLOOZD\LQLQFKOD\HUVDQGFRPSDFWLWXQGHUDQGDURXQG
+WKHSLSHWRDWOHDVWWKHVDPHGHQVLW\DVWKHDGMDFHQWHPEDQNPHQW&DUHPXVW
+EHWDNHQQRWWRUDLVHWKHSLSHIURPWKH¿UPFRQWDFWZLWKLWVIRXQGDWLRQZKHQ
+FRPSDFWLQJXQGHUWKHSLSHKDXQFKHV
+3ODFHDPLQLPXPGHSWKRIIHHWRIFRPSDFWHGEDFN¿OORYHUWKHSLSHVSLOOZD\
+EHIRUHFURVVLQJLWZLWKFRQVWUXFWLRQHTXLSPHQW,QQRFDVHVKRXOGWKHSLSH
+FRQGXLWEHLQVWDOOHGE\FXWWLQJDWUHQFKWKURXJKWKHGDPDIWHUWKHHPEDQNPHQW
+LVFRPSOHWH
+5.
+$VVHPEOH WKH VNLPPHU IROORZLQJ WKH PDQXIDFWXUHUV LQVWUXFWLRQV RU DV
+GHVLJQHG
+6.  /D\WKHDVVHPEOHGVNLPPHURQWKHERWWRPRIWKHEDVLQZLWKWKHÀH[LEOH
+MRLQWDWWKHLQOHWRIWKHEDUUHOSLSH$WWDFKWKHÀH[LEOHMRLQWWRWKHEDUUHOSLSH
+DQGSRVLWLRQWKHVNLPPHURYHUWKHH[FDYDWHGSLWRUVXSSRUW%HVXUHWRDWWDFK
+DURSHWRWKHVNLPPHUDQGDQFKRULWWRWKHVLGHRIWKHEDVLQ7KLVZLOOEHXVHG
+WRSXOOWKHVNLPPHUWRWKHVLGHIRUPDLQWHQDQFH
+7.  (DUWKHQVSLOOZD\V²,QVWDOOWKHVSLOOZD\LQXQGLVWXUEHGVRLOWRWKHJUHDWHVW
+H[WHQWSRVVLEOH7KHDFKLHYHPHQWRISODQQHGHOHYDWLRQVJUDGHGHVLJQZLGWK
+DQGHQWUDQFHDQGH[LWFKDQQHOVORSHVDUHFULWLFDOWRWKHVXFFHVVIXORSHUDWLRQ
+RI WKH VSLOOZD\  7KH VSLOOZD\ VKRXOG EH OLQHG ZLWK ODPLQDWHG SODVWLF RU
+LPSHUPHDEOHJHRWH[WLOHIDEULF7KHIDEULFPXVWEHZLGHDQGORQJHQRXJKWR
+FRYHUWKHERWWRPDQGVLGHVDQGH[WHQGRQWRWKHWRSRIWKHGDPIRUDQFKRULQJ
+LQDWUHQFK7KHHGJHVPD\EHVHFXUHGZLWKLQFKVWDSOHVRUSLQV7KHIDEULF
+PXVWEHORQJHQRXJKWRH[WHQGGRZQWKHVORSHDQGH[LWRQWRVWDEOHJURXQG
+7KHZLGWKRIWKHIDEULFPXVWEHRQHSLHFHQRWMRLQHGRUVSOLFHGRWKHUZLVH
+ZDWHUFDQJHWXQGHUWKHIDEULF,IWKHOHQJWKRIWKHIDEULFLVLQVXI¿FLHQWIRUWKH
+HQWLUHOHQJWKRIWKHVSLOOZD\PXOWLSOHVHFWLRQVVSDQQLQJWKHFRPSOHWHZLGWK
+PD\EHXVHG7KHXSSHUVHFWLRQVVKRXOGRYHUODSWKHORZHUVHFWLRQVVR
+WKDWZDWHUFDQQRWÀRZXQGHUWKHIDEULF6HFXUHWKHXSSHUHGJHDQGVLGHV
+RIWKHIDEULFLQDWUHQFKZLWKVWDSOHVRUSLQV$GDSWHGIURP³$0DQXDOIRU
+'HVLJQLQJ,QVWDOOLQJDQG0DLQWDLQLQJ6NLPPHU6HGLPHQW%DVLQV´)HEUXDU\
+-:)DLUFORWK	6RQ
+8.  ,QOHWV²'LVFKDUJHZDWHULQWRWKHEDVLQLQDPDQQHUWRSUHYHQWHURVLRQ8VH
+WHPSRUDU\VORSHGUDLQVRUGLYHUVLRQVZLWKRXWOHWSURWHFWLRQWRGLYHUWVHGLPHQW
+ODGHQZDWHUWRWKHXSSHUHQGRIWKHSRRODUHDWRLPSURYHEDVLQWUDSHI¿FLHQF\
+5HIHUHQFHVRunoff Control Measures and Outlet Protection
+Rev. 5/13
+
+3UDFWLFH6WDQGDUGVDQG6SHFL¿FDWLRQV
+9.  (URVLRQ FRQWURO²&RQVWUXFW WKH VWUXFWXUH VR WKDW WKH GLVWXUEHG DUHD LV
+PLQLPL]HG  'LYHUW VXUIDFH ZDWHU DZD\ IURP EDUH DUHDV  &RPSOHWH WKH
+HPEDQNPHQW EHIRUH WKH DUHD LV FOHDUHG  6WDELOL]H WKH HPHUJHQF\ VSLOOZD\
+HPEDQNPHQWDQG DOO RWKHU GLVWXUEHG DUHDV DERYH WKH FUHVW RI WKH SULQFLSDO
+VSLOOZD\LPPHGLDWHO\DIWHUFRQVWUXFWLRQ5HIHUHQFHVSurface Stabilization
+10.,QVWDOOSRURXVEDIÀHVDVVSHFL¿HGLQ3UDFWLFH3RURXV%DIÀHV
+11.$IWHUDOOWKHVHGLPHQWSURGXFLQJDUHDVKDYHEHHQSHUPDQHQWO\VWDELOL]HG
+UHPRYH WKH VWUXFWXUH DQG DOO WKH XQVWDEOH VHGLPHQW   6PRRWK WKH DUHD WR
+EOHQG ZLWK WKH DGMRLQLQJ DUHDV DQG VWDELOL]H SURSHUO\ 5HIHUHQFHV Surface
+Stabilization
+0DLQWHQDQFH
+,QVSHFWVNLPPHUVHGLPHQWEDVLQVDWOHDVWZHHNO\DQGDIWHUHDFKVLJQL¿FDQW
+RQHKDOI LQFK RU JUHDWHU UDLQIDOO HYHQW DQG UHSDLU LPPHGLDWHO\  5HPRYH
+VHGLPHQW DQG UHVWRUH WKH EDVLQ WR LWV RULJLQDO GLPHQVLRQV ZKHQ VHGLPHQW
+DFFXPXODWHVWRRQHKDOIWKHKHLJKWRIWKH¿UVWEDIÀH3XOOWKHVNLPPHUWR
+RQHVLGHVRWKDWWKHVHGLPHQWXQGHUQHDWKLWFDQEHH[FDYDWHG([FDYDWHWKH
+VHGLPHQWIURPWKHHQWLUHEDVLQQRWMXVWDURXQGWKHVNLPPHURUWKH¿UVWFHOO
+0DNHVXUHYHJHWDWLRQJURZLQJLQWKHERWWRPRIWKHEDVLQGRHVQRWKROGGRZQ
+WKHVNLPPHU
+5HSDLU WKH EDIÀHV LI WKH\ DUH GDPDJHG  5HDQFKRU WKH EDIÀHV LI ZDWHU LV
+ÀRZLQJXQGHUQHDWKRUDURXQGWKHP
+,IWKHVNLPPHULVFORJJHGZLWKWUDVKDQGWKHUHLVZDWHULQWKHEDVLQXVXDOO\
+MHUNLQJRQWKHURSHZLOOPDNHWKHVNLPPHUEREXSDQGGRZQDQGGLVORGJH
+WKHGHEULVDQGUHVWRUHÀRZ,IWKLVGRHVQRWZRUNSXOOWKHVNLPPHURYHUWR
+WKHVLGHRIWKHEDVLQDQGUHPRYHWKHGHEULV$OVRFKHFNWKHRUL¿FHLQVLGHWKH
+VNLPPHUWRVHHLILWLVFORJJHGLIVRUHPRYHWKHGHEULV
+,IWKHVNLPPHUDUPRUEDUUHOSLSHLVFORJJHGWKHRUL¿FHFDQEHUHPRYHGDQG
+WKHREVWUXFWLRQFOHDUHGZLWKDSOXPEHU¶VVQDNHRUE\ÀXVKLQJZLWKZDWHU%H
+VXUHDQGUHSODFHWKHRUL¿FHEHIRUHUHSRVLWLRQLQJWKHVNLPPHU
+&KHFNWKHIDEULFOLQHGVSLOOZD\IRUGDPDJHDQGPDNHDQ\UHTXLUHGUHSDLUV
+ZLWKIDEULFWKDWVSDQVWKHIXOOZLGWKRIWKHVSLOOZD\&KHFNWKHHPEDQNPHQW
+VSLOOZD\VDQGRXWOHWIRUHURVLRQGDPDJHDQGLQVSHFWWKHHPEDQNPHQWIRU
+SLSLQJDQGVHWWOHPHQW0DNHDOOQHFHVVDU\UHSDLUVLPPHGLDWHO\5HPRYHDOO
+WUDVKDQGRWKHUGHEULVIURPWKHVNLPPHUDQGSRRODUHDV
+)UHH]LQJ ZHDWKHU FDQ UHVXOW LQ LFH IRUPLQJ LQ WKH EDVLQ  6RPH VSHFLDO
+SUHFDXWLRQV VKRXOG EH WDNHQ LQ WKH ZLQWHU WR SUHYHQW WKH VNLPPHU IURP
+SOXJJLQJZLWKLFH
+6.64.9
+Rev. 5/13
+
+6
+6.64.10
+Reference
+-DUUHWW$53URSHU6L]LQJRIWKH&RQWURO2UL¿FHIRUWKH)DLUFORWK6NLPPHU
+3HQQV\OYDQLD6WDWH8QLYHUVLW\'HSDUWPHQWRI$JULFXOWXUDODQG%LRORJLFDO
+(QJLQHHULQJ)DFW6KHHW
+KWWSZZZDJHSVXHGXH[WHQVLRQIDFWVKHHWVI)SGI
+-DUUHWW$5&RQWUROOLQJWKH'HZDWHULQJRI6HGLPHQWDWLRQ%DVLQV3HQQV\
+OYDQLD6WDWH8QLYHUVLW\'HSDUWPHQWRI$JULFXOWXUDODQG%LRORJLFDO(QJLQH
+HULQJ)DFW6KHHW
+KWWSZZZDJHSVXHGXH[WHQVLRQIDFWVKHHWVI)SGI
+(URVLRQDQG6HGLPHQW3ROOXWLRQ&RQWURO0DQXDO0DUFK&RPPRQ
+ZHDOWKRI3HQQV\OYDQLD'HSWRI(QYLURQPHQWDO3URWHFWLRQ2I¿FHRI:DWHU
+0DQDJHPHQW'RFXPHQW
+KWWSZZZFRFHQWUHSDXVFRQVHUYDWLRQHVPDQXDOSGI
+0F/DXJKOLQ5LFKDUG6RLO)DFWV'HZDWHULQJ6HGLPHQW%DVLQV8VLQJ6XUIDFH
+2XWOHWV1&6WDWH8QLYHUVLW\6RLO6FLHQFH'HSDUWPHQW
+$0DQXDOIRU'HVLJQLQJ,QVWDOOLQJDQG0DLQWDLQLQJ6NLPPHU6HGLPHQW
+%DVLQV)HEUXDU\-:)DLUFORWK	6RQ
+Surface Stabilization
+7HPSRUDU\6HHGLQJ
+3HUPDQHQW6HHGLQJ
+6RGGLQJ
+7UHHV6KUXEV9LQHVDQG*URXQG&RYHUV
+Runoff Control Measures
+7HPSRUDU\'LYHUVLRQV
+3HUPDQHQW'LYHUVLRQV
+3HULPHWHU'LNH
+Outlet Protection
+2XWOHW6WDELOL]DWLRQ6WUXFWXUH
+Sediment Traps and Barriers
+3RURXV%DIÀHV
+Appendices
+(VWLPDWLQJ5XQRII
+6HGLPHQW%DVLQ'HVLJQ
+Rev. 5/13
+
+Practice Standards and Specifications 
+Rev. Jan 2026 
+6.65.1 
+6.65 Porous Baffles 
+Definition 
+Porous barrier constructed of coir fiber material or equal installed within a temporary 
+sediment trap, skimmer basin, or sediment basin to distribute flow of construction runoff 
+across the full cross section so the velocity and energy of construction runoff can be 
+dissipated to enhance the settling of sediment prior to discharge. 
+Purpose 
+Sediment traps and basins are designed to temporarily impound construction stormwater 
+runoff and allow sediment to settle before the stormwater is discharged. Unfortunately, 
+they are not very efficient due to high turbulence and “short-circuiting” flows which 
+allows stormwater to flow to the outlet with little interaction or obstruction. Porous 
+baffles improve the rate of sediment retention within the basin or trap by distributing the 
+flow and reducing energy.  
+Conditions Where Practice Applies 
+The practice of using porous baffles should be used in any temporary sediment trap, 
+skimmer basin, or temporary sediment basin. 
+Planning Considerations 
+Porous baffles effectively spread the flow across the entire width of a sediment basin or 
+trap. Water flows through the porous baffle material, but energy is dissipated sufficiently 
+to reduce velocity, as it spreads across the entire width of the basin. (Figure 6.65a). This 
+reduction in energy allows for an increase in sediment deposition and retention. 
+The baffle material should be 700 g/m2 coir erosion mat (Figure 6.65d) or a material with 
+similar porosity. Attaching the material to a 9-gauge high tension wire connecting the 
+steel support posts prevents sagging of the material. 
+Porous Baffles need to be installed correctly to ensure reduction in stormwater energy 
+flowing through the basin. Refer to Figure 6.65b and the following key points: 
+• The Porous Baffle material does not require trenching or burying but does 
+need to be secured at the bottom and sides using wire staples. 
+• Most of the sediment will accumulate in the first bay, so this should be readily 
+accessible for maintenance. 
+
+Chapter 6 
+6.65.2 
+Rev. Jan 2026 
+• The ends of the Porous Baffle should extend to the basin interior side slopes in 
+a level or slightly elevated manner to avoid allowing pooled or impounded 
+water to flow around. 
+Design Criteria 
+The Temporary Sediment Trap or Temporary Sediment Basin should be sized using the 
+appropriate design criteria. Three Porous Baffles should be placed in Sediment Basins or 
+Skimmer Basins that are 20 feet or greater in length. Basins less than 20 feet in length 
+should utilize two Porous Baffles. 
+When three Porous Baffles are utilized, the percent of surface area for each section of the 
+baffles is as follows: 
+• Inlet Zone: 
+¼ length of basin or trap 
+• First Cell: 
+¼ length of basin or trap 
+• Second Cell: 
+¼ length of basin or trap 
+• Outlet Zone: 
+¼ length of basin or trap 
+Construct Porous Baffles up the sides of the trap or basin interior side slopes so water 
+does not flow around the baffle. Most of the sediment will be captured in the first section. 
+Smaller particle size sediment are often captured in the latter sections. Be sure to 
+maintain access to the trap or basin for maintenance and sediment removal. The 
+orientation of the Porous Baffles can be adjusted to meet the shape of the basin or trap. 
+The intent is for construction stormwater runoff to enter the basin or trap as far away 
+from the spillway or weir section as possible and flow through three porous baffles prior 
+to discharge through the spillway or skimmer apparatus (unless basin length is 20 feet or 
+less). Placing porous baffles in a chevron or arc pattern is allowable as long as proper 
+spacing between each baffle is maintained. The top of the baffles should be higher than 
+the outlet to ensure that flow passes through the baffles as intended. 
+The design life of porous baffle material is typically 6-12 months but may be limited if 
+material becomes damaged or clogged. 
+
+Practice Standards and Specifications 
+Rev. Jan 2026 
+ 
+6.65.3
+Figure 6.65a, Porous baffles in a sediment basin. The flow is distributed evenly across the basin to reduce flow 
+rates and energy, resulting in greater sediment retention 
+
+Chapter 6 
+6.65.4 
+ 
+Rev. Jan 2026 
+Figure 6.65c, Example of porous baffles installed in skimmer basins 
+Figure 6.65b, Porous Baffle detail and cross section of a porous baffle in a sediment basin 
+*If the temporary sediment basin 
+will be converted to a permanent 
+stormwater basin of greater depth, 
+the baffle heigh should be based 
+on the pool depth during use as a 
+temporary sediment basin.  
+Note: Install all three (3) coir fiber 
+baffles in basins at drainage 
+outlets with a spacing of 1/4 the 
+basin length. Two (2) coir fiber 
+baffles can be installed in the 
+basins less than 20 ft. in length 
+with a spacing of 1/3 the basin 
+length. 
+
+Practice Standards and Specifications 
+Rev. Jan 2026 
+ 
+6.65.5 
+Coir Fiber Baffle Material Property Requirements 
+Construction Specifications 
+Materials 
+1. Use matting made of 100% coconut fiber (coir) twine woven into high 
+strength matrix with the properties shown in Table 6.65a.  
+2. Staples should be made of 0.125 inch diameter new steel wire formed into 
+a ‘U’ shape not less than 6 inches in length with a throat of 1 inch in width. 
+The staples anchor the porous baffles into the sides and bottom of the trap 
+or basin. 
+3. Ensure that steel posts for porous baffles are of a sufficient height to support 
+baffles at desired height.  Posts should be approximately 1-3/8” wide 
+measured parallel to the fence, and have a minimum weight of 1.25 
+Property 
+Specification 
+Thickness 
+0.30 in. minimum 
+Tensile Strength (Wet) 
+900 x 680 lb/ft minimum 
+Elongation (Wet) 
+69% x 34% maximum 
+Flow Velocity 
+10-12 ft/sec 
+Weight 
+20 oz/SY (680 g/m2) minimum 
+Minimum Width 
+6.5 feet 
+Open Area 
+50% maximum 
+Figure 6.65d, Close-up of a porous baffle made of 700 g/m2 coir erosion blanket 
+Table 6.65a, Specifications for Porous Baffle Material 
+
+Chapter 6 
+6.65.6 
+Rev. Jan 2026 
+lb./linear ft. The posts must be equipped with an anchor plate having a 
+minimum area of 14.0 square inches and be of the self-fastener angle steel 
+type to have a means of retaining wire and porous baffle material in the 
+desired position without displacement. 
+4. Use 9-gauge high tension wire for supporting porous baffle material. 
+5. Alternative porous baffle material may be allowed if circumstances dictate. 
+The Designer will be required to provide supporting specifications for 
+approval prior to installation. 
+Construction 
+1. Install the basin or trap so the bottom is level front to back and side to side. 
+2. Install the porous baffle immediately upon excavation of the basin or trap. 
+3. Install steel posts to a depth of 24 inches and spaced a maximum of 4 feet 
+apart. 
+4. Install three rows of porous baffles between the inlet and outlet discharge 
+point. Basins less than 20 feet in length may use 2 porous baffles. 
+5. Attach a 9-gauge high tension wire strand to the steel posts at a maximum 
+height of 6 inches above the basin spillway elevation and a minimum of 2 
+inches below the surrounding embankment with plastic ties or wire fasteners 
+to prevent sagging. If the temporary sediment basin or trap will be converted 
+to a permanent stormwater basin of a greater depth, the baffle height should be 
+based on the pool depth during use as a temporary sediment basin or trap. 
+6. Extend porous baffle to the side of the basin using steel T-posts or similar to 
+anchor baffle to the side slope of the basin or trap and secure as shown in 
+Figure 6.65b. 
+7. Drape the porous baffle material over the wire strand and anchor the material 
+to the sides and floor of the basin or trap with 6-inch wire staples, 
+approximately 1 foot apart, along the bottom and side slopes. 
+8. Do not splice the porous baffle material but use a continuous piece across the 
+basin. 
+9. Adjustments may be required in the stapling requirements to fit individual site 
+conditions. 
+
+Practice Standards and Specifications 
+Rev. Jan 2026 
+6.65.7 
+Maintenance 
+Inspect porous baffles at least once a week and after each rainfall. Make any required 
+repairs immediately as efficiency of basin or trap is reduced if porous baffles are not 
+functioning as intended. 
+Be sure to maintain access to the porous baffles. Should the porous baffle material 
+collapse, tear, decompose, or become ineffective, replace it promptly. 
+Remove sediment deposits when it reaches half full, to provide adequate storage volume 
+for the next rain and to reduce pressure on the porous baffles. 
+Take care to avoid damaging the porous baffles during cleanout and replace if damaged 
+during cleanout operations. Sediment depth should never exceed half the designed 
+storage depth. Utilizing an indicator stake within the basin or trap is a good aid in 
+determining when a basin or trap is half full. 
+After the contributing drainage area has been properly stabilized, remove all porous 
+baffle materials and sediment deposits, bring the area to grade, and stabilize it. 
+References 
+Sediment Traps and Barriers 
+6.60, Temporary Sediment Trap 
+6.61, Sediment Basins 
+6.62, Sediment Fence 
+6.64, Skimmer Sediment Basin 
+McLaughlin, Richard, “Soil Facts: Baffles to Improve Sediment Basins.” 
+N.C. State University Cooperative Extension Service Fact Sheet AGW-439-59, 
+2005. 
+Thaxton, C. S., J. Calantoni, and R. A. McLaughlin. 
+Hydrodynamic assessment of various types of baffles in a sediment detention pond. 
+Transactions of the ASAE. Vol. 47(3): 741-749, 2004. 
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.66 
+ 
+    
+Definition 
+A compost sock is a three-dimensional tubular sediment control and storm water 
+runoff device typically used for perimeter control of sediment and soluble 
+pollutants (such as phosphorous and petroleum hydrocarbon), on and around 
+construction activities.  Compost socks trap sediment and other pollutants in 
+runoff water as it passes through the matrix of the sock and by allowing water to 
+temporarily pond behind the sock, allowing deposition of suspended solids.  
+Compost socks are also used to reduce runoff flow velocities on sloped surfaces. 
+Compost products acceptable for this application should meet the chemical, 
+physical and biological properties specified for Practice 6.18, Compost Blankets. 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6.66a – Compost Sock  
+ 
+ 
+ 
+Photo Credit – Filtrexx International 
+ 
+ Conditions Where  
+Compost socks are to be installed down slope of disturbed areas requiring
+     Practice Applies  
+erosion and sediment control.  Compost socks are effective when installed
+perpendicular to sheet flow, in areas where sediment accumulation of less
+than six inches is anticipated.  Acceptable applications include (Fifield, 
+2001): 
+ 
+• 
+Site perimeters 
+• 
+Below disturbed areas subject to sheet runoff, with minor sheet or rill 
+erosion.  Compost socks should not be used alone below graded slopes 
+greater than 10 feet in height. 
+• 
+Above graded slopes to serve as a diversion berm.   
+C 
+SOCK 
+COMPOST SOCK 
+Rev. 5/13
+6.66.1
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Check dams 
+• 
+Along the toe of stream and channel banks 
+• 
+Around area drains or inlets located in a storm drain system 
+• 
+Around sensitive trees where trenching of silt fence is not beneficial for tree 
+survival or may unnecessarily disturb established vegetation. 
+• 
+On paved surfaces where trenching of silt fence is impossible. 
+ 
+A compost sock can be applied to areas of sheet runoff, on slopes up to a 2:1 
+grade with a maximum height of 10 feet, around inlets, and in other disturbed 
+areas of construction sites requiring sediment control.  Compost socks may also 
+be used in sensitive environmental areas, or where trenching may damage roots. 
+The weight of a filled sock (40 lbs / linear ft. for 8” diameter) effectively 
+prevents sediment migration beneath the sock.  It is possible to drive over a 
+compost sock during construction (although not recommended); however, these 
+areas should be immediately repaired by manually moving the sock back into 
+place, if disturbed.  Continued heavy construction traffic may destroy the fabric 
+mesh, reduce the dimensions, and reduce the effectiveness of the compost sock.  
+Vegetating the compost sock should be considered.  
+ 
+            Planning 
+Compost socks shall either be made on site or delivered to the jobsite 
+  Considerations  assembled.  The sock shall be produced from a 5 mil thick continuous  
+HDPE or polypropylene, woven into a tubular mesh netting material, with 
+openings in the knitted mesh of  ⅛” - ⅜”
+ 
+ (3-10mm).  This shall then be filled with 
+compost meeting the specifications outlined in Practice 6.18, Compost Blankets, 
+with the exception of particle size, to the diameter of the sock.  Compost sock 
+netting materials are also available in biodegradable plastics for areas where 
+removal and disposal are not desired (i.e., when using pre-seeded socks).  
+Compost socks contain the compost, maintaining its density and shape. 
+Compost socks should be installed parallel to the base of the slope or other 
+affected area, perpendicular to sheet flow.  The sock should be installed a 
+minimum of 10 feet beyond the top of graded slopes.  When runoff flows onto 
+the disturbed area from a land above the work zone, a second sock may be 
+constructed at the top of the slope in order to dissipate flows. 
+ 
+On locations where greater than a 200-foot long section of ground is to be treated 
+with a compost sock, the sock lengths should be sleeved.  After one sock section 
+(200 feet) is filled and tied off (knotted) or zip tied, the second sock section shall 
+be pulled over the first 1-2 feet and 'sleeved' creating an overlap.  Once 
+overlapped, the second section is filled with compost starting at the sleeved area 
+to create a seamless appearance.  The socks may be staked at the overlapped area 
+(where the sleeve is) to keep the sections together.  Sleeving at the joints is 
+necessary because it reduces the opportunity for water to penetrate the joints 
+when installed in the field. 
+ 
+ 
+ 
+ 
+6.66.2 
+Rev. 5/13
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Compost Sock 
+BMP 
+Conventional 
+Application 
+Product Description 
+Example 
+Silt Socks 
+Silt Fence (on 
+smaller areas) 
+A 3-dimensional 
+sediment control 
+measure used for 
+sediment removal 
+Inlet Socks 
+Inlet 
+Protection 
+Designed to allow 
+stormwater to enter 
+inlets while removing 
+sediment and protecting 
+inlets from clogging 
+Ditch Check 
+Rock Check 
+Dams 
+Contours to ditch shape 
+and eliminates gullies 
+ 
+  
+Table 6.66a Compost Sock BMPs as Replacements for Current Erosion Control Practices
+Photo credits: Filtrexx International 
+ 
+After filling, the compost sock must be staked in place.  Oak or other durable 
+hardwood stakes 2”x 2” in cross section should be driven vertically plumb, 
+through the center of the compost sock.  Stakes should be placed at a maximum 
+interval of 4 feet, or a maximum interval of 8 feet if the sock is placed in a 4 inch 
+trench.  See Figure 6.66b.  The stakes should be driven to a minimum depth of 12 
+inches, with a minimum of 3 inches protruding above the compost sock. 
+ 
+If the compost sock is to be left as part of the natural landscape, it may be seeded 
+at time of installation for establishment of permanent vegetation using the 
+seeding specification in the erosion and sedimentation control plan.  A maximum 
+life of 2 years for photodegradable netting and 6 months for biodegradable 
+netting should be used for planning purposes.  
+Rev. 5/13
+6.66.3
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Compost socks may be used as check dams in ditches not exceeding 3 feet in 
+depth.  Normally, 8 to 12 inch diameter socks should be used.  Be sure to stake 
+the sock perpendicular to the slope of the ditch.  When used as check dams, 
+installation should be similar to that of natural fiber wattles.  The ends and 
+middle of the sock should be staked, and additional stakes placed at a 2-foot 
+maximum interval.  See Table 6.66b for spacing. 
+ 
+Design Criteria  
+The sediment and pollutant removal process characteristic to a compost sock 
+allows deposition of settling solids.  Ponding occurs when water flowing to the 
+sock accumulates faster than the hydraulic flow through rate of the sock.  
+Typically, initial hydraulic flow-through rates for a compost sock are 50% 
+greater than geotextile fabric (silt fence).  However, installation and maintenance 
+is especially important for proper function and performance.  Design 
+consideration should be given to the duration of the project, total area of 
+disturbance, rainfall/runoff potential, soil erosion potential, and sediment loading 
+when specifying a compost sock. 
+ 
+Runoff Flow: 
+The depth of runoff ponded above the compost sock should not exceed the height 
+of the compost sock.  If overflow of the device is a possibility, a larger diameter 
+sock should be constructed, other sediment control devices may be used, or 
+management practices to reduce runoff should be installed.  Alternatively, a 
+second sock may be constructed or used in combination with Practice 6.17, 
+Rolled Erosion Control Products or Practice 6.18, Compost Blankets to slow 
+runoff and reduce erosion. 
+ 
+Level Contour: 
+The compost sock should be placed on level contours to assist in dissipating low 
+concentrated flow into sheet flow and reducing runoff flow velocity.  Do not 
+construct compost socks to concentrate runoff or channel water.  Sheet flow of 
+water should be perpendicular to the sock at impact and un-concentrated.  
+Placing compost socks on undisturbed soil will reduce the potential for 
+undermining by concentrated runoff flows. 
+ 
+Runoff and Sediment Accumulation: 
+The compost sock should be placed at a 10 foot minimum distance away from the 
+toe of the slope to allow for proper runoff accumulation for sediment deposition 
+and to allow for maximum sediment storage capacity behind the device.  On flat 
+areas, the sock should be placed at the edge of the land-disturbance.   
+ 
+End Around Flow: 
+In order to prevent water flowing around the ends of the compost sock, the ends 
+of the sock must be constructed pointing upslope so the ends are at a higher 
+elevation.  A minimum of 10 linear feet at each end placed at a 30 degree angle is 
+recommended. 
+ 
+ 
+6.66.4
+Rev. 5/13
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vegetated Compost Sock: 
+For permanent areas the compost sock can be directly seeded to allow vegetation 
+established directly on the device.  Vegetation on and around the compost sock 
+will assist in slowing runoff velocity for increased deposition of pollutants.  The 
+option of adding vegetation should be shown on the erosion and sedimentation 
+control plan.  No additional soil amendments or fertilizer are required for 
+vegetation establishment in the vegetated compost sock. 
+ 
+Slope Spacing & Drainage Area: 
+Maximum drainage area to and spacing between the compost socks is dependent 
+on rainfall intensity and duration used for specific design/plan, slope steepness, 
+and width of area draining to the sock.  
+ 
+A compost sock across the full length of the slope is normally used to ensure that 
+stormwater does not break through at the intersection of socks placed end-to-end. 
+Ends are jointed together by sleeving one sock end into the other.  The diameter 
+of the compost sock used will vary depending upon the steepness and length of 
+the slope; example slopes and slope lengths used with different diameter compost 
+socks are presented in Table 6.66b. 
+ 
+           Table 6.66b - Compost Sock Spacing versus Channel Slope 
+Channel Slope (%) 
+Spacing Between Socks (feet)  
+ 
+8-inch Diameter Sock 
+12-inch Diameter Sock 
+1 
+67 
+100 
+2 
+33 
+50 
+3 
+22 
+33 
+4 
+17 
+25 
+5 
+13 
+20 
+Source:  B. Faucette – 2010 
+ 
+Material: 
+The compost media shall be derived from well-decomposed organic matter 
+source produced by controlled aerobic (biological) decomposition that has been 
+sanitized through the generation of heat and stabilized to the point that it is 
+appropriate for this particular application.  Compost material shall be processed 
+through proper thermophilic composting, meeting the US Environmental 
+Protection Agency’s definition for a ‘Process to Further Reduce Pathogens’ 
+(PFRP), as defined at 40 CFR Part 503.  The compost portion shall meet the 
+chemical, physical and biological properties specified in Practice 6.18, Compost 
+Blankets Table 6.18a, with the exception of particle size.  Slightly more coarse 
+compost is recommended for the socks, as follows: 
+ 
+Sieve Size 
+Percent Passing Selected Sieve Mesh Size, Dry Weight Basis 
+Particle Size Distribution 
+2”    
+ 
+99 % (3” Maximum Particle Size) 
+3/8” 
+ 
+30-50 % 
+ 
+See Practice 6.18, Compost Blankets for complete information on compost 
+parameters and tests.  Installer should provide documentation to support 
+compliance of testing required in the compost specification. 
+Rev. 5/13
+6.66.5
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This specification covers compost produced from various organic by-products, 
+for use as an erosion and sediment control measure on sloped areas.  The 
+product’s parameters will vary based on whether vegetation will be established 
+on the treated slope.  Only compost products that meet all applicable state and 
+federal regulations pertaining to its production and distribution may be used in 
+this application.  Approved compost products must meet related state and federal 
+chemical contaminant (e.g., heavy metals, pesticides, etc.) and pathogen limit 
+standards pertaining to the feedstocks (source materials) in which it are derived. 
+ 
+In regions subjected to higher rates of precipitation and/or greater rainfall 
+intensity, larger compost socks should be used.  In these particular regions, 
+coarser compost products are preferred as the compost sock must allow for an 
+improved water percolation rate.  The designer should check the flow rate per 
+foot of sock in order to ensure drainage rate of the compost sock being used is 
+adequate.  The required flow rates are outlined in Table 6.66c. 
+ 
+Table 6.66c – Compost Sock Initial Flow Rates 
+Compost Sock 
+Design Diameter 
+8 inch 
+(200mm) 
+12 inch 
+(300mm) 
+18 inch 
+(450mm) 
+24 inch 
+(600mm) 
+32 inch 
+(800mm) 
+Maximum Slope  
+Length (<2%) 
+600 ft 
+(183m) 
+750 ft 
+(229m) 
+1,000 ft 
+(305m) 
+1,300 ft 
+(396m) 
+1,650 ft 
+(500m) 
+Hydraulic Flow 
+Through Rate 
+7.5 gpm/ft 
+(94 l/m/m) 
+11.3 gpm/ft 
+(141 l/m/m) 
+15.0 gpm/ft 
+(188 l/m/m) 
+22.5gpm/ft 
+(281 l/m/m) 
+30.0 gpm/ft 
+(374 l/m/m) 
+Source:  B. Faucette-2010 
+ 
+Construction  
+INSTALLATION 
+   Specifications  
+1.  Materials used in the compost sock must meet the specifications outlined 
+above and in Practice 6.18, Compost Blankets. 
+ 
+2. Compost socks should be located as shown on the erosion and sedimentation 
+control plan. 
+ 
+3. Prior to installation, clear all obstructions including rocks, clods, and other 
+debris greater than one inch that may interfere with proper function of the 
+compost sock. 
+ 
+4. Compost socks should be installed parallel to the toe of a graded slope, a 
+minimum of 10 feet beyond the toe of the slope.  Socks located below flat 
+areas should be located at the edge of the land-disturbance.  The ends of the 
+socks should be turned slightly up slope to prevent runoff from going around 
+the end of the socks. 
+ 
+5. Fill sock netting uniformly with compost to the desired length such that logs 
+do not deform. 
+ 
+6. Oak or other durable hardwood stakes 2” X 2” in cross section should be 
+driven vertically plumb, through the center of the compost sock.  Stakes 
+should be placed at a maximum interval of 4 feet, or a maximum interval of 8 
+feet if the sock is placed in a 4 inch trench.  See Figure 6.66b.  The stakes 
+6.66.6
+Rev. 5/13
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+should be driven to a minimum depth of 12 inches, with a minimum of 3 
+inches protruding above the compost sock. 
+ 
+7. In the event staking is not possible (i.e., when socks are used on pavement) 
+heavy concrete blocks shall be used behind the sock to hold it in place during 
+runoff events. 
+ 
+8. If the compost sock is to be left as part of the natural landscape, it may be 
+seeded at time of installation for establishment of permanent vegetation using 
+the seeding specification in the erosion and sedimentation control plan. 
+ 
+9. Compost socks are not to be used in perennial or intermittent streams. 
+ 
+Maintenance 
+Inspect compost socks weekly and after each significant rainfall event (1/2 inch 
+or greater).  Remove accumulated sediment and any debris.  The compost sock 
+must be replaced if clogged or torn.  If ponding becomes excessive, the sock may 
+need to be replaced with a larger diameter or a different measure.  The sock 
+needs to be reinstalled if undermined or dislodged.  The compost sock shall be 
+inspected until land disturbance is complete and the area above the measure has 
+been permanently stabilized.  
+ 
+DISPOSAL/RECYCLING 
+Compost media is a composted organic product recycled and manufactured from 
+locally generated organic, natural, and biologically based materials.  Once all soil 
+has been stabilized and construction activity has been completed, the compost 
+media may be dispersed with a loader, rake, bulldozer or similar device and may 
+be incorporated into the soil as an amendment or left on the soil surface to aid in 
+permanent seeding or landscaping.  Leaving the compost media on site reduces 
+removal and disposal costs compared to other sediment control devices.  The 
+mesh netting material will be extracted from the media and disposed of properly.  
+The photodegradable mesh netting material will degrade in 2 to 5 years if left on 
+site.  Biodegradable mesh netting material is available and does not need to be 
+extracted and disposed of, as it will completely decompose in approximately 6 to 
+12 months.  Using biodegradable compost socks completely eliminates the need 
+and cost of removal and disposal. 
+ 
+ 
+ 
+Rev. 5/13
+6.66.7
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6.66b Compost Sock Installation 
+ 
+Maryland Standards and Specifications 
+for Soil Erosion and Sediment Control, 
+2011, Maryland Department of 
+Environment, Water Management 
+Administration
+6.66.8
+Rev. 5/13
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References   
+Chapter 3 Vegetative Considerations  
+Chapter 6 Practice Standard and Site Specifications 
+6.10, Temporary Seeding 
+6.11, Permanent Seeding 
+6.17, Rolled Erosion Control Products
+ 
+6.18, Compost Blankets 
+ 
+Tyler, R., A. Marks, B. Faucette. 2010. The Sustainable Site: Design  
+   Manual for Green Infrastructure and Low Impact Development Forester  
+   Press, Santa Barbara, CA. 
+ 
+Fifield, J. 2001. Designing for Effective Sediment and Erosion Control on  
+   Construction Sites. Forester Press, Santa Barbara, CA. 
+ 
+Maryland Department of Environment, Water Management Administration,  
+   2011, Maryland Standards and Specifications for Soil Erosion and Sediment  
+   Control, Filter Log 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rev. 5/13
+6.66.9
+

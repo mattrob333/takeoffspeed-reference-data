@@ -1,0 +1,272 @@
+MEANS OF EGRESS
+2021 INTERNATIONAL BUILDING CODE®
+Group A or E occupancy shall not be provided with a
+latch or lock other than panic hardware or fire exit
+hardware.
+Exceptions:
+1.
+A main exit of a Group A occupancy shall be
+permitted to have locking devices in accor-
+dance with Section 1010.2.4, Item 3.
+2.
+Doors provided with panic hardware or fire
+exit hardware and serving a Group A or E
+occupancy shall be permitted to be electrically
+locked in accordance with Section 1010.2.11 or
+1010.2.12.
+3.
+Exit access doors serving occupied exterior
+areas shall be permitted to be locked in accor-
+dance with Section 1010.2.4, Item 8.
+4.
+Courtrooms shall be permitted to be locked in
+accordance with Section 1010.2.13, Item 3.
+1010.2.9.1 Refrigeration machinery room. Refriger-
+ation machinery rooms larger than 1,000 square feet
+(93 m2) shall have not less than two exit or exit access
+doorways that swing in the direction of egress travel
+and shall be equipped with panic hardware or fire exit
+hardware.
+1010.2.9.2 Rooms with electrical equipment. Exit or
+exit access doors serving transformer vaults, rooms
+designated for batteries or energy storage systems, or
+modular data centers shall be equipped with panic
+hardware or fire exit hardware. Rooms containing
+electrical equipment rated 800 amperes or more that
+contain overcurrent devices, switching devices or
+control devices and where the exit or exit access door
+is less than 25 feet (7620 mm) from the equipment
+working space as required by NFPA 70, such doors
+shall not be provided with a latch or lock other than
+panic hardware or fire exit hardware. The doors shall
+swing in the direction of egress travel.
+1010.2.9.3 Installation. Where panic or fire exit hard-
+ware is installed, it shall comply with the following:
+1.
+Panic hardware shall be listed in accordance
+with UL 305.
+2.
+Fire exit hardware shall be listed in accordance
+with UL 10C and UL 305.
+3.
+The actuating portion of the releasing device
+shall extend not less than one-half of the door
+leaf width.
+4.
+The maximum unlatching force shall not
+exceed 15 pounds (67 N).
+1010.2.9.4 Balanced doors. If balanced doors are
+used and panic hardware is required, the panic hard-
+ware shall be the push-pad type and the pad shall not
+extend more than one-half the width of the door
+measured from the latch side.
+1010.2.10 Monitored or recorded egress. Where electri-
+cal systems that monitor or record egress activity are
+incorporated, the locking system shall comply with
+Section 1010.2.11, 1010.2.12, 1010.2.13, 1010.2.14 or
+1010.2.15 or shall be readily openable from the egress
+side without the use of a key or special knowledge or
+effort.
+1010.2.11 Door hardware release of electrically locked
+egress doors. Door hardware release of electric locking
+systems shall be permitted on doors in the means of
+egress in any occupancy except Group H where installed
+and operated in accordance with all of the following:
+1.
+The door hardware that is affixed to the door leaf
+has an obvious method of operation that is readily
+operated under all lighting conditions.
+2.
+The door hardware is capable of being operated
+with one hand and shall comply with Section
+1010.2.1.
+3.
+Operation of the door hardware directly interrupts
+the power to the electric lock and unlocks the door
+immediately.
+4.
+Loss of power to the electric locking system auto-
+matically unlocks the door.
+5.
+Where panic or fire exit hardware is required by
+Section 1010.2.9, operation of the panic or fire
+exit hardware also releases the electric lock.
+6.
+The locking system units shall be listed in accor-
+dance with UL 294.
+1010.2.12 Sensor release of electrically locked egress
+doors. Sensor release of electric locking systems shall be
+permitted on doors located in the means of egress in any
+occupancy except Group H where installed and operated
+in accordance with all of the following criteria:
+1.
+The sensor shall be installed on the egress side,
+arranged to detect an occupant approaching the
+doors, and shall cause the electric locking system
+to unlock.
+2.
+The electric locks shall be arranged to unlock by a
+signal from or loss of power to the sensor.
+3.
+Loss of power to the lock or locking system shall
+automatically unlock the electric locks.
+4.
+The doors shall be arranged to unlock from a
+manual unlocking device located 40 inches to 48
+inches (1016 mm to 1219 mm) vertically above
+the floor and within 5 feet (1524 mm) of the
+secured doors. Ready access shall be provided to
+the manual unlocking device and the device shall
+be clearly identified by a sign that reads “PUSH
+TO EXIT.” When operated, the manual unlocking
+device shall result in direct interruption of power
+to the electric lock—independent of other elec-
+tronics—and the electric lock shall remain
+unlocked for not less than 30 seconds.
+5.
+Activation of the building fire alarm system,
+where provided, shall automatically unlock the
+electric lock, and the electric lock shall remain
+unlocked until the fire alarm system has been
+reset.
+6.
+Activation of the building automatic sprinkler
+system or fire detection system, where provided,
+
+10-17
+Copyrighted material licensed to Allegion, PLC by Clarivate Analytics (US) LLC, subscriptions.techstreet.com, downloaded on 2020-12-08 02:58:38 +0000 by  Lori Greene.
+ No further reproduction or distribution is permitted.
+
+MEANS OF EGRESS
+2021 INTERNATIONAL BUILDING CODE®
+shall automatically unlock the electric lock. The
+electric lock shall remain unlocked until the fire
+alarm system has been reset.
+7.
+Emergency lighting shall be provided on the
+egress side of the door.
+8.
+The door locking system units shall be listed in
+accordance with UL 294.
+1010.2.13 Delayed egress. Delayed egress locking
+systems shall be permitted to be installed on doors serv-
+ing the following occupancies in buildings that are
+equipped throughout with an automatic sprinkler system
+in accordance with Section 903.3.1.1 or an approved
+automatic smoke or heat detection system installed in
+accordance with Section 907.
+1.
+Group B, F, I, M, R, S and U occupancies.
+2.
+Group E classrooms with an occupant load of less
+than 50.
+3.
+In courtrooms in Group A-3 and B occupancies,
+delayed egress locking systems shall be permitted
+to be installed on exit or exit access doors, other
+than the main exit or exit access door, in buildings
+that are equipped throughout with an automatic
+sprinkler system in accordance with Section
+903.3.1.1.
+1010.2.13.1 Delayed egress locking system. The
+delayed egress locking system shall be installed and
+operated in accordance with all of the following:
+1.
+The delay electronics of the delayed egress
+locking system shall deactivate upon actuation
+of the automatic sprinkler system or automatic
+fire detection system, allowing immediate free
+egress.
+2.
+The delay electronics of the delayed egress
+locking system shall deactivate upon loss of
+power controlling the lock or lock mechanism,
+allowing immediate free egress.
+3.
+The delayed egress locking system shall have
+the capability of being deactivated at the fire
+command center and other approved locations.
+4.
+An attempt to egress shall initiate an irrevers-
+ible process that shall allow such egress in not
+more than 15 seconds when a physical effort to
+exit is applied to the egress side door hardware
+for not more than 3 seconds. Initiation of the
+irreversible process shall activate an audible
+signal in the vicinity of the door. Once the
+delay electronics have been deactivated, rearm-
+ing the delay electronics shall be by manual
+means only.
+Exception: Where approved, a delay of
+not more than 30 seconds is permitted on a
+delayed egress door.
+5.
+The egress path from any point shall not pass
+through more than one delayed egress locking
+system.
+Exceptions:
+1.
+In Group I-1, Condition 2, Group
+I-2 or I-3 occupancies, the egress
+path from any point in the build-
+ing shall pass through not more
+than two delayed egress locking
+systems 
+provided 
+that 
+the
+combined delay does not exceed
+30 seconds.
+2.
+In Group I-1, Condition 1 or
+Group I-4 occupancies, the egress
+path from any point in the build-
+ing shall pass through not more
+than two delayed egress locking
+systems provided the combined
+delay does not exceed 30 seconds
+and the building is equipped
+throughout with an automatic
+sprinkler system in accordance
+with Section 903.3.1.1.
+6.
+A sign shall be provided on the door and shall
+be located above and within 12 inches (305
+mm) of the door exit hardware:
+Exception: Where approved, in Group I
+occupancies, the installation of a sign is
+not required where care recipients who
+because of clinical needs require restraint
+or containment as part of the function of
+the treatment area.
+6.1. For doors that swing in the direction
+of egress, the sign shall read, "PUSH
+UNTIL ALARM SOUNDS. DOOR
+CAN BE OPENED IN 15 [30]
+SECONDS."
+6.2. For doors that swing in the opposite
+direction of egress, the sign shall
+read, 
+"PULL 
+UNTIL 
+ALARM
+SOUNDS. 
+DOOR 
+CAN 
+BE
+OPENED IN 15 [30] SECONDS."
+6.3. The sign shall comply with the visual
+character 
+requirements 
+in 
+ICC
+A117.1.
+7.
+Emergency lighting shall be provided on the
+egress side of the door.
+8.
+The delayed egress locking system units shall
+be listed in accordance with UL 294.
+10-18
+Copyrighted material licensed to Allegion, PLC by Clarivate Analytics (US) LLC, subscriptions.techstreet.com, downloaded on 2020-12-08 02:58:38 +0000 by  Lori Greene.
+ No further reproduction or distribution is permitted.

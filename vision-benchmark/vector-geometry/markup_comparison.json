@@ -1,0 +1,929 @@
+{
+ "per_run": [
+  {
+   "id": 0,
+   "ours": "A3B",
+   "src": "tag",
+   "lf": 8.27,
+   "estimator": "A3B",
+   "marked_fraction": 0.86
+  },
+  {
+   "id": 1,
+   "ours": "A3B",
+   "src": "tag",
+   "lf": 8.14,
+   "estimator": "A3B",
+   "marked_fraction": 0.88
+  },
+  {
+   "id": 2,
+   "ours": "A3B",
+   "src": "tag",
+   "lf": 3.66,
+   "estimator": "A3B",
+   "marked_fraction": 0.95
+  },
+  {
+   "id": 3,
+   "ours": "A3A",
+   "src": "tag",
+   "lf": 1.3,
+   "estimator": "A3A",
+   "marked_fraction": 0.96
+  },
+  {
+   "id": 4,
+   "ours": "A3A",
+   "src": "propagated",
+   "lf": 0.73,
+   "estimator": "A3A",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 5,
+   "ours": "A3A",
+   "src": "tag",
+   "lf": 7.19,
+   "estimator": "A3A",
+   "marked_fraction": 0.98
+  },
+  {
+   "id": 6,
+   "ours": "A3A",
+   "src": "propagated",
+   "lf": 1.15,
+   "estimator": "A3A",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 7,
+   "ours": "A3B",
+   "src": "tag",
+   "lf": 5.54,
+   "estimator": "A3B",
+   "marked_fraction": 0.98
+  },
+  {
+   "id": 8,
+   "ours": "A3B",
+   "src": "tag",
+   "lf": 5.03,
+   "estimator": "A3B",
+   "marked_fraction": 0.96
+  },
+  {
+   "id": 9,
+   "ours": "A3B",
+   "src": "propagated-ambiguous",
+   "lf": 7.59,
+   "estimator": "A3A",
+   "marked_fraction": 0.82
+  },
+  {
+   "id": 10,
+   "ours": "A3A",
+   "src": "propagated",
+   "lf": 1.7,
+   "estimator": "A3A",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 11,
+   "ours": "A3A",
+   "src": "tag",
+   "lf": 6.21,
+   "estimator": "A3A",
+   "marked_fraction": 0.99
+  },
+  {
+   "id": 12,
+   "ours": "untagged A3",
+   "src": "geometry-only",
+   "lf": 2.14,
+   "estimator": "D3A",
+   "marked_fraction": 0.9
+  },
+  {
+   "id": 13,
+   "ours": "A3A",
+   "src": "tag",
+   "lf": 2.18,
+   "estimator": "A3A",
+   "marked_fraction": 0.93
+  },
+  {
+   "id": 14,
+   "ours": "A3A",
+   "src": "propagated",
+   "lf": 0.7,
+   "estimator": "A3A",
+   "marked_fraction": 0.92
+  },
+  {
+   "id": 15,
+   "ours": "A6B",
+   "src": "tag",
+   "lf": 5.64,
+   "estimator": "A6B",
+   "marked_fraction": 0.96
+  },
+  {
+   "id": 16,
+   "ours": "A6A",
+   "src": "propagated",
+   "lf": 0.59,
+   "estimator": "A6A",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 17,
+   "ours": "A6A",
+   "src": "propagated",
+   "lf": 0.59,
+   "estimator": "A6A",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 18,
+   "ours": "A6A",
+   "src": "tag",
+   "lf": 6.1,
+   "estimator": "A6A",
+   "marked_fraction": 0.98
+  },
+  {
+   "id": 19,
+   "ours": "A6A",
+   "src": "propagated",
+   "lf": 2.12,
+   "estimator": "A6A",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 20,
+   "ours": "A6A",
+   "src": "propagated",
+   "lf": 0.59,
+   "estimator": "A6A",
+   "marked_fraction": 0.91
+  },
+  {
+   "id": 21,
+   "ours": "A6A",
+   "src": "propagated",
+   "lf": 1.07,
+   "estimator": "A6A",
+   "marked_fraction": 0.9
+  },
+  {
+   "id": 22,
+   "ours": "untagged D3",
+   "src": "geometry-only",
+   "lf": 2.14,
+   "estimator": "D3A",
+   "marked_fraction": 0.97
+  },
+  {
+   "id": 23,
+   "ours": "untagged D3",
+   "src": "geometry-only",
+   "lf": 5.13,
+   "estimator": "(not marked)",
+   "marked_fraction": 0.0
+  },
+  {
+   "id": 24,
+   "ours": "D3A",
+   "src": "tag",
+   "lf": 2.03,
+   "estimator": "D3A",
+   "marked_fraction": 0.97
+  },
+  {
+   "id": 25,
+   "ours": "D3C",
+   "src": "tag",
+   "lf": 0.59,
+   "estimator": "D3C",
+   "marked_fraction": 0.82
+  },
+  {
+   "id": 26,
+   "ours": "D3C",
+   "src": "tag",
+   "lf": 0.59,
+   "estimator": "D3C",
+   "marked_fraction": 0.73
+  },
+  {
+   "id": 27,
+   "ours": "D3A",
+   "src": "tag",
+   "lf": 10.76,
+   "estimator": "D3A",
+   "marked_fraction": 0.99
+  },
+  {
+   "id": 28,
+   "ours": "D3A",
+   "src": "tag",
+   "lf": 3.52,
+   "estimator": "D3A",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 29,
+   "ours": "untagged D3",
+   "src": "geometry-only",
+   "lf": 3.43,
+   "estimator": "6&3-5/8 BS SHTNG @18'8\"",
+   "marked_fraction": 0.92
+  },
+  {
+   "id": 30,
+   "ours": "D3A",
+   "src": "tag",
+   "lf": 10.76,
+   "estimator": "D3A",
+   "marked_fraction": 0.99
+  },
+  {
+   "id": 31,
+   "ours": "D3A",
+   "src": "propagated",
+   "lf": 2.93,
+   "estimator": "D3A",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 32,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 6.02,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 0.97
+  },
+  {
+   "id": 33,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 8.27,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 34,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 8.14,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 0.99
+  },
+  {
+   "id": 35,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 0.97,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 36,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 1.03,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 0.95
+  },
+  {
+   "id": 37,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 13.09,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 0.99
+  },
+  {
+   "id": 38,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 5.33,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 0.98
+  },
+  {
+   "id": 39,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 0.86,
+   "estimator": "EXT8 @15'9\"",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 40,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 0.62,
+   "estimator": "(not marked)",
+   "marked_fraction": 0.0
+  },
+  {
+   "id": 41,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 0.9,
+   "estimator": "(not marked)",
+   "marked_fraction": 0.0
+  },
+  {
+   "id": 42,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 0.17,
+   "estimator": "(not marked)",
+   "marked_fraction": 0.0
+  },
+  {
+   "id": 43,
+   "ours": "bare 6in cavity (not a wall?)",
+   "src": "geometry-only",
+   "lf": 7.75,
+   "estimator": "(not marked)",
+   "marked_fraction": 0.0
+  },
+  {
+   "id": 44,
+   "ours": "6in stud, board one side",
+   "src": "geometry-only",
+   "lf": 2.67,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 45,
+   "ours": "6in stud, board one side",
+   "src": "geometry-only",
+   "lf": 5.94,
+   "estimator": "EXT6 @12'3\"",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 46,
+   "ours": "A3B",
+   "src": "tag",
+   "lf": 5.2,
+   "estimator": "A3B",
+   "marked_fraction": 0.79
+  },
+  {
+   "id": 47,
+   "ours": "A3A",
+   "src": "tag",
+   "lf": 10.63,
+   "estimator": "A3A",
+   "marked_fraction": 0.98
+  },
+  {
+   "id": 48,
+   "ours": "A3A",
+   "src": "propagated",
+   "lf": 0.79,
+   "estimator": "A3A",
+   "marked_fraction": 0.93
+  },
+  {
+   "id": 49,
+   "ours": "A3A",
+   "src": "propagated",
+   "lf": 1.15,
+   "estimator": "A3A",
+   "marked_fraction": 0.95
+  },
+  {
+   "id": 50,
+   "ours": "A3A",
+   "src": "propagated",
+   "lf": 3.16,
+   "estimator": "A3A",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 51,
+   "ours": "A3A",
+   "src": "tag",
+   "lf": 2.37,
+   "estimator": "A3A",
+   "marked_fraction": 0.95
+  },
+  {
+   "id": 52,
+   "ours": "A6B",
+   "src": "propagated",
+   "lf": 4.83,
+   "estimator": "A6B",
+   "marked_fraction": 0.74
+  },
+  {
+   "id": 53,
+   "ours": "A6B",
+   "src": "tag",
+   "lf": 3.05,
+   "estimator": "A6B",
+   "marked_fraction": 0.95
+  },
+  {
+   "id": 54,
+   "ours": "A6B",
+   "src": "tag",
+   "lf": 7.88,
+   "estimator": "A6B",
+   "marked_fraction": 0.99
+  },
+  {
+   "id": 55,
+   "ours": "A6A",
+   "src": "propagated",
+   "lf": 1.07,
+   "estimator": "A6A",
+   "marked_fraction": 0.95
+  },
+  {
+   "id": 56,
+   "ours": "A6A",
+   "src": "propagated",
+   "lf": 10.34,
+   "estimator": "A6A",
+   "marked_fraction": 0.99
+  },
+  {
+   "id": 57,
+   "ours": "A6B",
+   "src": "tag",
+   "lf": 7.88,
+   "estimator": "A6B",
+   "marked_fraction": 0.96
+  },
+  {
+   "id": 58,
+   "ours": "A6A",
+   "src": "tag",
+   "lf": 5.41,
+   "estimator": "A6A",
+   "marked_fraction": 0.97
+  },
+  {
+   "id": 59,
+   "ours": "A6A",
+   "src": "tag",
+   "lf": 10.83,
+   "estimator": "A6A",
+   "marked_fraction": 0.8
+  },
+  {
+   "id": 60,
+   "ours": "D3A",
+   "src": "propagated",
+   "lf": 0.89,
+   "estimator": "D3A",
+   "marked_fraction": 0.88
+  },
+  {
+   "id": 61,
+   "ours": "D3A",
+   "src": "tag",
+   "lf": 0.94,
+   "estimator": "D3A",
+   "marked_fraction": 0.94
+  },
+  {
+   "id": 62,
+   "ours": "D3C",
+   "src": "propagated",
+   "lf": 0.89,
+   "estimator": "D3C",
+   "marked_fraction": 0.65
+  },
+  {
+   "id": 63,
+   "ours": "D3C",
+   "src": "propagated",
+   "lf": 0.89,
+   "estimator": "D3C",
+   "marked_fraction": 0.65
+  },
+  {
+   "id": 64,
+   "ours": "untagged D3",
+   "src": "geometry-only",
+   "lf": 1.07,
+   "estimator": "D3A",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 65,
+   "ours": "D3C",
+   "src": "propagated",
+   "lf": 0.89,
+   "estimator": "D3C",
+   "marked_fraction": 0.65
+  },
+  {
+   "id": 66,
+   "ours": "D3C",
+   "src": "propagated",
+   "lf": 0.89,
+   "estimator": "D3C",
+   "marked_fraction": 0.71
+  },
+  {
+   "id": 67,
+   "ours": "D3A",
+   "src": "propagated",
+   "lf": 0.94,
+   "estimator": "D3A",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 68,
+   "ours": "D3A",
+   "src": "tag",
+   "lf": 7.9,
+   "estimator": "D3A",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 69,
+   "ours": "untagged D3",
+   "src": "geometry-only",
+   "lf": 3.25,
+   "estimator": "(not marked)",
+   "marked_fraction": 0.0
+  },
+  {
+   "id": 70,
+   "ours": "untagged D3",
+   "src": "geometry-only",
+   "lf": 0.41,
+   "estimator": "(not marked)",
+   "marked_fraction": 0.0
+  },
+  {
+   "id": 71,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 5.22,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 0.98
+  },
+  {
+   "id": 72,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 8.45,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 0.99
+  },
+  {
+   "id": 73,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 2.39,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 0.93
+  },
+  {
+   "id": 74,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 2.23,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 0.98
+  },
+  {
+   "id": 75,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 0.89,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 0.94
+  },
+  {
+   "id": 76,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 5.55,
+   "estimator": "EXT8 @15'9\"",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 77,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 1.21,
+   "estimator": "EXT8 @15'9\"",
+   "marked_fraction": 0.91
+  },
+  {
+   "id": 78,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 0.59,
+   "estimator": "EXT8 @15'9\"",
+   "marked_fraction": 0.91
+  },
+  {
+   "id": 79,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 0.34,
+   "estimator": "EXT8 @15'9\"",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 80,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 0.56,
+   "estimator": "EXT8 @15'9\"",
+   "marked_fraction": 0.91
+  },
+  {
+   "id": 81,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 1.24,
+   "estimator": "EXT8 @15'9\"",
+   "marked_fraction": 0.91
+  },
+  {
+   "id": 82,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 4.06,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 0.97
+  },
+  {
+   "id": 83,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 5.33,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 0.95
+  },
+  {
+   "id": 84,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 2.97,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 1.0
+  },
+  {
+   "id": 85,
+   "ours": "EXT 8in stud (exterior)",
+   "src": "geometry-only",
+   "lf": 0.8,
+   "estimator": "EXT8 @12'9\"",
+   "marked_fraction": 0.8
+  },
+  {
+   "id": 86,
+   "ours": "6in stud, board one side",
+   "src": "geometry-only",
+   "lf": 1.31,
+   "estimator": "EXT6 @12'3\"",
+   "marked_fraction": 0.96
+  },
+  {
+   "id": 87,
+   "ours": "6in stud, board one side",
+   "src": "geometry-only",
+   "lf": 1.31,
+   "estimator": "EXT6 @12'3\"",
+   "marked_fraction": 0.96
+  }
+ ],
+ "confusion_lf": [
+  {
+   "ours": "6in stud, board one side",
+   "estimator": "EXT6 @12'3\"",
+   "lf": 8.6
+  },
+  {
+   "ours": "6in stud, board one side",
+   "estimator": "EXT8 @12'9\"",
+   "lf": 2.7
+  },
+  {
+   "ours": "A3A",
+   "estimator": "A3A",
+   "lf": 39.3
+  },
+  {
+   "ours": "A3B",
+   "estimator": "A3A",
+   "lf": 7.6
+  },
+  {
+   "ours": "A3B",
+   "estimator": "A3B",
+   "lf": 35.8
+  },
+  {
+   "ours": "A6A",
+   "estimator": "A6A",
+   "lf": 38.7
+  },
+  {
+   "ours": "A6B",
+   "estimator": "A6B",
+   "lf": 29.3
+  },
+  {
+   "ours": "D3A",
+   "estimator": "D3A",
+   "lf": 40.7
+  },
+  {
+   "ours": "D3C",
+   "estimator": "D3C",
+   "lf": 4.7
+  },
+  {
+   "ours": "EXT 8in stud (exterior)",
+   "estimator": "(not marked)",
+   "lf": 1.7
+  },
+  {
+   "ours": "EXT 8in stud (exterior)",
+   "estimator": "EXT8 @12'9\"",
+   "lf": 75.2
+  },
+  {
+   "ours": "EXT 8in stud (exterior)",
+   "estimator": "EXT8 @15'9\"",
+   "lf": 10.4
+  },
+  {
+   "ours": "bare 6in cavity (not a wall?)",
+   "estimator": "(not marked)",
+   "lf": 7.8
+  },
+  {
+   "ours": "untagged A3",
+   "estimator": "D3A",
+   "lf": 2.1
+  },
+  {
+   "ours": "untagged D3",
+   "estimator": "(not marked)",
+   "lf": 8.8
+  },
+  {
+   "ours": "untagged D3",
+   "estimator": "6&3-5/8 BS SHTNG @18'8\"",
+   "lf": 3.4
+  },
+  {
+   "ours": "untagged D3",
+   "estimator": "D3A",
+   "lf": 3.2
+  }
+ ],
+ "estimator_marked_not_measured": [
+  {
+   "color": "green",
+   "bbox_pt": [
+    1032,
+    944,
+    1330,
+    944
+   ],
+   "approx_lf": 16.6,
+   "pixels": 200
+  },
+  {
+   "color": "teal",
+   "bbox_pt": [
+    1058,
+    1229,
+    1058,
+    1372
+   ],
+   "approx_lf": 7.9,
+   "pixels": 96
+  },
+  {
+   "color": "salmon",
+   "bbox_pt": [
+    1058,
+    1373,
+    1058,
+    1434
+   ],
+   "approx_lf": 3.4,
+   "pixels": 42
+  },
+  {
+   "color": "slate",
+   "bbox_pt": [
+    1340,
+    992,
+    1340,
+    1046
+   ],
+   "approx_lf": 3.0,
+   "pixels": 37
+  },
+  {
+   "color": "yellow",
+   "bbox_pt": [
+    714,
+    932,
+    764,
+    932
+   ],
+   "approx_lf": 2.8,
+   "pixels": 35
+  },
+  {
+   "color": "green",
+   "bbox_pt": [
+    794,
+    1307,
+    794,
+    1358
+   ],
+   "approx_lf": 2.8,
+   "pixels": 35
+  },
+  {
+   "color": "olive",
+   "bbox_pt": [
+    1142,
+    492,
+    1188,
+    492
+   ],
+   "approx_lf": 2.5,
+   "pixels": 31
+  },
+  {
+   "color": "green",
+   "bbox_pt": [
+    794,
+    1265,
+    794,
+    1304
+   ],
+   "approx_lf": 2.2,
+   "pixels": 27
+  },
+  {
+   "color": "slate",
+   "bbox_pt": [
+    1340,
+    1052,
+    1340,
+    1091
+   ],
+   "approx_lf": 2.2,
+   "pixels": 27
+  },
+  {
+   "color": "brown",
+   "bbox_pt": [
+    1435,
+    599,
+    1435,
+    622
+   ],
+   "approx_lf": 1.2,
+   "pixels": 16
+  },
+  {
+   "color": "slate",
+   "bbox_pt": [
+    698,
+    1380,
+    721,
+    1380
+   ],
+   "approx_lf": 1.2,
+   "pixels": 16
+  },
+  {
+   "color": "green",
+   "bbox_pt": [
+    1009,
+    944,
+    1028,
+    944
+   ],
+   "approx_lf": 1.1,
+   "pixels": 14
+  }
+ ]
+}

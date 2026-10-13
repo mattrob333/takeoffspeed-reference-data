@@ -1,0 +1,683 @@
+[[p1]]
+© 2017 Brick Industry Association, Reston, Virginia
+Page 1 of 15 
+TECHNICAL NOTES on Brick Construction
+12007 Sunrise Valley Drive, Suite 430, Reston, Virginia 20191 | www.gobrick.com | 703-620-0010
+7
+November 
+2017
+Water Penetration Resistance – Design 
+and Detailing
+Abstract: Brick masonry walls require proper design, detailing and construction to minimize water penetration into or 
+through a wall system. Many aspects of design, construction and maintenance can influence the resistance of a wall to water 
+penetration. The selection of the proper type of wall is of utmost importance in the design process, as is the need for complete 
+and accurate detailing. In addition to discussing various wall types, this Technical Note covers proper design of brick masonry 
+walls and suggests details that have been found to increase water penetration resistance.
+Key Words: barrier, design, detailing, drainage, flashing, installation, rain, wall types, weeps.
+Wall System Selection
+•	Drainage walls provide maximum protection against water 
+penetration by use of a drainage cavity
+•	Barrier walls provide good water penetration resistance 
+by holding moisture within their mass until evaporation 
+occurs
+•	Single wythe masonry walls provide adequate water 
+penetration resistance when carefully detailed and 
+constructed
+Through-Wall Flashing Locations
+•	Install flashing at wall bases, window sills, heads of 
+openings, shelf angles, tops of walls and roofs, parapets, 
+above projections (such as bay windows, balconies, 
+decks), changes in grade, and transitions with other 
+cladding materials
+•	For drainage walls, also install flashing at any other 
+discontinuities in the cavity
+Through-Wall Flashing Installation
+•	Extending flashing to exterior wall face is required 
+•	Lap continuous flashing pieces at least 6 in. (152 mm) 
+and seal with compatible sealant or adhesive
+•	Turn up the ends of discontinuous flashing at least 1 in. 
+(25.4 mm) to form end dams
+•	Support flexible flashing across gaps and openings
+•	Extending flashing beyond the exterior wall face is 
+recommended
+•	For UV-sensitive flashing, use a drip edge
+Through-Wall Flashing Termination
+•	End flashing on vertical surface of backing
+•	Integrate flashing with weather-resistive barrier
+•	Protect edge of flashing from moisture:
+•	 Apply cap bead of sealant on edge of self-adhered 
+flashing
+•	 Use of termination bar with sealant is preferred
+•	 Other options: Insert into bed joint in masonry or 
+reglet in concrete
+Water-Resistive Barrier
+•	Required for wood or cold-formed steel backing; 
+recommended for redundancy on masonry or concrete 
+backing
+•	Use sheet membranes, fluid-applied films or board 
+materials
+•	Integrate with flashing in shingled fashion to direct bulk 
+water out of wall assembly
+•	Vapor permeability of material used depends on climate 
+zone, wall assembly components and code requirements
+Air Barrier
+•	Required by building codes
+•	Generally placed on exterior face of backing
+•	Vapor permeability of material used depends on climate 
+zone and wall assembly components
+Drainage Cavity
+•	Provide air space that drains properly with minimal mortar 
+droppings
+•	A minimum 1 in. (25.4 mm) air space* is required
+•	When continuous insulation is present, maintain minimum 
+1 in. (25.4 mm) air space* between the back of the brick 
+and the insulation
+•	For air space recommendations, consult appropriate 
+Technical Note for project-specific wall assembly
+•	Use of drainage material or mortar collection devices 
+recommended
+* An air space is allowed in the IRC to be a 1 in. (25.4 mm) 
+nominal dimension and in the IBC to be a 1 in. (25.4 mm) 
+specified dimension to account for construction tolerances.
+Weeps
+•	Open head joint weeps spaced at no more than 24 in. 
+(610 mm) o.c. preferred 
+•	Most building codes permit weeps no less than 3⁄16 in. 
+(4.8 mm) in diameter and spaced no more than 33 in. 
+(838 mm) o.c.
+•	When wick weeps used, spacing of no more than 16 in. 
+(406 mm) o.c. is recommended
+•	Use of weep tubes is not recommended
+SUMMARY OF RECOMMENDATIONS:
+
+[[p2]]
+www.gobrick.com | Brick Industry Association | TN 7 | Water Penetration Resistance – Design and Detailing | Page 2 of 15 
+INTRODUCTION
+This Technical Note is the first in a series addressing water resistance of brick masonry. Design considerations 
+and details are provided to illustrate the principles involved in addressing water penetration issues. The other 
+Technical Notes in this series provide detailed guidance in the areas of material selection (7A) and construction 
+(7B). Technical Note 47 provides information on condensation prevention and control.
+When masonry walls encounter problems, water-related issues are often one of the primary factors. Brick 
+masonry exposed to a disproportionate amount of water may have dimensional changes; efflorescence on exterior 
+surfaces; and cracking, crazing, spalling or disintegration due to repeated freeze-thaw cycling. Water may also 
+cause metals to corrode, insulation to lose its effectiveness and interior finishes to deteriorate. On susceptible wall 
+elements, water penetration may also provide the moisture necessary for mold growth.
+The water resistance of a masonry wall depends on four key factors: design, including detailing; materials; 
+construction; and maintenance. Attention to all four is necessary to produce a wall that will perform satisfactorily. 
+Failure to properly address any one factor can result in water penetration problems.
+There are many sources of water that may affect masonry walls. Rain and snow contact exterior building materials 
+directly. Water vapor is a constant presence in the air and can infiltrate or exfiltrate through seams and interfaces 
+in the building envelope. Since water sources cannot be eliminated, the designer must instead control the 
+potential for water penetration. 
+Historically, masonry walls functioned as both the structural system and as the exterior skin of the building. These 
+masonry walls were quite massive, ranging in thickness from 12 in. (305 mm) up to 6 ft (1.83 m) of solid brick. 
+Because of their thickness and their state of constant compression due to the structural loads, these walls worked 
+quite well in keeping water out of the interior of the building. The large volume of masonry prevented moisture 
+penetration to the interior due to the sheer mass of material. Historic mass masonry walls acted as a reservoir 
+for any moisture absorbed, which was later released as vapor. Also, many older masonry walls were built with 
+roof overhangs, cornices and other ornamentation that helped to protect the faces of the buildings from excessive 
+water sheeting and subsequent water penetration to the interior.
+The walls typically used today are much less massive, and the masonry may be 3 in. (76 mm) or less in 
+thickness, greatly reducing the moisture storage capacity of the wall assembly. In many cases, walls have minimal 
+overhang at the top, allowing sheeting of rainwater over the full height of the facade from the roof or parapet down 
+to the ground. As a result, rainwater can be in contact with the masonry of these newer wall systems in larger 
+quantities and for longer periods of time, leading to more opportunity for water penetration problems.
+DESIGN
+The successful performance of a masonry wall depends on limiting the amount of water penetration and 
+controlling any water that enters the wall system. When water passes through brick masonry walls, it typically 
+does so through minute separations between the brick units and the mortar joints. Under normal exposures, it is 
+virtually impossible for significant amounts of water to pass directly through the brick units or through the mortar. 
+Highly absorbent brick units will absorb some water but do not contribute to liquid (bulk) water penetration through 
+a wall. 
+Design for water resistance requires evaluation of several items, including sources of moisture; selection of wall 
+type; and the use of water-resistive barriers, flashing and weeps. This Technical Note addresses each of these 
+items separately.
+Sources of Moisture
+Moisture is present almost everywhere, in the form of rain, snow, condensation, groundwater, construction runoff, 
+etc. Some of these lend themselves to control, but some do not. This Technical Note addresses wind-driven rain. 
+The control of moisture-laden air and interstitial condensation is discussed in Technical Note 47.
+When designing a masonry wall, consideration of exposure to wind-driven rain is important. Exposures vary 
+greatly throughout the United States, from severe on the Eastern Seaboard and Gulf Coast, where rain durations 
+of several hours may be accompanied by high-velocity winds; to moderate in the Midwest and Mississippi Valley, 
+
+[[p3]]
+www.gobrick.com | Brick Industry Association | TN 7 | Water Penetration Resistance – Design and Detailing | Page 3 of 15 
+where wind velocities are usually lower; to slight in the 
+arid areas of the West. No single wall design can be 
+expected to perform equally well under all exposures. 
+Refer to Figure 1.
+Selection of Wall Type
+The selection of the proper wall type to use in any 
+given situation is very important. Under normal 
+conditions, it is nearly impossible to keep a heavy 
+wind-driven rain from penetrating a single wythe of 
+brickwork, regardless of the quality of the materials or 
+the degree of workmanship used.
+The best approach to designing a water-resistive 
+wall is to assume that some water will penetrate the 
+outer surface. Therefore, the objective is to control 
+the moisture once it begins to penetrate the wall. Two 
+basic wall systems are used for this purpose: the 
+drainage wall and the barrier wall.
+Drainage Wall Systems. Drainage wall systems 
+include cavity walls and anchored veneer walls, as 
+shown in Figure 2, Figure 3, Figure 4 and Figure 5. 
+Contemporary cavity walls use metal ties to connect 
+the masonry wythes; however, a designer may 
+encounter masonry-bonded hollow walls in historic 
+applications. The guiding principle behind the drainage 
+wall assumes that a heavy, wind-driven rain will result 
+in moisture penetrating the exterior wythe of brickwork. 
+When this occurs, the wall is designed to collect this 
+moisture and redirect it out of the wall assembly. 
+The water progresses down the drainage cavity, 
+typically on the interior face of the outer brick wythe, 
+where it is collected on the flashing and exits the 
+wall system through the weeps. Properly designed, 
+detailed and constructed drainage wall systems 
+provide excellent water penetration resistance. 
+Figure 1
+U.S. Wind Speeds and Precipitation
+Figure 2
+Brick Veneer/Wood Framing
+Figure 3
+Brick Veneer/Cold-Formed Steel Framing
+
+[[p4]]
+www.gobrick.com | Brick Industry Association | TN 7 | Water Penetration Resistance – Design and Detailing | Page 4 of 15 
+Information on aspects specific to cavity wall systems 
+can be found in the Technical Note 21 Series. The 
+Technical Note 28 Series generically addresses both 
+anchored and adhered veneer wall systems.
+Barrier Wall Systems. Barrier wall systems, such 
+as the one shown in Figure 6, include mass masonry 
+multi-wythe walls with mortar or grout-filled collar 
+joints (including composite brick/concrete block 
+walls and composite brick/structural clay tile walls), 
+reinforced brick masonry walls and adhered veneer 
+walls. The system relies on the thickness of the 
+masonry and the integrity of the mortar or grout to 
+prevent moisture from reaching the interior during 
+the rain event. This moisture will slowly evaporate 
+from the wall assembly during drier weather. Critical 
+to the performance of this wall system is the integrity 
+of the collar joint, as well as the bed and head joints 
+between units. These joints must be solidly filled with 
+grout or mortar; otherwise, the gaps create pathways 
+that direct water to the interior and bypass the storage 
+capacity of the wall assembly. Grouting is the most 
+effective method of ensuring that collar joints are 
+completely filled; however, spaces less than ¾ in. 
+(19.1 mm) should not be grouted. In these instances, 
+the face of the inner masonry wythe should be parged 
+and the back of brick in the exterior wythe buttered in 
+order to fill the collar joint. Placing mortar in the collar 
+joint with a trowel after the individual wythes are laid, 
+commonly referred to as “slushing,” does not result 
+in completely filled joints and is not recommended. 
+Flashing is also integrated into barrier walls to aid 
+in controlling water that penetrates the exterior 
+wythe. Properly designed, detailed and constructed 
+barrier wall systems work well with respect to water 
+penetration resistance.
+Single-Wythe Walls. Single-wythe masonry walls 
+can be considered a variation of a barrier wall system. 
+Single-wythe brick masonry construction can be 
+designed with either solid or hollow units. In single-
+wythe walls, the masonry wythe usually exceeds the 
+thickness of a nominal 4 in. (102 mm) exterior brick 
+wythe. In addition to the added thickness, grouted 
+cells help to prevent water from penetrating to the 
+interior of the wall system. Inherently, single-wythe 
+walls are not as resistant to water penetration as 
+are drainage wall systems or multi-wythe barrier 
+wall systems, and may not be appropriate for some 
+severe exposures. With careful detailing and good 
+construction practices, however, a single-wythe wall 
+can perform well. For example, vertically reinforced 
+and grouted brickwork often provides good water 
+penetration resistance. 
+Figure 4
+Brick Veneer/CMU Wall
+Figure 5
+Masonry-Bonded Hollow Wall
+Figure 6
+Reinforced Barrier Wall
+
+[[p5]]
+www.gobrick.com | Brick Industry Association | TN 7 | Water Penetration Resistance – Design and Detailing | Page 5 of 15 
+With single-wythe masonry, it is especially important to use a mortar joint profile that sheds rather than collects 
+water. Concave and “V” joint profiles are preferred because they eliminate exposed horizontal surfaces on the 
+brick, and the tooling procedure consolidates the outer surface of the mortar and compresses it against the sides 
+of the joint, increasing the water penetration resistance of the mortar joint. See Technical Note 7B for further 
+information. Penetrating water repellents can increase the moisture resistance of single-wythe walls; however, 
+they will require periodic reapplication and are not equal to essential code-required drainage wall details. A water 
+repellent may reduce some bulk water penetration through the brickwork, but it will not improve the ability of the 
+wall to manage any water that does penetrate. Film-forming or acrylic-based water repellent coatings or sealers 
+should be avoided. See Technical Note 6A for further information on water repellents.
+DETAILING
+Water-Resistive Barriers
+The International Building Code (IBC) [Ref. 4] and the International Residential Code (IRC) [Ref. 5] require a 
+weather-resistant exterior envelope to provide water resistance. They define a water-resistive barrier as a material 
+behind an exterior wall covering that is intended to resist liquid (bulk) water that has penetrated behind the exterior 
+covering from further intruding into the exterior wall assembly. For exterior walls with brick veneer and wood or 
+cold-formed steel frame backing, a water-resistive barrier is required. A water-resistive barrier is not required on 
+projects where exterior walls have concrete or masonry backing behind brick veneer, but one may be included for 
+redundancy.
+The water-resistive barrier is typically a sheet layer or fluid-applied membrane attached to the exterior face of the 
+backing, or a board material qualified and installed as such. It is installed to provide a continuous drainage plane 
+and is integrated with flashing in a shingled fashion to form a system that directs bulk water out of the wall. Where 
+the water-resistive barrier is a sheet layer, it must be lapped. Where a fluid-applied membrane is used as a water-
+resistive barrier, most manufacturers require that gaps in the substrate be covered with a transition sheet or tape 
+prior to the application of the liquid material. Similarly, board materials qualified to serve as water-resistive barriers 
+must also have the joints between boards covered.
+In-depth discussion of water-resistive barriers is outside the scope of the BIA Technical Notes. However, there 
+are many building science resources available as reference [Ref. 1 and Ref. 3]. In cases with complicated 
+buildings, consultation with building envelope professionals is recommended in order to develop project-specific 
+recommendations for materials and placement of those materials in the wall assembly. Various types of materials 
+that may be used in the design of brick masonry and brick veneer walls are discussed in Technical Note 7A.
+Air Barriers and Vapor Permeance
+Air barriers and the vapor permeance of materials also play a role in moisture management, as they control the 
+movement of water vapor. An air barrier controls air leakage through the building envelope, and a material’s 
+vapor permeance controls the amount of moisture that can pass through (vapor diffusion). As air movement 
+accounts for significantly more water vapor movement in building cavities than does vapor diffusion, air barriers 
+are generally considered to have a more significant impact on moisture control than the vapor permeance of a 
+material. Both the IBC and IRC require air barriers in the wall assembly. For exterior walls with brick veneer, air 
+barriers are usually placed on the exterior of the backing and may consist of a single material or a combination 
+of materials. In some cases, a water-resistive barrier may also serve as an air barrier or a vapor retarder. Vapor 
+retarders are classified by their level of permeance, as defined in the IBC and IRC. The vapor permeance of a 
+material is generally more of a concern on the warm side of the building envelope. As a result, the interior side of 
+exterior walls of wood or cold-formed steel framing of buildings located in Northern climate zones are required to 
+have materials with a certain vapor permeance. For more information on air barriers, vapor retarders and vapor 
+permeance of materials, refer to Technical Note 7A. 
+Through-Wall Flashing
+Through-wall flashing is an impervious material installed in a masonry wall system to contain water that has 
+penetrated the exterior wythe and direct it back to the exterior. Such flashing is required in a drainage wall system 
+and is critical to the ability of the wall to manage moisture. In a barrier wall system, such flashing is recommended 
+as a second line of defense to moisture intrusion. Proper design requires flashing at wall bases, window sills, 
+heads of openings, shelf angles, projections, recesses, bay windows, chimneys, tops of walls, and roofs. Sheet 
+
+[[p6]]
+www.gobrick.com | Brick Industry Association | TN 7 | Water Penetration Resistance – Design and Detailing | Page 6 of 15 
+metal and flexible membranes are the materials most frequently used to create flashing. Flashing should extend 
+vertically up the backing a minimum of 8 in. (203 mm) above the horizontal leg. 
+Through-wall flashing design and installation must also address the following:
+Compatibility. Through-wall flashing materials and components must be compatible with one another and 
+with the underlying substrates, including air barriers and vapor retarders. Through-wall flashing components 
+must be compared so that materials in contact will adhere with no detrimental effects on the performance of 
+the system. It is recommended to obtain self-adhered flashing, air barriers, vapor retarders and their auxiliary 
+materials (including adhesive/primer and sealants) from a single manufacturer. Alternatively, provide manufacturer 
+documentation confirming compatibility between adjacent materials in the wall assembly.
+Extension Through Wall. While building codes permit flashings to be trimmed flush with the brick face, extending 
+flashing beyond the face of the wall promotes improved drainage. When flashing does not extend beyond the 
+brick face, surface tension can permit moisture to wick under the flashing or wet the surface of the brick below. 
+Wherever possible, a drip should be formed to ensure that moisture exits the wall assembly and is directed away 
+from the face of the wall below. Many popular flashing membranes deteriorate with UV exposure. In such cases, a 
+sheet metal drip edge (typically stainless steel) can be paired with the membrane to address this issue, as shown 
+in Figure 7. The sheet metal drip is inert under UV exposure, which allows the membrane to remain concealed but 
+still direct moisture beyond the face of the brick. This method is also effective at avoiding bleed from rubberized 
+asphalt-based membranes, since the edge of the membrane will be recessed. Where the appearance of drips is 
+considered objectionable, flat sheet metal drips can be formed using only a hemmed edge, eliminating the angled 
+projection and minimizing their exposure.
+Substrate Adhesion and Support. Flashing should be fully adhered to substrate material to prevent lateral 
+migration of moisture in case of a breach. Self-adhered membranes should be rolled to ensure good bond to 
+the substrate and to minimize air bubbles. Rigid flashing such as drip edges or sheet metal pans should be fully 
+bedded in sealant or liquid membrane material. Rigid flashing can be self-supporting; however, flexible flashing 
+requires continuous support and should not span or drape across gaps. Thin corrosion-resistant sheet metal can 
+be used as a support in these conditions. Primers may be required per the manufacturer’s directions.
+Continuity. While some flashing locations are discrete, such as at window openings, other locations such as shelf 
+angles or wall bases will be continuous around the entire building. As a result, pieces must be lapped or spliced at 
+the project site. Plain flexible flashing sections should be lapped at least 6 in. (152 mm) and the laps adhered and 
+edges sealed with a sealant or adhesive compatible with the flashing material. Self-adhesive flashing lap lengths 
+are typically 3 to 4 in. (76 to 102 mm) and vary by manufacturer. The manufacturer’s recommended sealant or 
+liquid membrane should be used to protect the edges of the lap splice. Splices in sheet metal elements like drip 
+edges can consist of a simple lap joint or a separate cover plate that conceals the ends of two adjacent flashing 
+sections. Refer to the manufacturer’s requirements for lap and splice details.
+Figure 7
+Drip Edge Detail
+Figure 8
+Installation of Prefabricated Flashing Corners
+Prefabricated 
+Corners
+
+[[p7]]
+www.gobrick.com | Brick Industry Association | TN 7 | Water Penetration Resistance – Design and Detailing | Page 7 of 15 
+Flashing Around Corners and Projections. Continuity of flashing is critical. To achieve flashing continuity 
+around corners, the pieces of flashing may be folded, lapped and sealed to conform to the shape of the structure. 
+Alternatively, preformed corner and transition pieces are available, as shown in Figure 8. Specifying prefabricated 
+flashing membrane corners reduces some of the potential for water penetration. If cuts are used, then the seams 
+and edges should be well-sealed. Whether field-formed or prefabricated, overlap all edges and corners at least 
+6 in. (152 mm) and seal with an adhesive or detailing material compatible with the flashing. Inside and outside 
+corners of stainless steel drips can be premanufactured as well to improve productivity and to achieve better 
+quality control over soldered seams. 
+End Dams. Where the flashing is not continuous, such as above and below openings in the wall and on each 
+side of vertical building expansion joints, the ends of the flashing should be turned up into the head joint at least 
+1 in. (25.4 mm) at each end to form a dam. At window and door openings, the head flashing should be extended 
+beyond the jamb lines on both sides prior to forming the end dams. Preformed sheet metal end dams may also be 
+used in combination with flexible flashing. End dams for rigid sheet metal flashing should be fully soldered. Refer 
+to Figure 9 for an example of an end dam in a flexible flashing.
+Terminations. Terminate flashing on the vertical surface of the backing and integrate with the water-resistive 
+barrier to provide positive drainage. All flashing terminations must be supported and protected to ensure that they 
+remain in place and that moisture cannot undermine them. In most cases, the water-resistive barrier will overlap 
+the flashing; however, fluid-applied water-resistive barrier may have manufacturer-specific requirements. The 
+vertical leg of flashing can be terminated in a variety of different ways. Flashing, both rigid and flexible, can be 
+terminated into the bed joint of the interior masonry wythe or into horizontal slots (reglets) in concrete construction. 
+For flexible flashing, using a termination bar is preferred. Termination bars are generally narrow plates with 
+predrilled holes to receive fasteners. The termination bar is placed at the top of the vertical leg of flashing, 
+fastened to the substrate, and sealed as shown in Figure 18. Alternatively, self-adhered flexible flashing can be 
+terminated on the backing with a bead of compatible sealant along the top edge.
+Weeps
+In order to adequately drain any water collected on the flashing, weeps are required at the level of the flashing 
+at all locations. The practice of placing weeps in one or more courses of brick above the flashing will allow water 
+to accumulate and is not recommended. An open head joint weep, formed by leaving mortar out of a joint, is 
+the preferred type of weep. Open head joint weeps should be at least 2 in. (51 mm) high. Noncorrosive metal, 
+mesh or plastic screens/vents can be installed in open head joint weeps if desired. These may be beneficial 
+to discourage insect entry and to emphasize the purpose of the open head joints in order to reduce the risk of 
+sealing during future maintenance work. 
+Figure 9
+End Dam Detail
+Figure 10
+Spacing of Weeps
+
+[[p8]]
+www.gobrick.com | Brick Industry Association | TN 7 | Water Penetration Resistance – Design and Detailing | Page 8 of 15 
+Other weep types include wicks and tubes. While not preferred, if used, wicks should be at least 16 in. (406 mm) 
+long and extend through the brick wythe into the air space and along the back of the brick wythe. Weep tubes are 
+not recommended due to an increased risk of clogging. Weeps are permitted by most building codes to have a 
+minimum diameter of 3⁄16 in. (4.8 mm) [Ref. 2 and Ref. 5]. 
+Spacing of open head joint weeps is recommended at no more than 24 in. (610 mm) o.c. Refer to Figure 10. 
+Weeps are permitted by most building codes to be spaced up to 33 in. (838 mm) o.c. [Ref. 2 and Ref. 5]. If used, 
+spacing of wick or tube weeps is recommended at no more than 16 in. (406 mm) o.c.
+Drainage
+To the extent possible, the air space must be kept clear of mortar and mortar droppings to achieve adequate 
+drainage. An air space that provides drainage is permitted to contain mortar from construction. Building codes 
+require a minimum 1 in. (25.4 mm) air space. The IRC requires a nominal 1 in. (25.4 mm) air space, and the IBC 
+requires a specified 1 in. (25.4 mm) minimum air space. When continuous insulation is present within the air space, 
+provide a minimum dimension of 1 in. (25.4 mm) (nominal or specified per applicable code) between the inside 
+face of the brick and the insulation. BIA recommendations for air space dimensions vary depending on the type of 
+construction. Consult the appropriate Technical Note for the project-specific wall assembly.
+Drainage media may be specified that prevent mortar from entering the air space or that catch mortar droppings 
+at the wall base. These materials are usually made of a plastic mesh or fabric porous enough to allow passage 
+of water but that will catch or inhibit mortar from collecting at the base of the air space. The effects of mortar 
+collection devices should be considered carefully, as they may require modifications to typical details such as 
+extending the vertical leg of the flashing more than 8 in. (203 mm) above the weep line. Drainage media is 
+permitted to fill the full depth of the air space. While it is not mandatory to include drainage materials, they may 
+help in providing an air space that drains properly. However, the use of drainage media should not preclude good 
+workmanship and an effort to keep mortar and mortar droppings out of the air space to the extent possible.
+Critical Flashing Locations
+Wall Base. Moisture that enters a wall assembly gradually travels downward. Continuous flashing must be 
+placed above grade at the base of walls to divert this moisture to the exterior. In addition, base flashing prevents 
+groundwater from rising up into the wall system due to capillary action and helps prevent efflorescence. The 
+elevation of flashing and weeps should be no more than 10 in. (254 mm) above finished ground level and should 
+consider planting beds, ground coverings, sidewalks, etc. that are placed immediately adjacent to the wall. The 
+IRC requires lots to be graded to drain surface water away from foundation walls and requires a minimum slope of 
+6 in. (152 mm) within the first 10 ft (3.05 m) of wall to provide positive drainage away from the wall.
+Once the designer has determined the level for placing flashing in the wall in accordance with the grading plans, 
+care should be taken that field modifications do not result in any section of flashing being below grade. The 
+location of the base flashing should be stepped to conform to significant changes in grade.
+The top of the foundation wall should be above the elevation of the base flashing to prevent water from being 
+directed toward the building interior. Refer to Figure 11. The cavity below the base wall flashing should be solidly 
+filled with mortar or grout. Anchors or ties within the solidly filled space should be located according to the same 
+spacing as the brick veneer above grade. Where below-grade waterproofing or dampproofing is present, the 
+transition to the above-grade moisture management system (water-resistive barrier and flashing) should be 
+detailed and constructed to provide continuity at the wall base.
+Brickwork Below Grade. Brickwork should extend below grade only when special provisions are made 
+in detailing and construction to minimize water penetration. If brickwork extends below grade, then the soil 
+immediately adjacent to the brickwork should provide good drainage. If the soil does not provide good drainage, 
+then a drainable fill, drainage mat or drainage board that is detailed and constructed to drain water away from the 
+brickwork should be provided between the soil and the brickwork (see Figure 11a, Figure 11b and Figure 11c).
+The IRC and IBC require the surfaces of walls against earth to be dampproofed or waterproofed. To avoid the 
+application of dampproofing or waterproofing to brick veneer, the brick shelf in the foundation may be constructed 
+above the final grade (see Figure 11d). If brickwork extends below grade, then dampproofing or waterproofing 
+should be applied to the brickwork below grade in accordance with the IRC or IBC.
+
+[[p9]]
+www.gobrick.com | Brick Industry Association | TN 7 | Water Penetration Resistance – Design and Detailing | Page 9 of 15 
+Figure 11
+Flashing at Wall Bases
+(b) CMU on CMU Foundation
+(a) Wood Stud on CMU Foundation
+(c) Steel Stud on Concrete Foundation
+(d) Wood Stud on Turned-Down Slab
+
+[[p10]]
+www.gobrick.com | Brick Industry Association | TN 7 | Water Penetration Resistance – Design and Detailing | Page 10 of 15 
+Brickwork is allowed to project (corbel) from the face of the supporting member by a distance of up to one-half the 
+nominal brick (unit) thickness. To achieve this, each course of the corbel is allowed to project the lesser of one-half 
+the nominal brick (unit) height or one-third the nominal brick (unit) width. Where corbelled brickwork occurs below 
+grade, adequate drainage should be provided below the brickwork (see Figure 11a). Where inadequate drainage 
+is provided for such brickwork, frost heave may result if the brick shelf is located above the frost line.
+Window Sills. Window sills integrated into brick construction should be sloped to shed water; a minimum slope 
+of 15 deg from horizontal is recommended. Through-wall flashing must be placed under all sills, as shown in 
+Figure 12, Figure 13 and Figure 14, and turned up at the back and the ends to form a pan flashing. Soffits and 
+deep reveals may require special flashing considerations. The Technical Note 36 Series contains further details 
+and information.
+Steel Lintels. Through-wall flashing is required at lintels over all openings including door and window heads, as 
+shown in Figure 15. Weeps are required immediately above the flashing. As indicated in the previous section, 
+the flashing is turned up at each end of the lintel to form end dams. Figure 16 shows several examples of lintels, 
+including those anchored to structural steel members. Depending on the configuration of the structural steel 
+member, the steel may interrupt the cavity, which requires installation of flashing on the top flange. However, this 
+configuration leaves the beam web and top surface of the bottom flange susceptible to corrosion. In those cases, 
+Figure 12
+Flanged Window Sill Detail
+Figure 13
+Window Sill in Cavity Wall
+Figure 14
+Stone or Concrete Window Sill
+Figure 15
+Flanged Window Head Detail
+
+[[p11]]
+www.gobrick.com | Brick Industry Association | TN 7 | Water Penetration Resistance – Design and Detailing | Page 11 of 15 
+it is recommended to apply a protective coating to 
+the steel and install an additional line of flashing 
+at the lowest brick course. Typical shop primer or 
+commercial paint is generally not adequate for this 
+application.
+Shelf Angles. In concrete or steel frame buildings 
+with the brick wythe supported on shelf angles, 
+the entire face of the spandrel beam may be 
+flashed, or the flashing may be held in place by a 
+termination bar installed on the spandrel beam or 
+integrated with moisture-proofing on the spandrel 
+beam. In some cases, shelf angle connections may 
+cut, puncture or otherwise interrupt the flashing. 
+When this occurs, it is important to make sure that 
+all openings in the flashing are tightly sealed and 
+that the flashing is attached to these supports with 
+compatible sealant or adhesive. Refer to Figure 17 
+and Figure 18. Horizontal expansion joints are 
+required beneath shelf angles to allow for movement 
+of the brick. For further information on expansion 
+joints, refer to the Technical Note 18 Series.
+Projections, Recesses and Caps. Projections, 
+recesses and caps tend to collect rainwater and 
+Figure 16
+Structural Steel Lintels
+Figure 17
+Shelf Angle with Concrete Frame
+Figure 18
+Shelf Angle with Stand-Off Attachment
+(b)
+Min. 1 in. (25.4 mm) 
+Specified Air Space 
+Between Brick and 
+Insulation
+Welded Plate Bracket 
+to Create Stand-
+Off Shelf Angle for 
+Continuous Insulation
+Sheathing
+Termination Bar with Sealant
+Brick
+Shelf Angle with 
+Stand-Off Connection to Allow 
+Continuous Insulation Behind
+Embed Plate
+Flashing
+Water-Resistive Barrier 
+Detail at Stand-Off Brackets 
+per Manufacturer Instructions
+Weep
+Sealant and 
+Backer Rod
+Compressible 
+Material
+Min. 1 in. (25.4 mm) Specified
+Air Space
+8 in.
+Min.
+(a)
+
+[[p12]]
+www.gobrick.com | Brick Industry Association | TN 7 | Water Penetration Resistance – Design and Detailing | Page 12 of 15 
+snow. They should be sloped away from the wall to 
+drain and should be flashed where possible, similar 
+to sill conditions, as shown in Figure 19. Other details 
+and information can be found in the Technical Note 36 
+Series.
+Tops of Walls and Parapets. The tops of all walls 
+and parapets must have a cap or coping, with 
+flashing recommended directly beneath the coping. 
+Drainage-type parapet walls, as shown in Figure 20 
+and Figure 21, are recommended as the best parapet 
+system for resistance to water penetration. The 
+Technical Note 36 Series provides more details and 
+information on these subjects.
+For more effective moisture resistance, metal copings, 
+as shown in Figure 21 and Figure 22, are preferable 
+to brick, cast stone, concrete or stone copings. Metal 
+copings should extend down the face of the wall 
+a minimum of two courses, with the bottom edges 
+anchored using concealed cleats designed to resist 
+wind loads. Flexible membrane flashing should be 
+installed continuously below the coping to protect 
+the blocking and the top of the wall. A membrane 
+formulated for high-temperature use is necessary 
+under metal copings. Copings of cast stone, concrete 
+or stone are recommended to have joints between 
+each element closed with sealants, or with skyward-
+facing mortar joints raked to permit the installation of 
+sealant at the outer surface.
+Roof/Wall Intersection. Flashing placed at the 
+intersection of a low roof with a wall or a roof deck 
+with a parapet is critical to resist water penetration. 
+Figure 20
+Precast or Stone Coping on Cavity Wall Parapet
+Figure 21
+Metal Coping on Cavity Wall Parapet
+Figure 19
+Projections and Caps
+
+[[p13]]
+www.gobrick.com | Brick Industry Association | TN 7 | Water Penetration Resistance – Design and Detailing | Page 13 of 15 
+Depending on the type of wall, both through-wall 
+flashing and counter flashing may be required. 
+Counter flashing is used to protect the top edge of 
+roof flashing that extends up the face of the brick. 
+Generally, counter flashing is metal and overlaps roof 
+flashing a minimum of 3 in. (76 mm). Coordination 
+between the masonry and roofing trades is critical 
+in order for the counter flashing to be installed in 
+the masonry in the appropriate brick course. For a 
+barrier wall, place counter flashing in the bed joint 
+above the top of the roof flashing. Refer to Figure 20 
+and Figure 21. For a drainage wall with brick veneer, 
+through-wall and counter flashing are required at 
+the course above the top of the roof flashing. Install 
+through-wall flashing that extends through the brick 
+veneer, across the air space and turns up a minimum 
+of 8 in. (203 mm). If flexible flashing is used, install a 
+corrosion-resistant sheet metal support across the air 
+space and extend up 4 in. (102 mm) minimum on the 
+backing. Refer to Figure 23. Under the through-wall 
+flashing, provide counter flashing that extends down 
+the face of the brick. If a metal drip edge is used for 
+Figure 23 
+Wall/Roof Intersection
+Figure 22
+Metal Coping on Non-Parapet Wall
+Figure 24
+Brick Veneer/Siding Transition
+
+[[p14]]
+www.gobrick.com | Brick Industry Association | TN 7 | Water Penetration Resistance – Design and Detailing | Page 14 of 15 
+the through-wall flashing, it can be fabricated to receive and anchor the counter flashing. Where roof line adjacent 
+to wall is sloped, provide stepped flashing similar to Figure 25. The counter flashing will also be stepped.
+Transitions with Other Materials. Frequently, brick is used in combination with other cladding materials on 
+the same facade, some of which may be barrier-style systems or have drainage cavities that are smaller than 
+those for brick masonry. In these cases, the brick should be constructed to be self-contained. For instance, 
+when transitioning to a non-masonry cladding above brick, there should be a cap element to cover the top of the 
+masonry air space and a horizontal veneer expansion joint or gap to allow for the initial moisture expansion of 
+the brick. See Figure 24. When transitioning from brick to another material below that is not a masonry veneer, 
+it should be treated as a wall base condition. When transitioning to the side, end dams should be installed at the 
+flashing lines and closure brick installed along the full height of the transition. 
+Vertical Changes in Direction. In cases such as a sloped grade parallel to the building, stairs, retaining walls, 
+loading docks or adjacent shelf angles, the flashing needs to account for these changes in direction. Stepped 
+flashing is recommended for these conditions, as well as when the brick masonry surrounds a curved or sloped 
+wall opening. See Figure 25. Rather than installing a single piece of flashing laid flat, installing several layers of 
+flashing not in the same course of brickwork can protect the wall against moisture penetration around the opening 
+or sloped surface. To form a step, the end of the flashing at the highest elevation should be turned up to form an 
+end dam with the opposite end laid flat. It is recommended that stepped flashing in higher courses of brickwork 
+overlap the layer below by 4 in. (102 mm) minimum. The lowest piece of flashing should form a pan with end 
+dams at both ends. Weeps to direct water out of the wall should be installed at each level of the stepped flashing. 
+Alternatively, a series of tray flashings with end dams on both sides can be used.
+Balconies, Decks and Terraces. Horizontal structural elements such as balconies and terraces interrupt the 
+drainage plane of the brick masonry and should have a wall base flashing detail installed along the full length 
+of the balcony, deck or terrace, with end dams installed at the ends. Additional end dams are required at the 
+jambs to the access doors. The wall base detail is not required at the door, but a sill flashing is recommended. In 
+some designs, there may be balcony waterproofing, either on the surface or below a topping slab. The vertical 
+termination of the balcony waterproofing will coincide with the location of the masonry wall base flashing and 
+should be coordinated to integrate the two systems for a watertight condition.  
+Figure 26
+Flashing at Steel Column
+Figure 25
+Stepped Flashing at Grade
+
+[[p15]]
+www.gobrick.com | Brick Industry Association | TN 7 | Water Penetration Resistance – Design and Detailing | Page 15 of 15 
+For residential applications, the IRC [Ref. 5] states that deck ledgers shall not be supported on masonry veneer. 
+In order to support a deck on an exterior wall with brick veneer, the brick in the area of the attachment must be 
+removed and the deck framing attached to the underlying house structure. Consequently, the brick veneer above 
+the deck will require support and flashing around the ledger. A freestanding deck not attached to the exterior wall 
+of the house is the recommended solution for this situation. Alternatively, there are a few manufactured brackets 
+that, when installed, provide mounting surfaces located outside the exterior face of the brick, allowing the brick 
+veneer to be installed in the typical manner. The brackets are detailed and waterproofed at the plane of the 
+sheathing, similar to other projections.  
+Steel Columns. When the inside wythe of a cavity wall spans between steel columns and the column flanges 
+are perpendicular to the masonry, special flashing detailing is required. Figure 26 illustrates one way that this 
+condition can be addressed. The flashing is formed into a tray and adhered to the column. The flashing must be 
+supported across this area; brick or concrete masonry units may be placed at the column base to provide support. 
+Alternatively, in cases where the flashing terminates on the vertical surface of the inner masonry wythe, sheet 
+metal can be used to span the column flanges, permitting the vertical leg of the flashing to continue in the typical 
+manner. This sheet metal closure would require a tray or sloped top surface extending to the column web and a 
+sealed perimeter to prevent moisture from undermining the flashing.
+SUMMARY
+Masonry walls constructed of brickwork have performed well for centuries and are a testament to the performance 
+and durability of brick. Design and detailing that maximizes the water penetration resistance of brickwork is 
+needed to achieve this level of service. Selection of the wall type should be based on the project’s location, 
+environmental conditions and building use. Water penetration resistance of brickwork is enhanced by including 
+appropriate details that reduce water penetration at key points in the brickwork.
+The information and suggestions contained in this Technical Note are based on the available data 
+and the combined experience of engineering staff and members of the Brick Industry Association. 
+The information contained herein must be used in conjunction with good technical judgment 
+and a basic understanding of the properties of brick masonry. Final decisions on the use of 
+the information contained in this Technical Note are not within the purview of the Brick Industry 
+Association and must rest with the project architect, engineer and owner.
+REFERENCES
+1.	 ASTM E2266, “Standard Guide for Design and Construction of Low-Rise Frame Building Wall Systems to 
+Resist Water Intrusion,” Annual Book of Standards, Vol. 04.12, ASTM International, West Conshohocken, 
+PA, 2016.
+2.	 Building Code Requirements for Masonry Structures (TMS 402), The Masonry Society, Longmont, CO, 
+2016.
+3.	 Building Science Corporation, Westford, MA.
+Building Science Digest 012: Moisture Control for New Residential Buildings, March 2009.
+Building Science Digest 013: Rain Control in Buildings, August 2011.
+Building Science Digest 104: Understanding Air Barriers, October 2006.
+Building Science Digest 105: Understanding Drainage Planes, October 2006.
+Building Science Digest 106: Understanding Vapor Barriers, April 2011.
+Building Science Insights 001: The Perfect Wall, July 2010.
+Building Science Insights 084: Forty Years of Air Barriers – The Evolution of the Residential Air Barrier, 
+February 2015.
+4.	 International Building Code, International Code Council, Country Club Hills, IL, 2015.
+5.	 International Residential Code, International Code Council, Country Club Hills, IL, 2015.

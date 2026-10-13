@@ -1,0 +1,2953 @@
+
+=====PAGE 1=====
+Report Cover Page
+Fifth Third Bank - Watson
+Geotechnical Engineering Report
+Warner Robins, Georgia
+May 4, 2026  |  Terracon Project No. 49265099
+Prepared for:
+Praxis3
+100 Peachtree Street NW, Suite 1450
+Atlanta, GA 30303
+
+=====PAGE 2=====
+2105 Newpoint Place, Suite 600
+Lawrenceville, GA 30043
+P (770) 623-0755
+Terracon.com
+Facilities  |  Environmental  | Geotechnical | Materials
+Report Cover Letter to Sign
+May 4, 2026
+Praxis3
+100 Peachtree Street NW, Suite 1450
+Atlanta, GA 30303
+Attn: Ms. Nicole Webb
+P:
+678-904-7452
+E:
+nwebb@praxis3.com
+Re: 
+Geotechnical Engineering Report
+Fifth Third Bank - Watson
+2711 Watson Boulevard
+Warner Robins, Georgia
+Terracon Project No. 49265099
+Dear Ms. Webb:
+We have completed the scope of Geotechnical Engineering services for the above
+referenced project in general accordance with Terracon Proposal No. P49265099 dated
+April 3, 2026. This report presents the findings of the subsurface exploration and
+provides geotechnical recommendations concerning earthwork and the design and
+construction of foundations, floor slabs, and pavements for the proposed project.
+We appreciate the opportunity to be of service to you on this project. If you have any
+questions concerning this report or if we may be of further service, please contact us.
+Sincerely,
+Terracon
+Ethan Fraser, GIT
+Daimia T. Gunning-Gayle, P.E.
+Project Engineer
+Senior Engineer
+
+=====PAGE 3=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+i
+Table of Contents
+Report Summary ............................................................................................. 1
+Introduction .................................................................................................... 2
+Project Description .......................................................................................... 2
+Site Conditions ................................................................................................ 4
+Geotechnical Characterization ......................................................................... 4
+Site Geology ............................................................................................ 4
+Typical Subsurface Profile .......................................................................... 4
+GeoModel ................................................................................................ 6
+Laboratory Testing .................................................................................... 6
+Groundwater ............................................................................................ 7
+Seismic Site Class ............................................................................................ 8
+Geotechnical Overview .................................................................................... 8
+Earthwork ....................................................................................................... 9
+Demolition ............................................................................................... 9
+Site Preparation........................................................................................ 9
+Subgrade Preparation ............................................................................... 10
+Existing Fill ............................................................................................. 10
+Excavation .............................................................................................. 11
+Fill Material Types .................................................................................... 11
+Fill Placement and Compaction Requirements ............................................... 12
+Utility Trench Backfill ............................................................................... 13
+Grading and Drainage ............................................................................... 13
+Groundwater Considerations ...................................................................... 14
+Earthwork Construction Considerations ....................................................... 14
+Construction Observation and Testing ......................................................... 15
+Shallow Foundations ..................................................................................... 15
+Design Parameters – Compressive Loads ..................................................... 16
+Design Parameters – Overturning and Uplift Loads ........................................ 17
+Foundation Construction Considerations ...................................................... 18
+Floor Slabs .................................................................................................... 20
+Floor Slab Design Parameters .................................................................... 20
+Floor Slab Construction Considerations ........................................................ 21
+Lateral Earth Pressures ................................................................................. 22
+Design Parameters ................................................................................... 22
+Subsurface Drainage for Below-Grade Walls ................................................. 24
+Pavements .................................................................................................... 24
+General Pavement Comments .................................................................... 24
+Pavement Subgrade Preparation ................................................................ 25
+Pavement Design Parameters .................................................................... 26
+Pavement Section Thicknesses ................................................................... 26
+Asphaltic Concrete (AC) Design .................................................................................................... 26
+
+=====PAGE 4=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+ii
+Portland Cement Concrete (PCC) Design ..................................................................................... 27
+Pavement Drainage .................................................................................. 29
+Pavement Maintenance ............................................................................. 29
+General Comments ........................................................................................ 30
+Attachments
+Exploration and Testing Procedures
+Site Location and Exploration Plans
+Exploration and Laboratory Results
+Supporting Information
+Note: This report was originally delivered in a web-based format. Blue Bold text in the
+report indicates a referenced section heading. The PDF version also includes hyperlinks
+which direct the reader to that section and clicking on the
+   logo will bring you
+back to this page. For more interactive features, please view your project online at
+client.terracon.com.
+Refer to each individual Attachment for a listing of contents.
+
+=====PAGE 5=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+1
+Report Summary
+This summary should be used in conjunction with the entire report for design purposes.
+It should be recognized that details were not included or fully developed in this section, and
+the report must be read in its entirety for a understanding of the items contained herein.
+Report Summary
+Topic 1
+Overview Statement 2
+Project
+Description
+About 1,900 square feet single-story structure
+Assumed maximum loads: columns: 200 kips, wall loads: 4
+kips/ft, slabs: 100 to 150 psf
+Geotechnical
+Characterization
+■
+Some areas of existing fill to about 3 feet deep.
+■
+Native soils, coastal plain soils, were encountered in each
+boring.
+■
+Groundwater was not encountered while drilling in any of
+borings.
+Earthwork
+Earthwork is anticipated to include excavations and engineered fill
+placement.
+Remove existing fill where observed or Geotechnical engineer to
+further evaluate areas where existing fill is present after site
+stripping.
+Shallow
+Foundations
+Shallow foundations are recommended for building support
+Allowable bearing pressure = 3,000 psf – foundations bearing
+upon native soils, existing fill materials, or newly placed structural
+fill
+Expected settlements: less than 1-inch total, about ½ inch
+differential.
+Pavements
+With subgrade prepared as noted in Earthwork.
+Both rigid (concrete) and flexible (asphalt) pavement sections will
+be considered. In the absence of specific traffic loading data,
+typical pavement design parameters will be considered.
+General
+Comments
+This section contains important information about the limitations
+of this geotechnical engineering report.
+1. If the reader is reviewing this report as a pdf, the topics above can be used to
+access the appropriate section of the report by simply clicking on the topic
+itself.
+2. This summary is for convenience only. It should be used in conjunction with the
+entire report for design purposes.
+
+=====PAGE 6=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+2
+Introduction
+This report presents the results of our subsurface exploration and Geotechnical
+Engineering services performed for the proposed Fifth Third Bank to be located at 2711
+Watson Boulevard in Warner Robins, Georgia. The purpose of these services was to
+provide information and geotechnical engineering recommendations relative to:
+■
+Subsurface soil conditions
+■
+Groundwater conditions
+■
+Seismic site classification per IBC
+■
+Site preparation and earthwork
+■
+Demolition considerations
+■
+Foundation design and construction
+■
+Floor slab design and construction
+■
+Lateral earth pressure
+■
+Pavement design and construction
+The geotechnical engineering Scope of Services for this project included the
+advancement of test borings, laboratory testing, engineering analysis, and preparation
+of this report.
+Drawings showing the site and boring locations are shown on the Site Location and
+Exploration Plan, respectively. The results of the laboratory testing performed on soil
+samples obtained from the site during our field exploration are included on the boring
+logs and as separate graphs in the Exploration Results section.
+Project Description
+Our initial understanding of the project was provided in our proposal and was discussed
+during project planning. A period of collaboration has transpired since the project was
+initiated, and our final understanding of the project conditions is as follows:
+Project Description
+Item
+Description
+Information
+Provided
+The following files were provided:
+■
+2026-02-05_Fifth Third Watson_TFF 1B_approved.pdf
+■
+Fifth Third Watson_boring locations.pdf
+Project
+Description
+The project consists of a new bank and associated access
+drives/parking.
+
+=====PAGE 7=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+3
+Project Description
+Item
+Description
+Proposed
+Structure
+Structures associated with the project include the development
+of a new Fifth Third Bank building, parking lot and drives, a
+trash enclosure, and two banking lanes.
+Building
+Construction
+The bank building will be approximately 1,900 square feet.
+Drives and parking surround the bank on all sides. Two banking
+lanes are located directly south of the bank. The trash enclosure
+is located in the southeastern corner of the proposed
+development.
+Finished Floor
+Elevation
+Not provided, but assumed to be close to existing grades.
+Maximum Loads
+Anticipated structural loads were not provided. In the absence
+of information provided by the design team, we used the
+following loads in estimating settlement based on our
+experience with similar projects.
+■
+Columns: up to 200 kips
+■
+Walls: up to 4 kips per linear foot (klf)
+■
+Slabs: 100 to 150 pounds per square foot (psf)
+Grading/Slopes
+Proposed finished grade elevation for the building pad is
+expected to be at or near existing grades.
+Below-Grade
+Structures
+None planned (basement, underground detention, etc.).
+Free-Standing
+Retaining Walls
+None planned, but may become necessary as design progresses.
+Pavements
+A preferred pavement surfacing has not been identified to us as
+part of the preliminary information. Asphalt/concrete surfacing
+is the assumed preference.
+Traffic information has not been provided.
+Building Code
+2024 IBC.
+Terracon should be notified if any of the above information is inconsistent with the
+planned construction, especially the grading limits, as modifications to our
+recommendations may be necessary.
+
+=====PAGE 8=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+4
+Site Conditions
+The following description of site conditions is derived from our site visit in association
+with the field exploration and our review of publicly available geologic and topographic
+maps.
+Site Conditions
+Item
+Description
+Parcel
+Information
+The project is located at 2711 Watson Boulevard in Warner
+Robins, Georgia.
+Latitude/Longitude (approximate): 32.6178° N / 83.6714° W
+See Site Location
+Existing
+Improvements
+The site is currently comprised of two commercial buildings and
+asphalt-paved parking/drives.
+Current Ground
+Cover
+Asphalt paved with some landscape areas around the existing
+buildings.
+Existing
+Topography
+The site is relatively flat.
+Geotechnical Characterization
+Site Geology
+Based on a review of the Geologic Map of Georgia, dated 1976, as published by the
+Georgia Geological Survey, the subject site is located within the Coastal Plain
+Physiographic Province of Georgia. The Coastal Plain Province is a wedge-shaped deposit
+of Cretaceous and younger sediments which range in thickness from near zero at the
+contact with the Piedmont Physiographic Province (Fall Line) along its northwest edge, to
+thousands of feet at the coast. Coastal Plain soils are marine deposits which range in
+age from as old as 130 million years near the “Fall Line” contact with ancient continental
+rocks to recent deposits near the coast. They contain various materials including
+interbedded gravels, sands, silts and clays, soft to hard limestone and organic materials
+such as peat.
+Typical Subsurface Profile
+The borings drilled at the site generally encountered surficial materials, existing fill
+materials, and native soils.
+
+=====PAGE 9=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+5
+Fill soils are those soils that have been placed or reworked by man in conjunction with
+past construction grading, underground utility installation, farming or other previous
+activity at the site. Fill can be composed of different soil types from various sources and
+can contain debris from building demolition, organics, topsoil, trash, etc. The
+engineering properties of the fill depend primarily on its composition, density, and
+moisture content.
+Five of the eight soil test borings (borings B-1 and P-1 through P-4) performed
+encountered existing fill to a depth of about 3 feet below existing grades. The fill
+appears to have been placed in a controlled manner, but we have no records to indicate
+the degree of compaction achieved during placement. If records are available, they
+should be provided to Terracon for use in our evaluation and development of
+geotechnical recommendations.
+Based on the results of the borings, subsurface conditions on the project site can be
+generalized as follows:
+Typical Subsurface Profile
+Description
+Approximate
+Depth to Bottom
+of Stratum
+(Feet)
+Material
+Encountered
+Consistency/Density
+Stratum 1
+2 to 3 inches
+0 to 12 inches
+Asphalt
+Aggregate Base
+Course
+--
+Stratum 2 1
+3 feet
+Fill – Sandy Lean Clay
+(CL).
+Firm to Very Stiff
+Stratum 3
+Beyond boring
+termination depths
+Native/Coastal
+Plain Soils – Sandy
+Lean Clay (CL) and
+Clayey Sands (SC).
+Stiff to Very Stiff and
+Medium Dense to
+Dense
+1. Encountered in borings B-1 and P-1 through P-4.
+Specific conditions encountered at each boring location are indicated on the individual
+boring logs. Stratification boundaries on the boring logs represent the approximate
+location of changes in soil types; in situ, the transition between materials may be
+gradual. Details for each of the borings are presented on the boring logs included in the
+Exploration Results.
+
+=====PAGE 10=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+6
+GeoModel
+We have developed a general characterization of the subsurface conditions based upon
+our review of the subsurface exploration, laboratory data, geologic setting and our
+understanding of the project. This characterization, termed GeoModel, forms the basis of
+our geotechnical calculations and evaluation of the site. Conditions observed at each
+exploration point are indicated on the individual logs. The GeoModel can be found in the
+Exploration Results attachment of this report.
+As part of our analyses, we identified the following model layers within the subsurface
+profile. For a more detailed view of the model layer depths at each boring location, refer
+to the GeoModel.
+GeoModel
+Model
+Layer
+Layer Name
+General Description
+1
+Surficial
+Materials
+Asphalt, Aggregate Base Course
+2
+Fill
+Fill – Sandy Lean Clay
+3
+Native/Coastal
+Plain Soils
+Native/Coastal Plain Soils – Sandy Lean Clay and
+Clayey Sand
+Laboratory Testing
+Laboratory tests were conducted on selected soil samples and the test results are
+presented in the Exploration Results, and are summarized in the following tables.
+Natural Moisture Content
+Boring Number
+Depth
+(Feet)
+Natural Moisture Content
+(%)
+B-1
+3.5 – 5
+20.5
+B-3
+1 – 2.5
+20.6
+P-3
+3.5 – 5
+20.6
+
+=====PAGE 11=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+7
+Atterberg Limits
+Boring
+Number
+Depth
+(Feet)
+Liquid Limit
+Plastic Limit
+Plasticity
+Index
+B-1
+3.5 – 5
+37
+19
+18
+B-3
+1 – 2.5
+41
+18
+23
+P-3
+3.5 – 5
+38
+18
+20
+Grain Size Analysis
+Boring
+Number
+Depth
+(Feet)
+Gravel
+(%)
+Sand
+(%)
+Fines
+(%)
+B-1
+3.5 – 5
+0
+47.0
+53.0
+B-3
+1 – 2.5
+0.9
+39.1
+60
+P-3
+3.5 – 5
+0.3
+48.4
+51.3
+Groundwater
+The boreholes were observed while drilling and after completion for the presence and
+level of groundwater. Groundwater was not observed in the borings while drilling, or for
+the short duration that the borings were allowed to remain open. However, this does not
+necessarily mean the borings terminated above groundwater. Due to the low
+permeability of the soils encountered in the borings, a relatively long period of time may
+be necessary for a groundwater level to develop and stabilize in a borehole in these
+materials. Long term observations in piezometers or observation wells sealed from the
+influence of surface water are often required to define groundwater levels in materials of
+this type.
+Groundwater level fluctuations occur due to seasonal variations in the amount of rainfall,
+runoff and other factors not evident at the time the borings were performed. In addition,
+perched water can develop over low permeability soil or rock strata. Therefore,
+groundwater levels during construction or at other times in the life of the structure may
+be higher or lower than the levels indicated on the boring logs. The possibility of
+groundwater level fluctuations should be considered when developing the design and
+construction plans for the project.
+
+=====PAGE 12=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+8
+Seismic Site Class
+The seismic design requirements for buildings and other structures are based on Seismic
+Design Category. Site Classification is required to determine the Seismic Design
+Category for a structure. Per the 2024 International Building Code (2024 IBC), the
+seismic site classification is based on a site subsurface profile extending to a depth of
+100 feet. Based on the soil conditions observed at the site and as described on the
+exploration logs and results, it is our professional opinion that a default Seismic Site
+Classification of D be considered for the project. Subsurface explorations at this site
+were only extended to a maximum depth of 20 feet. Therefore, the recommended
+seismic site class was selected to represent the most critical site conditions per ASCE 7-
+22 Section 20.1 as referenced by the 2024 IBC. Additional geophysical testing may be
+performed to confirm or potentially improve the site class.
+Geotechnical Overview
+The site appears suitable for the proposed construction based upon geotechnical
+conditions encountered in the test borings, provided that the recommendations
+presented in this report are implemented in the design and construction phases of this
+project.
+If the site has been prepared in accordance with the requirements noted in the
+Earthwork section, the proposed structure can be supported by a shallow, spread
+footing foundation system bearing on native/coastal plain soils or newly placed structural
+fill extending to native soil. Additional site preparation recommendations, including
+subgrade improvement and fill placement, are provided in the Earthwork section.
+The Shallow Foundations section addresses support of the building bearing on native
+soil, existing fill, or newly placed structural fill extending to native soil. The Floor Slabs
+section addresses slab-on-grade support of the building.
+We anticipate that an asphaltic concrete pavement system will generally be considered
+for this site. The Pavements section addresses the design of pavement systems.
+Five of the eight soil test borings (borings B-1 and P-1 through P-4) performed
+encountered existing fill to a depth of about 3 feet below existing grades. Support of
+floor slabs, foundations, and pavements on or above existing fill materials is discussed in
+this report. However, even with the recommended construction procedures, an inherent
+risk remains for the owner that compressible fill or unsuitable material, within or buried
+by the fill, will not be discovered. This risk of unforeseen conditions cannot be eliminated
+without completely removing the existing fill but can be reduced by following the
+recommendations contained in this report. To take advantage of the cost benefit of not
+removing the entire amount of undocumented fill, the owner must be willing to accept
+
+=====PAGE 13=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+9
+the risk of increased differential performance which can result in increased cracking and
+abrupt differential settlement. Should this risk be acceptable, floor slabs, foundations,
+and pavements can be supported above the fill.
+The recommendations contained in this report are based upon the results of field and
+laboratory testing (presented in the Exploration Results), engineering analyses, and
+our current understanding of the proposed project. The General Comments section
+provides an understanding of the report limitations.
+Earthwork
+Earthwork is anticipated to include demolition, clearing and grubbing of landscaped
+areas, excavations, and engineered fill placement. The following sections provide
+recommendations for use in the preparation of specifications for the work.
+Recommendations include critical quality criteria, as necessary, to render the site in the
+state considered in our geotechnical engineering evaluation for foundations, floor slabs,
+and pavements.
+Demolition
+The proposed building will be constructed within the footprint of an existing commercial
+development which will need to be demolished.
+We recommend that foundations, slabs, or utilities be removed from within the proposed
+building footprint and at least 5 feet beyond the outer edge of foundations.
+For areas outside the proposed building footprints and foundation bearing zones,
+existing pavement, foundations, slabs, or utilities (if encountered) should be removed
+where they conflict with proposed utilities, retaining walls, and pavements. In such
+cases, existing foundations, floor slabs, and utilities should be removed to a depth of at
+least 2 feet below the affected utility or design pavement subgrade elevation.
+Site Preparation
+Prior to placing fill, existing vegetation, topsoil, and root mats should be removed.
+Complete stripping of the topsoil should be performed in the proposed building and
+parking/driveway areas.
+Evidence of underground facilities (such as utilities) was observed during the exploration
+and site reconnaissance and such features could be encountered during construction. If
+unexpected fills or underground facilities are encountered, such features should be
+
+=====PAGE 14=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+10
+removed, and the excavation thoroughly cleaned prior to backfill placement and/or
+construction.
+Subgrade Preparation
+After stripping, proofrolling should be performed with a fully loaded tandem-axle dump
+truck. A Terracon geotechnical engineer or their representative should observe
+proofrolling to aid in locating unstable subgrade materials. Proofrolling should be
+performed after a suitable period of dry weather to avoid degrading an otherwise
+acceptable subgrade and to reduce the amount of undercutting / remedial work
+required. Unstable materials identified should be stabilized as directed by the engineer
+based on conditions observed during construction. Undercut and replacement and
+densification in-place are typical remediation methods.
+All exposed areas which will receive fill, should be scarified to a minimum depth of 10
+inches, moisture conditioned as necessary, and compacted per the compaction
+requirements in this report. Compacted structural fill soils should then be placed to the
+proposed design grade and the moisture content and compaction of subgrade soils
+should be maintained until foundation or pavement construction.
+Based upon the subsurface conditions determined from the geotechnical exploration,
+subgrade soils exposed during construction are anticipated to be relatively workable;
+however, the workability of the subgrade may be affected by precipitation, repetitive
+construction traffic or other factors. If unworkable conditions develop, workability may
+be improved by scarifying and drying.
+Existing Fill
+As noted in Geotechnical Characterization, five of the eight soil test borings (borings
+B-1 and P-1 through P-4) performed encountered existing fill to a depth of about 3 feet
+below existing grades. The fill appears to have been placed in a controlled manner, but
+we have no records to indicate the degree of compaction achieved during placement. If
+records are available, they should be provided to Terracon for use in our evaluation and
+development of geotechnical recommendations.
+Support of footings, floor slabs, and pavements on or above existing fill soils is
+discussed in this report. However, even with the recommended construction procedures,
+inherent risk exists for the owner that compressible fill or unsuitable material, within or
+buried by the fill will, not be discovered. This risk of unforeseen conditions cannot be
+eliminated without completely removing the existing fill but can be reduced by following
+the recommendations contained in this report.
+
+=====PAGE 15=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+11
+If the owner elects to construct footings and floor slabs on the existing fill to reduce
+initial construction costs in exchange for increased potential longer-term distress, the
+following protocol should be followed. After the planned grading has been completed, the
+entire area should be proofrolled with heavy, rubber tire construction equipment, to aid
+in delineating areas of soft or otherwise unsuitable soil. Areas of soft or otherwise
+unsuitable material should be undercut and replaced with either new structural fill or
+suitable, existing on-site materials. The existing undocumented fill that was removed
+can be evaluated for reuse as structural fill.
+If the owner elects to construct pavements on the existing fill, the following protocol
+should be followed. Once the planned subgrade elevation has been reached, the entire
+pavement area should be proofrolled. Areas of soft or otherwise unsuitable material
+should be undercut and replaced with either new structural fill or suitable, existing on
+site materials.
+Excavation
+After comparison of the boring data and the assumed finished grade elevations, we do
+not anticipate that materials requiring difficult excavation techniques for removal will be
+encountered during mass grading operations or utility trench installation. The existing fill
+and native/coastal plain soils found above assumed finished floor levels should be
+excavatable with conventional earthmoving equipment.
+Fill Material Types
+Fill required to achieve design grade should be classified as structural fill and general fill.
+Structural fill is material used below, or within 10 feet of structures, pavements or
+constructed slopes. General fill is material used to achieve grade outside of these areas.
+Reuse of On-Site Existing Fill Soil: A large portion of the existing fill is expected to be
+suitable for reuse as new fill provided it is free of organics, debris, and unsuitable
+materials. Terracon should evaluate existing fill materials for use.
+Soils used for structural and general fill should meet the following material property
+requirements:
+Fill Material Types
+Soil Type1,2,3
+USCS
+Classification
+Acceptable Parameters (for Structural
+Fill)
+Fine Grain
+CL and ML
+Liquid Limit less than 45
+Plasticity index less than 25
+
+=====PAGE 16=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+12
+Fill Material Types
+Soil Type1,2,3
+USCS
+Classification
+Acceptable Parameters (for Structural
+Fill)
+Granular
+SP, SM, SC, and
+SW
+Less than 50% passing No. 200 sieve
+On-Site Soils 4
+CL and SC
+Liquid Limit less than 45
+Plasticity index less than 25
+1. Structural and general fill should consist of approved materials free of organic
+matter and debris. Frozen material should not be used, and fill should not be
+placed on a frozen subgrade. A sample of each material type should be
+submitted to the Geotechnical Engineer for evaluation prior to use on this site.
+2. All fill should have a maximum dry density of at least 95 pounds per cubic foot
+(pcf) as determined by the standard Proctor test (ASTM D 698).
+3. Any materials proposed as fill from off-site sources should be tested for
+compliance with these criteria before being hauled to the site.
+4. Re-use of existing fill should meet the requirements noted above.
+Fill Placement and Compaction Requirements
+Structural and general fill should meet the following compaction requirements:
+Fill Placement and Compaction Requirements
+Item,2,3
+Structural Fill
+General Fill
+Maximum Lift
+Thickness
+8 inches or less in loose thickness when
+heavy, self-propelled compaction
+equipment is used
+4 to 6 inches in loose thickness when
+hand-guided equipment (i.e. jumping jack
+or plate compactor) is used
+Same as structural
+fill
+Minimum
+Compaction
+Requirements1,2
+98% of max. dry density within 1 foot of
+floor slabs or finished pavement subgrades
+95% of max. dry density below
+foundations and more than 1 foot below
+finished floor slabs or pavement subgrades
+92% of max.
+Water Content
+Range1,2,3
+Fine Grain Soils: -2% to +3% of optimum
+Granular: -2% to +3% of optimum
+As required to
+achieve min.
+compaction
+requirements
+
+=====PAGE 17=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+13
+Fill Placement and Compaction Requirements
+Item,2,3
+Structural Fill
+General Fill
+1. Maximum density and optimum water content as determined by the standard
+Proctor test (ASTM D 698).
+2. Fill should be tested for compaction and moisture content during placement.
+Should the results of the in-place density tests indicate that the specified
+moisture or compaction requirements have not been met, the area represented
+by the test should be reworked and retested as required until the specified
+moisture and compaction requirements are achieved.
+3. Moisture levels should be maintained low enough to allow for satisfactory
+compaction to be achieved without pumping when proofrolled.
+Utility Trench Backfill
+Any soft or unsuitable materials encountered at the bottom of utility trench excavations
+should be removed and replaced with structural fill or bedding material in accordance
+with public works specifications for the utility being supported. This recommendation is
+particularly applicable to utility work requiring grade control and/or in areas where
+subsequent grade raising could cause settlement in the subgrade supporting the utility.
+Trench excavation should not be conducted below a downward 1:1 projection from
+existing foundations without engineering review of shoring requirements and
+geotechnical observation during construction.
+On-site materials are considered suitable for backfill of utility and pipe trenches from 1
+foot above the top of the pipe to the final ground surface, provided the material is free
+of organic matter and deleterious substances.
+Trench backfill should be mechanically placed and compacted as discussed earlier in this
+report. Compaction of initial lifts should be accomplished with hand-operated tampers or
+other lightweight compactors.
+Grading and Drainage
+Adequate positive drainage should be provided during construction and maintained
+throughout the life of the development to prevent an increase in moisture content of the
+foundation, pavement and backfill materials. Surface water drainage should be
+controlled to prevent undermining of fill slopes and structures during and after
+construction.
+Gutters and downspouts that drain water a minimum of 10 feet beyond the footprint of
+the proposed structures are recommended. This can be accomplished through the use of
+
+=====PAGE 18=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+14
+splash-blocks, downspout extensions, and flexible pipes that are designed to attach to
+the end of the downspout. Flexible pipe should only be used if it is daylighted in such a
+manner that it gravity-drains collected water. Splash-blocks should also be considered
+below hose bibs and water spigots.
+It is recommended that all exposed earth slopes be seeded to provide protection against
+erosion as soon as possible after completion. Seeded slopes should be protected until
+the vegetation is established. Sprinkler systems should not be installed behind or in
+front of walls or near slopes.
+Groundwater Considerations
+Groundwater was not encountered in any of the borings during our exploration. Based
+on our understanding of the proposed development, we do not expect groundwater to
+affect construction. If groundwater is encountered during construction, some form of
+temporary or permanent dewatering may be required. Conventional dewatering
+methods, such as pumping from sumps, should likely be adequate for temporary
+removal of any groundwater encountered during excavation at the site. Well points
+would likely be required for significant groundwater flow, or where excavations penetrate
+groundwater.
+Earthwork Construction Considerations
+Upon completion of filling and grading, care should be taken to maintain the subgrade
+water content prior to construction of grade-supported improvements such as floor slabs
+and pavements. Construction traffic over the completed subgrades should be avoided.
+The site should also be graded to prevent ponding of surface water on the prepared
+subgrades or in excavations. Water collecting over or adjacent to construction areas
+should be removed. If the subgrade freezes, desiccates, saturates, or is disturbed, the
+affected material should be removed, or the materials should be scarified, moisture
+conditioned, and recompacted prior to floor slab construction.
+As a minimum, excavations should be performed in accordance with OSHA 29 CFR, Part
+1926, Subpart P, “Excavations” and its appendices, and in accordance with any
+applicable local and/or state regulations.
+Construction site safety is the sole responsibility of the contractor who controls the
+means, methods, and sequencing of construction operations. Under no circumstances
+shall the information provided herein be interpreted to mean Terracon is assuming
+responsibility for construction site safety or the contractor's activities; such
+responsibility shall neither be implied nor inferred.
+
+=====PAGE 19=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+15
+Excavations or other activities resulting in ground disturbance have the potential to
+affect adjoining properties and structures. Our scope of services does not include review
+of available final grading information or consider potential temporary grading performed
+by the contractor for potential effects such as ground movement beyond the project
+limits. A preconstruction/ precondition survey should be conducted to document nearby
+property/infrastructure prior to any site development activity. Excavation or ground
+disturbance activities adjacent or near property lines should be monitored or
+instrumented for potential ground movements that could negatively affect adjoining
+property and/or structures.
+Construction Observation and Testing
+The earthwork efforts should be observed by the Geotechnical Engineer (or others under
+their direction). Observation should include documentation of adequate removal of
+surficial materials (vegetation, topsoil, and pavements), evaluation and remediation of
+existing fill materials, as well as proofrolling and mitigation of unsuitable areas
+delineated by the proofroll.
+Each lift of compacted fill should be tested, evaluated, and reworked, as necessary, as
+recommended by the Geotechnical Engineer prior to placement of additional lifts. Any
+areas that do not meet the compaction specifications should be reworked to achieve
+compliance.
+In areas of foundation excavations, the bearing subgrade should be evaluated by the
+Geotechnical Engineer. If unanticipated conditions are observed, the Geotechnical
+Engineer should prescribe mitigation options.
+In addition to the documentation of the essential parameters necessary for construction,
+the continuation of the Geotechnical Engineer into the construction phase of the project
+provides the continuity to maintain the Geotechnical Engineer’s evaluation of subsurface
+conditions, including assessing variations and associated design changes.
+Shallow Foundations
+If the site has been prepared in accordance with the requirements noted in Earthwork,
+the proposed structure can be supported by a shallow, spread footing foundation system
+bearing on native soils or structural fill extending to native soils.
+Shallow foundations may be supported on existing fill soils provided the site has been
+prepared in accordance with the requirements noted in the Earthwork section.
+However, even with the recommended construction procedures, there is inherent risk for
+the owner that compressible fill or unsuitable material, within or buried by the fill, will
+not be discovered. This risk of unforeseen conditions cannot be eliminated without
+
+=====PAGE 20=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+16
+completely removing the existing fill but can be reduced by following the
+recommendations contained in this report. Design recommendations for shallow
+foundations for the proposed structure are presented in the following paragraphs.
+Design Parameters – Compressive Loads
+Shallow Foundation Design Parameters – Compressive Loads
+Item
+Description
+Maximum Net Allowable
+Bearing Pressure1,2
+3,000 psf
+Required Bearing Stratum3
+Native/coastal plain soils, existing fill materials, or
+newly placed structural fill extending to native soils
+Minimum Foundation
+Dimensions
+Columns: 24 inches
+Continuous: 16 inches
+Ultimate Passive Resistance4
+(equivalent fluid pressures)
+160 pcf (granular backfill)
+Ultimate Coefficient of
+Sliding Resistance5
+0.35 – granular material
+Minimum Embedment below
+Finished Grade6
+Exterior footings: 18 inches
+Interior footings in heated areas: 12 inches
+Estimated Total Settlement
+from Structural Loads2
+Less than about 1 inch
+Estimated Differential
+Settlement2,7
+About ½ of total settlement
+1. The maximum net allowable bearing pressure is the pressure in excess of the
+minimum surrounding overburden pressure at the footing base elevation.
+Values assume that exterior grades are no steeper than 20% within 10 feet of
+structure.
+2. Values provided are for maximum loads noted in Project Description.
+Additional geotechnical consultation will be necessary if higher loads are
+anticipated.
+3. Unsuitable or soft soils should be over-excavated and replaced per the
+recommendations presented in Earthwork.
+4. Use of passive earth pressures require the sides of the excavation for the
+spread footing foundation to be nearly vertical and the concrete placed neat
+against these vertical faces or that the footing forms be removed and
+compacted structural fill be placed against the vertical footing face. Assumes no
+
+=====PAGE 21=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+17
+Shallow Foundation Design Parameters – Compressive Loads
+Item
+Description
+hydrostatic pressure. For passive earth pressure to develop, the footing must
+move horizontally to mobilize resistance. Therefore, the total calculated
+passive pressure has been reduced by at least one-half for design
+purposes.
+5. Can be used to compute sliding resistance where foundations are placed on
+suitable soil/materials. Frictional resistance for granular materials is dependent
+on the bearing pressure which may vary due to load combinations. Should be
+neglected for foundations subject to net uplift conditions.
+6. Embedment necessary to minimize the effects of frost and/or seasonal water
+content variations. For sloping ground, maintain depth below the lowest
+adjacent exterior grade within 5 horizontal feet of the structure.
+7. Differential settlements are noted for equivalent-loaded foundations and
+bearing elevation as measured over a span of 40 feet.
+The allowable foundation bearing pressures apply to dead loads plus design live load
+conditions. The weight of the foundation concrete below grade may be neglected in dead
+load computations. Interior footings should bear a minimum of 12 inches below finished
+grade. Finished grade is the lowest adjacent grade for perimeter footings and floor level
+for interior footings.
+Footings, foundations, and masonry walls should be reinforced as necessary to reduce
+the potential for distress caused by differential foundation movement. The use of joints
+at openings or other discontinuities in masonry walls is recommended.
+Foundation excavations should be observed by the geotechnical engineer. If the soil
+conditions encountered differ from those presented in this report, supplemental
+recommendations will be required.
+Design Parameters – Overturning and Uplift Loads
+Shallow foundations subjected to overturning loads should be proportioned such that the
+resultant eccentricity is maintained in the center-third of the foundation (e.g., e < b/6,
+where b is the foundation width). This requirement is intended to keep the entire
+foundation area in compression during the extreme lateral/overturning load event.
+Foundation oversizing may be required to satisfy this condition.
+Uplift resistance of spread footings can be developed from the effective weight of the
+footing and the overlying soils with consideration to the IBC basic load combinations.
+
+=====PAGE 22=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+18
+Foundation Construction Considerations
+As noted in Earthwork, the footing excavations should be evaluated under the
+observation of the Geotechnical Engineer. The base of all foundation excavations should
+be free of water and loose soil, prior to placing concrete. Concrete should be placed soon
+after excavating to reduce bearing soil disturbance. Care should be taken to prevent
+wetting or drying of the bearing materials during construction. Excessively wet or dry
+material or any loose/disturbed material in the bottom of the footing excavations should
+be removed/reconditioned before foundation concrete is placed.
+If unsuitable bearing soils are observed at the base of the planned footing excavation,
+the excavation should be extended deeper to suitable soils, and the footings could bear
+directly on these soils at the lower level or on lean concrete backfill placed in the
+excavations. The lean concrete replacement zone is illustrated on the sketch below.
+Item
+Description
+Soil Moist Unit Weight
+120 pcf
+Soil Effective Unit Weight1
+60 pcf
+Soil weight included in uplift
+resistance
+Soil included within the prism extending up from
+the top perimeter of the footing at an angle of 20
+degrees from vertical to ground surface
+1.
+Effective (or buoyant) unit weight should be used for soil above the foundation
+level and below a water level. The high groundwater level should be used in
+uplift design as applicable.
+
+=====PAGE 23=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+19
+Over-excavation for structural fill placement below footings should be conducted as
+shown below. The over-excavation should be backfilled up to the footing base elevation,
+with well-graded granular material placed as recommended in the Earthwork section.
+For foundations adjacent to slopes, a minimum horizontal setback of 10 feet should be
+maintained between the foundation base and slope face. In addition, the setback should
+be at a location where an imaginary line extending downward at 45 degrees from the
+nearest edge of the foundation does not intersect the slope face.
+
+=====PAGE 24=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+20
+Floor Slabs
+Design parameters for floor slabs assume the requirements for Earthwork have been
+followed. Specific attention should be given to positive drainage away from the structure
+and positive drainage of the aggregate base beneath the floor slab.
+In select areas, existing fill materials were observed at the site to a depth of about 3
+feet below existing grade. As previously described, any existing fill present beneath floor
+slabs should be completely removed OR further evaluated by the Geotechnical Engineer.
+Depending upon the finished floor elevation, firm soils may be observed at the floor slab
+subgrade level. These soils should be replaced with structural fill so the floor slab is
+supported on at least 2 feet of compacted suitable natural soils or structural fill.
+Floor Slab Design Parameters
+Floor Slab Design Parameters
+Item
+Description
+Floor Slab Support 1
+Minimum 12 inches of approved on-site or imported soils
+placed and compacted in accordance with the Subgrade
+compacted to recommendations in Earthwork section of this
+report. 2
+Subbase 3
+4-inch compacted layer of free draining, granular subbase
+material
+Estimated Modulus
+of Subgrade
+Reaction 4
+100 pounds per square inch per inch (psi/in) for point loads
+1. Floor slabs should be structurally independent of building footings or walls to
+reduce the possibility of floor slab cracking caused by differential movements
+between the slab and foundation.
+2. We recommend subgrades be maintained at the proper moisture condition until
+floor slabs are constructed. If the subgrade should become desiccated prior to
+construction, the affected material should be removed or the materials scarified,
+moistened, and recompacted. Upon completion of grading operations in the
+building areas, care should be taken to maintain the recommended subgrade
+moisture content and density prior to construction of the building floor slabs.
+3. The floor slab design should include a capillary break, comprised of free-draining,
+compacted, granular material, at least 4 inches thick.
+
+=====PAGE 25=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+21
+Floor Slab Design Parameters
+Item
+Description
+4. Modulus of subgrade reaction is an estimated value based upon our experience
+with the subgrade condition, the requirements noted in Earthwork, and the floor
+slab support as noted in this table. It is provided for point loads. For large area
+loads the modulus of subgrade reaction would be lower.
+The use of a vapor retarder should be considered beneath concrete slabs on grade
+covered with wood, tile, carpet, or other moisture sensitive or impervious coverings,
+when the project includes humidity-controlled areas, or when the slab will support
+equipment sensitive to moisture. When conditions warrant the use of a vapor retarder,
+the slab designer should refer to ACI 302 and/or ACI 360 for procedures and cautions
+regarding the use and placement of a vapor retarder.
+Saw-cut contraction joints should be placed in the slab to help control the location and
+extent of cracking. For additional recommendations, refer to the ACI Design Manual.
+Joints or cracks should be sealed with a waterproof, non-extruding compressible
+compound specifically recommended for heavy duty concrete pavement and wet
+environments.
+Where floor slabs are tied to perimeter walls or turn-down slabs to meet structural or
+other construction objectives, our experience indicates differential movement between
+the walls and slabs will likely be observed in adjacent slab expansion joints or floor slab
+cracks beyond the length of the structural dowels. The Structural Engineer should
+account for potential differential settlement through use of sufficient control joints,
+appropriate reinforcing or other means.
+Settlement of floor slabs supported on existing fill materials cannot be accurately
+predicted but could be larger than normal and result in some cracking. Mitigation
+measures, as noted in Existing Fill within Earthwork, are critical to the performance of
+floor slabs. In addition to the mitigation measures, the floor slab can be stiffened by
+adding steel reinforcement, grade beams, and/or post-tensioned elements.
+Floor Slab Construction Considerations
+On most project sites, the site grading is generally accomplished early in the construction
+phase. However, as construction proceeds, the subgrade may be disturbed due to utility
+excavations, construction traffic, desiccation, rainfall, etc. As a result, the floor slab subgrade
+may not be suitable for placement of base rock and concrete and corrective action may be
+required.
+We recommend the area underlying the floor slab be rough graded and then thoroughly
+proofrolled with a loaded tandem axle dump truck prior to final grading and placement of base
+
+=====PAGE 26=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+22
+rock. Attention should be paid to high traffic areas that were rutted and disturbed earlier and
+to areas where backfilled trenches are located. Areas where unsuitable conditions are located
+should be repaired by removing and replacing the affected material with properly compacted
+fill. All floor slab subgrade areas should be moisture conditioned and properly compacted to
+the recommendations in this report immediately prior to placement of the base rock and
+concrete.
+Finished subgrade, within and for at least 10 feet beyond the floor slab, should be
+protected from traffic, rutting, or other disturbance and maintained in a relatively moist
+condition until floor slabs are constructed. If the subgrade should become damaged or
+desiccated prior to construction of floor slabs, the affected material should be removed,
+and structural fill should be added to replace the resulting excavation. Final conditioning
+of the finished subgrade should be performed immediately prior to placement of the floor
+slab support course.
+The Geotechnical Engineer should observe the condition of the floor slab subgrades
+immediately prior to placement of the floor slab support course, reinforcing steel, and
+concrete. Attention should be paid to high traffic areas that were rutted and disturbed
+earlier, and to areas where backfilled trenches are located.
+Lateral Earth Pressures
+Design Parameters
+The lateral earth pressure recommendations herein are applicable to the design of rigid
+retaining walls subject to slight rotation, such as cantilever, or gravity type concrete
+walls, less than 5 feet tall. These recommendations are not applicable to the design of
+modular block - geogrid reinforced backfill walls. Recommendations covering these types
+of wall systems are beyond the scope of services for this assignment. However, we
+would be pleased to develop recommendations for the design of such wall systems upon
+request.
+Structures with unbalanced backfill levels on opposite sides should be designed for earth
+pressures at least equal to values indicated in the following table. Earth pressures will be
+influenced by structural design of the walls, conditions of wall restraint, methods of
+construction, and/or compaction and the strength of the materials being restrained. Two
+wall restraint conditions are shown in the diagram below. Active earth pressure is
+commonly used for design of free-standing cantilever retaining walls and assumes wall
+movement. The “at-rest” condition assumes no wall movement and is commonly used
+for basement walls, loading dock walls, or other walls restrained at the top. The
+recommended design lateral earth pressures do not include a factor of safety and do not
+provide for possible hydrostatic pressure on the walls (unless stated).
+
+=====PAGE 27=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+23
+Backfill placed against structures should consist of granular soils or low plasticity
+cohesive soils. To calculate the resistance to sliding, a value of 0.35 should be used as
+the ultimate coefficient of friction between the footing and the underlying soil.
+Heavy equipment should not operate within a distance closer than the exposed height of
+retaining walls to prevent lateral pressures more than those provided.
+Lateral Earth Pressure Design Parameters
+Earth
+Pressure
+Condition
+Coefficient for Backfill
+Type 4
+Surcharge
+Pressure5,6,7
+p1 (psf)
+Equivalent Fluid
+Pressures
+(psf)4,6,7,8,9
+Unsaturated5
+Active (Ka)1
+Sandy Silt / Silty Sand - 0.36
+(0.36)S
+(45)H
+At-Rest (Ko)
+Sandy Silt / Silty Sand - 0.53
+(0.53)S
+(65)H
+Passive (Kp)2,3
+Sandy Silt / Silty Sand – 2.8
+--
+--
+1. For active earth pressure, wall must rotate about base, with top lateral
+movements 0.002 H to 0.004 H, where H is wall height.
+2. For passive earth pressure, wall must move horizontally to mobilize
+resistance. Therefore, the total calculated passive pressure should be reduced
+by one-half to two-thirds for design purposes.
+3. Ignore passive pressure in frost zone.
+4. Uniform, horizontal backfill compacted to at least 95% of the ASTM D 698
+maximum dry density, rendering a maximum unit weight of 120 pcf.
+5. Uniform surcharge, where S is surcharge pressure.
+6. Loading from heavy compaction equipment and dynamic loading are not
+included.
+7. No safety factor is included in these values.
+8. To achieve “Unsaturated” conditions, follow guidelines in Subsurface
+Drainage for Below-Grade Walls below.
+9. No hydrostatic pressure acting on wall.
+
+=====PAGE 28=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+24
+Footings, floor slabs or other loads bearing on backfill behind walls may have a
+significant influence on the lateral earth pressure. Placing footings within wall backfill
+and in the zone of active soil influence on the wall should be avoided unless structural
+analyses indicate the wall can safely withstand the increased pressure.
+Subsurface Drainage for Below-Grade Walls
+A perforated rigid plastic drain line installed behind the base of walls and extends below
+adjacent grade is recommended to prevent hydrostatic loading on the walls. The invert
+of a drain line around a below-grade building area or exterior retaining wall should be
+placed near foundation bearing level. The drain line should be sloped to provide positive
+gravity drainage to daylight or to a sump pit and pump. The drain line should be
+surrounded by clean, free-draining granular material having less than 5% passing the
+No. 200 sieve, such as No. 57 aggregate. The free-draining aggregate should be
+encapsulated in a filter fabric. The granular fill should extend to within 2 feet of final
+grade, where it should be capped with compacted cohesive fill to reduce infiltration of
+surface water into the drain system.
+As an alternative to free-draining granular fill, a prefabricated drainage structure may be
+used. A prefabricated drainage structure is a plastic drainage core or mesh which is
+covered with filter fabric to prevent soil intrusion and is fastened to the wall prior to
+placing backfill.
+Pavements
+General Pavement Comments
+Pavement designs are provided for the traffic conditions and pavement life conditions as
+noted in Project Description and in the following sections of this report. A critical
+
+=====PAGE 29=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+25
+aspect of pavement performance is site preparation. Pavement designs noted in this
+section must be applied to the site which has been prepared as recommended in the
+Earthwork section.
+The recommended minimum pavement sections presented below are based on the
+assumed traffic information along with our experience with similar developments and
+similar soil subgrade conditions. After traffic information has been developed, we
+recommend that you allow us to review the traffic data and revise our recommendations
+appropriately.
+Please note that the recommended pavement sections are not applicable to construction
+traffic conditions. Any use of the pavement sections recommended (either partial or full
+pavement) for construction expediency (for working/storage platform) is solely at the
+discretion of the contractor and could require extensive remedial measures prior to final
+pavement construction.
+Pavement Subgrade Preparation
+On most project sites, the site grading is accomplished relatively early in the
+construction phase. Fills are placed and compacted in a uniform manner. However, as
+construction proceeds, excavations are made into these areas, rainfall and surface water
+saturates some areas, heavy traffic from concrete trucks and other delivery vehicles
+disturbs the subgrade and many surface irregularities are filled in with loose soils to
+improve trafficability temporarily. As a result, the pavement subgrades, initially
+prepared early in the project, should be carefully evaluated as the time for pavement
+construction approaches.
+We recommend the moisture content and density of the top 12 inches of the subgrade
+be evaluated and the pavement subgrades be proofrolled within two days prior to
+commencement of actual paving operations. Areas not in compliance with the required
+ranges of moisture or density should be moisture conditioned and recompacted.
+Particular attention should be paid to high traffic areas that were rutted and disturbed
+earlier and to areas where backfilled trenches are located. Areas where unsuitable
+conditions are located should be repaired by removing and replacing the materials with
+properly compacted fills. If a significant precipitation event occurs after the evaluation or
+if the surface becomes disturbed, the subgrade should be reviewed by qualified
+personnel immediately prior to paving. The subgrade should be in its finished form at
+the time of the final review.
+After proofrolling and repairing subgrade deficiencies, the entire subgrade should be
+scarified and developed as recommended in Earthwork to provide a uniform subgrade
+for pavement construction. Areas that appear severely desiccated following site stripping
+may require further undercutting and moisture conditioning.
+
+=====PAGE 30=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+26
+Pavement Design Parameters
+Traffic patterns and anticipated loading conditions were not available at the time that this
+report was prepared. However, we anticipate that traffic loads will be produced primarily by
+automobile traffic (350 cars per day) and occasional delivery trucks (2 trucks per day) and
+trash removal trucks (1 truck per week). The thickness of pavements subjected to heavy
+truck traffic should be determined using expected traffic volumes, vehicle types, and vehicle
+loads and should be in accordance with local, city or county ordinances. A pavement design
+life of 20 years was assumed.
+An assumed California Bearing Ratio (CBR) of 4 was used for the subgrade for the
+asphaltic concrete (AC) pavement designs. A modulus of subgrade reaction of 100 pci
+was used for the Portland cement concrete (PCC) pavement designs. The values were
+empirically derived based upon our experience with the silty sand/sandy silt subgrade
+soils and our expectation of the quality of the subgrade as prescribed by the Site
+Preparation conditions as outlined in Earthwork. A modulus of rupture of 550 psi was
+used in design for the concrete (based on correlations with a minimum 28-day
+compressive strength of 4,000 psi).
+Pavement thickness was determined using AASHTO methodology based upon the traffic
+loading and design parameters presented above. Terracon can provide thickness
+recommendations for pavements subjected to loads other than personal vehicle and
+occasional delivery and trash removal truck traffic if this information is provided.
+The listed pavement component thicknesses should be used as a guide for pavement
+systems at the site for the traffic classifications and loadings stated herein. If pavement
+frequencies or loads will be different than that specified, Terracon should be contacted
+and allowed to review these pavement sections. Please note that the recommended
+pavement sections are not applicable to construction traffic conditions. Construction
+traffic on the pavements was not considered in developing the recommended minimum
+pavement thicknesses. If the pavements are subject to traffic by construction
+equipment/vehicles, the pavement thicknesses should be revised to consider the effects
+of the additional traffic loading. Any use of the pavement sections recommended (either
+partial or full pavement) for construction expediency (for working/storage platform) is
+solely at the discretion of the contractor and could require extensive remedial measures
+prior to final pavement construction.
+Pavement Section Thicknesses
+Asphaltic Concrete (AC) Design
+The following table provides our opinion of minimum thickness for AC sections based on
+the traffic loading presented above. Please note that construction traffic on the
+
+=====PAGE 31=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+27
+pavements was not considered in developing the recommended minimum pavement
+thicknesses. If the pavements are subject to traffic by construction equipment/vehicles,
+the pavement thicknesses should be revised to consider the effects of the additional
+traffic loading.
+Asphaltic Concrete (AC) Design
+Layer
+Thickness (inches)
+Reference
+Light Duty 1
+Heavy Duty 2
+AC Surface
+2
+1 ¼
+SP9.5 – GDOT
+Sections 400, 424,
+824, and 828
+AC Binder
+--
+1 ¾
+SP19 – GDOT
+Sections 400, 424,
+824, and 828
+Aggregate Base
+6
+8
+GAB, GDOT Sections
+815 and 310
+Subgrade
+Upper 12 inches of
+existing soil or
+engineered fill
+Upper 12 inches of
+existing soil or
+engineered fill
+98% of Standard
+Proctor MDD, -2 to
++3% OMC
+1. Automobiles only.
+2. Combined automobiles and trucks.
+The graded aggregate base should be compacted to a minimum of 98 percent of the
+material’s modified Proctor (ASTM D-1557, Method C) maximum dry density. Where
+base course thickness exceeds 6 inches, the material should be placed and compacted in
+two or more lifts of equal thickness.
+Asphalt concrete aggregates and base course materials should conform to the Georgia
+Department of Transportation (GDOT) "Standard Specifications for Construction of
+Transportation System”.
+Portland Cement Concrete (PCC) Design
+The following table provides our estimated minimum thickness of PCC pavements based
+on the traffic loading presented above. Please note that construction traffic on the
+pavements was not considered in developing the recommended minimum pavement
+thicknesses. If the pavements are subject to traffic by construction equipment/vehicles,
+the pavement thicknesses should be revised to consider the effects of the additional
+traffic loading.
+
+=====PAGE 32=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+28
+Portland Cement Concrete (PCC) Design
+Layer
+Thickness (inches)
+Reference
+Light Duty 1
+Heavy Duty 2
+PCC
+5
+6 ½
+ACI
+Aggregate Base
+4
+4
+GAB, GDOT Sections
+815 and 310
+Subgrade
+Upper 12 inches of
+existing soil or
+engineered fill
+Upper 12 inches of
+existing soil or
+engineered fill
+98% of Standard
+Proctor MDD, -2 to
++3% OMC
+1. Automobiles only.
+2. Combined automobiles and trucks.
+We recommend a Portland cement concrete (PCC) pavement be utilized in entrance and
+exit sections, dumpster pads, loading dock areas, or other areas where extensive wheel
+maneuvering are expected. The dumpster pad should be large enough to support the
+wheels of the truck which will bear the load of the dumpster.
+Areas for parking of heavy vehicles, concentrated turn areas, and start/stop maneuvers
+could require thicker pavement sections. Edge restraints (i.e. concrete curbs or
+aggregate shoulders) should be planned along curves and areas of maneuvering
+vehicles.
+Although not required for structural support, the base course layer is recommended to
+help reduce potential for slab curl, shrinkage cracking, and subgrade pumping through
+joints. Proper joint spacing will also be required to prevent excessive slab curling and
+shrinkage cracking. Joints should be sealed to prevent entry of foreign material and
+doweled where necessary for load transfer. PCC pavement details for joint spacing, joint
+reinforcement, and joint sealing should be prepared in accordance with ACI 330 and ACI
+325.
+Where practical, we recommend early-entry cutting of crack-control joints in PCC
+pavements. Cutting of the concrete in its “green” state typically reduces the potential for
+micro-cracking of the pavements prior to the crack control joints being formed,
+compared to cutting the joints after the concrete has fully set. Micro-cracking of
+pavements may lead to crack formation in locations other than the sawed joints, and/or
+reduction of fatigue life of the pavement.
+Openings in pavements, such as decorative landscaped areas, are sources for water
+infiltration into surrounding pavement systems. Water can collect in the islands and
+migrate into the surrounding subgrade soils thereby degrading support of the pavement.
+Islands with raised concrete curbs, irrigated foliage, and low permeability near-surface
+
+=====PAGE 33=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+29
+soils are particular areas of concern. The civil design for the pavements with these
+conditions should include features to restrict or collect and discharge excess water from
+the islands. Examples of features are edge drains connected to the stormwater collection
+system, longitudinal subdrains, or other suitable outlets and impermeable barriers
+preventing lateral migration of water such as a cutoff wall installed to a depth below the
+pavement structure.
+Pavement Drainage
+Pavements should be sloped to provide rapid drainage of surface water. Water allowed
+to pond on or adjacent to the pavements could saturate the subgrade and contribute to
+premature pavement deterioration. In addition, the pavement subgrade should be
+graded to provide positive drainage within the granular base section.
+We recommend drainage be included at the bottom of the GAB layer at the storm
+structures to aid in removing water that may enter this layer. Drainage could consist of
+small diameter weep holes excavated around the perimeter of the storm structures. The
+weep holes should be excavated at the elevation of the GAB and soil interface. The
+excavation should be covered with No. 57 stone which is encompassed in Mirafi 140 NL
+or approve equivalent which will aid in reducing fines from entering the storm system.
+Pavement Maintenance
+The pavement sections represent minimum recommended thicknesses and, as such,
+periodic upkeep should be anticipated. Preventive maintenance should be planned and
+provided for through an on-going pavement management program. Maintenance
+activities are intended to slow the rate of pavement deterioration and to preserve the
+pavement investment. Pavement care consists of both localized (e.g., crack and joint
+sealing and patching) and global maintenance (e.g., surface sealing). Additional
+engineering consultation is recommended to determine the type and extent of a cost-
+effective program. Even with periodic maintenance, some movements and related
+cracking may still occur, and repairs may be required.
+Pavement performance is affected by its surroundings. In addition to providing
+preventive maintenance, the civil engineer should consider the following
+recommendations in the design and layout of pavements:
+■
+Final grade adjacent to paved areas should slope down from the edges at a
+minimum 2%.
+■
+Subgrade and pavement surfaces should have a minimum 2% slope to promote
+proper surface drainage.
+■
+Install pavement drainage systems surrounding areas anticipated for frequent
+wetting.
+
+=====PAGE 34=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+30
+■
+Install joint sealant and seal cracks immediately.
+■
+Seal all landscaped areas in or adjacent to pavements to reduce moisture
+migration to subgrade soils.
+■
+Place compacted, low permeability backfill against the exterior side of curb and
+gutter.
+■
+Place curb, gutter and/or sidewalk directly on clay subgrade soils rather than on
+unbound granular base course materials.
+General Comments
+Our analysis and opinions are based upon our understanding of the project, the
+geotechnical conditions in the area, and the data obtained from our site exploration.
+Variations will occur between exploration point locations or due to the modifying effects
+of construction or weather. The nature and extent of such variations may not become
+evident until during or after construction. Terracon should be retained as the
+Geotechnical Engineer, where noted in this report, to provide observation and testing
+services during pertinent construction phases. If variations appear, we can provide
+further evaluation and supplemental recommendations. If variations are noted in the
+absence of our observation and testing services on-site, we should be immediately
+notified so that we can provide evaluation and supplemental recommendations.
+Our Scope of Services does not include either specifically or by implication any
+environmental or biological (e.g., mold, fungi, bacteria) assessment of the site or
+identification or prevention of pollutants, hazardous materials or conditions. If the owner
+is concerned about the potential for such contamination or pollution, other studies
+should be undertaken.
+Our services and any correspondence are intended for the sole benefit and exclusive use
+of our client for specific application to the project discussed and are accomplished in
+accordance with generally accepted geotechnical engineering practices with no third-
+party beneficiaries intended. Any third-party access to services or correspondence is
+solely for information purposes to support the services provided by Terracon to our
+client. Reliance upon the services and any work product is limited to our client and is not
+intended for third parties. Any use or reliance of the provided information by third
+parties is done solely at their own risk. No warranties, either express or implied, are
+intended or made.
+Site characteristics as provided are for design purposes and not to estimate excavation
+cost. Any use of our report in that regard is done at the sole risk of the excavating cost
+estimator as there may be variations on the site that are not apparent in the data that
+could significantly affect excavation cost. Any parties charged with estimating excavation
+costs should seek their own site characterization for specific purposes to obtain the
+specific level of detail necessary for costing. Site safety and cost estimating including
+
+=====PAGE 35=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+31
+excavation support and dewatering requirements/design are the responsibility of others.
+Construction and site development have the potential to affect adjacent properties. Such
+impacts can include damages due to vibration, modification of groundwater/surface
+water flow during construction, foundation movement due to undermining or subsidence
+from excavation, as well as noise or air quality concerns. Evaluation of these items on
+nearby properties are commonly associated with contractor means and methods and are
+not addressed in this report. The owner and contractor should consider a
+preconstruction/precondition survey of surrounding development. If changes in the
+nature, design, or location of the project are planned, our conclusions and
+recommendations shall not be considered valid unless we review the changes and either
+verify or modify our conclusions in writing.
+
+=====PAGE 36=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+Attachments
+
+=====PAGE 37=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+Exploration and Testing Procedures
+Field Exploration
+Summary of Field Exploration
+Number of Borings
+Approximate Boring
+Depth (feet)
+Location
+3
+20
+Building area
+1
+20
+Banking Lane
+4
+10
+Parking/driveway areas
+Boring Layout and Elevations: Terracon personnel provided the boring layout using
+handheld GPS equipment (estimated horizontal accuracy of about ±10 feet) and
+referencing existing site features. If elevations and a more precise boring layout are
+desired, we recommend borings be surveyed.
+Subsurface Exploration Procedures: We advanced the borings with an ATV-mounted
+rotary drill rig using continuous flight augers (hollow stem). Four samples were obtained
+in the upper 10 feet of each boring and at intervals of 5 feet thereafter. In the
+split-barrel sampling procedure, a standard 2-inch outer diameter split-barrel sampling
+spoon was driven into the ground by a 140-pound safety hammer falling a distance of
+about 30 inches. The number of blows required to advance the sampling spoon the last
+12 inches of a normal 18-inch penetration is recorded as the Standard Penetration Test
+(SPT) resistance value. The SPT resistance values, also referred to as N-values, are
+indicated on the boring logs at the test depths. We observed and recorded groundwater
+levels during drilling and sampling. For safety purposes, all borings were backfilled with
+auger cuttings after their completion. Pavements were patched with cold-mix asphalt, as
+appropriate.
+The sampling depths, penetration distances, and other sampling information was
+recorded on the field boring logs. The samples were placed in appropriate containers and
+taken to our soil laboratory for testing and classification by a Geotechnical Engineer. Our
+exploration team prepared field boring logs as part of the drilling operations. These field
+logs included visual classifications of the materials observed during drilling and our
+interpretation of the subsurface conditions between samples. Final boring logs were
+prepared from the field logs. The final boring logs represent the Geotechnical Engineer's
+interpretation of the field logs and include modifications based on observations and tests
+of the samples in our laboratory.
+
+=====PAGE 38=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+Laboratory Testing
+The project engineer reviewed the field data and assigned laboratory tests. The
+laboratory testing program included the following types of tests:
+■
+Moisture content
+■
+Atterberg limits
+■
+Grain size distribution
+The laboratory testing program often included examination of soil samples by an
+engineer. Based on the results of our field and laboratory programs, we described and
+classified the soil samples in accordance with the Unified Soil Classification System.
+
+=====PAGE 39=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+Site Location and Exploration Plans
+Contents:
+Site Location Plan
+Exploration Plan
+Note: All attachments are one page unless noted above.
+
+=====PAGE 40=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+Note to Preparer: This is a large table with outside borders. Just click inside the table
+above this text box, then paste your GIS Toolbox image.
+When paragraph markers are turned on you may notice a line of hidden text above
+and outside the table – please leave that alone. Limit editing to inside the table.
+Site Location
+DIAGRAM IS FOR GENERAL LOCATION ONLY, AND IS NOT INTENDED FOR CONSTRUCTION PURPOSES
+MAP PROVIDED BY MICROSOFT BING MAPS
+
+=====PAGE 41=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+Note to Preparer: This is a large table with outside borders. Just click inside the table
+above this text box, then paste your GIS Toolbox image.
+When paragraph markers are turned on you may notice a line of hidden text above
+and outside the table – please leave that alone. Limit editing to inside the table.
+Exploration Plan
+DIAGRAM IS FOR GENERAL LOCATION ONLY, AND IS NOT INTENDED FOR CONSTRUCTION PURPOSES
+MAP PROVIDED BY MICROSOFT BING MAPS
+
+=====PAGE 42=====
+Exploration and Laboratory Results
+Contents:
+Boring Logs (B-1 through B-4 and P-1 through P-4)
+Moisture Content (3 pages)
+Atterberg Limits (3 pages)
+Grain Size Distribution (3 pages)
+GeoModel
+Note: All attachments are one page unless noted above.
+
+=====PAGE 43=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard, Warner Robins, GA,USA
+2105 Newpoint Pl, Ste 600
+Terracon Project No. 49265099
+BORING LOG NO. B-1
+Lawrenceville, GA 30043-5557
+Latitude: 32.6179°
+Longitude: -83.6713°
+Model Layer
+Graphic Log
+Lithology Depth
+(Ft.)
+Material Description
+Depth (Ft.)
+Elevation (Ft.)
+Sample Type
+Recovery (In.)
+Field Test Results
+Water Content
+(%)
+Percent Gravel
+Percent Sand
+Percent Fines
+LL
+PL
+PI
+Atterberg Limits
+1
+2
+3
+0.2
+1.2
+3.0
+6.0
+8.0
+Boring Terminated at 20 Ft
+ASPHALT, 2 Inches
+AGGREGATE BASE COURSE, 12 Inches
+FILL- SANDY LEAN CLAY, fine grained sand, 
+brown, moist, stiff
+SANDY LEAN CLAY (CL), fine grained sand, 
+brown, moist, stiff, coastal plain
+very stiff
+CLAYEY SAND (SC), fine grained sand, brown, 
+moist, dense, coastal plain
+5
+10
+15
+18
+18
+18
+18
+18
+18
+3-4-6 
+N = 10
+4-4-5 
+N = 9
+5-7-9 
+N = 16
+12-15-20 
+N = 35
+10-14-20 
+N = 34
+17-18-20 
+N = 38
+21
+0
+47
+53
+37
+19
+18
+Facilities | Environmental
+| Geotechnical | Materials
+See Exploration and Testing Procedures for a description of field and laboratory
+procedures used and additional data (If any).
+See Supporting Information for explanation of symbols and abbreviations.
+Notes
+Water Level Observations
+Groundwater not encountered while drilling
+Advancement Method
+0-20 Ft. Hollow Stem Auger
+Abandonment Method
+Boring backfilled with soil cuttings upon completion.
+Equipment
+604/CME-45B
+Hammer Type
+Rope and Cathead
+Driller
+Harddison Drilling - Cody
+Logged By
+Ethan Fraser
+Start Date
+04/17/2026
+Completion Date
+04/17/2026
+Page 1 of 1
+
+=====PAGE 44=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard, Warner Robins, GA,USA
+2105 Newpoint Pl, Ste 600
+Terracon Project No. 49265099
+BORING LOG NO. B-2
+Lawrenceville, GA 30043-5557
+Latitude: 32.6178°
+Longitude: -83.6714°
+Model Layer
+Graphic Log
+Lithology Depth
+(Ft.)
+Material Description
+Depth (Ft.)
+Elevation (Ft.)
+Sample Type
+Recovery (In.)
+Field Test Results
+1
+3
+0.2
+0.7
+Boring Terminated at 20 Ft
+ASPHALT, 2 Inches
+AGGREGATE BASE COURSE, 6 Inches
+CLAYEY SAND (SC), fine grained sand, orange-brown, moist, medium dense, coastal plain
+5
+10
+15
+18
+18
+18
+18
+18
+18
+5-9-13 
+N = 22
+5-8-8 
+N = 16
+5-7-11 
+N = 18
+5-9-12 
+N = 21
+7-11-13 
+N = 24
+11-14-15 
+N = 29
+Facilities | Environmental
+| Geotechnical | Materials
+See Exploration and Testing Procedures for a description of field and laboratory
+procedures used and additional data (If any).
+See Supporting Information for explanation of symbols and abbreviations.
+Notes
+Water Level Observations
+Groundwater not encountered while drilling
+Advancement Method
+0-20 Ft. Hollow Stem Auger
+Abandonment Method
+Boring backfilled with soil cuttings upon completion.
+Equipment
+604/CME-45B
+Hammer Type
+Rope and Cathead
+Driller
+Harddison Drilling - Cody
+Logged By
+Ethan Fraser
+Start Date
+04/17/2026
+Completion Date
+04/17/2026
+Page 1 of 1
+
+=====PAGE 45=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard, Warner Robins, GA,USA
+2105 Newpoint Pl, Ste 600
+Terracon Project No. 49265099
+BORING LOG NO. B-3
+Lawrenceville, GA 30043-5557
+Latitude: 32.6177°
+Longitude: -83.6715°
+Model Layer
+Graphic Log
+Lithology Depth
+(Ft.)
+Material Description
+Depth (Ft.)
+Elevation (Ft.)
+Sample Type
+Recovery (In.)
+Field Test Results
+Water Content
+(%)
+Percent Gravel
+Percent Sand
+Percent Fines
+LL
+PL
+PI
+Atterberg Limits
+1
+3
+0.3
+1.3
+8.0
+Boring Terminated at 20 Ft
+ASPHALT, 3 Inches
+AGGREGATE BASE COURSE, 12 Inches
+SANDY LEAN CLAY (CL), fine grained sand, 
+orange-brown, moist, very stiff, coastal plain
+CLAYEY SAND (SC), fine grained sand, 
+red-brown, moist, dense, coastal plain
+5
+10
+15
+18
+18
+18
+18
+18
+18
+4-8-11 
+N = 19
+5-8-9 
+N = 17
+6-11-14 
+N = 25
+8-15-16 
+N = 31
+12-16-19 
+N = 35
+10-15-17 
+N = 32
+21
+0.9
+39.1
+60
+41
+18
+23
+Facilities | Environmental
+| Geotechnical | Materials
+See Exploration and Testing Procedures for a description of field and laboratory
+procedures used and additional data (If any).
+See Supporting Information for explanation of symbols and abbreviations.
+Notes
+Water Level Observations
+Groundwater not encountered while drilling
+Advancement Method
+0-20 Ft. Hollow Stem Auger
+Abandonment Method
+Boring backfilled with soil cuttings upon completion.
+Equipment
+604/CME-45B
+Hammer Type
+Rope and Cathead
+Driller
+Harddison Drilling - Cody
+Logged By
+Ethan Fraser
+Start Date
+04/17/2026
+Completion Date
+04/17/2026
+Page 1 of 1
+
+=====PAGE 46=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard, Warner Robins, GA,USA
+2105 Newpoint Pl, Ste 600
+Terracon Project No. 49265099
+BORING LOG NO. B-4
+Lawrenceville, GA 30043-5557
+Latitude: 32.6177°
+Longitude: -83.6716°
+Model Layer
+Graphic Log
+Lithology Depth
+(Ft.)
+Material Description
+Depth (Ft.)
+Elevation (Ft.)
+Sample Type
+Recovery (In.)
+Field Test Results
+1
+3
+0.2
+0.7
+3.5
+6.0
+8.0
+Boring Terminated at 20 Ft
+ASPHALT, 2 Inches
+AGGREGATE BASE COURSE, 6 Inches
+SANDY LEAN CLAY (CL), fine grained sand, orange-brown, moist, very stiff, coastal plain
+stiff
+very stiff
+CLAYEY SAND (SC), fine grained sand, orange-brown, red, moist, medium dense, coastal plain
+5
+10
+15
+18
+18
+18
+18
+18
+18
+4-7-11 
+N = 18
+4-7-8 
+N = 15
+5-6-10 
+N = 16
+4-8-13 
+N = 21
+8-11-15 
+N = 26
+10-13-15 
+N = 28
+Facilities | Environmental
+| Geotechnical | Materials
+See Exploration and Testing Procedures for a description of field and laboratory
+procedures used and additional data (If any).
+See Supporting Information for explanation of symbols and abbreviations.
+Notes
+Water Level Observations
+Groundwater not encountered while drilling
+Advancement Method
+0-20 Ft. Hollow Stem Auger
+Abandonment Method
+Boring backfilled with soil cuttings upon completion.
+Equipment
+604/CME-45B
+Hammer Type
+Rope and Cathead
+Driller
+Harddison Drilling - Cody
+Logged By
+Ethan Fraser
+Start Date
+04/17/2026
+Completion Date
+04/17/2026
+Page 1 of 1
+
+=====PAGE 47=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard, Warner Robins, GA,USA
+2105 Newpoint Pl, Ste 600
+Terracon Project No. 49265099
+BORING LOG NO. P-1
+Lawrenceville, GA 30043-5557
+Latitude: 32.6180°
+Longitude: -83.6713°
+Model Layer
+Graphic Log
+Lithology Depth
+(Ft.)
+Material Description
+Depth (Ft.)
+Elevation (Ft.)
+Sample Type
+Recovery (In.)
+Field Test Results
+1
+2
+3
+0.2
+0.7
+3.0
+8.0
+Boring Terminated at 10 Ft
+ASPHALT, 2 Inches
+AGGREGATE BASE COURSE, 6 Inches
+FILL- SANDY LEAN CLAY, fine grained sand, brown, moist, very stiff
+SANDY LEAN CLAY (CL), fine grained sand, brown, moist, very stiff, coastal plain
+CLAYEY SAND (SC), fine grained sand, brown, moist, medium dense, coastal plain
+5
+18
+18
+18
+18
+4-6-13 
+N = 19
+5-7-11 
+N = 18
+7-10-13 
+N = 23
+7-9-15 
+N = 24
+Facilities | Environmental
+| Geotechnical | Materials
+See Exploration and Testing Procedures for a description of field and laboratory
+procedures used and additional data (If any).
+See Supporting Information for explanation of symbols and abbreviations.
+Notes
+Water Level Observations
+Groundwater not encountered while drilling
+Advancement Method
+0-10 Ft. Hollow Stem Auger
+Abandonment Method
+Boring backfilled with soil cuttings upon completion.
+Equipment
+604/CME-45B
+Hammer Type
+Rope and Cathead
+Driller
+Harddison Drilling - Cody
+Logged By
+Ethan Fraser
+Start Date
+04/17/2026
+Completion Date
+04/17/2026
+Page 1 of 1
+
+=====PAGE 48=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard, Warner Robins, GA,USA
+2105 Newpoint Pl, Ste 600
+Terracon Project No. 49265099
+BORING LOG NO. P-2
+Lawrenceville, GA 30043-5557
+Latitude: 32.6179°
+Longitude: -83.6717°
+Model Layer
+Graphic Log
+Lithology Depth
+(Ft.)
+Material Description
+Depth (Ft.)
+Elevation (Ft.)
+Sample Type
+Recovery (In.)
+Field Test Results
+1
+2
+3
+0.2
+3.0
+Boring Terminated at 10 Ft
+ASPHALT, 2 Inches
+FILL- SANDY LEAN CLAY, fine grained sand, orange-brown, moist, firm
+CLAYEY SAND (SC), fine grained sand, orange-brown, red, moist, medium dense, coastal plain
+5
+18
+18
+18
+18
+3-3-3 
+N = 6
+3-6-8 
+N = 14
+8-11-13 
+N = 24
+9-12-17 
+N = 29
+Facilities | Environmental
+| Geotechnical | Materials
+See Exploration and Testing Procedures for a description of field and laboratory
+procedures used and additional data (If any).
+See Supporting Information for explanation of symbols and abbreviations.
+Notes
+Water Level Observations
+Groundwater not encountered while drilling
+Advancement Method
+0-10 Ft. Hollow Stem Auger
+Abandonment Method
+Boring backfilled with soil cuttings upon completion.
+Equipment
+604/CME-45B
+Hammer Type
+Rope and Cathead
+Driller
+Harddison Drilling - Cody
+Logged By
+Ethan Fraser
+Start Date
+04/17/2026
+Completion Date
+04/17/2026
+Page 1 of 1
+
+=====PAGE 49=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard, Warner Robins, GA,USA
+2105 Newpoint Pl, Ste 600
+Terracon Project No. 49265099
+BORING LOG NO. P-3
+Lawrenceville, GA 30043-5557
+Latitude: 32.6178°
+Longitude: -83.6717°
+Model Layer
+Graphic Log
+Lithology Depth
+(Ft.)
+Material Description
+Depth (Ft.)
+Elevation (Ft.)
+Sample Type
+Recovery (In.)
+Field Test Results
+Water Content
+(%)
+Percent Gravel
+Percent Sand
+Percent Fines
+LL
+PL
+PI
+Atterberg Limits
+1
+2
+3
+0.2
+3.0
+6.0
+Boring Terminated at 10 Ft
+ASPHALT, 2 Inches
+FILL- SANDY LEAN CLAY, fine grained sand, 
+red-brown, moist, stiff
+SANDY LEAN CLAY (CL), fine grained sand, 
+red-brown, orange, moist, stiff, coastal plain
+CLAYEY SAND (SC), fine grained sand, 
+red-brown, orange, moist, medium dense, coastal 
+plain
+5
+18
+18
+18
+18
+3-5-6 
+N = 11
+4-7-8 
+N = 15
+7-11-15 
+N = 26
+10-12-15 
+N = 27
+21
+0.3
+48.4
+51.3
+38
+18
+20
+Facilities | Environmental
+| Geotechnical | Materials
+See Exploration and Testing Procedures for a description of field and laboratory
+procedures used and additional data (If any).
+See Supporting Information for explanation of symbols and abbreviations.
+Notes
+Water Level Observations
+Groundwater not encountered while drilling
+Advancement Method
+0-10 Ft. Hollow Stem Auger
+Abandonment Method
+Boring backfilled with soil cuttings upon completion.
+Equipment
+604/CME-45B
+Hammer Type
+Rope and Cathead
+Driller
+Harddison Drilling - Cody
+Logged By
+Ethan Fraser
+Start Date
+04/17/2026
+Completion Date
+04/17/2026
+Page 1 of 1
+
+=====PAGE 50=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard, Warner Robins, GA,USA
+2105 Newpoint Pl, Ste 600
+Terracon Project No. 49265099
+BORING LOG NO. P-4
+Lawrenceville, GA 30043-5557
+Latitude: 32.6176°
+Longitude: -83.6717°
+Model Layer
+Graphic Log
+Lithology Depth
+(Ft.)
+Material Description
+Depth (Ft.)
+Elevation (Ft.)
+Sample Type
+Recovery (In.)
+Field Test Results
+1
+2
+3
+0.3
+3.0
+6.0
+Boring Terminated at 10 Ft
+ASPHALT, 3 Inches
+FILL- SANDY LEAN CLAY, fine grained sand, orange-brown, moist, stiff
+SANDY LEAN CLAY (CL), fine grained sand, orange-brown, red, moist, stiff, coastal plain
+very stiff
+5
+18
+18
+18
+18
+3-5-8 
+N = 13
+4-5-10 
+N = 15
+6-10-10 
+N = 20
+8-12-13 
+N = 25
+Facilities | Environmental
+| Geotechnical | Materials
+See Exploration and Testing Procedures for a description of field and laboratory
+procedures used and additional data (If any).
+See Supporting Information for explanation of symbols and abbreviations.
+Notes
+Water Level Observations
+Groundwater not encountered while drilling
+Advancement Method
+0-10 Ft. Hollow Stem Auger
+Abandonment Method
+Boring backfilled with soil cuttings upon completion.
+Equipment
+604/CME-45B
+Hammer Type
+Rope and Cathead
+Driller
+Harddison Drilling - Cody
+Logged By
+Ethan Fraser
+Start Date
+04/17/2026
+Completion Date
+04/17/2026
+Page 1 of 1
+
+=====PAGE 51=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard   |  Warner Robins, GA 
+2105 Newpoint Pl, Ste 600
+Lawrenceville, GA 30043-
+5557
+Terracon Project No. 49265099
+Laboratory Determination of Water (Moisture) Content of Soil and Rock
+ASTM D2216
+Boring ID
+B-1
+Depth (ft.)
+3.5 - 5
+Method Used
+B
+Water Content (%)
+20.5
+Visual Description
+Laboratory tests not valid if separated from original report
+Facilities  |  Environmental  |  Geotechnical  |  Materials
+
+=====PAGE 52=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard   |  Warner Robins, GA 
+2105 Newpoint Pl, Ste 600
+Lawrenceville, GA 30043-
+5557
+Terracon Project No. 49265099
+Laboratory Determination of Water (Moisture) Content of Soil and Rock
+ASTM D2216
+Boring ID
+B-3
+Depth (ft.)
+1 - 2.5
+Method Used
+B
+Water Content (%)
+20.6
+Visual Description
+Laboratory tests not valid if separated from original report
+Facilities  |  Environmental  |  Geotechnical  |  Materials
+
+=====PAGE 53=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard   |  Warner Robins, GA 
+2105 Newpoint Pl, Ste 600
+Lawrenceville, GA 30043-
+5557
+Terracon Project No. 49265099
+Laboratory Determination of Water (Moisture) Content of Soil and Rock
+ASTM D2216
+Boring ID
+P-3
+Depth (ft.)
+3.5 - 5
+Method Used
+B
+Water Content (%)
+20.6
+Visual Description
+Laboratory tests not valid if separated from original report
+Facilities  |  Environmental  |  Geotechnical  |  Materials
+
+=====PAGE 54=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard   |  Warner Robins, GA 
+2105 Newpoint Pl, Ste 600
+Lawrenceville, GA 30043-
+5557
+Terracon Project No. 49265099
+Liquid Limit, Plastic Limit and Plasticity Index of Soils
+ASTM D4318
+Boring ID
+Depth (Ft)
+LL
+PL
+PI
+Fines
+(%)
+Description
+USCS
+B-1
+3.5-5
+37
+19
+18
+53
+Remarks
+Laboratory tests not valid if separated from original report
+Facilities  |  Environmental  |  Geotechnical  |  Materials
+Sandy Lean Clay
+CL
+
+=====PAGE 55=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard   |  Warner Robins, GA 
+2105 Newpoint Pl, Ste 600
+Lawrenceville, GA 30043-
+5557
+Terracon Project No. 49265099
+Liquid Limit, Plastic Limit and Plasticity Index of Soils
+ASTM D4318
+Boring ID
+Depth (Ft)
+LL
+PL
+PI
+Fines
+(%)
+Description
+USCS
+B-3
+1-2.5
+41
+18
+23
+Sandy Lean Clay
+CL
+Remarks
+Laboratory tests not valid if separated from original report
+Facilities  |  Environmental  |  Geotechnical  |  Materials
+60
+
+=====PAGE 56=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard   |  Warner Robins, GA 
+2105 Newpoint Pl, Ste 600
+Lawrenceville, GA 30043-
+5557
+Terracon Project No. 49265099
+Liquid Limit, Plastic Limit and Plasticity Index of Soils
+ASTM D4318
+Boring ID
+Depth (Ft)
+LL
+PL
+PI
+Fines
+(%)
+Description
+USCS
+P-3
+3.5-5
+38
+18
+20
+Sandy Lean Clay
+CL
+Remarks
+Laboratory tests not valid if separated from original report
+Facilities  |  Environmental  |  Geotechnical  |  Materials
+51
+
+=====PAGE 57=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard   |  Warner Robins, GA 
+2105 Newpoint Pl, Ste 600
+Lawrenceville, GA 30043-
+5557
+Terracon Project No. 49265099
+Particle-Size Distribution of Soils Using Sieve Analysis
+ASTM D422-Method B
+Boring ID
+Depth (Ft.)
+Description
+USCS
+Specific Gravity
+B-1
+3.5 - 5
+Sandy Lean Clay
+CL
+N/A
+% Cobbles
+% Gravel
+% Sand
+% Fines
+% Silt
+% Clay
+0.0
+0.0
+47.0
+53.0
+N/A
+N/A
+Sieve
+% Finer
+Sieve
+% Finer
+Grain Size
+Coefficients
+3"
+100.0
+#40
+95.8
+D100
+4.750
+CC
+2"
+100.0
+#60
+89.2
+D60
+0.111
+1 1/2"
+100.0
+#140
+58.4
+D30
+CU
+1"
+100.0
+#200
+53.0
+D₁₀
+3/4"
+100.0
+Remarks
+3/8"
+100.0
+#4
+100.0
+#10
+99.9
+#20
+99.1
+3"
+2"
+1 1/2"
+1"
+3/4"
+3/8"
+#4
+#8
+#10
+#16
+#20
+#30
+#40
+#50
+#60
+#100
+#140
+#200
+0.001
+0.01
+0.1
+1
+10
+100
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+GRAIN SIZE -- mm
+PERCENT FINER
+US Sieve Opening in Inches |
+US Sieve Numbers
+|
+Hydrometer
+Laboratory tests not valid if separated from original report
+Facilities  |  Environmental  |  Geotechnical  |  Materials
+
+=====PAGE 58=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard   |  Warner Robins, GA 
+2105 Newpoint Pl, Ste 600
+Lawrenceville, GA 30043-
+5557
+Terracon Project No. 49265099
+Particle-Size Distribution of Soils Using Sieve Analysis
+ASTM D422-Method B
+Boring ID
+Depth (Ft.)
+Description
+USCS
+Specific Gravity
+B-3
+1 - 2.5
+Sandy Lean Clay
+CL
+N/A
+% Cobbles
+% Gravel
+% Sand
+% Fines
+% Silt
+% Clay
+0.0
+0.9
+39.1
+60.0
+N/A
+N/A
+Sieve
+% Finer
+Sieve
+% Finer
+Grain Size
+Coefficients
+3"
+100.0
+#40
+95.5
+D100
+9.500
+CC
+2"
+100.0
+#60
+89.9
+D60
+0.075
+1 1/2"
+100.0
+#140
+63.9
+D30
+CU
+1"
+100.0
+#200
+60.0
+D₁₀
+3/4"
+100.0
+Remarks
+3/8"
+100.0
+#4
+99.1
+#10
+99.0
+#20
+98.3
+3"
+2"
+1 1/2"
+1"
+3/4"
+3/8"
+#4
+#8
+#10
+#16
+#20
+#30
+#40
+#50
+#60
+#100
+#140
+#200
+0.001
+0.01
+0.1
+1
+10
+100
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+GRAIN SIZE -- mm
+PERCENT FINER
+US Sieve Opening in Inches |
+US Sieve Numbers
+|
+Hydrometer
+Laboratory tests not valid if separated from original report
+Facilities  |  Environmental  |  Geotechnical  |  Materials
+
+=====PAGE 59=====
+Fifth Third Bank - Watson
+2711 Watson Boulevard   |  Warner Robins, GA 
+2105 Newpoint Pl, Ste 600
+Lawrenceville, GA 30043-
+5557
+Terracon Project No. 49265099
+Particle-Size Distribution of Soils Using Sieve Analysis
+ASTM D422-Method B
+Boring ID
+Depth (Ft.)
+Description
+USCS
+Specific Gravity
+P-3
+3.5 - 5
+Sandy Lean Clay
+CL
+N/A
+% Cobbles
+% Gravel
+% Sand
+% Fines
+% Silt
+% Clay
+0.0
+0.3
+48.4
+51.3
+N/A
+N/A
+Sieve
+% Finer
+Sieve
+% Finer
+Grain Size
+Coefficients
+3"
+100.0
+#40
+95.7
+D100
+9.500
+CC
+2"
+100.0
+#60
+89.1
+D60
+0.116
+1 1/2"
+100.0
+#140
+56.7
+D30
+CU
+1"
+100.0
+#200
+51.3
+D₁₀
+3/4"
+100.0
+Remarks
+3/8"
+100.0
+#4
+99.7
+#10
+99.7
+#20
+98.9
+3"
+2"
+1 1/2"
+1"
+3/4"
+3/8"
+#4
+#8
+#10
+#16
+#20
+#30
+#40
+#50
+#60
+#100
+#140
+#200
+0.001
+0.01
+0.1
+1
+10
+100
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+GRAIN SIZE -- mm
+PERCENT FINER
+US Sieve Opening in Inches |
+US Sieve Numbers
+|
+Hydrometer
+Laboratory tests not valid if separated from original report
+Facilities  |  Environmental  |  Geotechnical  |  Materials
+
+=====PAGE 60=====
+
+=====PAGE 61=====
+Supporting Information
+Contents:
+General Notes
+Unified Soil Classification System
+Note: All attachments are one page unless noted above.
+
+=====PAGE 62=====
+
+=====PAGE 63=====
+Geotechnical Engineering Report
+Fifth Third Bank - Watson | Warner Robins, Georgia
+May 4, 2026 | Terracon Project No. 49265099
+Facilities  | Environmental | Geotechnical |  Materials
+Unified Soil Classification System
+Criteria for Assigning Group Symbols and Group Names Using
+Laboratory Tests A
+Soil Classification
+Group
+Symbol
+Group Name B
+Coarse-Grained Soils:
+More than 50% retained
+on No. 200 sieve
+Gravels:
+More than 50% of
+coarse fraction
+retained on No. 4
+sieve
+Clean Gravels:
+Less than 5% fines C
+Cu≥4 and 1≤Cc≤3 E
+GW
+Well-graded gravel F
+Cu<4 and/or [Cc<1 or Cc>3.0] E
+GP
+Poorly graded gravel F
+Gravels with Fines:
+More than 12% fines C
+Fines classify as ML or MH
+GM
+Silty gravel F, G, H
+Fines classify as CL or CH
+GC
+Clayey gravel F, G, H
+Sands:
+50% or more of
+coarse fraction
+passes No. 4 sieve
+Clean Sands:
+Less than 5% fines D
+Cu≥6 and 1≤Cc≤3 E
+SW
+Well-graded sand I
+Cu<6 and/or [Cc<1 or Cc>3.0] E
+SP
+Poorly graded sand I
+Sands with Fines:
+More than 12% fines D
+Fines classify as ML or MH
+SM
+Silty sand G, H, I
+Fines classify as CL or CH
+SC
+Clayey sand G, H, I
+Fine-Grained Soils:
+50% or more passes the
+No. 200 sieve
+Silts and Clays:
+Liquid limit less than
+50
+Inorganic:
+PI > 7 and plots above “A” line J
+CL
+Lean clay K, L, M
+PI < 4 or plots below “A” line J
+ML
+Silt K, L, M
+Organic:
+𝐿𝐿𝑜𝑣𝑒𝑛𝑑𝑟𝑖𝑒𝑑
+𝐿𝐿𝑛𝑜𝑡𝑑𝑟𝑖𝑒𝑑< 0.75
+OL
+Organic clay K, L, M, N
+Organic silt K, L, M, O
+Silts and Clays:
+Liquid limit 50 or
+more
+Inorganic:
+PI plots on or above “A” line
+CH
+Fat clay K, L, M
+PI plots below “A” line
+MH
+Elastic silt K, L, M
+Organic:
+𝐿𝐿𝑜𝑣𝑒𝑛𝑑𝑟𝑖𝑒𝑑
+𝐿𝐿𝑛𝑜𝑡𝑑𝑟𝑖𝑒𝑑< 0.75
+OH
+Organic clay K, L, M, P
+Organic silt K, L, M, Q
+Highly organic soils:
+Primarily organic matter, dark in color, and organic odor
+PT
+Peat
+A Based on the material passing the 3-inch (75-mm) sieve.
+B If field sample contained cobbles or boulders, or both, add “with
+cobbles or boulders, or both” to group name.
+C Gravels with 5 to 12% fines require dual symbols:  GW-GM well-
+graded gravel with silt, GW-GC well-graded gravel with clay, GP-GM
+poorly graded gravel with silt, GP-GC poorly graded gravel with clay.
+D Sands with 5 to 12% fines require dual symbols:  SW-SM well-
+graded sand with silt, SW-SC well-graded sand with clay, SP-SM
+poorly graded sand with silt, SP-SC poorly graded sand with clay.
+E Cu = D60/D10     Cc =
+F If soil contains ≥ 15% sand, add “with sand” to group name.
+G If fines classify as CL-ML, use dual symbol GC-GM, or SC-SM.
+H If fines are organic, add “with organic fines” to group name.
+I If soil contains ≥ 15% gravel, add “with gravel” to group name.
+J If Atterberg limits plot in shaded area, soil is a CL-ML, silty clay.
+K If soil contains 15 to 29% plus No. 200, add “with sand” or
+“with gravel,” whichever is predominant.
+L If soil contains ≥ 30% plus No. 200 predominantly sand, add
+“sandy” to group name.
+M If soil contains ≥ 30% plus No. 200, predominantly gravel, add
+“gravelly” to group name.
+N PI ≥ 4 and plots on or above “A” line.
+O PI < 4 or plots below “A” line.
+P PI plots on or above “A” line.
+Q PI plots below “A” line.
+60
+10
+2
+30
+D
+x
+D
+)
+(D

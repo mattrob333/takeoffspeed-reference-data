@@ -1,0 +1,1217 @@
+[
+ {
+  "name": "L98 Check desk 4'8-1/2\"L x 2'D x 3'6\"H, PL-5/PL-6",
+  "formula": "count",
+  "engineAssembly": "millwork.accessory or millwork.built-unit",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 98 / A-708 det.1 plan, det.4 elev (no legend on markup p31)"
+ },
+ {
+  "name": "L99 Upper cab 1'4\"D x 3'4\"H, (2) adj shelves, PL-1",
+  "formula": "cabinet_lf = sum(runs)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "runs": {
+    "value": [
+     3.8333
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 3.833,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 3.83,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": -0.09,
+  "classification": "measured",
+  "source": "line 99 / A-702 det.4 CABINET @ TRANSACTION (called 4/A-702 on A-700 plan: MDF WALL CABINET ABOVE COPIER/PRINTER)"
+ },
+ {
+  "name": "L100 Base cab 9-1/2\"D x 3'9\"H hinged door, adj shelf",
+  "formula": "cabinet_lf = sum(runs)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "runs": {
+    "value": [
+     4.7
+    ],
+    "unit": "ft (PlanSwift run, p23 BASE CABINET)"
+   }
+  },
+  "expected": {
+   "quantity": 4.7,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 4.66,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": -0.85,
+  "classification": "measured",
+  "source": "line 100 / markup p23 (A-700) legend BASE CABINET (green runs on back elevation 3)"
+ },
+ {
+  "name": "L101 Pencil drawer 1'2\"D x 1'11\"L",
+  "formula": "count",
+  "engineAssembly": "millwork.accessory or millwork.built-unit",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 101 / markup p23 legend PENCIL DRAWER"
+ },
+ {
+  "name": "L102 PL-3 finish",
+  "formula": "laminate_face_sf = W x H",
+  "engineAssembly": "millwork.laminate-face",
+  "inputs": {
+   "faces": {
+    "value": [
+     [
+      9.6458,
+      0.5208
+     ],
+     [
+      2.9583,
+      0.5208
+     ]
+    ],
+    "unit": "ft x ft"
+   }
+  },
+  "expected": {
+   "quantity": 6.565,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 7.0,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": 6.63,
+  "classification": "derived",
+  "source": "line 102 / A-700 back elev 3 band 9'-7 3/4\" (10'-6 3/4\" - 11\") + elev 6 band 35 1/2\" (11\" + 24 1/2\"), band height 6 1/4\" (left string 1 1/4\" SLD-1 edge / 6 1/4\" PL-3 / 1 1/4\"); markup p23 legend PL3 FINISH 6.6 SF",
+  "notes": "The 7 1/2\" string is the 1 1/4\" quartz edge plus the 6 1/4\" band. Legend 6.6 = printed area; estimate 7 = 6.6 rounded up."
+ },
+ {
+  "name": "L103 PL-4 finish",
+  "formula": "laminate_face_sf = W x H",
+  "engineAssembly": "millwork.laminate-face",
+  "inputs": {
+   "faces": {
+    "value": [
+     [
+      10.3542,
+      3.7083
+     ]
+    ],
+    "unit": "ft x ft"
+   }
+  },
+  "expected": {
+   "quantity": 38.397,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 38.5,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": 0.27,
+  "classification": "derived",
+  "source": "line 103 / markup p23 legend PL-4 FINISH 38.4 (same polygon as WT3 TILE 38.4 and 1/4\" backer 38.4 on front elev 4)"
+ },
+ {
+  "name": "L104 PL-5 finish",
+  "formula": "laminate_face_sf = sum(areas)",
+  "engineAssembly": "millwork.laminate-face",
+  "inputs": {
+   "areas": {
+    "value": [
+     6.2
+    ],
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 6.2,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 6.0,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": -3.23,
+  "classification": "measured",
+  "source": "line 104 / markup p23 legend PL-5 FINISH (peach, elev 6 wire-tray face 46 1/4\" wide)"
+ },
+ {
+  "name": "L105 Mockett MAX6-94 18\" brush grommet",
+  "formula": "count",
+  "engineAssembly": "millwork.accessory or millwork.built-unit",
+  "inputs": {
+   "count": {
+    "value": 3,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 3.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 3.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 105 / markup p23 legend (purple dots) + A-700 plan note \"(3 TOTAL)\""
+ },
+ {
+  "name": "L106 Richelieu PC2026Z869 square grommet (transaction bar)",
+  "formula": "count",
+  "engineAssembly": "millwork.accessory or millwork.built-unit",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 106 / markup p23 legend (teal dot)"
+ },
+ {
+  "name": "L107 Base cab 2'D x 2'10\"H, (2) separate drawers",
+  "formula": "cabinet_lf = sum(modules)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "modules": {
+    "value": [
+     2.0
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 2.02,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 1.0,
+  "classification": "measured",
+  "source": "line 107 / markup p24 legend \"5\" (magenta run = section 5 printer/VAT cabinet)"
+ },
+ {
+  "name": "L108 Base cab 2'D x 2'10\"H, (2) drawer",
+  "formula": "cabinet_lf = sum(modules)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "modules": {
+    "value": [
+     1.3333,
+     1.3333,
+     1.5,
+     1.5
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 5.667,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 5.66,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": -0.12,
+  "classification": "measured",
+  "source": "line 108 / markup p24 legend \"7\" (cyan) "
+ },
+ {
+  "name": "L109 Base cab 2'D x 2'10\"H, (5) drawer",
+  "formula": "cabinet_lf = sum(modules)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "modules": {
+    "value": [
+     0.875
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 0.875,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 14.29,
+  "classification": "allowance/judgment",
+  "source": "line 109 / A-701 elev 2 bay 10 1/2\" (section 9); markup p24 legend \"9\" 0.9 FT (brown)",
+  "notes": "Estimator carries a 1 LF minimum; no source prints 1'-0\"."
+ },
+ {
+  "name": "L110 11\"D PL shelf, PL-1 (back counter)",
+  "formula": "shelf_lf = sum(runs) x shelves",
+  "engineAssembly": "millwork.shelving",
+  "inputs": {
+   "runs": {
+    "value": [
+     1.0,
+     1.0
+    ],
+    "unit": "ft"
+   },
+   "shelves": {
+    "value": 2,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 4.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 4.0,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 110 / A-701 axonometric 3 (2 shelves in each side bay) + plan 1 bays 1'-0\""
+ },
+ {
+  "name": "L111 Richelieu PC2026Z869 square grommet (back counter)",
+  "formula": "count",
+  "engineAssembly": "millwork.accessory or millwork.built-unit",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 111 / markup p24 legend (blue dot) "
+ },
+ {
+  "name": "L112 PL-1 finish (back counter)",
+  "formula": "laminate_face_sf = sum(areas)",
+  "engineAssembly": "millwork.laminate-face",
+  "inputs": {
+   "areas": {
+    "value": [
+     83.1
+    ],
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 83.1,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 83.0,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": -0.12,
+  "classification": "measured",
+  "source": "line 112 / markup p24 legend PL-1 FINISH (green: upper face of elevation 2 + plan footprint)"
+ },
+ {
+  "name": "L113 Base cab 1'D x 2'8\"H, (2) drawer, PL-1 (library)",
+  "formula": "cabinet_lf = sum(runs)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "runs": {
+    "value": [
+     5.3
+    ],
+    "unit": "ft (PlanSwift run, p25 BASE CABINET; printed 4 x 1'-3 3/4\" = 5.25)"
+   }
+  },
+  "expected": {
+   "quantity": 5.3,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 5.5,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 3.77,
+  "classification": "measured",
+  "source": "line 113 / markup p25 legend BASE CABINET (yellow) "
+ },
+ {
+  "name": "L114 1'D PL shelf, PL-1 (library)",
+  "formula": "shelf_lf = run1 + run2 x 2",
+  "engineAssembly": "millwork.shelving",
+  "inputs": {
+   "runs": {
+    "value": [
+     8.875,
+     5.25,
+     5.25
+    ],
+    "unit": "ft"
+   },
+   "shelves": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 19.375,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 19.5,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 0.65,
+  "classification": "derived",
+  "source": "line 114 / markup p25 legend Linear 19.4 FT (blue lines on elev 2)"
+ },
+ {
+  "name": "L115 PL-1 countertop over 3/4\" plywood (library)",
+  "formula": "countertop_sf = sum(areas)",
+  "engineAssembly": "millwork.countertop",
+  "inputs": {
+   "areas": {
+    "value": [
+     4.8
+    ],
+    "unit": "SF (p25 PL1 COUNTERTOP; printed 5'-3\" x 1'-0\" = 5.25)"
+   }
+  },
+  "expected": {
+   "quantity": 4.8,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 5.0,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": 4.17,
+  "classification": "measured",
+  "source": "line 115 / markup p25 legend PL1 COUNTERTOP (teal) "
+ },
+ {
+  "name": "L116 PL-1 finish (library)",
+  "formula": "laminate_face_sf = W x H",
+  "engineAssembly": "millwork.laminate-face",
+  "inputs": {
+   "faces": {
+    "value": [
+     [
+      0.125,
+      8.5
+     ],
+     [
+      3.5,
+      1.5
+     ],
+     [
+      5.5,
+      8.5
+     ]
+    ],
+    "unit": "ft x ft"
+   }
+  },
+  "expected": {
+   "quantity": 53.062,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 96.0,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": 80.92,
+  "classification": "measured (legend unreliable)",
+  "source": "line 116 / A-702 elev 2: 9'-1 1/2\" x 8'-6\" minus CASED OPENING 3'-6\" x 7'-0\" (faces: 1 1/2\" stile x 8'-6\", 3'-6\" x 1'-6\" head, 5'-6\" x 8'-6\"); markup p25 legend PL-1 FINISH 95.6 SF",
+  "notes": "Estimate does not reconcile: the p25 salmon polygon fills the cased opening (~19 SF), runs ~4 ft past the millwork over blank sheet/title block (~23 SF), misses the drawer fronts, and adds a plan polygon (~9 SF). tolerancePct stays 1% because it is the engine-vs-expected tolerance; estimatorDeltaPct records the miss."
+ },
+ {
+  "name": "L117 Base cab 1'10\"D x 2'8\"H (sink base), PL-1",
+  "formula": "cabinet_lf = sum(modules)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "modules": {
+    "value": [
+     2.1667
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 2.167,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 2.17,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 0.15,
+  "classification": "specified",
+  "source": "line 117 / A-703 elev 2 last bay 2'-2\" (section 3, undermount sink)"
+ },
+ {
+  "name": "L118 (3) drawer base 1'11\"D x 2'8\"H, PL-1",
+  "formula": "cabinet_lf = sum(modules)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "modules": {
+    "value": [
+     1.5,
+     1.5,
+     1.5
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 4.5,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 4.5,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 0.0,
+  "classification": "specified",
+  "source": "line 118 / A-703 elev 2 bays 3-5 (section 4)"
+ },
+ {
+  "name": "L119 Trash base 1'11\"D x 2'8\"H, PL-1",
+  "formula": "cabinet_lf = sum(modules)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "modules": {
+    "value": [
+     1.5,
+     1.5
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 3.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 3.0,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 0.0,
+  "classification": "specified",
+  "source": "line 119 / A-703 elev 2 bays 1-2 (sections 6 shred bin, 5 trash & recycle)"
+ },
+ {
+  "name": "L120 Upper cab 1'D x 3'H, (2) adj shelf, PL-1",
+  "formula": "cabinet_lf = sum(modules)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "modules": {
+    "value": [
+     3.0,
+     3.3333,
+     3.3333
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 9.667,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 9.66,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": -0.07,
+  "classification": "specified",
+  "source": "line 120 / A-703 elev 2 upper dimension string"
+ },
+ {
+  "name": "L121 11\"D PL shelf, PL-1 (service counter)",
+  "formula": "shelf_lf = sum(runs) x shelves",
+  "engineAssembly": "millwork.shelving",
+  "inputs": {
+   "runs": {
+    "value": [
+     3.0
+    ],
+    "unit": "ft"
+   },
+   "shelves": {
+    "value": 2,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 6.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 6.0,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 121 / A-703 axonometric + elev 2 left bay 3'-0\" under the uppers"
+ },
+ {
+  "name": "L122 1'6\"D adj white melamine shelves on HD bracket (janitor)",
+  "formula": "shelf_lf = sum(runs) x shelves",
+  "engineAssembly": "millwork.shelving",
+  "inputs": {
+   "runs": {
+    "value": [
+     4.2333
+    ],
+    "unit": "ft"
+   },
+   "shelves": {
+    "value": 3,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 12.7,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 13.0,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 2.36,
+  "classification": "measured",
+  "source": "line 122 / markup p16 legend 1'6\"D ADJUSTABLE WHITE MELAMINE SHELVES (mauve, 3 lines on janitor elev 1)"
+ },
+ {
+  "name": "L123 Employee locker 2'8\"W x 1'2\"D x 6'8\"H",
+  "formula": "count",
+  "engineAssembly": "millwork.accessory or millwork.built-unit",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 123 / A-704 plan 8 + A-708 det.9 LOCKER ELEVATION (2'-8\" verify, \"LOCKERS BY FURNITURE VENDOR\")"
+ },
+ {
+  "name": "L124 Booth table 2'6\"W x 3'D x 2'5\"H, PL-5 top, Mockett TL28P-3 leg",
+  "formula": "count",
+  "engineAssembly": "millwork.accessory or millwork.built-unit",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 124 / markup p28 legend TABLE (teal dot on section 6)"
+ },
+ {
+  "name": "L125 Booth seating 3'W x 2'D x 3'2\"H, PL-1, cushions",
+  "formula": "count",
+  "engineAssembly": "millwork.accessory or millwork.built-unit",
+  "inputs": {
+   "count": {
+    "value": 2,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 2.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 125 / A-704 plan 8 (two benches either side of table) + section 6"
+ },
+ {
+  "name": "L126 1'6\"H 3/4\" MDF removable panel w/ 6\" face (sink knee space)",
+  "formula": "apron_lf = sum(apronRuns)",
+  "engineAssembly": "millwork.paneling",
+  "inputs": {
+   "apronRuns": {
+    "value": [
+     2.7
+    ],
+    "unit": "ft (p32 legend 7; printed 2'-8 1/2\")"
+   },
+   "apronHeight": {
+    "value": 1.5,
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 2.7,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 2.75,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 1.85,
+  "classification": "measured",
+  "source": "line 126 / markup p32 legend \"7\" (green run = section 7 @ sink)"
+ },
+ {
+  "name": "L127 (3) drawer base 2'D x 2'8\"H, PL-1 (lounge)",
+  "formula": "cabinet_lf = sum(modules)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "modules": {
+    "value": [
+     1.5,
+     1.25
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 2.75,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 2.75,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 0.0,
+  "classification": "specified",
+  "source": "line 127 / A-705 elev 2 bays 2 and 3 (section 5)"
+ },
+ {
+  "name": "L128 Trash base 2'D x 2'8\"H, PL-1 (lounge)",
+  "formula": "cabinet_lf = sum(modules)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "modules": {
+    "value": [
+     1.5
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 1.5,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 1.5,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 0.0,
+  "classification": "specified",
+  "source": "line 128 / A-705 elev 2 bay 1 (section 4)"
+ },
+ {
+  "name": "L129 Upper cab 1'D x 2'6\"H, (2) adj shelf, PL-1 (lounge)",
+  "formula": "cabinet_lf = sum(modules)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "modules": {
+    "value": [
+     1.5,
+     2.3333,
+     2.3333,
+     2.3333
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 8.5,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 8.49,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": -0.12,
+  "classification": "specified",
+  "source": "line 129 / A-705 elev 2 upper dimension string"
+ },
+ {
+  "name": "L130 PL-2 countertop over 1\" plywood (lounge)",
+  "formula": "countertop_sf = sum(areas)",
+  "engineAssembly": "millwork.countertop",
+  "inputs": {
+   "areas": {
+    "value": [
+     17.4
+    ],
+    "unit": "SF (p32 legend; printed 8'-8\" x 2'-0\" = 17.33)"
+   }
+  },
+  "expected": {
+   "quantity": 17.4,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 18.0,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": 3.45,
+  "classification": "measured",
+  "source": "line 130 / markup p32 legend PL2 COUNTERTOP FINISH O/ 1\"THK. PLYWOOD (red, plan 1)"
+ },
+ {
+  "name": "L131 Base cab 2'D x 2'8\"H drawer + adj shelf, PL-1",
+  "formula": "cabinet_lf = sum(runs)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "runs": {
+    "value": [
+     1.5
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 1.5,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 1.5,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 0.0,
+  "classification": "specified",
+  "source": "line 131 / A-707 elev 3 (section 6) box 1'-5\" + 1\" filler"
+ },
+ {
+  "name": "L132 Base cab 2'D x 3'4\"H (2) adj shelves, PL-1",
+  "formula": "cabinet_lf = sum(modules)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "modules": {
+    "value": [
+     2.5
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 2.5,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 2.5,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 0.0,
+  "classification": "specified",
+  "source": "line 132 / A-707 elev 4 bay 3 (section 7)"
+ },
+ {
+  "name": "L133 Drawer base 2'D x 3'4\"H, PL-1",
+  "formula": "cabinet_lf = sum(modules)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "modules": {
+    "value": [
+     1.25
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 1.25,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 1.25,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 0.0,
+  "classification": "specified",
+  "source": "line 133 / A-707 elev 4 bay 2 (section 8)"
+ },
+ {
+  "name": "L134 Trash base 2'D x 3'4\"H, PL-1",
+  "formula": "cabinet_lf = sum(modules)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "modules": {
+    "value": [
+     1.5
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 1.5,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 1.5,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 0.0,
+  "classification": "specified",
+  "source": "line 134 / A-707 elev 4 bay 1 (section 9, waste document container)"
+ },
+ {
+  "name": "L135 Upper cab 1'2\"D x 3'H (2) adj shelves, PL-3",
+  "formula": "cabinet_lf = sum(runs)",
+  "engineAssembly": "millwork.cabinet-run",
+  "inputs": {
+   "runs": {
+    "value": [
+     5.3333,
+     5.7083
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 11.042,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 11.0,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": -0.38,
+  "classification": "derived",
+  "source": "line 135 / A-707 elev 4 + elev 3 upper dims"
+ },
+ {
+  "name": "L136 18\"D 3/4\" white melamine shelves on KV180 bracket",
+  "formula": "shelf_lf = sum(runs) x shelves",
+  "engineAssembly": "millwork.shelving",
+  "inputs": {
+   "runs": {
+    "value": [
+     7.7813
+    ],
+    "unit": "ft"
+   },
+   "shelves": {
+    "value": 2,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 15.562,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 15.5,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": -0.4,
+  "classification": "derived",
+  "source": "line 136 / A-708 det.12 SHELF AT NIGHT DROP (2 shelves, FULL LENGTH OF WALL)"
+ },
+ {
+  "name": "L137 PL-2 countertop over 1-1/2\" plywood w/ support bracket",
+  "formula": "countertop_sf = sum(runs) x depth + stub",
+  "engineAssembly": "millwork.countertop",
+  "inputs": {
+   "runs": {
+    "value": [
+     5.5625
+    ],
+    "unit": "ft"
+   },
+   "depth": {
+    "value": 2.0,
+    "unit": "ft"
+   },
+   "stub": {
+    "value": [
+     0.78125,
+     0.85417
+    ],
+    "unit": "ft x ft"
+   }
+  },
+  "expected": {
+   "quantity": 11.792,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 12.0,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": 1.76,
+  "classification": "derived",
+  "source": "line 137 / A-707 plan 1 (pairs with elev 3, SUPPORT BRACKET)"
+ },
+ {
+  "name": "L138 PL-2 countertop over 1-1/2\" plywood",
+  "formula": "countertop_sf = sum(runs) x depth",
+  "engineAssembly": "millwork.countertop",
+  "inputs": {
+   "runs": {
+    "value": [
+     5.3333
+    ],
+    "unit": "ft"
+   },
+   "depth": {
+    "value": 2.0,
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 10.667,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 11.0,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": 3.12,
+  "classification": "derived",
+  "source": "line 138 / A-707 plan 2 (pairs with elev 4)"
+ },
+ {
+  "name": "L139 PL-2 4\"H backsplash over 3/4\" plywood (work room)",
+  "formula": "backsplash_lf = sum(edges)",
+  "engineAssembly": "millwork.countertop",
+  "inputs": {
+   "backsplash": {
+    "value": [
+     5.7083,
+     1.1458,
+     0.6354,
+     0.8542,
+     5.3333
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 13.677,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 14.0,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 2.36,
+  "classification": "derived",
+  "source": "line 139 / A-707 plan 1 back edge 6'-4 1/8\" - 7 5/8\" = 5'-8 1/2\", notch 1'-1 3/4\" + 7 5/8\", stub end 10 1/4\"; plan 2 back edge 5'-4\"; markup p30 legend 4\"H PL2 BASE 13.6 FT (cyan)",
+  "notes": "Back walls are the bottom edge of plan 1 and the top edge of plan 2. No cyan on the plan-1 left end or plan-2 right end. Cyan on the two front edges belongs to the same-colour (2) 1x4 blocking row."
+ },
+ {
+  "name": "L140 PL-2 countertop over 1-1/2\" plywood w/ 21\" A&M HYB bracket (phone room)",
+  "formula": "countertop_sf = sum(runs) x depth",
+  "engineAssembly": "millwork.countertop",
+  "inputs": {
+   "runs": {
+    "value": [
+     5.5
+    ],
+    "unit": "ft"
+   },
+   "depth": {
+    "value": 2.0,
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 11.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 11.0,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": 0.0,
+  "classification": "measured",
+  "source": "line 140 / markup p03 (A-110) legend PL2 COUNTERTOP (olive, 1/4\" plan)"
+ },
+ {
+  "name": "L141 PL-2 4\"H backsplash over 3/4\" plywood (phone room)",
+  "formula": "backsplash_lf = sum(edges)",
+  "engineAssembly": "millwork.countertop",
+  "inputs": {
+   "backsplash": {
+    "value": [
+     5.5
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 5.5,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 6.0,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 9.09,
+  "classification": "measured",
+  "source": "line 141 / markup p03 legend BACKSPLASH (slate blue line, back wall)"
+ },
+ {
+  "name": "L142 13/16\" PL-1 laminate wall panels on Z-clips (booth)",
+  "formula": "paneling_sf = sum(W x H)",
+  "engineAssembly": "millwork.paneling",
+  "inputs": {
+   "faces": {
+    "value": [
+     [
+      8,
+      9
+     ],
+     [
+      8,
+      9
+     ],
+     [
+      8,
+      9
+     ],
+     [
+      8,
+      9
+     ],
+     [
+      0.75,
+      9
+     ],
+     [
+      0.75,
+      9
+     ],
+     [
+      10.0417,
+      0.75
+     ]
+    ],
+    "unit": "ft x ft"
+   }
+  },
+  "expected": {
+   "quantity": 309.031,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 300.0,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": -2.92,
+  "classification": "measured",
+  "source": "line 142 / A-706 plan 1 8'-0\" (outside face) and section 5 1'-11 1/2\" + 1/2\" + 4'-0\" + 1/2\" + 1'-11 1/2\" = 8'-0\" (inside face), 9'-0\" A.F.F.; jambs 9\"; header 9\" x 10'-0 1/2\" (9\" + 8'-6 1/2\" + 9\"); markup p29 legend 296.9 SF",
+  "notes": "Estimate 300 = legend 296.9 rounded up. The legend is not a clean measurement: the section-5 polygon runs past the booth over the title block and two polygons sit on the NTS 3D view (det. 10). Inside faces to the PNL-1 pocket (7'-8\") give 303.03 SF."
+ },
+ {
+  "name": "L143 13/16\" PL-1 laminate ceiling panels on Z-clips (booth)",
+  "formula": "paneling_sf = W x L",
+  "engineAssembly": "millwork.paneling",
+  "inputs": {
+   "areas": {
+    "value": [
+     64.0625
+    ],
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 64.062,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 64.0,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": -0.1,
+  "classification": "derived",
+  "source": "line 143 / markup p29 legend ...AT CEILING... (blue, RCP 11) 64.2 SF"
+ },
+ {
+  "name": "L144 1/2\" Fry Reglet U-channel reveal MWU5050 (booth)",
+  "formula": "reveal_lf = sum(reveals)",
+  "engineAssembly": "millwork.paneling",
+  "inputs": {
+   "reveals": {
+    "value": [
+     9,
+     9,
+     9,
+     9,
+     9,
+     9,
+     9,
+     9,
+     8.5417,
+     8.5417
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 89.083,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 90.0,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": 1.03,
+  "classification": "derived",
+  "source": "line 144 / markup p29 legend 1/2\" FRY REGLET U-CHANNEL REVEAL 89.3 FT (red)"
+ },
+ {
+  "name": "L344 Solid surface SLD-1 Wilsonart quartz Niwa Q1002",
+  "formula": "countertop_sf = sum(areas)",
+  "engineAssembly": "millwork.countertop",
+  "inputs": {
+   "areas": {
+    "value": [
+     73.4,
+     18.1,
+     19.7
+    ],
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 111.2,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 111.14,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": -0.05,
+  "classification": "measured",
+  "source": "line 344 / markup legends SLD-1 COUNTERTOP p23 73.4 + p24 18.1 + p26 19.7"
+ }
+]

@@ -1,0 +1,7 @@
+The cyan run is approximately **150 px**, so:
+
+\[
+150 \div 49.6 \approx 3.02\text{ ft}
+\]
+
+That is about **3′-0″**, consistent with spanning the **clear opening between the door-frame jambs**, rather than the roughly **3′-4″ outside-frame width**.

@@ -1,0 +1,2965 @@
+{
+ "sheet": "A-120-DIMENSIONAL-FLOOR-PLAN-Rev.0.pdf",
+ "clip_pt": [
+  430.0,
+  440.0,
+  1760.0,
+  1500.0
+ ],
+ "units": "linear feet (LF), wall centerline; gross = through door openings, net = openings removed",
+ "scale": {
+  "nominal": "1/4\" = 1'-0\" (18 pt/ft)",
+  "calibration_samples": 83,
+  "median_ratio": 1.00099,
+  "ratio_min": 1.00098,
+  "ratio_max": 1.001,
+  "pt_per_ft_used": 18.0178,
+  "samples": [
+   {
+    "text": "4'-3 1/4\"",
+    "inches": 51.25,
+    "measured_pt": 76.95,
+    "nominal_pt": 76.88,
+    "ratio": 1.00098
+   },
+   {
+    "text": "6'-9 1/2\"",
+    "inches": 81.5,
+    "measured_pt": 122.37,
+    "nominal_pt": 122.25,
+    "ratio": 1.00099
+   },
+   {
+    "text": "6'-11 3/8\"",
+    "inches": 83.375,
+    "measured_pt": 125.19,
+    "nominal_pt": 125.06,
+    "ratio": 1.00098
+   },
+   {
+    "text": "3'-7 7/8\"",
+    "inches": 43.875,
+    "measured_pt": 65.88,
+    "nominal_pt": 65.81,
+    "ratio": 1.00098
+   },
+   {
+    "text": "8'-1 5/8\"",
+    "inches": 97.625,
+    "measured_pt": 146.58,
+    "nominal_pt": 146.44,
+    "ratio": 1.00099
+   },
+   {
+    "text": "8'-3 1/4\"",
+    "inches": 99.25,
+    "measured_pt": 149.02,
+    "nominal_pt": 148.88,
+    "ratio": 1.00099
+   },
+   {
+    "text": "5'-11 1/4\"",
+    "inches": 71.25,
+    "measured_pt": 106.98,
+    "nominal_pt": 106.88,
+    "ratio": 1.00099
+   },
+   {
+    "text": "4'-3 1/4\"",
+    "inches": 51.25,
+    "measured_pt": 76.95,
+    "nominal_pt": 76.88,
+    "ratio": 1.00098
+   },
+   {
+    "text": "9'-0 7/8\"",
+    "inches": 108.875,
+    "measured_pt": 163.47,
+    "nominal_pt": 163.31,
+    "ratio": 1.00099
+   },
+   {
+    "text": "8'-0 3/4\"",
+    "inches": 96.75,
+    "measured_pt": 145.27,
+    "nominal_pt": 145.12,
+    "ratio": 1.00098
+   },
+   {
+    "text": "3'-10 1/4\"",
+    "inches": 46.25,
+    "measured_pt": 69.44,
+    "nominal_pt": 69.38,
+    "ratio": 1.00099
+   },
+   {
+    "text": "2'-0 1/2\"",
+    "inches": 24.5,
+    "measured_pt": 36.79,
+    "nominal_pt": 36.75,
+    "ratio": 1.00098
+   },
+   {
+    "text": "7'-4 5/8\"",
+    "inches": 88.625,
+    "measured_pt": 133.07,
+    "nominal_pt": 132.94,
+    "ratio": 1.00099
+   },
+   {
+    "text": "10'-9 1/4\"",
+    "inches": 129.25,
+    "measured_pt": 194.07,
+    "nominal_pt": 193.88,
+    "ratio": 1.00099
+   },
+   {
+    "text": "18'-5 1/4\"",
+    "inches": 221.25,
+    "measured_pt": 332.2,
+    "nominal_pt": 331.88,
+    "ratio": 1.00099
+   },
+   {
+    "text": "7'-11\"",
+    "inches": 95,
+    "measured_pt": 142.64,
+    "nominal_pt": 142.5,
+    "ratio": 1.00099
+   },
+   {
+    "text": "8'-2 7/8\"",
+    "inches": 98.875,
+    "measured_pt": 148.46,
+    "nominal_pt": 148.31,
+    "ratio": 1.00099
+   },
+   {
+    "text": "2'-2 3/4\"",
+    "inches": 26.75,
+    "measured_pt": 40.16,
+    "nominal_pt": 40.12,
+    "ratio": 1.00099
+   },
+   {
+    "text": "9'-3 1/2\"",
+    "inches": 111.5,
+    "measured_pt": 167.41,
+    "nominal_pt": 167.25,
+    "ratio": 1.00099
+   },
+   {
+    "text": "4'-5 3/8\"",
+    "inches": 53.375,
+    "measured_pt": 80.14,
+    "nominal_pt": 80.06,
+    "ratio": 1.00098
+   },
+   {
+    "text": "10'-7 1/2\"",
+    "inches": 127.5,
+    "measured_pt": 191.44,
+    "nominal_pt": 191.25,
+    "ratio": 1.00099
+   },
+   {
+    "text": "8'-6 5/8\"",
+    "inches": 102.625,
+    "measured_pt": 154.09,
+    "nominal_pt": 153.94,
+    "ratio": 1.00099
+   },
+   {
+    "text": "4'-7 5/8\"",
+    "inches": 55.625,
+    "measured_pt": 83.52,
+    "nominal_pt": 83.44,
+    "ratio": 1.00099
+   },
+   {
+    "text": "9'-11\"",
+    "inches": 119,
+    "measured_pt": 178.68,
+    "nominal_pt": 178.5,
+    "ratio": 1.00099
+   },
+   {
+    "text": "2'-11 1/8\"",
+    "inches": 35.125,
+    "measured_pt": 52.74,
+    "nominal_pt": 52.69,
+    "ratio": 1.00098
+   },
+   {
+    "text": "7'-9 3/8\"",
+    "inches": 93.375,
+    "measured_pt": 140.2,
+    "nominal_pt": 140.06,
+    "ratio": 1.00099
+   },
+   {
+    "text": "5'-4 7/8\"",
+    "inches": 64.875,
+    "measured_pt": 97.41,
+    "nominal_pt": 97.31,
+    "ratio": 1.00099
+   },
+   {
+    "text": "11'-10 3/8\"",
+    "inches": 142.375,
+    "measured_pt": 213.77,
+    "nominal_pt": 213.56,
+    "ratio": 1.00099
+   },
+   {
+    "text": "9'-3 7/8\"",
+    "inches": 111.875,
+    "measured_pt": 167.98,
+    "nominal_pt": 167.81,
+    "ratio": 1.00098
+   },
+   {
+    "text": "2'-6 1/4\"",
+    "inches": 30.25,
+    "measured_pt": 45.42,
+    "nominal_pt": 45.38,
+    "ratio": 1.00099
+   },
+   {
+    "text": "3'-1 7/8\"",
+    "inches": 37.875,
+    "measured_pt": 56.87,
+    "nominal_pt": 56.81,
+    "ratio": 1.00099
+   },
+   {
+    "text": "8'-10 5/8\"",
+    "inches": 106.625,
+    "measured_pt": 160.1,
+    "nominal_pt": 159.94,
+    "ratio": 1.00099
+   },
+   {
+    "text": "55'-0 1/8\"",
+    "inches": 660.125,
+    "measured_pt": 991.16,
+    "nominal_pt": 990.19,
+    "ratio": 1.00099
+   },
+   {
+    "text": "4'-0\"",
+    "inches": 48,
+    "measured_pt": 72.07,
+    "nominal_pt": 72.0,
+    "ratio": 1.00099
+   },
+   {
+    "text": "7'-11 1/8\"",
+    "inches": 95.125,
+    "measured_pt": 142.83,
+    "nominal_pt": 142.69,
+    "ratio": 1.00099
+   },
+   {
+    "text": "3'-0 3/8\"",
+    "inches": 36.375,
+    "measured_pt": 54.62,
+    "nominal_pt": 54.56,
+    "ratio": 1.00099
+   },
+   {
+    "text": "9'-11\"",
+    "inches": 119,
+    "measured_pt": 178.68,
+    "nominal_pt": 178.5,
+    "ratio": 1.00099
+   },
+   {
+    "text": "19'-3\"",
+    "inches": 231,
+    "measured_pt": 346.84,
+    "nominal_pt": 346.5,
+    "ratio": 1.00099
+   },
+   {
+    "text": "25'-2\"",
+    "inches": 302,
+    "measured_pt": 453.45,
+    "nominal_pt": 453.0,
+    "ratio": 1.00099
+   },
+   {
+    "text": "14'-11 1/2\"",
+    "inches": 179.5,
+    "measured_pt": 269.52,
+    "nominal_pt": 269.25,
+    "ratio": 1.00099
+   },
+   {
+    "text": "9'-0 3/8\"",
+    "inches": 108.375,
+    "measured_pt": 162.72,
+    "nominal_pt": 162.56,
+    "ratio": 1.00098
+   },
+   {
+    "text": "4'-9 3/4\"",
+    "inches": 57.75,
+    "measured_pt": 86.71,
+    "nominal_pt": 86.62,
+    "ratio": 1.00099
+   },
+   {
+    "text": "17'-1 1/4\"",
+    "inches": 205.25,
+    "measured_pt": 308.18,
+    "nominal_pt": 307.88,
+    "ratio": 1.00099
+   },
+   {
+    "text": "6'-0\"",
+    "inches": 72,
+    "measured_pt": 108.11,
+    "nominal_pt": 108.0,
+    "ratio": 1.00099
+   },
+   {
+    "text": "8'-8\"",
+    "inches": 104,
+    "measured_pt": 156.15,
+    "nominal_pt": 156.0,
+    "ratio": 1.00099
+   },
+   {
+    "text": "8'-0\"",
+    "inches": 96,
+    "measured_pt": 144.14,
+    "nominal_pt": 144.0,
+    "ratio": 1.00099
+   },
+   {
+    "text": "2'-0\"",
+    "inches": 24,
+    "measured_pt": 36.04,
+    "nominal_pt": 36.0,
+    "ratio": 1.00099
+   },
+   {
+    "text": "7'-4\"",
+    "inches": 88,
+    "measured_pt": 132.13,
+    "nominal_pt": 132.0,
+    "ratio": 1.00099
+   },
+   {
+    "text": "4'-1\"",
+    "inches": 49,
+    "measured_pt": 73.57,
+    "nominal_pt": 73.5,
+    "ratio": 1.00098
+   },
+   {
+    "text": "51'-11 5/8\"",
+    "inches": 623.625,
+    "measured_pt": 936.36,
+    "nominal_pt": 935.44,
+    "ratio": 1.00099
+   },
+   {
+    "text": "4'-9 5/8\"",
+    "inches": 57.625,
+    "measured_pt": 86.52,
+    "nominal_pt": 86.44,
+    "ratio": 1.00099
+   },
+   {
+    "text": "10'-9\"",
+    "inches": 129,
+    "measured_pt": 193.69,
+    "nominal_pt": 193.5,
+    "ratio": 1.00099
+   },
+   {
+    "text": "9'-11 1/4\"",
+    "inches": 119.25,
+    "measured_pt": 179.05,
+    "nominal_pt": 178.88,
+    "ratio": 1.00099
+   },
+   {
+    "text": "20'-1 3/4\"",
+    "inches": 241.75,
+    "measured_pt": 362.98,
+    "nominal_pt": 362.62,
+    "ratio": 1.00099
+   },
+   {
+    "text": "5'-3 1/2\"",
+    "inches": 63.5,
+    "measured_pt": 95.34,
+    "nominal_pt": 95.25,
+    "ratio": 1.00098
+   },
+   {
+    "text": "4'-1\"",
+    "inches": 49,
+    "measured_pt": 73.57,
+    "nominal_pt": 73.5,
+    "ratio": 1.00098
+   },
+   {
+    "text": "9'-11\"",
+    "inches": 119,
+    "measured_pt": 178.68,
+    "nominal_pt": 178.5,
+    "ratio": 1.00099
+   },
+   {
+    "text": "12'-11 1/2\"",
+    "inches": 155.5,
+    "measured_pt": 233.48,
+    "nominal_pt": 233.25,
+    "ratio": 1.00099
+   },
+   {
+    "text": "2'-0\"",
+    "inches": 24,
+    "measured_pt": 36.04,
+    "nominal_pt": 36.0,
+    "ratio": 1.00098
+   },
+   {
+    "text": "14'-0\"",
+    "inches": 168,
+    "measured_pt": 252.25,
+    "nominal_pt": 252.0,
+    "ratio": 1.00099
+   },
+   {
+    "text": "5'-4\"",
+    "inches": 64,
+    "measured_pt": 96.09,
+    "nominal_pt": 96.0,
+    "ratio": 1.00099
+   },
+   {
+    "text": "22'-8 1/8\"",
+    "inches": 272.125,
+    "measured_pt": 408.59,
+    "nominal_pt": 408.19,
+    "ratio": 1.00099
+   },
+   {
+    "text": "55'-0 1/8\"",
+    "inches": 660.125,
+    "measured_pt": 991.16,
+    "nominal_pt": 990.19,
+    "ratio": 1.00099
+   },
+   {
+    "text": "4'-9 3/4\"",
+    "inches": 57.75,
+    "measured_pt": 86.71,
+    "nominal_pt": 86.62,
+    "ratio": 1.00099
+   },
+   {
+    "text": "9'-0 3/8\"",
+    "inches": 108.375,
+    "measured_pt": 162.72,
+    "nominal_pt": 162.56,
+    "ratio": 1.00098
+   },
+   {
+    "text": "14'-11 1/2\"",
+    "inches": 179.5,
+    "measured_pt": 269.52,
+    "nominal_pt": 269.25,
+    "ratio": 1.00099
+   },
+   {
+    "text": "25'-2\"",
+    "inches": 302,
+    "measured_pt": 453.45,
+    "nominal_pt": 453.0,
+    "ratio": 1.00099
+   },
+   {
+    "text": "5'-1 1/4\"",
+    "inches": 61.25,
+    "measured_pt": 91.97,
+    "nominal_pt": 91.88,
+    "ratio": 1.00099
+   },
+   {
+    "text": "6'-0\"",
+    "inches": 72,
+    "measured_pt": 108.11,
+    "nominal_pt": 108.0,
+    "ratio": 1.00099
+   },
+   {
+    "text": "5'-4\"",
+    "inches": 64,
+    "measured_pt": 96.09,
+    "nominal_pt": 96.0,
+    "ratio": 1.00099
+   },
+   {
+    "text": "6'-0\"",
+    "inches": 72,
+    "measured_pt": 108.11,
+    "nominal_pt": 108.0,
+    "ratio": 1.00099
+   },
+   {
+    "text": "3'-9 1/4\"",
+    "inches": 45.25,
+    "measured_pt": 67.94,
+    "nominal_pt": 67.88,
+    "ratio": 1.001
+   },
+   {
+    "text": "13'-4\"",
+    "inches": 160,
+    "measured_pt": 240.24,
+    "nominal_pt": 240.0,
+    "ratio": 1.00099
+   },
+   {
+    "text": "4'-1 5/8\"",
+    "inches": 49.625,
+    "measured_pt": 74.51,
+    "nominal_pt": 74.44,
+    "ratio": 1.00099
+   },
+   {
+    "text": "8'-0\"",
+    "inches": 96,
+    "measured_pt": 144.14,
+    "nominal_pt": 144.0,
+    "ratio": 1.00099
+   },
+   {
+    "text": "48'-2 1/2\"",
+    "inches": 578.5,
+    "measured_pt": 868.6,
+    "nominal_pt": 867.75,
+    "ratio": 1.00099
+   },
+   {
+    "text": "29'-1 1/8\"",
+    "inches": 349.125,
+    "measured_pt": 524.2,
+    "nominal_pt": 523.69,
+    "ratio": 1.00099
+   },
+   {
+    "text": "4'-0 1/4\"",
+    "inches": 48.25,
+    "measured_pt": 72.45,
+    "nominal_pt": 72.38,
+    "ratio": 1.00098
+   },
+   {
+    "text": "15'-1 1/8\"",
+    "inches": 181.125,
+    "measured_pt": 271.96,
+    "nominal_pt": 271.69,
+    "ratio": 1.00099
+   },
+   {
+    "text": "10'-9\"",
+    "inches": 129,
+    "measured_pt": 193.69,
+    "nominal_pt": 193.5,
+    "ratio": 1.00099
+   },
+   {
+    "text": "9'-11 1/4\"",
+    "inches": 119.25,
+    "measured_pt": 179.05,
+    "nominal_pt": 178.88,
+    "ratio": 1.00099
+   },
+   {
+    "text": "20'-1 3/4\"",
+    "inches": 241.75,
+    "measured_pt": 362.98,
+    "nominal_pt": 362.62,
+    "ratio": 1.00099
+   },
+   {
+    "text": "5'-3 1/2\"",
+    "inches": 63.5,
+    "measured_pt": 95.34,
+    "nominal_pt": 95.25,
+    "ratio": 1.00098
+   }
+  ]
+ },
+ "counts": {
+  "wall_lines_H": 340,
+  "wall_lines_V": 347,
+  "oblique_wall_segments_ignored": 18,
+  "bodies": 92,
+  "runs": 88,
+  "tags": 27,
+  "ticks": 28,
+  "ticks_unbound": 0
+ },
+ "per_type": {
+  "6in stud, board one side": {
+   "gross_lf": 11.2,
+   "net_lf": 11.2,
+   "runs": 4
+  },
+  "A3A": {
+   "gross_lf": 39.2,
+   "net_lf": 39.2,
+   "runs": 13
+  },
+  "A3B": {
+   "gross_lf": 43.4,
+   "net_lf": 30.9,
+   "runs": 7
+  },
+  "A6A": {
+   "gross_lf": 38.7,
+   "net_lf": 35.6,
+   "runs": 10
+  },
+  "A6B": {
+   "gross_lf": 29.3,
+   "net_lf": 26.2,
+   "runs": 5
+  },
+  "D3A": {
+   "gross_lf": 40.6,
+   "net_lf": 40.6,
+   "runs": 9
+  },
+  "D3C": {
+   "gross_lf": 4.7,
+   "net_lf": 4.7,
+   "runs": 6
+  },
+  "EXT 8in stud (exterior)": {
+   "gross_lf": 87.3,
+   "net_lf": 87.3,
+   "runs": 26
+  },
+  "bare 6in cavity (not a wall?)": {
+   "gross_lf": 7.7,
+   "net_lf": 7.7,
+   "runs": 1
+  },
+  "untagged A3": {
+   "gross_lf": 2.1,
+   "net_lf": 2.1,
+   "runs": 1
+  },
+  "untagged D3": {
+   "gross_lf": 15.4,
+   "net_lf": 15.4,
+   "runs": 6
+  }
+ },
+ "exterior_through_glazing": {
+  "note": "EXT 8in wall line continued across storefront/window openings between solid 8in runs; the plan cannot say which height/assembly applies above or below the glass",
+  "lf": 44.9,
+  "spans": [
+   {
+    "orient": "H",
+    "c_pt": 492.18,
+    "from_pt": 1092.07,
+    "to_pt": 1199.05,
+    "lf": 5.94
+   },
+   {
+    "orient": "H",
+    "c_pt": 1378.05,
+    "from_pt": 800.97,
+    "to_pt": 1034.45,
+    "lf": 12.96
+   },
+   {
+    "orient": "V",
+    "c_pt": 603.89,
+    "from_pt": 781.58,
+    "to_pt": 889.69,
+    "lf": 6.0
+   },
+   {
+    "orient": "V",
+    "c_pt": 603.89,
+    "from_pt": 1045.84,
+    "to_pt": 1189.98,
+    "lf": 8.0
+   },
+   {
+    "orient": "V",
+    "c_pt": 1434.97,
+    "from_pt": 565.37,
+    "to_pt": 673.48,
+    "lf": 6.0
+   },
+   {
+    "orient": "V",
+    "c_pt": 1434.97,
+    "from_pt": 769.57,
+    "to_pt": 877.68,
+    "lf": 6.0
+   }
+  ]
+ },
+ "runs": [
+  {
+   "id": 0,
+   "type": "A3B",
+   "type_source": "tag",
+   "geometry_class": "A3",
+   "orient": "H",
+   "start_pt": [
+    712.38,
+    641.1
+   ],
+   "end_pt": [
+    861.4,
+    641.1
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 8.27,
+   "net_lf": 5.15,
+   "openings_lf": [
+    3.12
+   ],
+   "candidates": null,
+   "parent_run": 0,
+   "tags": [
+    {
+     "tag": "A3B",
+     "tick_pt": [
+      814.2,
+      645.6
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "type": "A3B",
+   "type_source": "tag",
+   "geometry_class": "A3",
+   "orient": "H",
+   "start_pt": [
+    861.4,
+    641.1
+   ],
+   "end_pt": [
+    1007.99,
+    641.1
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 8.14,
+   "net_lf": 5.01,
+   "openings_lf": [
+    3.12
+   ],
+   "candidates": null,
+   "parent_run": 0,
+   "tags": [
+    {
+     "tag": "A3B",
+     "tick_pt": [
+      866.2,
+      645.6
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "type": "A3B",
+   "type_source": "tag",
+   "geometry_class": "A3",
+   "orient": "H",
+   "start_pt": [
+    1007.99,
+    641.1
+   ],
+   "end_pt": [
+    1073.86,
+    641.1
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 3.66,
+   "net_lf": 3.66,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 0,
+   "tags": [
+    {
+     "tag": "A3B",
+     "tick_pt": [
+      1050.8,
+      636.6
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "type": "A3A",
+   "type_source": "tag",
+   "geometry_class": "A3",
+   "orient": "H",
+   "start_pt": [
+    1328.64,
+    661.0
+   ],
+   "end_pt": [
+    1352.01,
+    661.0
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 1.3,
+   "net_lf": 1.3,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 1,
+   "tags": [
+    {
+     "tag": "A3A",
+     "tick_pt": [
+      1339.7,
+      656.5
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "type": "A3A",
+   "type_source": "propagated",
+   "geometry_class": "A3",
+   "orient": "H",
+   "start_pt": [
+    1185.82,
+    717.87
+   ],
+   "end_pt": [
+    1199.05,
+    717.87
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 0.73,
+   "net_lf": 0.73,
+   "openings_lf": [],
+   "candidates": {
+    "A3A": 0.74
+   },
+   "parent_run": 2,
+   "tags": []
+  },
+  {
+   "id": 5,
+   "type": "A3A",
+   "type_source": "tag",
+   "geometry_class": "A3",
+   "orient": "H",
+   "start_pt": [
+    1199.05,
+    717.87
+   ],
+   "end_pt": [
+    1328.64,
+    717.87
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 7.19,
+   "net_lf": 7.19,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 2,
+   "tags": [
+    {
+     "tag": "A3A",
+     "tick_pt": [
+      1277.4,
+      722.4
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "type": "A3A",
+   "type_source": "propagated",
+   "geometry_class": "A3",
+   "orient": "H",
+   "start_pt": [
+    1328.64,
+    717.87
+   ],
+   "end_pt": [
+    1349.29,
+    717.87
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 1.15,
+   "net_lf": 1.15,
+   "openings_lf": [],
+   "candidates": {
+    "A3A": 1.15
+   },
+   "parent_run": 2,
+   "tags": []
+  },
+  {
+   "id": 7,
+   "type": "A3B",
+   "type_source": "tag",
+   "geometry_class": "A3",
+   "orient": "H",
+   "start_pt": [
+    610.84,
+    738.51
+   ],
+   "end_pt": [
+    710.6,
+    738.51
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 5.54,
+   "net_lf": 5.54,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 3,
+   "tags": [
+    {
+     "tag": "A3B",
+     "tick_pt": [
+      640.2,
+      743.0
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "type": "A3B",
+   "type_source": "tag",
+   "geometry_class": "A3",
+   "orient": "H",
+   "start_pt": [
+    710.6,
+    738.51
+   ],
+   "end_pt": [
+    801.25,
+    738.51
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 5.03,
+   "net_lf": 5.03,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 3,
+   "tags": [
+    {
+     "tag": "A3B",
+     "tick_pt": [
+      753.9,
+      734.0
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "type": "A3B",
+   "type_source": "propagated-ambiguous",
+   "geometry_class": "A3",
+   "orient": "H",
+   "start_pt": [
+    801.25,
+    738.51
+   ],
+   "end_pt": [
+    937.98,
+    738.51
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 7.59,
+   "net_lf": 4.46,
+   "openings_lf": [
+    3.12
+   ],
+   "candidates": {
+    "A3A": 8.1,
+    "A3B": 7.6
+   },
+   "parent_run": 3,
+   "tags": []
+  },
+  {
+   "id": 10,
+   "type": "A3A",
+   "type_source": "propagated",
+   "geometry_class": "A3",
+   "orient": "H",
+   "start_pt": [
+    1043.27,
+    738.51
+   ],
+   "end_pt": [
+    1073.86,
+    738.51
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 1.7,
+   "net_lf": 1.7,
+   "openings_lf": [],
+   "candidates": {
+    "A3A": 1.7
+   },
+   "parent_run": 4,
+   "tags": []
+  },
+  {
+   "id": 11,
+   "type": "A3A",
+   "type_source": "tag",
+   "geometry_class": "A3",
+   "orient": "H",
+   "start_pt": [
+    1073.86,
+    738.51
+   ],
+   "end_pt": [
+    1185.82,
+    738.51
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 6.21,
+   "net_lf": 6.21,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 4,
+   "tags": [
+    {
+     "tag": "A3A",
+     "tick_pt": [
+      1083.0,
+      743.0
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "type": "untagged A3",
+   "type_source": "geometry-only",
+   "geometry_class": "A3",
+   "orient": "H",
+   "start_pt": [
+    932.53,
+    757.84
+   ],
+   "end_pt": [
+    971.11,
+    757.84
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 2.14,
+   "net_lf": 2.14,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 5,
+   "tags": []
+  },
+  {
+   "id": 13,
+   "type": "A3A",
+   "type_source": "tag",
+   "geometry_class": "A3",
+   "orient": "H",
+   "start_pt": [
+    611.78,
+    929.95
+   ],
+   "end_pt": [
+    651.01,
+    929.95
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 2.18,
+   "net_lf": 2.18,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 6,
+   "tags": [
+    {
+     "tag": "A3A",
+     "tick_pt": [
+      628.4,
+      925.4
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "type": "A3A",
+   "type_source": "propagated",
+   "geometry_class": "A3",
+   "orient": "H",
+   "start_pt": [
+    788.58,
+    929.95
+   ],
+   "end_pt": [
+    801.25,
+    929.95
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 0.7,
+   "net_lf": 0.7,
+   "openings_lf": [],
+   "candidates": {
+    "A3A": 1.2
+   },
+   "parent_run": 7,
+   "tags": []
+  },
+  {
+   "id": 15,
+   "type": "A6B",
+   "type_source": "tag",
+   "geometry_class": "A6",
+   "orient": "H",
+   "start_pt": [
+    610.84,
+    586.21
+   ],
+   "end_pt": [
+    712.38,
+    586.21
+   ],
+   "thickness_in": 7.26,
+   "gross_lf": 5.64,
+   "net_lf": 5.64,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 8,
+   "tags": [
+    {
+     "tag": "A6B",
+     "tick_pt": [
+      672.4,
+      590.7
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "type": "A6A",
+   "type_source": "propagated",
+   "geometry_class": "A6",
+   "orient": "H",
+   "start_pt": [
+    801.25,
+    944.12
+   ],
+   "end_pt": [
+    811.95,
+    944.12
+   ],
+   "thickness_in": 7.26,
+   "gross_lf": 0.59,
+   "net_lf": 0.59,
+   "openings_lf": [],
+   "candidates": {
+    "A6A": 1.19
+   },
+   "parent_run": 9,
+   "tags": []
+  },
+  {
+   "id": 17,
+   "type": "A6A",
+   "type_source": "propagated",
+   "geometry_class": "A6",
+   "orient": "H",
+   "start_pt": [
+    811.95,
+    944.12
+   ],
+   "end_pt": [
+    822.64,
+    944.12
+   ],
+   "thickness_in": 7.26,
+   "gross_lf": 0.59,
+   "net_lf": 0.59,
+   "openings_lf": [],
+   "candidates": {
+    "A6A": 0.59
+   },
+   "parent_run": 9,
+   "tags": []
+  },
+  {
+   "id": 18,
+   "type": "A6A",
+   "type_source": "tag",
+   "geometry_class": "A6",
+   "orient": "H",
+   "start_pt": [
+    822.64,
+    944.12
+   ],
+   "end_pt": [
+    932.53,
+    944.12
+   ],
+   "thickness_in": 7.26,
+   "gross_lf": 6.1,
+   "net_lf": 6.1,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 9,
+   "tags": [
+    {
+     "tag": "A6A",
+     "tick_pt": [
+      837.3,
+      939.6
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "type": "A6A",
+   "type_source": "propagated",
+   "geometry_class": "A6",
+   "orient": "H",
+   "start_pt": [
+    932.53,
+    944.12
+   ],
+   "end_pt": [
+    970.73,
+    944.12
+   ],
+   "thickness_in": 7.26,
+   "gross_lf": 2.12,
+   "net_lf": 2.12,
+   "openings_lf": [],
+   "candidates": {
+    "A6A": 2.12
+   },
+   "parent_run": 9,
+   "tags": []
+  },
+  {
+   "id": 20,
+   "type": "A6A",
+   "type_source": "propagated",
+   "geometry_class": "A6",
+   "orient": "H",
+   "start_pt": [
+    970.73,
+    944.12
+   ],
+   "end_pt": [
+    981.43,
+    944.12
+   ],
+   "thickness_in": 7.26,
+   "gross_lf": 0.59,
+   "net_lf": 0.59,
+   "openings_lf": [],
+   "candidates": {
+    "A6A": 2.72
+   },
+   "parent_run": 9,
+   "tags": []
+  },
+  {
+   "id": 21,
+   "type": "A6A",
+   "type_source": "propagated",
+   "geometry_class": "A6",
+   "orient": "H",
+   "start_pt": [
+    981.43,
+    944.12
+   ],
+   "end_pt": [
+    1000.66,
+    944.12
+   ],
+   "thickness_in": 7.26,
+   "gross_lf": 1.07,
+   "net_lf": 1.07,
+   "openings_lf": [],
+   "candidates": {
+    "A6A": 3.79
+   },
+   "parent_run": 9,
+   "tags": []
+  },
+  {
+   "id": 22,
+   "type": "untagged D3",
+   "type_source": "geometry-only",
+   "geometry_class": "D3",
+   "orient": "H",
+   "start_pt": [
+    932.53,
+    738.52
+   ],
+   "end_pt": [
+    971.11,
+    738.52
+   ],
+   "thickness_in": 4.26,
+   "gross_lf": 2.14,
+   "net_lf": 2.14,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 10,
+   "tags": []
+  },
+  {
+   "id": 23,
+   "type": "untagged D3",
+   "type_source": "geometry-only",
+   "geometry_class": "D3",
+   "orient": "H",
+   "start_pt": [
+    1335.59,
+    931.26
+   ],
+   "end_pt": [
+    1428.02,
+    931.26
+   ],
+   "thickness_in": 4.25,
+   "gross_lf": 5.13,
+   "net_lf": 5.13,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 11,
+   "tags": []
+  },
+  {
+   "id": 24,
+   "type": "D3A",
+   "type_source": "tag",
+   "geometry_class": "D3",
+   "orient": "H",
+   "start_pt": [
+    610.84,
+    945.9
+   ],
+   "end_pt": [
+    647.35,
+    945.9
+   ],
+   "thickness_in": 4.25,
+   "gross_lf": 2.03,
+   "net_lf": 2.03,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 12,
+   "tags": [
+    {
+     "tag": "D3A",
+     "tick_pt": [
+      624.6,
+      950.9
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "type": "D3C",
+   "type_source": "tag",
+   "geometry_class": "D3",
+   "orient": "H",
+   "start_pt": [
+    811.95,
+    960.16
+   ],
+   "end_pt": [
+    822.64,
+    960.16
+   ],
+   "thickness_in": 4.27,
+   "gross_lf": 0.59,
+   "net_lf": 0.59,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 13,
+   "tags": [
+    {
+     "tag": "D3C",
+     "tick_pt": [
+      818.0,
+      965.1
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "type": "D3C",
+   "type_source": "tag",
+   "geometry_class": "D3",
+   "orient": "H",
+   "start_pt": [
+    970.73,
+    960.16
+   ],
+   "end_pt": [
+    981.43,
+    960.16
+   ],
+   "thickness_in": 4.27,
+   "gross_lf": 0.59,
+   "net_lf": 0.59,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 14,
+   "tags": [
+    {
+     "tag": "D3C",
+     "tick_pt": [
+      973.1,
+      965.1
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "type": "D3A",
+   "type_source": "tag",
+   "geometry_class": "D3",
+   "orient": "H",
+   "start_pt": [
+    610.84,
+    1211.85
+   ],
+   "end_pt": [
+    804.63,
+    1211.85
+   ],
+   "thickness_in": 4.25,
+   "gross_lf": 10.76,
+   "net_lf": 10.76,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 15,
+   "tags": [
+    {
+     "tag": "D3A",
+     "tick_pt": [
+      793.1,
+      1206.9
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "type": "D3A",
+   "type_source": "tag",
+   "geometry_class": "D3",
+   "orient": "H",
+   "start_pt": [
+    988.75,
+    1211.85
+   ],
+   "end_pt": [
+    1052.09,
+    1211.85
+   ],
+   "thickness_in": 4.25,
+   "gross_lf": 3.52,
+   "net_lf": 3.52,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 16,
+   "tags": [
+    {
+     "tag": "D3A",
+     "tick_pt": [
+      1004.9,
+      1206.9
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "type": "untagged D3",
+   "type_source": "geometry-only",
+   "geometry_class": "D3",
+   "orient": "H",
+   "start_pt": [
+    535.02,
+    1222.55
+   ],
+   "end_pt": [
+    596.77,
+    1222.55
+   ],
+   "thickness_in": 4.25,
+   "gross_lf": 3.43,
+   "net_lf": 3.43,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 17,
+   "tags": []
+  },
+  {
+   "id": 30,
+   "type": "D3A",
+   "type_source": "tag",
+   "geometry_class": "D3",
+   "orient": "H",
+   "start_pt": [
+    610.84,
+    1228.74
+   ],
+   "end_pt": [
+    804.63,
+    1228.74
+   ],
+   "thickness_in": 4.25,
+   "gross_lf": 10.76,
+   "net_lf": 10.76,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 18,
+   "tags": [
+    {
+     "tag": "D3A",
+     "tick_pt": [
+      632.9,
+      1233.7
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "type": "D3A",
+   "type_source": "propagated",
+   "geometry_class": "D3",
+   "orient": "H",
+   "start_pt": [
+    988.75,
+    1228.74
+   ],
+   "end_pt": [
+    1041.49,
+    1228.74
+   ],
+   "thickness_in": 4.25,
+   "gross_lf": 2.93,
+   "net_lf": 2.93,
+   "openings_lf": [],
+   "candidates": {
+    "D3A": 3.43
+   },
+   "parent_run": 19,
+   "tags": []
+  },
+  {
+   "id": 32,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "H",
+   "start_pt": [
+    603.89,
+    492.18
+   ],
+   "end_pt": [
+    712.38,
+    492.18
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 6.02,
+   "net_lf": 6.02,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 20,
+   "tags": []
+  },
+  {
+   "id": 33,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "H",
+   "start_pt": [
+    712.38,
+    492.18
+   ],
+   "end_pt": [
+    861.4,
+    492.18
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 8.27,
+   "net_lf": 8.27,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 20,
+   "tags": []
+  },
+  {
+   "id": 34,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "H",
+   "start_pt": [
+    861.4,
+    492.18
+   ],
+   "end_pt": [
+    1007.99,
+    492.18
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 8.14,
+   "net_lf": 8.14,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 20,
+   "tags": []
+  },
+  {
+   "id": 35,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "H",
+   "start_pt": [
+    1007.99,
+    492.18
+   ],
+   "end_pt": [
+    1025.44,
+    492.18
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 0.97,
+   "net_lf": 0.97,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 20,
+   "tags": []
+  },
+  {
+   "id": 36,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "H",
+   "start_pt": [
+    1073.49,
+    492.18
+   ],
+   "end_pt": [
+    1092.07,
+    492.18
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 1.03,
+   "net_lf": 1.03,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 21,
+   "tags": []
+  },
+  {
+   "id": 37,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "H",
+   "start_pt": [
+    1199.05,
+    492.18
+   ],
+   "end_pt": [
+    1434.97,
+    492.18
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 13.09,
+   "net_lf": 13.09,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 22,
+   "tags": []
+  },
+  {
+   "id": 38,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "H",
+   "start_pt": [
+    1338.88,
+    945.62
+   ],
+   "end_pt": [
+    1434.97,
+    945.62
+   ],
+   "thickness_in": 8.64,
+   "gross_lf": 5.33,
+   "net_lf": 5.33,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 23,
+   "tags": []
+  },
+  {
+   "id": 39,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "H",
+   "start_pt": [
+    1064.1,
+    1215.14
+   ],
+   "end_pt": [
+    1079.68,
+    1215.14
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 0.86,
+   "net_lf": 0.86,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 24,
+   "tags": []
+  },
+  {
+   "id": 40,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "H",
+   "start_pt": [
+    789.71,
+    1378.05
+   ],
+   "end_pt": [
+    800.97,
+    1378.05
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 0.62,
+   "net_lf": 0.62,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 25,
+   "tags": []
+  },
+  {
+   "id": 41,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "H",
+   "start_pt": [
+    1034.45,
+    1378.05
+   ],
+   "end_pt": [
+    1050.68,
+    1378.05
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 0.9,
+   "net_lf": 0.9,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 26,
+   "tags": []
+  },
+  {
+   "id": 42,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "H",
+   "start_pt": [
+    1038.01,
+    1397.01
+   ],
+   "end_pt": [
+    1041.02,
+    1397.01
+   ],
+   "thickness_in": 8.01,
+   "gross_lf": 0.17,
+   "net_lf": 0.17,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 27,
+   "tags": []
+  },
+  {
+   "id": 43,
+   "type": "bare 6in cavity (not a wall?)",
+   "type_source": "geometry-only",
+   "geometry_class": "other-6-bare",
+   "orient": "H",
+   "start_pt": [
+    613.1,
+    1033.26
+   ],
+   "end_pt": [
+    752.73,
+    1033.26
+   ],
+   "thickness_in": 6.01,
+   "gross_lf": 7.75,
+   "net_lf": 7.75,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 28,
+   "tags": []
+  },
+  {
+   "id": 44,
+   "type": "6in stud, board one side",
+   "type_source": "geometry-only",
+   "geometry_class": "other-6-one-side",
+   "orient": "H",
+   "start_pt": [
+    1025.44,
+    490.68
+   ],
+   "end_pt": [
+    1073.49,
+    490.68
+   ],
+   "thickness_in": 6.63,
+   "gross_lf": 2.67,
+   "net_lf": 2.67,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 29,
+   "tags": []
+  },
+  {
+   "id": 45,
+   "type": "6in stud, board one side",
+   "type_source": "geometry-only",
+   "geometry_class": "other-6-one-side",
+   "orient": "H",
+   "start_pt": [
+    1092.07,
+    522.76
+   ],
+   "end_pt": [
+    1199.05,
+    522.76
+   ],
+   "thickness_in": 6.63,
+   "gross_lf": 5.94,
+   "net_lf": 5.94,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 30,
+   "tags": []
+  },
+  {
+   "id": 46,
+   "type": "A3B",
+   "type_source": "tag",
+   "geometry_class": "A3",
+   "orient": "V",
+   "start_pt": [
+    710.6,
+    644.76
+   ],
+   "end_pt": [
+    710.6,
+    738.51
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 5.2,
+   "net_lf": 2.08,
+   "openings_lf": [
+    3.12
+   ],
+   "candidates": null,
+   "parent_run": 31,
+   "tags": [
+    {
+     "tag": "A3B",
+     "tick_pt": [
+      715.1,
+      659.5
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "type": "A3A",
+   "type_source": "tag",
+   "geometry_class": "A3",
+   "orient": "V",
+   "start_pt": [
+    801.25,
+    738.51
+   ],
+   "end_pt": [
+    801.25,
+    929.95
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 10.63,
+   "net_lf": 10.63,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 32,
+   "tags": [
+    {
+     "tag": "A3A",
+     "tick_pt": [
+      796.7,
+      766.3
+     ],
+     "bind": "leader"
+    },
+    {
+     "tag": "A3A",
+     "tick_pt": [
+      805.8,
+      876.2
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "type": "A3A",
+   "type_source": "propagated",
+   "geometry_class": "A3",
+   "orient": "V",
+   "start_pt": [
+    801.25,
+    929.95
+   ],
+   "end_pt": [
+    801.25,
+    944.12
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 0.79,
+   "net_lf": 0.79,
+   "openings_lf": [],
+   "candidates": {
+    "A3A": 0.79
+   },
+   "parent_run": 32,
+   "tags": []
+  },
+  {
+   "id": 49,
+   "type": "A3A",
+   "type_source": "propagated",
+   "geometry_class": "A3",
+   "orient": "V",
+   "start_pt": [
+    1185.82,
+    717.87
+   ],
+   "end_pt": [
+    1185.82,
+    738.51
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 1.15,
+   "net_lf": 1.15,
+   "openings_lf": [],
+   "candidates": {
+    "A3A": 1.65
+   },
+   "parent_run": 33,
+   "tags": []
+  },
+  {
+   "id": 50,
+   "type": "A3A",
+   "type_source": "propagated",
+   "geometry_class": "A3",
+   "orient": "V",
+   "start_pt": [
+    1328.64,
+    661.0
+   ],
+   "end_pt": [
+    1328.64,
+    717.87
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 3.16,
+   "net_lf": 3.16,
+   "openings_lf": [],
+   "candidates": {
+    "A3A": 3.66
+   },
+   "parent_run": 34,
+   "tags": []
+  },
+  {
+   "id": 51,
+   "type": "A3A",
+   "type_source": "tag",
+   "geometry_class": "A3",
+   "orient": "V",
+   "start_pt": [
+    1349.29,
+    717.87
+   ],
+   "end_pt": [
+    1349.29,
+    760.56
+   ],
+   "thickness_in": 4.88,
+   "gross_lf": 2.37,
+   "net_lf": 2.37,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 35,
+   "tags": [
+    {
+     "tag": "A3A",
+     "tick_pt": [
+      1353.8,
+      739.0
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "type": "A6B",
+   "type_source": "propagated",
+   "geometry_class": "A6",
+   "orient": "V",
+   "start_pt": [
+    712.38,
+    499.12
+   ],
+   "end_pt": [
+    712.38,
+    586.21
+   ],
+   "thickness_in": 7.26,
+   "gross_lf": 4.83,
+   "net_lf": 1.71,
+   "openings_lf": [
+    3.12
+   ],
+   "candidates": {
+    "A6B": 4.84
+   },
+   "parent_run": 36,
+   "tags": []
+  },
+  {
+   "id": 53,
+   "type": "A6B",
+   "type_source": "tag",
+   "geometry_class": "A6",
+   "orient": "V",
+   "start_pt": [
+    712.38,
+    586.21
+   ],
+   "end_pt": [
+    712.38,
+    641.1
+   ],
+   "thickness_in": 7.26,
+   "gross_lf": 3.05,
+   "net_lf": 3.05,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 36,
+   "tags": [
+    {
+     "tag": "A6B",
+     "tick_pt": [
+      707.9,
+      610.3
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "type": "A6B",
+   "type_source": "tag",
+   "geometry_class": "A6",
+   "orient": "V",
+   "start_pt": [
+    861.4,
+    499.12
+   ],
+   "end_pt": [
+    861.4,
+    641.1
+   ],
+   "thickness_in": 7.26,
+   "gross_lf": 7.88,
+   "net_lf": 7.88,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 37,
+   "tags": [
+    {
+     "tag": "A6B",
+     "tick_pt": [
+      865.9,
+      553.0
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "type": "A6A",
+   "type_source": "propagated",
+   "geometry_class": "A6",
+   "orient": "V",
+   "start_pt": [
+    932.53,
+    738.52
+   ],
+   "end_pt": [
+    932.53,
+    757.84
+   ],
+   "thickness_in": 7.26,
+   "gross_lf": 1.07,
+   "net_lf": 1.07,
+   "openings_lf": [],
+   "candidates": {
+    "A6A": 11.92
+   },
+   "parent_run": 38,
+   "tags": []
+  },
+  {
+   "id": 56,
+   "type": "A6A",
+   "type_source": "propagated",
+   "geometry_class": "A6",
+   "orient": "V",
+   "start_pt": [
+    932.53,
+    757.84
+   ],
+   "end_pt": [
+    932.53,
+    944.12
+   ],
+   "thickness_in": 7.26,
+   "gross_lf": 10.34,
+   "net_lf": 10.34,
+   "openings_lf": [],
+   "candidates": {
+    "A6A": 10.85
+   },
+   "parent_run": 38,
+   "tags": []
+  },
+  {
+   "id": 57,
+   "type": "A6B",
+   "type_source": "tag",
+   "geometry_class": "A6",
+   "orient": "V",
+   "start_pt": [
+    1007.99,
+    499.12
+   ],
+   "end_pt": [
+    1007.99,
+    641.1
+   ],
+   "thickness_in": 7.26,
+   "gross_lf": 7.88,
+   "net_lf": 7.88,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 39,
+   "tags": [
+    {
+     "tag": "A6B",
+     "tick_pt": [
+      1003.5,
+      527.5
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "type": "A6A",
+   "type_source": "tag",
+   "geometry_class": "A6",
+   "orient": "V",
+   "start_pt": [
+    1073.86,
+    641.1
+   ],
+   "end_pt": [
+    1073.86,
+    738.51
+   ],
+   "thickness_in": 7.26,
+   "gross_lf": 5.41,
+   "net_lf": 5.41,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 40,
+   "tags": [
+    {
+     "tag": "A6A",
+     "tick_pt": [
+      1078.4,
+      653.7
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "type": "A6A",
+   "type_source": "tag",
+   "geometry_class": "A6",
+   "orient": "V",
+   "start_pt": [
+    1199.05,
+    522.76
+   ],
+   "end_pt": [
+    1199.05,
+    717.87
+   ],
+   "thickness_in": 7.26,
+   "gross_lf": 10.83,
+   "net_lf": 7.7,
+   "openings_lf": [
+    3.12
+   ],
+   "candidates": null,
+   "parent_run": 41,
+   "tags": [
+    {
+     "tag": "A6A",
+     "tick_pt": [
+      1194.5,
+      655.2
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "type": "D3A",
+   "type_source": "propagated",
+   "geometry_class": "D3",
+   "orient": "V",
+   "start_pt": [
+    647.35,
+    929.95
+   ],
+   "end_pt": [
+    647.35,
+    945.9
+   ],
+   "thickness_in": 4.25,
+   "gross_lf": 0.89,
+   "net_lf": 0.89,
+   "openings_lf": [],
+   "candidates": {
+    "D3A": 1.39
+   },
+   "parent_run": 42,
+   "tags": []
+  },
+  {
+   "id": 61,
+   "type": "D3A",
+   "type_source": "tag",
+   "geometry_class": "D3",
+   "orient": "V",
+   "start_pt": [
+    804.63,
+    1211.85
+   ],
+   "end_pt": [
+    804.63,
+    1228.74
+   ],
+   "thickness_in": 4.25,
+   "gross_lf": 0.94,
+   "net_lf": 0.94,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 43,
+   "tags": [
+    {
+     "tag": "D3A",
+     "tick_pt": [
+      809.6,
+      1219.5
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "type": "D3C",
+   "type_source": "propagated",
+   "geometry_class": "D3",
+   "orient": "V",
+   "start_pt": [
+    811.95,
+    944.12
+   ],
+   "end_pt": [
+    811.95,
+    960.16
+   ],
+   "thickness_in": 4.25,
+   "gross_lf": 0.89,
+   "net_lf": 0.89,
+   "openings_lf": [],
+   "candidates": {
+    "D3C": 1.39
+   },
+   "parent_run": 44,
+   "tags": []
+  },
+  {
+   "id": 63,
+   "type": "D3C",
+   "type_source": "propagated",
+   "geometry_class": "D3",
+   "orient": "V",
+   "start_pt": [
+    822.64,
+    944.12
+   ],
+   "end_pt": [
+    822.64,
+    960.16
+   ],
+   "thickness_in": 4.26,
+   "gross_lf": 0.89,
+   "net_lf": 0.89,
+   "openings_lf": [],
+   "candidates": {
+    "D3C": 1.39
+   },
+   "parent_run": 45,
+   "tags": []
+  },
+  {
+   "id": 64,
+   "type": "untagged D3",
+   "type_source": "geometry-only",
+   "geometry_class": "D3",
+   "orient": "V",
+   "start_pt": [
+    971.11,
+    738.52
+   ],
+   "end_pt": [
+    971.11,
+    757.84
+   ],
+   "thickness_in": 4.26,
+   "gross_lf": 1.07,
+   "net_lf": 1.07,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 46,
+   "tags": []
+  },
+  {
+   "id": 65,
+   "type": "D3C",
+   "type_source": "propagated",
+   "geometry_class": "D3",
+   "orient": "V",
+   "start_pt": [
+    970.73,
+    944.12
+   ],
+   "end_pt": [
+    970.73,
+    960.16
+   ],
+   "thickness_in": 4.25,
+   "gross_lf": 0.89,
+   "net_lf": 0.89,
+   "openings_lf": [],
+   "candidates": {
+    "D3C": 1.39
+   },
+   "parent_run": 47,
+   "tags": []
+  },
+  {
+   "id": 66,
+   "type": "D3C",
+   "type_source": "propagated",
+   "geometry_class": "D3",
+   "orient": "V",
+   "start_pt": [
+    981.43,
+    944.12
+   ],
+   "end_pt": [
+    981.43,
+    960.16
+   ],
+   "thickness_in": 4.25,
+   "gross_lf": 0.89,
+   "net_lf": 0.89,
+   "openings_lf": [],
+   "candidates": {
+    "D3C": 1.39
+   },
+   "parent_run": 48,
+   "tags": []
+  },
+  {
+   "id": 67,
+   "type": "D3A",
+   "type_source": "propagated",
+   "geometry_class": "D3",
+   "orient": "V",
+   "start_pt": [
+    988.75,
+    1211.85
+   ],
+   "end_pt": [
+    988.75,
+    1228.74
+   ],
+   "thickness_in": 4.25,
+   "gross_lf": 0.94,
+   "net_lf": 0.94,
+   "openings_lf": [],
+   "candidates": {
+    "D3A": 1.44
+   },
+   "parent_run": 49,
+   "tags": []
+  },
+  {
+   "id": 68,
+   "type": "D3A",
+   "type_source": "tag",
+   "geometry_class": "D3",
+   "orient": "V",
+   "start_pt": [
+    1041.49,
+    1228.74
+   ],
+   "end_pt": [
+    1041.49,
+    1371.1
+   ],
+   "thickness_in": 4.26,
+   "gross_lf": 7.9,
+   "net_lf": 7.9,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 50,
+   "tags": [
+    {
+     "tag": "D3A",
+     "tick_pt": [
+      1036.5,
+      1304.0
+     ],
+     "bind": "leader"
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "type": "untagged D3",
+   "type_source": "geometry-only",
+   "geometry_class": "D3",
+   "orient": "V",
+   "start_pt": [
+    1050.68,
+    1384.8
+   ],
+   "end_pt": [
+    1050.68,
+    1443.36
+   ],
+   "thickness_in": 4.25,
+   "gross_lf": 3.25,
+   "net_lf": 3.25,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 51,
+   "tags": []
+  },
+  {
+   "id": 70,
+   "type": "untagged D3",
+   "type_source": "geometry-only",
+   "geometry_class": "D3",
+   "orient": "V",
+   "start_pt": [
+    1335.59,
+    931.26
+   ],
+   "end_pt": [
+    1335.59,
+    938.68
+   ],
+   "thickness_in": 4.25,
+   "gross_lf": 0.41,
+   "net_lf": 0.41,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 52,
+   "tags": []
+  },
+  {
+   "id": 71,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "V",
+   "start_pt": [
+    603.89,
+    492.18
+   ],
+   "end_pt": [
+    603.89,
+    586.21
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 5.22,
+   "net_lf": 5.22,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 53,
+   "tags": []
+  },
+  {
+   "id": 72,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "V",
+   "start_pt": [
+    603.89,
+    586.21
+   ],
+   "end_pt": [
+    603.89,
+    738.51
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 8.45,
+   "net_lf": 8.45,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 53,
+   "tags": []
+  },
+  {
+   "id": 73,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "V",
+   "start_pt": [
+    603.89,
+    738.51
+   ],
+   "end_pt": [
+    603.89,
+    781.58
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 2.39,
+   "net_lf": 2.39,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 53,
+   "tags": []
+  },
+  {
+   "id": 74,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "V",
+   "start_pt": [
+    603.89,
+    889.69
+   ],
+   "end_pt": [
+    603.89,
+    929.95
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 2.23,
+   "net_lf": 2.23,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 54,
+   "tags": []
+  },
+  {
+   "id": 75,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "V",
+   "start_pt": [
+    603.89,
+    929.95
+   ],
+   "end_pt": [
+    603.89,
+    945.9
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 0.89,
+   "net_lf": 0.89,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 54,
+   "tags": []
+  },
+  {
+   "id": 76,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "V",
+   "start_pt": [
+    603.89,
+    945.9
+   ],
+   "end_pt": [
+    603.89,
+    1045.84
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 5.55,
+   "net_lf": 5.55,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 54,
+   "tags": []
+  },
+  {
+   "id": 77,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "V",
+   "start_pt": [
+    603.89,
+    1189.98
+   ],
+   "end_pt": [
+    603.89,
+    1211.85
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 1.21,
+   "net_lf": 1.21,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 55,
+   "tags": []
+  },
+  {
+   "id": 78,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "V",
+   "start_pt": [
+    603.89,
+    1211.85
+   ],
+   "end_pt": [
+    603.89,
+    1222.55
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 0.59,
+   "net_lf": 0.59,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 55,
+   "tags": []
+  },
+  {
+   "id": 79,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "V",
+   "start_pt": [
+    603.89,
+    1222.55
+   ],
+   "end_pt": [
+    603.89,
+    1228.74
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 0.34,
+   "net_lf": 0.34,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 55,
+   "tags": []
+  },
+  {
+   "id": 80,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "V",
+   "start_pt": [
+    603.89,
+    1228.74
+   ],
+   "end_pt": [
+    603.89,
+    1238.78
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 0.56,
+   "net_lf": 0.56,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 55,
+   "tags": []
+  },
+  {
+   "id": 81,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "V",
+   "start_pt": [
+    1338.88,
+    945.62
+   ],
+   "end_pt": [
+    1338.88,
+    967.95
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 1.24,
+   "net_lf": 1.24,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 56,
+   "tags": []
+  },
+  {
+   "id": 82,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "V",
+   "start_pt": [
+    1434.97,
+    492.18
+   ],
+   "end_pt": [
+    1434.97,
+    565.37
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 4.06,
+   "net_lf": 4.06,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 57,
+   "tags": []
+  },
+  {
+   "id": 83,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "V",
+   "start_pt": [
+    1434.97,
+    673.48
+   ],
+   "end_pt": [
+    1434.97,
+    769.57
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 5.33,
+   "net_lf": 5.33,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 58,
+   "tags": []
+  },
+  {
+   "id": 84,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "V",
+   "start_pt": [
+    1434.97,
+    877.68
+   ],
+   "end_pt": [
+    1434.97,
+    931.26
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 2.97,
+   "net_lf": 2.97,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 59,
+   "tags": []
+  },
+  {
+   "id": 85,
+   "type": "EXT 8in stud (exterior)",
+   "type_source": "geometry-only",
+   "geometry_class": "EXT8",
+   "orient": "V",
+   "start_pt": [
+    1434.97,
+    931.26
+   ],
+   "end_pt": [
+    1434.97,
+    945.62
+   ],
+   "thickness_in": 8.63,
+   "gross_lf": 0.8,
+   "net_lf": 0.8,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 59,
+   "tags": []
+  },
+  {
+   "id": 86,
+   "type": "6in stud, board one side",
+   "type_source": "geometry-only",
+   "geometry_class": "other-6-one-side",
+   "orient": "V",
+   "start_pt": [
+    1092.07,
+    499.12
+   ],
+   "end_pt": [
+    1092.07,
+    522.76
+   ],
+   "thickness_in": 6.63,
+   "gross_lf": 1.31,
+   "net_lf": 1.31,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 60,
+   "tags": []
+  },
+  {
+   "id": 87,
+   "type": "6in stud, board one side",
+   "type_source": "geometry-only",
+   "geometry_class": "other-6-one-side",
+   "orient": "V",
+   "start_pt": [
+    1199.05,
+    499.12
+   ],
+   "end_pt": [
+    1199.05,
+    522.76
+   ],
+   "thickness_in": 6.63,
+   "gross_lf": 1.31,
+   "net_lf": 1.31,
+   "openings_lf": [],
+   "candidates": null,
+   "parent_run": 61,
+   "tags": []
+  }
+ ],
+ "unbound_ticks": []
+}

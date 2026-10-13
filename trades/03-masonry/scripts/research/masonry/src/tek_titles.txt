@@ -1,0 +1,113 @@
+https://www.cmha.org/resource/tek-03-14/ | <title>Post-Tensioned Concrete Masonry Wall Construction - CMHA</title>
+https://www.cmha.org/resource/tek-03-12/ | <title>Construction of High-Rise Concrete Masonry Buildings - CMHA</title>
+https://www.cmha.org/resource/tek-01-04/ | <title>Glossary of Concrete Masonry Terms - CMHA</title>
+https://www.cmha.org/resource/tek-04-01a/ | <title>Productivity and Modular Coordination in Concrete Masonry Construction - CMHA</title>
+https://www.cmha.org/resource/tek-04-02a/ | <title>Estimating Concrete Masonry Materials - CMHA</title>
+https://www.cmha.org/resource/tek-03-16a/ | <title>Concrete Masonry Screen Walls - CMHA</title>
+https://www.cmha.org/resource/tek-03-13/ | <title>Construction of Low-Rise Concrete Masonry Buildings - CMHA</title>
+https://www.cmha.org/resource/tek-03-15/ | <title>Construction of Reinforced Concrete Masonry Diaphragm Walls - CMHA</title>
+https://www.cmha.org/resource/tek-05-02a/ | <title>Clay and Concrete Masonry Banding Details - CMHA</title>
+https://www.cmha.org/resource/tek-05-01b/ | <title>Concrete Masonry Veneer Details - CMHA</title>
+https://www.cmha.org/resource/tek-05-03a/ | <title>Concrete Masonry Foundation Wall Details - CMHA</title>
+https://www.cmha.org/resource/tek-05-04b/ | <title>Concrete Masonry Residential Details - CMHA</title>
+https://www.cmha.org/resource/tek-05-05b/ | <title>Integrating Concrete Masonry Walls With Metal Building Systems - CMHA</title>
+https://www.cmha.org/resource/tek-05-09a/ | <title>Concrete Masonry Corner Details - CMHA</title>
+https://www.cmha.org/resource/tek-05-06a/ | <title>Concrete Masonry Curtain and Panel Wall Details - CMHA</title>
+https://www.cmha.org/resource/tek-05-10a/ | <title>Concrete Masonry Radial Wall Details - CMHA</title>
+https://www.cmha.org/resource/tek-05-13/ | <title>Rolling Door Details for Concrete Masonry Construction - CMHA</title>
+https://www.cmha.org/resource/tek-05-11/ | <title>Residential Details for High Wind Areas - CMHA</title>
+https://www.cmha.org/resource/tek-05-14/ | <title>Concrete Masonry Hurricane and Tornado Shelters - CMHA</title>
+https://www.cmha.org/resource/tek-05-16/ | <title>Aesthetic Design With Concrete Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-05-12/ | <title>Modular Layout of Concrete Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-06-01c/ | <title>R-Values of Multi-Wythe Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-06-02c/ | <title>R-Values and U-Factors of Single Wythe Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-12-03c/ | <title>Design of Anchor Bolts Embedded in Concrete Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-12-04d/ | <title>Steel Reinforcement for Concrete Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-13-01d/ | <title>Sound Transmission Class Ratings for Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-12-05/ | <title>Fasteners for Concrete Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-13-04a/ | <title>Outdoor-Indoor Transmission Class of Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-13-02a/ | <title>Noise Control With Concrete Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-13-03a/ | <title>Concrete Masonry Highway Sound Barriers - CMHA</title>
+https://www.cmha.org/resource/tek-14-03a/ | <title>Designing Concrete Masonry Walls for Wind Loads - CMHA</title>
+https://www.cmha.org/resource/tek-14-05a/ | <title>Loadbearing Concrete Masonry Wall Design - CMHA</title>
+https://www.cmha.org/resource/tek-14-06/ | <title>Concrete Masonry Bond Patterns - CMHA</title>
+https://www.cmha.org/resource/tek-14-04b/ | <title>Strength Design Provisions for Concrete Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-14-09a/ | <title>Hybrid Concrete Masonry Design - CMHA</title>
+https://www.cmha.org/resource/tek-12-06a/ | <title>Splices, Development &amp; Standard Hooks for Concrete Masonry Based on the 2009 &amp; 2012 IBC - CMHA</title>
+https://www.cmha.org/resource/tek-14-08b/ | <title>Empirical Design of Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-14-10b/ | <title>Impact Resistance of Concrete Masonry for Correctional Facilities - CMHA</title>
+https://www.cmha.org/resource/tek-14-11b/ | <title>Strength Design of Concrete Masonry Walls for Axial Load &amp; Bending - CMHA</title>
+https://www.cmha.org/resource/tek-14-14/ | <title>Concrete Masonry Arches - CMHA</title>
+https://www.cmha.org/resource/tek-14-12b/ | <title>Seismic Design Forces on Concrete Masonry Buildings - CMHA</title>
+https://www.cmha.org/resource/tek-14-15b/ | <title>Allowable Stress Design of Pier and Panel Highway Sound Barrier Walls - CMHA</title>
+https://www.cmha.org/resource/tek-14-19b/ | <title>ASD Tables for Reinforced Concrete Masonry Walls Based on the 2012 IBC &amp; 2011 MSJC - CMHA</title>
+https://www.cmha.org/resource/tek-14-20a/ | <title>Post-Tensioned Concrete Masonry Wall Design - CMHA</title>
+https://www.cmha.org/resource/tek-14-18b/ | <title>Seismic Design and Detailing Requirements for Masonry Structures - CMHA</title>
+https://www.cmha.org/resource/tek-14-21a/ | <title>Design of Conrete Masonry Walls for Blast Loading - CMHA</title>
+https://www.cmha.org/resource/tek-14-22/ | <title>Design and Construction of Dry-Stack Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-14-23/ | <title>Design of Concrete Masonry Infill - CMHA</title>
+https://www.cmha.org/resource/tek-15-02b/ | <title>Strength Design of Reinforced Concrete Masonry Foundation Walls - CMHA</title>
+https://www.cmha.org/resource/tek-15-01b/ | <title>Allowable Stress Design of Concrete Masonry Foundation Walls - CMHA</title>
+https://www.cmha.org/resource/tek-14-24/ | <title>Design of Reinforced Concrete Masonry Diaphragm Walls - CMHA</title>
+https://www.cmha.org/resource/tek-15-07b/ | <title>Concrete Masonry Cantilever Retaining Walls - CMHA</title>
+https://www.cmha.org/resource/tek-16-01a/ | <title>Multi-Wythe Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-16-04a/ | <title>Design of Concrete Masonry Noncomposite (Cavity) Walls - CMHA</title>
+https://www.cmha.org/resource/tek-16-02b/ | <title>Structural Design of Unreinforced Composite Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-17-01d/ | <title>ASD of Concrete Masonry Lintels Based on the 2012 IBC/2011 MSJC - CMHA</title>
+https://www.cmha.org/resource/tek-18-01b/ | <title>Evaluating the Compressive Strength of Concrete Masonry Based on 2012IBC/2011 MSJC - CMHA</title>
+https://www.cmha.org/resource/tek-17-02a/ | <title>Precast Concrete Lintels for Concrete Masonry Construction - CMHA</title>
+https://www.cmha.org/resource/tek-18-01d/ | <title>Evaluating the Compressive Strength of Concrete Masonry – 2015 IBC/2013 MSJC - CMHA</title>
+https://www.cmha.org/resource/tek-18-02c/ | <title>Sampling and Testing Concrete Masonry Units - CMHA</title>
+https://www.cmha.org/resource/tek-18-03b/ | <title>Concrete Masonry Inspection - CMHA</title>
+https://www.cmha.org/resource/tek-18-04a/ | <title>Creep Properties of Post-Tensioned and High-Rise Concrete Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-18-05b/ | <title>Masonry Mortar Testing - CMHA</title>
+https://www.cmha.org/resource/tek-18-08b/ | <title>Grout Quality Assurance - CMHA</title>
+https://www.cmha.org/resource/tek-18-07/ | <title>Compressive Strength Testing Variables for Concrete Masonry Units - CMHA</title>
+https://www.cmha.org/resource/tek-18-09a/ | <title>Evaluating Existing Concrete Masonry Construction - CMHA</title>
+https://www.cmha.org/resource/tek-19-01/ | <title>Water Repellents for Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-19-02b/ | <title>Design for Dry Single-Wythe Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-19-04a/ | <title>Flashing Strategies for Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-19-03b/ | <title>Preventing Water Penetration in Below-Grade Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-19-06a/ | <title>Joint Sealants for Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-19-05a/ | <title>Flashing Details for Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-19-07/ | <title>Characteristics of Concrete Masonry Units With Integral Water Repellent - CMHA</title>
+https://www.cmha.org/resource/tek-14-16b/ | <title>Concrete Masonry Fence Design - CMHA</title>
+https://www.cmha.org/resource/tek-02-02b/ | <title>Considerations for Using Specialty Concrete Masonry Units - CMHA</title>
+https://www.cmha.org/resource/tek-03-03b/ | <title>Hybrid Concrete Masonry Construction Details - CMHA</title>
+https://www.cmha.org/resource/tek-03-01c/ | <title>All-Weather Concrete Masonry Construction - CMHA</title>
+https://www.cmha.org/resource/tek-03-02a/ | <title>Grouting Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-03-05a/ | <title>Surface Bonded Concrete Masonry Construction - CMHA</title>
+https://www.cmha.org/resource/tek-03-08a/ | <title>Concrete Masonry Construction - CMHA</title>
+https://www.cmha.org/resource/tek-03-09a/ | <title>Strategies for Termite Resistance - CMHA</title>
+https://www.cmha.org/resource/tek-03-06c/ | <title>Concrete Masonry Veneers - CMHA</title>
+https://www.cmha.org/resource/tek-15-06/ | <title>Concrete Masonry Gravity Retaining Walls - CMHA</title>
+https://www.cmha.org/resource/tek-16-03b/ | <title>Reinforced Composite Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-06-04b/ | <title>Energy Code Compliance Using Comcheck™ - CMHA</title>
+https://www.cmha.org/resource/tek-14-07c-2/ | <title>ASD of Concrete Masonry (2012 IBC &amp; 2011 MSJC) - CMHA</title>
+https://www.cmha.org/resource/tek-06-05a/ | <title>Passive Solar Design - CMHA</title>
+https://www.cmha.org/resource/tek-06-06b/ | <title>Determining the Recycled Content of Concrete Masonry Products - CMHA</title>
+https://www.cmha.org/resource/tek-06-07a/ | <title>Earth-Sheltered Buildings - CMHA</title>
+https://www.cmha.org/resource/tek-06-09c/ | <title>Concrete Masonry &amp; Hardscape Products in LEED® 2009 - CMHA</title>
+https://www.cmha.org/resource/tek-06-10a/ | <title>Concrete Masonry Radiant Heating/Cooling Systems - CMHA</title>
+https://www.cmha.org/resource/tek-06-11a/ | <title>Insulating Conrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-06-13b/ | <title>Thermal Bridges in Wall Construction - CMHA</title>
+https://www.cmha.org/resource/tek-06-12e/ | <title>Concrete Masonry in the 2012 Edition of the IECC - CMHA</title>
+https://www.cmha.org/resource/tek-06-14a/ | <title>Control of Air Leakage in Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-08-01a/ | <title>Maintenance of Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-06-15a/ | <title>Radon-Resistant Concrete Masonry Foundation Walls - CMHA</title>
+https://www.cmha.org/resource/tek-06-17b/ | <title>Condensation Control in Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-06-16a/ | <title>Heat Capacity (HC) Values for Concrete Masonry Walls - CMHA</title>
+https://www.cmha.org/resource/tek-08-02a/ | <title>Removal of Stains From Concrete Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-09-01a/ | <title>Mortars for Concrete Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-08-03a/ | <title>Control and Removal of Efflorescence - CMHA</title>
+https://www.cmha.org/resource/tek-09-02b/ | <title>Self-Consolidating Grout for Concrete Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-09-03a/ | <title>Plaster and Stucco for Concrete Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-09-04a/ | <title>Grout for Concrete Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-12-02b/ | <title>Joint Reinforcement for Concrete Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-12-01b/ | <title>Anchors and Ties for Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-03-11/ | <title>Concrete Masonry Basement Wall Construction - CMHA</title>
+https://www.cmha.org/resource/tek-18-06/ | <title>Structural Testing of Concrete Masonry Assemblages - CMHA</title>
+https://www.cmha.org/resource/tek-03-04c/ | <title>Bracing Concrete Masonry Walls Under Construction - CMHA</title>
+https://www.cmha.org/resource/tek-17-04b/ | <title>Allowable Stress Design of CM Pilasters - CMHA</title>
+https://www.cmha.org/resource/tek-08-04a/ | <title>Cleaning Concrete Masonry - CMHA</title>
+https://www.cmha.org/resource/tek-05-07a/ | <title>Floor and Roof Connections to Concrete Masonry Walls - CMHA</title>

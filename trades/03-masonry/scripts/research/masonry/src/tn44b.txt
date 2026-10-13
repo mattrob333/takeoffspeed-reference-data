@@ -1,0 +1,1192 @@
+  
+  
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tech Notes 44B - Wall Ties for Brick Masonry 
+[Revised May 2003] 
+Abstract: The use of metal ties in brick masonry dates back to loadbearing masonry walls in the 1850's. Historically, 
+the size, spacing and type of ties have been entirely empirical. Over time, ties of various sizes, configurations and 
+adjustability have been developed for loadbearing masonry, cavity walls and brick veneer construction. These ties are 
+used to connect multiple wythes of masonry, often of different materials; anchor masonry veneer to backing systems 
+other than masonry; and connect composite masonry walls. This Technical Notes addresses the selection, specification 
+and installation of wall tie systems for use in brick masonry construction.  Information and recommendations are 
+included which address tie configuration, detailing, specifications, structural performance and corrosion resistance. 
+Key Words: anchors, brick, cavity walls, corrosion, design, differential movement, fasteners, grout, masonry, 
+structural masonry, ties, veneer, walls. 
+INTRODUCTION 
+This Technical Notes is the third in a series that addresses anchor bolts, fasteners and wall ties for brick masonry. This 
+Technical Notes discusses wall ties commonly used in brick construction, their function, selection, specification and 
+installation. The term "wall tie", as used in this Technical Notes, refers to wire or sheet metal devices used to connect 
+two or more masonry wythes or used to connect masonry veneers to a structural backing system. The later of these are 
+more properly identified as veneer anchors. 
+GENERAL 
+The first use of wall ties in brick masonry construction can be traced to England in the mid-nineteenth century, where 
+wrought iron ties were used in brick masonry cavity walls. Use of wall ties in the United States grew after testing 
+showed that metal-tied walls were more resistant to water penetration than were masonry-bonded walls. Bonders, or 
+"headers", used in masonry-bonded walls may provide direct paths for possible water penetration.  Testing also 
+indicated that the compressive strength of metal-tied cavity walls and solid walls, and the transverse strength of metal-
+tied solid walls were comparable to those of masonry-bonded walls. 
+The use of wall ties has continued to increase over the years due to a trend away from massive, multi-wythe masonry 
+walls to relatively thin masonry cavity walls, double-wythe walls and veneers.  The use of backing systems other than 
+masonry, i.e., steel, concrete and wood, has rendered bonding with masonry headers impossible, leading to the 
+development of a number of different metal tie systems.  Investigation into the performance of masonry-bonded walls in 
+which the bonded wythes are of different materials indicates frequent shear failures in the headers. 
+During this period of transition, little progress was made in the area of rational design of wall tie systems.  Typically, the 
+sizing and spacing of wall ties has been based largely on empirical information and the designer's judgment. Questions 
+concerning strength, stiffness, corrosion and the effects of these on the long-term performance of wall ties, have been 
+posed.  Selection of a tie system to function properly under these conditions is further complicated by the vast number 
+of tie types available and the variety of materials from which they are fabricated. Most tie systems perform well for their 
+intended application.  Some tie systems, however, are poorly designed and do not provide adequate load transfer for 
+brick masonry.  The distinction is often subtle and requires an understanding of the properties and characteristics of 
+brick masonry. With the addition of Chapter 6 on Veneers to the Building Code Requirements for Masonry Structures 
+(ACI 530 / ASCE 5 / TMS 402-02), the empirical requirements for type, size and spacing of metal ties have been 
+reviewed and refined. This Code, known as the MSJC Code, contains requirements for most types of tie systems. 
+Function of Wall Ties 
+Typically, wall ties perform three primary functions between a wythe of brick and its backing or another wythe of 
+masonry: 1) provide a connection, 2) transfer lateral loads, 3) permit in-plane movement to accommodate differential 
+movements and, in some cases, restrain differential movement.  In addition to these primary functions, metal ties (as 
+joint reinforcement) may also be required to serve as horizontal structural reinforcement or provide longitudinal 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+continuity. 
+For a tie system to fulfill these functions, it must: 1) be securely attached to both masonry wythes or the brick veneer 
+and its backing, 2) have sufficient stiffness to transfer lateral loads with minimal deformations, 3) have a minimum 
+amount of mechanical play, 4) be corrosion-resistant and 5) be easily installed to reduce installation errors and damage 
+to the tie system.  This listing is far from complete; special project conditions, unusual details and special building code 
+requirements must also be considered. Availability and cost are always factors in product specifications.  However, cost 
+should not have a major influence on the selection of a wall tie system since the cost of ties is typically a very small part 
+of the total wall cost. 
+TYPES OF WALL TIES 
+General 
+There are a number of different wall tie systems available for brick masonry wall systems. These include unit ties, 
+continuous horizontal joint reinforcement, adjustable ties (unit and continuous) and re-anchoring systems. Placement 
+requirements for ties are shown in Figure 1. 
+FIG. 1 
+Unit Ties 
+Unit ties are rectangular “box”ties, "Z" ties and corrugated ties, as shown in Figure 2. Rectangular and "Z" ties are 
+usually fabricated from cold-drawn steel wire conforming to ASTM A 82.  Rectangular and "Z" ties made of stainless 
+steel conforming to ASTM A 580 are also available for use in more corrosive environments.  Corrugated sheet steel ties 
+are typically manufactured from steel sheet conforming to ASTM A 1008 and are also available in stainless steel 
+conforming to A 240. 
+Unit Ties 
+FIG. 2 
+Rectangular and "Z" ties are used to bond walls constructed of two or more masonry wythes.  "Z" ties should only be 
+used to bond walls constructed with solid units (not less than 75% solid) or grouted units.  Rectangular ties may be used 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+   
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+with either solid or hollow units.  Such wire ties should not have a bend or drip to reduce water transfer.  Such a bend in 
+the tie reduces the capacity of the tie to transfer lateral load. 
+Corrugated ties are typically used in low-rise, residential veneer over wood frame construction and are not 
+recommended for construction incorporating brick veneer over steel studs, masonry-backed cavity walls, multi-wythe 
+walls or grouted masonry walls. 
+Typical installation details are shown in Fig. 3. 
+Unit Tie Placement Details 
+FIG. 3 
+Joint Reinforcement 
+Continuous horizontal joint reinforcement is typically made from #8, 9, 10, or 11 gage wire, or 3/16 in. (5 mm) diameter 
+wire, conforming to ASTM A 951, in lengths of 10 to 12 ft (3 to 4 m).  The most common configurations are the ladder, 
+truss, and tab types (see Fig. 4). 
+Continuous Joint Reinforcement 
+FIG. 4 
+Structural testing performed in the early 1960's indicated that multi-wythe walls tied with joint reinforcement performed 
+as well as walls tied with unit ties or masonry bonders.  Joint reinforcement may be used in multi-wythe solid walls, 
+masonry cavity walls, brick veneer with masonry backing, and grouted masonry walls (see Fig. 5).  As with wire ties, the 
+cross wires should be without drips. 
+Truss-type joint reinforcement is not recommended for use in cavity walls or brick veneer with masonry backing. Test 
+
+ 
+ 
+ 
+  
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+results also indicated that truss-type joint reinforcement, in such wall systems, did not contribute to any composite 
+action in the vertical span, but did develop a degree of composite action in the horizontal span .The configuration of the 
+truss diagonals can restrain differential movement between wythes and possibly result in bowing of the walls.  
+Joint Reinforcement Details 
+FIG. 5 
+Adjustable Ties 
+Adjustable tie systems were initially developed to accommodate the use of face brick whose bed joints did not align 
+vertically with interior masonry wythes.  This concept has been extended to ties used to attach brick to other systems, 
+resulting in the use of both adjustable unit ties and adjustable ties with joint reinforcement. 
+The use of adjustable ties has increased rapidly for a number of reasons:  1) Adjustable ties permit the construction of 
+interior masonry wythes and other backings prior to the construction of exterior facing wythes, permitting the structure to 
+be enclosed faster.  2) Adjustable ties are two-piece systems.  One piece is installed as the backing is constructed and 
+the other piece is installed as the facing wythe is constructed, reducing the risk of damage to exposed ties that might 
+occur when unit ties or standard joint reinforcement are used.  3) Adjustable ties can accommodate construction 
+tolerances common in multi-material construction.  4) Adjustable ties can accommodate larger differential movements 
+than standard unit ties or joint reinforcement. 
+The advantages offered by adjustable tie systems are not without possible problems:  1) Mislocation of adjustable ties 
+placed prior to construction of facing wythes, if extreme, can render the ties useless.  2) Adjustable ties may encourage 
+less than perfect layout of the wall system since a built-in adjustment allowance is available.  3) Large variations in 
+construction tolerances may not allow full engagement of ties installed before facing wythes are constructed. 4) 
+Improperly positioned ties may result in large vertical tie eccentricity.  5) The structural performance of some adjustable 
+ties in regard to strength and stiffness is less than that of standard unit ties or joint reinforcement. 
+Adjustable Unit Ties. Adjustable unit ties produced for use with masonry backing, concrete backing, steel frames and 
+steel studs are shown in Figs. 6 and 7.  Slot-type ties (dovetail, channel slot, etc.) have been used for a number of years 
+with concrete, steel frame and steel stud backing systems, and are recognized as tie systems capable of 
+accommodating differential movement, as further discussed in Technical Notes 18 Series (see Fig. 6). Other types of 
+adjustable unit tie systems are available for brick with masonry backing and other backing systems.  These ties are 
+typically two-piece systems, consisting of a single or double eye and pintle arrangement (see Fig. 7).  The Building 
+Code Requirements for Masonry Structures (ACI 530 / ASCE 5 / TMS 402-02) requires that for veneer masonry all 
+pintle anchors have at least two pintle legs of wire size W2.8 (3/16 in., MW18) each and have an offset not exceeding 1 
+¼ in. (31.8 mm).  Typical installation details are shown in Fig. 8 
+
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+. 
+Adjustable Unit Ties for Steel, Concrete and Stud Backup 
+FIG. 6 
+Adjustable Unit Ties for Masonry Backup 
+FIG. 7 
+
+ 
+  
+  
+  
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+Adjustable Unit Tie Details 
+FIG. 8 
+Adjustable Assemblies. Adjustable ladder and truss-type joint reinforcement assemblies are available for use in 
+masonry backed-cavity wall, veneer and grouted wall construction. This joint reinforcement typically consists of 
+rectangular tab type extensions, connected to standard joint reinforcement by means of an eye and pintle arrangement 
+(see Fig. 9). Installation details are shown in Fig. 10. 
+Adjustable Joint Reinforcement Assemblies 
+FIG. 9 
+
+ 
+ 
+  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adjustable Assembly Details 
+FIG. 10 
+Masonry Re-anchoring Systems. 
+Masonry re-anchoring systems are the most recent development in masonry tie systems. Three general types of systems 
+are being produced and typically consist of a mechanical expansion system, helical screw system and an epoxy adhesive 
+system (see Fig. 11).These systems are primarily used to: provide ties in areas where ties were not installed during 
+original construction, 2) replace existing ties, 3) replace failed masonry bonding units, 4) upgrade older wall systems to 
+current code levels, or 5) attach new veneers over existing facades. 
+Masonry Re-Anchoring Systems 
+FIG. 11 
+As stated, re-anchoring systems are relatively new and many designers and contractors may not be fully familiar with 
+their installation or limitations. For this reason, consultation with the tie system manufacturer is essential to assure 
+proper application, detailing, installation, inspection, and performance. 
+TIE SELECTION 
+Strength and Deformation 
+The strength and deformation characteristics of tie systems are not generally analyzed nor investigated during the 
+project design or specification phase. Building codes and standards have typically required minimum tie size (diameter 
+or gage) and maximum tie spacing limits to control tie loading and deformation.  Present tie size and spacing 
+requirements have been derived from some testing and from the past performance of traditional tie systems 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+ 
+(rectangular ties, "Z'' ties and standard joint reinforcement).  The growing use of adjustable tie systems has caused 
+some concerns in regard to tie strength and deformation.  Most adjustable ties permit vertical adjustment up to 
+approximately one-half the height of a standard brick unit, some permit greater adjustments.  Depending on the tie 
+configuration, the deflections of adjustable ties can become quite large as vertical adjustment eccentricities are 
+increased.  This deflection is further increased if mechanical play is present in the tie system. 
+Analytical and experimental investigations of cavity wall and veneer wall systems have shown that tie loads and 
+deformations are a function of:  1) the relative stiffness between facing and backing materials, 2) tie spacing, 3) tie 
+stiffness, 4) support conditions of the facing and backing systems, 5) location of edges and openings, 6) cavity width 
+and 7) applied loads. 
+Estimating tie loads based on tributary area can lead to large errors, depending on the geometry and properties of the 
+wall system.  Fig. 12 shows tie loads and deflections calculated from a simplified model of a cavity wall system.  As 
+shown, adjustable tie deflections become large as the adjustment eccentricity becomes large.  These values were 
+calculated assuming that no mechanical play existed in the tie system.  Mechanical play must be added to these values 
+to determine the total deflection of the exterior wythe. Typical adjustable ties have values of mechanical play ranging 
+from approximately 0 to 0.3 in. (0 to 8 mm).  Some adjustable ties may have an extreme amount of mechanical play 
+when not properly installed (see Fig. 13). The MSJC Code limits mechanical play to a maximum of 1/16 inch (1.6 mm). 
+If satisfactory performance is to be expected, total tie and backing deflections must be maintained within the working 
+range of the masonry facade under full design loads. 
+Calculated Tie Loads and Deflections 
+FIG. 12 
+
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+Mechanical Play 
+FIG. 13 
+Recommendations. At present, analysis techniques that accurately model metal-tied wall systems are still in the 
+developmental stage and require further refinement and verification through testing.  Until more accurate methods are 
+available, the Brick Industry Association feels that acceptable strength and deformation characteristics can be achieved 
+by one or more of the following measures:  1) Reduce or eliminate lateral mechanical play in adjustable tie systems.  
+Limit the total mechanical play to 1/16 in. (1.6 mm), see Fig. 13.  2) Reduce or eliminate adjustment eccentricity in 
+adjustable tie systems. This can be accomplished by installing ties as facing wythes are constructed or by using starter 
+courses or ledges when facing wythes are constructed over masonry backing.  3) Eliminate possible disengagement of 
+adjustable ties by providing positive vertical movement limitations.  4) Provide additional ties within 8 in. (200 mm) of 
+openings and discontinuities, i.e., windows, shelf angles, vertical expansion joints, etc. 5) Do not specify ties with 
+formed drips.  Testing has shown that drips can reduce the ultimate buckling load by approximately 50 percent.  6) 
+Space ties as shown in Table 1, based on the tie system and wall system.  7) Specify stiff ties.  This can be 
+accomplished by specifying ties with maximum deflections of less than 0.05 in. (1.2 mm) when tested at an axial load of 
+100 lb in tension or compression.  When adjustable ties are specified, the deflection limit should be satisfied at the 
+eccentricity expected in the field.  See Table 2 for minimum tie gage and diameter recommendations.  8) Select an 
+appropriate tie system for the wall system (see Table 3).  Many of these recommendations have been incorporated in 
+the MSJC Code. 
+
+ 
+  
+ 
+ 
+         
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+         
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+  
+TABLE 1 
+Tie Spacing Requirements1,2 
+1. 
+Masonry laid in running bond. Consult applicable building code for special bond patters such as stack bond. 
+2. 
+Based on the requirements in the 2002 MSJC Code. 
+3. 
+Maximum allowable distance between inside face of veneer and framing material, per MSJC Code, unless noted otherwise. 
+TABLE 2 
+Required Tie Sizes1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1 Based on the requirements in the 2002 MSJC Code. 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1See Table 1 for spacing; Table 2 for sizes and gages; Table 5 for corrosion protection. 
+Corrosion 
+General. Awareness of possible corrosion problems in metal-tied masonry walls has increased due to corrosion 
+damage found on reinforcement in concrete highway pavements, bridge decks and some masonry structures.  The 
+potential for corrosion problems in masonry has increased as construction and design philosophies have changed and 
+as environmental conditions have changed over the last decades.  These changes include use of thinner masonry walls 
+and masonry veneers that are more susceptible to water penetration, increases in atmospheric pollutants, use of 
+accelerators containing calcium chloride, increased use of insulated cavities (resulting in the relocation of the dew point 
+within the wall section) and combinations of different metals in brick veneer wall systems.  This list is not all-inclusive; 
+corrosion potential can also be affected by the function of a structure, geographic location, compatibility of construction 
+materials, detailing and workmanship. 
+Corrosion Protection. In order to provide corrosion protection, environmental factors must be controlled or metals 
+used in construction must be protected.  Conventional corrosion protection methods attempt to protect metals 
+embedded in masonry by isolating them with impervious coatings (barrier protection), by using metals that are 
+corrosion-resistant, or by providing cathodic protection in which one metal becomes sacrificial to protect another. 
+Galvanizing — Galvanizing (zinc-coating) provides resistance to corrosion by two methods.  First, the zinc coating 
+acts as a barrier shielding the underlying steel from corrosive action. Second, it acts as a sacrificial element that is 
+consumed before the base steel is attacked.  This sacrificial nature protects the base steel at scratches and 
+discontinuities in the zinc coating caused by fabrication, handling or installation, until most of the adjacent zinc coating is 
+consumed.  Studies have shown that the protective value of zinc coating is proportional to its thickness.  Thus, for 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+  
+longer periods of protection, a thicker zinc coating is required. Also, when the protective zinc coating is depleted, the 
+corrosion of the base steel will progress as if no galvanizing were present. 
+Two methods of galvanizing are used to protect metal masonry ties:  mill galvanizing and hot-dip galvanizing.  Mill 
+galvanizing takes place after steel wire or sheets have been processed to their specified dimensions and prior to 
+fabrication of the tie.  During the mill galvanizing process, zinc can be applied in a variety of thicknesses, as shown in 
+Table 4.  Hot-dip galvanizing is performed by dipping completely fabricated assemblies into molten zinc until a specified 
+amount of zinc is bonded to the base metal.  Hot-dip galvanized coatings are typically thicker than mill galvanized 
+coatings and therefore, provide longer periods of protection. 
+TABLE 4 
+Coating Requirements 
+1 
+Class B — Rolled, pressed or forged articles. 
+B-1: 3/16 in. (4.8 mm) and over in thickness and over 15 in. (381 mm) in length 
+B-2: Under 3/16 in. (4.8 mm) in thickness and over 15 in. (381 mm) in length. 
+B-3: Any thickness and 15 in. (381 mm) and under in length. 
+Stainless Steel - Stainless steel ties are often specified for use in very corrosive environments. Stainless steel 
+ties are specified under ASTM A 240 or A 580 and are generally made from one of the austenitic stainless steels. 
+Stainless steel resists corrosion well; however, if in contact with carbon steel, a galvanic cell can result and 
+actually increase the potential for corrosion. For this reason, combining stainless steel ties or screws with carbon 
+steel or galvanized steel components is not recommended. 
+Fusion-Bonded Epoxy — Epoxy coating is the newest process used to provide corrosion protection for metal ties.  
+The process has been adapted from epoxy-coated reinforcement bars used successfully in concrete systems with 
+severe environmental exposures.  Epoxy coating provides protection by acting as an impervious barrier.  The epoxy 
+coating is bonded to the base steel by a heat-induced chemical reaction through which a chemical and mechanical 
+bond is formed.  The combination of the two types of adhesion helps to prevent cracking of the coating due to handling, 
+installation or stress reversals.  The epoxy coating is not sacrificial like zinc; therefore, nicks and voids in the coating 
+can lead to corrosion of the base steel.  Epoxy coatings for joint reinforcement should meet the requirements of ASTM 
+A 884, Class A, Type 1 - 7 mils.  Epoxy coatings for wire ties and anchors are specified in ASTM A 899, Class C - 20 
+mils.  Sheet metal ties and anchors should be coated with 20 mils of epoxy per surface or per manufacturer's 
+specification. 
+Recommendations. The past performance of metal ties in regard to corrosion has generally been satisfactory.  The 
+American Galvanizers Association has developed a Zinc Coating Life Predictor program that provides an estimate of 
+service life for zinc coating in an exposed environment.  This does not specifically address performance of ties in 
+masonry walls.  Until research can produce accurate methods of assessing corrosion potential and predicting adequate 
+levels of protection, the Brick Industry Association suggests minimum levels of corrosion protection for metal ties and 
+hardware as indicated in Table 5.  As with all other engineering considerations minimum recommendations may not be 
+adequate in every situation, and should not serve as substitutes for engineering investigation or judgment.  Decisions 
+must be based on individual project conditions, performance requirements and safety. 
+TABLE 5 
+Recommended Minimum Corrosion Protection 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+SUMMARY 
+This Technical Notes is the third in a series addressing brick masonry anchor bolts, fasteners and wall ties.  It is 
+primarily concerned with the types of wall ties commonly used in brick masonry construction, their function, selection, 
+specification and installation.  Other Technical Notes in this series individually address anchor bolts and fasteners for 
+brick masonry. 
+The information and suggestions contained in this Technical Notes are based on the available data and the experience 
+of the engineering staff of the Brick Industry Association.  The information contained herein must be used in conjunction 
+with good technical judgment and a basic understanding of the properties of brick masonry.  Final decisions on the use 
+of the information contained in this Technical Notes are not within the purview of the Brick Industry Association and 
+must rest with the project architect, engineer and owner. 
+REFERENCES 
+1. DeVekey, R.C., ''Corrosion of Steel Wall Ties: Recognition, Assessment and Appropriate Action”, Building Research 
+Establishment Information Paper, IP 28/79, Building Research Establishment, Garston, Watford, England, October 
+1979. 
+2. Fishburn, C.C., ''Water Permeability of Walls Built of Masonry Units”, Report BMS 82, National Bureau of 
+Standards, Department of Commerce, Washington, D.C., April 1942. 
+3. Allen, M. H., Research Report No. 10, “Compressive and Transverse Strength Tests of Eight-Inch Brick Walls”, 
+Structural Clay Products Research Foundation, Geneva, Illinois, October 1966. 
+4. Allen, M.H., Research Report No. 14, “Compressive Strength of Eight-Inch Brick Walls with Different Percentages of 
+Steel Ties and Masonry Headers”, Structural Clay Products Research Foundation, Geneva, Illinois, May 1969. 
+5. Bortz, S.A., “Investigation of Continuous Metal Ties as a Replacement for Brick Ties in Masonry Walls”, Summary 
+Report ARF 6620, Armour Research Foundation, Chicago, Illinois, June 1960. 
+6. ”Investigation of Masonry Wall Ties”, ARF Project B870-2 (Revised), Armour Research Foundation, Chicago, 
+Illinois, December 1962. 
+7. ''Flexural Strength of Cavity Walls”, ARF Project B870, Armour Research Foundation, Chicago, Illinois, March 1963. 
+8. Brown, R.H. and Elling, R.E., ''Lateral Load Distribution in Cavity Walls”, Proceedings of the Fifth International Brick 
+Masonry Conference, Washington, D.C., October 1979. 
+9. Bell, G.R. and Gumpertz, W.H., ''Engineering Evaluation of Brick Veneer/Steel Stud Walls, Part 2 —Structural 
+Design, Structural Behavior and Durability”, Proceedings of the Third North American Masonry Conference, 
+Arlington, Texas, June 1985. 
+10. Arumala, J.O. and Brown, R.H., ''Performance of Brick Veneer With Steel Stud Backup”, Clemson University, 
+Clemson, South Carolina, April 1982. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+   
+ 
+  
+ 
+11. ''Development of Adjustable Wall Ties”, ARF Project No. B869, Armour Research Foundation, Chicago, Illinois, 
+March 1963. 
+12. Catani, Mario J., ''Protection of Embedded Steel in Masonry”, The Construction Specifier, January 1985. 
+13. Catani, Mario J. and Whitlock, A. Rhett, ''Coping With Wide Cavities”, The Construction Specifier, August 1986. 
+14. Zhang, X. Gregory, Zinc Coating Life Predictor, The International Lead Zinc Research Organization, published online at 
+http://zclp.galvanizeit.org:8180/zclp/index.html, 2002. 

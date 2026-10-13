@@ -1,0 +1,1913 @@
+Geotechnical Design Manual  M 46-03.16	
+Page 9-1 
+February 2022
+Chapter 9	
+Embankments
+9-1	
+Overview and Data Needed
+This chapter addresses the design and construction of rock embankments, bridge 
+approach embankments, earth embankments, and light weight fills. Static loading as well 
+as seismic loading conditions are covered, though for a more detailed assessment of 
+seismic loading on embankment performance, see Chapter 6. The primary geotechnical 
+issues that impact embankment performance are overall stability, internal stability, 
+settlement, materials, and construction.
+For the purposes of this chapter embankments include the following:
+•	 Rock embankments, defined as fills in which the material in all or any part of an 
+embankment contains 25 percent or more, by volume, gravel or stone 4 inches or 
+more in diameter.
+•	 Bridge approach embankments, defined as fill beneath a bridge structure and 
+extending 100 feet beyond a structure’s end at subgrade elevation for the full 
+embankment width, plus an access ramp on a 10H:1V slope from subgrade down 
+to the original ground elevation. The bridge approach embankment also includes 
+any embankment that replaces unsuitable foundation soil beneath the bridge 
+approach embankment.
+•	 Earth embankments are fills that are not classified as rock or bridge approach 
+embankments, but that are constructed out of soil.
+•	 Lightweight fills contain lightweight fill or recycled materials as a significant portion 
+of the embankment volume, and the embankment construction is usually by special 
+provision. Lightweight fills are most often used as a portion of the bridge approach 
+embankment to mitigate settlement or in landslide repairs to reestablish roadways.
+9-1.1	
+Site Reconnaissance
+General requirements for site reconnaissance are given in Chapter 2.
+The key geotechnical issues for design and construction of embankments include stability 
+and settlement of the underlying soils, the impact of the stability and settlement on 
+the construction staging and time requirements, and the impact to adjacent and nearby 
+structures, such as buildings, bridge foundations, and utilities. Therefore, the geotechnical 
+designer should perform a detailed site reconnaissance of the proposed construction. 
+This should include a detailed site review outside the proposed embankment footprint 
+in addition to within the embankment footprint. This reconnaissance should extend at 
+least two to three times the width of the embankment on either side of the embankment 
+and to the top or bottom of slopes adjacent to the embankment. Furthermore, areas 
+below proposed embankments should be fully explored if any existing landslide activity 
+is suspected.
+
+Chapter 9	
+Embankments
+Page 9-2	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+9-1.2	
+Field Exploration and Laboratory Testing Requirements
+General requirements for the development of the field exploration and laboratory testing 
+plans are provided in Chapter 2. The expected project requirements and subsurface 
+conditions should be analyzed to determine the type and quantity of information to be 
+obtained during the geotechnical investigation. During this phase it is necessary to:
+•	 Identify performance criteria (e.g. allowable settlement, time available for 
+construction, seismic design requirements, etc.).
+•	 Identify potential geologic hazards, areas of concern (e.g. soft soils), and potential 
+variability of local geology.
+•	 Identify engineering analyses to be performed (e.g. limit equilibrium slope stability 
+analyses, liquefaction susceptibility, lateral spreading/slope stability deformations, 
+settlement evaluations).
+•	 Identify engineering properties required for these analyses.
+•	 Determine methods to obtain parameters and assess the validity of such methods for 
+the material type.
+•	 Determine the number of tests/samples needed and appropriate locations for them.
+The goal of the site characterization for embankment design and construction is to 
+develop the subsurface profile and soil property information needed for stability and 
+settlement analyses. Soil parameters generally required for embankment design include:
+•	 Total stress and effective stress strength parameters;
+•	 Unit weight;
+•	 Compression indexes (primary, secondary and recompression); and
+•	 Coefficient of consolidation).
+Table 9-1 provides a summary of site characterization needs and field and laboratory 
+testing considerations for embankment design.
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-3 
+February 2022
+Table 9-1	
+Summary of Information Needs and Testing Considerations for Embankments 
+(Adapted From Sabatini, Et Al ., 2002)
+Geotechnical 
+Issues
+Engineering Evaluations
+Required Information 
+for Analyses
+Field Testing
+Laboratory Testing
+Embankments 
+and 
+Embankment 
+Foundations
+•	settlement 
+(magnitude & rate)
+•	bearing capacity 
+•	slope stability 
+•	lateral pressure
+•	internal stability
+•	borrow source 
+evaluation (available 
+quantity and quality 
+of borrow soil)
+•	required 
+reinforcement
+•	liquefaction
+•	delineation of soft 
+soil deposits
+•	potential for 
+subsidence (karst, 
+mining, etc.)
+•	constructability
+•	subsurface profile
+•	(soil, ground water, 
+rock)
+•	compressibility 
+parameters
+•	shear strength
+•	parameters unit 
+weights
+•	time-rate
+•	consolidation 
+parameters
+•	horizontal
+•	earth pressure
+•	coefficients
+•	interface friction 
+parameters
+•	pullout resistance 
+geologic mapping
+•	including
+•	orientation and
+•	characteristics of rock 
+discontinuities
+•	shrink/swell/
+•	degradation of soil
+•	and rock fill
+•	nuclear density
+•	plate load test
+•	test fill
+•	CPT (w/ pore 
+pressure 
+measurement) 
+•	SPT
+•	PMT
+•	dilatometer 
+•	vane shear
+•	rock coring (RQD)
+•	geophysical testing
+•	piezometers 
+•	settlement plates 
+•	slope inclinometers
+•	1-D Oedometer
+•	triaxial tests
+•	unconfined 
+compression
+•	direct shear tests
+•	grain size distribution
+•	Atterberg Limits
+•	specific gravity 
+•	organic content
+•	moisture-density 
+relationship
+•	hydraulic conductivity
+•	geosynthetic/soil 
+testing
+•	shrink/swell
+•	slake durability
+•	unit weight
+•	relative density
+9-1.3	
+Soil Sampling and Stratigraphy
+The size, complexity and extent of the soil sampling program will depend primarily on the 
+type, height and size of embankment project as well as the expected soil conditions.
+Generally, embankments 10 feet or less in height, constructed over average to good soil 
+conditions (e.g., non-liquefiable, medium dense to very dense sand, silt or gravel, with no 
+signs of previous instability) will require only a basic level of site investigation. A geologic 
+site reconnaissance (see Chapter 2), combined with widely spaced test pits, hand holes, 
+or a few shallow borings to verify field observations and the anticipated site geology may 
+be sufficient, especially if the geology of the area is well known, or if there is some prior 
+experience in the area.
+For larger embankments, or for any embankment to be placed over soft or potentially 
+unstable ground, geotechnical explorations should in general be spaced no more than 
+500 feet apart for uniform conditions. In non-uniform soil conditions, spacing should be 
+decreased to 100 to 300 foot intervals with at least one boring in each major landform or 
+geologic unit. A key to the establishment of exploration frequency for embankments is the 
+potential for the subsurface conditions to impact the construction of the embankment, 
+
+Chapter 9	
+Embankments
+Page 9-4	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+the construction contract in general, and the long-term performance of the finished 
+project. The exploration program should be developed and conducted in a manner that 
+these potential problems, in terms of cost, time, and performance, are reduced to an 
+acceptable level. The boring frequency described above may need to be adjusted by the 
+geotechnical designer to address the risk of such problems for the specific project.
+All embankments over 10 feet in height, embankments over soft soils, or those that 
+could impact adjacent structures (bridge abutments, buildings etc.), will generally require 
+geotechnical borings for the design. The more critical areas for stability of a large 
+embankment are between the top and bottom of the slopes. This is where base stability 
+is of most concern and where a majority of the borings should be located, particularly 
+if the near-surface soils are expected to consist of soft fine-grained deposits. At critical 
+locations, (e.g., maximum embankment heights, maximum depths of soft strata), a 
+minimum of two exploration points in the transverse direction to define the existing 
+subsurface conditions for stability analyses should be obtained. More exploration points 
+to define the subsurface stratigraphy, including the conditions within and below existing 
+fill, may be necessary for very large fills or very erratic soil conditions.
+Embankment widening projects will require careful consideration of exploration locations. 
+Borings near the toe of the existing fill are needed to evaluate the present condition of 
+the underlying soils, particularly if the soils are fine-grained.
+In addition, borings through the existing fill into the underlying consolidated soft soil, or, 
+if overexcavation of the soft soil had been done during the initial fill construction, borings 
+to define the extent of removal, should be obtained to define conditions below the 
+existing fill.
+In some cases, the stability and/or durability of the existing embankment fill may be 
+questionable because the fill materials are suspect or because slope instability in the 
+form of raveling, downslope lobes, or slope failures have been observed during the site 
+reconnaissance phase. Some embankments constructed of material that is susceptible 
+to accelerated weathering may require additional borings through the core of the 
+embankment to sample and test the present condition of the existing fill.
+Borings are also needed near existing or planned structures that could be impacted by 
+new fill placement. Soil sampling and testing will be useful for evaluating the potential 
+settlement of the existing structure foundations as the new fill is placed.
+The depth of borings, test pits, and hand holes will generally be determined by the 
+expected soil conditions and the depth of influence of the new embankment. Explorations 
+will need to be sufficiently deep to penetrate through surficial problem soils such as loose 
+sand, soft silt and clay and organic materials, and at least 10 feet into competent soil 
+conditions. In general, all geotechnical borings should be drilled to a minimum depth of 
+twice the planned embankment height.
+Understanding of the underlying soil conditions requires appropriate sampling intervals 
+and methods. As for most engineering problems, testing for strength and compression 
+in fine-grained soils requires the need for undisturbed samples. The SPT is useful in 
+cohesionless soil where it is not practical or possible to obtain undisturbed samples for 
+laboratory engineering tests. SPT sampling is recommended at wet sand sites where 
+liquefaction is a key engineering concern.
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-5 
+February 2022
+On larger projects, cone penetration test (CPT) probes can be used to supplement 
+conventional borings. Besides being significantly less expensive, CPT probes allow the 
+nearly continuous evaluation of soil properties with depth. They can detect thin layers 
+of soil, such as a sand lens in clay that would greatly reduce consolidation time that may 
+be missed in a conventional boring. In addition, CPT probes can measure pore pressure 
+dissipation responses, which can be used to evaluate relative soil permeability and 
+consolidation rates. Because there are no samples obtained, CPT probes shall be used 
+in conjunction with a standard boring program. Smaller projects that require only a few 
+borings generally do not warrant an integrated CPT/boring field program.
+9-1.4	
+Groundwater
+At least one piezometer should be installed in borings drilled in each major fill zone where 
+stability analysis will be required and groundwater is anticipated. Water levels measured 
+during drilling are often not adequate for performing stability analysis.
+This is particularly true where drilling is in fine-grained soils that can take many days or 
+more for the water level to equalize after drilling (see Chapter 2). Even in more permeable 
+coarse grained soils, the drilling mud used to drill the boring can obscure detection of 
+the groundwater level. Notwithstanding, water levels should be recorded during drilling 
+in all borings or test pits. Information regarding the time and date of the reading and any 
+fluctuations that might be seen during drilling should be included on the field logs.
+For embankment widening projects, piezometers are generally more useful in borings 
+located at or near the toe of an existing embankment, rather than in the fill itself. 
+Exceptions are when the existing fill is along a hillside or if seepage is present on the face 
+of the embankment slope.
+The groundwater levels should be monitored periodically to provide useful information 
+regarding variation in levels over time. This can be important when evaluating base 
+stability, consolidation settlement or liquefaction. As a minimum, the monitoring should 
+be accomplished several times during the wet season (October through April) to assess 
+the likely highest groundwater levels that could affect engineering analyses.
+If practical, a series of year-round readings taken at 1 to 2 month intervals should be 
+accomplished in all piezometers.
+The location of the groundwater table is particularly important during stability and 
+settlement analyses. High groundwater tables result in lower effective stress in the soil 
+affecting both the shear strength characteristics or the soil and its consolidation behavior 
+under loading. The geotechnical designer should identify the location of the groundwater 
+table and determine the range in seasonal fluctuation.
+If there is a potential for a significant groundwater gradient beneath an embankment 
+or surface water levels are significantly higher on one side of the embankment than the 
+other, the effect of reduced soil strength caused by water seepage should be evaluated. 
+In this case, more than one piezometer should be installed to estimate the gradient. Also, 
+seepage effects must be considered when an embankment is placed on or near the top of 
+a slope that has known or potential seepage through it. A flow net or a computer model 
+(such as MODFLOW) may be used to estimate seepage velocity and forces in the soil. 
+This information may then be used into the stability analysis to model pore pressures.
+
+Chapter 9	
+Embankments
+Page 9-6	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+9-2	
+Design Considerations
+9-2.1	
+Typical Embankment Materials and Compaction
+General instructions for embankment construction are discussed in the WSDOT 
+Construction Manual Section 2.3.3, and specific construction specifications for 
+embankment construction are provided in WSDOT Construction Specifications Section 
+2-03. The geotechnical designer should determine during the exploration program if any 
+of the material from planned earthwork will be suitable for embankment construction (see 
+Chapter 10). Consideration should be given to whether the material is moisture sensitive 
+and difficult to compact during wet weather.
+9-2.1.1	
+Rock Embankments
+The WSDOT Standard Specifications define rock embankment as “all or any part of an 
+embankment in which the material contains 25 percent or more by volume of gravel 
+or stone 4 inches or greater in diameter.” Compaction tests cannot be applied to 
+coarse material with any degree of accuracy; therefore, a given amount of compactive 
+effort is specified for rock embankments, as described in Standard Specifications 
+Section 2-03.3(14)A.
+Special consideration should be given to the type of material that will be used in rock 
+embankments. In some areas of the state, moderately weathered or very soft rock may be 
+encountered in cuts and used as embankment fill. On projects located in southwestern 
+Washington, degradable fine grained sandstone and siltstone are often encountered 
+in the cuts. The use of this material in embankments can result in significant long term 
+settlement and stability problems as the rock degrades, unless properly compacted with 
+heavy tamping foot rollers (Machan, et al., 1989).
+The rock should be tested by the Washington Degradation Test (WSDOT Test Method 
+113) and the slake durability test (see Chapter 5) if there is suspicion that the geologic 
+nature of the rock source proposed indicates that poor durability rock is likely to be 
+encountered. When the rock is found to be non-durable, it should be physically broken 
+down and compacted as earth embankment provided the material meets or exceeds 
+common borrow requirements. Special compaction requirements may be needed for 
+these materials. In general, tamping foot rollers work best for breaking down the rock 
+fragments. The minimum size roller should be about 30 tons. Specifications should include 
+the maximum size of the rock fragments and maximum lift thickness. These requirements 
+will depend on the hardness of the rock, and a test section should be incorporated 
+into the contract to verify that the Contractor’s methods will achieve compaction and 
+successfully break down the material. In general, both the particle size and lift thickness 
+should be limited to 12 inches.
+9-2.1.2	
+Earth Embankments and Bridge Approach Embankments
+Three types of materials are commonly used in WSDOT earth embankments, including 
+common, select, and gravel borrow. Bridge approach embankments should be constructed 
+from select or gravel borrow, although common borrow may be used in the drier parts of 
+the State, provided it is not placed below a structure foundation or immediately behind an 
+abutment wall. Common borrow is not intended for use as foundation material beneath 
+structures or as wall backfill due to its tendency to be more compressible and due to its 
+poor drainage characteristics.
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-7 
+February 2022
+Requirements for common, select and gravel borrow are in Section 9-03.14 of the 
+WSDOT Standard Specifications. The suggested range of soil properties for each material 
+type to be used in design is discussed in Chapter 5. The common and select borrow 
+specifications are intended for use where it is not necessary to strictly control the 
+strength properties of the embankment material and where all weather construction is 
+not required.
+Procedures for constructing earth embankments are described in Section 
+2-03.3(14)B of the Standard Specifications. Compaction is specified in accordance 
+with Method A, Method B, or Method C. Method A consists of routing hauling equipment 
+over the embankment and is not normally used on WSDOT projects. Method B limits the 
+thickness of the lifts to 8 inches and requires that 90 percent of maximum dry density 
+be achieved in all but the upper 2 feet of the embankment. In the upper two feet of 
+the embankment the lift thickness is limited to 4 inches and the required compaction is 
+95 percent of maximum dry density. Method B is used on all embankments on WSDOT 
+projects unless another method is specified.
+Method C differs from Method B in that the entire embankment must be compacted to 
+95 percent of maximum dry density. Method C is required when the structural quality of 
+the embankment is essential. Method C is required in bridge approach embankments as 
+defined in Section 1-01.3 of the WSDOT Standard Specifications. Method C shall also be 
+required on any foundation material beneath structures.
+Because foundation stresses are transferred outward as well as downward into the 
+bearing soils, the limits of the foundation material should extend horizontally outward 
+from each edge of the footing a distance equal to the thickness of the fill below 
+the foundation.
+The maximum density and optimum moisture content for soil placed in earth 
+embankments are determined by testing in accordance with WSDOT Test Method 
+No. 606 (Method of Test for Compaction Control of Granular Materials) or AASHTO 
+T 99 Method A (standard Proctor) as prescribed in Section 2-03.3(14)D of the Standard 
+Specifications. Test method 606 is used if 30 percent or more of the material consists 
+of gravel size particles (retained on the No. 4 sieve).
+9-2.1.3	
+Fill Placement Below Water
+If material will be placed below the water table, material that does not require compaction 
+such as Quarry Spalls, Foundation Material Class B, Shoulder Ballast, or light loose rip rap 
+should specified. Once above the water table, other borrow materials should be used. 
+Quarry spalls and rip rap should be choked with Shoulder Ballast or Foundation Material 
+Class A or B before placement of borrow. Alternately, construction geosynthetic for soil 
+stabilization may be used to prevent migration of the finer borrow into the voids spaces of 
+the coarser underlying material.
+
+Chapter 9	
+Embankments
+Page 9-8	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+9-2.2	
+Embankments for Detention/Retention Facilities
+Embankments for detention/retention facilities impounding over 10 acre-feet of 
+water come under the jurisdiction of the Dam Safety Office (DSO) of the Washington 
+State Department of Ecology and shall be designed as a small dam in accordance with 
+DSO requirements.
+Embankments for detention/retention facilities impounding 10 acre feet of water or less 
+are not regulated by the DSO, but they should be designed using the DSO guidelines as 
+the basis for design. Unlined drainage facilities shall be analyzed for seepage and piping 
+through the embankment fill and underlying soils. Stability of the fill and underlying soils 
+subjected to seepage forces shall have a minimum safety factor of 1.5. Furthermore, the 
+minimum safety factor for piping stability analysis shall be 1.5.
+9-2.3	
+Stability Assessment
+In general, embankments 10 feet or less in height with 2H:1V or flatter side slopes, may 
+be designed based on past precedence and engineering judgment provided there are no 
+known problem soil conditions such as liquefiable sands, organic soils, soft/ loose soils, or 
+potentially unstable soils such as Seattle clay, estuarine deposits, or peat. Embankments 
+over 10 feet in height or any embankment on soft soils, in unstable areas/soils, or 
+those comprised of light weight fill require more in depth stability analyses, as do any 
+embankments with side slope inclinations steeper than 2H:1V.
+Moreover, any fill placed near or against a bridge abutment or foundation, or that can 
+impact a nearby buried or above-ground structure, will likewise require stability analyses 
+by the geotechnical designer. Slope stability analysis shall be conducted in accordance 
+with Chapter 7.
+Prior to the start of the stability analysis, the geotechnical designer should determine 
+key issues that need to be addressed. These include:
+•	 Is the site underlain by soft silt, clay or peat? If so, a staged stability analysis may 
+be required.
+•	 Are site constraints such that slopes steeper than 2H:1V are required? If so, a detailed 
+slope stability assessment is needed to evaluate the various alternatives.
+•	 Is the embankment temporary or permanent? Factors of safety for temporary 
+embankments may be lower than for permanent ones, depending on the site 
+conditions and the potential for variability.
+•	 Will the new embankment impact nearby structures or bridge abutments? If so, more 
+elaborate sampling, testing and analysis are required.
+•	 Are there potentially liquefiable soils at the site? If soil, seismic analysis to evaluate 
+this may be warranted (see Chapter 6) and ground improvement may be needed.
+Several methodologies for analyzing the stability of slopes are detailed or identified by 
+reference in Chapter 7 and are directly applicable to earth embankments.
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-9 
+February 2022
+9-2.3.1	
+Safety Factors
+Embankments that support structure foundations or walls or that could potentially impact 
+such structures should be designed in accordance with the AASHTO LRFD Bridge Design 
+Specifications and Chapters 8 and 15. If an LRFD design is required, a resistance factor is 
+used in lieu of a safety factor. However, since slope stability in the AASHTO LRFD Bridge 
+Design Specifications is assessed only for the service and extreme event (seismic) limit 
+states, the load factors are equal to 1.0, and the resistance factor is simply the inverse of 
+the factor of safety (i.e., 1/FS) that is calculated in most slope stability analysis procedures 
+and computer programs. The resistance factors and safety factors for overall stability 
+under static conditions are as follows:
+•	 All embankments not supporting or potentially impacting structures shall have a 
+minimum safety factor of 1.25.
+•	 Embankments supporting or potentially impacting non-critical structures shall have a 
+resistance factor for overall stability of 0.75 (i.e., a safety factor of 1.3).
+•	 All Bridge Approach Embankments and embankments supporting critical structures 
+shall have a resistance factor of 0.65 (i.e., a safety factor of 1.5). Critical structures are 
+those for which failure would result in a life threatening safety hazard for the public, 
+or for which failure and subsequent replacement or repair would be an intolerable 
+financial burden to the citizens of Washington State.
+Under seismic conditions, only those portions of the new embankment that could impact 
+an adjacent structure such as bridge abutments and foundations or nearby buildings 
+require seismic analyses and an adequate overall stability resistance factor (i.e., a 
+maximum resistance factor of 0.9 or a minimum factor of safety of 1.1). See Chapter 6 for 
+specific requirements regarding seismic design of embankments.
+9-2.3.2	
+Strength Parameters
+Strength parameters are required for any stability analysis. Strength parameters 
+appropriate for the different types of stability analyses shall be determined based on 
+Chapter 5 and by reference to FHWA Geotechnical Engineering Circular No. 5 (Sabatini, 
+et al., 2002).
+If the critical stability is under drained conditions, such as in sand or gravel, then effective 
+stress analysis using a peak friction angle is appropriate and should be used for stability 
+assessment. In the case of over-consolidated fine grained soils, a friction angle based on 
+residual strength may be appropriate. This is especially true for soils that exhibit strain 
+softening or are particularly sensitive to shear strain such as Seattle Clay.
+If the critical stability is under undrained conditions, such as in most clays and silts, a total 
+stress analysis using the undrained cohesion value with no friction is appropriate and 
+should be used for stability assessment.
+For staged construction, both short (undrained) and long term (drained) stability need 
+to be assessed. At the start of a stage the input strength parameter is the undrained 
+cohesion. The total shear strength of the fine-grained soil increases with time as the 
+excessive pore water dissipates, and friction starts to contribute to the strength. A more 
+detailed discussion regarding strength gain is presented in Section 9.3.1.
+
+Chapter 9	
+Embankments
+Page 9-10	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+9-2.4	
+Embankment Settlement Assessment
+New embankments, as is true of almost any new construction, will add load to the 
+underlying soils and cause those soils to settle. As discussed in Section 8.11.3.2, the 
+total settlement has up to three potential components: 1) immediate settlement, 2) 
+consolidation settlement, and 3) secondary compression.
+Settlement shall be assessed for all embankments. Even if the embankment has an 
+adequate overall stability factor of safety, the performance of a highway embankment can 
+be adversely affected by excessive differential settlement at the road surface.
+Settlement analyses for embankments over soft soils require the compression index 
+parameters for input. These parameters are typically obtained from standard one- 
+dimensional oedometer tests of the fine-grained soils (see Chapter 5 for additional 
+information). For granular soils, these parameters can be estimated empirically 
+(see Section 8.11.3.2). Oedometer tests should be completed to at least twice the 
+preconsolidation pressure with at least three, and preferably four, points on the virgin 
+consolidation curve (i.e., at stresses higher than the preconsolidation pressure). The 
+coefficient of consolidation value for the virgin curve can be ten times higher than that for 
+the test results below the preconsolidation pressure.
+9-2.4.1	
+Settlement Impacts
+Because primary consolidation and secondary compression can continue to occur long 
+after the embankment is constructed (post construction settlement), they represent the 
+major settlement concerns for embankment design and construction. Post construction 
+settlement can damage structures and utilities located within the embankment, especially 
+if those facilities are also supported by adjacent soils or foundations that do not settle 
+appreciably, leading to differential settlements. Embankment settlement near an 
+abutment could create an unwanted dip in the roadway surface, or downdrag and lateral 
+squeeze forces on the foundations. See Chapter 8 for more information regarding the 
+use of bridge approach slabs to minimize the effects of differential settlement at the 
+abutment, and the methodology to estimate downdrag loads on foundations.
+If the primary consolidation is allowed to occur prior to placing utilities or building 
+structures that would otherwise be impacted by the settlement, the impact is essentially 
+mitigated. However, it can take weeks to years for primary settlement to be essentially 
+complete, and significant secondary compression of organic soils can continue for 
+decades. Many construction projects cannot absorb the scheduling impacts associated 
+with waiting for primary consolidation and/or secondary compression to occur.
+Therefore, estimating the time rate of settlement is often as important as estimating the 
+magnitude of settlement.
+To establish the target settlement criteria, the tolerance of structures or utilities to 
+differential settlement that will be impacted by the embankment settlement shall 
+be determined. Lateral movement (i.e., lateral squeeze) caused by the embankment 
+settlement and its effect on adjacent structures, including light, overhead sign, and 
+signal foundations, shall also be considered. If structures or utilities are not impacted by 
+the embankment settlement, settlement criteria are likely governed by the long-term 
+maintenance needs of the roadway surfacing. In that case, the target settlement criteria 
+shall be established with consideration of the effect differential settlement will have on 
+the pavement life and surface smoothness.
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-11 
+February 2022
+9-2.4.2	
+Settlement Analysis
+9-2.4.2.1	
+Primary Consolidation
+The key parameters for evaluating the amount of settlement below an embankment 
+include knowledge of:
+•	 The subsurface profile including soil types, layering, groundwater level and 
+unit weights;
+•	 The compression indexes for primary, rebound and secondary compression from 
+laboratory test data, correlations from index properties, and results from settlement 
+monitoring programs completed for the site or nearby sites with similar soil 
+conditions. See Chapters 5 and 8 for additional information regarding selection of 
+design parameters for settlement analysis.
+•	 The geometry of the proposed fill embankment, including the unit weight of fill 
+materials and any long term surcharge loads.
+The detailed methodology to estimate primary consolidation settlement is provided in 
+Section 8.11.3.2, except that the stress distribution below the embankment should be 
+calculated as described in Section 9.2.4.3. The soil profile is typically divided into layers 
+for analysis, with each layer reflecting changes in soils properties. In addition, thick layers 
+with similar properties are often subdivided for refinement of the analysis since the 
+settlement calculations are based on the stress conditions at the midpoint of the layer 
+(i.e. it is typically preferable to evaluate a near-surface, 20-foot thick layer as two 10-foot 
+thick layers as opposed to one 20-foot thick layer). The total settlement is the sum of the 
+settlement from each of the compressible layers.
+If the pre-consolidation pressure of any of the soil layers being evaluated is greater 
+than its current initial effective vertical stress, the settlement will follow its rebound 
+compression curve rather than its virgin compression curve (represented by Cc). In this 
+case Crε, the recompression index, should be used instead of Ccε in Equation 8-8 up to 
+the point where the initial effective stress plus the change in effective stress imposed 
+by the embankment surpasses the pre-consolidation pressure. Pre-consolidation 
+pressures in excess of the current vertical effective stress occur in soils that have been 
+overconsolidated, such as from glacial loading, preloading, or desiccation.
+9-2.4.2.2	
+Secondary Compression
+For organic soils and highly plastic soils determined to have an appreciable secondary 
+settlement component, the secondary compression should be determined as described 
+in Section 8.11.3.2.2, Equation 8-13. Note the secondary compression is in general 
+independent of the stress state and theoretically is a function only of the secondary 
+compression index and time.
+Similar to estimating the total primary consolidation, the contribution from the individual 
+layers are summed to estimate the total secondary compression. Since secondary 
+compression is not a function of the stress state in the soil but rather how the soil breaks 
+down over time, techniques such as surcharging to pre-induce the secondary settlement 
+are sometimes only partially effective at mitigating the secondary compression. Often 
+the owner must accept the risks and maintenance costs associated with secondary 
+compression if a cost/benefit analysis indicates that mitigation techniques such as 
+using lightweight fills or overexcavating and replacing the highly compressible soils are 
+too costly.
+
+Chapter 9	
+Embankments
+Page 9-12	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+9-2.4.3	
+Stress Distribution
+One of the primary input parameters for settlement analysis is the increase in vertical 
+stress at the midpoint of the layer being evaluated caused by the embankment or other 
+imposed loads. It is generally quite conservative to assume the increase in vertical stress 
+at depth is equal to the bearing pressure exerted by the embankment at the ground 
+surface. In addition to the bearing pressure exerted at the ground surface, other factors 
+influencing the stress distribution at depth include the geometry (length and width) of the 
+embankment, inclination of the embankment side slopes, depth below the ground surface 
+to the layer being evaluated, and horizontal distance from the center of the load to the 
+point in question. Several methods are available to estimate the stress distribution.
+9-2.4.3.1	
+Simple 2V:1H Method
+Perhaps the simplest approach to estimate stress distribution at depth is using the 2V:1H 
+(vertical to horizontal) method. This empirical approach is based on the assumption that 
+the area the load acts over increases geometrically with depth as depicted in Figure 
+9-1. Since the same vertical load is spread over a much larger area at depth, the unit 
+stress decreases.
+Figure 9-1	
+2V:1H Method to Estimate Vertical Stress Increase as a Function of Depth 
+Below Ground (After Holtz and Kovacs, 1981)
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-13 
+February 2022
+9-2.4.3.2	
+Theory of Elasticity
+Boussinesq (1885) developed equations for evaluating the stress state in a homogenous, 
+isotropic, linearly elastic half-space for a point load acting perpendicular to the surface. 
+Elasticity based methods should be used to estimate the vertical stress increase in 
+subsurface strata due to an embankment loading, or embankment load in combination 
+with other surcharge loads. While most soils are not elastic materials, the theory of 
+elasticity is the most widely used methodology to estimate the stress distribution in a 
+soil deposit from a surface load. Most simplifying charts and the subroutines in programs 
+such as SAF-1 and EMBANK are based on the theory of elasticity. Some are based on 
+Boussinesq theory and some on Westergaard’s equations (Westegaard, 1938), which also 
+include Poisson’s ratio (relates the ratio of strain applied in one direction to strain induced 
+in an orthogonal direction).
+9-2.4.3.3	
+Empirical Charts
+The equations for the theory of elasticity have been incorporated into design charts and 
+tables for typical loading scenarios, such as below a foundation or an embankment.
+Almost all foundation engineering textbooks include these charts. For convenience, charts 
+to evaluate embankment loading are included as Figures 9-2 and 9-3.
+Figure 9-2 	
+Influence Factors for Vertical Stress Under a Very Long Embankment 
+(After NAVFAC, 1971 as Reported in Holtz and Kovacs, 1981)
+
+Chapter 9	
+Embankments
+Page 9-14	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+Figure 9-3 	
+Influence Values for Vertical Stress Under the Corners of a Triangular 
+Load of Limited Length (after NAVFAC, 1971 as reported in Holtz and 
+Kovacs, 1981) 
+9-2.4.3.4	
+Rate of Settlement
+The time rate of primary consolidation is typically estimated using equations based on 
+Terzaghi’s one-dimensional consolidation theory. The time rate of primary consolidation 
+shall be estimated as described in Section 8.11.3.2.
+The value of Cv should be determined from the laboratory test results, piezocone testing, 
+and/or back-calculation from settlement monitoring data obtained at the site or from a 
+nearby site with similar geologic and soil conditions.
+The length of the drainage path is perhaps the most critical parameter because the 
+time to achieve a certain percentage of consolidation is a function of the square of the 
+drainage path length. This is where incorporating CPTs into the exploration program can 
+be beneficial, as they provide a nearly continuous evaluation of the soil profile, including 
+thin sand layers that can easily be missed in a typical boring exploration program. The thin 
+sand lenses can significantly reduce the drainage path length.
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-15 
+February 2022
+It is important to note some of the assumptions used by Terzaghi’s theory to understand 
+some of its limitations. The theory assumes small strains such that the coefficient of 
+compressibility of the soil and the coefficient of permeability remain essentially constant. 
+The theory also assumes there is no secondary compression. Both of these assumptions 
+are not completely valid for extremely compressible soils such as organic deposits and 
+some clays. Therefore, considerable judgment is required to when using Terzaghi’s theory 
+to evaluate the time rate of settlement for these types of soil. In these instances, or 
+when the consolidation process is very long, it may be beneficial to complete a preload 
+test at the site with sufficient monitoring to assess both the magnitude and time rate of 
+settlement for the site.
+9-2.4.4	
+Analytical Tools
+The primary consolidation and secondary settlement can be calculated by hand or by 
+using computer programs such as SAF-1 (Prototype Engineering Inc., 1993) or EMBANK 
+(FHWA, 1993). Alternatively, spreadsheet solutions can be easily developed. The 
+advantage of computer programs such as SAF-1 and EMBANK are that multiple runs can 
+be made quickly, and they include subroutines to estimate the increased vertical effective 
+stress caused by the embankment or other loading conditions.
+9-3	
+Stability Mitigation
+A variety of techniques are available to mitigate inadequate slope stability for new 
+embankments or embankment widenings. These techniques include staged construction 
+to allow for the underlying soils to gain strength, base reinforcement, ground 
+improvement, use of lightweight fill, and construction of toe berms and shear keys. A 
+summary of these instability mitigation techniques is presented below along with the key 
+design considerations.
+9-3.1	
+Staged Construction
+Where soft compressible soils are present below a new embankment location and it is not 
+economical to remove and replace these soils with compacted fill, the embankment can 
+be constructed in stages to allow the strength of the compressible soils to increase under 
+the weight of new fill. Construction of the second and subsequent stages commences 
+when the strength of the compressible soils is sufficient to maintain stability. In order 
+to define the allowable height of fill for each stage and maximum rate of construction, 
+detailed geotechnical analysis is required. This analysis typically requires consolidated 
+undrained (CU), consolidated drained (CD) or consolidated undrained with pore pressure 
+measurements (CUp), and initial undrained (UU) shear strength parameters for the 
+foundation soils along with the at-rest earth pressure coefficient (Ko), soil unit weights, 
+and the coefficient of consolidation (Cv).
+The analysis to define the height of fill placed during each stage and the rate at which 
+the fill is placed is typically completed using a limit equilibrium slope stability program 
+along with time rate of settlement analysis to estimate the percent consolidation required 
+for stability. Alternatively, numerical modeling programs, such as FLAC and PLAXIS, can 
+be used to assess staged construction, subject to the approval of the WSDOT State 
+Geotechnical Engineer. Numerical modeling has some advantages over limit equilibrium 
+approaches in that both the consolidation and stability can be evaluated concurrently. 
+The disadvantages of numerical modeling include the lack of available field verification of 
+
+Chapter 9	
+Embankments
+Page 9-16	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+modeling results, and most geotechnical engineers are more familiar with limit equilibrium 
+approaches than numerical modeling. The accuracy of the input parameters can be critical 
+to the accuracy of numerical approaches. Steps for using a limit equilibrium approach to 
+evaluate staged construction are presented below.
+For staged construction, two general approaches to assessing the criteria used during 
+construction to control the rate of embankment fill placement to allow the necessary 
+strength gain to occur in the soft subsoils are available. The two approaches are total 
+stress analysis and effective stress analysis:
+•	 For the total stress approach, the rate of embankment construction is controlled 
+through development of a schedule of maximum fill lift heights and intermediate fill 
+construction delay periods. During these delay periods the fill lift that was placed is 
+allowed to settle until an adequate amount of consolidation of the soft subsoil can 
+occur. Once the desired amount of consolidation has occurs, placement of the next 
+lift of fill can begin. These maximum fill lift thicknesses and intermediate delay periods 
+are estimated during design. For this approach, field measurements such as the rate 
+of settlement or the rate of pore pressure decrease should be obtained to verify that 
+the design assumptions regarding rate of consolidation are correct. However, if only 
+a small amount of consolidation is required (e.g., 20 to 40% consolidation), it may not 
+be feasible to determine of the desired amount of consolidation has occurred, since 
+the rate of consolidation may still be on the linear portion of the curve at this point. 
+Another approach may be to determine if the magnitude of settlement expected at 
+that stage, considering the degree of consolidation desired, has been achieved. In 
+either case, some judgment will need to be applied when interpreting such data and 
+deciding whether or not to reduce or extend the estimated delay period during fill 
+construction.
+•	 For the effective stress approach, the pore pressure increase beneath the 
+embankment in the soft subsoil is monitored and used to control the rate of 
+embankment construction. During construction, the pore pressure increase is not 
+allowed to exceed a critical amount to insure embankment stability. The critical 
+amount is generally controlled in the contract by use of the pore pressure ratio (ru), 
+which is the ratio of pore pressure to total overburden stress. To accomplish this 
+pore pressure measurement, pore pressure transducers are typically located at key 
+locations beneath the embankment to capture the pore pressure increase caused by 
+consolidation stress. As is true of the total stress approach, some judgment will need 
+to be applied when interpreting such data and deciding whether or not to reduce or 
+extend the estimated delay period during fill construction, as the estimate of the key 
+parameters may vary from the actual values of the key parameters in the field. Also, 
+this approach may not be feasible if the soil contains a high percentage of organic 
+material and trapped gases, causing the pore pressure readings to be too high and not 
+drop off as consolidation occurs.
+Since both approaches have limitations and uncertainties, it is generally desirable to 
+analyze the embankment using both approaches, to have available a backup plan to 
+control the rate of fill placement, if the field data proves difficult to interpret.
+Furthermore, if the effective stress method is used, a total stress analysis should in 
+general always be conducted to obtain an estimate of the time required to build the fill for 
+contract bidding purposes.
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-17 
+February 2022
+Detailed procedures for both approaches are provided in the sections that follow. These 
+procedures have been developed based on information provided in Ladd (1991), Symons 
+(1976), Skempton and Bishop (1955), R. D. Holtz (personal communication, 1993), S. 
+Sharma (personal communication, 1993), and R. Cheney (personal communication, 1993). 
+Examples of the application of these procedures are provided in Appendix 9-A.
+9-3.1.1	
+Design Parameters
+First, define the problem in terms of embankment geometry, soil stratigraphy, and water 
+table information.
+The geotechnical designer must make some basic assumptions regarding the fill 
+properties. Typically, the designer assumes presumptive values for the embankment fill, 
+since the specific source of the fill material is usually not known at the time of design. 
+However, specialized soils laboratory tests should be performed for the soft underlying 
+soils. From undisturbed samples, the geotechnical designer should obtain Unconsolidated 
+Undrained (UU) triaxial tests and Consolidated Undrained (CU) triaxial tests with pore 
+pressure measurements. These tests should be used to determine the initial undrained 
+shear strength available. The CU test with pore pressure measurements should also 
+be used to determine the shear strength envelope needed for total or effective stress 
+analyses. In addition, the geotechnical designer should obtain consolidation test data to 
+determine compressibility of the soft underlying soils as well as the rate of consolidation 
+for the compressible strata (Cv). Cv will be an important parameter for determining the 
+amount of time required during consolidation to gain the soil shear strength needed.
+In general triaxial tests should be performed at the initial confining stress (Po’) for the 
+sample as determined from the unit weight and the depth that the sample was obtained.
+Po’ = Dγ’	
+(9-1)
+Where:
+D	
+=	 Sample Depth in feet
+γ’	
+=	 Effective Unit Weight (pcf)
+The third point in the triaxial test is usually performed at 4Po’. During the triaxial testing it 
+is important to monitor pore pressure to determine the pore pressure parameters A and 
+B. Note that A and B are not constant but change with the stress path of the soil. These 
+parameters are defined as follows:
+A = ΔU /Δσ1	
+(9-2)
+B = ΔU /Δσ3	
+(9-3)
+9-3.1.2	
+In-Situ Shear Strength and Determination of Stability Assuming 
+Undrained Loading
+The first step in any embankment design over soft cohesive soils is to assess its stability 
+assuming undrained conditions throughout the entire fill construction period. If the 
+stability of the embankment is adequate assuming undrained conditions, there is no need 
+to perform a staged construction design. The UU shear strength data, as well as the initial 
+shear strength from CU tests, can be used for this assessment.
+The geotechnical designer should be aware that sample disturbance can result in incorrect 
+values of strength for normally consolidated fine grained soils. Figure 9-4 shows how to 
+correctly obtain the cohesive strength for short term, undrained loading.
+
+Chapter 9	
+Embankments
+Page 9-18	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+Figure 9-4	
+Determination of Short Term Cohesive Shear Strength From the CU 
+Envelope
+When a normally consolidated sample is obtained, the initial effective stress (PO’) and 
+void ratio correspond to position 1 on the e - Log P curve shown in Figure 9-4. As the 
+stress changes, the sample will undergo some rebound effects and will move towards 
+point 2 on the e – Log P curve. Generally, when a UU test is performed, the sample state 
+corresponds to position 2 on the e – Log P curve. Samples that are reconsolidated to 
+the initial effective stress (PO’) during CU testing undergo a void ratio change and will 
+generally be at point 3 on the e – Log P curve after reconsolidation to the initial effective 
+stress. It is generally assumed that consolidating the sample to 4 times the initial effective 
+stress prior to testing will result in the sample closely approximating the field “virgin” 
+curve behavior.
+To determine the correct shear strength for analysis, perform a CU triaxial test at the 
+initial effective stress (PO’) and as close as practical to 4PO’. On the Mohr diagram draw 
+a line from the ordinate to point 4, and draw a second line from PO’ to point 3. Where 
+the two lines intersect, draw a line to the shear stress axis to estimate the correct shear 
+strength for analysis. In Figure 9-4, the cohesion intercept for the CU strength envelope 
+(solid line) is 150 psf. The corrected strength based on the construction procedure in 
+Figure 9-4 would be 160 psf. While the difference is slight in this example, it may be 
+significant for other projects.
+Once the correct shear strength data has been obtained, the embankment stability can be 
+assessed. If the embankment stability is inadequate, proceed to performing a total stress 
+or effective stress analysis, or both.
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-19 
+February 2022
+9-3.1.3	
+Total Stress Analysis
+The CU triaxial test is ideally suited to staged fill construction analysis when considering 
+undrained strengths. A CU test is simply a series of UU tests performed at different 
+confining pressures. In the staged construction technique, each embankment stage 
+is placed under undrained conditions (i.e., “U” conditions). Then the soil beneath the 
+embankment stage is allowed to consolidate under drained conditions, which allows the 
+pore pressure to dissipate and the soil strength to increase (i.e., “C” conditions).
+In most cases, the CU envelope cannot be used directly to determine the strength 
+increase due to the consolidation stress placed on the weak subsoil. The stress increase 
+from the embankment fill is a consolidation stress, not necessarily the normal stress 
+on potential failure planes in the soft soil, and with staged construction excess pore 
+pressures due to overburden increases are allowed to partially dissipate. Figure 9-5 
+illustrates how to determine the correct strength due to consolidation and partial pore 
+pressure dissipation.
+Figure 9-5	
+Consolidated Strength Construction From Triaxial Data
+To correct φcu for the effects of consolidation use the following (see Ladd, 1991):
+af/σ’c = tan φconsol	
+(9-4)
+tan φconsol = sin φcu/(1-sin φcu)	
+(9-5)
+Determine the strength gain (ΔCuu) by multiplying the consolidation stress increase (Δσv) 
+by the tangent of φconsol. The consolidation stress increase is the increased effective stress 
+in the soft subsoil caused by the embankment fill.
+ΔCuu = Δσvtanφconsol	
+(9-6)
+
+Chapter 9	
+Embankments
+Page 9-20	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+This is an undrained strength and it is based on 100% consolidation. When constructing 
+embankments over soft ground using staged construction practices, it is often not 
+practical to allow each stage to consolidate to 100%. Therefore, the strengths used in the 
+stability analysis need to be adjusted for the consolidation stress applied and the degree 
+of consolidation achieved in the soft soils within the delay period between fill stages. The 
+strength at any degree of consolidation can be estimated using:
+Cuuu% = Cuui + U(Cuu) = Cuui + UΔσvtanφconsol	
+(9-7)
+The consolidation is dependent upon the time (t), drainage path length (H), coefficient of 
+consolidation (Cv), and the Time Factor (T). From Holtz and Kovacs (1981), the following 
+approximation equations are presented for consolidation theory:
+T = tCv/H2	
+(9-8)
+Where:
+T = 0.25πU2; for U < 60%	
+(9-9)
+and,
+T = 1.781 – 0.933log(100 –U%); for U > 60%	
+(9-10)
+The geotechnical designer should use these equations along with specific construction 
+delay periods (t) to determine how much consolidation occurs by inputting a time (t), 
+calculating a Time Factor (T), and then using the Time Factor (T) to estimate the degree of 
+consolidation (U).
+Once all of the design parameters are available, the first step in a total stress staged fill 
+construction analysis is to use the initial undrained shear strength of the soft subsoil 
+to determine the maximum height to which the fill can be built without causing the 
+slope stability safety factor to drop below the critical value. See Section 9.3.1.1.2 for 
+determination of the undrained shear strength needed for this initial analysis.
+In no case shall the interim factor of safety at any stage in the fill construction be allowed 
+to drop below 1.15. A higher critical value should be used (i.e., 1.2 or 1.25) if uncertainty 
+in the parameters is high, or if the soft subsoil is highly organic. At the end of the final 
+stage, determine the time required to achieve enough consolidation to obtain the 
+minimum long-term safety factor (or resistance factor if structures are involved) required, 
+as specified in Section 9.2.3.1. This final consolidation time will determine at what point 
+the embankment is considered to have adequate long-term stability such that final paving 
+(assuming that long-term settlement has been reduced during that time period to an 
+acceptable level) and other final construction activities can be completed. In general, this 
+final consolidation/strength gain period should be on the order of a few months or less.
+Once the maximum safe initial fill stage height is determined, calculate the stress increase 
+resulting from the placement of the first embankment stage using the Boussinesq 
+equation (e.g., see Figures 9-2 and 9-3). Note that because the stress increase due to the 
+embankment load decreases with depth, the strength gain also decreases with depth. To 
+properly account for this, the soft subsoil should be broken up into layers for analysis just 
+as is done for calculating settlement. Furthermore, the stress increase decreases as one 
+moves toward the toe of the embankment. Therefore, the soft subsoil may need to be 
+broken up into vertical sections as well.
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-21 
+February 2022
+Determine the strength gain in each layer/section of soft subsoil by multiplying the 
+consolidation stress increase by the tangent of φconsol (see Equation 9-6), where φconsol is 
+determined as shown in Figure 9-5 and Equation 9-5. This will be an undrained strength. 
+Multiply this UU strength by the percent consolidation that has occurred beneath the 
+embankment up to the point in time selected for the fill stage analysis using Equations 
+9-7, 9-8, and 9-9 or 9-10. This will be the strength increase that has occurred up to 
+that point in time. Add to this the UU soil strength existing before placement of the 
+first embankment stage to obtain the total UU strength existing after the selected 
+consolidation period is complete. Then perform a slope stability analysis to determine 
+how much additional fill can be added with consideration to the new consolidated shear 
+strength to obtain the minimum acceptable interim factor of safety.
+Once the second embankment stage is placed, calculation of the percent consolidation 
+and the strength gain gets more complicated, as the stress increase due to the new fill 
+placed is just starting the consolidation process, while the soft subsoil has already had 
+time to react to the stress increase due to the previous fill stage. Furthermore, the soft 
+subsoil will still be consolidating under the weight of the earlier fill stage.
+This is illustrated in Figure 9-6. For simplicity, a weighted average of the percent 
+consolidation that has occurred for each stage up to the point in time in question should 
+be used to determine the average percent consolidation of the subsoil due to the total 
+weight of the fill.
+Continue this calculation process until the fill is full height. It is generally best to choose 
+as small a fill height and delay period increment as practical, as the conservatism in 
+the consolidation time estimate increases as the fill height and delay time increment 
+increases. Typical fill height increments range from 2 to 4 feet, and delay period 
+increments range from 10 to 30 days.
+
+Chapter 9	
+Embankments
+Page 9-22	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+Figure 9-6 	
+Concepts Regarding the Percent Consolidation Resulting From Placement 
+of Multiple Fill Stages
+Time
+0
+100
+% Consolidation
+Consolidation of soil due to
+second stage load P2 during
+second stage consolidation period.
+Consolidation of soil due to
+first stage load P1 during second
+stage consolidation period.
+Consolidation of soil due to first stage load P1
+during first stage consolidation period.
+P1
+P2
+Void Ratio, e
+(decreasing)
+Log σ
+Increasing
+% consolidation
+e0
+U1
+U2
+U3
+U4
+Begin consolidation at P1
+Load P2 added
+Consolidation at P2
+Last stage 
+fill placed
+FS = 1.25 obtained
+v
+(increasing)
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-23 
+February 2022
+9-3.1.4	
+Effective Stress Analysis
+In this approach, the drained soil strength, or φCD, is used to characterize the 
+strength of the subsoil. Of course, the use of this soil strength will likely indicate that 
+the embankment is stable, whereas the UU strength data would indicate that the 
+embankment is unstable (in this example). It is the buildup of pore pressure during 
+embankment placement that causes the embankment to become unstable. The amount of 
+pore pressure buildup is dependent on how rapidly the embankment load is placed. Given 
+enough time, the pore pressure buildup will dissipate and the soil will regain its effective 
+strength, depending on the permeability and compressibility of the soil.
+The key to this approach is to determine the amount of pore pressure buildup that can 
+be tolerated before the embankment safety factor drops to a critical level, using φCD 
+for the soil strength and conducting a slope stability analysis (see Chapter 7). A slope 
+stability computer program such as XSTABL can be used to determine the critical pore 
+pressure increase directly. This pore pressure increase can then be used to determine 
+the pore pressure ratio, ru, which is often used to compare with in-situ pore pressure 
+measurements. The pore pressure ratio, ru, is defined as shown in Figure 9-7.
+Figure 9-7	
+Pore Pressure Ratio Concepts
+For XSTABL, the critical pore pressure increase is input into the program as a “pore 
+pressure constant” for each defined soil unit in the soil property input menu of the 
+program. This pore pressure is in addition to the pore pressure created by the static 
+water table. Therefore, a water table should also be included in the analysis. Other slope 
+stability programs have similar pore pressure features that can be utilized.
+To determine the pore pressure increase in the soft subsoil to be input into the stability 
+analysis, calculate the vertical stress increase created by the embankment at the original 
+ground surface, for the embankment height at the construction stage being considered. 
+
+Chapter 9	
+Embankments
+Page 9-24	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+Based on this, determine the vertical stress increase, Δσv, using the Boussinesq stress 
+distribution (e.g., Figures 9-2 and 9-3), at various depths below the ground surface, and 
+distances horizontally from the embankment centerline, in each soil unit which pore 
+pressure buildup is expected (i.e., the soft silt or clay strata which are causing the stability 
+problem). Based on this, and using Ko, the at rest earth pressure coefficient, to estimate 
+the horizontal stress caused by the vertical stress increase, determine the pore pressure 
+increase, Δup, based on the calculated vertical stress increase, Δσv, as follows:
+Δup = B(Δσoct + aΔτoct)(1-U)	
+(9-11)
+The octahedral consolidation stress increase at the point in question, Δσoct. is determined 
+as follows:
+Δσoct. = (Δσ1 + Δσ2 + Δσ3)/3 = (Δσv + K0Δσv + K0Δσv)/3 = (1 + 2K0)Δσv/3	
+(9-12)
+Where:
+B	
+=	 pore pressure parameter which is dependent on the degree of saturation and the 
+compressibility of the soil skeleton. B is approximately equal to 1.0 for saturated 
+normally consolidated silts and clays.
+Δσoct	 =	 the change in octahedral consolidation stress at the point in the soil stratum in 
+question due to the embankment loading,
+a	
+=	 Henkel pore pressure parameter that reflects the pore pressure increase during 
+shearing. “a” is typically small and can be neglected unless right at failure. If necessary, 
+“a” can be determined from triaxial tests and plotted as a function of strain or deviator 
+stress to check if neglecting “a” is an acceptable assumption.
+Δτoct	 =	 the change in octahedral shear stress at the point in the soil stratum in question due to 
+the embankment loading,
+U	
+=	 the percent consolidation, expressed as a decimal, under the embankment load in 
+question.
+Δτoct = [(Δσ1 - Δσ2)2 + (Δσ2 - Δσ3)2 + (Δσ3 - Δσ1)2]½	
+(9-13)
+In terms of vertical stress, before failure, this equation simplifies to:
+Δτoct = 1.414Δσv(1 – K0)	
+(9-14)
+In this analysis, since only consolidation stresses are assumed to govern pore pressure 
+increase, and strength gain as pore pressure dissipates (i.e., the calculation method is set 
+up to not allow failure to occur), it can be assumed that “a” is equal to zero.
+Therefore, Equation 9-11 simplifies to:
+Δup = B[(1 + 2K0)/3]Δσv(1-U)	
+(9-15)
+where, K0 = 1 - sin φCD for normally consolidated silts and clays.
+Estimate the slope stability factor of safety, determining Δup at various percent 
+consolidations (i.e., iterate) to determine the maximum value of Δup that does not 
+cause the slope stability interim safety factor to drop below the critical value (see 
+Section 9.3.1.3).
+Now determine ru as follows:
+ru = Δup/Δσv. = B[(1 + 2K0)/3]Δσv(1-U)/Δσv = B[(1 + 2K4)/3](1-U)	
+(9-16)
+The pore pressures measured by the piezometers in the field during embankment 
+construction are the result of vertical consolidation stresses only (Boussinesq distribution). 
+Most experts on this subject feel that pore pressure increase due to undrained shearing 
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-25 
+February 2022
+along the potential failure surface does not occur until failure is actually in progress and 
+may be highly localized at the failure surface. Because of this, it is highly unlikely that one 
+will be able to measure pore pressure increase due to shearing along the failure surface 
+using piezometers installed below the embankment unless one is lucky enough to have 
+installed a piezometer in the right location and happens to be taking a reading as the 
+embankment is failing.
+Therefore, the pore pressure increase measured by the piezometers will be strictly due to 
+consolidation stresses.
+Note that ru will vary depending on the embankment height analyzed. ru will be lowest 
+at the maximum embankment height, and will be highest at the initial stages of fill 
+construction. Therefore, ru should be determined at several embankment heights.
+9-3.2	
+Base reinforcement
+Base reinforcement may be used to increase the factor of safety against slope failure. 
+Base reinforcement typically consists of placing a geotextile or geogrid at the base of an 
+embankment prior to constructing the embankment. Base reinforcement is particularly 
+effective where soft/weak soils are present below a planned embankment location. The 
+base reinforcement can be designed for either temporary or permanent applications. 
+Most base reinforcement applications are temporary, in that the reinforcement is needed 
+only until the underlying soil’s shear strength has increased sufficiently as a result of 
+consolidation under the weight of the embankment (see Section 9.3.1). Therefore, the 
+base reinforcement does not need to meet the same design requirements as permanent 
+base reinforcement regarding creep and durability.
+For example, if it is anticipated that the soil will gain adequate strength to meet stability 
+requirements without the base reinforcement within 6 months, then the creep reduction 
+factor determined per WSDOT Standard Practice T925 could be based on, say, a 
+minimum 1 year life, assuming deformation design requirements are met. Other than this, 
+only installation damage would need to be addressed, unless unusual chemical conditions 
+exist that could cause rapid strength degradation. Alternatively, the values of Tal provided 
+in the WSDOT Qualified Products List (QPL) could be used, but will be conservative 
+for this application. However, if it is anticipated that the soil will never gain enough 
+strength to cause the embankment to have the desired level of stability without the 
+base reinforcement, the long-term design strengths provided in the QPL or as otherwise 
+determined using T925 for a minimum 75 year life shall be used.
+The design of base reinforcement is similar to the design of a reinforced slope in that limit 
+equilibrium slope stability methods are used to determine the strength required to obtain 
+the desired safety factor (see Chapter 15). The detailed design procedures provided by 
+Holtz, et al. (1995) should be used for embankments utilizing base reinforcement.
+Base reinforcement materials should be placed in continuous longitudinal strips in 
+the direction of main reinforcement. Joints between pieces of geotextile or geogrid in 
+the strength direction (perpendicular to the slope) should be avoided. All seams in the 
+geotextiles should be sewn and not lapped. Likewise, geogrids should be linked with 
+mechanical fasteners or pins and not simply overlapped. Where base reinforcement 
+is used, the use of gravel borrow, instead of common or select borrow, may also be 
+appropriate in order to increase the embankment shear strength.
+
+Chapter 9	
+Embankments
+Page 9-26	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+9-3.3	
+Ground Improvement
+Ground improvement can be used to mitigate inadequate slope stability for both new and 
+existing embankments, as well as reduce settlement. The primary ground improvement 
+techniques to mitigate slope stability fall into two general categories, namely densification 
+and altering the soil composition. Chapter 11 Ground Improvement, should be reviewed 
+for a more detailed discussion and key references regarding the advantages and 
+disadvantages of these techniques, applicability for the prevailing subsurface conditions, 
+construction considerations, and costs. In addition to the two general categories of 
+ground improvement identified above, wick drains (discussed in Chapter 11 and Section 
+9.4.1) may be used in combination with staged embankment construction to accelerate 
+strength gain and improve stability, in addition to accelerating long-term settlement. The 
+wick drains in effect drastically reduce the drainage path length, thereby accelerating the 
+rate of strength gain. Other ground improvement techniques such as stone columns can 
+function to accelerate strength gain in the same way as wick drains, though the stone 
+columns also reduce the stress applied to the soil, thereby reducing the total strength gain 
+obtained. See Chapter 11 for additional guidance and references to use if this technique is 
+to be implemented.
+9-3.4	
+Light Weight Fills
+Lightweight embankment fill is another means of improving embankment stability. 
+Lightweight fills are generally used for two conditions: the reduction of the driving 
+forces contributing to instability, and reduction of potential settlement resulting from 
+consolidation of compressible foundation soils. Situations where lightweight fill may be 
+appropriate include conditions where the construction schedule does not allow the use of 
+staged construction, where existing utilities or adjacent structures are present that cannot 
+tolerate the magnitude of settlement induced by placement of typical fill, and at locations 
+where post-construction settlements may be excessive under conventional fills.
+Lightweight fill can consist of a variety of materials including polystyrene blocks 
+(geofoam), light weight aggregates (rhyolite, expanded shale, blast furnace slag, fly ash), 
+wood fiber, shredded rubber tires, and other materials. Lightweight fills are infrequently 
+used due to either high costs or other disadvantages with using these materials.
+9-3.4.1	
+Geofoam 
+Geofoam is approximately 1/100th the weight of conventional soil fill (typically with a 
+unit weight of 1 to 3 pcf) and, as a result, is particularly effective at reducing driving 
+forces or settlement potential. Typical geofoam embankments consist of the foundation 
+soils, the geofoam fill, and a pavement system designed to transfer loads to the geofoam. 
+Geofoam dissolves readily in gasoline and other organic fluids/vapors and therefore 
+must be encapsulated where such fluids can potentially reach the geofoam. Other design 
+considerations for geofoam include creep, flammability, buoyancy, moisture absorption, 
+photo-degradation, and differential icing of pavement constructed over geofoam. 
+Furthermore, geofoam should not be used where the water table could rise and cause 
+buoyancy problems, as geofaom will float. Design guidelines for geofoam embankments 
+are provided in the NCHRP document titled Geofoam Applications in the Design and 
+Construction of Highway Embankments (Stark et al., 2004). Additional information on the 
+design properties and testing requirements are provided in Chapter 5.
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-27 
+February 2022
+9-3.4.2	
+Light Weight Aggregates
+Mineral aggregates, such as expanded shales, rhyolite, fly ash, or blast furnace slags, can 
+also be used as lightweight fill materials. Expanded shales and rhyolite materials consist 
+of inert mineral aggregates that have similar shear strengths to many conventional fill 
+materials, but weigh roughly 50 to 70 pcf. The primary disadvantage with expanded 
+shales and rhyolite is that these materials are expensive. Fly ash can also be used for 
+lightweight fill; however, fly ash is difficult to place and properly control the moisture 
+condition. Blast furnace slag is another waste material sometimes used for lightweight 
+fill. Due to the weight of blast furnace slag, it is not as effective as other lightweight fill 
+materials. Also, slag materials have been documented to swell when hydrated, potentially 
+damaging improvements founded above the slag. The chemical composition of fly ash 
+and blast furnace slag should be investigated to confirm that high levels of contaminants 
+are not present. Due to the potential durability and chemical issues associated with some 
+light weight aggregates, approval from the State Geotechnical Engineer is required before 
+such materials may be considered for use in embankments.
+9-3.4.3	
+Wood Fiber
+Wood fibers may also be used for lightweight fill. For permanent applications, only fresh 
+wood fiber should be used to prolong the life of the fill. Wood fiber fills typically have 
+unit weights between about 35 to 55 pcf. To mitigate the effects of leachate, the amount 
+of water entering the wood should be minimized. Wood fiber fill will experience creep 
+settlement for several years and some pavement distress should be expected during that 
+period. See Chapter 5 for more information regarding wood fiber fills.
+9-3.4.4	
+Scrap (Rubber) Tires
+In 1996, a moratorium on the use of scrap tires as embankment fill was put into effect 
+due to several instances where the tire fills caught fire due to some type of exothermic 
+reaction which has yet to be fully defined. A report to the Washington State legislature 
+was published in 2003 to address whether or not, and under what circumstances, the 
+moratorium on the use of scrap tires as fill should be lifted (Baker, et al., 2003). Based 
+on that report, scrap tire fills up to 10 feet in thickness may be considered, provided that 
+they are designed and specified as described in Baker, et al. (2003).
+9-3.4.5	
+Light Weight Cellular Concrete
+Large quantities of air can be entrained into concrete to produce a very light weight 
+porous concrete, commonly referred to as cellular concrete, that can be poured in place 
+of soil to reduce the driving force to improve stability or reduce settlement. Typical range 
+of unit weights is from 25 to 65 pcf, and relative to soil, its shear strength is fairly high. 
+Actual compressive strengths averaging 100 psi are expected for the 27-30 pcf density, 
+the most commonly used density of cellular concrete. However, if significant differential 
+settlement is still anticipated in spite of the use of the light weight concrete, due to its 
+relatively brittle nature, the concrete could crack, losing much of its shear strength at the 
+crack. This should be considered if using light weight cellular concrete.
+If a unit weight of under 30 pcf is specified, placement technique can cause the bubbles 
+in the concrete, which gives the cellular concrete its reduced unit weight, to collapse 
+under its self-weight, resulting in concrete shrinkage and higher unit weight. To prevent 
+
+Chapter 9	
+Embankments
+Page 9-28	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+this, the concrete should be placed in lifts that are 2 ft or less if the unit weight is greater 
+than 30 pcf, and pours limited to about one hour at a time. If the specified unit weight is 
+under 25 pcf, it is difficult to maintain consistency and quality, to prevent the concrete 
+from collapsing on itself during construction, or collapsing in the long-term if exposed to 
+water passing through the porous concrete. To ensure consistency and quality of the final, 
+as cured, product, a Class III light weight cellular concrete with a minimum unit weight of 
+30 pcf and a minimum compressive strength of 80 psi shall be used. For smaller, lower 
+height, light weight cellular concrete fills, Class II light weight cellular concrete with a 
+minimum unit weight of 25 pcf and minimum compressive strength of 40 psi, installed 
+using a maximum lift thickness of 2 ft pours limited to about 1 hour at a time, may be 
+considered, subject to approval by the State Geotechnical Engineer.
+9-3.4.6	
+Toe Berms and Shear keys
+Toe berms and shear keys are each methods to improve the stability of an embankment 
+by increasing the resistance along potential failure surfaces. Toe berms are typically 
+constructed of granular materials that can be placed quickly, do not require much 
+compaction, but have relatively high shear strength. As implied by the name, toe berms 
+are constructed near the toe of the embankment slopes where stability is a concern. The 
+toe berms are often inclined flatter than the fill embankment side slopes, but the berm 
+itself should be checked for stability. The use of berms may increase the magnitude of 
+settlements as a consequence of the increased size of the loaded area. Toe berms increase 
+the shearing resistance by:
+•	 Adding weight, and thus increasing the shear resistance of granular soils below the toe 
+area of the embankment;
+•	 Adding high strength materials for additional resistance along potential failure 
+surfaces that pass through the toe berm; and
+•	 Creating a longer failure surface, thus more shear resistance, as the failure surface 
+now must pass below the toe berm if it does not pass through the berm.
+Shear keys function in a manner similar to toe berms, except instead of being adjacent 
+to and incorporating the toe of the fill embankment, the shear key is placed under the fill 
+embankment—frequently below the toe of the embankment. Shear keys are best suited 
+to conditions where they key can be embedded into a stronger underlying formation. 
+Shear keys typically range from 5 to 15 feet in width and extend 4 to 10 feet below the 
+ground surface. They are typically backfilled with quarry spalls or similar materials that are 
+relatively easy to place below the groundwater level, require minimal compaction, but still 
+have high internal shear strength. Like toe berms, shear keys improve the stability of the 
+embankment by forcing the potential failure surface through the strong shear key material 
+or along a much longer path below the shear key.
+9-4	
+Settlement Mitigation
+9-4.1	
+Acceleration Using Wick Drains
+Wick drains, or prefabricated drains, are in essence vertical drainage paths that can be 
+installed into compressible soils to decrease the overall time required for completion of 
+primary consolidation. Wick drains typically consist of a long plastic core surrounded 
+by a geotextile. The geotextile functions as a separator and a filter to keep holes in the 
+plastic core from being plugged by the adjacent soil, and the plastic core provides a means 
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-29 
+February 2022
+for the excess pore water pressures to dissipate. A drainage blanket is typically placed 
+across the ground surface prior to installing the wick drains and provides a drainage path 
+beneath the embankment for water flowing from the wick drains.
+The drains are typically band-shaped (rectangular) measuring a few inches wide in plan 
+dimension. They are attached to a mandrel and are usually driven/pushed into place using 
+either static or vibratory force. After the wick drains are installed, the fill embankment and 
+possibly surcharge fill are placed above the drainage blanket.
+A key consideration for the use of wick drains is the site conditions. If obstructions 
+or a very dense or stiff soil layer is located above the compressible layer, pre-drilling 
+may be necessary. The use of wick drains to depths over about 60 feet require 
+specialized equipment.
+The primary function of a wick drain is to reduce the drainage path in a thick 
+compressible soil deposit. As noted in Section 9.3.3, a significant factor controlling the 
+time rate of settlement is the length of the drainage path. Since the time required for 
+a given percentage consolidation completion is related to the square of the drainage 
+path, cutting the drainage path in half would reduce the consolidation time to one-
+fourth the initial time, all other parameters held constant. However, the process of 
+installing the wick drains creates a smear zone that can impede the drainage. The 
+key design issue is maximizing the efficiency of the spacing of the drains, and one 
+of the primary construction issues is minimizing the smear zone around the drains. 
+A full description of wick drains, design considerations, example designs, guideline 
+specifications, and installation considerations are provided by reference in Chapter 11. 
+Section 2-03.3(14)H of the WSDOT Standard Specifications addresses installation of 
+prefabricated vertical drains.
+9-4.2	
+Acceleration Using Surcharges
+Surcharge loads are additional loads placed on the fill embankment above and beyond 
+the design height. The primary purpose of a surcharge is to speed up the consolidation 
+process. The surcharges speed up the consolidation process because the percentage of 
+consolidation required under a surcharge will be less than the complete consolidation 
+under the design load. As noted previously, it is customary to assume consolidation 
+is essentially complete at the theoretical 90% completion stage, where T = 0.848. In 
+comparison, T = 0.197 for 50% consolidation. Therefore it takes less than one-fourth 
+the time to achieve an average of 50% consolidation in a soil layer than it does to 
+achieve 90%. In this example, the objective would be to place a surcharge sufficiently 
+large such that 50% of the total settlement estimated from the fill embankment and the 
+surcharge is equal to or greater than 100 percent of the settlement estimated under the 
+fill embankment alone at its design height. Based on previous experience, the surcharge 
+fill needs to be at least one-third the design height of the embankment to provide any 
+significant time savings.
+In addition to decreasing the time to reach the target settlement, surcharges can also be 
+used to reduce the impact of secondary settlement. Similar to the example presented 
+above, the intent is to use the surcharge to pre-induce the settlement estimated to occur 
+from primary consolidation and secondary compression due to the embankment load. For 
+example, if the estimated primary consolidation under an embankment is 18 inches and 
+secondary compression is estimated at an additional 6 inches over the next 25 years, then 
+
+Chapter 9	
+Embankments
+Page 9-30	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+the surcharge would be designed to achieve 24 inches of settlement or greater under 
+primary consolidation only. The principles of the design of surcharges to mitigate long-
+term settlement provided by Cotton, et al. (1987) should be followed.
+Using a surcharge typically will not completely eliminate secondary compression, but it 
+has been successfully used to reduce the magnitude of secondary settlement. However, 
+for highly organic soils or peats where secondary compression is expected to be high, 
+the success of a surcharge to reduce secondary compression may be quite limited. Other 
+more positive means may be needed to address the secondary compression in this case, 
+such as removal.
+Two significant design and construction considerations for using surcharges include 
+embankment stability and re-use of the additional fill materials. New fill embankments 
+over soft soils can result in stability problems as discussed in Section 9.3. Adding 
+additional surcharge fill would only exacerbate the stability problem. Furthermore, after 
+the settlement objectives have been met, the surcharge will need to be removed. If the 
+surcharge material cannot be moved to another part of the project site for use as site fill 
+or as another surcharge, it often not economical to bring the extra surcharge fill to the site 
+only to haul it away again. Also, when fill soils must be handled multiple times (such as 
+with a “rolling” surcharge), it is advantageous to use gravel borrow to reduce workability 
+issues during wet weather conditions.
+9-4.3	
+Lightweight Fills
+Lightweight fills can also be used to mitigate settlement issues as indicated in Section 
+9.3.4. Lightweight fills reduce the new loads imposed on the underlying compressible 
+soils, thereby reducing the magnitude of the settlement. See Chapter 5 and Section 9.3.4 
+for additional information on light weight fill.
+9-4.4	
+Over-excavation
+Over-excavation simply refers to excavating the soft compressible soils from below 
+the embankment footprint and replacing these materials with higher quality, less 
+compressible soil. Because of the high costs associated with excavating and disposing 
+of unsuitable soils as well as the difficulties associated with excavating below the water 
+table, over-excavation and replacement typically only makes economic sense under 
+certain conditions. Some of these conditions include, but are not limited to:
+•	 The area requiring overexcavation is limited;
+•	 The unsuitable soils are near the ground surface and do not extend very deep 
+(typically, even in the most favorable of construction conditions, over-excavation 
+depths greater than about 10 feet are in general not economical);
+•	 Temporary shoring and dewatering are not required to support or facilitate the 
+excavation;
+•	 The unsuitable soils can be wasted on site; and
+•	 Suitable excess fill materials are readily available to replace the over-excavated 
+unsuitable soils.
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-31 
+February 2022
+9-5	
+Construction Considerations and PS&E Development
+Consideration should be given to the time of year that construction will likely occur.
+If unsuitable soil was encountered during the field investigation, the depth and station 
+limits for removal should be provided on the plans. Chapter 530 of the WSDOT Design 
+Manual provides guidance for the use of geotextile for separation or soil stabilization (see 
+also Chapter 16). Note that for extremely soft and wet soil, a site specific design should 
+be performed for the geotextile.
+Hillside Terracing is specified in Section 2-03.3(14) of the WSDOT Standard Specifications. 
+Where embankments are built on existing hillsides or existing embankment slopes, the 
+existing surface soil may form a plane of weakness unless the slope is terraced or stepped. 
+Terracing breaks up the plane, increasing the strength of the entire system. Generally 
+slopes that are 3H:1V or steeper should be terraced to improve stability. However there 
+may be specific cases where terracing may be waived during design, such as when the 
+existing slope is steeper than 1H:1V and benching would destabilize the existing slope.
+The compaction requirements in the WSDOT Standard Specifications apply to the entire 
+embankment, including near the sloping face of the embankment.
+For embankment slopes of 2H:1V or steeper, depending on the embankment soil 
+properties, getting good compaction out to the embankment face can be difficult to 
+achieve, and possibly even unsafe for those operating the compaction equipment. 
+The consequences of poor compaction at the sloping face of the embankment include 
+increased risk of erosion and even surficial slope instability. This issue becomes especially 
+problematic as the embankment slope steepness approaches 1.5H:1V. Surficial stability of 
+embankments (See Chapter 7) should be evaluated during design for embankment slopes 
+of 2H:1V or steeper. The embankment design shall include the use of techniques that will 
+improve embankment face slope stability for embankment slopes steeper than 1.7H:1V, 
+and should consider the use of such techniques for slopes of 2H:1V or steeper.
+Approaches typically used to address compaction and surficial stability of embankment 
+slopes include:
+•	 Over-build the embankment laterally at the slope face approximately 2 feet, compact 
+the soil, and then trim off the outer 2 feet of the embankment to produce a well 
+compacted slope face.
+•	 Use strips of geosynthetic placed in horizontal layers at the slope face as a 
+compaction and surficial stability aid (see Elias, et al., 2001). The strips should 
+generally be a minimum of 4 feet wide (horizontally into the slope) and spaced 
+vertically at 1 to 1.5 feet (1.5 feet maximum). The specific reinforcement width 
+and vertical spacing will depend on the soil type. The reinforcement strength 
+required depends on the coarseness and angularity of the backfill material and the 
+susceptibility of the geosynthetic to damage during placement and compaction. See 
+Elias, et al. (2001) for specific guidance on the design of geosynthetic layers as a 
+compaction and surficial stability aid.
+Even if good compaction can be obtained using one of these techniques, the potential 
+for erosion and surficial instability should be addressed through appropriate use of slope 
+vegetation techniques such as seeding and mulching, temporary or permanent turf 
+reinforcement mats, or for deeper surficial stability problems, bioengineering. Note that 
+
+Chapter 9	
+Embankments
+Page 9-32	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+if geosynthetic layers are placed in the soil as a compaction aid or to improve overall 
+embankment slope stability, the typical practice of cultivating the upper 1 feet of the soil 
+per the WSDOT Standard Specifications, Section 8-02, should not be conducted. Instead, 
+the landscape architect who is developing the slope vegetation plan should consult with 
+the HQ Geotechnical Division to insure that the slope vegetation plan (either per the 
+WSDOT Standard Specifications or any special provisions developed) does not conflict 
+with the slope geosynthetic reinforcement and the need for good compaction out to the 
+slope face.
+9-5.1	
+Settlement and Pore Pressure Monitoring
+If settlement is expected to continue after embankment construction, some type of 
+monitoring program should be provided. Settlement should be monitored, if post 
+construction settlement will affect pavement performance or a settlement sensitive 
+structure will be constructed on the embankment. The type of monitoring will depend on 
+the magnitude and time frame of the settlement. For many monitoring programs, use of 
+survey hubs or monuments and routine surveying methods are adequate. These methods 
+are commonly used if paving should be delayed until embankment settlement is nearly 
+complete. The geotechnical report should include the time period that the settlement 
+should be monitored and the frequency of observations.
+Settlement estimates provided in the contract should be conservative. Therefore, if 
+another construction operation must be delayed until the settlement of the embankment 
+is nearly complete, the time estimate should be the longest length of time that is likely to 
+be necessary; then the contractor will not be delayed longer than anticipated.
+As discussed in Section 9.3.1, embankments constructed over soft ground may require 
+the use of staged construction to ensure the stability of the embankment. Geotechnical 
+instrumentation is a vital part of construction to monitor field performance and provide 
+information relevant to decisions regarding the rate of construction. The principal 
+parameters monitored during embankment construction are pore water pressure and 
+displacement, both vertical and lateral.
+As discussed previously, in relatively impermeable, soft, saturated soil, the applied load 
+from embankment construction increases the pore water pressure. With time, the excess 
+pore water pressure will dissipate and the shear strength will increase.
+It is important to measure the pore water pressure to determine when it is safe to 
+proceed with additional embankment construction. In such cases it is also useful to 
+measure vertical deformation to assist in the interpretation of the data to assess the rate 
+at which embankment construction should proceed.
+9-5.2	
+Instrumentation
+The following discussion of monitoring equipment typically used for embankment 
+construction monitoring provides an overview of the typical equipment available. 
+A more comprehensive discussion of monitoring techniques is available in Geotechnical 
+Instrumentation for Monitoring Field Performance (Dunnicliff, 1993) and Geotechnical 
+Instrumentation Reference Manual, NHI Course No. 13241 FHWA-HI-98-034 (Dunnicliff, 
+1998). Additional information on WSDOT policies regarding instrumentation installation 
+and standards is provided in Chapter 3.
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-33 
+February 2022
+9-5.2.1	
+Piezometers
+Three types of piezometers are commonly used to monitor embankment construction: 
+open standpipe, pneumatic and vibrating wire. Each type of piezometer has advantages 
+and disadvantages. The sections below describe the various piezometer types.
+Open Standpipe Piezometers – These piezometers are installed in a drilled borehole. 
+A porous zone or screen is installed in the soil layer of interest. For embankment 
+settlement purposes it is necessary to completely seal the porous zone against the inflow 
+of water from shallower zones. Open standpipe piezometers are relatively simple to install 
+and the water level readings are easy to obtain. However, standpipes may interfere with 
+or be damaged by construction activities and the response time for changes in water 
+pore pressure in low permeability soils is slow. This type of piezometer is generally not 
+very useful for monitoring the pore pressure increase and subsequent decrease due to 
+consolidation in staged construction applications.
+Pneumatic Piezometers – Pneumatic piezometers are usually installed in drilled boreholes 
+in a manner similar to standpipe piezometers, but they can be sealed so that increases 
+in pore water pressure result in a smaller volume change and a more rapid response 
+in instrument measurement. Pneumatic piezometers do not need open standpipes. 
+However, crimping or rupture of the tubes due to settlement of the embankment can 
+cause failure.
+Vibrating Wire Piezometers – Vibrating wire piezometers are usually installed in drilled 
+boreholes; although, models are available for pushing into place in soft soils. The 
+cables can be routed long distances and they are easily connected to automatic data 
+acquisition systems.
+9-5.2.2	
+Instrumentation for Settlement
+9-5.2.2.1	
+Settlement Plates
+Settlement plates are used to monitor settlement at the interface between native ground 
+and the overlying fill. They consist of a steel plate welded to a steel pipe. An outer pipe 
+consisting of steel or PVC pipe is placed around the pipe and the embankment is built 
+up around it. Both pipes are extended to the completed surface. The outer pipe isolates 
+the inner pipe from contact with the fill. As the embankment and soil surface settle, 
+the top of the inner pipe can be monitored with standard survey equipment. These 
+devices are simple to use, but provide data at only one point and are subject to damage 
+during construction.
+9-5.2.2.2	
+Pneumatic Settlement Cells
+These cells are generally placed at the interface between the embankment fill and native 
+ground. A flexible tube is routed to a reservoir, which must be located away from the 
+settlement area. The reservoir must be kept at a constant elevation. The precision of the 
+cells is about 0.75 inches.
+
+Chapter 9	
+Embankments
+Page 9-34	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+9-5.2.2.3	
+Sondex System
+The Sondex System can be used for monitoring settlement at several points at depth. The 
+system is installed in a borehole and consists of a series of stainless steel wire loops on a 
+plastic corrugated pipe. The plastic pipe is placed over an access casing and grouted in the 
+borehole. The locations of the stainless steel loops are determined by electrical induction 
+measurements from a readout unit. The loops can be located to about 0.05 inches and 
+displacements of up to 2 inches can be measured. Accurate measurement of settlement 
+depends on the compatibility of the soil and grout.
+Therefore, if the grout mix has a higher strength than the surrounding soil, not all the 
+settlement will be measured.
+9-5.2.2.4	
+Horizontal Inclinometer
+Horizontal inclinometers are used to measure vertical deflections in a grooved guide 
+casing, placed horizontally beneath the embankment. The probe is pulled through the 
+casing and readings of inclination relative to horizontal are obtained. The inclinometer 
+is a highly accurate system for obtaining settlement data. Because the length of the 
+inclinometer probe is typically about 2 feet, large displacements of the casing caused by 
+settlement may stop passage of the probe.
+9-5.3	
+PS&E Considerations
+Specifications for monitoring equipment that will be supplied by the contractor should 
+ensure that the equipment is compatible with the read out equipment that will be used 
+during construction. The specifications should also make clear who will provide the 
+monitoring and analyze the data. If the contractor’s survey crew will collect the settlement 
+data, it should be indicated in the special provisions. It is also important to stipulate who 
+will analyze the data and provide the final determination on when settlement is complete 
+or when additional fill can be placed. In general, the geotechnical designer should analyze 
+and interpret the data.
+9-5.4	
+PS&E Checklist
+The following issues should be addressed in the PS&E regarding embankments:
+•	 Slope inclination required for stability
+•	 Embankment foundation preparation requirements, overexcavation limits shown on 
+plans
+•	 Plan details for special drainage requirements such as lined ditches, interceptor 
+trenches, drainage blankets, etc.
+•	 Hillside terracing requirements
+•	 Evaluation of on-site materials
+•	 Special embankment material requirements
+•	 Special treatment required for fill placement such as non-durable rock, plastic soil, or 
+lightweight fill
+•	 Magnitude and time for settlement
+•	 Settlement waiting period estimated in the Special Provisions (SP)
+•	 Size and limits of surcharge
+•	 Special monitoring needs
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-35 
+February 2022
+•	 If instrumentation is required to control the rate of fill placement, do the SP’s clearly 
+spell out how this will be done and how the readings will be used to control the 
+contractor’s operation
+•	 SP’s clearly state that any instrumentation damaged by contractor personnel will be 
+repaired or replaced at no cost to the state
+•	 Settlement issues with adjacent structures, should construction of structures be 
+delayed during embankment settlement period
+•	 Monitoring of adjacent structures
+9-5.5	
+Requirements for Temporary Fills for Construction Facilitation
+Temporary fills for haul roads, construction equipment access, and other temporary 
+construction activities shall be designed in accordance with this GDM, in particular this 
+chapter (Chapter 9), except as noted in the following subsections.
+9-5.5.1	
+Design Requirements
+The design of the temporary fill/fill slope shall address the stability and settlement of 
+the temporary fill itself as well as the impact of the temporary fill on the global stability 
+and deformation of the of the overall slope on which the fill is located. The stability 
+and movement of any temporary structures and construction equipment (e.g., cranes, 
+compaction equipment, etc.) placed on the temporary fill shall also be addressed in the 
+design. Temporary fills and fill slopes shall be designed such that the risk to health and 
+safety of workers and the public is kept to an acceptable level and that adjacent facilities 
+are not damaged. Seismic design of temporary fills and fill slopes is not required.
+If temporary fills are placed on or adjacent to permanent or temporary structures, the 
+impact of the temporary fill on those structures, both with regard to stability and lateral 
+and vertical movements, shall be assessed. The functioning and design life of those 
+structures shall not be compromised by the placement of the temporary fill.
+If temporary walls are used to support the temporary fill, the impact of the temporary fill 
+on the wall stability and deformations shall be addressed, and the design of the temporary 
+wall shall meet the requirements in Chapter 15 and the AASHTO LRFD Bridge Design 
+Specifications.
+As a minimum, the design of temporary fill slopes for stability by or under the supervision 
+of a registered professional engineer shall include geotechnical calculations to address 
+slope stability (i.e., Chapter 7). If the fill is placed over relatively soft to very soft ground, 
+the deformation of the fill shall also be determined through engineering calculations 
+(i.e., Chapter 9) that are based on a knowledge of the subsurface conditions present and 
+engineering data that can be used to estimate soil and rock properties. Such calculations 
+shall also address the effect of ground water conditions and the loading conditions on 
+or above the slope that could affect its stability and deformation. The design shall be 
+conducted in accordance with the requirements in this GDM and referenced documents. 
+Engineering recommendations based upon field observations alone shall not be 
+considered to be an engineering design, unless the fill is a low height (less than 10 feet 
+high) granular, cohesionless well-compacted fill without concentrated loads from large 
+equipment or structure supports, and the fill is placed over dense to very dense soil or 
+rock, in which the supporting soil or rock is not affected by fissures, slickensides, or other 
+localized weaknesses.
+
+Chapter 9	
+Embankments
+Page 9-36	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+9-5.5.2	
+Safety Factors and Design Life Considerations
+For temporary fill slopes, the safety factors specified in Section 9.2.3.1 are applicable. If 
+the soil properties are well defined and shown to have low variability, a lower factor of 
+safety may be justified through the use of the Monte Carlo simulation feature available in 
+slope stability analysis computer programs. In this case, a probability of failure of 0.01 or 
+smaller shall be targeted (Santamarina, et al., 1992). However, even with this additional 
+analysis, in no case shall a slope stability safety factor less than 1.2 be used for design of 
+the temporary fill slope.
+9-5.5.3	
+Design Loads
+The design of temporary fills and fill slopes shall address the actual construction- related 
+loads that could be imposed on the temporary fill. As a minimum, the temporary fill 
+shall be designed for a live load surcharge of 250 psf to address routine construction 
+equipment traffic on the fill. For unusual temporary loadings resulting from large cranes 
+or other large equipment placed on the fill, the loading imposed by the equipment shall be 
+specifically assessed and taken into account in the design of the fill. For the case where 
+large or unusual construction equipment loads will be applied to the fill, the construction 
+equipment loads shall still be considered to be a live load, unless the dynamic and 
+transient forces caused by use of the construction equipment can be separated from 
+the construction equipment weight as a dead load, in which case, only the dynamic or 
+transient loads carried or created by the use of the construction equipment need to be 
+considered live load.
+If temporary structures (e.g., false work and formwork support) are placed on or adjacent 
+to the temporary fill, the temporary fill shall be designed to carry the loads resulting from 
+the temporary structures and to meet the stability and deformation requirements of those 
+structures.
+9-5.5.4	
+Design Property Selection
+In addition to the requirements in Chapter 9 for determination of design properties, the 
+requirements for design property selection for temporary cuts and shoring in Chapters 5 
+and 15 shall also be considered applicable to temporary fills and fill slopes.
+9-5.5.5	
+Performance Requirements for Temporary Fills and Fill Slopes
+Temporary fills and slopes shall be designed to prevent excessive deformation that could 
+result in damage to adjacent facilities, both during fill construction and during the life of 
+the temporary fill. An estimate of expected displacements or vibrations, threshold limits 
+that would trigger remedial actions, and a list of potential remedial actions if thresholds 
+are exceeded should be developed. Thresholds shall be established to prevent damage to 
+adjacent facilities, as well as degradation of the soil properties due to deformation.
+The removal of the temporary fill shall not adversely impact adjacent structures and 
+facilities.
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-37 
+February 2022
+9-5.5.6	
+Temporary Fill Submittal and Submittal Review Requirements
+Temporary Fill submittals shall generally meet the requirements in Section 2-09.3(3)B of 
+the Standard Specifications M 41-10.
+When performing a geotechnical review of a contractor temporary fill submittal, the 
+following items should be specifically evaluated:
+1.	
+Performance objectives for the temporary fill
+a.	
+Is the anticipated length of time the temporary fill will be in place provided?
+b.	
+Are objectives regarding anticipated and allowed deformations of the fill and 
+adjacent and supported structures provided?
+c.	
+Are the performance objectives compatible and consistent with contract and 
+GDM/BDM requirements?
+2.	
+Subsurface conditions
+a.	
+Is the soil/rock stratigraphy consistent with the subsurface geotechnical data 
+provided in the contract boring logs?
+b.	
+Did the contractor/fill designer obtain the additional subsurface data needed to 
+meet the geotechnical exploration requirements fills and temporary fill walls as 
+identified in Chapters 9 and 15, respectively?
+c.	
+Was justification for the soil, rock, and other material properties used for the 
+design of the temporary fill provided, and is that justification, and the final 
+values selected, consistent with Chapter 5 and the subsurface field and lab data 
+obtained at the fill site?
+d.	
+Were ground water conditions adequately assessed through field 
+measurements combined with the site stratigraphy to identify zones of ground 
+water, aquitards and aquicludes, artesian conditions, and perched zones of 
+ground water that could impact the stability and deformation of the fill and 
+adjacent facilities that may be impacted by the presence of the temporary fill?
+3.	
+Temporary fill loading
+a.	
+Have the anticipated loads on or caused by the temporary fill been correctly 
+identified, considering all applicable limit states?
+b.	
+If construction or public traffic near or on the temporary fill, has a minimum 
+traffic live load surcharge of 250 psf been applied?
+c.	
+If larger construction equipment such as cranes will be placed on the temporary 
+fill, have the loads from that equipment been correctly determined and included 
+in the temporary fill design?
+
+Chapter 9	
+Embankments
+Page 9-38	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+4.	
+Temporary fill design
+a.	
+Have the correct design procedures been used (i.e., the GDM and referenced 
+design specifications and manuals)?
+b.	
+Have all appropriate limit states been considered (e.g., global stability of slopes 
+above and below wall, global stability of wall/slope combination, internal wall 
+stability, external wall stability, bearing capacity, settlement, lateral deformation, 
+piping or heaving due to differential water head, etc.)?
+5.	
+Are all safety factors, or load and resistance factors for LRFD temporary wall or 
+structure design, identified, properly justified in a manner that is consistent with the 
+GDM, and meet or exceed the minimum requirements of the GDM?
+6.	
+Have the effects of any construction activities adjacent to the temporary fill on 
+the stability/performance of the fill been addressed in the shoring design (e.g., 
+excavation or soil disturbance below the fill, excavation dewatering, vibrations and 
+soil loosening due to soil modification/improvement activities, etc.)?
+7.	
+Temporary fill monitoring/testing
+a.	
+Is a monitoring/testing plan provided to verify that the performance of the fill 
+and the structures it supports or impacts is acceptable throughout the design 
+life of the system?
+b.	
+Have appropriate displacement or other performance triggers been provided 
+that are consistent with the performance objectives of the fill and adjacent 
+facilities?
+8.	
+Temporary fill removal
+a.	
+Have any portions of the temporary fill (including temporary fill walls used to 
+support the fill) to be left in place after construction of the permanent structure 
+is complete been identified?
+b.	
+Has a plan been provided regarding how to prevent the remaining portions 
+of the temporary fill or walls from interfering with future construction and 
+performance of the finished work (e.g., will the remaining portions impede flow 
+of ground water, create a hard spot, create a surface of weakness regarding 
+slope stability, etc.)?
+
+Embankments	
+Chapter 9
+Geotechnical Design Manual  M 46-03.16	
+Page 9-39 
+February 2022
+9-6	
+References
+Baker, T. E., Allen, T. M., Pierce, L. M., Jenkins, D. V., Mooney, D. T., Christie, R. A., 
+and Weston, J. T., 2003, Evaluation of the Use of Scrap Tires in Transportation Related 
+Applications in the State of Washington, Report to the Legislature as Required by SHB 
+2308, WSDOT, 268 pp.
+Boussinesq, J., 1885, “Application des Potentiels a L’Etude de L’Equilibre et due 
+Mouvement des Solides Elastiques,” Gauthier-Villars, Paris.
+Cheney, R. and Chassie, R. 2000. Soils and Foundations Workshop Reference Manual. 
+Washington, DC, National Highway Institute Publication NHI-00-045, Federal Highway 
+Administration.
+Cotton, D. M., Kilian, A. P., and Allen T 1987, “Westbound Embankment Preload on Rainier 
+Avenue, Seattle, Washington,” Transportation Research Record 1119, Washington, DC, 
+pp. 61-75.
+Dunnicliff, J., 1993, Geotechnical Instrumentation for Monitoring Field Performance, NCHRP 
+Synthesis 89, Transportation Research Board.
+Elias, V., and Christopher, B.R., and Berg, R. R., 2001, Mechanically Stabilized Earth Walls 
+and Reinforced Soil Slopes - Design and Construction Guidelines, No. FHWA- NHI-00-043, 
+Federal Highway Administration, 394 pp.
+Federal Highway Administration, 1992, “EMBANK,” Computer Program, Users Manual 
+Publication No. FHWA-SA-92-045.
+Dunnicliff, J., 1998, Geotechnical Instrumentation Reference Manual, NHI Course 
+No. 13241, Module 11. FHWA-HI-98-034, Federal Highway Administration, U.S. 
+Department of Transportation.
+Holtz, R. D., and Kovacs, W. D., 1981, An Introduction to Geotechnical Engineering, 
+Prentice-Hall, Inc, Eaglewood Cliffs, New Jersey.
+Holtz, R. D., Christopher, B. R., and Berg, R. R., 1995, Geosynthetic Design and Construction 
+Guidelines, Federal Highway Administration, FHWA HI-95-038.
+Ladd, C. C., 1991, “Stability Evaluation During Staged Construction (the 22nd Karl Terzaghi 
+Lecture),” Journal of Geotechnical Engineering, ASCE, Vol. 117, No. 4, pp. 540-615.
+Machan, G., Szymoniak, T. and Siel, B., 1989, “Evaluation of Shale Embankment 
+Construction Criteria, Experimental Feature Final Report OR 83-02,” Oregon State 
+Highway Division, Geotechnical Engineering Group.
+NAVFAC, 1971, Design Manual: Soil Mechanics, Foundations, and Earth Structures, DM-7. 
+(note: included as Appendix A in US Department of Defense, 2005, 
+Soil Mechanics, Unified Facilities Criteria (UFC), UFC 3-220-10N).
+Prototype Engineering, Inc., 1993, “SAF-1” Soil Settlement Analyses Software Suite, 
+Winchester, Massachusetts.
+
+Chapter 9	
+Embankments
+Page 9-40	
+Geotechnical Design Manual  M 46-03.16 
+	
+February 2022
+Sabatini, P.J, Bachus, R.C, Mayne, P.W., Schneider, J.A., Zettler, T.E 2002, Geotechnical 
+Engineering Circular 5 (GEC5) - Evaluation of Soil and Rock Properties. Report No FHWA-
+IF-02-034. Federal Highway Administration, U.S. Department of Transportation.
+Santamarina, J. C., Altschaeffl, A. G., and Chameau, J. L., 1992, “Reliability of Slopes: 
+Incorporating Qualitative Information,” Transportation Research Board, TRR 1343, 
+Washington, D.C., pp. 1-5.
+Skempton, A. W., and Bishop, A. W., 1955, “The Gain in Stability Due to Pore Pressure 
+Dissipation in a Soft Clay Foundation,” Fifth International Conference on Large Dams, Paris, 
+pp. 613-638.
+Stark, T., Arellano, D., Horvath, J. and Leshchinsky, D., 2004, Geofoam Applications in the 
+Design and Construction of Highway Embankments, NCHRP Report 529, Transportation 
+Research Board, 58 pp.
+Symons, I. F., 1976, Assessment and Control of Stability for Road Embankments Constructed 
+on Soft Subsoils, Transport and Road Research laboratory, Crowthorne, Berkshire, TRRL 
+Laboratory Report 711, 32 pp.
+Tonkins, T. and Terranova, T., 1995, “Instrumentation of Transportation Embankments 
+Constructed on Soft Ground,” Transportation Research Circular No. 438.
+Westergaard, H., 1938, “A Problem of Elasticity Suggested by a Problem in Soil Mechanics: 
+A Soft Material Reinforced by Numerous Strong Horizontal Sheets,” in Contribution to the 
+Mechanics of Solids, Stephen Timoshenko 60th Anniversary Volume, Macmillan, New York, 
+New York, pp. 268-277.

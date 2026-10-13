@@ -1,0 +1,107 @@
+[gpt-6-astra tokens in 254 out 8833]
+**Flags:** **A** = estimating allowance, not a standard requirement. **?** = unverified attribution or project-dependent value. Exact SMACNA hanger selections require duct dimensions, supported weight, and the specified edition.
+
+### 1. Galvanized sheet weight
+
+| Gauge | Nominal weight, lb/SF **?** |
+|---:|---:|
+| 28 | 0.781 |
+| 26 | 0.906 |
+| 24 | 1.156 |
+| 22 | 1.406 |
+| 20 | 1.656 |
+| 18 | 2.156 |
+| 16 | 2.656 |
+
+**Source:** CustomPartNet, *Sheet Metal Gauge Size Chart*, galvanized-steel table. These are conventional nominal galvanized-sheet weights; **I cannot verify their attribution to a particular SMACNA/ASHRAE table**. Do not interchange nominal gauge weights with weights calculated from SMACNA minimum permissible thicknesses.
+
+### 2. Sheet-metal duct takeoff
+
+- **Rectangular straight duct:** SF = `2(W + H)L`, dimensions in feet.
+- **Round straight duct:** SF = `πDL`, dimensions in feet.
+- **Sheet-metal weight:** lb = `Σ(SF by gauge × lb/SF)`.
+- **Length:** centerline LF; separate straight sections and fittings without counting fitting lengths twice.
+- **Elbows:** developed surface SF; constant-section elbows may use perimeter × centerline arc length.
+- **Transitions:** developed panel SF using actual slant dimensions—not simply perimeter × axial length.
+- **Fittings allowance:** **10–25% A** of straight-duct sheet area for preliminary takeoff only; **0% additional** when fittings are individually measured.
+- **Sheet-metal waste:** **5–10% A** added to net developed sheet quantities.
+- **Reinforcement, flanges, cleats, rods, angles:** separate LF/EA/lb; not included in skin weight.
+
+**Source:** geometric measurement; SMACNA, *HVAC Duct Construction Standards—Metal and Flexible*, rectangular/round construction and fittings sections describe construction. **The percentages above are estimating assumptions, not published SMACNA/ASHRAE allowances.**
+
+### 3. Hangers and supports
+
+| Material/system | Quantity or spacing |
+|---|---|
+| Rectangular metal duct | **10 ft maximum** under the IMC prescriptive support provision; not a universal SMACNA table selection |
+| Round metal duct | **10 ft maximum** under the same provision; approved engineered alternatives permitted |
+| Galvanized hanger straps | Width/gauge **?**—select from SMACNA hanger tables for duct size, spacing and load; no single universal strap size |
+| Horizontal flex duct | **5 ft maximum**, or manufacturer’s smaller spacing |
+| Flex support strap/saddle | **1½ in minimum width** |
+| Flex sag | **½ in maximum per ft** between supports |
+| Vertical flex duct | **6 ft maximum** support spacing |
+| Preliminary support count | `ceil(run LF ÷ spacing) + 1`, assuming supports at both ends; add required local supports |
+
+**Sources:** 2021 *International Mechanical Code*, **§603.10, Supports**; SMACNA, *HVAC Duct Construction Standards—Metal and Flexible*, 3rd ed., **Chapter 5, Hangers and Supports**; Air Diffusion Council, *Flexible Duct Performance & Installation Standards*, 5th ed., **§4.6, Support**. **Exact SMACNA strap-table rows are not verified here.**
+
+### 4. External wrap and internal liner
+
+- **External fiberglass wrap, net SF:** exterior metal perimeter × LF, plus fitting surface SF.
+- **Wrap purchase SF:** manufacturer’s stretch-out/cut length × roll width; include thickness-related stretch-out.
+- **Facing lap:** **2 in typical ?**; avoid adding it again where supplied as a factory flange.
+- **Compression:** **25%** for products whose installed R-values use that condition: installed thickness = `0.75 × nominal thickness`; **not 25% additional SF**.
+- **Wrap waste:** **5–10% A** beyond required cuts/laps.
+- **Fiberglass liner, approximate SF:** interior metal perimeter × LF, plus fittings; reconcile corner overlaps with panel cut sizes.
+- **Clear-air dimensions:** rectangular metal width/height = clear width/height **+ 2 × liner thickness**.
+- **Liner waste:** **10–15% A**; liner joints generally butt, rather than overlap.
+
+**Sources:** Owens Corning, *SOFTR Duct Wrap FRK* product data, **Installation and installed R-value tables**; *QuietR Duct Liner* installation instructions, **cutting/fitting and joint requirements**. Product-specific lap/compression requirements govern; waste percentages are assumptions.
+
+### 5. Sealant, tape and mastic
+
+- **Sealant:** LF of required longitudinal seams + transverse joints + fitting seams.
+- **Cartridges:** required bead LF ÷ manufacturer’s LF/cartridge.
+- **Mastic:** coated SF ÷ manufacturer’s SF/gal at specified thickness.
+- **Theoretical mastic gallons:** `coated SF × wet-film thickness in mils ÷ 1,604`.
+- **Tape:** required joint LF × prescribed layers/wraps; rolls = `ceil(total LF ÷ usable LF/roll)`.
+- **Waste:** **10% A** preliminary allowance.
+- **Closure materials:** sheet-metal duct sealant/mastic; listed closure systems where required for fiberglass or flexible duct.
+
+**Sources:** SMACNA, *HVAC Duct Construction Standards—Metal and Flexible*, **Table 1-2, Standard Duct Sealing Requirements**; selected closure manufacturer’s **coverage/application section**. **No universal LF/gal or LF/cartridge applies.**
+
+### 6. Fire/smoke dampers and access
+
+- **Fire damper:** **1 EA per required protected opening**.
+- **Smoke damper:** **1 EA per required protected opening**.
+- **Combination fire/smoke damper:** **1 EA assembly**, not two dampers.
+- **Access:** **1 access provision per damper minimum takeoff convention**; additional access where needed for inspection/service.
+- **Access doors:** count actual EA; an approved removable duct section may replace a separate door.
+- **Actuators/end switches:** actual EA from damper submittals; not necessarily one per large multisection assembly.
+
+**Source:** 2021 *IMC*, **§607.3, Damper Testing and Ratings; §607.4, Access and Identification; §607.5, Where Required**. Not every rated penetration automatically requires a damper.
+
+### 7. Rooftop-unit accessories
+
+**Conditional quantities—only where scheduled and not already included:**
+
+- **1 EA roof curb per RTU**; curb adapter separately where required.
+- **1 EA disconnect per RTU electrical supply**.
+- **1 EA economizer assembly per applicable RTU**.
+- **1 EA condensate trap assembly per required drain connection**.
+- **1 EA thermostat/space sensor per controlled zone**.
+- **Additional temperature, humidity, CO₂ and pressure sensors:** scheduled EA.
+
+**Source:** selected RTU manufacturer’s installation/accessory manuals. Example: Carrier *48TC Installation Instructions*, **unit support, external condensate trap, electrical connections and accessories sections**. **These quantities are takeoff conventions, not universal accessory requirements.**
+
+### 8. Controls points
+
+- **1 AI** per separately wired analog measurement.
+- **1 AO** per separately wired modulating command.
+- **1 DI/BI** per separately wired binary status/contact.
+- **1 DO/BO** per separately wired binary command.
+- **Temperature + humidity combination sensor:** typically **2 AI** when separately hardwired.
+- **Modulating valve + end switch:** typically **1 AO + 1 DI**.
+- **Network points:** count mapped objects separately from physical I/O.
+- **Controllers, gateways, software points and spare I/O:** separate quantities; avoid counting network objects again as physical terminals.
+
+**Source:** ANSI/ASHRAE Standard **135-2020, Clause 12, standard object types**; project controls points schedule. BACnet defines objects, **not mandatory equipment point counts**.

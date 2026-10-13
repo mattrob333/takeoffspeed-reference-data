@@ -1,0 +1,852 @@
+[
+ {
+  "name": "HSS1-1/2 tube posts: count x height",
+  "formula": "member.lf = count x round(heightFt, heightRoundingFt)",
+  "inputs": {
+   "count": {
+    "value": 6,
+    "unit": "EA"
+   },
+   "height": {
+    "value": "1'-7\"",
+    "unit": "ft-in"
+   },
+   "heightRoundingFt": 0.01
+  },
+  "expected": {
+   "quantity": 9.48,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 36 / markup p11 (A-200)",
+  "notes": "Estimator convention: 1'-7\" rounded to 1.58 ft before multiplying. Without the rounding input the exact answer is 6 x 1.5833 = 9.50 LF (+0.21%), which this tolerance rejects on purpose."
+ },
+ {
+  "name": "HSS4x4x1/4 column: elevation LF + posts at height",
+  "formula": "member.lf = sum(measured LF) + count x heightFt",
+  "inputs": {
+   "measuredLF": [
+    {
+     "value": 5.6,
+     "unit": "LF"
+    }
+   ],
+   "posts": {
+    "count": 6,
+    "height": "1'-4\""
+   }
+  },
+  "expected": {
+   "quantity": 13.6,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 37 / markup p36 + p34"
+ },
+ {
+  "name": "HSS5x5x3/8 column LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 20.3,
+     "unit": "LF"
+    },
+    {
+     "value": 18.9,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 39.14,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 38 / markup p35 + p36"
+ },
+ {
+  "name": "HSS6x6x1/2 column LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 19.7,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 19.72,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 39 / markup p36"
+ },
+ {
+  "name": "HSS6x6x3/8 column LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 61.4,
+     "unit": "LF"
+    },
+    {
+     "value": 175.0,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 236.34,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 40 / markup p35 + p36"
+ },
+ {
+  "name": "HSS7x7x1/2 column LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 97.3,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 97.3,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 41 / markup p36"
+ },
+ {
+  "name": "HSS4x4x1/4 beam LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 40.2,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 40.21,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 42 / markup p34"
+ },
+ {
+  "name": "HSS5x5x1/4 beam LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 21.5,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 21.5,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 43 / markup p34"
+ },
+ {
+  "name": "HSS6x2x1/4 beam LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 3.0,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 3.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 44 / markup p34"
+ },
+ {
+  "name": "HSS6x4x3/8 beam (row 1, brown) LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 22.2,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 22.24,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 45 / markup p34"
+ },
+ {
+  "name": "HSS6x4x3/8 beam (row 2, periwinkle) LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 9.0,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 8.98,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 46 / markup p34"
+ },
+ {
+  "name": "HSS6x6x3/8 beam LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 3.1,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 3.11,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 47 / markup p34"
+ },
+ {
+  "name": "HSS8x2x1/4 beam LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 76.7,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 76.68,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 48 / markup p34"
+ },
+ {
+  "name": "HSS8x3x1/4 beam LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 36.9,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 36.87,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 49 / markup p34"
+ },
+ {
+  "name": "HSS8x6x1/4 beam LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 33.6,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 33.61,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 50 / markup p34"
+ },
+ {
+  "name": "HSS10x6x1/4 beam LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 65.2,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 65.2,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 51 / markup p34"
+ },
+ {
+  "name": "W8x10 beam LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 13.5,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 13.49,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 52 / markup p34"
+ },
+ {
+  "name": "W10x12 beam LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 51.5,
+     "unit": "LF"
+    },
+    {
+     "value": 4.8,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 56.26,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 53 / markup p34 + p36"
+ },
+ {
+  "name": "W10x22 beam LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 11.9,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 11.88,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 54 / markup p34"
+ },
+ {
+  "name": "W12x14 beam LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 74.7,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 74.69,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 55 / markup p34"
+ },
+ {
+  "name": "W12x22 beam LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 15.0,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 14.98,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 56 / markup p34"
+ },
+ {
+  "name": "W14x26 beam LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 19.5,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 19.53,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 57 / markup p34"
+ },
+ {
+  "name": "W14x30 beam LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 20.1,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 20.08,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 58 / markup p34"
+ },
+ {
+  "name": "W16x26 beam LF (sum of legend rows)",
+  "formula": "member.lf = sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 20.1,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 20.07,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 59 / markup p34"
+ },
+ {
+  "name": "C5x6.7 channel LF (sum of legend rows)",
+  "formula": "sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 53.4,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 53.35,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 60 / markup p34"
+ },
+ {
+  "name": "C7x9.8 channel LF (sum of legend rows)",
+  "formula": "sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 236.7,
+     "unit": "LF"
+    },
+    {
+     "value": 14.0,
+     "unit": "LF"
+    },
+    {
+     "value": 177.8,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 428.46,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 61 / markup p34 + p35 + p36"
+ },
+ {
+  "name": "C8x11.5 channel LF (sum of legend rows)",
+  "formula": "sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 10.1,
+     "unit": "LF"
+    },
+    {
+     "value": 14.5,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 24.51,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 62 / markup p35 + p36"
+ },
+ {
+  "name": "HSS4x4x1/4 diagonal bracing LF (sum of legend rows)",
+  "formula": "sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 28.6,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 28.62,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 63 / markup p36"
+ },
+ {
+  "name": "HSS6x6x1/4 diagonal bracing LF (sum of legend rows)",
+  "formula": "sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 59.6,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 59.56,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 64 / markup p36"
+ },
+ {
+  "name": "L2-1/2 bridging: legend *2 multiplier",
+  "formula": "bridging.lf = (sum(rigid rows) + sum(X rows)) x 2",
+  "inputs": {
+   "rigidRows": {
+    "value": 121.9,
+    "unit": "LF"
+   },
+   "xRowsPlan": {
+    "value": 35.5,
+    "unit": "LF"
+   },
+   "multiplier": 2
+  },
+  "expected": {
+   "quantity": 314.8,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 65 / markup p34"
+ },
+ {
+  "name": "L3x3x1/4 horizontal bracing LF (sum of legend rows)",
+  "formula": "sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 19.1,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 19.12,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 66 / markup p34"
+ },
+ {
+  "name": "L2x2x3/16 kicker angles: count x length",
+  "formula": "member.lf = sum(count_i x length_i)",
+  "inputs": {
+   "groups": [
+    {
+     "count": 18,
+     "length": "4'-0\""
+    },
+    {
+     "count": 1,
+     "length": "5'-8\""
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 77.67,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 67 / markup p34"
+ },
+ {
+  "name": "L3x3x3/16 angle LF (sum of legend rows)",
+  "formula": "sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 99.4,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 99.37,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 68 / markup p34"
+ },
+ {
+  "name": "L4x3x1/4 LLV angle LF (sum of legend rows)",
+  "formula": "sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 179.9,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 179.93,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 69 / markup p34"
+ },
+ {
+  "name": "12KCS2 roof joist LF (sum of legend rows)",
+  "formula": "sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 54.0,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 53.96,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 70 / markup p34"
+ },
+ {
+  "name": "16KCS3 roof joist LF (sum of legend rows)",
+  "formula": "sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 248.6,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 248.55,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 71 / markup p34"
+ },
+ {
+  "name": "18KCS2 roof joist LF (sum of legend rows)",
+  "formula": "sum(legend LF)",
+  "inputs": {
+   "lengths": [
+    {
+     "value": 108.5,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 108.49,
+   "unit": "LF"
+  },
+  "tolerancePct": 1,
+  "source": "line 72 / markup p34"
+ },
+ {
+  "name": "RD-1.5 roof deck area",
+  "formula": "deck.sf = sum(areas)",
+  "inputs": {
+   "areas": [
+    {
+     "value": 2208.4,
+     "unit": "SF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2208.37,
+   "unit": "SF"
+  },
+  "tolerancePct": 1,
+  "source": "line 73 / markup p34"
+ },
+ {
+  "name": "5x5x1/4 plate per tube post",
+  "formula": "plate.count = posts x platesPerPost",
+  "inputs": {
+   "posts": 6,
+   "platesPerPost": 1
+  },
+  "expected": {
+   "quantity": 6.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 74 / markup p11 + A-430 detail"
+ },
+ {
+  "name": "bp12-count",
+  "formula": "plate.count = schedule COUNT",
+  "inputs": {
+   "mark": "BP12",
+   "scheduleCount": 10
+  },
+  "expected": {
+   "quantity": 10.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 75 / S-201 base plate schedule"
+ },
+ {
+  "name": "bp14-count",
+  "formula": "plate.count = schedule COUNT",
+  "inputs": {
+   "mark": "BP14",
+   "scheduleCount": 4
+  },
+  "expected": {
+   "quantity": 4.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 76 / S-201 base plate schedule"
+ },
+ {
+  "name": "bp1518-count",
+  "formula": "plate.count = schedule COUNT",
+  "inputs": {
+   "mark": "BP1518",
+   "scheduleCount": 4
+  },
+  "expected": {
+   "quantity": 4.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 77 / S-201 base plate schedule"
+ },
+ {
+  "name": "11x5-1/2 cap plates from column schedule",
+  "formula": "capPlates(plate) = count(columns whose size maps to plate via capPlateTable; unlisted sizes via capPlateFallback)",
+  "inputs": {
+   "columnsBySize": {
+    "HSS5X5": 2
+   },
+   "capPlateTable": {
+    "W8": "3/4x14x8-1/2",
+    "W10": "3/4x16x10-1/2",
+    "HSS4X4": "3/4x10x4-1/2",
+    "HSS5X5": "3/4x11x5-1/2",
+    "HSS6.00 ROUND": "3/4x13x7-1/2",
+    "HSS6X6": "3/4x12x6-1/2",
+    "HSS8X8": "3/4x14x8-1/2",
+    "HSS12X4": "3/4x12-1/2x9",
+    "HSS12.75 ROUND": "3/4x14x19"
+   },
+   "capPlateFallback": "next-smaller-listed-square-HSS",
+   "plate": "3/4x11x5-1/2"
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 78 / S-201 column schedule + S-681 det 8"
+ },
+ {
+  "name": "12x6-1/2 cap plates from column schedule",
+  "formula": "capPlates(plate) = count(columns whose size maps to plate via capPlateTable; unlisted sizes via capPlateFallback)",
+  "inputs": {
+   "columnsBySize": {
+    "HSS6X6": 11,
+    "HSS7X7": 5
+   },
+   "capPlateTable": {
+    "W8": "3/4x14x8-1/2",
+    "W10": "3/4x16x10-1/2",
+    "HSS4X4": "3/4x10x4-1/2",
+    "HSS5X5": "3/4x11x5-1/2",
+    "HSS6.00 ROUND": "3/4x13x7-1/2",
+    "HSS6X6": "3/4x12x6-1/2",
+    "HSS8X8": "3/4x14x8-1/2",
+    "HSS12X4": "3/4x12-1/2x9",
+    "HSS12.75 ROUND": "3/4x14x19"
+   },
+   "capPlateFallback": "next-smaller-listed-square-HSS",
+   "plate": "3/4x12x6-1/2"
+  },
+  "expected": {
+   "quantity": 16.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 79 / S-201 column schedule + S-681 det 8",
+  "notes": "S-681 det 8 has 9 rows and no HSS7X7. The estimator's fallback (next smaller listed square HSS = HSS6X6 plate) gives 11 + 5 = 16. Applying the table literally gives 11 EA plus 5 unmapped HSS7X7 columns; the width-based alternative would be 3/4x13x7-1/2 (the HSS6.00 ROUND row)."
+ },
+ {
+  "name": "Roof access ladder count",
+  "formula": "misc.count",
+  "inputs": {
+   "count": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 80 / markup p3 + A-450 det 3"
+ }
+]

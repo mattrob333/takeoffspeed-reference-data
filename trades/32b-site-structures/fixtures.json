@@ -1,0 +1,669 @@
+[
+ {
+  "name": "32b-site-structures line 651: 12\" DIA x3'-6\"H CONCRETE FOOTING",
+  "formula": "pierConcreteCY = round(pi*round(D/12,2)^2/4,2) * H * n / 27",
+  "inputs": {
+   "D": {
+    "value": 12,
+    "unit": "in"
+   },
+   "H": {
+    "value": 3.5,
+    "unit": "ft"
+   },
+   "n": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 0.102407,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 651 / p72 C-3.0 legend + C-6.0 ADA SIGN MOUNTING DETAIL"
+ },
+ {
+  "name": "32b-site-structures line 652: SIGN > FOOTINGS: EXCAVATION REQUIRED",
+  "formula": "pierExcavationCY = round(pi*round(D/12,2)^2/4,2) * buried * n / 27",
+  "inputs": {
+   "D": {
+    "value": 12,
+    "unit": "in"
+   },
+   "buried": {
+    "value": 3.5,
+    "unit": "ft"
+   },
+   "n": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 0.102407,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 652 / = line 651 (excavation, no over-dig)"
+ },
+ {
+  "name": "32b-site-structures line 653: SIGN > FOOTINGS: HAULOFF",
+  "formula": "pierHaulCY = round(pi*round(D/12,2)^2/4,2) * buried * n / 27  (= pierExcavationCY)",
+  "inputs": {
+   "D": {
+    "value": 12,
+    "unit": "in"
+   },
+   "buried": {
+    "value": 3.5,
+    "unit": "ft"
+   },
+   "n": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 0.102407,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 653 / = line 652 (haul-off, no backfill)"
+ },
+ {
+  "name": "32b-site-structures line 654: 8\" DIA x3'-0\"H CONCRETE FOOTING",
+  "formula": "pierConcreteCY = round(pi*round(D/12,2)^2/4,2) * H * n / 27",
+  "inputs": {
+   "D": {
+    "value": 8,
+    "unit": "in"
+   },
+   "H": {
+    "value": 3.0,
+    "unit": "ft"
+   },
+   "n": {
+    "value": 5,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 0.194444,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 654 / p72 C-3.0 legend + C-6.0 TRAFFIC SIGN MOUNTING DETAIL"
+ },
+ {
+  "name": "32b-site-structures line 655: SIGN > FOOTINGS: EXCAVATION REQUIRED",
+  "formula": "pierExcavationCY = round(pi*round(D/12,2)^2/4,2) * buried * n / 27",
+  "inputs": {
+   "D": {
+    "value": 8,
+    "unit": "in"
+   },
+   "buried": {
+    "value": 3.0,
+    "unit": "ft"
+   },
+   "n": {
+    "value": 5,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 0.194444,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 655 / = line 654"
+ },
+ {
+  "name": "32b-site-structures line 656: SIGN > FOOTINGS: HAULOFF",
+  "formula": "pierHaulCY = round(pi*round(D/12,2)^2/4,2) * buried * n / 27  (= pierExcavationCY)",
+  "inputs": {
+   "D": {
+    "value": 8,
+    "unit": "in"
+   },
+   "buried": {
+    "value": 3.0,
+    "unit": "ft"
+   },
+   "n": {
+    "value": 5,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 0.194444,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 656 / = line 655"
+ },
+ {
+  "name": "32b-site-structures line 657: 10\" THK CONCRETE TRANSFORMER PAD - ASSUMED DETAILS",
+  "formula": "padSF = sum(measured areas)",
+  "inputs": {
+   "area": {
+    "value": 16.0,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 16.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 657 / p72 C-3.0 legend"
+ },
+ {
+  "name": "32b-site-structures line 658: 18\"x18\"x8\" THK CONCRETE PAD FOR CLEANOUT",
+  "formula": "padSF = n * (W/12) * (L/12)",
+  "inputs": {
+   "n": {
+    "value": 6,
+    "unit": "EA"
+   },
+   "W": {
+    "value": 18,
+    "unit": "in"
+   },
+   "L": {
+    "value": 18,
+    "unit": "in"
+   }
+  },
+  "expected": {
+   "quantity": 13.5,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 658 / p77 C-5.0 legend + P-301/P-302 plumbing note 3 + P-501 cleanout-to-grade detail"
+ },
+ {
+  "name": "32b-site-structures line 663: 21: 6\" THK HEAVY DUTY CONCRETE PAVEMENT - FOR DUMPSTER W/ #4 @ 12\" O.C.",
+  "formula": "slabSF = sum(measured areas)",
+  "inputs": {
+   "area": {
+    "value": 384.3,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 384.31,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 663 / p72 C-3.0 legend (purple row)"
+ },
+ {
+  "name": "32b-site-structures line 664: 2'-0\"W x 1'-0\" THK CONCRETE FOOTING W/ 3-#5 CONT BAR",
+  "formula": "wallFootingCY = LF * (W/12) * (T/12) / 27",
+  "inputs": {
+   "LF": {
+    "value": 36.22,
+    "unit": "LF"
+   },
+   "W": {
+    "value": 24,
+    "unit": "in"
+   },
+   "T": {
+    "value": 12,
+    "unit": "in"
+   }
+  },
+  "expected": {
+   "quantity": 2.682963,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 664 / p72 legend wall LF x A-190 section 3"
+ },
+ {
+  "name": "32b-site-structures line 665: DUMPSTER ENCLOSURE > FOOTINGS: EXCAVATION REQUIRED",
+  "formula": "wallFootingExcavationCY = LF * (W + 2*ws) * round(T + belowGrade/12, 2) / 27",
+  "inputs": {
+   "LF": {
+    "value": 36.22,
+    "unit": "LF"
+   },
+   "W": {
+    "value": 2.0,
+    "unit": "ft"
+   },
+   "ws": {
+    "value": 1.0,
+    "unit": "ft"
+   },
+   "T": {
+    "value": 1.0,
+    "unit": "ft"
+   },
+   "belowGrade": {
+    "value": 16,
+    "unit": "in"
+   }
+  },
+  "expected": {
+   "quantity": 12.502607,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 665 / wall LF x A-190 section 3"
+ },
+ {
+  "name": "32b-site-structures line 666: DUMPSTER ENCLOSURE > FOOTINGS: BACKFILL REQUIRED",
+  "formula": "wallFootingBackfillCY = LF*(W + 2*ws)*round(T + belowGrade/12, 2)/27 - LF*W*T/27 - cmuBelowGradeCY",
+  "inputs": {
+   "LF": {
+    "value": 36.22,
+    "unit": "LF"
+   },
+   "W": {
+    "value": 2.0,
+    "unit": "ft"
+   },
+   "ws": {
+    "value": 1.0,
+    "unit": "ft"
+   },
+   "T": {
+    "value": 1.0,
+    "unit": "ft"
+   },
+   "belowGrade": {
+    "value": 16,
+    "unit": "in"
+   },
+   "cmuBelowGradeCY": {
+    "value": 1.16,
+    "unit": "CY"
+   }
+  },
+  "expected": {
+   "quantity": 8.659644,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 666 / lines 665 - 664 - CMU below grade",
+  "note": "cmuBelowGradeCY = 1.16 is the estimator's carried value (exactly 31.32 CF; inferred, not printed). The physical value LF*(8/12)*(16/12)/27 = 1.192428 CY gives 8.627216 CY (-0.37%)."
+ },
+ {
+  "name": "32b-site-structures line 667: DUMPSTER ENCLOSURE > FOOTINGS: HAULOFF",
+  "formula": "wallFootingHaulCY = LF*W*T/27 + cmuBelowGradeCY",
+  "inputs": {
+   "LF": {
+    "value": 36.22,
+    "unit": "LF"
+   },
+   "W": {
+    "value": 2.0,
+    "unit": "ft"
+   },
+   "T": {
+    "value": 1.0,
+    "unit": "ft"
+   },
+   "cmuBelowGradeCY": {
+    "value": 1.16,
+    "unit": "CY"
+   }
+  },
+  "expected": {
+   "quantity": 3.842963,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 667 / line 665 - line 666",
+  "note": "cmuBelowGradeCY = 1.16 is the estimator's carried value (exactly 31.32 CF; inferred, not printed). The physical value LF*(8/12)*(16/12)/27 = 1.192428 CY gives 3.875391 CY (+0.84%)."
+ },
+ {
+  "name": "32b-site-structures line 668: 8\"THK. NOM.CMU WALL W/ REINFORCEMENT - #5 AT 32\" O.C.",
+  "formula": "cmuSF = LF * H",
+  "inputs": {
+   "LF": {
+    "value": 36.22,
+    "unit": "LF"
+   },
+   "H": {
+    "value": 8.0,
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 289.76,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 668 / wall LF x A-190 section 3 heights"
+ },
+ {
+  "name": "32b-site-structures line 669: GROUT PROVIDED FOR 8\"THK. CMU WALL",
+  "formula": "groutCY = cmuSF * 0.0112",
+  "inputs": {
+   "cmuSF": {
+    "value": 289.76,
+    "unit": "SF"
+   },
+   "groutCYperSF": {
+    "value": 0.0112,
+    "unit": "CY/SF"
+   }
+  },
+  "expected": {
+   "quantity": 3.245312,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 669 / line 668 x estimator grout ratio"
+ },
+ {
+  "name": "32b-site-structures line 670: MORTAR PROVIDED FOR 8\"THK. CMU WALL",
+  "formula": "mortarCY = cmuSF * 0.1675 / 27",
+  "inputs": {
+   "cmuSF": {
+    "value": 289.76,
+    "unit": "SF"
+   },
+   "mortarCFperSF": {
+    "value": 0.1675,
+    "unit": "CF/SF"
+   }
+  },
+  "expected": {
+   "quantity": 1.797585,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 670 / line 668 x estimator mortar ratio"
+ },
+ {
+  "name": "32b-site-structures line 671: 8\" W BOND BEAM W/ 1 CONT #5 BAR",
+  "formula": "bondBeamLF = round(wallLF) * courses  (courses = 1 reproduces the estimator)",
+  "inputs": {
+   "wallLF": {
+    "value": 36.22,
+    "unit": "LF"
+   },
+   "courses": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 36.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 671 / wall LF (rounded) + A-190 section 3 / wall cap detail 5",
+  "note": "A-190 section 3 may show a second reinforced course: the 'K.O. BLOCK W/ (1) #5 CONT., GROUTED SOLID' leader and a bar dot sit one course below the 'BOND BEAM W/ 1 CONT. #5' course. With courses = 2 the line would be 72 LF. The estimator carried 36 (one course)."
+ },
+ {
+  "name": "32b-site-structures line 672: 4\" PRECAST CONCRETE STONE CAP ON MORTOR BED",
+  "formula": "capLF = round(wallLF)",
+  "inputs": {
+   "wallLF": {
+    "value": 36.22,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 36.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 672 / wall LF (rounded) + A-190 section 3 / wall cap detail 5"
+ },
+ {
+  "name": "32b-site-structures line 673: 5/8\" CEMENTITIOUS COATING ON CMU WALL",
+  "formula": "coatingSF = wallLF * round(exposedH/12,2) * faces",
+  "inputs": {
+   "wallLF": {
+    "value": 36.22,
+    "unit": "LF"
+   },
+   "exposedH": {
+    "value": 80,
+    "unit": "in"
+   },
+   "faces": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 241.5874,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 673 / wall LF x A-190 exposed height"
+ },
+ {
+  "name": "32b-site-structures line 678: 16'-0\"Wx6'-8\"H STEEL DOUBLE LEAF DUMPSTER GATE",
+  "formula": "count",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 678 / p72 C-3.0 legend"
+ },
+ {
+  "name": "32b-site-structures line 679: DUMPSTER ENCLOSURE > MISC.: 2 YARD DUMPSTER",
+  "formula": "count",
+  "inputs": {
+   "count": {
+    "value": 2,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 679 / A-190 floor plan 4"
+ },
+ {
+  "name": "32b-site-structures line 680: CONTINUOUS THRU WALL FLASHING W/INTEGRAL DRIP",
+  "formula": "capLF = round(wallLF)",
+  "inputs": {
+   "wallLF": {
+    "value": 36.22,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 36.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 680 / wall LF (rounded) + A-190 section 3 / wall cap detail 5"
+ },
+ {
+  "name": "32b-site-structures line 681: DUMPSTER ENCLOSURE > MISC.: CONTINUOUS DRIP",
+  "formula": "capLF = round(wallLF)",
+  "inputs": {
+   "wallLF": {
+    "value": 36.22,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 36.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 681 / wall LF (rounded) + A-190 section 3 / wall cap detail 5"
+ },
+ {
+  "name": "32b-site-structures line 682: DUMPSTER ENCLOSURE > MISC.: CONTINUOUS SEALANT",
+  "formula": "capLF = round(wallLF)",
+  "inputs": {
+   "wallLF": {
+    "value": 36.22,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 36.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 682 / wall LF (rounded) + A-190 section 3 / wall cap detail 5"
+ },
+ {
+  "name": "32b-site-structures line 683: DUMPSTER ENCLOSURE > MISC.: STUCCO WEEP SCREEN",
+  "formula": "weepLF = round(wallLF) * 0.33  (estimator; physical = wallLF)",
+  "inputs": {
+   "wallLF": {
+    "value": 36.22,
+    "unit": "LF"
+   },
+   "factor": {
+    "value": 0.33,
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 11.88,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 683 / wall LF (rounded) x 0.33"
+ },
+ {
+  "name": "32b-site-structures line 707: PROPOSED MONUMENT SIGN - DESIGN AND PERMIT BY OTHERS",
+  "formula": "count",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 707 / p72 C-3.0 legend"
+ },
+ {
+  "name": "32b-site-structures line 712: PREFABRIFATED CANOPY COORDINATE W/ BANK EQUIPMENT VENDER OR BANK PROJECT MANAGER PRIOR TO ",
+  "formula": "canopySF = round(area)",
+  "inputs": {
+   "area": {
+    "value": 61.7,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 62.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 712 / p89 A-401 legend"
+ },
+ {
+  "name": "32b-site-structures line 717: ATM BY BANK EQUIPMENT VENDOR COORDINATE W/ VENDOR PRIOR TO INSTALLATION",
+  "formula": "count",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 717 / p89 A-401 legend"
+ },
+ {
+  "name": "32b-site-structures line 718: 1'-6\" DIA x8'-6\"H CONCRETE LIGHT POLE FOOTING",
+  "formula": "pierConcreteCY = round(pi*round(D/12,2)^2/4,2) * (buried+exposed) * n / 27",
+  "inputs": {
+   "D": {
+    "value": 18,
+    "unit": "in"
+   },
+   "buried": {
+    "value": 6.0,
+    "unit": "ft"
+   },
+   "exposed": {
+    "value": 2.5,
+    "unit": "ft"
+   },
+   "n": {
+    "value": 5,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 2.786111,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 718 / p43 E-011 legend + E-012 pole base detail 3"
+ },
+ {
+  "name": "32b-site-structures line 719: SITE LIGHTING FOOTING > FOOTINGS: EXCAVATION REQUIRED",
+  "formula": "pierExcavationCY = round(pi*round(D/12,2)^2/4,2) * buried * n / 27",
+  "inputs": {
+   "D": {
+    "value": 18,
+    "unit": "in"
+   },
+   "buried": {
+    "value": 6.0,
+    "unit": "ft"
+   },
+   "n": {
+    "value": 5,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1.966667,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 719 / line 718 buried part"
+ },
+ {
+  "name": "32b-site-structures line 720: SITE LIGHTING FOOTING > FOOTINGS: HAULOFF",
+  "formula": "pierHaulCY = round(pi*round(D/12,2)^2/4,2) * buried * n / 27  (= pierExcavationCY)",
+  "inputs": {
+   "D": {
+    "value": 18,
+    "unit": "in"
+   },
+   "buried": {
+    "value": 6.0,
+    "unit": "ft"
+   },
+   "n": {
+    "value": 5,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1.966667,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 720 / = line 719"
+ }
+]

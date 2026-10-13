@@ -1,0 +1,6861 @@
+
+=====PAGE 1
+FIELD MANUAL 
+FOR EROSION 
+& SEDIMENT 
+CONTROL IN 
+GEORGIA
+2016 Edition
+Vegetative & Structural BMPs for 
+Land-Disturbing Activities
+
+=====PAGE 2
+1
+FIELD MANUAL FOR 
+EROSION & SEDIMENT 
+CONTROL IN GEORGIA
+Georgia Soil & Water Conservation Commission
+4310 Lexington Road
+P.O. Box 8024
+Athens, GA 30603
+706-552-4470
+www.gaswcc.org
+2016 Edition
+
+=====PAGE 3
+2
+All programs and services of the federal, state, and local agencies 
+listed above are available on a nondiscriminatory basis without 
+regard to race, color, national origin, religion, sex, age, marital status, 
+handicap or disability. If you need this document in an alternative 
+format, please call (706) 552-4470.
+2016
+Technical Editors: Brady Hart, Benton Ruzowicz, Susan Castle, & 
+Guerry Thomas
+
+=====PAGE 4
+3
+TABLE OF CONTENTS
+INTRODUCTION
+VEGETATIVE BEST MANAGEMENT PRACTICES
+Bf
+Sb
+Fl-Co
+Du
+Ds1
+Ds2
+Ss
+Tac
+Ds3
+Cs
+Ds4
+Buffer Zone
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Dust Control on Disturbed Area
+Coastal Dune Stabilization
+Flocculants and Coagulants
+Slope Stabilization
+Tackifiers
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+Disturbed Area Stabilization	
+(With Sodding)
+Streambank Stabilization	
+(With Permanent Vegetation)
+PAGE
+10
+14
+18
+20
+26
+38
+42
+46
+48
+56
+60
+6
+STRUCTURAL BEST MANAGEMENT PRACTICES
+Check Dam
+Channel Stabilization
+Construction Road Stabilization
+Construction Exit
+Stream Diversion Channel 
+Diversion
+Ch
+Cd
+Co
+Cr
+Dc
+Di
+66
+70
+74
+76
+78
+82
+
+=====PAGE 5
+4
+Temporary Downdrain Structure
+Grade Stabilization Structure
+Inlet Sediment Trap
+Sediment Barrier
+Retrofit
+Retaining Wall
+Rock Filter Dam
+Level Spreader
+Gabion
+Filter Ring
+Permanent Downdrain Structure
+Dn1
+Ga
+Fr
+Dn2
+Sd2
+Rt
+Re
+Sd1
+Sd3
+Lv
+Gr
+Rd
+Temporary Sediment Basin
+Sd4
+Sk
+SpB
+Sr
+Temporary Sediment Trap
+Floating Surface Skimmer
+Seep Berm
+Temporary Stream Crossing
+Vegetated Waterway or	
+Stormwater Conveyance Channel
+Tree Protection
+Topsoiling
+Turbidity Curtain
+Surface Roughening
+Storm Drain Outlet Protection
+St
+Tc
+Su
+Tr
+Tp
+Wt
+84
+88
+90
+92
+94
+96
+98
+100
+102
+106
+112
+120
+126
+130
+132
+136
+140
+144
+148
+152
+154
+156
+
+=====PAGE 6
+5
+THE EROSION & SEDIMENT 
+CONTROL ACT OF 1975, AS AMENDED
+THE NATIONAL POLLUTION 
+DISCHARGE ELIMINATION SYSTEM 
+(NPDES) PERMIT
+CONSTRUCTION CHECKLIST
+GLOSSARY
+POINTS OF CONTACT
+160
+167
+168
+188
+199
+APPENDIX A-2: JOINING THE 
+EQUIVALENT BMP LIST
+170
+COMMONLY USED ACRONYMS
+208
+
+=====PAGE 7
+6
+INTRODUCTION
+The First Edition of this Field Manual was printed 
+in 1979 and revised in 1988, 1997, 2002, and 
+2016. Georgia’s Erosion and Sedimentation Law 
+has been amended several times since 1975 with 
+major changes throughout the years. The emphasis 
+shifted from water quality to meeting “minimum 
+requirements.” This means that Best Management 
+Practices (BMPs) must be properly designed, 
+installed, and maintained in accordance with sound 
+conservation and engineering principals.
+This Field Manual has been prepared primarily 
+to assist field personnel involved in on-site 
+land-disturbing activities. It should be helpful as 
+a quick reference in the actual installation and 
+maintenance of BMPs. The inclusion of detailed 
+design information has purposely been kept to a 
+minimum. For more detailed information, please 
+consult the Manual for Erosion & Sediment Control 
+in Georgia.
+BMPs are vegetative measures and structural 
+practices that control the erosion of soil and the 
+resulting sedimentation. The law mandates that all 
+BMPs stand up to a 25-year rainfall event or the 
+land disturber is subject to severe civil penalties.
+The key to well-planned land-disturbing activities is 
+well-informed persons in the field; the individual for 
+whom this Field Manual is written. Common sense 
+and a working knowledge of the tools that nature 
+has provided will lead to good site development.
+
+=====PAGE 8
+7
+The Georgia Law is called the “Erosion and 
+Sedimentation Act” (O.C.G.A. 12-7-1). Erosion 
+and sedimentation are 2 separate processes. If 
+erosion is controlled, sediment is not detached 
+and transported. Therefore, to have good erosion 
+and sediment control, emphasis has to be placed 
+on controlling erosion at the source. Sediment 
+control should be considered the last line of 
+defense. Allowing any erosion to occur is the first 
+step toward non-compliance.
+Complete erosion control does not usually involve 
+engineered structures, just sensible planning 
+and the immediate application of ground covers 
+that includes mulch and vegetation. Nature has 
+provided us with an abundance of trees, shrubs, 
+and grasses, all of which are effective erosion 
+control tools if used in a timely manner.
+If your ES&PC plan does not show a vegetative 
+buffer around a site but there is an area on the 
+perimeter that does not require cleaning, then save 
+the existing vegetation. A good vegetative buffer 
+25-35 ft wide can trap 85-95% of the sediment in 
+runoff water.
+If a site is properly engineered, cut and fill slopes 
+can be mulched or vegetated daily. Mulch does not 
+require water, fertilizer, or lime. A good application 
+of mulch can reduce soil loss by up to 98%.
+Use conventional planting methods, when feasible. 
+Sodding may initially be more expensive...but how 
+much more? If a site has to be planted several 
+times, then it may be cheaper to sod rather than 
+seed bare slopes. Even if the sod does die, most 
+sodded areas will protect bare areas from erosion 
+during the duration of the land-disturbing activity.
+
+=====PAGE 9
+8
+To summarize, save as much existing vegetation 
+as possible and mulch/vegetate as early and 
+frequently as possible.
+The BMPs listed in this manual are intended 
+to provide minimum control for erosion and 
+sedimentation problems as required by State Law. 
+However, other measures and innovative practices 
+that are at least as effective as the listed practices 
+are encouraged. While the emphasis is on meeting 
+the requirements of the State Law, land disturbers 
+must also comply with all other local, state, and 
+federal laws including the Section 404 Permit 
+issued by the Army Corps of Engineers (USACE) 
+and the NPDES Permits administered by the 
+Georgia Environmental Protection Division (GA 
+EPD). Local Issuing Authorities (LIA) must ensure 
+compliance on these regulations before issuing a 
+land disturbing activity permit (LDA).
+The Commission is grateful to the staff who 
+assisted in the preparation of this publication. We 
+welcome any notice of error or omissions we may 
+correct in our next publication.
+Throughout the Manual, many provisions of the E&S 
+Act and subsequent rules and regulations have 
+been paraphrased or shortened for convenience. 
+Any interpretations or opinions expressed in this 
+shortened format are those of the Commission and 
+are provided for quick reference only. In matters 
+of litigation, the Law and Courts have the final 
+decision.
+
+=====PAGE 10
+9
+VEGETATIVE 
+BEST MANAGEMENT  
+PRACTICES
+Bf
+Sb
+Fl-Co
+Du
+Ds1
+Ds2
+Ss
+Tac
+Ds3
+Cs
+Ds4
+Buffer Zone
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Dust Control on Disturbed Area
+Coastal Dune Stabilization
+Flocculants and Coagulants
+Slope Stabilization
+Tackifiers
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+Disturbed Area Stabilization	
+(With Sodding)
+Streambank Stabilization	
+(With Permanent Vegetation)
+The products and practices presented in this Field Manual show the 
+standard installation methods for each conventional BMP. New products and 
+practices may not necessarily meet the requirements for each conventional 
+BMP. Please see the Equivalent Best Management Practice List for specific 
+manufacturer guidelines and specifications.
+
+=====PAGE 11
+10
+	
+BUFFER ZONE
+DEFINITION
+PURPOSE
+A strip of undisturbed, original vegetation, 
+enhanced or restored existing vegetation or the 
+re-establishment of vegetation surrounding an 
+area of disturbance or bordering streams, ponds, 
+wetlands, lakes, and coastal waters
+•	 Reduce storm runoff velocities
+•	 Act as screen for “visual pollution”
+•	 Reduce construction noise
+•	 Improve aesthetics
+•	 Filtering and infiltrating runoff
+•	 Cooling rivers and streams by creating shade
+•	 Provide food and cover for wildlife and aquatic 
+organisms
+•	 Flood protection
+•	 Protect channel banks from erosion
+INSTALLATION
+•	 Important factors, such as slope, hydrology, 
+width, and structure shall be considered.
+•	 The GA EPD enforces a 25 ft minimum 
+undisturbed stream buffer requirement for 
+warm water fisheries and a 50 ft minimum 
+undisturbed stream buffer requirement for cold 
+water fisheries.
+Bf
+
+=====PAGE 12
+11
+Bf
+•	 If any land-disturbing activity, exempt or non-
+exempt, occurs within a mandated stream 
+buffer, all cut and fills shall be stabilized with 
+appropriate slope stabilization.
+Types of Buffers
+General Buffer
+•	 A strip of undisturbed, original land surrounding 
+the disturbed site.
+•	 A width should be selected to permit the zone 
+to serve the purpose(s) listed above.
+Vegetated Stream Buffer
+•	 A vegetated stream buffer of 50 ft or greater 
+can protect waters from excess sedimentation.
+Figure 1. Range of Minimum Width (ft.) for Meeting Specific Buffer 
+Objectives (Palone & Todd, draft)
+0
+25
+50
+75
+100
+150
+200
+250
+Wildlife Habitat
+Flood Control
+Streambanks Stabilization and Aquatic Food Web
+Sediment Control
+Nutrient Removal
+Water Temperature Moderation
+
+=====PAGE 13
+12
+Bf
+Purpose
+Grass
+Shrub
+Tree
+Filter 
+Sediment
+High
+Low
+Low
+Filter 
+Chemicals
+Medium
+Low
+Low
+Stabilize 
+Stream Banks
+Low
+High
+High
+Improve 
+Aesthetics
+Low
+Medium
+High
+Improve 
+Habitat
+Low
+Medium
+High
+Reduce Noise
+Low
+Medium
+High
+Table 1. Effectiveness of Vegetative Buffer Strips
+•	 The size of the stream and topography of the 
+area must be considered to determine the 
+appropriate width.
+•	 The buffer should be increased 2 ft in width 
+for every 1% slope.
+Planting Techniques
+•	 Plantings for buffer re-establishment and 
+enhancement can consist of bare root 
+seedlings, container-grown seedlings, 
+container-grown plants, and balled and 
+burlapped plants.
+•	 Standard erosion control grasses and 
+legumes may be used in denuded areas for 
+quick stabilization.
+•	 Refer to Tables 6-1.1 & 6-1.2 in the Manual 
+for Erosion & Sediment Control in Georgia 
+for complete listing of all Native Plants & 
+Unrooted Hardwood Cuttings.
+•	 Streambank stabilization techniques may 
+be required if steep slopes and hydrologic 
+patterns deem it necessary. 
+•	 Soil preparation and maintenance are 
+essential for the establishment of planted 
+vegetation.
+
+=====PAGE 14
+13
+Bf
+REFERENCES
+Sb
+Ds1
+Ds2
+Ds3
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+Streambank Stabilization	
+(With Permanent Vegetation)
+MAINTENANCE
+•	 Areas closet to the stream should be maintained 
+with minimal impact.
+•	 During periods of drought, water as necessary 
+in all buffer areas planted for enhancement.
+•	 Remove weeds by hand or with careful spraying.
+•	 Monitor to determine if plant material needs to 
+be replaced.
+•	 Fertilizer is unnecessary if the appropriate 
+vegetation is chosen.
+
+=====PAGE 15
+14
+	
+COASTAL DUNE 
+	
+STABILIZATION
+	
+(WITH VEGETATION)
+DEFINITION
+Planting vegetation on dunes that are denuded, 
+artificially constructed, or renourished.
+•	 Stabilize soil on dunes allowing them to become 
+more resistant to wind and waves.
+•	 Allow development of dunes in areas where they 
+have been damaged or destroyed.
+INSTALLATION
+•	 Install in accordance with the approved plan.
+•	 Install in accordance with all Federal, State and 
+local regulations.
+•	 Protect dunes from vehicular and human traffic.
+•	 Provide crosswalks or crossover structures to 
+allow for beach access.
+•	 Irrigate during the first growing season in order 
+to obtain good survival.
+•	 Native plants commercially available that may 
+be planted are included in Table 1.
+Cs
+PURPOSE
+
+=====PAGE 16
+15
+Sand Fence
+•	 Install according to approved plan.
+•	 Use posts made of Black Locust, Red or 
+White Cedar, or similarly durable wood.
+•	 Use posts with minimum length of 7 ft and 
+minimum diameter of 3”.
+•	 Space posts at a maximum of 10 ft.
+•	 Entrench posts a minimum of 3 ft.
+•	 Fasten fence to posts with four 12-gauge 
+galvanized wires.
+•	 Vegetation must be established immediately 
+following development of the dunes.
+•	 Use standard commercial 4-ft high snow 
+fence that consists of wooden slats wired 
+together with 1-1/4” spaces between the slats 
+(See Figure 2)
+Figure 1. Sand Fence and Native Plants
+Cs
+Table 1. Planting Requirements for Native Plants
+Species
+Stock
+Date
+Depth
+Marshay
+Cordgrass
+(Spartina patens)
+Plants
+Spring
+4”-5”
+Bitter Panicum 
+(Panicum 
+amarum)
+Rhizomes
+Spring
+~4”
+Coastal Panigrass 
+(Panicum amarum 
+v. amaralum
+Seeds or 
+Plants
+Spring
+1”-3”
+
+=====PAGE 17
+16
+MAINTENANCE
+•	 Repair any blowouts, wash pits, or other natural 
+or man-made damage quickly.
+•	 Maintain fences and erect additional fences if 
+needed until the eroding area is replenished.
+•	 Replant lost or destroyed vegetation.
+•	 Apply 50 lbs of nitrogen/acre/year.
+•	 Protect dunes from traffic by using elevated 
+walks, semi-permanent paved paths, and 
+portable roll-up walkways .
+Figure 2. Sand Fence Installation 
+Requirements
+Ground
+10' max.
+spacing
+level
+Black Locust, Red
+or White Cedar or
+4 12-gauge
+galvanized wires
+3" minimum
+7' min. length
+3' min.
+post diameter
+similarly durable wood
+Cs
+Barrier Dune Construction
+•	 Install sand fence a minimum of 100 ft from 
+the mean high tide line.
+•	 Space 2 or more parallel fences 30-40 ft 
+apart.
+•	 Locate fences as close to perpendicular with 
+the prevailing winds, but as near parallel to 
+the water line as possible
+•	 When the winds are generally parallel to the 
+water line, construct a single line of fence at 
+least 140 ft from the mean high tide line with 
+a shorter 30 ft section perpendicular to the 
+original fence.
+•	 Place these fences opposite the water side 
+and space these fences about 40 ft apart.
+
+=====PAGE 18
+17
+(This page left blank intentionally.)
+Cs
+
+=====PAGE 19
+18
+	
+DISTURBED AREA 
+	
+STABILIZATION 
+	
+(WITH MULCHING ONLY)
+DEFINITION
+A temporary cover of plant residues or other 
+suitable materials, produced on site if possible, 
+applied to the soil surface.
+PURPOSE
+•	 Reduce runoff and erosion
+•	 Modify soil temperature
+•	 Conserve moisture
+•	 Prevent surface compaction and crusting
+•	 Control undesirable vegetation
+•	 Increase biological activity in the soil
+INSTALLATION
+•	 Apply mulch or temporary grassing to all 
+exposed areas within 14 days of disturbance.
+•	 Applicable to graded or cleared areas where 
+seedings may not have a suitable growing 
+season to produce an erosion retardant cover.
+•	 Mulch can be used as a singular erosion control 
+device for up to 6 months.
+•	 Apply at the appropriate depth. Refer to Table 
+1 for specific materials.
+Site Preparation
+•	 Grade to permit the use of equipment for 
+applying and anchoring mulch
+Ds1
+
+=====PAGE 20
+19
+•	 Install needed erosion control measures such 
+as dikes, berms, and sediment barriers.
+•	 Loosen compacted soil to a minimum depth 
+of 3”.
+Applying Mulch
+•	 Apply dry straw or hay and wood chips 
+uniformly by hand or by mechanical 
+equipment.
+•	 Apply 20-30 lbs of nitrogen/acre if the area 
+will eventually be covered with perennial 
+vegetation.
+•	 Apply polyethylene film on exposed areas.
+Anchoring Mulch
+•	 Press straw or hay into the soil with a 
+disk harrow immediately after application. 
+Tackifiers may be used when spreading 
+mulch with blower-type equipment.
+•	 Anchor wood waste using the appropriate 
+size netting
+•	 Trench polyethylene at the top as well as 
+incrementally as necessary.
+MAINTENANCE
+REFERENCES
+•	 The appropriate depth and 90% cover shall be 
+maintained at all times.
+Table 1. Mulching Application Requirements
+Material
+Rate
+Depth
+Straw or hay
+-
+2” to 4”
+Wood waste, 
+chips, sawdust, 
+bark
+-
+2” to 3”
+Polyethylene film
+Secure with soil, 
+anchors, weights
+-
+Geotextiles, jute 
+matting, netting, 
+etc.
+See manufac­
+turer’s recom­
+mentations
+-
+Ds1
+Tac
+Tackifiers
+
+=====PAGE 21
+20
+	
+DISTURBED AREA 
+	
+STABILIZATION 
+	
+(WITH TEMPORARY SEEDING)
+DEFINITION
+The establishment of temporary vegetative cover 
+with fast growing seedings for seasonal protection 
+on disturbed or denuded areas.
+PURPOSE
+•	 Reduce runoff and sediment damage of down 
+stream resources
+•	 Protect the soil surface from erosion
+•	 Improve wildlife habitat
+•	 Improve aesthetics
+•	 Improve tilth, infiltration, and aeration as well as 
+organic matter for permanent plantings
+INSTALLATION
+•	 Apply mulch or temporary grassing to all 
+exposed areas within 14 days of disturbance.
+•	 Applicable to rough graded areas that will be 
+exposed for less than 6 months.
+•	 Coordinate with permanent measures to ensure 
+economical and effective stabilization.
+•	 Take note of which species are not appropriate 
+for companion crop plantings.
+•	 When the soil has been sealed by rainfall or 
+consists of smooth cut slopes, scarify the soil 
+in order to provide a place for the seed to lodge 
+and germinate.
+Ds2
+
+=====PAGE 22
+21
+•	 Apply agricultural lime at the rate determined 
+by soil test pH.
+•	 Apply lime before land preparation and 
+incorporate with a disk, ripper, or chisel.
+•	 On steep slopes, apply fertilizer hydraulically.
+•	 Select grass or grass-legume mixtures based 
+on the area and season of the year.
+•	 Apply seed uniformly by hand, cyclone seeder, 
+drill, culti-packer-seeder, or hydraulic seeder.
+•	 The appropriate depth of planting is 10x the 
+seed diameter.
+•	 Apply irrigation at a rate that will not cause runoff 
+and erosion. Thoroughly wet the soil to insure 
+germination of the seed.
+Ds2
+MAINTENANCE
+•	 Re-seed areas where an adequate stand of 
+temporary vegetation fails to emerge.
+•	 If optimum conditions for temporary vegetation 
+is lacking, mulch can be used a singular erosion 
+control device.
+REFERENCES
+Ds1
+Tac
+Disturbed Area Stabilization	
+(With Mulching Only)
+Tackifiers
+
+=====PAGE 23
+22
+Ds2
+Figure 2. Browntop Millet
+Figure 3. Ryegrass
+Figure 3. Rye
+
+=====PAGE 24
+23
+Species
+Rates Per 
+1,000 sq. ft.
+Rates per 
+Acre
+Planting Dates by Region
+M-L
+P
+C
+Barley Alone
+Barley in Mixtures
+3.3 lbs.
+.6 lbs.
+3 bu.
+.5 bu.
+9/1-10/31
+9/15-11/15
+10/1-12/31
+Lespedeza, Annual
+Lespedeza in Mixtures
+0.9 lbs.
+0.2 lbs.
+40 lbs.
+10 lbs.
+3/1-3/31
+3/1-3/31
+2/1-2/28
+Lovegrass, Weeping
+Lovegrass in Mixtures
+0.1 lbs.
+.05 lbs.
+4lbs.
+2 lbs.
+4/1-5/31
+4/1-5/31
+3/1-5/31
+Millet, Browntop
+Millet in Mixtures
+.9 lbs.
+.2 lbs.
+40 lbs.
+10 lbs.
+4/15-6/15
+4/15-6/30
+4/15- 6/30
+Millet, Pearl
+1.1 lbs.
+50 lbs.
+5/15-7/15
+5/1-7/31
+4/15-8/15
+Oats Alone
+Oats in Mixtures
+2.99 lbs.
+.7 lbs.
+4 bu.
+1 bu.
+9/15 -11/15
+9/15-11/15
+9/15-11/15
+Table 1. Some Temporary Plant Species, Seeding Rates and Planting Dates
+Ds2
+
+=====PAGE 25
+24
+Table 1. Some Temporary Plant Species, Seeding Rates and Planting Dates (continued)
+1.	Unusual site conditions may require heavier seeding rates.
+2. Seeding dates may need to be altered to fit temperature variations and local conditions.
+3.	For Major Land Resource Areas (MLRAs), see page 60.
+4.	Seeding rates are based on pure live seed (PLS).
+Species
+Rates Per 
+1,000 sq. ft.
+Rates per 
+Acre
+Planting Dates by Region
+M-L
+P
+C
+Rye (Grain) Alone
+Rye in Mixtures
+3.9 lbs.
+.6 lbs.
+3 bu.
+.5 bu.
+8/15-10/31
+9/15/-11/30
+10/1-12/31
+Ryegrass
+0.9 lbs.
+40 lbs.
+8/15-11/15
+9/1-12/15
+9/15-12/31
+Sudangrass
+1.4 lbs.
+60 lbs.
+5/1-7/31
+5/1-7/31
+4/1-7/31
+Triticale Alone
+Triticale in Mixtures
+3.3 lbs.
+.6 lbs
+3 bu.
+.5 bu.
+NA
+NA
+10/15-11/30
+Wheat Alone
+Wheat in Mixtures
+4.1 lbs.
+.7 lbs.
+3 bu.
+.5 bu.
+9/15 -11/30
+10/1-12/15
+10/15-12/31
+Ds2
+
+=====PAGE 26
+25
+Table 2. Fertilizer Requirements for Temporary Vegetation
+Types of Species
+Planting Year
+Fertilizer
+(N-P-K)
+Rate
+(lbs./acre)
+N Top Dressing 
+Rate (lbs./acre)
+Cool season grasses
+First
+Second
+Maintenance
+6-12-12
+6-12-12
+10-10-10
+1500
+1000
+400
+50-100
+---
+30
+Cool seasn grasses & 
+legumes
+First
+Second
+Maintenance
+6-12-12
+0-10-10
+0-10-10
+1500
+1000
+400
+0-50
+---
+---
+Temporary cover crops 
+seeded alone
+First
+10-10-10
+500
+30
+Warm season grasses
+First
+Second
+Maintenance
+6-12-12
+6-12-12
+10-10-10
+1500
+800
+400
+50-100
+50-100
+30
+Ds2
+
+=====PAGE 27
+26
+	
+DISTURBED AREA
+	
+STABILIZATION
+	
+(WITH PERMANENT SEEDING)
+DEFINITION
+The planting of perennial vegetation such as trees, 
+shrubs, vines, grasses, or legumes on exposed 
+areas for final permanent stabilization.
+PURPOSE
+•	 Protect the soil surface from erosion
+•	 Reduce damage from sediment and runoff to 
+down-stream areas
+•	 Improve wildlife habitat and visual resources
+•	 Improve aesthetics
+INSTALLATION
+•	 Use conventional planting methods where 
+possible.
+•	 Final Stabilization means that 100% of the 
+soil surface is uniformly covered in permanent 
+vegetation with a density of 70% or greater, or 
+landscaped according to the plan (uniformly 
+covered landscaping materials in planned 
+lanscaped areas), or equivalent permanent 
+stabilization measures.
+•	 Select plants species based on site and soil 
+conditions, planned use and maintenance of 
+the area, time of year, method of planting, and 
+the needs of the land user. (Refer to Table 1)
+Ds3
+
+=====PAGE 28
+27
+•	 Apply agricultural lime at a rate of 1-2 tons/
+acre unless soil tests indicate otherwise. 
+Please refer to Table 2 for initial fertilization, 
+nitrogen, topdressing, and maintenance fertilizer 
+requirements for each species.
+•	 Apply seed hydraulically. If using conventional 
+methods, use a culti-packer seeder, drill, rotary 
+seeder, or by hand. 
+•	 Cover the seed lightly with 1/8”-1/4” of soil for 
+small seed and 1/2”-1” of soil for large seed 
+when using a cultipacker.
+•	 Check seed tags for % germination & % purity in 
+order to calculate Pure Live Seed (PLS), which 
+is the percentage of the seeds that are pure and 
+will germinate.
+•	 Mulch is required for all permanent vegetation 
+applications. Please refer to Ds1 for application 
+rates and anchoring methods for different 
+materials.
+•	 Irrigate when the soil is dry and at a rate that 
+will not cause runoff.
+Figure 1. Typical Tag on a Bag of Seed
+Ds3
+PLS Example
+Tall Fescue
+85% germination & 95% purity
+PLS = 0.85 germination x 0.95 purity
+PLS = 80.75%
+Seeding rate = 50 lbs. PLS/acre = 61.92 lbs/acre
+    	
+	
+PLS	
+          80.75% PLS
+
+=====PAGE 29
+28
+Ds3
+Species
+Rates per 
+Acre
+Rates per 
+1,000 sq. ft
+Planting Dates by 
+Region
+Remarks
+M- L
+P
+C
+Bahia, Pensacola
+Alone or with temporary cover
+With other perennials
+60 lbs.
+30 lbs.
+1.4 lbs.
+0.7 lb.
+---
+4/1 -5/31
+3/1-5/31
+Low growing; sod producing; 
+will spread into Bermuda 
+lawns.
+Bahia, Wilmington
+Alone or with temporary cover
+With other perennials
+60 lbs.
+30 lbs.
+1.4 lbs.
+0.7 lb.
+3/15-5/31
+3/1-5/31
+__
+Same as above
+Bermuda, Common
+(Hulled seed)
+Alone
+With other perenials
+10 lbs.
+6 lbs.
+0.2 lb.
+0.1 lb.
+---
+4/1-5/31
+3/15-5/31
+Quick cover; low growing; 
+sod forming; needs full sun.
+Bermuda, Common
+(Unhulled seed)
+With temporary cover
+With other perennials
+10 lbs.
+6 lbs.
+0.2 lb.
+0.1 lb
+---
+10/1-2/28
+11/1-1/31
+Plant with Winter annuals.  
+Plant with Tall Fescue
+Table 1.  Some Permanent Plant Species, Seeding Rates, and Planting Dates
+
+=====PAGE 30
+29
+Table 1.  Some Permanent Plant Species, Seeding Rates, and Planting Dates (continued)
+Ds3
+Species
+Rates per 
+Acre
+Rates per 
+1,000 sq. ft
+Planting Dates by 
+Region
+Remarks
+M- L
+P
+C
+Bermuda Springs
+Common lawn and forage 
+hybrids
+40 cu. ft.
+0.9 cu.ft.
+4/15-6/15
+4/1-6/15
+4/1-5/31
+1 cu. ft. = 650 sprigs
+1 bu. = 1.25 cu. ft. or 800 
+sprigs
+Sod plugs 3’ x3’
+Centipede
+Blcok Sod 
+Only
+Block Sod 
+Only
+---
+11/1-5/31
+11/1-5/31
+Drought tolerant. Full sun or 
+partial shade.
+Crown Vetch
+With winter annuals
+or cool season grasses
+15 lbs.
+0.3 lb.
+9/1-10/15
+9/1-10/15
+--
+Mix with 30 lbs. Tall Fescue or 
+15 lbs. Rye; inoculate seed; 
+plant only North of Atlanta.
+Fescue, Tall
+Alone 
+With other perennials
+50 lbs.
+30 lbs.
+1.1 lbs.
+0.7 lb.
+3/1-4/15
+or
+8/15-10/15
+9/1-10/15
+---
+Can be mixed with perennial 
+Lespedezas or Crown Vetch; 
+not for droughty soils or heavy 
+use areas
+
+=====PAGE 31
+30
+Species
+Rates per 
+Acre
+Rates per 
+1,000 sq. ft
+Planting Dates by 
+Region
+Remarks
+M- L
+P
+C
+Lespedeza, Sericea
+Scarified
+Unscarified
+Seed-bearing hay
+60 lbs.
+75 lbs.
+3 tons
+1.4 lbs.
+1.7 lbs.
+138 lbs.
+4/1-5/31
+9/1-2/28
+10/1-2/28
+3/15-5/31
+9/1-2/28
+10/1-1/31
+3/1-5/15
+9/1-2/28
+10/15-1/15
+Widely adapted and low maintenance; 
+takes 2-3 years to establish; inoculate 
+seed with EL inoculant; mix with 
+Weeping lovegrass, Common 
+Bermuda, Bahia or Tall Fescue.
+Mix with Tall Fescue or winter annuals.
+Cut when seed is mature but before 
+it shatters.  Add Tall Fescue or winter 
+annuals.
+Ds3
+Table 1.  Some Permanent Plant Species, Seeding Rates, and Planting Dates (continued)
+
+=====PAGE 32
+31
+Ds3
+Species
+Rates per 
+Acre
+Rates per 
+1,000 sq. ft
+Planting Dates by 
+Region
+Remarks
+M- L
+P
+C
+Lespedeza Ambro
+Virgata or Appalow
+Scarified
+Unscarified
+60 lbs.
+75 lbs.
+1.4 lbs.
+1.7 lbs.
+4/1-5/31
+9/1-2/28
+3/15-5/31
+9/1-2/28
+3/1-5/15
+9/1-2/28
+Spreading growth with height 
+of 18”-24”; good in urban 
+areas; slow to develop good 
+stands; mix with Weeping  
+Lovegrass, Common 
+Bermuda, Bahia Tall Fescue 
+or winter annuals; do not mix 
+with Sericea Lespededeza; 
+inoculate seed with EL 
+inoculant.
+Lespedeza, Shrub 
+(Lespedeza Bicolor or 
+Lespedeza Thumbergii) 
+Plants
+3’ x 3’ spacing
+10/1-3/31
+11/1-3/15
+11/15-2/28
+Plant in small clumps for 
+wildlife food and cover.
+Table 1.  Some Permanent Plant Species, Seeding Rates, and Planting Dates (continued)
+
+=====PAGE 33
+32
+Ds3
+Table 1.  Some Permanent Plant Species, Seeding Rates, and Planting Dates (continued)
+Species
+Rates per 
+Acre
+Rates per 
+1,000 sq. ft
+Planting Dates by 
+Region
+Remarks
+M- L
+P
+C
+Lovegrass, weeping
+Alone
+With other perennials
+4 lbs.
+2 lbs.
+0.1 lb.
+0.05 lb.
+4/1-5/31
+3/15-5/31
+3/1-5/31
+Quick cover; drought tolerant; 
+grows well with Sericea 
+Lespedeza on road-banks and 
+other steep slopes; short lived.
+Maidencane sprigs
+2’ x 3’ spacing
+2/1-3/31
+2/1-3/31
+2/1-3/31
+For very wet sites such as river 
+banks and shorelines.  Dig 
+sprigs locally.
+Panicgrass, Altantic 
+Coastal
+20 lbs.
+0.5 lb.
+---
+3/1-4/30
+3/1-4/30
+Grows well on coastal sand 
+dunes; mix with Sericea 
+Lespedeza but not on sand 
+dune.
+Red Canary Grass
+With other perennials
+50 lbs. 
+30 lbs.
+1.1 lbs.
+0.7 lb.
+8/15-10/15
+9/1-10/15
+___
+Grows similar to Tall Fescue; 
+for wet sites
+
+=====PAGE 34
+33
+Species
+Rates per 
+Acre
+Rates per 
+1,000 sq. ft
+Planting Dates by 
+Region
+Remarks
+M- L
+P
+C
+Sunflower, Aztec
+Maximillian
+10 lbs.
+0.2 lb.
+ 4/15-5/31
+4/15-5/31
+4/1-5/31
+Mix with Weeping Lovegrass 
+or other low growing grasses 
+or legumes.
+Table 1.  Some Permanent Plant Species, Seeding Rates, and Planting Dates (continued)
+Ds3
+1. Rates are for broadcasted seed.  If a seed drill is used, reduce the rates by one-half.
+2. PLS is an abbreviation for Pure Live Seed.  Refer to Glossary for an explanation of this term.
+3. The resource areas are defined in the Glossary.  See page 60 for Resource Area.
+4. Seeding rates are based on pure live seeds (PLS).
+
+=====PAGE 35
+34
+Ds3
+Types of Species
+Planting Year
+Fertilizer
+(N-P-K)
+Rate
+(lbs./ acre)
+N Top Dressing
+Rate (lbs./acre)
+Cool season grasses
+First 
+Second
+Maintenance
+6-12-12
+6-12-12
+10-10-10
+1500
+1000
+400
+50-100
+---
+30
+Cool grasses and 
+legumes
+First 
+Second
+Maintenance
+6-12-12
+0-10-10
+0-10-10
+1500
+1000
+400
+0-50
+---
+---
+Warm season grasses
+First 
+Second
+Maintenance
+6-12-12
+6-12-12
+10-10-10
+1500
+800
+400
+50-100
+50-100
+30
+Warm season grasses 
+and legumes
+First 
+Second
+Maintenance
+6-12-12
+0-10-10
+0-10-10
+1500
+1000
+400
+50
+---
+---
+Table 2. Fertilizer Requirements for Permanent Vegetation
+
+=====PAGE 36
+35
+Ds3
+(This page left blank intentionally.)
+
+=====PAGE 37
+36
+Figure 3.  Sericea Lespedeza
+Figure 2.  Weeping Lovegrass
+Ds3
+Figure 4.  Common Bermuda
+
+=====PAGE 38
+37
+MAINTENANCE
+•	 Re-seed areas where an adequate stand of 
+vegetation fails to emerge or where a poor 
+stand exists.
+•	 Maintain at least 6” of top growth under any use 
+and management.
+•	 Exclude traffic until the plants are well 
+established.
+•	 Please refer to Table 2 for second year and 
+maintenance fertilizer rates.
+•	 Apply one ton of agricultural lime every 4-6 
+years or as indicated by soil tests.
+•	 Mow Bermudagrass, Bahiagrass, and Tall 
+Fescue as desired. 
+•	 Mow Sericea Lespedeza only after frost to 
+ensure that the seeds are mature.
+REFERENCES
+Ds3
+Ds1
+Ds2
+Ss
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Slope Stabilization
+
+=====PAGE 39
+38
+	
+DISTURBED AREA 
+	
+STABILIZATION 
+	
+(WITH SODDING)
+DEFINITION
+A permanent vegetative cover using sods on highly 
+erodible or critically eroded lands.
+PURPOSE
+•	 Establish immediate ground cover
+•	 Reduce runoff and erosion
+•	 Improve aesthetics and land value
+•	 Reduce dust and sediments
+•	 Stabilize waterways and critical areas
+•	 Filter sediments, nutrients and bugs
+•	 Reduce downstream complaints
+•	 Reduce likelihood of legal action
+•	 Reduce likelihood of work stoppage due to 
+legal action
+•	 Increase “good neighbor” benefits
+INSTALLATION
+•	 Bring soil surface to final grade. Clear surface 
+of trash, woody debris, stones and clods larger 
+than 1”. Apply sod to soil surfaces only and not 
+frozen surfaces, or gravel type soils.
+Ds4
+
+=====PAGE 40
+39
+•	 On slopes steeper than 3:1, sod should be 
+anchored with pins or other approved methods.
+•	 Installed sod should be rolled or tamped to 
+provide good contact between sod and soil.
+•	 Irrigate sod and soil to a depth of 4” immediately 
+after installation.
+•	 Sod should not be cut or spread in extremely 
+wet or dry weather.
+•	 Irrigation should be used to supplement rainfall 
+for a minimum of 2-3 weeks.
+•	 Topsoil properly applied will help guarantee a 
+stand. Don’t use topsoil recently treated with 
+herbicides or soil sterilants.
+•	 Mix fertilizer into soil surface. Fertilize based 
+on soil tests or Table 1. For fall planting of 
+warm season species, half the fertilizer should 
+be applied at planting and the other half in the 
+spring.
+•	 Agricultural lime should be applied based on 
+soil tests or at a rate of 1-2 tons/acre.
+•	 Lay sod with tight joints and in straight lines. 
+Don’t overlap joints. Stagger joints and do not 
+stretch sod.
+Ds4
+Table 1. Fertilizer Requirements for Soil 
+Surface Application
+Fertilizer
+Type
+(lbs./acre)
+Fertilizer
+ Rate
+(lbs./sq.ft.)
+Fertilizer
+Rate
+Season
+10-10-10
+1000
+.025
+Fall
+MATERIALS
+•	 Sod selected should be certified. Sod grown 
+in the general area of the project is desirable.
+•	 Sod should be machine cut and contain 
+3/4” (+ or - 1/4”) of soil, not including shoots or 
+thatch.
+
+=====PAGE 41
+40
+Ds4
+Table 2. Sod Planting Requirements
+Grass
+Varieties
+Resource
+Area
+Growing
+Season
+Bermudagrass
+Common
+Tifway
+Tifgreen
+Tiflawn
+M-L, P,C
+P,C
+P,C
+P,C
+Warm 
+weather
+Bahiagrass
+Pensacola
+P,C
+Warm 
+weather
+Centipede
+___
+P,C
+Warm 
+weather
+St. Augustine
+Common
+Bitterblue
+Raleigh
+C
+Warm 
+weather
+Zoysia
+Emerald
+Myer
+P,C
+Warm 
+weather
+Tall Fescue
+Kentucky 31
+M-L, P
+Cool 
+weather
+•	 Sod should be cut to the desired size within 
+±5%. Torn or uneven pads should be rejected.
+•	 Sod should be cut and installed within 36 hours 
+of digging.
+•	 Avoid planting when subject to frost heave or 
+hot weather, if irrigation is not available.
+•	 The sod type should be shown on the plans or 
+installed according to Table 2. See page 60 for 
+your Resource Area.
+MAINTENANCE
+•	 Re-sod areas where an adequate stand of sod 
+is not obtained.
+•	 New sod should be mowed sparingly. Grass 
+height should not be cut less than 2”-3” or as 
+specified.
+•	 Apply one ton of agricultural lime as indicated 
+by soil test or every 4-6 years.
+
+=====PAGE 42
+41
+REFERENCES
+Ds4
+Table 3. Fertilizer Requirements for Sod
+Types 
+of
+Species
+Planting
+Year
+Fertilizer
+(N-P-K)
+Rate
+(lbs./acre)
+Nitrogen
+Top
+Dressing 
+Rate
+(lbs./acre)
+Cool 
+season
+grasses
+First 
+Second
+Maintenance
+6-12-12
+6-12-12
+10-10-10
+1500
+1000
+400
+50-100
+---
+30
+Warm 
+season
+grassed
+First 
+Second
+Maintenance
+6-12-12
+6-12-12
+10-10-10
+1500
+800
+400
+50-100
+50-100
+30
+•	 Fertilize grasses in accordance with soil tests 
+or Table 3.
+Ds1
+Ds2
+Ss
+Ds3
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Slope Stabilization
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+
+=====PAGE 43
+42
+	
+DUST CONTROL ON
+	
+DISTURBED AREAS
+DEFINITION
+Controlling surface and air movement of dust on 
+construction sites, roads, and demolition sites.
+PURPOSE
+•	 Prevent surface and air movement of dust from 
+exposed soil surfaces.
+•	 Reduce the presence of airborne substances 
+that may be harmful or injurious to human 
+health, welfare, or safety, or to animals or plant 
+life.
+MATERIALS
+Temporary Methods
+•	 Mulches - See Ds1 - Disturbed Area 
+Stabilization (with Mulching only). Refer to 
+specification Tac - Tackifiers for the use of 
+synthetic resin to bind mulch material.
+•	 Vegetative Cover - See Ds2 - Disturbed Area 
+Stabilization (with Temporary Seeding).
+•	 Spray-on Adhesives - For use on mineral soils, 
+not muck soils. Refer to specification Tac - 
+Tackifiers.
+Du
+
+=====PAGE 44
+43
+MAINTENANCE
+•	 Prohibit traffic on surface after spraying.
+•	 Supplement surface covering as needed.
+	
+	
+Du
+•	 Tillage - Designed to roughen and bring clods to 
+the soil surface. Begin plowing on windward side 
+of site. Use chisel-type plows, spring-toothed 
+harrows, or similar plows to achieve desired 
+effect. This is an emergency measure to be 
+used before wind erosion starts.
+•	 Irrigation - Sprinkle the site with water until the 
+surface is wet. Repeat as needed.
+•	 Barriers - Use solid board fence, snow fence, 
+burlap fence, crate walls, bales of hay, or similar 
+material to control air currents and soil blowing. 
+Place barriers at right angles at intervals of 15x 
+their height to control wind erosion.
+•	 Calcium Chloride - Apply at a rate to keep the 
+surface moist.
+Permanent Methods
+•	 Permanent Vegetation - See Ds3 - Disturbed 
+Area Stabilization (with Permanent seeding). 
+Existing trees and large shrubs may afford 
+valuable protection if left in place.
+•	 Topsoiling - See specification Tp - Topsoiling.
+•	 Stone - Cover surface with crushed stone 
+or coarse gravel. See specification Cr - 
+Construction Road Stabilization.
+
+=====PAGE 45
+44
+Du
+REFERENCES
+Ds1
+Ds2
+Ds3
+Ds4
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+Disturbed Area Stabilization	
+(With Sodding)
+Tac
+Tackifiers
+Construction Road Stabilization
+Cr
+Topsoiling
+Tp
+
+=====PAGE 46
+45
+(This page left blank intentionally.)
+Du
+
+=====PAGE 47
+46
+FLOCCULANTS & 
+COAGULANTS
+DEFINITION
+Formulated to assist in the solids/liquid separation 
+of suspended particles in solution.
+Coagulant - Required to help give body to the 
+water. A coagulant neutralizes the repulsive 
+electrical charges surrounding particles allowing 
+them to “stick together” creating clumps or flocs 
+that form a small to mid-size particle.
+Flocculent - Facilitate the agglomeration or 
+aggreation of the coagulated particles to form 
+larger floccules and act as a net where it gathers 
+up the smaller coagulated particles making a larger 
+particle. This larger particle will slowly drop out of 
+suspension.
+PURPOSE
+•	 Settle suspended sediment, heavy metals 
+and hydrocarbons (TSS) in runoff water from 
+construction sites for water clarification.
+INSTALLATION
+•	 Application shall conform to manufacturer’s 
+instructions and guidelines. Fl-Co applications 
+shall comply with all federal and local laws. 
+•	 Only anionic forms of Fl-Co shall be used.
+Fl-Co
+
+=====PAGE 48
+47
+Fl-Co
+•	 Maintenance shall consist of reapplying Fl-Co 
+via the measures above when turbidity levels 
+are no longer met or the Fl-Co is used up. 
+Bricks, blocks, socks,logs and bags shall be 
+maintained  when sediment accumulates on 
+the products.
+MAINTENANCE
+•	 This practice is not intended for application to 
+surface waters of the state. It is intended for 
+application within construction storm water 
+ditches and storm drainage systems that feed 
+into pre-constructed ponds or basins.
+
+=====PAGE 49
+48
+	
+STREAMBANK
+	
+STABILIZATION
+(USING PERMANENT VEGETATION)
+DEFINITION
+The use of readily available native plant materials 
+to maintain and enhance streambanks, or to 
+prevent, or restore and repair small streambank 
+erosion problems.
+PURPOSE
+•	 Lessen the impact of rain directly on the soil.
+•	 Trap sediment from adjacent land.
+•	 Form a root mat to stabilize and reinforce the 
+soil on the streambank.
+•	 Provide wildlife habitat.
+•	 Enhance the appearance of the stream.
+•	 Lower summertime water temperatures for a 
+healthy aquatic population.
+NOTE: Careful thought, planning and execution is 
+required to assure that the streambank stabilization 
+project is done efficiently and correctly. Please 
+refer to GSWCC’s Guidelines for Streambank 
+Restoration for more detailed information.
+Sb
+
+=====PAGE 50
+49
+SELECTED PRACTICES
+•	 Revegetation includes seeding and sodding of 
+grasses, seeding in combination with erosion 
+control fabrics, and the planting of woody 
+vegetation (shrubs and trees).
+•	 Use jute mesh and other geotextiles to aid in 
+soil stabilization and revegetation.
+Live Stake
+•	 Fresh, alive woody plant cuttings tamped into 
+the ground as stakes, intended to root and 
+grow into mature shrubs that will stabilize 
+soils and restore the riparian zone habitats.
+•	 Willow species work best.
+•	 Provides no immediate streambank 
+stabilization.
+Joint Planting
+•	 Installation of live willow stakes between rock 
+previously placed along the streambank.
+•	 Rock needs to be loosely dumped or hand 
+placed and no thicker than 2 ft.
+•	 Enables a bank previously installed with 
+conventional rip-rap to become naturalized.
+Figure 1.  Illustration of a Live Stake
+Sb
+
+=====PAGE 51
+50
+Live Fascine
+•	 Sausage-like bundles of live cut branches 
+placed into trenches along the streambank.
+•	 Willow species work best.
+•	 Provides immediate protection from erosion 
+when properly used and installed.
+•	 Creates very little site disturbance as 
+compared to other systems.
+•	 Works especially well when combined with 
+surface covers such as jute mesh or coir 
+fabrics.
+Figure 2.  Illustration of Joint Planting
+Figure 3.  Illustration of a Live Fascine
+Sb
+
+=====PAGE 52
+51
+	
+	
+Brushmattress
+•	 Combination of living units that form an 
+immediate protective surface cover over the 
+streambank.
+•	 Living units used include live stakes, live 
+fascines, and a mattress branch cover (long, 
+flexible branches placed against the bank 
+surface).
+•	 Requires a great deal of live material.
+•	 Complicated and expensive to evaluate, 
+design, and install.
+•	 Captures sediment during flood conditions.
+•	 Produces habitat rapidly, and quickly develops 
+a healthy riparian zone.
+Live Cribwall
+•	 A rectangular framework of logs or timbers, 
+rock, and woody cuttings.
+•	 Requires a great deal of assessment and 
+understanding of stream behavior.
+•	 Can be complicated and expensive if a 
+supply of wood and some volunteer help is 
+not available.
+•	 Develops a natural streambank or upland 
+slope appearance after it has begun to grow.
+Figure 4.  Illustration of a Brushmattress
+Sb
+
+=====PAGE 53
+52
+•	 Provides excellent habitat for a variety of fish, 
+birds, and animals.
+•	 Very useful where space is limited on small, 
+narrow stream corridors.
+Branchpacking
+•	 Process of alternating layers of live branches 
+and soil, incorporated into a hole, gully, or 
+slumped-out area in a slope or streambank.
+•	 Moderate to complex level of difficulty for 
+construction.
+•	 Produces an immediate filter barrier, reducing 
+scouring conditions, repairing gully erosion, 
+and providing habitat cover and bank 
+reinforcement.
+Figure 5.  Illustration of a Live Cribwall
+Figure 6.  Illustration of Branchpacking
+Sb
+
+=====PAGE 54
+53
+Sb
+Table 1. Streambank Erosion Protection 
+Measures Relative Costs Complexity
+Measure
+Relative
+Cost
+Relative 
+Complexity
+Live stake
+Low
+Simple
+Joint planting
+Low*
+Simple*
+Live fascine
+Moderate
+Moderate
+Brushmattress
+Moderate
+Moderate 
+to 
+Complex
+Live cribwall
+High
+Complex
+Branchpacking
+Moderate
+Moderate
+to 
+Complex
+Conventional
+vegetation
+Low to
+Moderate
+Simple 
+to 
+Moderate
+Conventional
+bank armoring
+ (riprap)
+Moderate
+to
+High
+Moderate 
+to 
+Complex
+•	 One of the most effective and inexpensive 
+methods for repairing holes in earthen 
+embankments along small stream sites.
+*Assumes rock is in place
+
+=====PAGE 55
+54
+REFERENCES
+Sb
+Guidelines for Streambank Restoration, 
+Georgia Soil and Water Conservation    
+Commission
+MAINTENANCE
+•	 Check banks after every high-water event, 
+fixing gaps in the vegetative cover at once with 
+structural materials or new plants, and mulching 
+if necessary.
+•	 Fresh cuttings from other plants may be used 
+for repairs.
+•	 When fertilizer is applied on the surface, it is 
+best to apply about one-half at planting, one-
+fourth when new growth is about 2” tall, and 
+one-fourth about six weeks later.
+Ds1
+Ds2
+Ss
+Ds3
+Ds4
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Slope Stabilization
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+Disturbed Area Stabilization	
+(With Sodding)
+
+=====PAGE 56
+55
+(This page left blank intentionally.)
+Sb
+
+=====PAGE 57
+56
+SLOPE 
+STABILIZATION
+DEFINITION
+A protective covering used to prevent erosion and 
+establish temporary or permanent vegetation on 
+steep slopes, shore lines, or channels.
+Rolled Erosion Control Products (RECP)
+•	 A natural fiber blanket with single or double 
+photodegradable or biodegradable nets. 
+Hydraulic Erosion Control Products (HECP)
+•	 HECP shall utilize straw, cotton, wood or 
+other natural based fibers held together by 
+a soil binding agent which works to stabilize 
+soil particles. Paper mulch should not be used 
+for erosion control.
+PURPOSE
+•	 Provide a cover layer that stabilizes the soil 
+and acts as a rain drop impact dissipater while 
+providing a microclimate which protects young 
+vegetation and promotes its establishment.  
+INSTALLATION
+•	 Installation and stapling of RECPs and 
+application rates for the HECPs shall conform 
+to manufacturer’s guidelines for application.  
+•	 Hydraulic erosion control products shall be 
+prepackaged from the manufacturer. Field 
+mixing of performance enhancing additives will 
+not be allowed. Fibrous components should be 
+all natural or biodegradable.
+Ss
+
+=====PAGE 58
+57
+Figure 1.  Hydroseeding on disturbed areas
+Ss
+Figure 2.  Installation of Jute Matting
+MAINTENANCE
+•	 Inspect all erosion control blankets and 
+matting periodically after installation. Inspect 
+immediately after rainstorms to check for 
+erosion and undermining.
+•	 Repair all dislocations and failures immediately.
+•	 Re-install all materials after washouts or 
+breakage occurs. Repair damage to the slope 
+or ditch first.
+•	 Monitor all areas until they are permanently 
+stabilized.
+
+=====PAGE 59
+58
+Ss
+Figure 2.  Typical Installation Guidelines for 
+RECP
+
+=====PAGE 60
+59
+(This page left blank intentionally.)
+
+=====PAGE 61
+60
+	
+TACKIFIERS
+DEFINITION
+A substance used as tie-down for soil, compost, 
+seed, straw, hay or mulch. They hydrate in water 
+and readily blend with other slurry materials to form 
+a homogenous slurry.
+PURPOSE
+The purpose of tackifiers are to reduce soil erosion 
+from wind and water on construction sites. It 
+also increases the performance of the mulching 
+material, so that it can:
+•	 Increase infiltration.
+•	 Increase soil fertility
+•	 Control undesirable vegetation.
+•	 Reduce runoff stormwater turbidity and loss 
+of topsoil.
+•	 Modify soil temperature.
+•	 Increase soil cohesion and stabilization.
+•	 Enhance seed germination
+CONDITIONS
+This practice is intended for direct soil surface 
+application to sites where the timely establishment 
+of vegetation may not be feasible or where 
+vegetative cover is absent or inadequate. 
+Tac
+
+=====PAGE 62
+61
+Tac
+CRITERIA
+•	 All organic mulching materials shall be anchored 
+by tackifiers/binders or matting/netting. Tackifiers 
+and binders are used to anchor wood cellulose, 
+wood pulp fiber, and other mulch materials 
+applied with hydroseeding equipment.
+•	 Only anionic forms of PAM shall be used. Not 
+harmful to plants, animals, and aquatic life.
+•	 Application rates shall conform to manufacturer’s 
+guidelines for application.
+•	 Shall not reduce infiltration rates.
+•	 All organic tackifiers must be derived from 
+natural plant sources.
+•	 Contain no growth or germination inhibiting 
+materials.
+•	 Synthetic fibers shall be of nylon or polyester 
+blends.
+•	 There are 5 types of tackifiers:
+•	 	
+	
+	
+Synthetic Polymers
+•	 	
+	
+	
+Organic Polymers
+•	 	
+	
+	
+Synthetic/Organic Blends
+•	 	
+	
+	
+Organic Polymers w/ Synthetic Fibers
+•	 	
+	
+	
+Synthetic/Organic Blends w/ Synthetic Fibers
+Tac-1
+Tac-2
+Tac-3
+Tac-4
+Tac-5
+
+=====PAGE 63
+62
+
+=====PAGE 64
+63
+(This page left blank intentionally.)
+
+=====PAGE 65
+64
+STRUCTURAL 
+BEST MANAGEMENT 
+PRACTICES
+Temporary Downdrain Structure
+Grade Stabilization Structure
+Check Dam
+Channel Stabilization
+Construction Road Stabilization
+Construction Exit
+Inlet Sediment Trap
+Sediment Barrier
+Retrofit
+Retaining Wall
+Rock Filter Dam
+Level Spreader
+Stream Diversion Channel 
+Gabion
+Filter Ring
+Diversion
+Permanent Downdrain Structure
+Dn1
+Ch
+Cd
+Co
+Ga
+Cr
+Dc
+Fr
+Di
+Dn2
+Sd2
+Rt
+Re
+Sd1
+Sd3
+Lv
+Gr
+Rd
+Temporary Sediment Basin
+Sd4
+Sk
+SpB
+Sr
+Temporary Sediment Trap
+Floating Surface Skimmer
+Seep Berm
+Temporary Stream Crossing
+
+=====PAGE 66
+65
+Vegetated Waterway or	
+Stormwater Conveyance Channel
+Tree Protection
+Topsoiling
+Turbidity Curtain
+Surface Roughening
+Storm Drain Outlet Protection
+St
+Tc
+Su
+Tr
+Tp
+Wt
+The products and practices presented in this Field Manual show the 
+standard installation methods for each conventional BMP. New products and 
+practices may not necessarily meet the requirements for each conventional 
+BMP. Please see the Equivalent Best Management Practice List for specific 
+manufacturer guidelines and specifications.
+
+=====PAGE 67
+66
+	
+CHECK DAM
+DEFINITION
+A small temporary barrier constructed across a 
+swale, drainage ditch, or area of concentrated flow.
+PURPOSE
+•	 Reduce velocity.
+•	 Filter sediment.
+•	 Stabilize grade.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 Place in small, open channels, not in live 
+streams.
+•	 Construct center at least 9” lower than outer 
+edges.
+•	 Extend across entire width of ditch or swale.
+•	 Make side slopes 2:1 or flatter.
+•	 Toe of the upstream dam should be at the same 
+elevation as the top of the downstream dam.
+•	 Seed and mulch area beneath the dam after 
+its removal.
+•	 Check dams may be used in conjunction with 
+other BMPs for any flows exceeding 2.0 cfs.
+Cd
+
+=====PAGE 68
+67
+Stone Check Dams 
+•	 Drainage area not to exceed 2 acres.
+•	 Constructed of graded size 2”-10” stone.
+•	 The center of the check dam should be at 
+least 9” lower than the outer edges.
+•	 The dam height should be a maximum of 2 
+ft from the center to the rim edge.
+•	 Place a suitable geotextile between the graded 
+stone and the soil base and abutments.
+Figure 1.  Stone Check Dam Spacing 
+Requirements
+Cd-S
+Cd
+Straw Bale Check Dams 
+•	 Drainage area not to exceed 1 acre.
+•	 Bales should be bound with wire or nylon 
+string.
+•	 Bales should be placed in rows with bale ends 
+tightly abutting the adjacent bales.
+•	 A trench shall be dug across the channel deep 
+enough that the wide side of the 2nd bale is 
+level with the ground.
+•	 Drive the standard 2x2 stakes or #4 rebar 
+through the bales into the ground 18”-24” 
+for anchorage. The first stake in each bale 
+should be driven toward a previsouly laid bale 
+in order to force bales together.
+Cd-Hb
+
+=====PAGE 69
+68
+Cd
+Figure 1.  Straw Bale Check Dam Installation 
+Requirements
+Compost Filter Sock
+•	 Drainage area not to exceed 1 acre.
+•	 Place one stake in the filter sock at the center 
+of the ditch/ channel.
+•	 Place stakes at the bed/bank junction and at 
+the end of the device not spaced more than 
+2 ft apart.
+•	 Compost filter sock to be at least 18” in 
+diameter
+•	 Minimum staking depth is 18”.
+•	 Can be seeded at the time of installation.
+Cd-Fs
+
+=====PAGE 70
+69
+Cd
+REFERENCES
+•	 Periodically inspect and maintain all structures.
+•	 Remove sediment when it reaches a depth of 
+one-half the original dam height.
+•	 May remain in place permanently.
+MAINTENANCE
+Ds1
+Ds2
+Ds3
+Ds4
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+Disturbed Area Stabilization	
+(With Sodding)
+Figure 1.  Compost Filter Sock Installation 
+Requirements
+
+=====PAGE 71
+70
+	
+CHANNEL
+	
+STABILIZATION
+DEFINITION
+Improving, constructing, or stabilizing an open 
+channel or waterway.
+PURPOSE
+•	 Prevent erosion and sediment deposition.
+•	 Provide adequate capacity for flood water, 
+drainage, or other water management practices.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 Drainage area not to exceed one square mile.
+•	 This applies only to channels conveying 
+intermittent flow, not to channels conveying a 
+continuous, live stream.
+Category 1 (≤ 5 ft/sec)
+Vegetative Lining 
+•	 Temporary erosion control blankets or sod 
+shall be used to aid in the establishment of 
+the vegetated lining.
+•	 Hydraulic Erosion Control Products are not 
+intended to be applied in channels, swales, 
+or other areas where concentrated flows are 
+anticipated.
+Ch-1
+Ch
+
+=====PAGE 72
+71
+Ch
+Category 2 (≥ 5 ft/sec to < 10 ft/sec)
+Turf Reinforcement Matting (TRM)
+•	 Permanent geosynthetic erosion control 
+matting that is used in channels to stabilize 
+the soil while permanent vegetation is rooting.
+Rock Riprap Lining 
+•	 Slopes should be 1.5:1 or less.
+•	 Place a filter blanket, at least 6 inches thick, 
+of sand, gravel, and/or geotextile material 
+between the riprap and the base material.
+Category 3 (≥ 10 ft/sec)
+Concrete Lining 
+•	 A separation geotextile should be placed 
+under concrete linings to prevent undermining.
+•	 Provide adequate outlet protection for 
+discharge point.
+Grade Stabilization Structure
+•	 Constructed of concrete, rock, masonry, 
+steel, aluminum or treated wood.
+•	 Provide adequate outlet for discharge.
+•	 Do not compromise the environmental 
+integrity of the area.
+•	 Vegetate all disturbed areas immediately.
+Ch-3
+Ch-2
+Figure 1.  Concrete Lining
+
+=====PAGE 73
+72
+Ch
+MAINTENANCE
+•	 Periodically inspect and maintain all structures.
+REFERENCES
+Storm Drain Outlet Protection
+St
+Ds1
+Ds2
+Ds3
+Ds4
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+Disturbed Area Stabilization	
+(With Sodding)
+Grade Stabilization Structure
+Gr
+
+=====PAGE 74
+73
+Ch
+(This page left blank intentionally.)
+
+=====PAGE 75
+74
+	
+CONSTRUCTION 
+	
+EXIT
+DEFINITION
+A stone-stabilized pad located at any point where 
+traffic will be leaving a construction site to a public 
+right-of-way, street, alley, sidewalk, or parking 
+area.
+PURPOSE
+•	 Reduce or eliminate the transport of mud from 
+the construction area onto public right-of-ways.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 Use 1.5”-3.5” stone.
+•	 Minimum pad thickness of 6”.
+•	 Minimum pad width of 20 ft.
+•	 Minimum pad length of 50 ft.
+•	 When the construction is less than 50 ft from 
+the paved access, the length shall be from the 
+edge of the existing pavement to the permitted 
+building being constructed.
+•	 When washing is required, conduct on an area 
+stabilized with crushed stone and route runoff to 
+an approved sediment trap or sediment basin.
+•	 Place the geotextile liner the full length and 
+width of the entrance.
+Co
+
+=====PAGE 76
+75
+MAINTENANCE
+•	 Periodically dress with 1.5”-3.5” stone.
+•	 Maintain in a condition that will prevent tracking 
+or flow of mud onto public rights-of way.
+•	 Immediately remove mud and debris tracked or 
+spilled onto roadways.
+Figure 1.  Crushed Stone Construction Exit 
+Installation Requirements
+Figure 2.  Geotextile Underliner 
+Co
+
+=====PAGE 77
+76
+	
+CONSTRUCTION 
+	
+ROAD 
+	
+STABILIZATION
+DEFINITION
+A travel way constructed as part of a construction 
+plan including access roads, subdivision 
+roads, parking areas, and other on-site vehicle 
+transportation routes.
+PURPOSE
+•	 Provide a fixed route of travel for construction 
+traffic.
+•	 Reduce erosion and subsequent regrading of 
+permanent roadbeds between time of initial 
+grading and final stabilization.
+•	 Install according to the approved plan.
+•	 Temporary roads shall follow the contours of 
+the natural terrain to minimize disturbance of 
+drainage patterns.
+•	 If a temporary road must cross a stream, the 
+crossing must be designed, installed and 
+maintained according to specification Sr - 
+Temporary Stream Crossing.
+•	 Grades for temporary roads should not exceed 
+10% except for short lengths but maximum 
+grades of 20% or more may be used for special 
+uses.
+Cr
+INSTALLATION
+
+=====PAGE 78
+77
+•	 Temporary roadbeds shall be at least 14 ft wide 
+for one-way traffic, 20 ft wide for two-way traffic. 
+The width for two-way traffic shall be increased 
+approximately 4 ft for trailer traffic.
+•	 Provide a minimum shoulder width of 2 ft on 
+each side.
+•	 All cut and fills shall be 2:1 or flatter. Side slopes 
+shall be no steeper than 3:1 if mowing
+•	 Drainage channels shall be designed to be on 
+stable grades or protected with structures or 
+linings for stability.
+•	 Apply geotextile to the roadbed for additional 
+stability according to the design manual 
+specifications.
+•	 Apply a 6” layer of coarse aggregate immediately 
+after grading. For “heavy-duty” traffic situations, 
+place stone at a depth of 8”-10”.
+•	 Stabilize all roadside ditches, cuts, fills, and 
+other disturbed areas adjacent to parking 
+areas and roads with appropriate temporary or 
+permanent vegetation
+MAINTENANCE
+•	 Periodically top dress roads and parking areas 
+with gravel to maintain the gravel depth at 6”. 
+•	 Check vegetated areas periodically to ensure a 
+good stand of vegetation is maintained. 
+•	 Remove any silt or other debris causing clogging 
+of roadside.
+REFERENCES
+Cr
+Ds2
+Ds3
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+Sr
+Temporary Stream Crossing
+
+=====PAGE 79
+78
+	
+STREAM DIVERSION 
+CHANNEL
+DEFINITION
+A temporary channel constructed to convey flow 
+around a construction site while a permanent 
+structure is being constructed in the stream 
+channel.
+Dc
+INSTALLATION
+•	 Install according to the approved plan.
+•	 Drainage area shall not exceed one square mile 
+(640 acres). 
+•	 The bottom width of the stream diversion shall 
+be a minimum of six feet or equal to the bottom 
+width of the existing streambed, whichever is 
+greater.
+•	 Side slopes of the stream diversion channel 
+shall be no steeper than 2:1.
+•	 Depth and grade of the channel shall be 
+sufficient to ensure continuous flow of water in 
+the diversion.
+•	 The channel shall be lined to prevent erosion of 
+the channel and sedimentation in the stream. 
+•	 The lining is selected based upon the expected 
+velocity of bankfull flow. Please refer to Table 1.
+•	 Protect the streambed from erosion and allow 
+work “in the dry”.
+PURPOSE
+
+=====PAGE 80
+79
+Dc-C
+Dc-B
+Dc-A
+Dc
+Table 1. Stream Diversion Channel Linings
+Lining Materials
+Symbol
+Acceptable 
+Velocity 
+Range
+Geotextile, poly­
+ethylene film, or 
+sod
+0-2.5 fps
+Geotextile alone
+2.5-9.0 fps
+Class I RipRap & 
+Geotextile
+9.0-13.0 fps
+Figure 1.  Stream Diversion Channel 
+(Perspective View)
+
+=====PAGE 81
+80
+•	 The channel shall be excavated, constructing 
+plugs at both ends.
+•	 Sediment barriers or berms shall be placed 
+along the sides of the channel to prevent 
+unfiltered runoff from entering the stream.
+•	 The channel surface shall be smooth (to prevent 
+tearing of the liner) and lined with the material 
+specified in the plans.
+•	 The plugs are removed when the liner installation 
+is complete, removing the downstream plug first.
+•	 As soon as construction in the streambed is 
+complete, the diversion shall be replugged and 
+backfilled.
+•	 Upon removal of the lining, the stream shall 
+immediately be restored and properly stabilized.
+•	 A Stream Buffer Variance from the GA EPD may 
+be required and all other appropriate agencies, 
+including the U.S. Army Corps of Engineers, 
+must be contacted to ensure compliance with 
+other laws.
+MAINTENANCE
+•	 Inspect the stream diversion channel at the end 
+of each day to make sure that the construction 
+materials are positioned securely.
+•	 Ensure that the work area stays dry and that no 
+construction materials float downstream. 
+•	 All repairs shall be made immediately.
+REFERENCES
+Dc
+Ss
+Slope Stabilization
+
+=====PAGE 82
+81
+(This page left blank intentionally.)
+Dc
+
+=====PAGE 83
+82
+	
+DIVERSION
+DEFINITION
+A ridge of compacted soil, constructed above, 
+across, or below a slope.
+PURPOSE
+•	 Reduce slope lengths.
+•	 Intercept and divert storm runoff to a stable 
+outlet at a non-erosive velocity.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 Remove trees, brush, stumps and other 
+objectionable material.
+•	 Compact all fills.
+•	 Channel cross-section should be trapezoidal or 
+parabolic in shape.
+•	 Side slopes should be 2:1 or flatter.
+•	 Excavate narrow, deep channels on steep 
+slopes and broad, shallow channels on gentle 
+slopes.
+•	 Adequate outlet must be present.
+•	 Stabilize channel and outlet with vegetation 
+(mulch required for all seeded or sprigged 
+channels), riprap, or concrete.
+•	 Dispose of and/or stabilize unneeded excavated 
+material.
+Di
+
+=====PAGE 84
+83
+MAINTENANCE
+•	 Inspect frequently and after each rainfall and 
+make necessary repairs.
+REFERENCES
+Figure 1.  Typical Diversion Across Road
+Di
+Ds1
+Ds2
+Ds3
+Ds4
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+Disturbed Area Stabilization	
+(With Sodding)
+Channel Stabilization
+Ch
+
+=====PAGE 85
+84
+	
+TEMPORARY 
+	
+DOWNDRAIN 
+	
+STRUCTURE
+DEFINITION
+A temporary structure used to convey storm water 
+down the face of cut or fill slopes.
+PURPOSE
+•	 Transport storm runoff from one elevation to 
+another.
+•	 Reduce slope erosion.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 Install heavy-duty, flexible materials such as 
+non-perforated, corrugated plastic pipe, or 
+specifically designed flexible tubing.
+•	 Place on undisturbed soil or well-compacted fill.
+•	 Slightly slope the section of pipe under the dike 
+toward its outlet.
+•	 Install Tee, “L” or flared end section inlet at the 
+top of the slope.
+•	 Slope the entrance 1/2” per foot toward outlet.
+•	 Compact a dike ridge no less than 1 ft above 
+the top of the pipe.
+•	 Use reinforced, hold-down grommets or stakes 
+to anchor the pipe at intervals not to exceed 
+10 ft.
+Dn1
+
+=====PAGE 86
+85
+•	 Ensure that fill over the drain at the top of the 
+slope meets the minimum dimensions.
+•	 Ensure connections are watertight.
+•	 Extend pipe beyond the toe of the slope.
+•	 For steep slopes, drains should be placed 
+diagonally across the slope.
+•	 Curve the outlet uphill.
+•	 Stabilize outlet with rock riprap. A Tee outlet, 
+flared end section, or other suitable device may 
+be used for additional protection.
+•	 Direct all flows into a sediment trap if drains 
+convey sediment-laden runoff.
+•	 Stabilize all disturbed areas immediately.
+MAINTENANCE
+•	 Inspect drain and diversion after every rainfall 
+and promptly make necessary repairs.
+•	 Remove once the protected area has been 
+stabilized and the permanent water disposal 
+system is fully functional.
+Dn1
+Maximum Drainage
+Area per Pipe
+(acres)
+Pipe Diameter
+(inches)
+0.3
+10
+0.5
+12
+1.0
+18
+Table 1. Pipe Diameter for Temporary 
+Downdrain
+REFERENCES
+Storm Drain Outlet Protection
+St
+
+=====PAGE 87
+86
+Figure 1.  Temporary Downdrain and Inlet Detail
+Dn1
+Figure 2.  Diagonally Placed Downdrain
+
+=====PAGE 88
+87
+(This page left blank intentionally.)
+Dn1
+
+=====PAGE 89
+88
+	
+PERMANENT 
+	
+DOWNDRAIN 
+	
+STRUCTURE
+DEFINITION
+A permanent structure to safely convey surface 
+runoff from the top of a slope to the bottom of the 
+slope.
+PURPOSE
+•	 Convey storm runoff safely down cut or fill 
+slopes to minimize erosion.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 Slopes must have sufficient grade to prevent 
+sediment deposition.
+•	 Stabilize outlet according to plan.
+•	 Vegetate all disturbed areas immediately.
+Types of Structures
+•	 Paved flume - parabolic, rectangular, or 
+trapezoidal cross section.
+•	 Pipe - steel, plastic, etc.
+•	 Sectional - a prefabricated sectional conduit of 
+half-round or third-round pipe.
+Dn2
+
+=====PAGE 90
+89
+MAINTENANCE
+•	 Inspect periodically and maintain structure after 
+each rainfall.
+REFERENCES
+Dn2
+Ds1
+Ds2
+Ds3
+Ds4
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+Disturbed Area Stabilization	
+(With Sodding)
+Storm Drain Outlet Protection
+St
+
+=====PAGE 91
+90
+	
+FILTER RING
+DEFINITION
+A temporary stone barrier constructed at storm 
+drain inlets and pond outlets.
+PURPOSE
+•	 Reduce flow velocity.
+•	 Prevent the failure of other sediment control 
+devices.
+•	 Prevent sediment from leaving the site or 
+entering drainage systems.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 Use in conjunction with other sediment control 
+measures, except where other practices defined 
+in this Manual are not appropriate.
+•	 Surround all sides of the structure receiving 
+runoff from disturbed areas.
+•	 Place the ring a minimum of 4 ft from the 
+structure.
+•	 If the ring is utilized above a retrofit structure, 
+place a minimum of 8-10 ft from the retrofit.
+•	 When utilized at inlets with diameters less than 
+12”, the filter ring shall be constructed of stone 
+no smaller than 3”-5” (15-30 lbs).
+Fr
+
+=====PAGE 92
+91
+MAINTENANCE
+•	 Keep clear of trash and debris.
+•	 Continuously monitor and maintain the structure.
+•	 Remove sediment when it reaches one-half full.
+•	 Remove structure when the project has reached 
+final stabilization.
+REFERENCES
+Fr
+•	 When utilized at pipes with diameters greater 
+than 12”, the filter ring shall be constructed of 
+stone no smaller than 10”-15” (50-100 lbs).
+•	 Construct the ring at a height no less than 2 ft 
+above grade.
+•	 Mechanically or hand place the stone uniformly 
+around the structure.
+Figure 1.  Filter Ring Placement
+Retrofit
+Rt
+Sd3
+Temporary Sediment Basin
+Storm Drain Outlet Protection
+St
+
+=====PAGE 93
+92
+	
+GABION
+DEFINITION
+Large, multi-celled, welded wire or rectangular wire 
+mesh boxes, used in channel revetments, retaining 
+walls, abutments, check dams, etc.
+PURPOSE
+•	 Construction of erosion control structures.
+•	 Stabilize steep or highly erosive slopes.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 Foundations must be smooth and level.
+•	 Use only galvanized or PVC coated wire. For 
+highly corrosive conditions, the PVC coating 
+must be used over the galvanizing.
+•	 Set individual baskets into place, wire them 
+together in courses, and fill with rock to form 
+flexible monolithic building blocks.
+•	 Rock should be durable and adequately sized 
+(typically 4”-8”) to be retained in the baskets.
+•	 Hand-pack the basket in order to completely fill.
+•	 “Key” structure securely into foundations and 
+abutment surfaces.
+•	 Geotextiles should be used behind all gabion 
+structures.
+Ga
+
+=====PAGE 94
+93
+MAINTENANCE
+•	 Periodically inspect for signs of undercutting or 
+excessive erosion at transition areas.
+•	 Make any necessary repairs immediately.
+Ga
+
+=====PAGE 95
+94
+	
+GRADE 
+	
+STABILIZATION 
+	
+STRUCTURE
+DEFINITION
+A structure to stabilize the grade in natural or 
+artificial channels.
+PURPOSE
+•	 Stabilize the grade in natural or artificial 
+channels.
+•	 Prevent the formation or advancement of gullies.
+•	 Reduce erosion and sediment pollution.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 Construct with concrete, rock, masonry, 
+steel, aluminum, or treated wood or by soil 
+bioengineering methods.
+•	 Dewater excavations prior to filling.
+•	 Construct embankment with a minimum top 
+width of 10 ft and side slopes of 3:1 or flatter.
+•	 Construct materials in 6”-8” horizontal lifts
+•	 Place structure on compacted earth-fill. Compact 
+fill to approximately 95% of standard density.
+•	 Construct keyway 8 or more ft wide and 2 ft 
+deep along centerline of the structure and 
+embankment.
+•	 Provide adequate outlet for discharge.
+Gr
+
+=====PAGE 96
+95
+•	 Place geotextile, such as revetment mats and 
+riprap, under stabilization structure.
+•	 Apply protective cover immediately after 
+completion of the structure.
+•	 Vegetate all disturbed areas immediately.
+•	 All appropriate agencies, including the GAEPD 
+& U.S. Army Corps of Engineers, must be 
+contacted to ensure compliance with other 
+Laws.
+Gr
+Figure 1. Straight Drop Spillway Structure
+MAINTENANCE
+•	 Periodically inspect and maintain all structures.
+REFERENCES
+Storm Drain Outlet Protection
+St
+Ds1
+Ds2
+Ds3
+Ds4
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+Disturbed Area Stabilization	
+(With Sodding)
+
+=====PAGE 97
+96
+LEVEL 
+SPREADER
+DEFINITION
+A storm flow outlet device constructed at zero 
+grade across the slope whereby concentrated 
+runoff may be discharged at non-erosive velocities 
+onto undisturbed areas stabilized by existing 
+vegetation.
+PURPOSE
+•	 Dissipate storm flow energy at the outlet.
+•	 Convert storm runoff into sheet flow.
+•	 Discharge storm runoff onto areas stabilized by 
+existing vegetation.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 Grade the channel no greater than 1% for the 
+last 15 ft of the dike or diversion.
+•	 Construct on undisturbed soil that is stabilized 
+with vegetation.
+•	 Minimum width of 6 ft.
+•	 The depth of the level spreader from the lip shall 
+be a minimum of 6”.
+•	 The depth shall be uniform across the entire 
+length.
+Lv
+
+=====PAGE 98
+97
+•	 Construct level lip at 0% grade.
+•	 Discharge converted sheet flow onto undisturbed 
+stabilized areas.
+•	 Provide a smooth outlet.
+•	 Prevent water from concentrating below point 
+of discharge.
+•	 Vegetate all disturbed areas immediately.
+MAINTENANCE
+•	 Periodically inspect and maintain all structures.
+REFERENCES
+Figure 1.  Level Spreader Installation 
+Requirements
+Lv
+Ds1
+Ds2
+Ds3
+Ds4
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+Disturbed Area Stabilization	
+(With Sodding)
+
+=====PAGE 99
+98
+	
+ROCK 
+FILTER DAM
+DEFINITION
+A temporary stone filter dam installed across 
+drainageways or in conjunction with a temporary 
+sediment trap.
+PURPOSE
+•	 Serve as a sediment filtering device.
+•	 Reduce velocity of stormwater flow through a 
+channel.
+•	 Not intended to substantially impound water.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 The drainage area shall not exceed 50 acres.
+•	 Must be used in conjunction with other 
+appropriate sediment control measures.
+•	 The dam should be located as close to the 
+source of sediment as possible.
+•	 The dam should not be higher than the channel 
+banks or exceed the elevation of the upstream 
+property line.
+•	 The center of the dam should be at least 9” 
+lower than the outer edges of the dam at the 
+channel banks.
+Rd
+
+=====PAGE 100
+99
+MAINTENANCE
+•	 Periodically inspect and maintain all structures.
+•	 Remove sediment when it reaches a depth of 
+one-half of the original height of the dam.
+•	 Remove once disturbed areas have been 
+stabilized.
+•	 Side slopes should be 2:1 or flatter.
+•	 The width across the top should be 6 ft. or 
+greater.
+•	 Refer to plan for stone size.
+•	 Geotextiles should be used as a separator 
+between the graded stone, soil base, and 
+abutments.
+•	 Extend completely across the channel and 
+securely tie into both channel banks.
+•	 All other appropriate agencies, including the 
+GAEPD & U.S. Army Corps of Engineers, must 
+be contacted to ensure compliance with other 
+Laws.
+Figure 1.  Rock Filter Dam Installation 
+Requirements
+Rd
+
+=====PAGE 101
+100
+	
+RETAINING 
+WALL
+DEFINITION
+A constructed wall of one or more of the following: 
+concrete masonry, reinforced concrete cribbing, 
+treated timbers, steel pilings, gabions, stone 
+drywall, rock riprap, etc.
+PURPOSE
+•	 Assist in stabilizing cut or fill slopes where stable 
+slopes are not obtainable without the use of a 
+wall.
+INSTALLATION
+•	 Retaining walls require a specific design that is 
+within the capabilities of the design professional. 
+•	 Many factors must be taken into account during 
+the design process. 
+•	 Close supervision is required to ensure proper 
+installation. 
+•	 Depending on the Local Issuing Authority’s 
+ordinance, a design professional certificate may 
+be required prior to construction.
+Re
+
+=====PAGE 102
+101
+(This page left blank intentionally.)
+Re
+
+=====PAGE 103
+102
+	
+RETROFIT
+DEFINITION
+A device or structure placed in front of a permanent 
+stormwater detention pond outlet or roadway 
+drainage structure to serve as a temporary 
+sediment filter.
+PURPOSE
+•	 Allows a permanent stormwater detention basin 
+structure to function as a temporary sediment 
+retention basins.
+•	 Allows a roadway drainage structure to be used 
+for temporary sediment storage.
+INSTALLATION
+Rt
+•	 Install according to the approved plan.
+•	 Prohibited in basins on live streams.
+•	 The height of the retrofit should be approximately 
+one-half the height of structure.
+Perforated Half-Round Pipe with Stone Filter 
+•	 Drainage area shall not exceed 30 acres.
+•	 Never use on exposed pipe end or winged 
+headwall.
+•	 Diameter of half-round pipe should be 1.5x 
+the diameter of the principal pipe outlet or 
+wider than the greatest width of the concrete 
+weir.
+Rt-P
+
+=====PAGE 104
+103
+•	 Shall be affixed by means to the concrete 
+outlet structure.
+Figure 1.  Perforated Half-Round Pipe Retrofit 
+with Stone Filter.
+Rt
+Figure 2. Affixed to Concrete Structure
+
+=====PAGE 105
+104
+Rt
+Slotted Board Dam with Stone 
+•	 For use in detention ponds with drainage 
+areas up to 100 acres and on roadway 
+drainage structures with a drainage area of 
+30 acres or less.
+•	 Can be used with open end pipe outlets, 
+winged headwalls, or concrete weir outlets.
+•	 Install with minimum 4x4” posts.
+•	 Install boards with a 0.5”-1.0” space between 
+them.
+•	 Install a minimum of 3”-4” stone or approved 
+filter fabric around the upstream side of the 
+board dam.
+Rt-B
+Figure 3. Slotted Board Dam
+Figure 3.  Slotted Board Dam Installation 
+Requirements
+
+=====PAGE 106
+105
+MAINTENANCE
+• Clean-out when one-third sediment storage
+capacity is lost. Indicate this elevation with a
+mark on the outlet structure or a post inserted
+in the pond.
+• Remove all trash and debris.
+• Remove retrofit and accumulated sediment
+when the project is completed.
+• Stabilize all disturbed areas immediately with
+permanent vegetation.
+Rt
+Silt Control Gate
+•
+Use only on roadway drainage structures with
+the following structures: winged headwalls,
+tapered headwalls, straight headwalls, open
+end pipes, flared end sections.
+•
+Drainage area shall not exceed 50 acres
+and the disturbed area of the basin shall not
+exceed 5 acres.
+•
+Use 4”x4” treated posts & 2”x6” treated face
+boards with no spacing between the boards.
+•
+Fasten an approved silt fence fabric to the
+front of the structure with staples or nails.
+Rt-Sg
+Figure 3.  Silt Control Gate Installation 
+Requirements
+
+=====PAGE 107
+106
+ SEDIMENT
+ BARRIER
+DEFINITION
+A temporary structure made up of porous material 
+typically supported by steel or wood posts. Types 
+include silt fence, brush piles, mulch berms, 
+compost filter socks or other filtering material.
+PURPOSE
+INSTALLATION
+• Minimize and prevent sediment carried by sheet
+flow from leaving the site.
+• Retain the sediment on the disturbed area.
+• Filter sediment from runoff.
+Sd1
+• Install according to the approved plan.
+• Do not install across streams, ditches, 
+waterways, or other concentrated flow areas.
+• The type of sediment barrier depends on 
+whether the area is sensitive or non-sensitive.
+• For silt fence, Type C will be classified as 
+sensitive and Type A & B will be classified as 
+non-sensitive.
+• Install along the contour.
+• Along all state waters and other sensitive areas, 
+2 rows of Type S shall be used. The 2 rows 
+should be placed a minimum of 36” apart. 
+
+=====PAGE 108
+107
+Sd1
+• Overlap barriers 18” when using multiple types
+of sediment barriers in a single run on a site.
+• When storing runoff behind the sediment barrier,
+the maximum continuous slope length behind
+the sediment barrier shall not exceed those
+found in Table 1.
+• Provide a riprap spalsh pad or other protection
+device at any point where flow may overtop the
+sediment barrier.
+Installation Methods
+Static Slicing Method
+•
+Using a machine, pull a narrow blade through
+the ground to create a 12” deep slit, and
+simultaneously insert the silt fence fabric into
+the slit behind the blade.
+•
+Roll a tractor wheel along both sides of
+the slit in the ground 2-4 times to achieve
+compaction
+•
+Drive posts 18” into ground and attach fabric.
+Trenching Method
+•
+Dig a 2”-6” wide trench with a 6” excavation.
+•
+Drive posts 18” into ground and attach fabric.
+•
+The best trenching method typically requires
+triple the time and effort to achieve results
+comparable to the static slicing method.
+Figure 1.  Static Slicing Machine
+
+=====PAGE 109
+108
+Sd1
+Figure 1.  Type “C” Silt Fence
+Sd1-S
+Sensitive Areas
+Sediment barriers being used as Type S shall 
+have a support spacing of no greater than 4 ft on 
+center, with each being driven into the ground a 
+minimum of 18”.
+Type C Silt Fence
+•	 36” wide with wire reinforcement or equivalent 
+backing
+•	 To be used where runoff velocities are 
+particularly high or where slopes exceed a 
+vertical height of 10 ft.
+
+=====PAGE 110
+109
+Sd1
+Figure 1.  Brush Barrier (Sd1-BB)
+Brush Barrier (only during timber clearing)
+•	 Intermingle brush so as not to form a solid 
+dam.
+•	 Should be wind-rowed on the contour as 
+nearly as possible.
+•	 Minimum base width is 5 ft and should be no 
+wider than 10 ft.
+•	 The height should be between 3-5 ft.
+Sd1-NS
+Non-Sensitive Areas
+Sediment barriers being used as Type NS shall 
+have a support spacing of no greater than 6 ft on 
+center, with each being driven into the ground a 
+minimum of 18”.
+Type A Silt Fence
+•	 36” wide fabric
+•	 To be used where the life of the project is 
+greater than or equal to 6 months.
+Type B Silt Fence
+•	 22” wide fabric
+•	 Limit to use on minor projects, such as 
+residential home sites or small commercial 
+developments where permanent stabilization 
+will be achieved in less than 6 months.
+•	 Same flow rate as Type A.
+
+=====PAGE 111
+110
+Sd1
+Figure 3.  Compost Filter Sock - Type “B”
+NOTE: FILTER SOCK SIZED TO SUIT
+CONDITIONS AND AT LEAST 18” DIA
+(SEE EQUIVALENT LIST)
+2’
+Figure 2.  Type “A” & “B” Silt Fence
+
+=====PAGE 112
+111
+Sd1
+•	 Remove the sediment once it has accumulated 
+to one-half the original height of the barrier.
+•	 Replace barrier whenever it has deteriorated 
+to such an extent that the effectiveness of the 
+product is reduced (~ 6 months) or the height of 
+the product is not maintaining 80% of its properly 
+installed height.
+•	 Remove and dispose of all accumulated 
+sediment at the barrier before it is removed.
+•	 Leave in place until all disturbed areas are 
+permanently stabilized.
+MAINTENANCE
+Land Slope (%)
+Maximum Slope
+Length Behind Fence
+(ft)
+<2
+100
+2-5
+75
+5-10
+50
+10-20
+25
+>20
+15
+Table 1. Criteria for Sediment Barrier Placement
+Type
+Min. 
+Length
+Type of 
+Post
+Size of Post
+NS
+4’
+Oak
+Steel
+Soft Wood
+1.5”x1.5”
+1.15lb/ft min
+3” or 2”x4”
+S
+4’
+Oak
+Steel
+2”x2”
+1.15lb/ft. min
+Table 2. Post Size
+Figure 1. Thomas Carpenter, CPESC, Carpenter Erosion 
+Control.
+
+=====PAGE 113
+112
+	
+INLET 
+SEDIMENT TRAP
+DEFINITION
+A temporary protective device formed at or around 
+an inlet to a storm drain to trap sediment.
+PURPOSE
+•	 Prevent sediment from entering a storm 
+drainage system prior to permanent stabilization 
+of the disturbed area draining to the inlet.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 Do not install on paved surfaces where safety 
+is a concern.
+•	 Sediment traps must be self-draining unless 
+otherwise protected.
+•	 Install at or around all storm drain drop inlets 
+that receive runoff from disturbed areas.
+•	 Construct on natural ground surface, excavated 
+surface, or on machine compacted fill.
+Excavated Sediment Traps
+•	 An excavation created around the inlet to 
+provide additional sediment storage.
+•	 Provide a minimum depth of 1.5 ft for 
+sediment storage.
+•	 The side slopes shall not be steeper than 2:1.
+•	 The drainage area entering the trap shall be 
+no greater than 1 acre.
+Sd2
+
+=====PAGE 114
+113
+Filter Fabric with Supporting Frame
+•	 Applicable where the inlet drains a relatively 
+flat area (<5% slope).
+•	 Use Type S steel posts.
+•	 Space stakes evenly around perimeter at a 
+maximum of 3 ft apart.
+•	 Drive stakes into the ground ~18” deep.
+•	 The fabric shall be 36” tall and entrenched at 
+least 12” and backfill with crushed stone or 
+compacted soil.
+•	 Securely fasten the fabric and wire to the 
+posts.
+Figure 1. Filter Fabric with Supporting Frame 
+Installation Requirements (Sd2-F)
+Sd2
+Sd2-F
+Block and Gravel Drop Inlet Protection 
+•	 Applicable where heavy flows are expected 
+and a overflow capacity is necessary to 
+prevent excessive ponding.
+Sd2-Bg
+
+=====PAGE 115
+114
+Figure 2. Block and Gravel Drop Inlet Protection 
+Installation Requirements (Sd2-Bg)
+Sd2
+•	 Excavate foundation at least 2” below the 
+crest of the storm drain.
+•	 On each side of the structure, place one 
+block in the bottom row on its side to allow 
+pool drainage.
+•	 Place the bottom row of blocks against the 
+edge of the storm drain.
+•	 Add support by placing 2”x4” wood studs 
+through block openings.
+•	 Fit hardware cloth or wire mesh with 1/2” 
+openings over all block openings to hold 
+gravel in place.
+•	 Place clean gravel 2” below the top of the 
+block on a 2:1 or flatter slope and smooth it 
+to an even grade.
+•	 GADOT #57 stone is recommended.
+
+=====PAGE 116
+115
+Sd2
+Baffle Box
+•	 Applicable for inlets receiving a higher volume 
+or velocity.
+•	 Construct 2”x4” boards spaced a maximum 
+of 1” apart OR of plywood with weep holes 
+2” in diameter.
+•	 Place weep holes ~6” on center vertically or 
+horizontally.
+•	 Place gravel outside of the box and around 
+the inlet at a depth of 2-4”.
+•	 Wrap entire box in Type C filter fabric and 
+entrench at a depth of 12”.
+Sd2-B
+Gravel Drop Inlet Protection  
+•	 Applicable where heavy concentrated flows 
+are expected.
+•	 3:1 or flatter slope toward the inlet.
+Figure 3. Baffle Box Installation Requirements 
+(Sd2-B)
+Sd2-G
+
+=====PAGE 117
+116
+Sd2
+•	 Leave a minimum 1 ft wide level stone area 
+between the structure and the inlet to prevent 
+gravel from entering the inlet.
+•	 Place stone 3” in diameter or larger on the 
+slope toward the inlet.
+•	 Place 1/2” to 3/4” gravel on the slope away 
+from the inlet at a minimum thickness of 1 
+foot.
+Sod Inlet Protection
+•	 Applicable only at the time of permanent 
+seeding in order to protect the inlet from 
+sediment and mulch material.
+•	 Place the sod to form a turf mat covering the 
+soil for a distance of 4 ft from each side of 
+the inlet.
+•	 Stagger sod strips so that adjacent ends are 
+not aligned.
+Figure 4. Sod Inlet Protection Installation 
+Requirements (Sd2-S)
+Curb Inlet Protection
+•	 Applicable once pavement has been installed.
+•	 The method of inlet protection shall be 
+removed if a safety hazard is created.
+Sd2-P
+Sd2-S
+
+=====PAGE 118
+117
+Sd2
+•	 For the “pigs-in-a-blanket” method, wrap 
+8” concrete blocks in filter fabric and span 
+across catch basin inlet.
+•	 Face openings in blocks outward.
+•	 Leave a gap of ~4” between the inlet filter 
+and the inlet to allow for overflow and prevent 
+hazardous ponding in the roadway.
+•	 Another method uses gravel bags constructed 
+by wrapping GADOT #57 stone with filter 
+fabric, wire, plastic mesh, or equivalent 
+material.
+Figure 5. Curb Inlet Protection Installation 
+Requirements (Sd2-P)
+
+=====PAGE 119
+118
+Sd2
+MAINTENANCE
+•	 Inspect, clear, and/or repair trap at the end of 
+each working day.
+•	 Do not remove inlet protection and wash 
+sediment into the inlet.
+•	 Remove sediment when accumulation has 
+reached one-half the height of the trap.
+•	 Remove sediment from curb inlet protection 
+immediately.
+•	 Remove all materials and any sediment once 
+the contributing drainage area has been 
+permanently stabilized.
+•	 Appropriately stabilize all disturbed areas 
+around the inlet.
+REFERENCES
+Ds4
+Disturbed Area Stabilization	
+(With Sodding)
+Sediment Barrier
+Sd1
+
+=====PAGE 120
+119
+(This page left blank intentionally.)
+Sd2
+
+=====PAGE 121
+120
+DEFINITION
+TEMPORARY 
+SEDIMENT BASIN
+PURPOSE
+A basin created by the construction of a barrier 
+or dam across a concentrated flow area, or by 
+excavating a basin, or by a combination of both.
+•	 Detain runoff waters and trap sediment from 
+erodible areas.
+•	 Protect properties and drainage ways below 
+the installation from damage by excessive 
+sedimentation and debris.
+•	 Construct all basins according to the approved 
+plan unless modified by the design professional.
+•	 Remove all trees, vegetation, roots, and other 
+objectionable material.
+Location
+•	 Never place basin in a live stream.
+•	 Storm drains should discharge into the basin.
+•	 Install on sites where (1) failure will not result 
+in loss of life or interruption of use or service 
+of public utilities and (2) the drainage area 
+does not exceed 150 acres.
+INSTALLATION
+Sd3
+
+=====PAGE 122
+121
+Shape
+•	 Length to width ratio shall be greater than 2:1
+•	 The basin should be wedge shaped with the 
+inlet at the narrow end.
+•	 Install baffles and diversions when necessary.
+Principal Spillway
+•	 Join vertical pipe or box type riser to a pipe 
+that extends through the embankment and 
+exits beyond the downstream toe of the fill.
+•	 The crest elevation of the riser should be 1 ft 
+below the elevation of the control section of 
+the emergency spillway.
+•	 The riser and all pipe connections shall be 
+completely watertight. 
+•	 Install pipe with a minimum diameter of 8”.
+Figure 1.  Components of a Typical 
+Temporary Sediment Basin
+Sd3
+
+=====PAGE 123
+122
+•	 If using the conventional method for 
+dewatering a sediment basin, Perforate 
+lower half of riser with 1/2” holes spaced 
+approximately 3”, and cover with 2 ft of 3”-4” 
+stone.
+•	 If constructing the basin with a skimmer 
+outlet, please refer to the specification Sk - 
+Floating Surface Skimmer.
+•	 Install a trash rack and anti-vortex device 
+securely on top of the riser.
+•	 Attach riser to the base with a watertight 
+connection. Embed riser 9” into an 18” thick 
+concrete base.
+•	 Provide an adequte outlet that allows 
+discharge in an erosion free manner.
+•	 Place the fill material around the the pipe 
+spillway in 4” layers and compact to at 
+least the same density as the adjacent 
+embankment.
+•	 A minimum depth of 2 ft of hand compacted 
+backfil shall be placed over the pipe spillway 
+before crossing it with construction equipment.
+Figure 2.  Typical Sediment Basin Trash Rack
+Sd3
+Emergency Spillway
+•	 Construct on undisturbed ground (not fill).
+•	 Excavate a trapezoidal channel with minimum 
+bottom width of 8 ft.
+
+=====PAGE 124
+123
+Figure 4.  Principle Spillway
+Sd3
+Figure 3.  Concrete Riser Base Detail
+•	 Construct a channel with a straight control 
+section of at least 20 ft in length and a straight 
+outlet section that is at least 25 ft in length.
+•	 Stabilize with vegetation, asphalt, riprap or 
+concrete.
+Entrance of Runoff into Basin
+•	 Install dikes, swales, or other water control 
+devices to direct runoff into the basin.
+•	 Locate points of entry as far away from the 
+riser as possible.
+
+=====PAGE 125
+124
+Sd3
+Fill Height (ft)
+Minimum Top Width
+(ft)
+<10
+8
+10-15
+10
+Table 1. Dam Width Requirements
+Figure 5.  Clean-out marker
+Cut-off Trench
+•	 Excavate a cut-off trench with a minimum 
+depth of 2 ft along the center-line of the earth-
+fill embankment.
+•	 Extend both abutments up to the riser crest 
+with a minimum bottom width of 4 ft in order 
+to permit operation of compaction equipment.
+•	 Side slopes shall be no steeper than 1:1
+Embankment
+•	 Place fill material in 6”-8” thick continous 
+layers over entire length of fill.
+•	 Construct the embankment to an elevation 
+5% higher than the design height to allow 
+for settlement.
+•	 Fill material shall be free of rocks, woody 
+vegetation, oversized stones, rocks, etc.
+•	 Stabilize the embankment and all other 
+disturbed areas in accordance with the 
+appropriate permanent vegetative measure, 
+Ds3, immediately following construction.
+
+=====PAGE 126
+125
+Sd3
+REFERENCES
+•	 Repair all damages caused by soil erosion or 
+construction equipment at or before the end of 
+each working day.
+•	 Remove sediment from the basin when one-
+third of the storage volume has been lost to 
+accumulation.
+•	 Do not allow sediment to enter adjacent streams 
+or drainage ways during the sediment removal 
+process.
+•	 Do not deposit sediment downstream from the 
+embankment, adjacent to a stream or floodplain.
+•	 Dispose of all temporary structures when they 
+have served their intended purpose and the 
+contributing drainage basin has been properly 
+stabilized.
+MAINTENANCE
+Ds1
+Ds2
+Ds3
+Ds4
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+Disturbed Area Stabilization	
+(With Sodding)
+Channel Stabilization
+Ch
+Sk
+Floating Surface Skimmer
+Storm Drain Outlet Protection
+St
+
+=====PAGE 127
+126
+TEMPORARY 
+SEDIMENT TRAP
+Sd4
+DEFINITION
+A small temporary pond that drains a disturbed 
+area so that sediment can settle out.
+PURPOSE
+•	 Collect and store sediment from uphill sites 
+cleared and/or graded during construction.
+•	 For use on small tributary areas with no unusual 
+drainage features.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 Sediment traps are effective against coarse 
+sediment, but not against silt or clay particles.
+•	 The maximum drainage area is 5 acres 
+depending on the type of installation.
+•	 The maximum depth of a trap is 4 ft as measured 
+from the bottom of the trap to the invert of the 
+emergency spillway.
+•	 Ensure the length to width ratio is great than 2:1.
+•	 The height of the embankment shall not exceed 
+5.5 ft from the downstream toe to the top of the 
+berm. The top width shall be at least 3 ft.
+•	 Slopes shall not exceed 2:1.
+
+=====PAGE 128
+127
+•	 Construct side slopes 3:1 or flatter to allow 
+people and equipment to enter the trap.
+Methods
+Overflow Outlet
+•	 Limited to small drainage areas less than 1 
+acre with gentle slopes(1-2%).
+•	 The maximum life span is 6 months.
+•	 Silt fence, straw bale barriers or grass filter 
+strips are used to “polish” the overflow water 
+as it leaves the sediment trap.
+Combination Outlet
+•	 A combination of straw bales and silt fence 
+are used to dewater the trap.
+•	 Properly install and stake the straw bales and 
+ensure the silt fence has a wire backing so 
+that the materials can resist 1 ft or more of 
+ponded water.
+•	 The maximum drainage area is 1 acre.
+•	 The life span is less than 1 year.
+•	 Requires frequent maintenance and 
+adjustments.
+Rock Outlet
+•	 This type relies on filtering through layers of 
+aggregate, rock or riprap material to dewater 
+the sediment trap.
+•	 This is the sturdiest design of the three and 
+requires less maintenance.
+•	 The maximum drainage area is 5 acres.
+•	 The life span is typically 1 year.
+Sd4
+Sd4-A
+Sd4-B
+Sd4-C
+
+=====PAGE 129
+128
+Figure 2.  Combination Outlet
+Sd4
+Figure 1.  Overflow Outlet
+
+=====PAGE 130
+129
+Sd4
+Figure 3.  Rock Outlet
+MAINTENANCE
+•	 Repair all damages caused by soil erosion or 
+construction equipment at or before the end of 
+each working day.
+•	 The cleanout volume for a temporary sediment 
+trap is one-third of the total storage volume.
+Emergency Spillway
+•	 Stabilize with rock, geotextile, vegetation, or 
+another suitable material that is resistent to 
+erosion.
+•	 Must be able to convey the 10-year storm 
+event.
+
+=====PAGE 131
+130
+FLOATING 
+SURFACE SKIMMER
+Sk
+DEFINITION
+A buoyant device that releases/drains water from 
+the surface of sediment ponds, traps, or basins at 
+a controlled rate of flow.
+PURPOSE
+•	 Discharge clearer water from the surface of 
+a sediment pond, trap, or basin at relatively 
+uniform rate.
+•	 Reduce the retention time associated with 
+meeting a desired water quality standard for 
+discharge from a sediment pond, trap or basin.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 It can replace the riser pipe as the principal 
+spillway, but does not replace the emergency 
+spillway.
+•	 A portion of the skimmer must be visible above 
+the water surface at all times.
+•	 Excavate a pit filled with riprap under the floating 
+surface skimmer to account for sediment 
+accumulation around the device.
+•	 At a minimum, the pit has dimensions of 4x4 ft 
+with a minimum depth of 2 ft.
+
+=====PAGE 132
+131
+MAINTENANCE
+•	 Inspect Floating Surface Skimmers together 
+with the Sediment Basin (Sd3) inspections.
+•	 Inspect for any structural damage, clogging, or 
+excessive sediment accumulation.
+•	 Install trash guard to prevent larger debris 
+from entering the skimmer and cause internal 
+blocking.
+•	 Use a floatable maintenance rope to remove 
+trash and debris that accumluates on the outside 
+of the trash guard.
+•	 Free the skimmer from being stuck in the mud 
+at the bottom of the basin to allow for normal 
+operation.
+Sk
+•	 Ensure the pit is lower than the invert of the 
+outlet barrel from the riser.
+•	 Use floating surface skimmers constructed 
+of PVC (Schedule 40 or greater) or other 
+appropriate materials.
+•	 Install the device according to the approved plan 
+and manufacturer’s instructions.
+Figure 1.  “Typical” Skimmer Design
+
+=====PAGE 133
+132
+SEEP BERM
+SpB
+DEFINITION
+A linear control device constructed as a diversion 
+perpendicular to the direction of runoff to enhance 
+dissipation and infiltration, while creating multiple 
+sedimentation chambers with the employment of 
+intermediate dikes. 
+PURPOSE
+•	 Allows the 2 year, 24-hour storm to seep out 
+while allowing larger flows to be diverted to a 
+sediment storage area.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 Install where runoff can be stored behind the 
+seep berm without damaging the berm or 
+submerged area behind the intermediate dike 
+points.
+•	 Do not use above fill slopes that have not 
+achieved permanent stabilization.
+•	 Do not install across streams, ditches, or 
+waterways.
+•	 The top of the berm shall have a minimum width 
+of 12” and a height of 4 ft.
+
+=====PAGE 134
+133
+•	 Maximum spacing between the dikes should be 
+such that the toe of the upstream dike is at the 
+same elevation as the top of the downstream 
+dike.
+•	 Install clean out markers at each intermediate 
+dike using a sediment storage calculation.
+•	 Compact the earthen berm by using a skid-
+loader with a full bucket, tracking with a dozer 
+and applying pressure with the bucket, or rubber 
+tired backhoe.
+•	 Compaction must meet a minimum of 90% 
+standard proctor density test.
+•	 Apply seed at 70% germination or better prior 
+to other land disturbing activities taking place.
+SpB
+Figure 1.  “Typical” Seep Berm System
+
+=====PAGE 135
+134
+SpB
+MAINTENANCE
+•	 Inspect the dam from the seep and supporting 
+berm after every 1/2” or greater rainfall.
+•	 Make any repairs promptly.
+•	 Remove sediment when it has accumulated to 
+one-third the height of the intermediate dike.
+•	 Seeps can be placed 3 different ways:
+•	 During the construction of the berm,
+•	 After construction has been completed, 
+excavate at the location of the seeps, place 
+in the trench and back-fill. Compact the berm 
+to finalize,
+•	 After construction has been completed, using 
+a steel pipe with a conical end, insert pipes 
+through the berm.
+
+=====PAGE 136
+135
+SpB
+(This page left blank intentionally.)
+
+=====PAGE 137
+136
+	
+TEMPORARY 
+	
+STREAM CROSSING
+DEFINITION
+A temporary structure installed across a flowing 
+stream or watercourse for use by construction 
+equipment.
+PURPOSE
+•	 Provide a means for construction vehicles to 
+cross streams or watercourses without moving 
+sediment into streams, damaging the streambed 
+or channel, or causing flooding.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 The drainage area is not to exceed one 
+square mile, unless specifically designed to 
+accomodate the additional drainage area by 
+the design professional.
+•	 Structures include bridges, round pipes, or pipe 
+arches.
+•	 Do not allow for use by the general public.
+•	 Install perpendicular to the stream. The crossing 
+may vary 15° from the perpendicular.
+•	 Divert all surface water from the construction site 
+onto undisturbed areas adjoining the stream.
+Sr
+
+=====PAGE 138
+137
+Sr
+•	 Convey full bank flow of stream without 
+appreciably altering the stream flow 
+characteristics.
+•	 Washout protection may include elevation 
+of bridges above adjacent flood plain lands, 
+crowning of fills over pipes, or the use of 
+diversions, dikes or island type structures.
+•	 A Stream Buffer Variance from the GA EPD may 
+be required and all other appropriate agencies, 
+including the U.S. Army Corps of Engineers, 
+must be contacted to ensure compliance with 
+other laws.
+Types of Stream Crossings
+Temporary Bridge Crossing
+•	 This method causes the least amount of 
+erosion of the stream channel.
+•	 Provides the least obstruction to flow and 
+fish migration.
+•	 Construct at or above the bank elevation to 
+prevent entrapment of floating materials.
+•	 Place abutments parallel to and on stable 
+banks.
+•	 Construct the bridge to span the entire 
+channel. Install a footing, pier, or bridge 
+support if the span exceeds 8 ft.
+•	 Securely anchor the bridge at one end with 
+a steel cable or chain, large trees, large 
+boulders, or driven steel anchors.
+Temporary Culvert Crossing
+•	 The most common stream crossing design.
+•	 Can be easily constructed and enables heavy 
+equipment loads to be used.
+•	 Creates the greatest obstruction to stream 
+flows and are subject to blockages.
+Sr-B
+Sr-C
+
+=====PAGE 139
+138
+Sr
+Table 1.  Pipe Diameters for Stream Crossings 
+(in)
+Drainage
+Average Slope of 
+Watershed
+Acres
+1%
+4%
+8%
+16%
+1-25
+24
+24
+30
+30
+26-50
+24
+30
+36
+36
+51-100
+30
+36
+42
+48
+101-150
+30
+42
+48
+48
+151-200
+36
+42
+48
+54
+201-250
+36
+48
+54
+54
+251-300
+36
+48
+54
+60
+301-350
+42
+48
+60
+60
+351-400
+42
+54
+60
+60
+401-450
+42
+54
+60
+72
+451-500
+42
+54
+60
+72
+501-550
+48
+60
+60
+72
+551-600
+48
+60
+60
+72
+601-640
+48
+60
+72
+72
+•	 Install the invert elevation of the culvert on 
+the natural streambed grade.
+•	 Extend the culvert(s) a minimum of 1 ft 
+beyond the upstream and downstream toe 
+of the aggregate placed around the culvert. 
+•	 Do not exceed 40 ft in length of the culvert.
+•	 Cover the culvert(s) with a minimum of 1 ft 
+of aggregate.
+•	 If using multiple culverts, separate them with 
+compacted aggregate fill by a minimum of 
+12 in.
+
+=====PAGE 140
+139
+Sr
+REFERENCES
+Ds1
+Ds2
+Ds3
+Ds4
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+Disturbed Area Stabilization	
+(With Sodding)
+Bf
+Buffer Zone
+MAINTENANCE
+•	 Inspect structure after every rainfall and at least 
+once a week.
+•	 Repair all damages immediately.
+•	 Remove the structure immediately after 
+construction is finished.
+•	 Stabilize the streambed and banks.
+
+=====PAGE 141
+140
+	
+STORM DRAIN 
+OUTLET PROTECTION
+DEFINITION
+Paved and/or riprapped channel sections placed 
+below storm drain outlets.
+PURPOSE
+•	 Reduce the velocity of flow before entering 
+receiving channels below storm drain outlets.
+INSTALLATION
+•	 Install according to the approved plan.
+•	 The apron may be lined with riprap, grouted 
+riprap, or concrete.
+•	 Compact any fill required in the subgrade to the 
+density of the surrounding undisturbed material.
+•	 Ensure that the riprap and gravel filter conform 
+to the specified grading limits on the plan.
+•	 Install geotextile between the riprap and the 
+soil base.
+•	 Protect the geotextile from punching or tears 
+during installation. Overlap connecting joints a 
+minimum of 1 ft.
+•	 The minimum thickness of the riprap should be 
+1.5x the maximum stone diameter.
+•	 Place riprap by hand or equipment. Be careful 
+to avoid damaging the filter fabric.
+St
+
+=====PAGE 142
+141
+•	 Construct the apron on zero grade with no 
+overfall at the end. Ensure the top of the riprap 
+at the downstream end is level with the receiving 
+area or slightly below it.
+•	 Place any necessary curves in the upper section 
+of the apron.
+•	 Ensure the apron is properly aligned and 
+preferably straight throughout its length.
+•	 Stabilize all distubed areas after construction.
+Apron Width for a Well-Defined Channel
+•	 Side slopes of the channel shall be no steeper 
+than 2:1.
+•	 Extend the apron across the channel bottom.
+•	 Extend the apron up the channel banks to 
+an elevation one foot above the maximum 
+tailwater depth or to the top of the bank 
+(whichever is less).
+Apron Width for a Flat Area
+•	 The upstream end of the apron shall have a 
+width 3x the diameter of the outlet pipe.
+•	 For a Minimum Tailwater Condition, the 
+downstream end of the apron shall have a 
+width equal to the pipe diameter plus the 
+length of the apron.
+Figure 1.  Outlet Protection for a Well-Defined 
+Channel
+PIPE OUTLET TO WELL DEFINED CHANNEL 
+RIPRAP APRON 
+SECTION A-A 
+1.
+Lo IS THE LENGTH OF THE RIPRAP
+APRON.
+2.
+D = 1.5 TIMES THE MAXIMUM STONE
+DIAMETER BUT NOT LES9"HAN 6".
+3.
+IN A WELL-DEFINED CHANNEL, EXTEND
+THE APRON UP THE CHANNEL BANKS TO
+AN ELEVATION OF 6" ABOVE THE
+MAXIMUM TAIL WATER DEPTH OR TO THE
+TOP OF THE BANK (WHICHEVER IS LESS).
+4.
+A FILTER BLANKET OR FILTER FABRIC
+SHOULD BE INSTALLED BETWEEN THE
+RIPRAP AND THE SOIL FOUNDATION.
+NOTES: 
+St
+
+=====PAGE 143
+142
+MAINTENANCE
+•	 Inspect riprap outlet structures after heavy rain 
+events to see if any erosion has taken place 
+around or below the riprap.
+•	 Make all needed repairs immediately to prevent 
+further damage.
+Figure 2.  Outlet Protection for a Flat Area
+St
+•	 For a Maximum Tailwater Condition, the 
+downstream end shall have a width equal 
+to the pipe diameter plus 0.4x the length of 
+the apron.
+
+=====PAGE 144
+143
+(This page left blank intentionally.)
+St
+
+=====PAGE 145
+144
+	
+SURFACE 
+	
+ROUGHENING
+DEFINITION
+Providing a rough soil surface with horizontal 
+depressions created by operating a tillage or other 
+suitable implement on the contour.
+PURPOSE
+•	 Aid in the establishment of vegetative cover 
+with seed.
+•	 Reduce runoff velocity and increase infiltration.
+•	 Reduce erosion and provide for sediment 
+trapping.
+INSTALLATION
+•	 Conduct according to the approved plan.
+•	 Required on all slopes steeper than 3:1 if they 
+are to be stabilized with vegetation.
+•	 If slope is to be stabilized with matting and 
+blankets, the surface should not be roughened.
+•	 Not required on slopes with a stable rock face.
+•	 Lightly roughen and loosen soil to a depth of 
+2”-4” on slopes 3:1 or flatter.
+•	 Areas that will be mowed should have slopes 
+less than 3:1.
+•	 Groove or maintain roughness of fill slopes 
+steeper than 3:1.
+Su
+
+=====PAGE 146
+145
+•	 Stair-step grade or groove cut slopes steeper 
+than 3:1.
+Roughening Methods
+Stair-Step Grading
+•	 May be carried out on any material soft 
+enough to be ripped with a bulldozer.
+•	 Particularly good for slopes with soft rock and 
+some subsoil.
+•	 The ratio of the vertical cut distance to the 
+horizontal distance shall be less than 1:1. 
+•	 Horizontal portion of the “step” shall slope 
+toward the vertical wall.
+Figure 1.  Stair-Stepping Cut Slopes
+Su
+•	 Individual vertical cuts are not to exceed 30” 
+on soft materials and not more than 40” in 
+rocky materials.
+Grooving
+•	 Use discs, tillers, spring harrows, or the teeth 
+on a front-end loader.
+•	 On un-mowed slopes, minimum groove depth 
+of 3” and maximum groove spacing of 15”.
+•	 On mowed slopes, minimum depth of 1” and 
+maximum groove spacing of 12”.
+
+=====PAGE 147
+146
+Figure 2.  Grooving Slopes
+Tracking
+•	 Not recommended on clayed soils unless no 
+alternatives are available.
+•	 Sandy soils may be tracked because they do 
+not compact severely.
+•	 Minimize machine passes to minimize 
+compaction.
+•	 Roughened areas shall be seeded and 
+mulched as soon as possible to obtain 
+optimum seed germination and growth.
+Su
+Figure 3. Tracking
+
+=====PAGE 148
+147
+Figure 4. Fill Slope Treatment
+REFERENCES
+Ds1
+Ds2
+Ds3
+Ds4
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+Disturbed Area Stabilization	
+(With Sodding)
+Su
+
+=====PAGE 149
+148
+	
+TURBIDITY 
+CURTAIN
+Tc
+DEFINITION
+A floating or staked barrier installed within the 
+water.
+PURPOSE
+•	 Minimize turbidity and silt migration from work 
+occurring within the water or as a supplement 
+to perimeter control BMPs at the water’s edge.
+•	 Allow suspended particles to drop out of the 
+water column over time.
+•	 Install according to the approved plan.
+•	 This practice is only allowed as a primary device 
+when required permitting has been obtained 
+for the site that approves the filling of State or 
+U.S. waters.
+•	 A Stream Buffer Variance from the GA EPD may 
+be required and all other appropriate agencies, 
+including the U.S. Army Corps of Engineers, 
+must be contacted to ensure compliance with 
+other laws.
+•	 Not to be used as sediment storage.
+INSTALLATION
+
+=====PAGE 150
+149
+•	 The installation of a turbidity curtain as a 
+supplemental BMP is allowed provided the 
+stream or other water “body” is not altered in 
+any manner by the installation.
+•	 Place barrier approximately 25 ft outside of 
+the affected construction area for large water 
+bodies.
+•	 Place barrier parallel to flow whenever there 
+is significant velocity or current in the body of 
+water.
+•	 Never allow the silt dispersion to exceed the 
+allowances the filling permit has authorized.
+•	 Installation dimensions and methods shall be 
+fitted to the conditions, permitted activity, and 
+construction methods.
+Figure 1. Turbidity Curtain System
+Tc
+
+=====PAGE 151
+150
+Tc
+Installation Types
+Floating Turbidity Curtain
+•	 Typical installation include large bodies of 
+water such as rivers and lakes.
+•	 Extend curtain to a depth of 5 ft from the 
+bottom of the water body.
+Staked Turbidity Curtain
+•	 Typical installations include shallow 
+inundations where construction is required.
+•	 Extend the barrier to the bottom of the 
+streambed.
+•	 Limit the height to 5 ft whenever possible and 
+extend 2 ft above the normal water elevation.
+MAINTENANCE
+•	 Remove the curtain when it is no longer 
+required.
+•	 Carefully remove any sediment that exceeds 
+the allowance of the filling permit.
+•	 If using Tc as a supplemental BMP, it should be 
+removed once the contributing drainage area 
+reaches final stabilization and perimeter control 
+removal has occurred.
+Tc-S
+Tc-F
+
+=====PAGE 152
+151
+Tc
+(This page left blank intentionally.)
+
+=====PAGE 153
+152
+DEFINITION
+The stripping off of the fertile topsoil, storing it, 
+then spreading it over the disturbed area after the 
+completion of construction activities.
+PURPOSE
+•	 Provide a suitable soil medium for vegetative 
+growth on areas where other measures will not 
+produce or maintain a desirable stand.
+SPECIFICATIONS
+•	 Recommended for sites with slopes 2:1 or flatter 
+where:
+•	 (1) the texture of the exposed subsoil or 
+parent material is not suitable to produce 
+adequate vegetative growth.
+•	 (2) the soil material is so shallow that the 
+rooting zone is not deep enough to support 
+plants with continuing supplies of moisture 
+and food.
+•	 (3) the soil to be vegetated contains material 
+toxic to plant growth.
+•	 Topsoil should be friable and loamy, free of 
+debris, objectionable weed and stones, and 
+contain no toxic substance that may be harmful 
+to plant growth.
+	
+TOPSOILING
+Tp
+
+=====PAGE 154
+153
+•	 A stripping depth of 4”-6” is common and should 
+be confined to the immediate construction area.
+•	 Stockpiles should not obstruct natural drainage 
+or cause off-site environmental damage.
+•	 Stockpiles shall be contained by sediment 
+barriers and stabilized with temporary vegetative 
+measures.
+•	 Where the pH of the subsoil is 5.0 or less or 
+composed of heavy clays, agricultural lime shall 
+be spread at a rate of 100lbs/1000 sq.ft.
+•	 Subsoil shall be loosened by discing or 
+scarifying to a minimum depth of 3” to permit 
+bonding of the topsoil to the subsoil. Tracking 
+by a bulldozer is also adequate.
+•	 Topsoil should be applied at a uniform depth 
+of 5” (unsettled), but may be adjusted at the 
+discretion of the design professional.
+•	 Topsoil should be handled only when dry in 
+order to prevent damaging the soil structure.
+Table 1.  Cubic Yards of Topsoil Required for 
+Application to Various Depths
+Tp
+Depth (in.)
+Per 1,000 
+Sq. Ft.
+Per Acre
+1
+3.1
+134
+2
+6.2
+268
+3
+9.3
+403
+4
+12.4
+537
+5
+15.5
+672
+6
+18.6
+806
+
+=====PAGE 155
+154
+	
+TREE 
+PROTECTION
+Tr
+DEFINITION
+The protection of desirable trees from injury during 
+construction activity.
+PURPOSE
+•	 Ensure the survival of desirable trees where 
+they will be effective for erosion and sediment 
+control, watershed protection, landscape 
+beautification, dust and pollution control, noise 
+reduction, shade and other environmental 
+benefits while the land is being converted. 
+SPECIFICATIONS
+•	 Contact the local government to obtain 
+information regarding tree ordinances BEFORE 
+ES&PC plans are designed.
+Tree Protection Zones
+(1) Measure the diameter of the tree trunk in inches 
+4.5 ft from the ground. This is the Diameter Breast 
+Height (DBH).
+(2) Multiply this value by 1.5. This result is the 
+radius of the root protection zone in ft Also 
+considered the critical rooting distance.
+
+=====PAGE 156
+155
+Tree Protection Zone Fencing
+Tree protection zone fencing may be one of the 
+following:
+•	 For areas of large remnant forest to be 
+protected, use 4 ft high orange plastic fabric 
+fencing stapled in 3 locations to 2x4 treated 
+wood stakes. Set stakes 6 ft on center. Do 
+not use rebar as stakes.
+•	 For single family homes use a treated wood 
+fencing. It may have orange fabric attached 
+to it.
+•	 For all other developments use 6 ft high 
+chain link fencing attached to galvanized 
+metal post.
+*Please refer to the American National Standard(ANSI) or 
+the International Society of Arborculture for more information 
+regarding standards for adequate tree protection.
+Tr
+Figure 2. “Snow” Fence Installation
+Figure 1. Chain Link Fence Installation
+
+=====PAGE 157
+156
+	
+VEGETATED  WATERWAY 
+	
+OR STORMWATER 
+	
+CONVEYANCE CHANNEL
+DEFINITION
+A natural or constructed channel that is shaped 
+or graded to required dimensions and established 
+in suitable vegetation for the stable conveyance 
+of runoff.
+PURPOSE
+•	 Install according to the approved plan.
+•	 Remove all trees, brush, stumps, obstructions 
+and other objectionable material so as not 
+to interfere with the proper functioning of the 
+waterway.
+•	 Ensure the channel is free of bank projections or 
+other irregularities that will impede normal flow.
+•	 Compact fills as needed to prevent unequal 
+settlement.
+•	 Dispose of all excess earth fill so that it will not 
+interfere with waterway functioning.
+•	 Stabilize the channel in accordane with 
+applicable vegetative standards. 
+•	 Dispose of runoff without causing damage either 
+by erosion or flooding.
+INSTALLATION
+Wt
+
+=====PAGE 158
+157
+•	 Channel shape may be parabolic, trapezoidal, 
+or triangular.
+•	 The bottom width shall not exceed 50 ft unless 
+multiple or divided waterways or other means 
+are provided to control meandering of low flows 
+within this limit.
+•	 Please refer to Table 1 for design velocities of 
+the grassed waterways.
+Table 1.  Permissible Velocities for 
+Vegetated and Rock-Lined Waterways
+Vegetative Cover
+Maximum Permissible 
+Velocity (fps)
+Bermuda
+5
+Bahia
+4
+Tall Fescue
+4
+Sericea Lespedeza 
+Weeping Lovegrass
+3
+Stone Center
+Design Required
+•	 Tile or other subsurface drainage measure shall 
+be provided for sites having high water tables or 
+seepage problems. Where there is base flow, a 
+stone center or lined channel will be required.
+•	 Mulching is required for all seeded or sprigged 
+channels.
+•	 Geotextiles should be used as an erosion 
+control measure beneath the riprap center.
+•	 If conditions permit, water should be temporarily 
+diverted from the channel, or otherwise disposed 
+of, during the establishment of vegetation.
+Wt
+
+=====PAGE 159
+158
+REFERENCES
+Wt
+Figure 1.  Stone Center Waterway
+Ds1
+Ds2
+Ds3
+Ds4
+Disturbed Area Stabilization	
+(With Mulching Only)
+Disturbed Area Stabilization	
+(With Temporary Seeding)
+Disturbed Area Stabilization	
+(With Permanent Vegetation)
+Disturbed Area Stabilization	
+(With Sodding)
+Ss
+Slope Stabilization
+
+=====PAGE 160
+159
+(This page left blank intentionally.)
+Wt
+
+=====PAGE 161
+160
+HISTORY
+O.C.G.A. 12-7-1
+The Erosion and 
+Sedimentation Act of 1975 
+as Amended
+AGENCIES
+The Georgia Erosion and Sedimentation Act was 
+passed in 1975 and became effective in 1977. It 
+has been amended several times; in 1980, 1981, 
+1982, 1985, 1988, 1989, 1990, 1994, 1995, 2000, 
+2001, 2003, 2004, 2006, 2007, 2009, 2010, 2012, 
+and 2015. The 1994 and 1995 amendments were 
+significant in that the emphasis was placed on 
+Best Management Practices (BMPs) instead of 
+water quality.
+This law specifically defines the duties of four 
+separate and distinct agencies:
+1.  Local Issuing Authority (LIA).
+2. Department of Natural Resources(DNR) - 
+Environmental Protection Division (EPD)
+3. The Soil and Water Conservation Districts 
+(SWCD).
+4. The Georgia Soil and Water Conservation 
+Commission (GSWCC).
+Unnamed, but critically important to the program, 
+is the Natural Resource Conservation Service 
+(NRCS) of the US Department of Agriculture 
+(USDA).
+
+=====PAGE 162
+161
+LAND-DISTURBING ACTIVITIES
+The Law defines a land-disturbing activity as:
+ “Any land change which may result in soil erosion 
+from water or wind and the movement of sediments 
+into State Water or onto lands within the State 
+including, but not limited to clearing, dredging, 
+grading, excavating, transporting, and filling.”
+EXEMPTED
+LAND-DISTURBING ACTIVITIES
+The Law contains certain exemptions. Permits for 
+land-disturbing activities are not required for the 
+following:
+	
+1. Surface mining.
+	
+2. Granite quarrying.
+	
+3. Minor land-disturbing activities such as 
+home gardens, home landscaping, etc.
+	
+4. Construction of single-family residences if 
+the project disturbs less than 1 acre and is 
+not part of a common development.
+	
+5. Agricultural Practices.
+	
+6. Forestry Practices.
+A county/city may adopt a local E&S ordinance 
+and become a Local Issuing Authority (LIA). This 
+authorizes the city/county to issue a Land Disturbing 
+Activity (LDA) permit. The responsibilities of a 
+Certified LIA are as follows:
+	
+1. Process LDA applications
+	
+2. Maintain list of active LDA permits
+	
+3. Conduct inspections
+	
+4. Enforce ordinance
+	
+5. Handle E&S complaints
+CERTIFIED LOCAL ISSUING 
+AUTHORITY
+
+=====PAGE 163
+162
+	
+7. Projects carried out under the technical 
+guidance of the Natural Resources 
+Conservation Service (NRCS).
+	
+8. Any project that disturbs less than 1.0 acre 
+unless the activity occurs within 200 ft. of 
+“State Waters” or part of a common plan of 
+development.
+	
+9. Road Construction and Utility Projects 
+financed by the Department of Transportation, 
+Georgia Highway Authority or State Road & 
+Tollway Authority. Any road construction or 
+maintenance project undertaken by the city 
+or county is also exempt.
+	
+10. Any LDA conducted by an EMC, Public 
+Utilities under PSC Jurisdiction, Municipal 
+Electric Systems, Utilities under FERC 
+jurisdiction, and cable television systems.
+	
+11. Public Water System Reservoirs
+Even exempted activities must conform to the BMP 
+minimum requirements (O.C.G.A. 12-7-6)
+MINIMUM REQUIREMENTS
+The minimum requirements specified in the 
+Law mandate that Best Management Practices 
+(BMPs) be designed, installed and maintained 
+in accordance with 16 sound conservation and 
+engineering principals and accommodate up to 
+and including a 25-year, 24-hour rainfall event.
+BMPs are vegetative measures and structural 
+practices that, when properly applied, will provide 
+effective erosion and sedimentation control for all 
+rainfall events. Some of the vegetative measures 
+are temporary and permanent plants, mulches, 
+and undisturbed buffers. There are many structural 
+practices including diversions, sediment barriers 
+and basins, waterways, etc. Properly designed, 
+installed and maintained BMPs constitute a total 
+defense against punitive actions by the EPD and 
+the Local Issuing Authority. Should BMPs fail 
+under less than the 25-year, 24-hour rainfall event, 
+
+=====PAGE 164
+163
+then land-disturbers are subject to penalties of 
+up to $2,500 per day by the Issuing Authority and 
+up to $50,000-100,000 per day for water quality 
+violations under the Georgia Water Quality Control 
+Act. The storm water from a construction site 
+should not increase the turbidity of the receiving 
+waters by more than 25 Nephlometric Turbidity 
+Units (NTUs) for warm water streams and by 
+more than 10 NTUs for cold water streams (trout 
+streams).
+CONSERVATION AND 
+ENGINEERING PRINCIPALS
+The Law requires that BMPs conform to the 
+criteria contained in The Manual for Erosion and 
+Sediment Control in Georgia, which is published 
+by the Conservation Commission.
+Additionally, the Law requires that BMPs conform 
+to the following principals:
+	
+1. LDAs shall be conducted so as to minimize 
+erosion.
+	
+2. Cut and fill operations must be kept to a 
+minimum.
+	
+3. Development plans must conform to 
+topography and soil type, so as to create the 
+lowest practicable erosion potential.
+	
+4. Whenever feasible, natural vegetation shall 
+be retained, protected and supplemented.
+	
+5. The disturbed area and the duration of 
+exposure to erosive elements shall be kept 
+to a practicable minimum.
+	
+6. Disturbed soil shall be stabilized as quickly 
+as practicable.
+	
+7. Temporary vegetation or mulching shall be 
+employed to protect exposed critical areas 
+during development.
+	
+8. Permanent vegetation and structural 
+erosion control measures must be installed 
+as soon as practicable.
+
+=====PAGE 165
+164
+	
+9. To the extent necessary, sediment in 
+runoff water must be trapped by the use of 
+debris basins, sediment basins, silt traps, 
+or similar measures until the disturbed area 
+is stabilized. A disturbed area is stabilized 
+when it is brought to a condition of continuous 
+compliance with the requirements of the Law.
+	
+10. Adequate provisions must be provided 
+to minimize erosion damage to cut and fill 
+slopes.
+	
+11. Cuts and fills may not endanger adjoining 
+property.
+	
+12. Fills may not encroach upon natural 
+watercourses or constructed channels so as 
+to adversely affect other property owners.
+	
+13. Grading equipment must cross flowing 
+streams using bridges or culverts, except 
+when they are not feasible; provided, in any 
+case, that such crossing must be kept to a 
+minimum.
+	
+14. LDA plans for E&SC shall include BMPs 
+for the treatment or control of any sediment 
+sources. They must also show adequate 
+BMPs to retain sediments on site or preclude 
+sedimentation of adjacent waters beyond the 
+levels specified in section 12-7-6 (a) (2).
+	
+15. Except as provided in paragraph 16, 
+LDAs shall not be conducted within 25 feet of 
+the banks of any state waters, as measured 
+horizontally from the point where vegetation 
+has been wrested by normal stream flow or 
+wave action, except where the Director of EPD 
+allows a variance that is at least as protective 
+of natural resources and the environment, 
+or where a drainage structure or a roadway 
+drainage structure must be constructed. 
+Adequate erosion control measures must 
+be incorporated in the project plans and 
+implemented on site. Buffers of at least 25 
+feet established pursuant to provisions of 
+the “Georgia Water Quality Control Act” shall 
+
+=====PAGE 166
+165
+remain in force unless a variance is granted 
+by the Director. The following requirements 
+shall apply to any such buffer:
+	
+	A. No LDAs shall be conducted within 
+a buffer and a buffer shall remain 
+undisturbed until all LDAs on the site are 
+completed. Once the final stabilization 
+of the site is achieved a buffer may be 
+trimmed or thinned as long as long as 
+the natural canopy is left in sufficient 
+quantity. For single family construction, 
+thinning or trimming of the buffer is 
+allowed as long as the natural canopy 
+is left in sufficient quantity.
+	
+	B. The granting or denial of a variance 
+request by the Director is based on the 
+specific criteria of the rules adopted by 
+the Board.
+	
+16. LDAs shall not be conducted within 50 
+horizontal feet as measured from the point 
+where vegetation has been wrested by normal 
+stream flow or wave action of any state waters 
+classified as “trout streams” pursuant to the 
+“Georgia Water Quality Control Act” except 
+where a roadway Drainage structure must be 
+constructed, provided that streams classified 
+as trout streams which discharge an average 
+annual flow of 25 gallons per minute or less 
+may be piped by the landowner. See above 
+sections A and B, paragraph 15, for buffer 
+requirements.
+
+=====PAGE 167
+166
+PLANS AND PERMITS
+All land disturbing activities covered by the E&S 
+Act must first secure a Land Disturbing Activity 
+(LDA) permit from the Local Issuing Authority. 
+It is the responsibility of the property owner to 
+obtain the LDA permit. The LDA application must 
+be accompanied by a properly designed Erosion, 
+Sedimentation & Pollution Control Plan. The LIA 
+must forward the plan to the local Soil and Water 
+Conservation District for approval unless they have 
+entered into a Memorandum of Agreement with the 
+local Soil and Water Conservation District.
+The techincal review of an ES&PC plan is 
+conducted by the State Soil and Water Conservation 
+Commission or Natural Resources Conservation 
+Service. The Law requires that a permit be 
+issued or denied within 45 days after a complete 
+application and plan are submitted.
+When the LDA is being conducted in a city or 
+county where there is not a Local Issuing Authority, 
+the Georgia Environmental Protection Division 
+(EPD) Watershed Protection Branch will review 
+the ES&PC plan and the GA EPD District Offices 
+will conduct any enforcement action.
+MEMORANDUM OF AGREEMENT
+When a Local Issuing Authority has demonstrated 
+the ability to review and approve ES&PC plans, 
+It can enter into a Memorandum of Agreement 
+(MOA) with the Soil & Water Conservation 
+District to do plan review in-house. There are ~70 
+municipalities in the State of Georgia that have 
+entered into this agreement with their local SWCD.
+
+=====PAGE 168
+167
+The Federal Clean Water Act and the Georgia 
+Water Quality Control Act require the operator of 
+an LDA to obtain a National Pollutant Discharge 
+Elimination System (NPDES) Permit. This NPDES 
+Permit regulates point source discharges of storm 
+water to the waters of the State of Georgia from 
+construction activities that will results in land 
+disturbance equal to or greater than one (1) acre. 
+As is the case with LDA permits issued pursuant 
+to the Georgia Erosion and Sedimentation Act, the 
+NPDES Permit requires that Best Management 
+Practices (BMPs) be employed. The BMPs are 
+described in this Manual. Further information 
+regarding the NPDES Permit can be obtained 
+from the Environmental Protection Division of the 
+Georgia Department of Natural Resources.
+The 
+National Pollutant 
+Discharge Elimination 
+System (NPDES) Permit
+
+=====PAGE 169
+168
+Appendix A-2
+Joining the Equivalent Best 
+Management Practice List
+The allowance of the efficient addition of proven 
+BMPs that are at least as stringent as the Manual 
+for Erosion & Sediment Control recognizes the 
+dynamic growth and technological advancements 
+in the area of BMP development.
+Per the NPDES Permit, the use of an alternative 
+BMP whose performance has been documented to 
+be equivalent or superior to conventional BMPs as 
+certified by a Design Professional may be allowed 
+on a case-by-case basis, unless disapproved by 
+EPD or GSWCC.
+For a BMP to be considered for inclusion on the 
+Equivalent BMP List, a Design Professional must 
+have successly completed the current process 
+for Alternative BMP’s as outlined by the GSWCC 
+guidance document on at least 3 completed 
+projects where EPD’s Notice of Termination (NOT) 
+form has been filed.
+Geographic dispersion of the project sites is 
+encouraged.
+The following steps are required:
+1.	Provide pre-notice to EPD & GSWCC of the 
+intent to apply for an Alternative BMP to be 
+included on the Equivalent BMP List:
+A. Specify on the required checklist that 
+accompanies the Notice of Intent From that 
+the project includes an Alternative BMP that 
+will be included on an Application for the 
+Equivalent BMP List.
+B. Inform GSWCC of the intent to apply 
+by sending a digital copy of the approved 
+ES&PC plan and a copy of the above to the 
+GSWCC each time the NOI is filed with EPD.
+
+=====PAGE 170
+169
+2.	Once the project involving the Alternative 
+BMP has been completed and a Notice of 
+Termination form for the project has been filed, 
+submit to GSWCC the following:
+A. An application to be on the Equivalent BMP 
+List and a sample of the BMP.
+B. Three sets - one for each time the 
+Alternative BMP was used in three separate 
+projects - of the required documentation to 
+use the Alternative BMP, based on the current 
+approval process as outlined by GSWCC 
+guidance. Evidence of repeatable bench 
+and field testing must be included as part of 
+this documentation. Only approved ASTM 
+standards or Overview Council-approved 
+standards will be acceptable for repeatable 
+bench testing; working test methods will not 
+be accepted.
+C. Three sets - one for each time the 
+Alternative BMP was used in three separate 
+projects - of the Notice of Termination form 
+for each project involving the Alternative BMP.
+D. A Certification form signed by 2 individuals 
+- a Level II certified Design Professional and a 
+Level IA or Level IB Certified Personnel - who 
+evaluated the BMPs performance in the field 
+stating that the Alternative BMP performed as 
+expected throughout the life of each of the 
+three projects.
+E. Three sets of installation photos - one for 
+each time the Alternative BMP was used - 
+of the Alternative BMP utilized in the three 
+projects.
+F. Three sets of after-storm event photos - 
+one for each time the Alternative BMP was 
+used - of the Alternative BMP utilized in the 
+three projects.
+G. Any post-storm event inspection records 
+as well as inspection and enforcement 
+records made by any federal, state, or local 
+regulatory agency related to this specific BMP 
+on any of the 3 projects. 
+
+=====PAGE 171
+170
+Construction Checklist of 
+BMPs And Minimum 
+Requirements
+Project Name & File No.________________
+Inspection Date:______________	
+	
+Time:_________ 
+Inspected by:__________________
+Stage of Construction
+___Pre-Construction Phase
+___Construction Phase
+___Building Phase
+___Final Stabilization
+CHECK DAM
+Minimum Requirement
+Passed
+Failed
+Center: 9” lower than outer edges.
+Side Slopes: 2:1 or flatter
+Spacing: Toe of upstream dam is at 
+the same elevation as the top of the 
+downstream dam.
+Geotextile: Placed between the rock 
+and its soil foundation.
+Maintenance: Sediment removed 
+when depth reaches 1/2 the original 
+dam height. Dam removed and 
+area stabilized when useful life has 
+expired.
+Cd
+
+=====PAGE 172
+171
+CHANNEL STABILIZATION
+Minimum Requirement
+Passed
+Failed
+Installation: Channel lining installed 
+immediately after grading and 
+vegetate all bare areas.
+Riprap Lining: Graded to 1.5:1 or 
+less. A filter blanket, at least 6” thick, 
+of sand, gravel, and/or geotextile 
+material should be between soil and 
+riprap.
+Outlet: Adequate outlet for free flow of 
+water from flood plains into channel.
+Clearing: Objectionable materials 
+removed from the channel. As many 
+trees preserved, as possible.
+Buffers: Preserved by clearing for soil 
+placement on one side of channel 
+only. Buffers re-established with 
+appropriate vegetation.
+Maintenance: Inspected periodically 
+and necessary repairs made 
+immediately.
+Ch
+CONSTRUCTION EXIT
+Minimum Requirement
+Passed
+Failed
+Aggregate Size: 1.5”-3.5”
+Pad Thickness: 6” minimum
+Pad Width: 20 ft minimum
+Pad Length: 50 ft minimum
+Location: At all exit points.
+Geotextile: Placed the full length and 
+width of the exit.
+Maintenance: Peiodic top dressing 
+with 1.5”-3.5” stone as conditions 
+demand.
+Co
+CONSTRUCTION ROAD STABILIZATION
+Minimum Requirement
+Passed
+Failed
+Aggregate Size: 1.5”-3.5”
+Pad Thickness: 8”-10”
+Pad Width: 14 ft minimum.
+Maintenance: Peiodic top dressing 
+with 1.5”-3.5” stone as conditions 
+demand.
+Cr
+
+=====PAGE 173
+172
+STREAM DIVERSION CHANNEL
+Minimum Requirement
+Passed
+Failed
+Size: Channel width should be a 
+minimum of 6 ft with side slopes 
+flatter than 2:1.
+Lining: The liner should consist of 
+geotextile or class I riprap.
+Maintenance: Inspected daily for 
+construction material positioning.
+Dc
+DIVERSION
+Minimum Requirement
+Passed
+Failed
+Site Preparation: Trees, brush, 
+stumps, and other objectionable 
+material have been removed.
+Fills: All fills have been compacted. 
+All un-needed excavated material 
+has been disposed of and stabilized. 
+Ridge should be at least 10 ft wide. 
+Add 10% height for settlement.
+Stabilization: Channel outlets have 
+adequate vegetation, riprap, and/or 
+concrete.
+Maintenance: Inspected frequently 
+and after each rainfall. Necessary 
+repairs made immediately.
+Di
+DOWNDRAIN STRUCTURE
+Minimum Requirement
+Passed
+Failed
+Location: On un-disturbed soil or well-
+compacted fill.
+Outlet: Stabilized with rock riprap.
+Pipe: Heavy duty, flexible tubing 
+staked at 10 ft intervals for temporary 
+structure. Joints are well-connected 
+and watertight.
+Maintenance: Check after every 
+rainfall. Necessary repairs made 
+promptly. Temporary strucuture 
+removed after useful life. Exposed 
+areas stabilized
+Dn1
+Dn2
+
+=====PAGE 174
+173
+FILTER RING
+Minimum Requirement
+Passed
+Failed
+Size: At inlets with a diameter less 
+than 12”, the stone size should be 
+3”-5”
+Size: At inlets with a diameter greater 
+than 12”, the stone size should be 
+10”-15”
+Height: The filter ring should have a 
+minimum height of 2 ft from grade.
+Maintenance: The ring should be 
+kept clear of trash and debris, and 
+the sediment should be removed at 
+1/2 full
+Fr
+GABION
+Minimum Requirement
+Passed
+Failed
+Design: Designed and installed by a 
+professional familiar with the use of 
+gabions
+Maintenance: Periodically inspected 
+for signs of undercutting or excessive 
+erosion
+Ga
+GRADE STABILIZATION STRUCTURE
+Minimum Requirement
+Passed
+Failed
+Materials: Constructed of concrete, 
+rock, masonry, steel, aluminum, or 
+treated wood.
+Outlet: Adequate, stable outlet for 
+discharge.
+Vegetation: On all disturbed areas.
+Maintenance: Periodically inspected 
+for signs of undercutting or periodic 
+erosion.
+Gr
+
+=====PAGE 175
+174
+LEVEL SPREADER
+Minimum Requirement
+Passed
+Failed
+Grade: No greater than 1% for the 
+last 15 ft of the dike or diversion.
+Length: Determined by the design 
+professional from estimated storm 
+flow.
+Outlet: Discharges onto an 
+undisturbed stabilized area to create 
+uniform sheet flow.
+Maintenance: No blockages at point 
+of discharge.
+Lv
+ROCK FILTER DAM
+Minimum Requirement
+Passed
+Failed
+Height: The dam center shall be 9” 
+lower than the outer edge and not 
+higher than the channel banks.
+Side Slopes: 2:1 or flatter
+Location: Located so that it will not 
+cause flooding of upstream property.
+Rock Size: Determined by the design 
+criteria set forth in Appendix C of the 
+Manual
+Top Width: 6 ft or greater
+Maintenance: Sediment removed 
+when it reaches a depth of 1/2 the 
+original height of the dam. Remove 
+dam at the end of its useful life.
+Rd
+RETAINING WALL
+Minimum Requirement
+Passed
+Failed
+Design: Designed and installed by a 
+professional familiar with the use of 
+retaining walls.
+Maintenance: Periodically inspected 
+for signs of undercutting or excessive 
+erosion.
+Re
+
+=====PAGE 176
+175
+RETROFIT
+Minimum Requirement
+Passed
+Failed
+Height: 1/2 the height of the outlet 
+control structure
+Half-Round Pipe: Diameter should be 
+1.5x the principal pipe outlet diameter.
+Slotted Board Dam: Minimum posts 
+size of 4”x4”. The spacing between 
+shall be 0.5”-1.0”
+Stone Size: 3-4” stone
+Pond Inlet: Sediment entry point 
+should be at opposite end of basin 
+from outlet. If not, baffles shall be 
+installed
+Maintenance: Trash and debris 
+hindering drainage shall be removed. 
+Sediment removed when structure is 
+1/3 full. Structure removed when final 
+stabilization achieved.
+Rt
+SEDIMENT BARRIER
+Minimum Requirement
+Passed
+Failed
+Location: Intended for areas where 
+sheet flow occurs. Installed along 
+the contour. Where state waters 
+are present, 2 rows of Type “S” is 
+installed.
+Brush Barrier: Wind-rowed on the 
+contour. Width should be between 
+5-10 ft and height should be between 
+3-5 ft.
+Silt Fence: Verify fabric type and 
+support spacing for each application. 
+Entreched to a depth of 6”. Verify post 
+size.
+Maintenance: Sediment removed 
+at 1/2 the original height of the 
+barrier. Product replaced when it 
+cannot maintain 80% of properly 
+installed height. Removed once final 
+stabilization has occurred
+Sd1
+
+=====PAGE 177
+176
+INLET SEDIMENT TRAP
+Minimum Requirement
+Passed
+Failed
+Excavated: A minimum depth of 1.5 
+ft is provided. Side slopes sohuld be 
+2:1 or flatter.
+Fabric & Frame: Steel posts are used. 
+Fabric is entrenched at least 12” and 
+fabric is securely fastened to the 
+posts.
+Curb Inlet: 8” concrete blocks 
+wrapped in filter fabric or gravel bags 
+consisting of #57 stone wrapped in 
+filter fabric or equivalen material.
+Gravel: 3” in diameter or larger stone 
+placed on slope toward the inlet. 
+1/2”-3/4” gravel placed on slope away 
+from inlet.
+Maintenance: Sediment removed 
+when accumulation has reached 1/2 
+the height of the trap. Remove once 
+contributing drainage basin has been 
+stabilized
+Sd2
+TEMPORARY SEDIMENT BASIN
+Minimum Requirement
+Passed
+Failed
+Location: Not placed in a live stream
+Principal Spillway: Vertical 
+pipe should extend through the 
+embankment and exit beyond the 
+downstream toe of the fill. All pipe 
+and riser connections should be 
+watertight. Pipe should be a minimum 
+of 8” in diameter
+Riser: 1/2” perforations spaced 
+3” apart covered with 2 ft of 3”-4” 
+stone. Embedded 9” into an 18” thick 
+concrete base.
+Emergency Spillway: Constructed 
+on undisturbed ground. Minimum 
+bottom width of 8 ft. Stabilized with 
+vegetation, riprap, or concrete.
+Maintenance: All damages caused 
+by erosion or equipment repaired 
+before the end of each day. Sediment 
+removed when 1/3 of the storage 
+volume has been lost.
+Sd3
+
+=====PAGE 178
+177
+TEMPORARY SEDIMENT TRAP
+Minimum Requirement
+Passed
+Failed
+Depth: Maximum depth is 4 ft
+Overflow: The maximum permanent 
+wet depth is 2 ft. Slopes are less than 
+2%.
+Combination: The maximum depth of 
+ponded water is 12”.
+Rock: Height of the embankment is 
+not greater than 5.5 ft. The top width 
+is at least 3 ft. Slopes do not exceed 
+2:1.
+Maintenance: All damages caused 
+by erosion or equipment repaired 
+before the end of each day. Sediment 
+removed when 1/3 of the storage 
+volume has been lost.
+Sd4
+FLOATING SURFACE SKIMMER
+Minimum Requirement
+Passed
+Failed
+Excavation Pit: 4 x 4 x 2 ft pit filled 
+with riprap under the skimmer. Must 
+be lower than the invert of the outlet 
+barrel of the riser.
+Apparatus: Schedule 40 or greater 
+PVC or other appropriate materials
+Maintenance: Use a floatable rope 
+to remove trash and debris that 
+accumulates on the outside of guard. 
+Free skimmer from being stuck in the 
+mud.
+Sk
+
+=====PAGE 179
+178
+TEMPORARY STREAM CROSSING
+Minimum Requirement
+Passed
+Failed
+Size: Large enough to convey full 
+bank flow without appreciably altering  
+the stream flow characteristics.
+Location: Installed perpendicular to 
+the stream.
+Overflow Protection: Elevated 
+crossings, crown fills over pipes, or 
+diversions and dikes.
+Maintenance: Inspect after every 
+rainfall and at least once a week.
+Sr
+SEEP BERM
+Minimum Requirement
+Passed
+Failed
+Location: Not located above fill slopes 
+that have not achieved permanent 
+stabilization. Not located across 
+streams, ditches, or waterways.
+Berm: Minimum width of 12” and 
+height of 4 ft. Compacted by 
+mechanical equipment.
+Vegetation: Planted with seed that 
+has 70% or better germination
+Spacing: The toe of the upstream dike 
+is at the same elevation as the top of 
+downstream dike.
+Maintenance: Inspect after every 1/2” 
+rainfall or greater. Remove sediment 
+when accumulation is 1/3 the height 
+of the intermediate dike
+SpB
+
+=====PAGE 180
+179
+STORM DRAIN OUTLET PROTECTION
+Minimum Requirement
+Passed
+Failed
+Alignment: The apron is properly 
+aligned and preferably straight 
+throughout its length
+Grade: Constructed at 0% grade 
+with no overfall at the end. The top 
+of the riprap at the downstream end 
+is level with the receiving channel. 
+Compacted any required fill.
+Filter Fabric: Gravel filter or Geotextile 
+installed between the riprap and 
+subgrade. Fabric is free of any 
+punching or tears. Gravel filter 
+is properly graded and installed 
+according to the manufacturer’s 
+recommendation
+Riprap Thickness - 1.5x the maximum 
+stone diameter
+Upstream Width - 3x the diameter of 
+the outlet pipe
+Length of Apron - Refer to Plan
+Maintenance: Inspect riprap outlet 
+structures after heavy rain events. 
+Make repairs immediately.
+St
+SURFACE ROUGHENING
+Minimum Requirement
+Passed
+Failed
+Steeper than 3:1: Roughened by 
+either Stair-Step Grading, Grooving, 
+or Tracking
+Flatter than 3:1: Soils loosened to a 
+depth of 2”-4”
+Stair-Step Grading: Maximum depth 
+of 30”-40” Maximum width of 40”-50”
+Grooving: Un-Mowed slopes with a 
+minimum depth of 3” and maximum 
+spacing of 15”. Mowed slopes with a 
+minimum depth of 1” and maximum 
+spacing of 12”
+Tracking: Not recommended on clay 
+soils. Sandy soils may be tracked.
+Vegetation: Roughened areas are 
+seeded and mulched immediately 
+after roughening
+Su
+
+=====PAGE 181
+180
+TURBIDITY CURTAIN
+Minimum Requirement
+Passed
+Failed
+Location: Barrier placed 25 ft outside 
+of the construction area where 
+possible. Curtain placed parallel to 
+flow.
+Water Body: Not altered by the 
+installation of the curtain.
+Filling: Required permits and 
+variances have been obtained 
+and allowable limits have not been 
+exceeded.
+Maintenance: Removed when no 
+longer needed. Excess sediment 
+carefully removed.
+Tc
+TOPSOILING
+Minimum Requirement
+Passed
+Failed
+Stripping: Confined to the immediate 
+construction area with a typical depth 
+of 4”-6.” Topsoil is friable, loamy, and 
+free of debris and objectionable rock.
+Stockpile: Located where natural 
+drainage is not obstructed and 
+contained by a sediment barrier. 
+Stabilized with temporary vegetative 
+measures
+Spreading: Applied at a uniform depth 
+of 5”. Subsoil has been loosened and 
+agricultural lime added as required
+Tp
+TREE PROTECTION
+Minimum Requirement
+Passed
+Failed
+Fence: Orange plastic fabric stapled 
+to 2x4 treated wood stakes. Treated 
+wood fencing with orange fabric 
+attached used for single family homes
+Protection Zone: Local government 
+contacted regarding tree ordinances 
+and critical rooting distance
+Tr
+
+=====PAGE 182
+181
+VEGETATED WATERWAY
+Minimum Requirement
+Passed
+Failed
+Channel: Free of all trees, bank 
+projections, and other objectionable 
+material that will impeded normal flow. 
+Shaped to desired cross section and 
+stabilized in accordance vegetative 
+standards.
+Fill: Compacted as needed. Excess fill 
+disposed of in an appropriate manner
+Wt
+
+=====PAGE 183
+182
+BUFFER ZONE
+Minimum Requirement
+Passed
+Failed
+Width: For warm water fisheries, a 
+minimum of 25 ft from the point of 
+wrested vegetation shall be protected. 
+For cold water fisheries, a minimum 
+of 50 ft from the point of wrested 
+vegetation shall be protected.
+Maintenance: Area closet to the 
+stream is maintained at all times with 
+minimal impact from equipment.
+Variance: A variance is required for 
+any work inside State mandatad 
+buffers
+Bf
+COASTAL DUNE STABILIZATION
+Minimum Requirement
+Passed
+Failed
+Location: 100-140 ft depending on 
+wind conditions from the mean high 
+tide line.
+Posts: Minimum length of 7 ft with 
+a minimum diameter of 3”. Spacing 
+should be 10 ft apart and entrenched 
+to a depth of 3 ft.
+Snow Fence: Standard commercial 4 
+ft high snow fence with a slat spacing 
+of 1-1/4”. Fencing should be spaced 
+30-40 ft apart.
+Placement: Placed perpendicular to 
+the prevailing winds. When winds 
+are parallel to water, an additional 
+30 ft section should be placed 
+perpendicular to the original fence.
+Vegetation: Established immediately 
+following dune development. Irrigate 
+is necessary.
+Preservation: Dunes protected 
+from human and vehicular traffic. 
+Crosswalks provided for beach 
+access.
+Cs
+
+=====PAGE 184
+183
+DISTURBED AREA STABILIZATION
+(WITH MULCHING ONLY)
+Minimum Requirement
+Passed
+Failed
+Preparation: Soil loosened to a 
+minimum depth of 3”
+Application: Applied by hand or 
+mechanical equipment.
+Anchoring: Anchored with a disk 
+harrow or tackifier. Polyethylene film 
+entrenched at the top
+Materials & Related Depths
+Straw or Hay - 2” to 4”
+Wood waste/chips - 2” to 3”
+Ds1
+DISTURBED AREA STABILIZATION
+(WITH TEMPORARY SEEDING)
+Minimum Requirement
+Passed
+Failed
+Preparation: Soil should be loose and 
+friable. Soil should be scarified when 
+sealed by rainfall.
+Lime & Fertilizer: Applied at a rate 
+determined by the soil pH.
+Seeding: Plant species selected 
+based on site and soil conditions, 
+area, and time of year.
+Irrigation: Applied at a rate that will 
+not cause runoff and erosion.
+Mulch: Placed after seeding to retain 
+moisture.
+Ds2
+
+=====PAGE 185
+184
+DISTURBED AREA STABILIZATION
+(WITH PERMANENT SEEDING)
+Minimum Requirement
+Passed
+Failed
+Preparation: Soil should be loose and 
+friable. Soil should be scarified when 
+sealed by rainfall.
+Lime & Fertilizer: Applied at a rate of 
+1-2 tons/acre unless soil tests indicate 
+otherwise. Refer to Manual for 2nd & 
+3rd year fertilizer rates.
+Seeding: Plant species selected 
+based on site and soil conditions, 
+area, and time of year.
+Mulch: Applied in accordance with 
+Ds1 specifications
+Irrigation: Applied at a rate that will 
+not cause runoff and erosion.
+Mowing: 6” of top growth maintained 
+at all times
+Ds3
+DISTURBED AREA STABILIZATION
+(WITH SODDING)
+Minimum Requirement
+Passed
+Failed
+Surface: Soil surface is brought to 
+final grade and clear of any trash, 
+debris, and clods larger than 1”.
+Installation: Sod applied to soil 
+surface only (not to frozen or gravel 
+type soils). Cut and installed within 36 
+hours of digging.
+Lime & Fertilizer: Applied based on 
+soil tests or at a rate of 1-2 tons/acre.
+Anchoring: Sod should be anchored 
+with pins on slopes steeper than 3:1.
+Irrigation: Used as a supplement to 
+rainfall for a minimum of 2-3 weeks.
+Mowing: Grass height should not be 
+cut less than 2”-3”.
+Ds4
+DUST CONTROL
+Minimum Requirement
+Passed
+Failed
+Methods: Mulch, vegetation, 
+tackifiers, or irrigation used to prevent 
+surface and air movement of dust.
+Du
+
+=====PAGE 186
+185
+FLOCCULANTS & COAGULANTS
+Minimum Requirement
+Passed
+Failed
+Application: Conforms to 
+manufactuurer’s guidelines.
+Type: Only anionic forms shall be 
+used.
+Location: Intended for use in 
+construction storm water ditches that 
+feed ponds or basins. Not intended 
+for use to surface waters of the state.
+Fl-Co
+STREAMBANK STABILIZATION
+(WITH PERMANENT VEGETATION)
+Minimum Requirement
+Passed
+Failed
+Design: Designed and installed by a 
+professional familiar with the process.
+Materials: None used that could be 
+poisonous to fish or aquatic life.
+Runoff: Diverted away from the area 
+being treated.
+Side Slope: Should be 2:1 or flatter.
+Work Sequence: Work started at an 
+upstream stable point along the bank.
+Stake Health: Cut with a saw. 
+Planted the same day as prepared. 
+Buds upward. Split, stripped, and 
+mushroomed cuttings replaced.
+Stake Installation: Begins at water’s 
+edge and works up the bank.
+Vegetation: Native trees and shrubs. 
+Inspection: Checked regularly for 
+wash-outs, undercutting, unhealthy 
+vegetation, especially after heavy 
+rains. Make necessary repairs 
+immediately.
+Maintenance: All failures fixed with 
+structural materials, new plants, and 
+mulch immediately.
+Sb
+
+=====PAGE 187
+186
+SLOPE STABILIZATION
+Minimum Requirement
+Passed
+Failed
+Installation: Conforms to 
+manufacturer’s guidelines for 
+installation of HECPs & RECPs
+Maintenance: Inspected periodically 
+after installation. All materials 
+reinstalled after washouts or 
+breakage.
+Ss
+TACKIFIERS
+Minimum Requirement
+Passed
+Failed
+Specifications: Used as tie-down for 
+soil, compost, seed, straw, hay, or 
+mulch. Only anionic forms shall be 
+used.
+Installation: Installed according to the 
+manufacturer’s guidelines.
+Tac
+
+=====PAGE 188
+187
+___	 Verbal Warning Issued	
+Date: ______
+___	 Stop Work Order Issued	
+Date: ______
+___	 Citation Issued	
+Date: ______
+ACTIONS TAKEN
+Comments:
+
+=====PAGE 189
+188
+AASHTO CLASSIFICATION (soil engineering) -- The official classification of 
+soil materials and soil aggregate mixtures for highway construction used 
+by the American Association of State Highway Transportation Officials.
+ACID SOIL -- A soil with a pH value less than 7.0. The term is usually applied 
+to the surface layer or to the root zone unless specified otherwise.
+ACRE-FOOT -- The volume of water that will cover 1 acre to a depth of 
+1 foot.
+AGGRADATION -- The process of building up a surface by deposition.
+ALKALINE SOIL -- A soil that has a pH greater than 7.0, particularly 
+above 7.3.
+ALLUVIAL -- Pertaining to material that is transported and deposited by 
+running water.
+ALLUVIAL LAND -- Areas of unconsolidated alluvium, generally stratified 
+and varying wildly in texture, recently deposited by streams, and subject 
+to frequent flooding.
+ALLUVIUM -- A general term for all detrital material deposited or in transit 
+by streams, including gravel, sand, silt, clay, and all mixtures of these.
+ANGLE OF REPOSE -- The angle between the horizontal and the maximum 
+slope that a soil assumes through natural processes.
+ANTI-SEEP COLLAR -- A device constructed around a pipe or other conduit 
+and placed through a dam, levee or dike for the purpose of reducing 
+seepage losses and piping failures.
+ANTI-VORTEX DEVICE --  A facility placed at the entrance to a pipe conduit 
+structure, such as a drop inlet spillway or hood inlet spillway, to prevent 
+air from entering the structure when the pipe is flowing full. 
+APRON (soil engineering) -- A floor or lining to protect a surface from 
+erosion. An example is the pavement below chutes, spillways, or at 
+the toes of dams.
+AUXILIARY SPILLWAY -- A dam spillway built to carry runoff in excess of 
+that carried by the principal spillway. See Emergency Spillway.
+BACKFILL -- The material used to refill a ditch or other excavation, or the 
+process of doing so.
+BEDROCK -- The solid rock underlying soils and the regolith in depths 
+ranging from zero (where exposed by erosion) to several hundred feet.
+BEDLOAD -- The sediment that moves by sliding, rolling or bounding on 
+or very near the streambed.
+BEST MANAGEMENT PRACTICES (BMPs) -- A collection of structural 
+practices and vegetative measures which, when properly designed, 
+installed and maintained, will provide effective erosion and 
+sedimentation control for all rainfall events up to and including a 25-
+year, 24-hour rainfall event.
+BLINDING MATERIAL -- Material placed on top and around a closed drain 
+to improve the flow of water to the drain and to prevent displacement 
+GLOSSARY
+The list of terms that follows is representative of 
+those used by soil scientists, engineers, developers, 
+conservationist planners, etc. The terms are not 
+necessarily used in the text, nonetheless they are in 
+common use in conversation matters.
+
+=====PAGE 190
+189
+during back-filling of the trench.
+BLIND INLET -- An inlet to a drain in which the entrance of water is by 
+percolation rather than open flow channels.
+BORROW AREA -- A source of earth fill material used in the construction 
+of embankments or other earthfill structures.
+BOTTOM LANDS -- A term often used to define lowlands adjacent to 
+streams.
+BOX-CUT -- The initial cut driven in a property where no open side exists 
+that results in a highwall on both sides at the cut.
+BRUSH MATTING -- (1) A matting of branches placed on badly eroded 
+land to conserve moisture and reduce erosion while trees or other 
+vegetative covers are being established. (2) A matting of mesh wire 
+and brush used to retard stream bank erosion.
+CHANNEL -- A natural stream that conveys water; a ditch or channel 
+excavated for the flow of water. See Watercourse.
+CHANNEL IMPROVEMENT -- The improvement of the flow characteristics 
+of a channel by clearing, excavating, realignment, lining, or other means 
+in order to increase its capacity.
+CHANNEL SLOPE -- Natural or excavated sides (banks) of a watercourse.
+CHANNEL STABILIZATION -- Erosion prevention and stabilization of 
+velocity distribution in a channel using jetties, drops, revetments, 
+vegetation, and other measures.
+CHANNEL STORAGE -- Water temporarily stored in channels while en 
+route to an outlet.
+COLLOID -- In soil, organic or inorganic matter having very small particle 
+size and a corresponding large surface area per unit of mass.
+COAGULANT -- A substance used to neutralize the repulsive electrical 
+charge surrounding a particle.
+COMPACTION -- The process by which silt grains are rearranged to 
+decrease void space and bring them into closer contact with one 
+another, thereby increasing the weight of solid material per cubic foot.
+CONDUIT - - Any channel intended for the conveyance of water, whether 
+open or closed.
+CONSERVATION -- The protection, improvement and use of natural 
+resources according to principles that will assure their highest economic 
+or social benefit.
+CONSERVATION DISTRICT -- A public organization created under state 
+enabling law as a special purpose district to develop and carry out 
+a program of soil, water and related resource conservation use and 
+development within its boundaries.
+CONTOUR -- (1)  An imaginary line on the surface of the earth connecting 
+points of the same elevation. (2) A line drawn on a map connecting 
+points of the same elevation.
+COVER CROP -- A close-growing crop grown primarily for the purpose of 
+protecting and improving soil between periods of permanent vegetation.
+CRADLE -- A device, usually concrete, used to support a pipe conduit 
+or barrel.
+CREEP (soil) -- A slow mass movement of soil and soil material down 
+relatively steep slopes.
+CRITICAL AREA -- A severely eroded, sediment-producing area that 
+requires special management to establish and maintain vegetation.
+
+=====PAGE 191
+190
+CUT -- A portion of land surface or area from which earth has been removed 
+or will be removed by excavation; the depth below the original ground 
+surface to the excavated surface. Syn. Excavation.
+CUT-AND-FILL -- The process of earth moving by excavating part of an 
+area and using the excavated material for adjacent embankments or 
+fill areas.
+CUTOFF -- A wall, collar or other structure, such as a trench, filled with 
+relatively impervious material intended to reduce seepage of water 
+through porous strata.
+DAM -- A barrier to confine or raise water for storage or diversion, to create 
+a hydraulic head, to prevent gully erosion or for retention of soil, rock, 
+or other debris.
+DEBRIS -- The loose material arising from the disintegration of rocks and 
+vegetative material; transportable by streams, ice, or floods.
+DEBRIS DAM -- A barrier built across a stream channel to retain rock, 
+sand, gravel, silt, or other material.
+DEBRIS GUARD -- A screen or grate at the intake of a channel, drainage, 
+or pump structure for the purpose of stopping debris.
+DEGRADATION -- To wear down by erosion, especially through stream 
+action.
+DESIGN LIFE -- The period of time for which a facility is expected to perform 
+its intended function.
+DESILTING AREA -- An area of grass, shrubs or other vegetation used for 
+deposition of silt and other debris from flowing water.
+DETENTION DAM -- A dam constructed for the purpose of temporary 
+storage of streamflow or surface runoff and for releasing the stored 
+water at controlled rates.
+DIKE (engineering) -- An embankment to confine or control water built along 
+the banks of a river to prevent overflow of lowlands.
+DIKE (geology) -- A tabular body of igneous rock that cuts across the 
+structure of adjacent rocks or massive bodies.
+DISCHARGE (hydraulics) -- The volume of fluid passing a point per unit 
+time, commonly expressed as cubic feet per second, million gallons 
+per day, gallons per minute, or cubic meters per second.
+DISPERSION, SOIL -- The breaking down of soil aggregates into individual 
+particles, resulting in a single-grain structure.
+DIVERSION -- A channel, with or without a supporting ridge on the lower 
+side, constructed across the top or bottom of a slope to intercept 
+surface runoff.
+DIVERSION DAM -- A barrier built to divert part or all of the water from a 
+stream into a different course.
+DRAIN -- (1) A buried pipe or other conduit (closed drain). (2) A ditch 
+(open drain) for carrying off surplus surface water or groundwater. (3) 
+To provide channels, such as open ditches or closed drains, so that 
+excess water can be removed by surface flow or by internal flow. (4) 
+To lose water (from the soil) by percolation.
+DRAINAGE -- (1) The removal of excess surface water or ground water from 
+land by means of surface or subsurface drains. (2) Soil characteristics 
+that affect natural drainage.
+DRAINAGE, SOIL -- The frequency and duration of periods when the soil 
+is free of saturation. The following classes are used to describe soil 
+drainage:
+
+=====PAGE 192
+191
+	
+WELL DRAINED -- Excess water drains away rapidly and 
+mottling occurs within 36 inches of the surface.
+	
+MODERATELY WELL DRAINED -- Water is removed from the 
+soil somewhat slowly resulting in small but significant periods of 
+wetness. Mottling occurs between 8 to 18 inches.
+	
+SOMEWHAT POORLY DRAINED -- Water is removed from the 
+soil slowly enough to keep it wet for significant periods but not all 
+of the time. Mottling occurs between 0 to 18 inches.
+	
+VERY POORLY DRAINED -- Water is removed so slowly that the 
+water table remains at or near the surface for the greater part of 
+the time. The soil has a black to gray surface layer with mottles 
+up to the surface.
+DRAWDOWN -- The lowering of the water surface (in open channel flow), 
+water table, or piezometric surface (in groundwater flow) resulting from 
+a withdrawal of water.
+DROP-INLET SPILLWAY -- An overfall structure in which the water drops 
+through a vertical riser connected to a discharge conduit.
+DROP SPILLWAY -- An overfall structure in which the water drops over a 
+vertical wall onto an apron at a lower elevation.
+DROP STRUCTURE -- A structure for dropping water to a lower level and 
+dissipating its surplus energy; a fall. A drop may be vertical or inclined.
+EARTH DAM -- A dam constructed of compacted soil material.
+EMBANKMENT -- A man-made deposit of soil, rock, or other material used 
+to form an impoundment.
+EMERGENCY SPILLWAY -- A spillway used to carry runoff exceeding a 
+given design flood. Syn. Auxiliary Spillway.
+ENERGY DISSIPATOR -- A device used to reduce the energy of flowing 
+water.
+ERODIBLE (geology and soils) -- Susceptible to erosion.
+EROSION -- (1) The wearing away of the land surface by running water, 
+wind, ice, or other geological agents, including such processes as 
+gravitational creep. (2) Detachment and movement of soil or rock 
+fragments by water, wind, ice or gravity. The following terms are used 
+to describe different types of water erosion:
+	
+ACCELERATED EROSION -- Erosion much more rapid than 
+normal, primarily as a result of the influence of the activities of 
+man.
+	
+GEOLOGICAL EROSION -- The normal or natural erosion 
+caused by geological processes acting over long geologic 
+periods.
+	
+GULLY EROSION -- The erosion process whereby water 
+accumulates in narrow channels and, over short periods, 
+removes the soil from this narrow area.
+	
+NATURAL EROSION -- The wearing away of the Earth’s surface 
+by water, ice, or other natural agents under natural environmental 
+conditions.
+	
+NORMAL EROSION -- The gradual erosion of land used by man 
+which does not greatly exceed natural erosion. 
+	
+RILL EROSION  - An erosion process in which numerous small 
+channels, only several inches deep, occur mainly on recently 
+disturbed and exposed soils.
+	
+SHEET EROSION  - The removal of a fairly uniform layer of soil 
+
+=====PAGE 193
+192
+from the land surface by runoff water.
+	
+SPLASH EROSION  - The spattering of small soil particles 
+caused by the impact of raindrops on wet soils.
+EROSION AND SEDIMENTATION CONTROL PLAN  - A plan for the 
+control of erosion and sediment resulting from a land-disturbing activity.
+EROSION CLASSES (soil survey) -- A grouping of erosion conditions based 
+on the degree of erosion or characteristics patterns.
+EROSIVE  - Having sufficient velocity to cause erosion; refers to wind or 
+water. Not to be confused with erodible as a quality of soil.
+ESCARPMENT -- A steep face or ridge of highland.
+EXISTING GRADE -- The vertical location of the existing ground surface 
+prior to cutting or filling.
+FERTILIZER -- Any organic or inorganic material of natural or synthetic 
+origin that is added to a soil to supply elements essential to growth.
+FERTILIZER ANALYSIS -- The percentage composition of fertilizer, 
+expressed in terms of nitrogen (N), phosphoric acid (P), and potash (K).
+FILLING -- The placement of any soil or other solid material, either organic 
+or inorganic, on a natural ground surface or an excavation.
+FILTER STRIP -- A long, narrow vegetative planting used to retard or 
+collect sediment.
+FINAL CUT -- The last cut or line of excavation made when mining a 
+specific property or area.
+FINISHED GRADE -- The final grade or elevation of the ground surface.
+FLOCCULANT -- A substance that promotes the clumping of particles.
+FLOOD -- An overflow or inundation that comes from a river or other body 
+of water and causes or threatens damage.
+FLOOD CONTROL -- Methods or facilities for reducing flood flows.
+FLOODPLAIN -- Nearly level land situated on either side of a channel 
+which is subject to overflow flooding.
+FLOOD STAGE -- The stage at which overflow of the natural banks of a 
+stream begins to cause damage.
+FLUME - A device constructed to convery water on steep grades lined with 
+erosion resistant materials.
+FREEBOARD (hydraulics) -- Vertical distance between the maximum water 
+surface elevation anticipated in design and the top of retaining banks 
+or structures provided to prevent overtopping because of unforeseen 
+conditions.
+GAGE OR GAUGE -- A device for registering precipitation, water level, 
+discharge, velocity, pressure, temperature, etc.
+.GEOTEXTILE -- A term used to describe woven or non-woven fabric 
+materials used to reinforce or separate soil and other materials.
+GRADATION (geology) -- The bringing of a surface or streambed to grade 
+by running water.
+GRADE -- (1) The slope of a road, channel, or natural ground. (2) The 
+finished surface of a canal bed, roadbed, top of embankment, or bottom 
+of excavation; any surface prepared for the support of construction 
+like paving or laying a conduit. (3) To finish the surface of a canal bed, 
+roadbed, top of embankment, or bottom of excavation.
+GRADED STREAM -- A stream in which, over a period of years, the 
+slope is delicately adjusted to provide, with available discharge and 
+with prevailing channel characteristics, just the velocity required for 
+
+=====PAGE 194
+193
+trasportation of the sediment load from the drainage basin
+GRADE STABILIZATION STRUCTURE -- A structure stabilizing the grade 
+of a gully or other watercourse, thereby preventing further headcutting 
+or lowering of the channel grade.
+GRADIENT -- Change of elevation, velocity, pressure or other 
+characteristics per unit length; slope.
+GRADING -- The altering surfaces to specified elevations, dimensions, 
+and/or slopes.
+GRASS -- A member of the botanical family Gramineae, characterized by 
+bladelike leaves arranged on the culm or stem in 2 ranks.
+GRASSED WATERWAY -- A natural or constructed waterway, usually broad 
+and shallow, covered with erosion-resistant grasses, used to conduct 
+surface water from cropland.
+GULLY -- A channel or miniature valley cut by concentrated runoff 
+sufficiently deep that it would not be obliterated by normal tillage 
+operations.
+HABITAT -- The environment in which the life needs of a plant or animal 
+organism, population, or community are supplied.
+HEAD (hydraulics) -- (1) The height of water above any plane of reference. 
+(2) The energy, either kinetic or potential, possessed by each unit weight 
+of liquid. (3) The internal pressure expressed in ft or lbs per sq. in. of 
+an enclosed conduit.
+HEAD GATE -- A water control structure; the gate at the entrance to a 
+conduit.
+HEAD LOSS -- The energy loss due to friction, eddies, changes in velocity, 
+or direction of flow.
+HEADWATER -- (1) The source of the stream. (2) The water upstream 
+from a structure or point on a stream.
+HOOD INLET -- The entrance of a closed conduit that has been shaped 
+to induce full flow at minimum water surface elevation.
+HYDROGRAPH -- A graph showing variation in stage (depth) or discharge 
+of a stream over a period of time.
+IMPOUNDMENT -- An artificial collection or storage of water, as a reservoir, 
+pit, dugout, sump, etc.
+INFILTRATION -- The gradual downward flow of water from the surface 
+through soil to ground water and water table reservoirs.
+INFILTRATION RATE -- A soil characteristic determining or describing 
+the maximum rate at which water can enter the soil under specified 
+conditions.
+INLET (hydraulics) -- (1) A surface connection to a closed drain. (2) A 
+structure at teh diversion end of a conduit. (3) The upstream end of 
+any structure through which water may flow.
+INOCULATION -- The process of introducing pure or mixed cultures or 
+micro-organisms into natural or artificial media.
+INTAKE -- (1) The headworks of a conduit, the place of diversion. (2) The 
+entry of water into soil.
+INTAKE RATE -- The rate of entry of water into soil.
+INTENSITY -- The rate of rainfall expressed in inches/hour.
+INTERCEPTION (hydraulics) The process by which precipitation is caught 
+and helped by foliage, twigs, and branches of trees, shrubs, and other 
+vegetation.
+
+=====PAGE 195
+194
+INTERCEPTION CHANNEL -- A channel excavated at the top of earth 
+cuts, at the foot of slopes or at other critical places to intercept surface 
+flow; a catch drain.
+INTERCEPTOR DRAIN -- A surface or subsurface drain, or a combination 
+of both, designed and installed to intercept flowing water.
+INTERFLOW -- That portion of rainfall that infiltrates into the soil and moves 
+laterally through the upper soil horizons until intercepted by a stream 
+channel or until it returns to the surface at some point downslope from 
+its point of infiltration.
+INTERMITTENT STREAM -- A stream, or portion of a stream, that flows 
+only in direct response to precipitation. It receives little or no water 
+from springs and no long-continued supply from melting snow or 
+other sources. It is dry for a large part of the year, ordinarily more than 
+three months.
+INTERNAL SOIL DRAINAGE -- The downward movement of water through 
+the soil profile.
+LAND -- The total natural and cultural environment in which production 
+takes place.
+LAND CAPABILITY -- The suitability of land for use without permanent 
+damage.
+LAND CLASSIFICATION -- The arrangement of land units into various 
+categories based on the properties of the land or its suitability for some 
+particular purpose.
+LAND-DISTURBING ACTIVITY -- Any land change which may result in 
+soil erosion from water or wind and the movement of sediments into 
+State water or onto lands within the State, including, but not limited to, 
+clearing, dredging, grading, excavating, transporting, and filling of land.
+LAND FORM -- A discernible natural landscape.
+LAND RECLAMATION -- Making the land capable of more intensive use 
+by changing its general character.
+LEACHING -- The removal from the soil in solution of the more soluble 
+materials by percolating waters.
+LEGUME -- A member of the legume or pulse family, such as the peas, 
+beans, peanuts, clover, alfalfas, sweet clovers, lespedezas, vetches 
+and kudzu. Practically all legumes are nitrogen-fixing plants.
+LEVEL SPREADER -- A shallow channel excavation at the outlet end of a 
+diversion with a level section for the purpose of diffusing the diversion 
+outflow.
+LIME -- From the strictly chemical standpoint, refers to only one compound, 
+calcium oxide (CaO); however, the term “lime” can include a great 
+variety of materials which are usually composed of the oxide, hydroxide 
+or carbonate of calcium or of calcium and magnesium.
+LIME, AGRICULTURAL -- A soil amendment consisting principally of 
+calcium carbonate.
+LIMING -- The application of lime to the land surface.
+LIQUEFICATION -- The sudden large decrease of the shearing resistance 
+of a cohesionless soil, caused by a collapse of the structure from shock 
+or other type of strain.
+LITTER -- A surface layer of loose organic debris in forests consisting of 
+freshly fallen or slightly decomposed organic materials.
+LOAMY -- Intermediate in texture and properties between fine-textured 
+and coarse-textured materials.
+
+=====PAGE 196
+195
+LOOSE ROCK DAM -- A dam built of rock without the use of mortar, a 
+rubble dam.
+MEAN DEPTH (hydraulics) -- Average depth; cross-sectional area of a 
+stream or channel divided by its surface or top width.
+MEAN VELOCITY -- The average velocity obtained by dividing the flow 
+rate discharge by the cross-sectional area for that given cross-section.
+MEASURING WEIR -- A shaped notch through which water flow are 
+measured.
+MECHANICAL PRACTICES -- Conservation practices that primarily change 
+the surface of the land or that store, convey, regulate, or dispose of 
+runoff water without excessive erosion.
+MOVEABLE DAM -- A moveable barrier that may be opened in whole or 
+in part, permitting control of the flow of water through or over the dam.
+MUCK SOIL -- (1) An organic soil in which the organic matter is well 
+decomposed. (2) A soil containing 20%-50% organic matter.
+MULCH -- A natural or artificial layer of plant residue or other materials, 
+such as sand or paper, on the soil surface.
+NATURAL GROUND SURFACE -- The ground surface in its original state 
+before any grading, excavation, or filling.
+NOISE POLLUTION -- The persistent intrusion of noise into the environment 
+at a level that may be injurious to human health.
+NORMAL DEPTH -- The depth of flow in an open conduit during uniform 
+flow for the given conditions.
+OPEN DRAIN -- A natural watercourse or constructed open channel that 
+conveys drainage water.
+OUTFALL -- The point where water flows from a conduit, stream, or drain.
+OUTLET -- The point of water disposal from a stream, river, lake, tidewater, 
+or artificial dam.
+OUTLET CHANNEL -- A waterway constructed or altered primarily to 
+carry water from man-made structures, such as terraces, tile lines, 
+and diversions.
+OVERFALL -- The abrupt change in stream channel elevation; the part of 
+a dam or weir over which the water flows.
+OVERHAUL -- The transportation of excavated material beyond a specified 
+haul limit.
+PARENT MATERIAL -- The unconsolidated mineral or organic matter 
+from which the solum of soils has developed by pedogenic processes.
+PEAK DISCHARGE -- The maximum instantaneous flow from a given 
+storm condition at a specific location.
+PERCOLATION -- The downward movement of water through soil, 
+especially the downward flow of water in saturated or nearly saturated 
+soil.
+PERMEABILITY -- The capacity for transmitting a fluid.
+PERMEABILITY, SOIL -- The quality of soil that enables water or air to 
+move through it.
+pH -- A numerical measure of the acidity or hydrogen ion activity. The 
+neutral point is pH 7.0. All pH values below 7.0 are acid and all above 
+are alkaline.
+PIPE DROP -- A circular conduit used to convey water down steep grades.
+PLASTIC SOIL -- A soil capable of being molded or deformed continuously 
+and permanently by relaltively moderate pressure.
+
+=====PAGE 197
+196
+PLUNGE POOL -- A device used to dissipate the energy of flowing water 
+that may be constructed or made by the action of flowing.
+PRINCIPAL SPILLWAY -- A water-conveying device designed to regulate 
+the normal water level.
+PURE LIVE SEED (PLS) -- A term used to express the quality of seed, even 
+if it is not shown on the label. Expressed as a percentage of the seeds 
+that are pure and will germinate. Determined by multiplying the percent 
+of pure seed times the percent of germination and dividing by 100.
+RELIEF DRAIN -- A drain designed to remove water from the soil in order 
+to lower the water table and reduce hydrostatic pressure.
+RESTORATION -- The process of restoring site conditions as they were 
+before the land disturbance.
+RILL -- A small intermittent watercourse with steep sides, usually only a 
+few inches deep.
+RIPRAP -- Broken rocks, cobbles, or boulders placed on earth surfaces, 
+such as the face of a dam or the bank of a stream for protection against 
+the action of water.
+RISER -- The inlet portions of a drop inlet spillway that extend vertically 
+from the pipe conduit barrel to the water surface.
+ROCK-FILL DAM -- A dam composed of loose rock usually dumped in 
+place, often with the upstream part constructed of hand-placed or 
+derrick-placed rock, and faced with rolled earth or with an impervious 
+surface of concrete, timber, or steel.
+RUNOFF (hydraulics) -- That portion of the precipitation on a drainage area 
+that is discharged from the area in stream channels.
+SCARIFY -- To abrade, scratch or modify the surface; for example, to 
+scratch the impervious seed coat of a hard seed or to break the surface 
+of the soil with a narrow-bladed instrument.
+SEDIMENT -- Solid material, both mineral and organic, that is in 
+suspension, is being transported, or has been moved from its site of 
+origin by air, water, gravity, or ice as a product of erosion.
+SEDIMENT BASIN -- A depression formed from the construction of a 
+barrier or dam built at a suitable location to retain sediment and debris.
+SEDIMENT DISCHARGE -- The quantity of sediment transported through 
+a stream cross-section in a given time.
+SEDIMENT POOL -- The reservoir space allotted to the accumulation of 
+submerged sediment during the life of the structure.
+SEEDBED -- The soil prepared by natural or artificial means to promote 
+the germination of seed and the growth of seedlings.
+SEEPAGE -- (1) Water escaping through or emerging from the ground along 
+an extensive line or surface. (2) the slow movement of gravitational 
+water through the soil.
+SHEET FLOW -- Water, usually storm runoff, flowing in a thin layer over 
+the ground surface; also called overland flow.
+SIDE SLOPE -- Generic term used to describe the slope of earth-moving 
+operations, generally stated in horizontal to vertical ratio.
+SILT -- (1) A soil separate consisting of particles between 0.05 and 0.02 
+millimeter in equivalent diameter. (2) A soil textural class.
+SKIMMER -- A buoyant device that releases water from the surface of an 
+impoundment.
+SLOPE -- The degree of deviation of a surface from horizontal, measured 
+in numerical ratio, percent, or degrees. Expressed as a ratio or 
+
+=====PAGE 198
+197
+percentage, the first number is the horizontal distance (run) and the 
+second is the vertical distance (rise), as 2:1 or 50 percent (rise/run 
+X 100%). Expressed in degrees, it is the angle of the slope from the 
+horizontal plane with a 90 degree slope being vertical (maximum) and 
+45 degrees being a 1:1 slope.
+SOIL -- The unconsolidated mineral and organic material on the immediate 
+surface of the Earth that serves as a natural medium for the growth 
+of land plants.
+SOIL HORIZON -- A layer of soil or soil material approximately parallel to 
+the land surface and differing from adjacent genetically related layers.
+SPILLWAY -- An open or closed channel, or both, used to convey excess 
+water from a reservoir.
+SPOIL -- Soil or rock material excavated from a canal, ditch, basin, or 
+similar construction.
+STABILIZATION -- The process of establishing an enduring soil cover of 
+vegetation and/or mulch or other ground cover in combination with 
+installing temporary or permanent structures to minimize transport of 
+sediment by wind, water, ice, or gravity.
+STABILIZED GRADE -- The slope of a channel at which neither erosion, 
+nor deposition, occurs.
+STAGE (hydraulics) -- The variable water surface or the water surface 
+elevation above any chosen datum
+STATE SOIL AND WATER CONSERVATION COMMISSION -- The state 
+agency established by soil and water conservation district enabling 
+legislation to assist with the administration of the provisions of that law.
+STORM DRAIN OUTLET PROTECTION -- A device used to dissipate the 
+energy of flowing water.
+STORM FREQUENCY -- An expression or measure of how often a 
+hydrologic event of a given size or magnitude should on an average 
+occur, based on a reasonable sample.
+STREAMBANKS -- The usual boundaries, not the flood boundaries, of a 
+stream channel. Right and left banks are named facing downstream.
+STRUCTURAL PRACTICES -- Soil and water conservation measures, 
+other than vegetation, utilizing the mechanical properties of matter 
+to change the surface of the land to store, regulate, or dispose of 
+runoff to prevent excessive sediment loss. This includes, but is not 
+limited to, riprap, sediment basins, dikes, level spreaders, waterways 
+or outlets, diversions, grade stabilization structures, sediment traps, 
+land grading, etc.
+SUBSOIL -- The B horizons with distinct profiles.
+SUBWATERSHED -- A watershed subdivision of unspecified size that forms 
+a convenient natural unit.
+TERRACE -- An embankment or combination of an embankment and 
+channel across a slope to control erosion by diverting or storing 
+surface runoff.
+TILTH -- A soil’s physical condition as related to its ease to work (till).
+TOE (engineering) -- Terminal edge or edges of a structure.
+TOPSOIL -- Earthy material used as top-dressing for house lots, grounds 
+for large buildings, gardens, road cuts or similar areas. It has favorable 
+characteristics for production of desired kinds of vegetation or can be 
+made favorable.
+TRASH RACK - - A structural device used to prevent debris from entering 
+
+=====PAGE 199
+198
+a spillway or other hydraulic structure.
+UNIFIED SOIL CLASSIFICATION SYSTEM (engineering) - - A classification 
+system based on the identification of soils according to their particle 
+size, gradation, plasticity index, and liquid limit.
+UNIFORM FLOW -- A state of steady flow when the mean velocity and 
+cross-sectional area are equal to all sections of each.
+VEGETATIVE MEASURES -- Stabilization of erosive or sediment-producing 
+areas by covering the soil with: (a) permanent seeding, producing long-
+term vegetative cover or (b) short-term seeding, producing temporary 
+vegetative cover or (c) sodding, producing areas covered with a turf 
+or perennial sod, forming grass.
+WATER CONSERVATION -- The physical control, protection, management, 
+and use of water resources in such a way as to maintain maximum 
+sustained benefits to people, agriculture, industry, commerce and other 
+segments of the economy.
+WATER CONTROL -- The physical control of water by such measures 
+as conservation practices on the land, channel improvement, and 
+installation of structures for water retardation and sediment detention.
+WATERCOURSE -- Any natural or artificial watercourse, stream, river, 
+creek, channel, ditch, canal, conduit, drain, waterway, gully, ravine, 
+or wash in which water flows either continuously or intermittently, 
+and which has a definite channel, bed and banks, including any 
+area adjacent thereto subject to inundation by reason of overflow or 
+floodwater.
+WATERSHED AREA -- All land and water within the confines of a drainage 
+divide, or a water problem-area consisting in whole, or in part, of land 
+needing drainage or irrigation.
+WATERSHED MANAGEMENT -- Use, regulation, treatment of water and 
+land resources of a watershed to accomplish stand objectives.
+WATERWAY -- A natural course or constrcuted channel for the flow of water.
+WEIR -- A device for measuring or regulating the flow of water.
+This glossary was compiled from definitions supplied by 
+the Georgia Soil and Water Conservation Commission, 
+Natural Resources Conservation Service, Soil and 
+Water Conservation Society of America, Resource 
+Conservation Glossary and other state and federal 
+publications.
+
+=====PAGE 200
+199
+Georgia 
+Points 
+of 
+Contact
+GSWCC: https://gaswcc.georgia.gov
+GA EPD: http://epd.georgia.gov
+DNR: www.georgiawildlife.com
+GA DOT: www.dot.ga.gov
+GFC: www.gfc.state.ga.us
+USACE: http://www.sas.usace.army.mil/
+NRCS: http://www.nrcs.usda.gov
+
+=====PAGE 201
+200
+^
+^
+^
+^
+^
+Ware
+Burke
+Clinch
+Hall
+Early
+Laurens
+Worth
+Lee
+Floyd
+Wayne
+Bulloch
+Charlton
+Coffee
+Tift
+Fulton
+Long
+Screven
+Decatur
+Harris
+Liberty
+Emanuel
+Troup
+Irwin
+Carroll
+Dodge
+Bryan
+Grady
+Telfair
+Colquitt
+Wilkes
+Polk
+Brooks
+Camden
+Dooly
+Tattnall
+Appling
+Sumter
+Thomas
+Mitchell
+Bartow
+Jones
+Talbot
+Gilmer
+Walker
+Cobb
+Elbert
+Berrien
+Taylor
+Glynn
+Echols
+Stewart
+Hart
+Macon
+Baker
+Coweta
+Washington
+Wilcox
+Jefferson
+Fannin
+Rabun
+Lowndes
+Bibb
+Union
+Jasper
+Terrell
+Hancock
+Brantley
+Henry
+Greene
+Pierce
+Crisp
+Marion
+Miller
+Monroe
+Twiggs
+Upson
+Pike
+Murray
+Heard
+Gwinnett
+Clay
+Chatham
+Gordon
+Effingham
+Walton
+Wilkinson
+Toombs
+Putnam
+Morgan
+Jenkins
+Meriwether
+Houston
+Randolph
+Bacon
+Cherokee
+Cook
+Turner
+McIntosh
+White
+Jackson
+Atkinson
+Oglethorpe
+Warren
+Banks
+Butts
+DeKalb
+Newton
+Lincoln
+Paulding
+Johnson
+Wheeler
+Crawford
+Pulaski
+Jeff Davis
+Baldwin
+Calhoun
+Whitfield
+Madison
+Lumpkin
+Franklin
+Forsyth
+Ben Hill
+Dade
+Richmond
+Columbia
+Dougherty
+Lanier
+Candler
+Haralson
+Chattooga
+Evans
+Pickens
+Lamar
+Seminole
+Towns
+Fayette
+Dawson
+Bleckley
+Schley
+Treutlen
+Douglas
+Peach
+Barrow
+Spalding
+Muscogee
+Taliaferro
+Catoosa
+Stephens
+Clarke
+McDuffie
+Webster
+Habersham
+Oconee
+Montgomery
+Quitman
+Clayton
+Chattahoochee
+Glascock
+Rockdale
+Glynn
+Chatham
+McIntosh
+Camden
+Legend
+Region 1
+Region 2
+Region 3
+Region 4
+Region 5
+^
+Regional Offices
+Region 1
+1282 SR 53 Spur SW
+Suite 300
+Calhoun, GA 30701
+(706) 624-1434
+Region 2
+4310 Lexington Road
+Athens, GA 30603
+(706) 552-4479
+Region 3
+151 Langston Chapel Road
+Suite 700
+Statesboro, GA 30459
+(912) 681-5241
+Region 4
+3014 Heritage Road
+Suite 1
+Milledgeville, GA 301061
+(478) 445-5766
+Region 5
+4344 Albany Highway
+Dawson, GA 39842
+(229) 995-6001
+GEORGIA SOIL & WATER 
+CONSERVATION COMMISSION 
+REGIONS
+
+=====PAGE 202
+201
+GEORGIA SOIL & WATER 
+CONSERVATION DISTRICTS
+1. Catoosa County
+2. Coosa River
+3. Cobb County
+4. Fulton County
+5. Clayton County
+6. Lamar County
+7. Henry County
+8. Rockdale County
+9. Dekalb County
+10. Limestone Valley
+11. Blue Ridge Mountain
+12. Upper Chattahoochee River
+13. Broad River
+14. Oconee River
+15. Gwinnett County
+16. Walton County
+17. Lincoln County
+18. Columbia County
+19. McDuffie County
+20. Warren County
+21. Piedmont
+22. Upper Ocmulgee River
+23. West Georgia
+24. Roosevelt
+25. Towaliga
+26. Brier Creek
+27. Central Georgia
+28. Ocmulgee River
+29. Pine Mountain
+30. Lower Chattahoochee River
+31. Flint River
+32. Middle South Georgia
+33. Ohoopee River
+34. Ogeechee River
+35. Coastal Georgia
+36. Altamaha
+37. Satilla River
+38. Alapaha
+39. Stephens County
+40. Hall County 
+
+=====PAGE 203
+202
+GEORGIA DEPARTMENT OF NATURAL 
+RESOURCES ENVIRONMENTAL 
+PROTECTION DIVISION
+Coastal District
+400 Commerce Center Dr.
+Brunswick, GA 31523
+(912) 264-7284
+Mountain District (Cartersville)
+P.O. Box 3250
+16 Center Road
+Cartersville, GA 30120
+(770) 387-4900
+Southwest District
+2024 Newton Road
+Albany, GA 31701
+(229) 430-4144
+West Central District
+2640 Shurling Drive
+Macon, GA 31211
+(478) 751-6612
+East Central District
+3525 Walton Way Ext.
+Augusta, GA 30909
+(706) 667-4343
+Northeast District
+745 Gaines School Road
+Athens, GA 30605
+(706) 369-6376
+Mountain District (Atlanta)
+4244 International Parkway
+Atlanta, GA 30354
+(404) 362-2671
+East Central District
+
+=====PAGE 204
+203
+GEORGIA DEPARTMENT OF 
+NATURAL RESOURCES WILDLIFE 
+RESOURCES DIVISION FISHERIES 
+MANAGEMENT
+Region 1
+2150 Dawsonville Highway
+Gainesville, GA 30501
+(770) 535-5498
+Region 2
+1014 Martin Luther King, Jr. Blvd.
+Fort Valley, GA 31030
+(478) 825-6151
+Region 3
+2024 Newton Road
+Albany, GA 31701
+(229) 430-4256
+Region 4
+108 Darling Ave.
+Waycross, GA 31502
+(912) 285-6094
+Region 5
+22814 Highway 144
+Richmond Hill, GA 31324
+(912) 727-2112
+
+=====PAGE 205
+204
+GEORGIA DEPARTMENT OF 
+TRANSPORTATION
+District 2
+643 Hwy 15 S
+Tennille, GA 31089
+(478) 553-3301
+District 3
+115 Transportation Blvd
+Thomaston, GA 30286
+(706) 646-6900
+District 4
+710 West 2nd St.
+Tifton, GA 31794
+(229) 386-3280
+District 5
+204 North Highway 301
+Jesup, GA 31546
+(912) 427-5711
+District 6
+500 Joe Frank Harris Pkwy
+Cartersville, GA 30120
+(770) 387-3602
+District 7
+5025 New Peachtree Road
+Chamblee, GA 30341
+(770) 986-1011
+District 1
+2505 Athens Hwy SE
+Gainesville, GA 30507
+(770) 531-5721
+
+=====PAGE 206
+205
+GEORGIA FORESTRY 
+COMMISSION
+Coosa District (1)
+Gainesville Office
+3005 Atlanta Hwy
+Gainesville, GA 30507
+(770) 531-6043/6048
+Rome Office
+3086 Marth Berry Hwy NE
+Rome, GA 30165
+(706) 295-6021/6022
+Oconee District (3)
+Milledgeville Office
+119 Hwy 49
+Milledgeville, GA 31061
+(478) 445-5164/5548
+Washington Office
+1465 Tignall Road
+Washington, GA 30673
+(706) 678-2015
+Flint District (2)
+Camilla Office
+3561 Hwy 112
+Camilla, GA 31730
+(229) 522-3580/3581
+Americus Office
+243 US Hwy 19 North
+Americus, GA 31719
+(229) 931-2436/2437
+Chattahoochee District (4)
+Newnan Office
+187 Corinth Road
+Newnan, GA 30263
+(770) 254-7218
+Ogeechee District (6)
+McRae Office
+Route 1 Box 67
+Helena, GA 31037
+(229) 868-3385
+Statesboro Office
+18899 US Hwy 301 North
+Statesboro, GA 30461
+(912) 681-0490/0496
+Satilla District (5)
+Waycross Office
+5003 Jacksonville Hwy
+Waycross, GA 31503
+(912) 287-4915
+
+=====PAGE 207
+206
+UNITED STATES ARMY 
+CORPS OF ENGINEERS AREA 
+OFFICES
+Coastal Branch
+100 W. Oglethorpe Ave
+Savannah, GA 31401
+(912) 652-5279
+Piedmont Branch
+1590 Adamson Parkway
+Suite 200
+Morrow, GA 30260
+(678) 422-2735
+
+=====PAGE 208
+207
+NATURAL RESOURCES 
+CONSERVATION SERVICE 
+AREA OFFICES
+Area
+1
+Area
+2
+Area
+3
+Area
+4
+Area 1
+Federal Building Room G-27
+201 West Solomon St.
+Griffin, GA 30224
+(770) 227-1026
+Area 2
+Federal Building
+355 East Hancock Ave.
+Athens, GA 30601
+(706) 546-2039
+Area 3
+Plant Materials Center
+295 Morris Drive
+Americus, GA 31709
+(229) 924-0544
+Area 4
+Federal Building Room 214
+601 Tabeau St.
+Waycross, GA 31502
+(912) 283-5598
+
+=====PAGE 209
+208
+COMMONLY USED 
+ACRONYMS
+BMP: Best Management Practices
+CWA: Clean Water Act
+DNR: Department of Natural Resources
+EPA: Environmental Protection Agency
+EPD: Environmental Protection Division
+ES&PC Plan: Erosion, Sedimentation & Pollution 
+Control Plan
+FEMA: Federal Emergency Management Agency
+GESA: Georgia Erosion & Sediment Control Act
+GFC: Georgia Forestry Commission
+GSWCC: Georgia Soil & Water Conservation 
+Commission
+LDA: Land Disturbing Activity
+LIA: Local Issuing Authority
+MLRA: Major Land Resource Area
+NOI: Notice of Intent
+NOT: Notice of Termination
+NPDES: National Pollutant Discharge Elimination 
+System
+NRCS: Natural Resource Conservation Service
+NTU: Nephelometric Turbidity Units
+O.C.G.A.: Official Code of Georgia Annotated
+SWCD: Soil & Water Conservation District
+USDA: United States Department of Agriculture
+
+=====PAGE 210
+Comments:
+
+=====PAGE 211
+Comments:

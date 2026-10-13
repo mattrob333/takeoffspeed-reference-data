@@ -1,0 +1,557 @@
+[[p1]]
+© 2017 Brick Industry Association, Reston, Virginia
+Page 1 of 10 
+TECHNICAL NOTES on Brick Construction
+12007 Sunrise Valley Drive, Suite 430, Reston, Virginia 20191 | www.gobrick.com | 703-620-0010
+7B
+November 
+2017
+Water Penetration Resistance – 
+Construction and Workmanship
+Abstract: This Technical Note covers essential construction practices needed to ensure water-resistant brick masonry. 
+Procedures for preparing materials to be used in brick construction are recommended, including proper storage, handling and 
+preparation of brick, mortar, grout and flashing. Good workmanship practices are described, including the complete filling of all 
+mortar joints, tooling of mortar joints for exterior exposure and covering unfinished brick masonry walls to protect them from 
+moisture. 
+Key Words: air space, brick, construction, flashing, initial rate of absorption, joints, mortar, tooling, weeps, workmanship.
+General
+•	Store materials on job site to avoid wetting, contamination 
+and temperatures outside manufacturer limits
+•	For drainage walls, keep the air space free of excessive 
+mortar droppings
+•	Do not disturb newly laid masonry
+•	Stop in-progress brickwork by stepping back courses to 
+create a diagonal profile
+•	Cover tops of unfinished walls until adjacent construction 
+protects them from water ingress
+Brick and Mortar
+•	Distribute brick from different straps and cubes around 
+jobsite to blend brick
+•	Lab test values for the initial rate of absorption (IRA) of a 
+given brick may vary among different production runs and 
+different field exposures
+•	For brick with an IRA lower than 5 g/min•30 sq in. 
+(5 g/min•194 cm2), mortar with reduced water or 
+minimized water retention by decreasing lime proportions 
+within limits of ASTM C270 is recommended 
+•	For brick with an IRA exceeding 30 g/min•30 sq in. 
+(30 g/min•194 cm2): 
+•	Mortar with increased water or maximized water 
+retention by increasing lime proportions within limits 
+of ASTM C270 is recommended
+•	When used on a building designed to the IBC, 
+pre-wet brick where feasible; otherwise, modify 
+mortar mix to maximize water retention 
+•	When mixing mortar, use accurate batching 
+measurements and the maximum amount of water that 
+produces a workable mortar
+•	For colored mortars, follow manufacturer’s recommended 
+procedures
+Joints
+•	In exterior wythes, completely fill all mortar joints intended 
+to have mortar
+•	Minimize furrowing of bed joints and prohibit slushing of 
+head joints
+•	Fill collar joints completely with grout or mortar, preferably 
+grout; do not slush collar joints
+•	Tool mortar joints when thumbprint hard with a concave, 
+“V” or grapevine jointer
+Mock-Ups and Sample Panels
+•	For residential construction, use an as-built dwelling 
+by the same builder or mason contractor to establish 
+workmanship
+•	For commercial construction, sample panels or mock-ups 
+are recommended
+•	For commercial construction that has complicated 
+facades with multiple cladding materials or that requires 
+field testing, a mock-up is preferred 
+Flashing and Weeps
+•	Do not stop flashing behind face of brickwork
+•	Where required, turn up flashing ends into head joint a 
+minimum of 1 in. (25.4 mm) to form end dams
+•	Lap continuous flashing pieces at least 6 in. (152 mm) 
+and seal
+•	Where installed flashing is pierced, make watertight with 
+sealant or liquid membrane compatible with flashing
+•	Install weeps immediately above flashing
+•	Install vertical leg of flashing behind water-resistive barrier 
+sheet
+•	Install vertical leg of flashing over fluid-applied or 
+self-adhered air/vapor barriers or per manufacturer’s 
+directions
+Water-Resistive Barrier
+•	Seal penetrations from ties, anchors and termination bars
+•	Avoid damaging with trowels, and repair any damage as 
+soon as possible before concealed
+SUMMARY OF RECOMMENDATIONS:
+
+[[p2]]
+www.gobrick.com | Brick Industry Association | TN 7B | Water Penetration Resistance – Construction and Workmanship | Page 2 of 10 
+INTRODUCTION
+The best design, detailing and materials will not compensate for poor construction practices and workmanship. 
+Proper construction practices, including preparation of materials, are essential to achieve a water-resistant brick 
+masonry wall. 
+This Technical Note discusses construction techniques and workmanship and is the third in a series of Technical 
+Notes addressing water penetration resistance of brick masonry. Other related Technical Notes address brickwork 
+design and details (TN 7), materials (TN 7A) and condensation (TN 47). Maintenance of brick masonry is 
+addressed in Technical Note 46. All of these items are essential to obtain water-resistant brick masonry walls.
+PREPARATION OF MATERIALS
+Preparation of masonry materials before bricklaying begins is very important. Specific procedures must be followed 
+to ensure satisfactory performance and to avoid problems. Preparation includes material storage, mixing mortar 
+and grout, and in some cases wetting the brick.
+Delivery and Storage of Materials
+Masonry units are generally delivered to the site strapped in packs or cubes that are commonly on pallets. 
+Movement of these packages around the site should be performed using methods and equipment that will 
+limit damage to the masonry units. All materials at the jobsite should be stored off the ground to avoid damage 
+and contamination from dirt, groundwater or other matter that may cause stains and contain soluble salts that 
+contribute to efflorescence. Masonry units, mortar materials, ties and reinforcement should be stored off the 
+ground, preferably in a dry location. In addition, all materials should be covered with tarps or other water-resistant 
+materials to protect them from rain, snow and other elements. In addition, cover sand and other aggregates with 
+a water-resistant membrane to avoid saturation and freezing in cold weather, as well as runoff and segregation 
+of aggregates. Store flashing materials in places where they will not be punctured or damaged, and keep 
+UV-sensitive materials in areas away from sunlight. Store roll materials on ends to avoid creasing. Store masonry 
+accessory materials such as flashing components and joint sealant in unopened containers with labels at a 
+location where temperatures will remain within the manufacturer’s required range. All masonry materials must be 
+stored to prevent freezing, as indicated in Technical Note 1. 
+Wetting Brick
+Brick with an initial rate of absorption (IRA) greater than 30 g/min•30 sq in. (30 g/min•194 cm2) at the time of laying 
+tend to draw too much moisture from the mortar before initial set, which can result in cracking and poor bond. 
+To increase bond and water penetration resistance, construction practices may need to be altered when using 
+such brick. ASTM C67, Test Methods for Sampling and Testing Brick and Structural Clay Tile [Ref. 1], includes a 
+standard procedure for measuring IRA. However, be aware that some coatings, surface treatments and textures 
+can return an elevated IRA value in laboratory tests while not adversely affecting water content of the mortar in the 
+field. In addition, the IRA of a given brick may vary by production run and by exposure at the site.
+A crude method to determine whether brick have an elevated IRA consists of drawing, with a wax pencil, a circle 
+1 in. (25.4 mm) in diameter on the brick surface that will be in contact with the mortar. A quarter can be used as a 
+guide for the circle. With a medicine dropper, place 20 drops of water inside this circle and note the time required 
+for the water to be absorbed. If the time exceeds 1½ min, then setting the brick with typical methods should 
+suffice; if less than 1½ min, then adjustments to typical construction practice are recommended.
+The International Building Code (IBC) [Ref. 5] references the Specification for Masonry Structures (TMS 602) 
+[Ref. 6] which requires brick with an IRA exceeding 30 g/min•30 sq in. (30 g/min•194 cm2) to be wetted prior to 
+laying to produce an IRA less than 30 g/min•30 sq in. (30 g/min•194 cm2) when the units are placed. However, 
+execution of this method may be impractical on large-scale construction projects, and the contractor may consider 
+modifying the mortar mix to maximize water retention, as discussed in “Mixing of Mortar and Grout” in this 
+Technical Note.
+If brick are to be wetted, the method of wetting is very important. Sprinkling or dipping the brick in a bucket of 
+water just before laying would produce the surface wet condition, as shown in Figure 1b, which may not be 
+
+[[p3]]
+www.gobrick.com | Brick Industry Association | TN 7B | Water Penetration Resistance – Construction and Workmanship | Page 3 of 10 
+sufficient. The units should have a saturated interior 
+but be surface dry (also referred to as “saturated 
+surface dry”) at the time of laying, as shown in 
+Figure 1d.
+Satisfactory procedures for wetting the brick consist 
+of letting water run on the packs or cubes of brick, 
+or placing them in a large tank of water. This should 
+be done the day before the units are laid, or not later 
+than several hours before the units will be used, so 
+that the surfaces have an opportunity to reach a 
+surface dry condition before the brick are laid. Wetting 
+low-absorption brick or excessive wetting of brick 
+may result in saturation, as shown in Figure 1c. This 
+may prevent adequate absorption of water, resulting 
+in excess moisture or “bleed” from the mortar joints 
+and cause the brick to slide more readily—a condition 
+commonly referred to by masons as “floating” of the 
+brick.
+Mixing of Mortar and Grout 
+Typically, a high water content in the mortar is necessary to obtain complete and strong bond between mortar 
+and brick. In general, the mortar should be mixed with the maximum amount of water that produces a workable 
+mortar. Factors such as the jobsite environment and the IRA of the brick should be considered when determining 
+the proper amount of water to include in the mortar.
+Mortar to be used with brick that have an IRA greater than 30 g/min•30 sq in. (30 g/min•194 cm2) should be 
+mixed to maximize water retention by increasing mixing water or lime content within the limits of ASTM C270, 
+Standard Specification for Mortar for Unit Masonry [Ref. 2]. This is particularly important when pre-wetting the 
+brick to reduce the IRA is impossible or impractical. Admixtures designed to increase the water retention of the 
+mortar may also be used to improve the compatibility of mortar with high-IRA brick. Only admixtures with test data 
+showing no deleterious effects should be used.
+Mortar for use with brick that have an IRA less than 5 g/min•30 sq in. (5 g/min•194 cm2) should be mixed with 
+reduced amounts of water or lime to minimize water retention. Lime proportions should remain within the limits of 
+ASTM C270.
+When brick with widely different absorption rates are used together in brickwork, it is important to maintain the 
+correct water content in the mortar used with the different brick.
+All cementitious materials and aggregates must be mixed for at least three minutes and not more than five minutes 
+in a mechanical batch mixer. If, after initial mixing, the mortar stiffens due to the loss of water by evaporation, then 
+additional water should be added and the mortar remixed (retempered). Pigmented or colored mortars are sensitive 
+to retempering, which can result in significant color variations. Consult the colored mortar manufacturer’s literature 
+for requirements and recommendations that may vary from standard practice. All mortar should be used within 
+2½ hr (2 hr in hot-weather conditions, see Technical Note 1) of initial mixing, and grout should be used within 1½ hr 
+of introducing water into the mix. No mortar or grout should be used after it has begun to set.
+One of the most common problems with mortar is oversanding. Oversanded mortar is harsh and unworkable, and 
+results in poor extent of bond and reduced bond strength, increasing the potential for water penetration problems. 
+The cause of oversanding is frequently due to the shovel method of measuring the sand. The amount of sand 
+that a shovel will hold varies depending on the moisture content of the sand, the person doing the shoveling and 
+the different sizes of shovels used on jobsites. To alleviate this problem, proper batching methods must be used. 
+Measurement of sand by shovel should not be permitted. Instead, a bucket or box of known volume will provide 
+more consistent results. Technical Note 8B provides detailed guidelines for various methods of more accurately 
+batching mortar.
+Figure 1
+Moisture Content of Brick
+	
+(a) Dry	
+(b) Surface wet
+	
+(c) Saturated	
+(d) Surface dry
+
+[[p4]]
+www.gobrick.com | Brick Industry Association | TN 7B | Water Penetration Resistance – Construction and Workmanship | Page 4 of 10 
+Blending of Brick
+While not related to water penetration resistance, blending of brick at the jobsite is an important preparation 
+task related to workmanship and the acceptable appearance of brickwork. Because brick is made from natural 
+materials that differ in physical properties, variations in color may occur between production runs and occasionally 
+within the same run. Modern manufacturing processes use automatic equipment that may not permit inspection 
+of each brick unit, resulting in minor color and texture variations. For these reasons, straps of brick from different 
+cubes should be placed together around the wall. The mason should then select brick from adjacent straps when 
+laying a given section of brickwork. By blending the brick throughout the wall in this manner, the effect of potential 
+color variations on the finished brickwork is minimized.
+WORKMANSHIP
+The importance of good workmanship to attain quality brickwork cannot be overemphasized. While design and the 
+quality of materials contribute to the water penetration resistance of brickwork, workmanship is a highly important 
+factor in the construction of water-resistant masonry.
+Mock-Ups and Sample Panels
+Building a mock-up or sample (field) panel on-site prior to the start of construction can provide a tangible reference 
+of the quality and level of workmanship to be expected on the project for the building owner and the construction 
+team. Although more common in commercial construction, sample panels or mock-ups may be considered for 
+a custom residential project. For one- and-two-family residential construction where mock-ups or sample panels 
+are not provided, an as-built dwelling in the same development or one constructed by the same builder or mason 
+subcontractor may be used as a basis of workmanship. 
+The brick used in a sample panel or mock-up is intended to demonstrate the final brick texture, color range, bond 
+pattern and mortar color. Any issue with the brickwork must be resolved before the panel is accepted. Once the 
+sample panel or mock-up is accepted, it becomes the standard for quality for all brick and brickwork on the project 
+and should be used as a reference for bond pattern, brick, mortar joints, workmanship, and general appearance. A 
+sample panel is intended only to show the brickwork. It is important that all aspects of the brickwork are shown in 
+the sample panel, such as filling and tooling all mortar joints and cleaning the brick. Typically, sample panels give 
+the best overall indication of the final brickwork.
+A mock-up is generally larger than a sample panel because it includes more elements than brick and mortar and 
+is intended to show the relationship between the brickwork and other facade elements, like doors and windows 
+(fenestration) and other cladding materials. A mock-up includes all the underlying components of the wall 
+assembly, such as air/vapor barriers, flashing and veneer anchors. By including these elements, the installation 
+methods of these items can be evaluated and varied as required to achieve the desired results. On large 
+commercial projects, this mock-up is often subjected to field testing in order to evaluate the performance of the 
+wall assembly and the fenestration with respect to water and air penetration. 
+Subcontractors involved with constructing the mock-up include all trades associated with installing these elements 
+in the building. Similar to a sample panel, a mock-up sets the project standard for appearance and workmanship. 
+Work that is subsequently concealed as part of the mock-up construction should be photographed and the images 
+maintained on-site for reference during the project. 
+Placing Flashing and Weeps
+Flashing must be installed properly and integrated with adjacent materials to form an impervious barrier to 
+moisture migration to the interior of the building. The flashing should be wide enough to start outside the exterior 
+face of the brick wythe, extend across the cavity, and turn up vertically against the backing or interior wythe at 
+least 8 in. (203 mm). The top (vertical) edge should be placed in a mortar joint of the inner wythe, in a reglet 
+in concrete backing, or attached to sheathing or backing with a termination bar, as shown in Figure 2. Some 
+manufacturers of self-adhered flashing permit termination with a compatible sealant bead encapsulating the 
+leading edge. The vertical leg of the flashing is generally installed behind a water-resistive barrier and over a fluid-
+applied membrane or self-adhered sheet membrane air barrier/vapor retarder. Manufacturers’ details for the water-
+resistive barrier, air barrier and/or vapor retarder should be consulted for recommended installation.
+
+[[p5]]
+www.gobrick.com | Brick Industry Association | TN 7B | Water Penetration Resistance – Construction and Workmanship | Page 5 of 10 
+As a general rule, sections of flashing are to be 
+overlapped at least 6 in. (152 mm) and the lap 
+sealed with a compatible adhesive. Water-resistant 
+sheet membranes should overlap the flashing 
+in a shingled fashion by at least 6 in. (152 mm). 
+Manufacturers’ installation requirements for 
+specific flashing materials may vary from these 
+recommendations and should be consulted.
+Flexible flashing is placed so that the outside edge 
+projects from the face of the wall. Although the 
+formation of a drip is recommended, this flashing 
+may be cut flush with the face of the brickwork. 
+Sheet metal flashings are intended to project 
+past the face of the wall and form a drip. In no 
+circumstances should the flashing be stopped 
+behind the face of the brickwork. Continuity at 
+corners and returns is achieved by cutting and 
+folding straight sections or using preformed corner 
+pieces. Discontinuous flashing should terminate 
+with an end dam in a head joint and turn up at 
+least 1 in. (25.4 mm), as shown in Figure 3.
+Flashing must be placed without punctures or 
+tears. Openings created for reinforcement or 
+anchors must be protected with application of a 
+compatible sealant. Care should be exercised to 
+ensure full coverage of any membrane, adhesive 
+or sealant around penetrations or protrusions, such 
+as brick veneer anchors at the point of contact with 
+the wall. Many self-adhered membrane flashing 
+manufacturers offer such a sealant as an accessory 
+to the system. Additional protection may be needed 
+around bolts fastening shelf angles to the structure.
+Weeps are required and should be placed in mortar 
+joints immediately above the flashing. Open head 
+joints, formed by leaving mortar out of a joint, are the 
+recommended type of weep. Open head joint weeps 
+should be at least 2 in. (51 mm) high. Noncorrosive 
+metal, mesh or plastic screens can be installed in 
+open head joint weeps if desired. Weep openings 
+are permitted by most building codes to have a 
+minimum diameter of 3⁄16 in. (4.8 mm). This smaller 
+opening results in reduced drainage capability and 
+increased risk of clogging; therefore, use of tube 
+weeps is discouraged. The practice of specifying 
+the installation of weeps one or more courses of 
+brick above the flashing is not recommended, as 
+it requires a head of water to accumulate on the 
+flashing before drainage can occur. Noncorrosive 
+metal, mesh or plastic screens can be installed in 
+open head joint weeps if desired.
+Figure 3
+End Dam Detail
+Figure 2
+Placing Flashing and Weeps
+
+[[p6]]
+www.gobrick.com | Brick Industry Association | TN 7B | Water Penetration Resistance – Construction and Workmanship | Page 6 of 10 
+Spacing of open head joint weeps at no more than 24 in. (610 mm) o.c. is recommended. If used, spacing of wick 
+weeps is recommended at no more than 16 in. (406 mm) o.c. These are closer spacings than the 33 in. (838 mm) 
+o.c. spacing permitted by most building codes; however, they improve drainage. Ensure that weeps are clear of all 
+mortar to allow the wall to drain. Rope wicks should be flush with, or extend ½ in. (12.7 mm) beyond, the face of 
+the wall to promote evaporation. The rope should continue into the bottom of the air space, placed along the back 
+of the brick, and be at least 16 in. (406 mm) long. 
+Tie/Anchor Installation
+With respect to water penetration resistance, protecting ties and anchors from corrosion is critical. Anchors for 
+veneer require a minimum mortar cover of ⅝ in. (15.9 mm). This cover requirement also applies to longitudinal 
+wires of joint reinforcement. Where this cover cannot be achieved in non-veneer applications of hollow units, 
+placement of the wire tie or joint reinforcement in center of face shell is recommended. See the “Interface with 
+Water-Resistive Barrier” section of this Technical Note for information regarding fasteners used with face-mounted 
+ties and treatment of penetrations caused by these fasteners. For more information on ties and anchors, including 
+spacing, corrosion resistance and material specifications, refer to Technical Note 44B.
+Interface with Water-Resistive Barrier
+Multiple elements of masonry veneer are in contact with or penetrate the water-resistive barrier, which also may 
+serve as an air barrier and vapor retarder. These elements are intended to prevent moisture ingress to the interior 
+and damage to the backing. 
+Brick ties or anchors penetrate this layer and flashing is applied to it or under it. If a termination bar is used, then 
+its fasteners will penetrate this layer as well. Sealing penetrations is critical. It is preferable to place sealant behind 
+ties or anchors, termination bar fasteners and other items that penetrate these layers. Applying the sealant as 
+these items are being installed is necessary and generally done by the mason. 
+Once laying of brick has begun, there is additional risk of tearing or scraping the water-resistive barrier due to the 
+mason working in close proximity to the layer. Breaches in the water-resistive barrier have the potential to permit 
+ingress of bulk water and moisture-laden air, which can cause significant damage to the underlying materials. 
+Therefore, the mason should coordinate with the installer of the water-resistive barrier if this work was performed 
+by others in order to quickly repair any damage that occurs before it is concealed. 
+Filling Mortar Joints
+To reduce water penetration, there is no substitute for proper filling of all mortar joints that are designed to receive 
+mortar. Improperly filled mortar joints can result in leaky walls, can reduce the strength of masonry, and may 
+contribute to disintegration and cracking due to water penetration and subsequent freezing and thawing. This 
+behavior and performance has been confirmed by extensive laboratory tests [Ref. 4] as well as observations of 
+masonry buildings in service.
+A uniform bed of mortar should be spread over only a few brick units, and furrowed lightly, if at all. Filled joints 
+result when plenty of mortar is placed on the end of the brick unit to be laid and it is shoved into place so that 
+mortar is squeezed out of the top of the head joint, as shown in Photo 1. After placement, mortar squeezed out 
+of the bed joint should be cut off prior to tooling, as shown in Photo 2. When placing closures, plenty of mortar is 
+needed on the ends of brick in place and on the ends of the brick to be laid. The closure should be shoved into 
+place without disturbing brick on either side, as shown in Photo 3.
+Photo 1
+Shoving Brick into Place
+Photo 2
+Cutting Excess Mortar
+Photo 3
+Placing the Closure
+
+[[p7]]
+www.gobrick.com | Brick Industry Association | TN 7B | Water Penetration Resistance – Construction and Workmanship | Page 7 of 10 
+Bed Joints. A bed joint is the horizontal layer of mortar on which brick are laid. The length of time between 
+placing the bed joint mortar and laying the succeeding brick influences the resulting bond. If too much time 
+elapses, then poor extent of bond will result. Brick should be laid within about 1 minute after the mortar is placed.
+Full bed joints (covering the entire bedding surface) are an inherent requirement for water-resistant brick 
+masonry construction. For solid brick, bed joints should be constructed without deep furrowing of the mortar. 
+For hollow brick used in a veneer application, full bed joints are recommended. For ungrouted hollow brick in 
+non‑veneer applications, full bed joints provide the highest level of water penetration resistance. However, bed 
+joints in this application may be laid with face shell bedding (mortar placed only on the front and back face 
+shells) and still provide adequate water penetration resistance. Both face shells must be completely covered with 
+mortar.
+Head Joints. A head joint, sometimes called a cross 
+joint, is the vertical mortar joint between two brick 
+units. For both solid and hollow brick, it is important 
+that head joints be completely filled. The best head 
+joints are formed by completely buttering the ends of 
+the brick with mortar and shoving the units into place 
+against previously laid brick.
+“Slushing” (throwing mortar into the joint with the edge 
+of a trowel) does not adequately fill joints or compact 
+the mortar, resulting in joints that are less resistant to 
+water penetration. Examples of methods used to form 
+head joints are shown in Figure 4.
+Tooling of Mortar Joints
+Proper tooling, or “striking,” of mortar joints helps to seal the wall surface against moisture penetration. Mortar 
+joints should be tooled when they are “thumbprint” hard, (pressing the thumb into the mortar leaves an 
+indentation, but no mortar is transferred to the thumb) with a jointer slightly larger than the joint. It is important 
+that joints are tooled at the appropriate time, as this affects both their effectiveness and appearance. The duration 
+to achieve thumbprint-hard mortar may vary throughout the work day. Joints that are tooled too early often 
+smear mortar onto the adjacent brick and result in rough-surfaced joints. If tooling is delayed too long, however, 
+the surface of the joint cannot be properly consolidated and bonded to the adjacent brick. Each portion of the 
+completed brickwork should be allowed to set for the amount of time necessary to achieve thumbprint-hard mortar 
+before tooling in order to ensure a uniform mortar shade. Early tooling often results in joints of a lighter color. Later 
+tooling results in darker shades.
+Concave, “V” and grapevine joints (Photo 4 and Photo 5) best resist water penetration in exterior brickwork. 
+These joints produce a dense and weather-tight surface, created as the mortar is pressed against the brick and 
+consolidated during tooling. For interior masonry work, other joints such as the weathered, beaded, struck, flush, 
+Figure 4
+Head Joints
+	
+Bad	
+Bad	
+Good
+Photo 5
+“V” Mortar Joints
+Photo 4
+Concave Mortar Joints
+
+[[p8]]
+www.gobrick.com | Brick Industry Association | TN 7B | Water Penetration Resistance – Construction and Workmanship | Page 8 of 10 
+raked or extruded joints shown in Figure 5 also may be 
+used. These joints are not recommended for exterior use 
+because the methods used to form them do not consolidate 
+the outer portion of mortar, or they create horizontal ledges 
+on which water can pond and saturate the masonry.
+Collar Joints
+The vertical, longitudinal joints between wythes of masonry 
+are called collar joints. The manner in which these joints are 
+filled is very important. Grouting is the most effective method 
+of ensuring that collar joints are completely filled. However, 
+grouting in spaces less than ¾ in. (19.1 mm) wide is not 
+permitted. Mortar protrusions (fins) that extend more than ½ 
+in. (12.7 mm) into a cell or cavity that will be grouted must 
+be removed prior to grouting. For mortar-filled collar joints, 
+the outer face of the inner masonry wythe should be parged 
+and the back of brick in the exterior wythe buttered in order 
+to fill the collar joint.
+“Slushing” of collar joints is not effective because it does 
+not completely fill all voids in the joint, as shown in Photo 6. 
+Frequently, the mortar is caught and held before it reaches 
+the bottom of the joint, leaving openings between the face 
+brick and the backing. Even when this space is filled, there 
+is no way to compact the mortar. The mortar does not bond 
+with the brick over its entire surface, and channels are left 
+between the mortar and the brick. Some of these channels 
+may allow water to reach the back of the wall. A properly 
+constructed collar joint is completely filled with grout or 
+mortar.
+Parging
+Parging is the process of applying a coat of portland cement 
+mortar to masonry. Parging the outer face of the inner 
+wythe of a multi-wythe wall with Type M or S mortar as 
+dampproofing may help resist rain penetration and can also 
+reduce air leakage. Membranes or fluid-applied materials 
+usually provide superior performance to parging, which will 
+crack if the wythe cracks. Once cracked, the parging loses 
+most of its effectiveness. However, parging can provide a 
+smooth base for these materials. If parging alone is to resist 
+water penetration, then proper curing is necessary to reduce 
+shrinkage cracks. Parging the back side of the exterior 
+wythe is not recommended for drainage-type walls, as this 
+may result in more debris in the air space.
+The face of the wall to be parged must not have any mortar 
+protrusions. Protruding mortar can cause bond breaks in 
+the parge coat, resulting in a leaky wall. When applied in 
+multiple layers, each should be a minimum thickness of ¼ 
+in. (6.4 mm). The first coat should be allowed to partially set, 
+Figure 5
+Types of Mortar Joints
+Photo 6
+Poorly Filled Collar Joint
+	
+Concave	
+“V”	
+Grapevine
+	 Weathered	
+Beaded	
+Struck
+	
+Flush	
+Raked	
+Extruded
+
+[[p9]]
+www.gobrick.com | Brick Industry Association | TN 7B | Water Penetration Resistance – Construction and Workmanship | Page 9 of 10 
+roughened and allowed to cure for 24 hours. It is then moistened for application of the second coat. The parged 
+surface should be troweled smooth so that it sheds water easily. When completed in adjacent areas, the edges 
+of the parging should be feathered, and new parging should overlap existing parging by a minimum of 6 in. (152 
+mm). Lap joints should be spaced no closer than 6 ft (1.83 m).
+Constructing a Functional Air Space
+In a drainage wall system, such as a cavity wall or an anchored veneer wall, it is essential that the air space be 
+kept as clear of mortar droppings as possible. If it is not, then mortar droppings may clog the weeps, protrusions 
+may span the air space (mortar bridging) and water may penetrate to the interior.
+To the greatest extent possible, mortar droppings should be prevented from falling into the air space or 
+cavity. Good workmanship can go a long way to minimize the occurrence of mortar droppings. However, it 
+is unreasonable to expect a mason to maintain a cavity completely clear of mortar droppings or protrusions. 
+Therefore, an air space that provides drainage is permitted to contain mortar from construction. An aid to prevent 
+mortar droppings is to bevel the bed joint away from the air space or cavity, as shown in Figure 6. When brick are 
+laid on a beveled bed joint, a minimum of mortar is squeezed out of the joint, as shown in Photo 7. The mortar 
+squeezed from the joints on the air space or cavity side may be troweled onto the units. This same procedure 
+may be used for laying the exterior wythes of grouted and reinforced brick cavity walls.
+Another method allows access to the base of the cavity for cleaning. When the brickwork is initially constructed, 
+every third or so brick unit in the course above the flashing of the exterior wythe is omitted. Once the brickwork 
+is complete, mortar droppings at the base of the cavity can be easily removed and weeps provided when the 
+omitted brick are placed in the wall with mortar.
+Drainage materials and mortar collection devices (mortar dropping collection devices) may also be used to 
+keep the air space adjacent to the weeps free from mortar. The use of a mortar collection device in combination 
+with good workmanship to maintain an unobstructed cavity is an effective method to ensure functional moisture 
+management and is becoming standard practice in the industry. The use of a mortar collection device does not 
+eliminate mortar bridging or absolve the mason from minimizing mortar droppings in the cavity. 
+Disturbance of Newly Laid Masonry
+Newly laid brick should never be pushed, shoved, tapped or otherwise disturbed once they are laid in their final 
+position and the mortar has begun to set. Any disturbance at this point will break the bond and may lead to a leak. 
+If adjustments are necessary, then the incorrectly placed brick should be removed and relaid in fresh mortar.
+Unfinished Brickwork
+When brickwork progress ends in the field of the wall, it is recommended to stop horizontal runs with a setback 
+of one-half unit length over each course below, creating a diagonal end profile. By doing so, when work begins 
+Figure 6
+Beveled Bed Joints
+Photo 7
+Beveled and Conventional Mortar Joints
+Beveled
+Bed Joints
+a
+b
+(a) Beveled joint; (b) Conventional joint
+
+[[p10]]
+www.gobrick.com | Brick Industry Association | TN 7B | Water Penetration Resistance – Construction and Workmanship | Page 10 of 10 
+again, the new brick are laid as normal. Ending work in a toothed profile results in more effort when work 
+resumes, requires pointing bed joints for the projecting units, and creates a condition where achieving full joints 
+and good bond is difficult, increasing the risk of water penetration. 
+Covering of masonry walls at the end of each work day, and especially in times of inclement weather, is essential 
+for satisfactory performance. Otherwise, excessive moisture enters the wall system, requiring an extended 
+drying period and increasing the risk of persistent efflorescence. Covering unfinished walls with tarps or other 
+water-resistant materials, securely tied or weighted to adequately resist wind, should be rigorously enforced. 
+Mortar boards, scaffold planks and light plastic sheets (less than 10 mils thick) weighted with brick should not be 
+accepted as suitable cover. Metal clamps, similar to bicycle clips, are commercially available in a variety of sizes 
+to meet various wall thicknesses. These are used in conjunction with plastic sheets or water-repellent tarps and 
+offer excellent protection for extended periods of time.
+Tops of walls should also be covered after the mason’s work is finished if a permanent coping is not attached 
+immediately after the brickwork is completed. Coverings extending 24 in. (610 mm) down the vertical face on each 
+side are recommended and should be maintained until the wall construction is completed or protected by adjacent 
+materials. Protection of openings in brickwork such as those for windows, movement joints, etc. should also be 
+considered, as they may allow moisture ingress from rain and snow and can lead to moisture-related problems 
+such as efflorescence and in some cases could affect the final mortar color. 
+Poor wall performance can sometimes be attributed to the freezing of mortar before it has set, or the lack of 
+protection of materials and walls during cold weather construction. Therefore, when building in cold weather, 
+proper protection against freezing is required for all materials and walls under construction, as indicated in 
+Technical Note 1 and in TMS 602.
+SUMMARY
+Quality construction practices and good workmanship are essential to achieve brickwork that is resistant to 
+water penetration. This Technical Note does not cover all construction practices but describes material storage, 
+preparation procedures, construction practices and installation techniques that are indicative of high quality 
+and, when combined with proper design, detailing and materials, result in brickwork that is resistant to water 
+penetration.
+The information and suggestions contained in this Technical Note are based on the available data 
+and the combined experience of engineering staff and members of the Brick Industry Association. 
+The information contained herein must be used in conjunction with good technical judgment 
+and a basic understanding of the properties of brick masonry. Final decisions on the use of 
+the information contained in this Technical Note are not within the purview of the Brick Industry 
+Association and must rest with the project architect, engineer, and owner.
+REFERENCES
+1.	 ASTM C67, “Standard Test Methods for Sampling and Testing Brick and Structural Clay Tile,” Annual 
+Book of Standards, Vol. 04.05, ASTM International, West Conshohocken, PA, 2016.
+2.	 ASTM C270, “Standard Specification for Mortar for Unit Masonry,” Annual Book of Standards, Vol. 04.05, 
+ASTM International, West Conshohocken, PA, 2016. 
+3.	 The BDA Guide to Successful Brickwork, Third Edition, The Brick Development Association, London, 
+England, 2006.
+4.	 Drysdale, R.G., Hamid, A.A., and Baker, L.R., Masonry Structures: Behavior and Design, Third Edition, 
+The Masonry Society, Boulder, CO, 2008.
+5.	 International Building Code, International Code Council, Country Club Hills, IL, 2015.
+6.	 Specification for Masonry Structures (TMS 602), The Masonry Society, Longmont, CO, 2016.

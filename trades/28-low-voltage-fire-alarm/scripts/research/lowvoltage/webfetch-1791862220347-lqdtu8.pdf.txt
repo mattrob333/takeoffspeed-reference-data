@@ -1,0 +1,997 @@
+3/4" EMT Conduit
+To Access Control Cabinet
+Exit Bar Power
+ Placement for Exit Device Power Supply
+mounted above ceiling or as per Manufactures 
+Specifications
+Electrical Retracted Exit Bar  w/RX
+Power Transfer 
+Hinge
+Flush Mounted Door Contacts
+"J" BOX
+with Cover
+Junction Box is mounted above ceiling
+Exit Request 
+Switch and Power  
+is routed  thrue 
+Power Transfer 
+Hinge
+Door Contact is needed to 
+indicate Door Forced or 
+Door propped Open
+MR 5  Card Reader
+Cabling between Locking Hardware and 
+Power Supply as Manufactures 
+Specifications
+1A
+1B
+1B, 1?
+1C
+1A, 2B, 1C or 1H
+Single Dr
+SquadronTypicalDrawingsRev4  - JEL
+VT Design Standard Detail Library 2020
+
+DOOR CONTACT
+ELECTRIC STRIKE
+4
+Junction Box
+2
+3
+READER 
+(Non-Secure Side)
+CEILING
+538AFS
+ORANGE
+WHITE
+BLUE
+GRAY
+1
+2
+3
+4
+COLOR
+TYPE
+1
+Typical Card Reader Door with Electric Stike 
+Using Hibred Cable
+Typical Single Door/w Hibred
+SquadronTypicalDrawingsRev4  - JEL
+
+DOOR CONTACT
+Electrified Exit 
+Hardware with Rex
+Junction Box
+2
+3
+READER 
+(Non-Secure Side)
+CEILING
+538AFS
+ORANGE
+WHITE
+BLUE
+GRAY
+1
+2
+3
+4
+COLOR
+TYPE
+1
+Typical Card Reader Door with Electric Stike 
+Using Hibred Cable
+4
+Exit Bar 
+Power Supply
+Cabling as per 
+Specifications of Exit Bar
+Electrical Transfer Hinge
+Typical Door W/Exit Bar
+SquadronTypicalDrawingsRev4  - JEL
+
+Double Doors
+SquadronTypicalDrawingsRev4  - JEL
+
+Squadron Enclosure
+SquadronTypicalDrawingsRev4  - JEL
+
+Squadron Wall Mnt
+SquadronTypicalDrawingsRev4  - JEL
+
+1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 13
+14
+15 16
+N
+P
+N
+N
+P
+P
+S
+AC FAIL
+BAT FAIL
+BAT
+DC
+-
+-
++
++
+Network Cable
+Comm_Pwr
+SquadronTypicalDrawingsRev4  - JEL
+
+RED
+BLACK
+GREEN
+WHITE
+ORANGE
+BROWN
+YELLOW
+BLUE
+GRAY
+RED
+BLACK
+GREEN
+WHITE
+ORANGE
+BROWN
+YELLOW
+BLUE
+GRAY
+EGRESS POWER
+SQUADRON POWER
+12VDC 2AMPS
+1
+2
+3
+4
+5
+6
+7
+8
+N
+P
+N
+N
+P
+P
+S
+9 10
+11 12 13 14 15 16
+AC FAIL
+BAT FAIL
+BAT
+DC
+-
+-
++
++
+Comm_Pwr2
+SquadronTypicalDrawingsRev4  - JEL
+
+To Cabinet Tamper
+EGRESS POWER
+SQUADRON POWER
+12VDC 2AMPS
+V100, V200, V300, REX
+AC FAIL
+BAT FAIL
+BAT
+DC
+-
+-
++
++
+V1000 /v2000
+1
+2
+3
+4
+5
+6
+7
+8
+N
+P
+9
+10
+11
+12
+13
+14
+15
+16
+V1000 /V2000
+V100
+V100, V200, V300, REX
+To v1000 / v2000 Batt Fail
+To v1000 / v2000 AC Fail
+V100, V200, V300, REX
+V100, V200, V300, REX
+V100, V200, V300, REX
+V100, V200, V300, REX
+V100, V200, V300, REX
+Comm_Pwr3
+SquadronTypicalDrawingsRev4  - JEL
+
+iClass
+TYPE
+PART NUMBER
+DESCRIPTION
+A
+5388C
+8 Conductor #18awg, Stranded, Shielded w/ drain, Color Coded
+BELDEN 5306FE
+CAROL E2038S
+Or equivalent
+B
+YR15950
+4 Conductor #22awg, Stranded, Shielded w/ drain, Color Coded
+C
+82760
+2 Conductor #18awg, Stranded, No Shielded 
+D
+CAT 5/6E – 8 Conductor Twisted Paired, 568B Network Cable 
+H
+1 - 6 Conductor #18awg, Stranded, Shielded w/Drain ( White,Green,Orange,Brown,Red,Black )
+538AFS
+1 - 4 Conductor #16awg, Stranded, Shielded w/Drain ( White,Black,Red,Green ) 
+1 - 4 Conductor #18awg, Stranded, Shielded w/Drain ( White,Black,Red,Green ) 
+1 - 2 Conductor #18awg, Stranded, Shielded w/Drain ( Red,Black ) 
+DEVICE
+PART NUMBER
+DESCRIPTION
+Hid Prox
+Combo Prox / Magnetic Stripe
+Dorado
+A1005WR
+A2005
+Biometric
+5388C
+BELDEN 5306FE
+CAROL E2038S
+538AFS
+8 Conductor #18awg, Stranded, Shielded w/ drain, Color Coded
+1 - 6 Conductor #18awg, Stranded, Shielded w/Drain 
+1 - 4 Conductor #16awg, Stranded, Shielded w/Drain
+1 - 4 Conductor #18awg, Stranded, Shielded w/Drain 
+1 - 2 Conductor #18awg, Stranded, Shielded w/Drain
+Hibred
+Exit Request
+YR15950
+4 Conductor #22awg, Stranded, Shielded w/ drain, Color Coded
+Rex as Part of Locking Device (Exit Bar or Lever)
+Door Strike
+Exit Request PIR
+Door Contact
+82760
+2 Conductor #18awg, Stranded, No Shielded 
+YR15950 / 82760
+4 Conductor #22awg, Stranded, Shielded w/ drain, Color Coded
+2 Conductor #18awg, Stranded, No Shielded 
+4 Conductor #22awg, Stranded, Shielded w/ drain, Color Coded
+YR15950
+Cabling
+SquadronTypicalDrawingsRev4  - JEL
+
+LOCKING HARDWARE
+REX 
+CARD READER
+DOOR CONTACT
+PVC Insulation • PVC Jackets • No Overall Jacket
+NEC Article 800 538AFS 
+(1) 4-Cond.  Beldfoil
+Gray
+16 AWG 
+White, Black 
+Red, Green, 
+Stranded
+Shielded
+(1) 4-Cond. Beldfoil
+Blue
+18 AWG 
+White,  Black
+Red, Green
+Stranded 
+Shielded 
+(1) 3-Pair Beldfoil 
+Orange
+18 AWG 
+White & Green, 
+Orange & Brown,
+Red & Black
+Stranded
+Shielded
+(1) 2-Cond. Beldfoil
+White
+18 AWG 
+Red, 
+Black
+Bare Copper
+Stranded
+Shielded
+Spare
+Spare
+LOCKING HARDWARE
+REX 
+DOOR CONTACT
+CARD READER
+Card Reader Power
+REX POWER
+PVC Insulation • PVC Jackets • No Overall Jacket
+NEC Article 800 538AFS 
+(1) 4-Cond.  Beldfoil
+Gray
+16 AWG 
+White, Black 
+Red, Green, 
+Stranded
+Shielded
+(1) 4-Cond. Beldfoil
+Blue
+18 AWG 
+White,  Black
+Red, Green
+Stranded 
+Shielded 
+(1) 3-Pair Beldfoil 
+Orange
+18 AWG 
+White & Green, 
+Orange & Brown,
+Red & Black
+Stranded
+Shielded
+(1) 2-Cond. Beldfoil
+White
+18 AWG 
+Red, 
+Black
+Bare Copper
+Stranded
+Shielded
+Hibred Cabling
+SquadronTypicalDrawingsRev4  - JEL
+
+RED
+BLACK
+WHITE
++
+-
+In 1
+In 1
+DOOR 
+RED
+Green 
+Black 
+White
+BLUE
++
+-
+In 2
+In 2 Rex
+To Squadron Power Supply
+NO 
+C
+NC
+RED
+Green 
+White
+Black
+GRAY
+Spare
+OUT 1
+DOOR CONTACT
+REQUEST  TO EXIT PIR
+DEVICES
++ 12VDC
+GROUND
+DATA 0 / DATA
+DATA 1 / CLOCK
+DATA RETURN
+GREEN LED
+RED LED
+BEEPER
+HOLD / CARD PRES
+SHIELD
+RED
+BLACK
+GREEN
+WHITE
+BROWN
+ORANGE
+SQUADRON 
+PANEL
+ORANGE
+HIBRED CABLE / BANANA PEEL
+MONITOR
+MR5
+ELECTRIC STRIKE
+x
+STRIKE POWER
+SUPPLIED BY 
+PROVIDER OF 
+STRIKE
+538AFS
+4
+3
+2
+1
+Typical Hibred Layout
+SquadronTypicalDrawingsRev4  - JEL
+
+READY
+PERMIT
+DENY
+MESSAGE
+DIEBOLD
+Pin 5  Strobe +
+Pin 12 Message
+Pin 1  Data +
+Pin 2  Data -
+Pin 3  CP +
+Pin 4  CP -
+Pin 6 Strobe -
+Pin 7  + 12V
+Pin 8 Gnd
+Pin 9  Ready
+Pin 10 Permit
+Pin 11 Deny
+Green
+White
+Red
+Black
+Yellow
+Orang
+e
+Brown
+Blue
+X
+X
+X
+X
+X
+X
+X
+X
+Pin 5  Strobe +
+Pin 12 Message
+Pin 1  Data +
+Pin 2  Data -
+Pin 3  CP +
+Pin 4  CP -
+Pin 6 Strobe -
+Pin 7  + 12V
+Pin 8 Gnd
+Pin 9  Ready
+Pin 10 Permit
+Pin 11 Deny
+Green
+White
+Red
+Black
+Yellow
+Orang
+e
+Brown
+Blue
+X
+X
+X
+X
+X
+X
+X
+Ground
+Green LED
+HoldCardPres
++ 12VDC Out
+Data0/Date
+Data 1/Clock
+Data Return
+Red LED
+Beeper
+Shield
+A1000WR
+Using Six (6) Wires
+Squadron Panel 
+A1000AR
+Using eight (8) Wires
+Reader # 1
++ (In 1) Door
+- (In 1) Monitor
++(In 2) Rex
+- (In 2 ) 
+NO
+C
+NC
+NO
+C
+NC
+Strike 
+Relay
+Aux
+Relay
+Ground
+Green LED
+HoldCardPres
++ 12VDC Out
+Data0/Date
+Data 1/Clock
+Data Return
+Red LED
+Beeper
+Shield
+Door +(In 1)
+ Rex +(In 2)
+- (In 2 ) 
+NO
+C
+NC
+NO
+C
+NC
+Strike 
+Relay
+Aux
+Relay
+Monitor -(In 1)
+Reader # 2
++      -
+Tamper
+(Input 5)
++      -
+AC
+Fail
+(Input 6)
++      -
+Bat
+Fail
+(Input 7)
+-      +
++12VDC
+In
+P7
+P1
+P4
+V100
+P2
+P5
+P6
+P3
+RS-485
+In
+A  B  Shld
+A  B  Shld
+RS-485
+Out
+-     +
++12VDC
+In 
+P9
+P8
+TERM
+Resistor
+1 2
+3
+0
+4
+5
+6
+7
+8
+9
+1
+0
+1
+1
+1
+2
+1
+3
+1
+4
+1
+5
+Address
+Power
+COMM
+Reset
+In  Out
+<
+<
+Ground
+Green LED
+HoldCardPres
++ 12VDC Out
+Data0/Date
+Data 1/Clock
+Data Return
+Red LED
+Beeper
+Shield
+A1000WR
+SquadronTypicalDrawingsRev4  - JEL
+
+1
+15
+1
+15
+A
+1
+2
+3
+4
+5
+6
+7
+8
+A
+B
+C
+D
+9
+0
+C
+L
+R
+EN
+TR
+STRIPE  THIS  SIDE
+1
+2
+3
+CBORD
+ 12 volts DC (White)
+Blue - DX -
+Violet - DX+
+Black - Ground
+1
+15
+X
+X
+X
+X
+TERMINAL STRIP
+ 12 volts DC 
+(White)
+Blue - DX -
+Violet - DX+
+Black -
+Ground
+X
+X
+X
+X
+1
+15
+1
+15
+Blue
+Green
+Red
+Black
+Red
+Black
+Green
+Blue
+Yellow
+Brown
+1
+2
+3
+4
+5
+6
+7
+8
+A
+B
+C
+D
+9
+0
+C
+L
+R
+EN
+TR
+STRIPE  THIS  SIDE
+1
+2
+3
+CBORD
+1
+15
+1
+15
+B
++
+-
+DX+
+DX+
+DX-
+DX-
+2005
+SquadronTypicalDrawingsRev4  - JEL
+
+Door 1
+Door 2
+Door 1
+Door 2
+Door 3
+Door 4
+Door 3
+Door 4
+Von Duprin 
+Power Supply
+ALTRONIX 
+Power Supply
+Egress
+Door Contact
+Egress
+Door Contact
+Von Duprin w/o REX
+Virtual Dr
+SquadronTypicalDrawingsRev4  - JEL
+
+RED
+BLK
+Green
+White
+Orange
+Brown
+Yellow
+Blue
+Shield
+iClass
+SquadronTypicalDrawingsRev4  - JEL
+
+MR-5
+SquadronTypicalDrawingsRev4  - JEL
+
+V100 or V2000
+RED
+BLACK
+GREEN 
+WHITE
+ORANGE
+BROWN 
+YELLOW 
+BLUE
+SHIELD
+Maxi-Prox
+Prox
+SquadronTypicalDrawingsRev4  - JEL
+
+SQUADRON PANEL
+MR5 CARD READER
++ 12VDC
+GROUND
+DATA 0 / DATA
+DATA 1 / CLOCK
+DATA RETURN
+GREEN LED
+RED LED
+BEEPER
+HOLD / CARD PRES
+SHIELD
+10K
+RED
+BLACK
+GREEN
+WHITE
+BROWN
+ORANGE
+BLUE
+SQUADRON PANEL
+HID PROX POINT
++ 12VDC
+GROUND
+DATA 0 / DATA
+DATA 1 / CLOCK
+DATA RETURN
+GREEN LED
+RED LED
+BEEPER
+HOLD / CARD PRES
+SHIELD
+RED
+BLACK
+GREEN
+WHITE
+BROWN
+ORANGE
+YELLOW
+BLUE
+SQUADRON PANEL
+A1000
++ 12VDC
+GROUND
+DATA 0 / DATA
+DATA 1 / CLOCK
+DATA RETURN
+GREEN LED
+RED LED
+BEEPER
+HOLD / CARD PRES
+SHIELD
+10K
+RED
+BLACK
+GREEN
+WHITE
+BROWN
+ORANGE
+YELLOW
+10K
+SHIELD
+SHIELD
+READY
+PERMIT
+DENY
+MESSAGE
+DIEBOLD
+Card Readers1
+SquadronTypicalDrawingsRev4  - JEL
+
+BLUE
+SQUADRON PANEL
+iCLASS PROX
++ 12VDC
+GROUND
+DATA 0 / DATA
+DATA 1 / CLOCK
+DATA RETURN
+GREEN LED
+RED LED
+BEEPER
+HOLD / CARD PRES
+SHIELD
+RED
+BLACK
+GREEN
+WHITE
+BROWN
+ORANGE
+YELLOW
+SHIELD
+To 12V DC Power Supply
+Card Reader 2
+SquadronTypicalDrawingsRev4  - JEL
+
+REQUEST to EXIT PIR
+FLUSH MOUNT DOOR 
+CONTACT
+REX
+T-REX
+REQUEST to EXIT PIR
+MOTION DETECTOR
+45' PIR
+MOTION DETECTOR
+360' PIR
+GLASS BREAK DETECTOR
+HOLDUP BUTTON
+SURFACE MOUNT 
+DOOR CONTACT
+Local Horn w Keyswitch
+Devices
+SquadronTypicalDrawingsRev4  - JEL
+
+RED
+LOCK POWER
+EGRESS POWER
+SQUADRON POWER
+12VDC 2AMPS
+X
+24VDC
+24VDC 6AMP
+12VDC
+BLACK
+GREEN
+WHITE
+ORANGE
+BROWN
+YELLOW
+BLUE
+GRAY
+AC FAIL
+BAT FAIL
+BAT
+DC
+-
+-
++
++
+1
+2
+3
+4
+5
+6
+7
+8
+9 1
+0
+1
+1
+1
+2
+1
+3
+1
+4
+1
+5
+1
+6
+N
+P
+N
+N
+P
+P
+S
+V2000
+SquadronTypicalDrawingsRev4  - JEL
+
+2K
+2K
+Double Doors
+Door 1
+Door 2
+2K
+2K
+2K
+2K
+2K
+2K
+2K
+2K
+2K
+2K
+Passive Infered
+Motion Detector
+Door Contact
+Door Contact
+Door Contact
+Door Contact
+2K
+Passive Infered
+Motion Detector
+Ceiling Mount 
+360'
+Wall Mount 45'
+2K
+Glass Break Detector
+2K
+Holdup / Assistance Required 
+Button
+2K
+Door Contact
+Requires Power
+2K
+2K
+Alarm Devices
+HUB
+GB
+360' PIR
+45' PIR
+DC
+Requires Power
+Requires Power
+Supervised Inputs
+SquadronTypicalDrawingsRev4  - JEL

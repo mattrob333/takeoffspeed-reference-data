@@ -1,0 +1,865 @@
+[
+ {
+  "name": "L190 3'4\"Wx7'H TYPE F THIN PROFILE SLIDING GLASS DOOR W/ ALUMINUM FRAME",
+  "formula": "count of door schedule marks",
+  "engineAssembly": "doors-hardware.opening",
+  "inputs": {
+   "marks": {
+    "value": [
+     "105"
+    ],
+    "unit": "door marks"
+   },
+   "location": "interior",
+   "leaves": "single",
+   "size": {
+    "value": [
+     40,
+     84
+    ],
+    "unit": "in (one leaf W x H)"
+   },
+   "doorType": "F",
+   "doorMaterial": "GLASS",
+   "frameMaterial": "ALUM"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 190 / A-600 DOOR SCHEDULE; markup p21"
+ },
+ {
+  "name": "L191 3'Wx7'H TYPE B SOLID CORE WOOD DOOR W/ WELDED HOLLOW METAL FRAME",
+  "formula": "count of door schedule marks",
+  "engineAssembly": "doors-hardware.opening",
+  "inputs": {
+   "marks": {
+    "value": [
+     "112",
+     "113",
+     "114"
+    ],
+    "unit": "door marks"
+   },
+   "location": "interior",
+   "leaves": "single",
+   "size": {
+    "value": [
+     36,
+     84
+    ],
+    "unit": "in (one leaf W x H)"
+   },
+   "doorType": "B",
+   "doorMaterial": "SCW",
+   "frameMaterial": "HM"
+  },
+  "expected": {
+   "quantity": 3.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 3.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 191 / A-600 DOOR SCHEDULE; markup p21"
+ },
+ {
+  "name": "L192 3'Wx7'H TYPE B SOLID CORE WOOD DOOR W/ WELDED HOLLOW METAL FRAME",
+  "formula": "count of door schedule marks",
+  "engineAssembly": "doors-hardware.opening",
+  "inputs": {
+   "marks": {
+    "value": [
+     "106",
+     "115"
+    ],
+    "unit": "door marks"
+   },
+   "location": "interior",
+   "leaves": "single",
+   "size": {
+    "value": [
+     36,
+     84
+    ],
+    "unit": "in (one leaf W x H)"
+   },
+   "doorType": "B",
+   "doorMaterial": "SCW",
+   "frameMaterial": "HM"
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 2.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 192 / A-600 DOOR SCHEDULE; markup p21"
+ },
+ {
+  "name": "L193 3'Wx7'H TYPE C SOLID CORE WOOD DOOR W/ KNOCK-DOWN HOLLOW METAL FRAME",
+  "formula": "count of door schedule marks",
+  "engineAssembly": "doors-hardware.opening",
+  "inputs": {
+   "marks": {
+    "value": [
+     "111"
+    ],
+    "unit": "door marks"
+   },
+   "location": "interior",
+   "leaves": "single",
+   "size": {
+    "value": [
+     36,
+     84
+    ],
+    "unit": "in (one leaf W x H)"
+   },
+   "doorType": "C",
+   "doorMaterial": "SCW",
+   "frameMaterial": "HM"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 193 / A-600 DOOR SCHEDULE; markup p21"
+ },
+ {
+  "name": "L194 (2) 3'Wx8'H MED. STILE STOREFRONT GLASS DOOR W/ ALUMINUM STOREFRONT FRAME",
+  "formula": "count of door schedule marks",
+  "engineAssembly": "doors-hardware.opening",
+  "inputs": {
+   "marks": {
+    "value": [
+     "101"
+    ],
+    "unit": "door marks"
+   },
+   "location": "interior",
+   "leaves": "pair",
+   "size": {
+    "value": [
+     36,
+     96
+    ],
+    "unit": "in (one leaf W x H)"
+   },
+   "doorType": "D",
+   "doorMaterial": "GLASS",
+   "frameMaterial": "ALUM"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 194 / A-600 DOOR SCHEDULE; markup p21"
+ },
+ {
+  "name": "L195 (2) 3'Wx8'H MED. STILE STOREFRONT GLASS DOOR W/ ALUMINUM STOREFRONT FRAME",
+  "formula": "count of door schedule marks",
+  "engineAssembly": "doors-hardware.opening",
+  "inputs": {
+   "marks": {
+    "value": [
+     "100"
+    ],
+    "unit": "door marks"
+   },
+   "location": "exterior",
+   "leaves": "pair",
+   "size": {
+    "value": [
+     36,
+     96
+    ],
+    "unit": "in (one leaf W x H)"
+   },
+   "doorType": "D",
+   "doorMaterial": "GLASS",
+   "frameMaterial": "ALUM"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 195 / A-600 DOOR SCHEDULE; markup p21"
+ },
+ {
+  "name": "L196 3'Wx8'H TYPE E MED. STILE STOREFRONT GLASS DOOR W/ ALUMINUM STOREFRONT FRAME",
+  "formula": "count of door schedule marks",
+  "engineAssembly": "doors-hardware.opening",
+  "inputs": {
+   "marks": {
+    "value": [
+     "110"
+    ],
+    "unit": "door marks"
+   },
+   "location": "exterior",
+   "leaves": "single",
+   "size": {
+    "value": [
+     36,
+     96
+    ],
+    "unit": "in (one leaf W x H)"
+   },
+   "doorType": "E",
+   "doorMaterial": "GLASS",
+   "frameMaterial": "ALUM"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 196 / A-600 DOOR SCHEDULE; markup p21"
+ },
+ {
+  "name": "L197 30\"x36\" ROOF ACCESS HATCH",
+  "formula": "count",
+  "engineAssembly": "roofing.counted",
+  "inputs": {
+   "kind": "roof hatch",
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "description": "30\"x36\" ROOF ACCESS HATCH"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 197 / A-140 roof plan; markup p7 legend"
+ },
+ {
+  "name": "L198 HARDWARE 1",
+  "formula": "hardware set count = openings assigned the set",
+  "engineAssembly": "doors-hardware.hardware-set",
+  "inputs": {
+   "setNo": "1",
+   "marks": {
+    "value": [
+     "100"
+    ],
+    "unit": "door marks"
+   },
+   "leaves": "pair"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 198 / A-600 HRDW SET NO. column; A-601 hardware sets; markup p21"
+ },
+ {
+  "name": "L199 HARDWARE 3",
+  "formula": "hardware set count = openings assigned the set",
+  "engineAssembly": "doors-hardware.hardware-set",
+  "inputs": {
+   "setNo": "3",
+   "marks": {
+    "value": [
+     "110"
+    ],
+    "unit": "door marks"
+   },
+   "leaves": "single"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 199 / A-600 HRDW SET NO. column; A-601 hardware sets; markup p21"
+ },
+ {
+  "name": "L200 HARDWARE 4",
+  "formula": "hardware set count = openings assigned the set",
+  "engineAssembly": "doors-hardware.hardware-set",
+  "inputs": {
+   "setNo": "4",
+   "marks": {
+    "value": [
+     "101"
+    ],
+    "unit": "door marks"
+   },
+   "leaves": "pair"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 200 / A-600 HRDW SET NO. column; A-601 hardware sets; markup p21"
+ },
+ {
+  "name": "L201 HARDWARE 6",
+  "formula": "hardware set count = openings assigned the set",
+  "engineAssembly": "doors-hardware.hardware-set",
+  "inputs": {
+   "setNo": "6",
+   "marks": {
+    "value": [
+     "111"
+    ],
+    "unit": "door marks"
+   },
+   "leaves": "single"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 201 / A-600 HRDW SET NO. column; A-601 hardware sets; markup p21"
+ },
+ {
+  "name": "L202 HARDWARE 7",
+  "formula": "hardware set count = openings assigned the set",
+  "engineAssembly": "doors-hardware.hardware-set",
+  "inputs": {
+   "setNo": "7",
+   "marks": {
+    "value": [
+     "106"
+    ],
+    "unit": "door marks"
+   },
+   "leaves": "single"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 202 / A-600 HRDW SET NO. column; A-601 hardware sets; markup p21"
+ },
+ {
+  "name": "L203 HARDWARE 9",
+  "formula": "hardware set count = openings assigned the set",
+  "engineAssembly": "doors-hardware.hardware-set",
+  "inputs": {
+   "setNo": "9",
+   "marks": {
+    "value": [
+     "115"
+    ],
+    "unit": "door marks"
+   },
+   "leaves": "single"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 203 / A-600 HRDW SET NO. column; A-601 hardware sets; markup p21"
+ },
+ {
+  "name": "L204 HARDWARE 10",
+  "formula": "hardware set count = openings assigned the set",
+  "engineAssembly": "doors-hardware.hardware-set",
+  "inputs": {
+   "setNo": "10",
+   "marks": {
+    "value": [
+     "114"
+    ],
+    "unit": "door marks"
+   },
+   "leaves": "single"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 204 / A-600 HRDW SET NO. column; A-601 hardware sets; markup p21"
+ },
+ {
+  "name": "L205 HARDWARE 11",
+  "formula": "hardware set count = openings assigned the set",
+  "engineAssembly": "doors-hardware.hardware-set",
+  "inputs": {
+   "setNo": "11",
+   "marks": {
+    "value": [
+     "112",
+     "113"
+    ],
+    "unit": "door marks"
+   },
+   "leaves": "single"
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 2.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 205 / A-600 HRDW SET NO. column; A-601 hardware sets; markup p21"
+ },
+ {
+  "name": "L206 HARDWARE 14",
+  "formula": "hardware set count = openings assigned the set",
+  "engineAssembly": "doors-hardware.hardware-set",
+  "inputs": {
+   "setNo": "14",
+   "marks": {
+    "value": [
+     "105"
+    ],
+    "unit": "door marks"
+   },
+   "leaves": "single"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 206 / A-600 HRDW SET NO. column; A-601 hardware sets; markup p21"
+ },
+ {
+  "name": "L207 1\"W PREFINISHED MITERED BLACK ANGLED ALUMINUM VAT FRAME AROUND VAT TERMINAL OPENING",
+  "formula": "specialty frame LF = 2((W+fw)+(H+fw))/12 x faces",
+  "engineAssembly": "doors-hardware.specialty-frame",
+  "inputs": {
+   "openings": {
+    "value": [
+     [
+      8.5,
+      12.75
+     ]
+    ],
+    "unit": "in (W x H)"
+   },
+   "faceWidth": {
+    "value": 1,
+    "unit": "in"
+   },
+   "faces": {
+    "value": 1,
+    "unit": "faces"
+   }
+  },
+  "expected": {
+   "quantity": 3.875,
+   "unit": "LF"
+  },
+  "tolerancePct": 2.0,
+  "estimatorQty": 3.82,
+  "estimatorUnit": "LF",
+  "estimatorDeltaPct": 1.44,
+  "classification": "derived",
+  "source": "line 207 / A-701 det.6 VAT ACCESS ELEVATION (3\"=1'-0\") + note; A-110 keynote P3"
+ },
+ {
+  "name": "L208 12'11-1/2\"W x 12'H ALUMINUM FRAME GLAZING WINDOW - A",
+  "formula": "window count by tag",
+  "engineAssembly": "windows-storefront.window",
+  "inputs": {
+   "size": {
+    "value": [
+     155.5,
+     144
+    ],
+    "unit": "in"
+   },
+   "instances": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "exterior": true,
+   "frameMaterial": "ALUMINUM"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 208 / A-610 window elevations; window tags on A-120; markup p22 legend"
+ },
+ {
+  "name": "L209 7'4\"W x 12'H ALUMINUM FRAME GLAZING WINDOW - C",
+  "formula": "window count by tag",
+  "engineAssembly": "windows-storefront.window",
+  "inputs": {
+   "size": {
+    "value": [
+     88,
+     144
+    ],
+    "unit": "in"
+   },
+   "instances": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "exterior": true,
+   "frameMaterial": "ALUMINUM"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 209 / A-610 window elevations; window tags on A-120; markup p22 legend"
+ },
+ {
+  "name": "L210 8'W x 9'4\"H ALUMINUM FRAME GLAZING WINDOW - D",
+  "formula": "window count by tag",
+  "engineAssembly": "windows-storefront.window",
+  "inputs": {
+   "size": {
+    "value": [
+     96,
+     112
+    ],
+    "unit": "in"
+   },
+   "instances": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "exterior": true,
+   "frameMaterial": "ALUMINUM"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 210 / A-610 window elevations; window tags on A-120; markup p22 legend"
+ },
+ {
+  "name": "L211 6'W x 7'4\"H ALUMINUM FRAME GLAZING WINDOW - E",
+  "formula": "window count by tag",
+  "engineAssembly": "windows-storefront.window",
+  "inputs": {
+   "size": {
+    "value": [
+     72,
+     88
+    ],
+    "unit": "in"
+   },
+   "instances": {
+    "value": 2,
+    "unit": "EA"
+   },
+   "exterior": true,
+   "frameMaterial": "ALUMINUM"
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 2.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 211 / A-610 window elevations; window tags on A-120; markup p22 legend"
+ },
+ {
+  "name": "L212 13'4\"W x 9'4\"H ALUMINUM FRAME GLAZING WINDOW - G",
+  "formula": "window count by tag",
+  "engineAssembly": "windows-storefront.window",
+  "inputs": {
+   "size": {
+    "value": [
+     160,
+     112
+    ],
+    "unit": "in"
+   },
+   "instances": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "exterior": true,
+   "frameMaterial": "ALUMINUM"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 212 / A-610 window elevations; window tags on A-120; markup p22 legend"
+ },
+ {
+  "name": "L213 14'W x 9'4\"H ALUMINUM FRAME GLAZING WINDOW - H",
+  "formula": "window count by tag",
+  "engineAssembly": "windows-storefront.window",
+  "inputs": {
+   "size": {
+    "value": [
+     168,
+     112
+    ],
+    "unit": "in"
+   },
+   "instances": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "exterior": true,
+   "frameMaterial": "ALUMINUM"
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "estimatorQty": 1.0,
+  "estimatorUnit": "EA",
+  "estimatorDeltaPct": 0.0,
+  "classification": "counted",
+  "source": "line 213 / A-610 window elevations; window tags on A-120; markup p22 legend"
+ },
+ {
+  "name": "L214 ANODIZED ALUMINUM EXTERIOR STOREFRONT SYSTEM",
+  "formula": "storefront SF net of doors",
+  "engineAssembly": "windows-storefront.storefront",
+  "inputs": {
+   "frames": [
+    {
+     "tag": "B",
+     "size": {
+      "value": [
+       119,
+       144
+      ],
+      "unit": "in"
+     },
+     "doors": {
+      "value": [
+       [
+        72,
+        96
+       ]
+      ],
+      "unit": "in"
+     },
+     "instances": {
+      "value": 1,
+      "unit": "EA"
+     }
+    },
+    {
+     "tag": "F",
+     "size": {
+      "value": [
+       72,
+       120
+      ],
+      "unit": "in"
+     },
+     "doors": {
+      "value": [
+       [
+        36,
+        96
+       ]
+      ],
+      "unit": "in"
+     },
+     "instances": {
+      "value": 1,
+      "unit": "EA"
+     }
+    }
+   ],
+   "system": "exterior-storefront"
+  },
+  "expected": {
+   "quantity": 107.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 107.3,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": -0.28,
+  "classification": "measured",
+  "source": "line 214 / A-610 window elevations; markup p22 legend"
+ },
+ {
+  "name": "L215 ANODIZED ALUMINUM INTERIOR STOREFRONT SYSTEM",
+  "formula": "storefront SF net of doors",
+  "engineAssembly": "windows-storefront.storefront",
+  "inputs": {
+   "frames": [
+    {
+     "tag": "K",
+     "size": {
+      "value": [
+       91.625,
+       120
+      ],
+      "unit": "in"
+     },
+     "doors": {
+      "value": [
+       [
+        40,
+        84
+       ]
+      ],
+      "unit": "in"
+     },
+     "instances": {
+      "value": 1,
+      "unit": "EA"
+     }
+    }
+   ],
+   "system": "demountable"
+  },
+  "expected": {
+   "quantity": 53.021,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 53.22,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": -0.37,
+  "classification": "measured",
+  "source": "line 215 / A-610 window elevations; markup p22 legend"
+ },
+ {
+  "name": "L216 ANODIZED ALUMINUM INTERIOR STOREFRONT SYSTEM",
+  "formula": "storefront SF net of doors",
+  "engineAssembly": "windows-storefront.storefront",
+  "inputs": {
+   "frames": [
+    {
+     "tag": "J",
+     "size": {
+      "value": [
+       92.25,
+       144
+      ],
+      "unit": "in"
+     },
+     "doors": {
+      "value": [
+       [
+        72,
+        96
+       ]
+      ],
+      "unit": "in"
+     },
+     "instances": {
+      "value": 1,
+      "unit": "EA"
+     }
+    }
+   ],
+   "system": "interior-storefront"
+  },
+  "expected": {
+   "quantity": 44.25,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "estimatorQty": 44.56,
+  "estimatorUnit": "SF",
+  "estimatorDeltaPct": -0.7,
+  "classification": "measured",
+  "source": "line 216 / A-610 window elevations; markup p22 legend"
+ }
+]

@@ -1,0 +1,1086 @@
+[[p1]]
+© 2025 Brick Industry Association, Reston, Virginia
+Page 1 of 20 
+TECHNICAL NOTES on Brick Construction
+12007 Sunrise Valley Drive, Suite 430, Reston, Virginia 20191 | www.gobrick.com | 703-620-0010
+28B
+April 
+2025
+Veneer Height
+•	Maximum permitted veneer height above its support is 
+30 ft (9.14 m) to top of wall or 38 ft (11.58 m) to top of 
+gable unless veneer is rationally designed and detailed for 
+differential movement by a licensed design professional
+•	Support veneer above this height by shelf angle or other 
+means for each story
+Air Space 
+•	2 in. (51 mm) minimum air space recommended; 1 in. 
+(25.4 mm) minimum air space required
+Cavity
+•	Cavity includes sheathing, air space and continuous 
+insulation as required
+•	Cavity width is measured from back surface of veneer to 
+face of cold-formed steel framing member 
+•	Maximum cavity width shall not exceed 6⅝ in. (168 mm) 
+to face of framing member for use with prescriptive ties 
+•	For larger cavity widths, ties must be rationally designed 
+by a registered design professional
+Flashing
+•	Extending flashing to exterior wall face is required 
+•	Extending flashing beyond exterior wall face is 
+recommended
+•	Place flashing at all points where air space is interrupted
+•	Extend flashing vertically up the backing to 8 in. (203 mm) 
+minimum height
+•	Install base flashing not more than 10 in. (254 mm) above 
+finished grade
+•	Turn up flashing ends into head joint a minimum of 1 in. 
+(25.4 mm) to form end dams
+Weeps and Drainage
+•	Place weeps immediately above flashing
+•	Open head joint weeps preferred. Can be filled with mesh 
+or screens. Spacing recommended to be no more than 
+24 in. (610 mm) o.c.
+Veneer Ties
+•	Adjustable ties are required. Corrugated sheet metal ties 
+not permitted with cold-formed steel framed backing
+•	For a cavity width not exceeding 4⅝ in. (117 mm), provide 
+at least one tie with wire size W1.7 (MW11) per 2.67 ft² 
+(0.25 m²) of wall area
+•	For a cavity width wider than 4⅝ in. (117 mm) and not 
+exceeding 6⅝ in. (168 mm), provide at least one tie with 
+wire size W2.8 conforming to the requirements of Table 1 
+per 2.67 ft² (0.25 m²) of wall area 
+•	For a cavity width exceeding 6⅝ in. (168 mm), design 
+ties using provisions of TMS 402, “Alternative design of 
+anchored masonry veneer” 
+•	Vertical spacing: maximum 25 in. (635 mm) o.c.
+•	Horizontal spacing: maximum 32 in. (813 mm) o.c.
+•	Securely attach ties to the cold-formed steel framing 
+through the insulation, if present, and through the 
+sheathing, not to the sheathing alone
+•	For high wind and seismic areas, see the “Veneer Ties/
+Anchors” section for tie placement requirements 
+•	Use minimum No. 10 self-tapping corrosion-resistant 
+screws with a minimum nominal shank diameter of 
+0.190 in. (4.8 mm). A minimum of three full threads should 
+be exposed on the inside face of the framing member.
+Shelf Angles and Loose Lintels
+•	Standoff shelf angles should be installed to allow full 
+sections of continuous insulation to be placed in the cavity 
+•	Suspended shelf angles must have bracing to prevent 
+out-of-plane movement
+•	Loose lintels, in contrast to shelf angles, are not attached 
+to the building structure
+•	Bear loose lintels 4 in. (102 mm) minimum on the veneer 
+brickwork on each side of an opening
+Expansion Joints
+•	Provide vertical and horizontal expansion joints through 
+brick veneer
+•	Design and construct expansion joints complying with 
+recommendations of Technical Notes 18 and 18A
+Cold-Formed Steel Framing
+•	Minimum G60 galvanized coating
+•	Restrict allowable out-of-plane deflection of cold-formed 
+steel framing to between L/360 to L/600 depending on the 
+project 
+•	Minimum 0.043 in. (18 gauge; 1.09 mm) material 
+thickness for exterior walls
+•	Field welding shall comply with AWS requirements 
+Brick Veneer/Cold-Formed Steel 
+Framed Walls
+Abstract: This Technical Note addresses considerations and recommendations for the design, detailing, material selection 
+and construction of brick veneer/cold-formed steel framed walls. This information pertains to the behavior of the veneer and 
+cold‑formed steel framing, differential movement, veneer ties, air space, cavity, detailing, selection of materials and construction 
+techniques. The basis for these recommendations is the requirements of the 2016 edition of TMS 402/602.
+Key Words: brick veneer, cold-formed steel framing, deflection, design, flashing, masonry, permeability, stability, stiffness, 
+veneer ties, walls, weeps.
+SUMMARY OF RECOMMENDATIONS (page 1 of 2)
+
+[[p2]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 2 of 20
+SUMMARY OF RECOMMENDATIONS (page 2 of 2)
+Water-Resistive Barrier/Air Barrier/Vapor Retarder
+•	Many products function as both a water-resistive barrier 
+(WRB) and air barrier (AB)
+•	Use vapor retarder where required
+•	Install WRB/AB over sheathing
+•	Seal water-resistive sheathing per manufacturer to 
+perform as water-resistive barrier
+Insulation
+•	Select insulation appropriate for use in the “wet zone” of 
+the wall assembly
+•	Confirm that insulation meets building code requirements 
+for flame propagation within the assembly
+Sheathing
+•	Use one of the following:
+	- Appropriately rated plywood or OSB
+	- Exterior grade glass fiber mat-faced sheathing or 
+cement board; minimum ½ in. (12.7 mm) thick
+	- Closed-cell rigid insulation meeting ASTM C578 or 
+C1289; minimum ½ in. (12.7 mm) thick
+	- Magnesium oxide panels, ESR needed
+	- Proprietary structural insulated panels
+Moisture Resistance
+Brick veneer construction incorporates a drainage space/
+air space within its cavity to deter water penetration into 
+the building. This is a continuous air space that creates 
+a physical separation between the brick veneer and the 
+inner cold-formed steel framing. When wind-driven rain 
+penetrates the veneer, the air space allows the water to 
+drain down the back face of the brickwork. This water is 
+then collected by flashing and channeled out of the wall 
+through weeps. When properly designed and constructed, 
+a brick veneer/cold-formed steel framing system is a 
+water penetration resistant wall assembly. For additional 
+information regarding water penetration resistance, see the 
+Technical Notes 7 Series.
+Thermal Performance
+Brick veneer systems incorporating a vented or ventilated 
+air space within the cavity can greatly reduce the amount 
+of heat transmission through the system. This air space 
+provides a thermal separation between the brick wythe and 
+other system components, increasing the resistance of the 
+entire wall system to heat loss or gain. Further, brickwork 
+has a high thermal mass, giving it the ability to store and 
+slowly release heat over time. This performance of the 
+brick veneer and the air space within the wall assembly 
+has been verified by research conducted by the National 
+Brick Research Center using a modified ASTM C1363 
+hot box apparatus [Ref. 1]. Moisture-resistant continuous 
+insulation, such as closed-cell rigid foam boards or mineral 
+wool, should be placed outboard of the water-resistive 
+barrier within the cavity to provide thermal resistance while 
+reducing the influence of thermal bridging caused by the 
+cold-formed steel framing. Batt insulation may be placed 
+between cold-formed steel framing members to reduce 
+sound transmission and to provide additional thermal 
+resistance. For further information regarding the thermal 
+resistance of brick assemblies, refer to the Technical 
+Notes 4 Series.
+Fire Resistance
+Brick masonry has superior fire resistance. Building codes 
+may require that exterior walls have a fire resistance 
+rating based on fire separation distance, size of building 
+and occupancy classification. Exterior walls may require 
+protection from one or both sides, depending on whether 
+the fire separation distance is more or less than 5 ft 
+(1.52 m). A nominal 4 in. (102 mm) brick wythe composed 
+of ASTM C216 compliant brick has a 1-hour fire resistance 
+rating and can provide this protection for the exterior 
+surface of the wall. For fire resistance from inside the 
+building, the cold-formed steel framing must be protected 
+on the interior side. Fire-rated gypsum board is typically 
+used for this purpose and can be layered to provide the 
+required rating. For additional information, see Technical 
+Note 16.
+Acoustics
+Brick veneer walls are well-suited as sound insulators. 
+Multiple mechanisms reduce the sound transmitted through 
+the wall. The hard surface of the brickwork reflects a large 
+portion of sound waves. The mass of the brickwork absorbs 
+another portion of sound energy. The remaining sound 
+energy that makes its way through the brick veneer must 
+continue through the air space and the sheathed framing. 
+This air space separates the brick from the cold-formed 
+steel framing, causing a dampening effect. With only ties 
+bridging the air space, a further reduction in sound wave 
+propagation is realized due to discontinuous construction. 
+Finally, the energy must vibrate the sheathing and cold-
+formed steel framing to reach the inside of the building. 
+Additional information on sound transmission can be found 
+in Technical Note 5A.
+Aesthetics
+Brick is available in a large variety of colors, textures, 
+glazes and coatings. In addition, many sizes are 
+manufactured, and special shapes can be created to 
+achieve a broad range of profiles. Add to this the ability 
+to achieve multiple bond patterns, the use of colored 
+mortars and interesting masonry detailing, and the creative 
+possibilities are nearly endless. For further information on 
+sizes and patterns, refer to Technical Notes 10 and 30.
+Ease of Construction
+The cold-formed steel framing and exterior sheathing 
+of a brick veneer/cold-formed steel framed wall can be 
+constructed prior to laying the brick veneer wythe. This 
+allows the building to be closed in and placed under-roof 
+quickly. Thus, interior work can begin with brick masonry 
+construction following at a convenient time. Further, other 
+trades can be scheduled to work without interfering with the 
+mason.
+PROPERTIES OF BRICK VENEER/COLD-FORMED STEEL FRAMED WALLS
+
+[[p3]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 3 of 20
+INTRODUCTION
+The brick veneer/cold-formed steel framed (BV/CFSF) wall assembly, sometimes referred to as brick veneer/steel 
+stud (BV/SS) framed wall assembly, offers several advantages over other claddings. The system demonstrates 
+superior performance in many of the specific areas of concern for designers, contractors and property owners, 
+such as attractive appearance, high resistance to water penetration, ease of construction and low maintenance 
+while providing a very durable exterior surface. Introduced in the 1960s, the BV/CFSF wall system has evolved 
+into a successful construction method used in a wide variety of commercial, industrial, high-density housing and 
+institutional structures, which include such building types as churches, hospitals, apartments and office buildings. 
+These buildings usually have structural frames of hot-rolled steel or reinforced concrete. Unlike low-rise or small-
+scale residential construction, they generally are taller; frequently incorporate parapets; and are designed without 
+overhangs, eaves or gutters to protect the veneer. Consequently, many commercial and multifamily brick veneer/
+cold-formed steel framed wall systems have greater exposure to their environment than their low-rise residential 
+counterparts. For this reason, it is important to closely observe proper design, detailing and construction practices to 
+ensure that expected and required levels of performance are met.
+Anchored brick veneer with cold-formed steel framed 
+backing consists of a nominal 3 or 4 in. (76 or 102 mm) 
+thick exterior single wythe of brick mechanically 
+attached to a cold-formed steel framed backing with 
+corrosion-resistant metal veneer ties spanning the 
+prescribed cavity between the veneer and the backing, 
+as shown in Figure 1. Within the cavity is an air space, 
+also referred to as a drainage space, and (as required) 
+continuous insulation.
+This Technical Note is one in a series dealing with 
+brick veneer. This Technical Note addresses brick 
+veneer with cold-formed steel framed backing, which is 
+used primarily in commercial or multifamily residential 
+construction built in accordance with the International 
+Building Code (IBC) [Ref. 7], but also applies to 
+cold-formed steel framed backing construction in 
+one- and two-family dwellings and townhouses built 
+in accordance with the International Residential Code 
+(IRC) [Ref. 8]. Other Technical Notes in the series 
+discuss other types of brick veneer wall systems. 
+STRUCTURAL DESIGN 
+Minimum standards for brick veneer/cold-formed steel framed walls are established in the model building codes 
+adopted by most local jurisdictions. Nearly all of these codes reference the Building Code Requirements for Masonry 
+Structures (TMS 402) [Ref. 3] and the Specification for Masonry Structures (TMS 602) [Ref. 11]. TMS 402 contains 
+both prescriptive requirements and alternative design requirements for anchored masonry veneer. To determine 
+code provisions for a building in a specific area, the local building code authority should be consulted to confirm 
+the adopted building code and to identify any local code provisions that supplement or supersede portions of the 
+adopted model building code.
+This Technical Note is based on the 2016 edition of TMS 402. Depending on the edition, TMS 402 uses the terms 
+“anchor” or “veneer tie” to describe a connector that attaches the brick veneer to the structural backing. For the 
+purposes of this Technical Note, the term “veneer tie” is used. 
+System Behavior 
+An anchored brick veneer is a single wythe of brick secured to and supported laterally by the backing wall through 
+veneer ties and supported vertically by a foundation, shelf angle or other structural element. The veneer transfers 
+Figure 1
+Brick Veneer/Cold-Formed Steel Framing
+
+[[p4]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 4 of 20
+out-of-plane load directly to the backing through the 
+veneer tie system and is not considered to add load-
+resisting capacity to the wall system. Historically, brick 
+veneer was paired with a stiff backing, comparable to 
+or greater than the stiffness of the brick. However, brick 
+veneer is substantially greater in stiffness than a cold-
+formed steel frame backing, resulting in more complex 
+load-sharing behavior [Ref. 2]. 
+Initially, the brick veneer carries most of the out-of-
+plane load. However, as the wall assembly deflects, the 
+flexural tensile stresses that develop within the veneer 
+will exceed the tensile capacity of the mortar joints 
+(modulus of rupture) and several horizontal cracks will 
+typically form, beginning near mid-height of the veneer 
+panel, and then near the middle of the two resulting 
+panels and so forth. This flexural cracking occurs at 
+loads significantly less than those used for design or 
+evaluation of serviceability. Once these cracks form, the 
+load redistributes between the veneer and the backing 
+such that the cold-formed steel framing carries most of 
+the out-of-plane load. Therefore, when designing the 
+wall assembly, the cold-formed steel framing should be 
+designed to carry the full design load perpendicular to 
+the face of the wall, and load sharing with the veneer 
+should not be assumed. 
+This complexity of load sharing also applies to veneer 
+ties. The load that is transferred through each veneer tie depends on many factors, including but not limited to tie 
+stiffness, mechanical “play” within the tie assembly, CFSF stiffness, and the location of tie relative to the span of 
+the backing or veneer. While veneer ties are generally assumed to be loaded uniformly based on tributary area, the 
+tie forces in a brick veneer/cold-formed steel framed wall assembly are nonuniform. Prior to cracking, veneer ties 
+carrying the highest load will be located near the top of the wall section, as shown in Figure 2. Frictional forces at the 
+support for the veneer also resist a portion of the load. Once the veneer cracks, the ties closest to the crack become 
+the most heavily loaded and the forces on other ties will be reduced. The prescriptive provisions for veneer ties in 
+TMS 402 accommodate this nonuniform loading of the ties. 
+Cold-Formed Steel Framing Deflection Criteria
+Anchored brick veneer is designed to transfer out-of-plane lateral load through the veneer ties (anchors) to the 
+backing. Because the veneer and the backing are tied together, the deflection of the backing is reflected in the 
+veneer. Excessive deflection results in the development of cracking in the veneer; therefore, limiting the deflection 
+of the backing as part of the design process is a common method used to control the amount of cracking in the 
+veneer. 
+Historically, BIA has recommended a uniformly applied strict deflection limit for the design of CFSF acting as a 
+backing for anchored brick veneer. Initially, the basis for this more conservative recommendation was intended 
+to compensate for the lack of available research on the wall assembly and the inconsistent performance of the 
+assembly in the field [Ref. 6]. The focus was primarily to limit the width of any cracks that developed in the brick 
+veneer in an effort to limit moisture intrusion, even though the system is a drained assembly. 
+Over time, more research, analysis and field surveys have been conducted. The insights gained from these activities 
+resulted in developing more robust detailing, improved materials and better installation methods for the components 
+and the overall wall assembly. In addition, the building code established and implemented more stringent 
+requirements for water-resistive barriers, air barriers and vapor retarders in general. As a result, the need for a strict 
+deflection limit recommendation to control moisture intrusion into the drainage space for this wall assembly has 
+significantly diminished [Ref. 5]. 
+Figure 2
+Veneer Tie Load Distribution
+
+[[p5]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 5 of 20
+In light of the increased understanding and improved detailing of the assembly, it is possible to allow more deflection 
+in many buildings to better match their intended level of performance. For common building types that are designed 
+to provide a level of performance consistent with a code-compliant design, such as general office, industrial or 
+residential buildings, BIA recommends the use of a design deflection of L/360 under serviceability loads. For 
+buildings that are designed to provide a level of performance above the minimum code requirements, such as 
+monumental, public, religious and institutional buildings, the previous BIA recommendation for a deflection limit of 
+L/600 under serviceability loads is still recommended. Wind loads, as noted in the IBC requirements for serviceability, 
+are recommended to be either 0.42 times the component and cladding loads or directly calculated using the 10-year 
+mean return interval wind speed. 
+Influence of Ties. Generally, the influence of brick ties has been ignored when determining deflections; however, it 
+is recommended that this now be considered. Brick tie stiffness contributes significantly to load transfer. Adjustable 
+ties will deform under load and have mechanical play between parts that must be engaged before load transfer 
+can occur. The tie deformation and mechanical play create increased deflection in the veneer that is not present 
+in the CFSF. Per code, adjustable ties have a maximum mechanical play dimension of 1⁄16 in. (1.6 mm). It is also 
+recommended that adjustable ties deform no more than 0.05 in. (1.2 mm) when tested at an axial load of 100 lb 
+(45.35 kg). For the purposes of calculating the actual deflection of the veneer to account for the influence of the 
+veneer ties, it is recommended to use one-half of the maximum mechanical play dimension and the deformation 
+of the specified veneer tie added to the deflection of the cold-formed steel framing, following the principles of 
+mechanics in modeling.
+Steel Framing Design Recommendations
+Cold-formed steel framing must be designed to provide adequate out-of-plane support for all loads imposed on the 
+wall system. Framing members surrounding all openings in the veneer should be designed with loads based on the 
+tributary area of the opening (windows and framing must be anchored only to the CFSF). Further criteria for load-
+bearing framing include providing adequate bearing capacity for the gravity loads. The flanges of the CFSF members 
+must be laterally braced to resist compression in bending. This can be accomplished by fastening sheathing or board 
+materials, such as water-resistive gypsum sheathing, plywood or cement board, to each side of the CFSF member, 
+but this should not be assumed to contribute to increased flexural capacity or stiffness through composite action. In 
+general, rigid board insulation does not provide the necessary bracing for CFSF. Alternatively, if sheathing or board 
+materials are installed only on the exterior side of the CFSF, blocking or bridging in the framing cavity combined 
+with in-plane bracing (straps) may also be used to restrain its rotation and/or lateral displacement. However, it is 
+suggested to provide sheathing on both sides, in addition to any engineered bracing, to help support the water-
+resistive barrier and any interior finishes. The design of the bracing should follow the appropriate principles of 
+mechanics, codes and technical literature [Ref. 10].
+Seismic and Wind Requirements
+The following requirements from TMS 402 apply to all types of anchored veneer, not exclusively those with a backing 
+of cold-formed steel framing.
+Seismic Requirements. In areas of increased risk of seismic activity, additional detailing must be incorporated for 
+brick veneer. The following prescriptive requirements for anchored brick veneer are included in TMS 402. Refer to 
+local building codes for additional seismic provisions. 
+The veneer chapter of TMS 402 addresses seismic provisions for anchored masonry veneer starting in Seismic 
+Design Category (SDC) C and becoming increasingly more stringent as the seismic risk increases. TMS 402 
+requires the sides and the top of the anchored veneer in SDC C and above to be isolated from the structure so that 
+seismic forces resisted by the structure are not imparted on the veneer. In SDC D and above, TMS 402 reduces the 
+maximum allowable wall area tributary to each anchor. For SDC E and F, the weight of the anchored veneer at each 
+story is to be independently supported separate from the weight of the veneer of adjacent stories [Ref. 3].
+Wind Requirements. In locations where the wind velocity pressure (qz) exceeds 40 psf (1.92 kPa) but does not 
+exceed 55 psf (2.63 kPa) and the building’s mean roof height is not greater than 60 ft (18.3 m), the permissible wall 
+area supported by each anchor is required to be reduced, and the spacing between ties at perimeter openings must 
+
+[[p6]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 6 of 20
+be reduced. If the mean roof height exceeds 60 ft (18.3 m) within this range of velocity pressures, the veneer must 
+be engineered by a licensed design professional using rational design following the principles of mechanics. In all 
+cases where the wind velocity pressure exceeds 55 psf (2.63 kPa), the veneer must be engineered by a licensed 
+design professional using rational design [Ref. 3].
+MATERIALS
+Brick 
+Brick are usually selected on the basis of their appearance, which includes color, texture and size. Selected brick 
+units should conform to the applicable ASTM standard [Ref. 1]: 
+•	
+ASTM C216, Standard Specification for Facing Brick (Solid Masonry Units Made from Clay or Shale) 
+•	
+ASTM C652, Standard Specification for Hollow Brick (Hollow Masonry Units Made From Clay or Shale)
+•	
+ASTM C1405, Standard Specification for Glazed Brick (Single Fired, Brick Units)
+•	
+ASTM C126, Specification for Ceramic Glazed Structural Clay Facing Tile, Facing Brick, and Solid 
+Masonry Units. In the case of glazed brick specified per ASTM C126, it is recommended to also specify 
+a material standard such as C216 or C652 for the underlying brick body. 
+For further information on brick material specifications, see the Technical Note 9 Series. 
+Mortar 
+Mortar plays an important role in the flexural strength of a brick veneer wythe. Out-of-plane strength tests of full-
+scale walls indicate that the bond between mortar and brick units is the most important single factor affecting wall 
+strength when resisting horizontal joint cracking. Mortar must conform to ASTM C270, Specification for Mortar for 
+Unit Masonry [Ref. 1] The designer should select the mortar with the lowest compressive strength that is compatible 
+with the project requirements. The compatibility between a particular brick and mortar should be examined when 
+determining mortar Type. Type N mortar is suitable for most veneer brickwork. Type S mortar is recommended 
+where a higher degree of flexural resistance is required. In locations below grade, Type S mortar should be used. 
+Admixtures and additives for workability are not recommended because they can potentially weaken the mortar. For 
+more information, refer to the Technical Notes 8 Series.
+Cold-Formed Steel Framing 
+Cold-formed steel studs and tracks should have a minimum nominal thickness of 0.043 in. (18 gauge) (1.1 mm) to 
+provide sufficient thickness to engage the threads of the screws. Studs and tracks should have a protective coating 
+conforming to one of the following ASTM standards [Ref. 1]: 
+•	
+ASTM A653/A653M, Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-Iron 
+Alloy-Coated (Galvannealed) by the Hot-Dip Process with a minimum G60/Z180 or A60/ZF180 coating 
+designation, respectively; or 
+•	
+ASTM A875/A875M, Specification for Steel Sheet, Zinc-5% Aluminum Alloy-Coated by the Hot-Dip 
+Process with a minimum GF30/ZGF90 coating designation. 
+For further information on the specification of cold-formed steel framing, refer to the North American Standard for 
+Cold-Formed Steel Structural Framing (AISI S240) [Ref. 10]. For conditions of high humidity (indoor pools, laundries, 
+kitchens, etc.) or near coastal environments, consider increasing the minimum galvanization to G90 or better.
+Sheathing 
+Exterior-grade sheathing or insulated sheathing material should be installed on the exterior side of the CFSF. The 
+sheathing should be one of the following: 
+•	
+Exterior grade glass fiber mat-faced gypsum sheathing conforming to ASTM C1177/C1177M, Standard 
+Specification for Glass Mat Gypsum Substrate for Use as Sheathing [Ref. 1]; 
+•	
+Cement board conforming to ASTM C1325, Standard Specification for Fiber-Mat Reinforced 
+Cementitious Backer Units [Ref. 1] Type A; or
+
+[[p7]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 7 of 20
+•	
+Closed-cell insulating rigid foam conforming to ASTM C578, Standard Specification for Rigid, Cellular 
+Polystyrene Thermal Insulation, or ASTM C1289, Standard Specification for Faced Rigid Cellular 
+Polyisocyanurate Thermal Insulation Board [Ref. 1]. 
+The above sheathing types should be no less than ½ in. (12.7 mm) in thickness. If sheathing is used to laterally 
+brace the CFSF members, it should be rigid enough to provide the required stiffness, which cannot be achieved 
+by some insulation panels. Additional sheathing products include magnesium oxide panels and proprietary panels. 
+Typically, proprietary panels combine sheathing and insulation into a single unit and are referred to as “structural 
+insulating sheathing.” These products comply with code requirements through International Code Council Evaluation 
+Service Report (ICC-ESR). 
+In the majority of cases, the sheathing serves as the substrate for water-resistive barriers, air barriers and vapor 
+retarders, where required. Some proprietary sheathing products have integral membranes or coatings that 
+function as water-resistive barriers and air barriers when seams and penetrations are detailed per manufacturer 
+requirements. Careful detailing at the top of walls; at transitions to other building envelope elements; and at window, 
+door and louver openings is needed to provide continuity to achieve a watertight and airtight condition. Exterior 
+sheathing should be suitably fastened with corrosion-resistant screws to the underlying cold-formed steel framing. 
+Proprietary panels should be fastened in accordance with manufacturer’s requirements.
+Screws 
+Corrosion-resistant screws with a minimum nominal shank diameter of 0.190 in. (4.8 mm) are required to attach 
+veneer ties to CFSF members. A minimum #10 self-tapping screw is recommended. Screws should conform to 
+ASTM C1513, Standard Specification for Steel Tapping Screws for Cold-Formed Steel Framing Connections 
+[Ref. 1] or qualify through an ICC-ESR. Screws used to attach exterior sheathing and veneer ties can be either 
+coated carbon steel or stainless steel. Carbon steel screws should have a noncorrosive coating of zinc, polymer 
+or composite zinc-polymer. Zinc-plated screws should be either mechanically plated according to ASTM B695, 
+Standard Specification for Coatings of Zinc Mechanically Deposited on Iron and Steel, or electroplated in accordance 
+with ASTM B633, Standard Specification for Electrodeposited Coatings of Zinc on Iron and Steel [Ref. 1]. Polymer-
+coated screws do not have the self-healing properties of zinc; however, they can offer acceptable long-term 
+protection. A composite zinc-polymer coating offers protection superior to either coating alone. Stainless steel screws 
+may be acceptable even though a galvanic potential exists between stainless steel and carbon steel. This is possible 
+because of an area-relationship principle where the surface area of the CFSF is much larger than that of the screw, 
+which results in a decreased corrosion potential. Copper-coated screws are not recommended since they can react 
+galvanically with CFSF having zinc coatings. 
+Screws should be bimetallic, consisting of a hardened steel drill tip and a more ductile steel shaft, to avoid potential 
+performance issues associated with hardened steel. It is critical that a minimum of three threads beyond the drill tip 
+section be exposed on the inside face of the CFSF member to be sure that the ductile steel portion of the screw is 
+adequately engaged to connect the components. 
+To assist in water penetration resistance, screws incorporating an integral EPDM or neoprene sealing washer 
+under the screw head may be considered. Flexible washers may reduce the shear strength of the sheathing panel; 
+therefore, their use should be carefully considered when the sheathing is used in a shear wall or diaphragm. Placing 
+sealant over the screw heads may also be an option. There may also be specific requirements for detailing around 
+screw penetrations from the manufacturer of the water-resistive barrier and/or air barrier. Due to the area-relationship 
+principle mentioned above, when stainless steel screws are used with galvanized carbon steel ties/anchors, sealing 
+washers are highly recommended.
+Water-Resistive Barriers, Air Barriers and Vapor Retarders
+Resistance to water and air ingress is more critical for BV/CFSF wall assemblies than other wall assemblies. Proper 
+detailing of the moisture and air control layers is critical, such as sealing penetrations around veneer ties. Moisture 
+and air control layers consist of water-resistive barriers, air barriers and vapor retarders. All three of these products 
+perform different functions. A water-resistive barrier (WRB), as defined by the IBC, is a material behind an exterior 
+wall covering that is intended to resist liquid water that has penetrated behind the exterior wall covering from further 
+intruding into the exterior wall assembly. Air barriers restrict or prevent the passage of air through the wall assembly, 
+
+[[p8]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 8 of 20
+which prevents moisture-laden air from reaching areas of the wall assembly intended to remain dry. Vapor retarders 
+limit water vapor diffusion from passing through portions of the wall assembly where moisture can condense. Water-
+resistive barriers and air barriers are required per code in nearly all cases. Vapor retarders are required by code in 
+some locations but are otherwise optional. In cases where two or more of these are required in the wall assembly, 
+there are single materials capable of serving multiple functions that can be considered. 
+A water-resistive barrier should be located between the air space and the sheathing; between the continuous 
+insulation and the sheathing; or, less commonly, on the outboard face of continuous insulation. A WRB should be 
+detailed to keep out any water that finds its way across the air space via ties, mortar bridging or splashing. Where 
+continuous insulation or water-resistive sheathings with integral membranes are used as the water-resistive barrier, 
+they must be completely sealed with compatible tape or sealant to perform as a WRB. The WRB must be fully 
+integrated with the flashing to direct moisture out of the assembly. 
+Continuity. Care should be taken to install WRBs; air barriers; and, where required, vapor retarders in order to 
+create a continuous layer, without gaps or untreated penetrations. Any damage to these materials must be corrected 
+prior to installation of brickwork or the systems will not function as intended. 
+For further discussion on air barriers, water-resistive barriers and vapor retarders, refer to the Technical Note 7 
+Series. In-depth discussion of air barriers, water-resistive barriers and vapor retarders, including their recommended 
+placement, is outside the scope of the Technical Notes. There are many building science resources available for 
+reference [see Ref. 4]. For buildings with unusual wall assemblies or functions, consultation with building envelope 
+professionals is recommended. 
+Continuous Insulation 
+Most wall assemblies using CFSF include continuous insulation within the cavity to improve their thermal resistance. 
+In some cases, all the required insulation can be placed in the cavity rather than in both the cavity and between 
+the CFSF members. Although thermal resistance is the most important characteristic for insulation, other properties 
+for consideration include water absorption, combustibility, density, insect resistance and ease of installation. 
+Some insulation types degrade over time, reducing their heat flow resistance, and others will change their thermal 
+resistance to heat flow properties with temperature. Materials used for continuous insulation should conform to the 
+following requirements:
+1.	 Must be durable and resist rot due to moisture or dryness. Must be intended for use in the “wet zone” of 
+the wall assembly with no degradation or loss of insulating value.
+2.	 Must meet the building code requirements for flame propagation within the assembly.
+3.	 Must not serve as a food source for vermin or biological growth.
+4.	 Must permit the air space to perform its function by allowing moisture to drain without wicking to the 
+interior.
+Typical continuous insulation types used in brick masonry walls include extruded polystyrene (XPS), 
+polyisocyanurate, mineral wool and spray polyurethane foam (SPF). Each of these types, if properly used, will result 
+in a more thermally efficient wall system but require individual detailing. SPF will be adhered to the backing. Mineral 
+wool batts will be held in place with mechanical fasteners. Rigid boards can be adhered to or mechanically fastened 
+to the backing. Special clips can be added to veneer anchors to secure the insulation. Refer to the Technical Notes 4 
+Series as well as Technical Note 47 for further information regarding insulation and energy performance of brick wall 
+assemblies.
+Veneer Ties/Anchors 
+For the purposes of this Technical Note, the term “veneer tie,” or “tie,” is used to describe a connector that attaches 
+the veneer to the backing. Older versions of TMS 402 use the term “anchor” to describe these connectors. 
+Care must be taken to connect the masonry veneer to the backing in a manner that will permit each to move freely, 
+in-plane, relative to the other. Ties that connect the veneer to the backing must provide out-of-plane restraint, 
+resisting tension and compression, but allowing vertical in-plane differential movement between the frame and the 
+
+[[p9]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 9 of 20
+veneer. Ties to be used with CFSF must meet the requirements listed in Table 1 and TMS 402. Examples of such 
+ties are shown in Figure 3. 
+Per TMS 402, only adjustable ties are permitted to be used with cold-formed steel framing as a backing. Wire veneer 
+ties with formed drips are not permitted by code because of their reduced load capacity. Corrugated sheet-metal ties 
+are also not permitted for BV/CFSF walls, as they may not fully engage the CFSF member upon initial loading and 
+typically do not have sufficient compressive strength capacity for the typical cavity widths used in this wall assembly. 
+See Table 1 for adjustable tie/anchor requirements for this backing type.
+TABLE 1
+Adjustable Tie/Anchor Requirements for Brick Veneer with a Backing of Cold-Formed Steel Framing¹
+Cavity 
+Width, 
+in. (mm)
+Minimum 
+Wire Size
+Maximum 
+Wall Area per 
+Tie, ft² (m²)
+Backing Attachment Requirements
+Pintle or Adjustable Part 
+Requirements
+≤ 4⅝ (117)
+W1.7 
+(MW11)
+2.67 (0.25)
+Eye: Min. wire W1.7 (MW11)
+Plate: Min. 0.06 in. (1.5 mm) thick and 
+⅞ in. (22.2 mm) wide
+Wire: Min. W2.8 (MW18)
+Pintle legs: 1 min.
+Offset: Max. 1¼ in. (31.8 mm)
+> 4⅝ (117)
+and 
+≤ 6⅝ (168)
+W2.8 
+(MW18)
+2.67 (0.25)
+Two eyes: Min. wire W2.8 (MW18)
+Barrel: Min. ¼ in. (6.4 mm) outside 
+diameter
+Plate/prong: Min. 0.074 in. (1.88 mm) 
+thick and 1¼ in. (31.8 mm) wide
+Wire: Min. W2.8 (MW18)
+Pintle legs: 2 min.
+Offset: Max. 1¼ in. (31.8 mm)
+Distance from inside face of brick 
+to end of adjustable part: Max. 2 in. 
+(51 mm)
+> 6⅝ (168)
+Design ties using provisions of TMS 402, “Alternative design of anchored masonry veneer.” 
+1. Tie requirements shown are for brick veneer with a backing of cold-formed steel framing per 2016 TMS 402.
+All ties are required to be embedded at least 1½ in. (38 mm) into the brick veneer bed joints with a minimum of ⅝ in. 
+(15.9 mm) mortar cover to the outside face of the wall. In addition, ties are required to have a maximum clearance 
+between connecting parts of the tie of 1⁄16 in. (1.6 mm) and should be detailed to prevent disengagement. When the 
+distance between the inside face of the brick veneer and the steel framing exceeds 4⅝ in., then the adjustable part 
+of the anchor should consist of two or more wires of minimum wire size W2.8 (MW18) and the distance from the 
+inside face of the brick veneer to the end of the adjustable part of the anchor should not exceed 2 in. (51 mm), as 
+shown in Figure 4. 
+Adjustable ties are required to provide the capacity to transfer loads applied to a maximum of 2.67 ft² (0.25 m²) of 
+wall area. TMS 402 limits spacing of ties to a maximum of 25 in. (635 mm) o.c. vertically and a maximum of 32 in. 
+Figure 3
+Adjustable Veneer Tie Assemblies
+Figure 4
+Adjustable Veneer Tie for Cavity Widths 
+That Exceed 4 in.
+
+[[p10]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 10 of 20
+(813 mm) o.c. horizontally. Around the perimeter of openings with any dimension larger than 16 in. (406 mm), 
+additional ties are required to be spaced at a maximum of 3 ft (914 mm) o.c. and placed within 12 in. (305 mm) of 
+the opening.
+Previous editions of the building code required veneer ties in Seismic Design Categories E and F to be mechanically 
+fastened to horizontal reinforcement in the brick veneer. However, shake-table research [Ref. 9] showed that this 
+requirement was detrimental to the veneer performance, resulting in removal of this requirement from the code. 
+Ties are required to be made of carbon steel or stainless steel. Carbon steel ties are required to conform to 
+ASTM A1064/A1064M, Standard Specification for Carbon-Steel Wire and Welded Wire Reinforcement, Plain and 
+Deformed, for Concrete [Ref. 1]. Stainless steel ties are required to conform to ASTM A580/A580M, Standard 
+Specification for Stainless Steel Wire [Ref. 1]. Ties made of carbon steel are required to be hot-dipped galvanized 
+in accordance with Class B-2 of ASTM A153/A153M, Standard Specification for Zinc Coating (Hot-Dip) on Iron and 
+Steel Hardware [Ref. 1].
+Veneer ties transfer load from the brick veneer to either the CFSF or the structural frame of the building. Therefore, 
+they must be securely attached through the sheathing directly to the framing, not to the sheathing alone. Most 
+veneer ties are intended to be fastened to the flange of the CFSF member. However, in some cases, it is preferred 
+to use veneer ties that are fastened to the member web. These veneer tie types allow for additional screw fasteners 
+as needed and load the screws in shear instead of tension, which can provide additional load capacity.  
+Prongs at each end of an adjustable tie base, as shown in Figure 3, should be considered with non-rigid sheathing to 
+prevent compression of the insulation or sheathing and provide contact between the tie base and the CFSF flange to 
+ensure anchorage in the event of long-term deterioration of sheathing or insulation. Installing a self-adhered modified 
+asphalt or EPDM membrane behind the backing plate of the veneer tie is recommended to provide additional water 
+resistance. Depending on the material used for the water-resistive barrier and/or air barrier, fluid-applied flashings 
+may be used around veneer tie penetrations for additional moisture penetration resistance. 
+For projects where reduction of thermal conductivity is a requirement, stainless steel veneer ties are an option in 
+lieu of the typical galvanized carbon veneer ties. Many veneer tie manufacturers also manufacture veneer ties that 
+incorporate nonconductive components or coatings to reduce the transfer of heat. 
+For more information about veneer ties, refer to Technical Note 44B. 
+Horizontal Joint Reinforcement 
+Although not usually required for brick veneer construction, horizontal joint reinforcement, also called “bed joint 
+reinforcement,” can be incorporated into brick veneer walls to alleviate cracking from high internal stress, to have the 
+brick serve as a reinforced lintel, or laid in bed joints separating brick from other materials. Per TMS 402, horizontal 
+joint reinforcement is necessary for veneer laid in a pattern other than running bond. Running bond is defined as 
+the placement of units so that head joints in successive courses are horizontally offset by at least one-quarter of 
+the unit length. It may be either single or double wire joint reinforcement and must have at least ⅝ in. (15.9 mm) 
+mortar cover. Horizontal joint reinforcement can also be used above and below the corners of masonry openings 
+for added strength. The reinforcing wire diameter must not exceed one half the mortar joint height. Previous code 
+requirements mandated the use of horizontal joint reinforcing paired with anchors in Seismic Design Categories E 
+and F. Shake-table research [Ref. 9] has shown that these requirements are not necessary or useful, and as a result, 
+the requirements have been removed from the codes. 
+Sealant Joints
+Sealant joints prevent water penetration at veneer expansion joints and perimeters of openings. These joints typically 
+consist of a compressible foam backer rod, recessed and covered by elastomeric sealant. Sealant joints should be 
+free of mortar for the entire thickness of the brick veneer. If desired, a compressible pad extending the depth of the 
+veneer may be included behind the backer rod but is not required.
+The perimeter of all exterior window frames, doorframes and sleeves should be closed with a sealant joint. This 
+joint should be between ¼ and ½ in. (6.4 and 12.7 mm) wide, depending on the amount of expected differential 
+movement and the movement capacity of the sealant. Wider joints will accommodate more movement than narrow 
+
+[[p11]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 11 of 20
+joints. Fillet joints are not generally recommended, but if installed, a quarter-round backer rod or bond break tape 
+should be used to prevent three-sided adhesion. 
+Sealants should be selected for their durability, extensibility, compressibility and compatibility with other materials. 
+A sealant should be able to maintain these qualities under the temperature extremes of the climate in which the 
+building is located. Sealant materials should be selected to comply with ASTM C920, Standard Specification for 
+Elastomeric Joint Sealants [Ref. 1]. Specific sealants recommended by manufacturers for brickwork include silicone, 
+polyurethane and polysulfide sealants. A sealant primer may be required before applying some sealants on certain 
+brick to mitigate the potential for staining. For further information on sealants, refer to ASTM C1193, Standard Guide 
+for Use of Joint Sealants [Ref. 1], and Technical Notes 7A and 18A.
+DESIGN AND DETAILING
+Cavity and Air Space
+The air space or drainage space within the cavity provides a means of egress for water that has penetrated the 
+brick veneer and permits air flow for drying. The IBC and TMS 402 require a specified 1 in. (25.4 mm) minimum air 
+space. However, the air space is recommended to be a minimum of 2 in. (51 mm) in order to minimize the possibility 
+of mortar bridging across the air space. When continuous insulation is present within the cavity, provide the same 
+minimum dimension of 1 in. (25.4 mm) between the inside face of the brick and the exterior face of the insulation. 
+When standard veneer ties made of W1.7 (MW11) wire are used, the TMS 402 prescriptive provisions allow a cavity 
+width of no more than 4⅝ in. (117 mm) between the inside face of the brick veneer and the exterior face of the 
+CFSF. When stronger veneer ties made of W2.8 (MW18) wire are used, the prescriptive provisions allow for a cavity 
+width up to 6⅝ in. (168 mm). Refer to Table 1 for more information about the veneer tie requirements. When the 
+cavity width exceeds 6⅝ in. (168 mm), the TMS 402 alternative design provisions require that a registered design 
+professional must design the veneer ties. The alternative design provisions also apply when adjustable ties are used 
+in cavities with air spaces larger than 2 in. (51 mm).
+To the extent possible, the air space must be kept clear of mortar and mortar droppings to achieve adequate 
+drainage. Mortar collection devices may be specified at the bottom of air spaces immediately above flashing to 
+prevent mortar from blocking the weeps. However, the use of mortar collection devices should not preclude good 
+workmanship. Refer to the “Weeps and Drainage” section of this Technical Note. 
+When continuous insulation is placed within the cavity, it must be attached to the backing by mechanical or adhesive 
+means to prevent it from shifting and blocking the air space. In some cases, an integral head or a separate plastic 
+piece that slips over the projecting legs of the veneer tie can secure the insulation to the backing.
+Through-Wall Flashing
+Through-wall flashing is an impervious material installed in a drainage wall system to direct moisture that has 
+penetrated the brick veneer back to the exterior. In BV/CFSF wall assemblies, flashing is required at the base of 
+the wall, above and below all wall openings, at shelf angles and loose lintels, at the tops of walls, beneath copings, 
+and at any other discontinuities or interruptions in the cavity. Flashing should extend to the face of the exterior brick 
+wythe at a minimum. However, extending the flashing beyond the face of the brick and adding a bend to form a drip 
+is preferred. Extend flashing vertically up the backing to 8 in. (203 mm) minimum height. Unless otherwise required 
+by the WRB or air barrier manufacturer, fasten the top of flexible flashing with a termination bar. Where flashing is 
+not continuous, the ends of the flashing should be turned up a minimum of 1 in. (25.4 mm) to form end dams.
+Aspects of flashing unique to brick veneer with cold-formed steel framed backing include the following:
+•	
+Where suspended shelf angles are used, their supports are typically spaced at approximately 3 to 
+4 ft o.c. Infill of cold-formed steel framing with sheathing should be installed between these supports in 
+order to properly support the vertical leg of the flashing, in addition to achieving continuity for the WRB 
+and air barrier when present (see Figure 7). 
+•	
+It is not recommended to install the vertical leg of flashing behind the sheathing, even when the 
+sheathing has an integral water-resistive barrier. Although this is consistent with proper shingling 
+practice, it increases the risk of moisture wicking into the sheathing, which can lead to deterioration. Use 
+
+[[p12]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 12 of 20
+of a properly sealed termination bar on the exterior face of the sheathing, at the top of the flashing, is a 
+better choice in this situation. 
+•	
+When taped and/or sealed, some types of exterior insulation may serve as the water-resistive barrier. 
+In these cases, the vertical leg of the through-wall flashing should be installed behind the plane of the 
+insulation but in front of the sheathing. 
+•	
+When spray foam insulation is used, the portion of the flashing that will be concealed must be installed 
+before the insulation. An optional installation method involves the use of premanufactured continuous 
+brackets with a receiver slot that allows for flashing membranes to be installed after the spray foam. 
+For more information regarding proper flashing detailing, material selection and installation, refer to the Technical 
+Note 7 Series.
+Weeps and Drainage 
+Weeps direct moisture collected on the flashing to the exterior of the wall assembly. Weeps are required to be 
+placed immediately above flashing, in the same bed joint, at all locations. If weeps are installed one to two masonry 
+courses above the flashing or placed on top of bed joint mortar, they will not perform their intended function. The 
+IBC and TMS 402 require weeps to be placed no more than every 33 in. (838 mm) o.c. An open head joint is the 
+preferred type of weep because it maximizes drainage and allows for air flow in the cavity. Open head joint weeps 
+should be at least 2 in. (51 mm) high and are recommended to be spaced no more than 24 in. (610 mm) o.c. Metal 
+or plastic screens, channels or cell vents may be placed in the open head joint to discourage insect entry and to 
+reduce the risk of weeps being closed during future maintenance work. Other types of weeps are available but 
+should have closer spacing. See the Technical Notes 7 Series for further discussion on weep types other than the 
+open head joint. 
+Vents. Some designers also incorporate vents to provide increased air flow in the cavity. Vents are typically placed 
+within the uppermost three courses of brick at each location where the vertical air space is interrupted. These vents 
+consist of open head joints with optional inserts, like a weep, and are typically spaced similarly. At shelf angles 
+and other flashing locations where weeps and vents will be in close proximity, it is recommended to stagger the 
+placement of weeps and vents horizontally so that moisture exiting the wall through a weep does not reenter through 
+a vent in the course below.  
+Drainage Materials and Mortar Collection Devices. Good workmanship during construction is the primary method 
+of creating a functional drainage space; however, mortar collection devices or full-height drainage media can be 
+installed in the air space to help prevent obstruction by mortar. Use of drainage materials may not eliminate the risk 
+of mortar bridging and may result in simply moving the mortar bridge higher within the air space. Therefore, many 
+manufacturers require that the top edge of the vertical leg of the flashing be installed a minimum of 6 to 8 in. (152 
+to 203 mm) above the top surface of the collection device to provide adequate protection against moisture ingress 
+when mortar droppings accumulate. While it is important to keep the air space as free of mortar as possible, some 
+mortar is permitted to be present per the building code, provided that it does not impact the ability of the air space 
+to provide drainage. For further discussion on weeps and mortar collection devices, refer to the Technical Notes 7 
+Series.
+Base of Wall 
+Support. Foundations of concrete masonry or concrete are generally used to support BV/CFSF walls. It is 
+recommended that the weight (gravity load) of the veneer be supported on concrete or masonry foundations or other 
+noncombustible structural supports, such as attached steel angles. A typical detail at the base of a wall is shown in 
+Figure 5.
+Flashing. Base flashing is required to be installed above the foundation to allow the drainage system to function 
+properly, but it must not be more than 10 in. (254 mm) above the finished grade level. Base flashing is required to 
+extend to the exterior face of the veneer at a minimum to preclude any moisture from migrating by capillary action 
+up through the brickwork. Brickwork below the base flashing should be detailed to completely fill the cavity or air 
+space with grout or mortar to minimize water penetration. Veneer ties should be located within the grout-filled cavity 
+according to the same spacing as in the brick veneer above grade. 
+
+[[p13]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 13 of 20
+Cold-formed steel framing should be located a 
+minimum of 6 in. (152 mm) above grade and should 
+not be used below grade on exterior walls under any 
+circumstances. Brickwork should extend below grade 
+only when special detailing and construction provisions 
+are incorporated to minimize water penetration. Refer 
+to Technical Note 7 for more information related to 
+detailing of flashing and use of brick below grade. 
+Shelf Angles and Loose Lintels
+Veneer with a maximum height above its support of 
+30 ft (9.14 m), or 38 ft (11.58 m) with a gable can 
+be supported directly on a foundation wall, footing, 
+or noncombustible support without shelf angles. 
+Brick veneer taller than these heights is required to 
+be supported by shelf angles at each story unless 
+rationally designed. 
+Shelf angles provide continuous support for the 
+brickwork through connection to the primary building 
+structure, typically located near the floor line or at the 
+window head, as shown in Figure 6. Shelf angles are 
+occasionally referred to as relieving, ledge/ledger or 
+relief angles. In contrast, loose lintels are not attached 
+to the building structure and provide support by bearing 
+on the brickwork on each side of an opening. 
+Shelf angles and loose lintels are not 
+interchangeable. A shelf angle must carry the full 
+weight of brick masonry above, while a loose lintel is 
+typically permitted to carry a reduced load due to the 
+arching action of the supported brickwork, depending 
+on the brickwork orientation and the bond pattern. 
+Steel angles are most frequently used as both shelf 
+angles and loose lintels; however, loose lintels can 
+also consist of reinforced masonry, precast concrete 
+or stone. Brickwork must be supported over all 
+masonry openings unless the brick is self-supporting, 
+such as a structural arch. Loose lintels must bear a 
+minimum of 4 in. (102 mm) on brick on each side of 
+the opening. Loose lintel and shelf angle deflection 
+between support points must not exceed L/600, and 
+where applicable the total rotation of the toe of a 
+shelf angle or loose lintel must be less than 1⁄16 in. 
+(1.6 mm). 
+Steel used for shelf angles and loose lintels must 
+conform to the requirements in ASTM A36/A36M, 
+Standard Specification for Carbon Structural Steel 
+[Ref. 1]. All carbon steel angles should be primed and 
+coated to prevent corrosion. In harsher environmental 
+conditions, such as coastal regions, consider the use 
+of hot-dipped galvanized or stainless-steel angles. 
+Figure 6
+Shelf Angle with Concrete Frame
+Figure 5
+Section at Base of Wall
+
+[[p14]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 14 of 20
+Figure 8
+Shelf Angle with Stand-Off Attachment
+Miscellaneous metal fabrications may be used to suspend a shelf angle from the structural frame. Suspended 
+shelf angles must be braced to prevent out‑of-plane movement of the wall, as depicted in Figure 7. The structural 
+engineer for the project should design these fabrications and connections. It is preferred to support shelf angles from 
+the primary structure rather than the cold-formed steel framing. However, shelf angles potentially can be connected 
+to CFSF if engineered and approved by the cold-formed steel design engineer. 
+To allow for continuous insulation within the cavity, special detailing of shelf angles may be required. Standoff 
+shelf angles should be installed to allow full sections of continuous insulation to be placed in the cavity, as shown 
+in Figure 8. Standoff shelf angles can be designed by the structural engineer, by fabricating miscellaneous metal 
+brackets, or by using proprietary prefabricated standoff shelf angle brackets or other hardware. 
+For further information regarding the design of steel loose lintels and shelf angles, refer to Technical Note 31B.
+Head, Jamb and Sill Details 
+Openings in brick veneer walls should be carefully detailed to prevent water from entering the BV/CFSF wall 
+assembly. Provision should be made for differential movement between the brick veneer and the frame or backing. 
+Window frames, doorframes and opening sleeves must be attached to the backing, not the brick veneer. Window 
+and door flashing must be integrated with the water-resistive barrier to provide a continuous barrier to moisture 
+Figure 7
+Suspended Shelf Angle on Steel Frame with Bracing
+
+[[p15]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 15 of 20
+Figure 9
+Window Head Detail
+Figure 11
+Window Sill Detail
+Figure 10
+Window Jamb with Brick Closure Detail
+intrusion, as shown in Figure 9, Figure 10 and 
+Figure 11. Sills should be sloped to the outside for 
+drainage. Refer to the Technical Notes 7 Series for 
+further information.
+Expansion Joints 
+Brickwork will expand and contract continually during its 
+life, but it experiences an overall net expansion. Newly 
+fired brick undergoes irreversible volumetric change 
+after it exits the kiln. This volumetric change follows a 
+geometric curve, with the largest changes occurring 
+at time intervals nearest the firing process. For more 
+information about the volume changes in brickwork, 
+refer to Technical Note 18. 
+This expansion must be accommodated in the design 
+and construction of the wall system to deter cracking, 
+spalling and other potential brick masonry issues. 
+Accommodation of movement is accomplished through 
+the use of expansion joints, oriented both horizontally 
+and vertically, detailed into the brick veneer. An 
+expansion joint consists of an opening through the 
+brick wythe that is closed with sealant, backer rod and 
+optional compressible filler materials. 
+The size, spacing, placement and compressibility 
+of veneer expansion joints is critical to achieving 
+the proper performance of the veneer. Any portion 
+of veneer not able to resist induced stress should 
+be isolated by an expansion joint. No single 
+recommendation for the placement and spacing 
+of veneer expansion joints can be applicable to all 
+structures. The spacing and placement of vertical and 
+horizontal expansion joints must be determined on a 
+case-by-case basis. In addition, expansion joints must 
+be located and constructed to not impair the integrity 
+of the wall. For more information on recommended 
+placement locations and detailing for expansion joints, 
+refer to the Technical Notes 18 Series.
+Horizontal Expansion Joints. A horizontal expansion 
+joint is one that is oriented horizontally on the wall 
+and accommodates the movement of the brickwork 
+in the vertical direction. Typically, these occur below 
+shelf angles, which support the brick veneer above it. 
+Horizontal expansion joints also occur at transitions 
+between the top of brick veneer and other cladding 
+materials. 
+Vertical Expansion Joints. A vertical expansion 
+joint is one that is oriented vertically on the wall and 
+accommodates the movement of the brickwork in 
+the horizontal direction. Vertical expansion joints 
+should extend from the foundation to the top of the 
+brickwork without deviating from vertical. When this is 
+
+[[p16]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 16 of 20
+not possible, they can be terminated at horizontal expansion joints. Generally, the spacing of vertical expansion 
+joints should not exceed 25 ft (7.6 m) in walls without openings. For walls with multiple openings, the spacing 
+between expansion joints should not exceed 20 ft (6.1 m). Building corners should have a vertical expansion 
+joint located within 10 ft (3.05 m) of the corner. Be aware that buildings located in areas with higher Seismic 
+Design Categories may require placement of vertical expansion joints closer to or at building corners in order to 
+accommodate the large story drifts. 
+Parapet Walls 
+Parapets are exposed on three adjacent surfaces and consequently are potentially more vulnerable to water 
+penetration and condensation. Therefore, if used, the parapet must be properly designed, detailed, and constructed 
+to function as intended. It is strongly discouraged to use balloon or bypass framing (continuous vertical framing 
+outboard of the structure from the topmost floor to the top of the parapet) to construct CFSF parapets. Although 
+there can be a structural benefit to doing so, such a configuration creates difficulties in establishing and maintaining 
+continuity of, as applicable, the thermal insulation, air barrier and vapor retarder at the roof-to-wall interface. 
+When continuity cannot be achieved, air leakage and energy loss through the roof-to-wall interface can lead to 
+condensation. CFSF parapets that are mounted to the roof structure have been successfully installed and detailed. 
+Reinforced masonry has also been used successfully to construct parapets above BV/CFSF walls, as shown in 
+Figure 12. A gravel stop detail as shown in Figure 13 can be used instead of a parapet wall.
+Figure 13
+Gravel Stop Detail on Non-Parapet Wall
+Figure 12
+Reinforced Parapet Detail
+
+[[p17]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 17 of 20
+Condensation 
+Experience has shown that most water or moisture found between framing members in a BV/CFSF wall assembly 
+can be attributed to condensation. Condensation occurs at the point in the wall where the temperature is below the 
+dew point. If this point is within the cavity, then the condensation will find its way out of the wall via the air space/
+drainage space, flashing and weeps. This portion of the wall assembly is considered the “wet zone.” However, if 
+condensation occurs inboard of the WRB, within the sheathing or in the framing cavity, an area that is generally 
+considered the “dry zone,” then it may dampen or eventually saturate the backing materials; the batt insulation, 
+if present; and surrounding materials, which leads to microbial growth, rot of the sheathing and/or corrosion 
+problems.
+Continuity of the air barrier and the use of a vapor retarder impacts the potential for condensation. The placement 
+and properties of these materials must be carefully considered, as improper placement or incorrect material selection 
+can result in trapped moisture or poor performance. Consequently, it is recommended that a condensation analysis 
+be conducted to determine if the potential for condensation exists in a wall. If results indicate that it may occur 
+inboard of the WRB, then the wall design should be reevaluated and potentially modified. See Technical Note 47 for 
+further information.
+CONSTRUCTION 
+Construction requirements are found in model building codes and in referenced specifications. TMS 602 is invoked 
+by TMS 402. Project manuals prepared for specific buildings also contain construction requirements. 
+All materials at the job site should be stored off the ground and under adequate cover to prevent deterioration and 
+contamination. Brick should not be placed directly on the ground to preclude any potential staining from the earth 
+and to prevent absorption from wet ground of latent salts that can later manifest as efflorescence.
+A box or other measuring tool should be used for measuring sand when mortar is mixed by volume at the job site. 
+Only full bags of cement and lime should be added to the mixer unless accurate volumetric measurements are used. 
+In general, the mortar should be mixed with the maximum amount of water that produces a workable consistency. 
+Retempering of mortar by adding water is permitted as necessary to maintain proper consistency. Caution should be 
+exercised when retempering white or colored mortar to avoid significant color variations. Water content and stiffness 
+of mortar during tooling also affect color. Unless hot weather masonry provisions are in effect, all mortar should be 
+used within 2½ hours of mixing. See Technical Note 8B for further information on controls for mixing mortar.
+Brick that have an initial rate of absorption (suction) of more than 30 g/min • 30 in² (30 g/min • 194 cm²) should be 
+wetted and permitted to surface dry (also referred to as “saturated surface dry”) prior to laying. This will increase 
+the bond between the mortar and the brick by slowing the absorption of water from the mortar. For additional 
+information, refer to Technical Note 7B.
+TMS 602 contains requirements for hot- and cold-weather construction. Hot- or cold-weather protection is required 
+when temperatures are above 100 °F (37.8 °C), above 90 °F (32.2 °C) with wind speeds exceeding 8 mph (129 km/
+hr), or below 40 °F (4.4 °C). For more information about hot- and cold-weather construction, see Technical Note 1 
+and TMS 602. 
+Workmanship
+Prior to laying the first brick, the mason should confirm that the backing wall system has been installed to the 
+prescribed project tolerances and in conformance with the required construction requirements. Any and all 
+deviations from specified construction should be immediately brought to the attention of the general contractor and/
+or the owner’s representative. Best practice would suggest that all deviations be corrected prior to preceding with 
+installation of the brickwork.
+Lay out brickwork prior to placing in mortar, and adjust head joint width as needed to fill the space intended without 
+using units shorter than one-half the typical stretcher length.
+Care should be taken to completely fill all bed and head joints with mortar. Conversely, any location not intended 
+to receive mortar, such as air spaces, weeps and expansion joints, should be kept clean of mortar and mortar 
+droppings. Mortar joints should be properly tooled to enhance the water resistance of the wall by consolidating the 
+
+[[p18]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 18 of 20
+mortar. Joints should be tooled when thumbprint hard with a jointer tool slightly larger than the joint. Concave, “V” 
+or grapevine mortar joints are the most water-resistant since they do not provide a ledge for water to remain on the 
+brickwork.
+Coordination of trades is advised between the cold-formed steel framing, sheathing installation and masonry 
+subcontractors. This coordination is especially needed when the scope of the masonry subcontractor does not 
+include the installation of the water-resistive barrier or air barrier, which may need to be applied or detailed by others 
+after the installation of the veneer tie backing plates but before the brick are laid.
+Protection 
+Protection of unfinished walls is extremely important. The entry of rain or snow into brickwork in progress may 
+increase the drying time of the brickwork as well as the potential for efflorescence and distress in the finished wall. 
+Water-resistive coverings should be placed over the brickwork at the end of each workday and extend a minimum 
+of 2 ft down on both sides. Coverings may need to be weighted or clamped to the brickwork to hold it in place in 
+the event of high winds. Wind screens and enclosures may also be necessary in hot or cold weather. See Technical 
+Note 1 for more information.
+MAINTENANCE 
+Generally, brickwork that is properly designed, detailed and constructed using good workmanship will require very 
+little maintenance over time. However, the components of a brick veneer/cold-formed steel framed wall system 
+should be inspected periodically to ascertain performance and identify any potential problems. Ideally inspections 
+should be performed on a seasonal basis and on an annual basis at a minimum. Neglecting maintenance of certain 
+wall components may lead to deterioration of other elements in the wall system. For additional information regarding 
+maintenance, see Technical Note 46.
+SUMMARY 
+The brick veneer/cold-formed steel framed wall system is a viable construction option with high performance related 
+to weather protection and energy conservation when proper attention is given to design and detailing, material 
+specification, construction, and maintenance procedures.
+The information and suggestions contained in this Technical Note are based on the available data 
+and the combined experience of engineering staff and members of the Brick Industry Association. 
+The information contained herein must be used in conjunction with good technical judgment and a 
+basic understanding of the properties of brick masonry. Final decisions on the use of the information 
+contained in this Technical Note are not within the purview of the Brick Industry Association and 
+must rest with the project architect, engineer and owner.
+REFERENCES
+1.	 Annual Book of ASTM Standards, ASTM International, West Conshohocken, PA, 2024: 
+Volume 1.03
+A580/A580M	
+Standard Specification for Stainless Steel Wire
+Volume 1.04
+A36/A36M	
+Standard Specification for Carbon Structural Steel
+A1064/A1064M	 Standard Specification for Carbon-Steel Wire and Welded Wire Reinforcement, Plain 
+and Deformed, for Concrete
+Volume 1.06
+A153/A153M	
+Standard Specification for Zinc Coating (Hot-Dip) on Iron and Steel Hardware
+A653/A653M	
+Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-Iron Alloy-
+Coated (Galvannealed) by the Hot-Dip Process
+A875/A875M	
+Standard Specification for Steel Sheet, Zinc-5 % Aluminum Alloy-Coated by the Hot-Dip 
+Process
+
+[[p19]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 19 of 20
+Volume 2.05
+B633	
+Standard Specification for Electrodeposited Coatings of Zinc on Iron and Steel
+B695	
+Standard Specification for Coatings of Zinc Mechanically Deposited on Iron and Steel
+Volume 4.01
+C1177/C1177M	 Standard Specification for Glass Mat Gypsum Substrate for Use as Sheathing
+C1513	
+Standard Specification for Steel Tapping Screws for Cold-Formed Steel Framing 
+Connections
+Volume 4.05
+C126	
+Standard Specification for Ceramic Glazed Structural Clay Facing Tile, Facing Brick, 
+and Solid Masonry Units
+C216	
+Standard Specification for Facing Brick (Solid Masonry Units Made from Clay or Shale)
+C270	
+Standard Specification for Mortar for Unit Masonry
+C652	
+Standard Specification for Hollow Brick (Hollow Masonry Units Made from Clay or 
+Shale) 
+C1325	
+Standard Specification for Fiber-Mat Reinforced Cementitious Backer Units 
+C1405	
+Standard Specification for Glazed Brick (Single Fired, Brick Units) 
+Volume 4.06
+C578 	
+Standard Specification for Rigid, Cellular Polystyrene Thermal Insulation
+C1289 	
+Standard Specification for Faced Rigid Cellular Polyisocyanurate Thermal Insulation 
+Board
+C1363 	
+Standard Test Method for Thermal Performance of Building Materials and Envelope 
+Assemblies by Means of a Hot Box Apparatus
+Volume 4.07
+C920 	
+Standard Specification for Elastomeric Joint Sealants 
+C1193	
+Standard Guide for Use of Joint Sealants
+2.	 Arumala, Joseph O., and Brown, Russell H., Performance Evaluation of Brick Veneer with Steel Stud 
+Backup, College of Engineering, Clemson University, Clemson, South Carolina, 1982. 
+3.	 Building Code Requirements for Masonry Structures (TMS 402), The Masonry Society, Boulder, Colorado, 
+2016.
+4.	 Building Science Corporation, Westford, Massachusetts: 
+BSD-012: Moisture Control for New Residential Buildings, March 2009. 
+BSD-013: Rain Control in Buildings, August 2011. 
+BSD-104: Understanding Air Barriers, October 2006. 
+BSD-105: Understanding Drainage Planes, October 2006. 
+BSD-106: Understanding Vapor Barriers, April 2011. 
+BSI-001: The Perfect Wall, July 2010. 
+BSI-084: Forty Years of Air Barriers – The Evolution of the Residential Air Barrier, February 2015.
+5.	 Clark, Charles B., Jr., Fried, Cortney L., and Bryja, James, “Addressing Maximum Design Deflection for 
+Cold-Formed Steel Framing When Used as a Backing for Brick Veneer,” Innovations in Collaborative 
+Research, Development and Applications, ASTM STP1612, ASTM International, West Conshohocken, 
+Pennsylvania, 2018.
+6.	 Clark, Charles B., Jr., Fried, Cortney L., and Bryja, James, “History of Cold-Formed Steel Framing Used as 
+a Backing for Brick Veneer,” Innovations in Collaborative Research, Development and Applications, ASTM 
+STP1612, ASTM International, West Conshohocken, Pennsylvania, 2018.
+7.	 International Building Code, International Code Council, Country Club Hills, Illinois, 2021.
+8.	 International Residential Code, International Code Council, Country Club Hills, Illinois, 2021.
+
+[[p20]]
+www.gobrick.com | Brick Industry Association | TN 28B | Brick Veneer/Cold-Formed Steel Framed Walls | Page 20 of 20
+9.	 Okail, Hussein O., Shing, P. Benson, et al., “Shaking table tests of a full-scale single-story masonry veneer 
+wood-frame structure,” Journal of the International Association for Earthquake Engineering, Vol. 40, Issue 5, 
+pp. 509-530, September 2010.
+10.	 North American Specification for the Design of Cold-Formed Steel Structural Members (AISI S240), 
+American Iron and Steel Institute, Washington, D.C., 2020.
+11.	 Specification for Masonry Structures (TMS 602), The Masonry Society, Boulder, Colorado, 2016.

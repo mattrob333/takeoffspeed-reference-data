@@ -1,0 +1,1156 @@
+[[p1]]
+© 2018 Brick Industry Association, Reston, Virginia
+Page 1 of 19 
+TECHNICAL NOTES on Brick Construction
+12007 Sunrise Valley Drive, Suite 430, Reston, Virginia 20191 | www.gobrick.com | 703-620-0010
+28D
+June 
+2018
+Brick Veneer/Concrete Masonry Walls
+Abstract: This Technical Note presents design, material and construction information for anchored brick veneer on concrete 
+masonry backing. Description of properties, theories of structural design and proper detailing are presented. Refer to Technical 
+Notes 28 and 28B for specific information related to drained wall assemblies with non-masonry backing. 
+Key Words: anchored, brick, concrete masonry, design, expansion joints, flashing, thermal resistance, ties, veneer.
+Drainage/Air Space
+•	2 in. (51 mm) minimum air space recommended; 1 in. 
+(25.4 mm) minimum air space* required
+•	For brick veneer, do not exceed 6⅝ in. (168 mm) 
+between back of veneer and face of inner wythe unless 
+ties are designed (see Ties)
+•	For non-composite multi-wythe walls, do not exceed 
+4½ in. (114 mm) maximum between back of outer wythe 
+and face of inner wythe
+•	Completely fill air space below wall base flashing with 
+mortar or grout
+•	Where continuous insulation is placed in drainage cavity, 
+provide no less than a nominal 1 in. (25.4 mm) clearance 
+between the back of outer wythe and exterior face of 
+insulation
+* An air space is allowed to be a 1 in. (25.4 mm) nominal 
+dimension in the IRC and a 1 in. (25.4 mm) specified 
+dimension in the IBC to account for construction tolerances.
+Flashing
+•	Install at base of wall, at shelf angles, above window 
+heads, below window sills and at other locations where 
+air space is interrupted 
+•	Extend vertical leg of flashing a minimum of 8 in. 
+(203 mm) and terminate in bed joint of inner wythe or 
+with termination bar
+•	Where flashing laps are required, provide minimum 6 in. 
+(152 mm) overlap and seal
+•	Where flashing is discontinuous, form end dams by 
+turning ends up at least 1 in. (25.4 mm) into a head joint
+Weeps
+•	Place immediately above flashing
+•	Open head joint weeps preferred. Spacing recommended 
+to be no more than 24 in. (610 mm) o.c.
+Ties
+•	Select ties and spacing appropriate for wall construction 
+and the intended level of connection between the two 
+wythes (non-composite or veneer)
+•	Use wall ties that distribute lateral loads and 
+accommodate differential movement between wythes
+•	Use one of the following tie types: unit ties, joint 
+reinforcement, adjustable unit ties, or joint reinforcement 
+with adjustable ties 
+•	Except as noted herein, do not use corrugated ties
+•	Space ties at a maximum of 32 in. (813 mm) horizontally 
+and 25 in. (635 mm) vertically
+•	For an air space not exceeding 4⅝ in. (117 mm), provide 
+at least one tie with wire size W1.7 (MW11) per 2.67 sq ft 
+(0.25 m²) of wall area; or at least one tie with wire size 
+W2.8 (MW18) per 3.5 sq ft (0.33 m²) of wall area 
+•	For an air space wider than 4⅝ in. (177 mm) and not 
+exceeding 6⅝ in. (168 mm), provide at least one tie 
+conforming to the requirements of Table 1 per 2.67 sq ft 
+(0.25 m²) of wall area
+•	For an air space exceeding 6⅝ in. (168 mm), design 
+ties using TMS Code “Alternative design of anchored 
+masonry veneer” provisions
+•	Provide additional ties within 12 in. (305 mm) of openings 
+larger than 16 in. (406 mm) at a maximum spacing of 3 ft 
+(0.91 m) o.c.
+•	At columns or other interruptions, install special versions 
+of ties intended for attachment to steel and concrete
+Shelf Angles/Lintels
+•	Provide steel angles conforming to ASTM A36 with a 
+minimum thickness of ¼ in. (6.4 mm)
+•	Size horizontal leg of shelf angles and lintels to provide 
+minimum bearing of two-thirds the thickness of the brick 
+wythe
+•	Install continuous flashing above shelf angles and lintels
+•	Use shelf angles to support veneer exceeding a height of 
+50 ft (15.24 m)
+•	Fasten shelf angles to structure using bolts with cast-in 
+inserts, miscellaneous metal fabrications or post-installed 
+anchors
+•	Where required, provide standoff shelf angle assemblies 
+to allow installation of continuous insulation behind angle
+Expansion Joints
+•	Provide vertical and horizontal expansion joints through 
+brick veneer
+•	Design and construct expansion joints complying with 
+recommendations of Technical Note 18A
+Insulation
+•	Conduct hygrothermal analysis to determine the optimum 
+type, location and amount of insulation
+•	Where required, install insulation in one or more of the 
+following locations within the wall assembly: the air 
+space/drainage cavity, the cells of hollow unit backing, 
+or on the interior face of the interior wythe using studs or 
+furring strips
+Water Resistive Barriers, Air Barriers and Vapor 
+Retarders
+•	Conduct hygrothermal analysis to determine suitability 
+and location of air barriers and vapor retarders
+•	Install sheet, spray or fluid-applied air barrier membrane 
+on exterior face of backing, or detail insulation joints to 
+function as an air barrier 
+•	Installation of sheet, spray or fluid-applied water-resistive 
+barrier membrane preferred but not required 
+SUMMARY OF RECOMMENDATIONS:
+
+[[p2]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 2 of 19 
+INTRODUCTION
+Drained multi-wythe brick masonry walls were first built in the United States as early as 1850. Their early use 
+was limited primarily to exterior loadbearing walls one or two stories in height. In the 1940s, designers of high-rise 
+buildings began to recognize the advantages of this wall system and used it as an exterior curtain wall element 
+or an infill wall element on buildings with structural frames. Since then, the system has been adopted for both 
+loadbearing and non-loadbearing applications and used extensively throughout the United States in a wide variety 
+of building types. Today, drained multi-wythe brick masonry walls remain popular due to their versatility and the 
+long-term successful performance of the wall assembly. 
+General Construction
+Drained multi-wythe brick masonry walls consist of two wythes of masonry separated by an air space and 
+mechanically connected with adjustable ties or horizontal joint reinforcement. As required, the drainage cavity 
+PROPERTIES OF BRICK VENEER/MASONRY WALLS
+Resistance to Moisture Penetration
+Brick veneer with CMU backing is more resistant to 
+water penetration than barrier wall construction. If 
+moisture penetrates the exterior wythe of masonry, 
+the air space directs it down the back of the exterior 
+brick wythe to the flashing at the bottom of the air 
+space, where it is diverted to the exterior. For further 
+discussion of moisture penetration resistance, refer 
+to the Technical Note 7 Series.
+Thermal Properties
+Both the materials and the construction of the 
+veneer wall assembly contribute to its thermal 
+properties. Brick masonry exhibits significant thermal 
+mass, the ability to store and slowly release heat. 
+These properties help shift the peak heating or 
+cooling loads to off-peak times and reduce the peak 
+temperatures. Current energy codes accommodate 
+thermal mass by requiring a lower R-value for mass 
+walls. Refer to the Technical Note 4 Series for more 
+information.
+The separation of the exterior and interior wythes 
+by the air space reduces clear field thermal bridging 
+and reduces the rate at which heat moves through 
+the wall assembly. Insulation may be placed in 
+the air space by attaching or spraying continuous 
+insulation on the backing, or it may be placed in 
+the masonry cores of the backing by filling them 
+with granular fill or foam. Insulation may also be 
+placed on the interior face of the backing, where it 
+is typically placed between furring strips supporting 
+gypsum wallboard interior finishes. 
+ 
+ 
+Fire Resistance
+Fire resistance ratings of brick veneer walls with 
+CMU backing range from 2 to 4 hours, depending 
+upon the wall thickness and other factors. The fire 
+rating of various types of brick wall assemblies with 
+CMU backing can be calculated using the formulas 
+in Technical Note 16. The inclusion of plastic-based 
+materials (such as drainage board, insulation and 
+mortar dropping collection devices) within the air 
+space may increase the risk of fire spread within the 
+wall assembly. To evaluate this condition, the IBC 
+requires NFPA 285 testing to be conducted on such 
+wall assemblies to determine the potential for fire 
+propagation. Certain brick and CMU wall assemblies 
+that have a maximum clearance between the brick 
+and the insulation of 1 in. (25.4 mm) qualify for an 
+exception in the IBC and do not require NFPA 285 
+testing. 
+Sound Transmission
+Sound on one side of a wall assembly can cause 
+vibration of the closest masonry wythe. In a multi-
+wythe masonry wall, the air space provides a 
+partial isolation of the two wythes, which creates a 
+cushioning effect. This cushioning effect, combined 
+with the mass of the masonry, dampens and greatly 
+reduces the vibration caused by the sound source. 
+For instance, a wall with a 4 in. (250 mm) thick 
+brick veneer and a hollow 8 in. (203 mm) thick 
+CMU backing has a Sound Transmission Class 
+(STC) rating of 53, which is usually sufficient for 
+substantially reducing transfer of typical interior and 
+exterior noises. Similar values can be achieved for 
+Outside-Inside Transmission Class (OITC) ratings. 
+For more information on sound transmission, see 
+Technical Note 5A.
+
+[[p3]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 3 of 19 
+may also include continuous insulation and an air/
+moisture/vapor barrier. When a drained multi-wythe 
+brick masonry wall encloses occupied space, furring 
+members and gypsum wallboard are typically installed 
+on the interior face of the interior wythe. Placement 
+of insulation in the wall assembly may vary and can 
+include insulation in the air space, insulation within the 
+cells of hollow masonry units or insulation inboard of 
+the interior wythe, as well as various combinations of 
+these locations. 
+Various materials can be used in a multi-wythe 
+masonry wall. The exterior wythe generally consists of 
+solid or hollow brick but can also include architectural 
+concrete masonry units (CMU), calcium silicate units 
+or cast stone accents. The interior wythe can consist 
+of large-scale hollow brick, structural clay tile or CMU. 
+An example using a solid brick exterior wythe and a 
+CMU interior wythe is depicted in Figure 1. 
+Structural Performance 
+The various configurations and uses of multi-wythe masonry demonstrate the versatility of this wall assembly. A 
+multi-wythe masonry wall can be either loadbearing or non-loadbearing, and within those categories it can consist 
+of composite, non-composite or veneer construction. These categories are described in more detail as follows:
+Loadbearing vs. Non-Loadbearing. A loadbearing wall is defined by its role as a primary element in the 
+structural system of the building. It carries both gravity load (dead load, live load) and lateral load (forces from 
+wind and earthquake). A non-loadbearing wall is a secondary element in the structural system. It does not carry 
+gravity load, other than its self-weight, but resists lateral load and transfers it to the structural frame of the building. 
+Composite, Non-Composite and Veneer. These terms describe how the wall assembly resists the loads 
+applied to it. In a composite wall, both wythes work together as a single element, resisting both lateral and vertical 
+loads. The ties must meet specific requirements for size and spacing in order to connect the two wythes such 
+that composite behavior is achieved. A non-composite wall is similar; however, each wythe resists a proportion 
+of the load individually based on its stiffness. The ties connecting the non-composite wythes permit loads to be 
+transferred among wythes, but the ties are not sufficient to create shared load resistance by the combined section. 
+In veneer walls, the exterior wythe (veneer) does not resist any load other than its self-weight and only transfers 
+lateral load to the backing, which resists the full load. 
+Anchored Veneer vs. Cavity Wall. Nearly all multi-wythe masonry walls constructed today consist of an exterior 
+wythe categorized as an anchored veneer. Another category of multi-wythe masonry is a cavity wall, which is 
+less prevalent today. As defined by TMS 402, Building Code Requirements for Masonry Structures (TMS Code) 
+[Ref. 2] and TMS 602, Specification for Masonry Structures (TMS Specification) [Ref. 10], a cavity wall is a non-
+composite masonry assembly with a continuous air space separating at least two wythes and with ties connecting 
+each wythe. However, many design and construction professionals refer to any brick veneer drained wall 
+assembly as a cavity wall. Be sure to clarify terminology to avoid confusion. 
+This Technical Note will focus primarily on anchored brick veneer with a backing of concrete masonry because it 
+is the most common combination for contemporary drained multi-wythe wall assemblies. For simplicity, this type of 
+wall will be referred to as brick veneer/CMU (BV/CMU).
+Building Science Performance
+Modern building construction has increased energy efficiency, in part by incorporating materials and methods that 
+were not used historically. Materials such as plastic-based insulation, air barriers and vapor retarders are regularly 
+installed within wall assemblies, but they have a wide range of properties with respect to permitting or impeding 
+the movement of moisture and air, as well as resisting or propagating fire. 
+Figure 1
+Typical Brick Veneer/CMU Wall
+
+[[p4]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 4 of 19 
+While these materials help to improve performance, they must be used correctly to avoid unintended 
+consequences. Differences in temperature and humidity between the interior and exterior of a building mean 
+that moisture from the air may condense within the wall assembly. The goal is to control where condensation will 
+occur through proper material selection and placement, and to create a location within the wall assembly that can 
+manage the moisture and direct it to the exterior. In the case of a brick veneer wall assembly, the ideal location is 
+the drainage cavity/air space. 
+Hygrothermal analysis, which models the heat and moisture flow through a wall assembly, can be used to 
+determine points in the wall where condensation may occur. This modeling can also compare similar wall 
+assemblies with different component materials, component placement and insulation thicknesses to determine the 
+configuration best suited to the local climate and the code requirements for the project. 
+Specific to brick veneer wall assemblies, widening the air space to increase the drying potential of the wall and 
+including continuous insulation in the drainage cavity to supplement the insulating function of the air space 
+are effective strategies to force condensation to occur within the “wet zone” of the wall assembly. For further 
+discussion on causes and prevention of condensation within brick veneer wall assemblies, refer to Technical 
+Note 47.
+DESIGN OF BV/CMU WALLS
+The following describes the various components of the BV/CMU wall system in more detail, with commentary 
+about the appropriate materials and their function. 
+Brick
+Solid brick units must meet the requirements of ASTM C216, Standard Specification for Facing Brick, or 
+ASTM C62, Standard Specification for Building Brick [Ref. 1]. Hollow brick units must meet the requirements 
+of ASTM C652, Standard Specification for Hollow Brick. Grade SW brick is the default for brick conforming to 
+ASTM C216, C62 and C652 and is recommended for use in most areas of the United States. Note that brick 
+meeting ASTM C62 are not subject to appearance requirements. Grade MW brick can be used for interior wythes 
+in these areas, but the limited availability and potential for construction errors may outweigh the benefit of its use. 
+Single-fired ceramic glazed brick used for either the exterior or interior wythe of BV/CMU walls must meet the 
+requirements of ASTM C1405, Standard Specification for Glazed Brick (Single Fired, Brick Units). Other ceramic 
+glazed units may conform to ASTM C126, Standard Specification for Ceramic Glazed Clay Facing Tile, Facing 
+Brick and Solid Masonry Units, or other appropriate standards. 
+Information on the classification and selection of brick can be found in Technical Notes 9A and 9B, respectively. 
+Further information on brick masonry material selection for adequate strength and compliance with the TMS Code 
+and Specification can be found in the Technical Note 3 Series.
+Other Masonry Units
+CMU. As indicated in the “General Construction” section of this Technical Note, CMU are usually installed as the 
+backing material for exterior brick veneer. CMU with an architectural finish may also be used as accent bands 
+in the exterior brick wythe. Solid and hollow concrete masonry units must conform to ASTM C90, Standard 
+Specification for Loadbearing Concrete Masonry Units, or ASTM C1634, Standard Specification for Concrete 
+Facing Brick, respectively. 
+Structural Clay Tile. Structural clay tile may also be used as the interior wythe of multi-wythe masonry wall 
+construction. Structural clay tile used for this purpose must conform to ASTM C34, Standard Specification for 
+Structural Clay Loadbearing Wall Tile, or ASTM C212, Standard Specification for Structural Clay Facing Tile. 
+Where structural clay tile are glazed, they must also conform to ASTM C126, Standard Specification for Ceramic 
+Glazed Structural Clay Facing Tile, Facing Brick, and Solid Masonry Units. Clay tile conforming to ASTM C212 
+and C126 are sometimes used for the interior wythe of a multi-wythe masonry wall when left exposed for their 
+architectural appearance.
+Cast Stone. Cast stone is a specialty architectural concrete product fabricated to replicate natural cut building 
+stone, such as limestone. As such, cast stone units are frequently used within brick facades as sills, fenestration 
+surrounds, keystones, copings, water tables, and other trim or accent elements. Cast stone must conform to 
+
+[[p5]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 5 of 19 
+ASTM C1364, Standard Specification for Architectural Cast Stone, and the Standards for Architectural Cast Stone 
+(TMS 404, 504 and 604) [Ref. 12], which cover the design, fabrication and installation of cast stone. 
+Calcium Silicate Units. Calcium silicate masonry is a non-cementitious manufactured stone product that is 
+formed using pressure and cured in an autoclave. It is used similarly to cast stone as an accent element in an 
+exterior brick facade. Calcium silicate units must conform to ASTM C73, Standard Specification for Calcium 
+Silicate Brick (Sand-Lime Brick). 
+Mortar
+Masonry mortar must conform to the requirements of ASTM C270, Standard Specification for Mortar for Unit 
+Masonry. This standard includes a proportion-based specification and a property-based specification for each 
+mortar Type; the proportion-based option is the default and is most commonly specified. Type N or S mortars are 
+typically used in brick masonry veneer walls, with Type N preferred in veneer or non-loadbearing applications and 
+Type S preferred in loadbearing applications. Mortars with air content of less than 12 percent are recommended 
+for their bond strength and resistance to moisture penetration.
+Portland cement-lime, mortar cement or masonry cement mortars can be used. While all three mortar Types 
+meet specifications, they are not equal and must be evaluated for project-specific compatibility. The TMS Code 
+requires reduced allowable flexural tensile stresses for assemblies constructed with masonry cement mortars or 
+air-entrained portland cement-lime mortars. In addition, the TMS Code prohibits the use of all Type N mortars in 
+Seismic Performance Categories D and E and permits the use of masonry cement mortars only if the masonry 
+elements are fully grouted. 
+See the Technical Note 8 Series for more detailed information on mortar Types and selection, and Technical 
+Note 7A for a discussion of brick and mortar compatibility. 
+Drainage Cavity/Air Space
+The drainage cavity or air space between wythes is permitted to vary from 1 to 6⅝ in. (25.4 to 168 mm), per 
+the prescriptive requirements of the TMS Code. Although permitted, air spaces less than 2 in. (50 mm) are not 
+recommended. Where the exterior wythe acts as a veneer, the prescriptive requirements of the TMS Code 
+permit the air space to be a maximum of 6⅝ in. (168 mm) wide. Where the exterior wythe acts as a part of a 
+non‑composite wall, the prescriptive requirements are for an air space no wider than 4½ in. (114 mm).
+In many climate zones, the optimum location to place continuous insulation in the wall assembly is the air space. 
+When insulation is placed in the air space, the clearance from the interior of the brick to the exterior side of the 
+insulation must be no less than a nominal 1 in. (25.4 mm). This provides sufficient space for the mason to lay the 
+brick properly and for the wall to function as a drainage wall. 
+For air spaces between 4⅝ and 6⅝ in. (117 and 168 mm), more substantially sized ties are required. Air spaces 
+greater than 6⅝ in. (168 mm) may adversely impact the ability of typical masonry ties applied at the code-
+prescribed spacing to properly transfer lateral loads. Where these larger air spaces are used, supplemental and/
+or stronger ties are generally necessary to achieve adequate load transfer capability, which requires additional 
+product research and engineering analysis. 
+Insulation
+Properties of insulation materials vary widely. Due to the large number of types of insulation, and the even larger 
+number of manufacturers, individual manufacturers must be consulted for design values and other properties 
+of their specific materials and their applications. Manufacturers’ literature should be reviewed in detail before 
+selection. In general, plastic insulation placed within a wall assembly requires testing to determine its potential to 
+contribute to fire spread per NFPA 285 [Ref. 8]. However, the International Building Code (IBC) [Ref. 5] does not 
+require this testing when the plastic insulation is covered on each face by 1 in. (25.4 mm) or more of masonry or 
+concrete, the air space is limited to 1 in. (25.4 mm), and the plastic insulation has a Class A flame spread rating. 
+If needed, many manufacturers of insulation installed in masonry wall assemblies have results for NFPA 285 
+available for review. 
+Refer to the Technical Note 4 Series for more information on energy and insulation of brick masonry walls and to 
+Technical Note 47 for information on prevention and control of condensation. 
+
+[[p6]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 6 of 19 
+Placement. There are multiple options for insulation placement within a BV/CMU assembly. Insulation can 
+be placed 1) in the drainage cavity/air space; 2) in the cells of hollow unit backing; or 3) on the interior face of 
+the interior wythe between studs or furring strips. The optimum location and amount of insulation needed for 
+a particular building can be obtained from hygrothermal analysis. In recent years, the thickness of insulation 
+required within the drainage cavity has increased in many climate zones. The use of standoff shelf angles permits 
+insulation installed in the drainage cavity to continue behind the vertical leg of the angle, which reduces the 
+thermal bridging effect caused by the shelf angle. When insulation is installed in the drainage cavity/air space, 
+it is critical that the product be intended for use in the “wet zone” of a wall assembly and have an established 
+history of successful use in this application. Insulation applied to the drainage cavity side of the interior wythe 
+can sometimes form part of the air barrier system. For insulation to work effectively as an air barrier, proper 
+attachment to the interior masonry wythe and fully sealed or taped joints are necessary. 
+Board Insulation. Many board insulation materials can be installed in the air space of BV/CMU walls. Among 
+the most common are rigid plastic foams: expanded polystyrene (EPS), extruded polystyrene (XPS) and 
+polyisocyanurate. Mineral wool is considered semi-rigid and is included within this category, as it is typically 
+installed in similar-sized sheets and locations as rigid board insulation. Although similar in appearance to 
+fiberglass batt insulation, mineral wool is fire-resistant and does not absorb moisture, resisting rot and biological 
+growth while maintaining its R-value. Insulation boards are attached to the interior face of the drainage cavity 
+using insulation adhesive or mechanical fasteners, which can include clips or plates that slip over the veneer ties. 
+A minimum clearance of a nominal 1 in. (25.4 mm) must be maintained between the face of the insulation and the 
+back of the brick. 
+Rigid board insulation must conform to one of the following material standards: ASTM C578, Standard 
+Specification for Rigid, Cellular Polystyrene Thermal Insulation; ASTM C1224, Standard Specification for 
+Reflective Insulation for Building Applications; or ASTM C1289, Standard Specification for Faced Rigid Cellular 
+Polyisocyanurate Thermal Insulation Board. Mineral wool insulation for use in BV/CMU walls must conform to 
+ASTM C612, Standard Specification for Mineral Fiber Block and Board Thermal Insulation.
+There are also proprietary formed rigid foam inserts that can be used as integral insulation placed inside the cells 
+of hollow CMU to improve thermal and sound transmission performance. These products are generally made from 
+EPS foam. 
+Granular Fills. Granular fills are typically used in the hollow cells of concrete block backing. One advantage of 
+granular fills is that they can be installed after wall sections have been completed. This permits the mason to 
+work uninterrupted, shortening construction time and lowering costs. However, the water resistance of the fill is 
+of utmost importance. Settling of the fill material may lead to thermal bridging in the wall system. Two types of 
+granular fill may be used for BV/CMU insulation: water-repellent vermiculite and silicone-treated perlite insulation. 
+EPS bead granular fill is not recommended. 
+Vermiculite is an inert, lightweight material manufactured by expanding an aluminum magnesium silicate mineral, 
+which is a form of mica, to 15 times its original size by subjecting it to high temperatures. Perlite is a white, inert, 
+lightweight material made from crushed volcanic siliceous rock. Exposure to high temperature creates a void 
+structure within the rock, and further heating can expand perlite to 20 times its original volume. Water-repellent 
+vermiculite and silicone-treated perlite must conform to ASTM C516, Standard Specification for Vermiculite Loose 
+Fill Thermal Insulation, and ASTM C549, Standard Specification for Perlite Loose Fill Insulation, respectively. Each 
+of these specifications contains limits on density, grading, thermal conductivity and water repellency. 
+Installation of granular fill is relatively straightforward. Bags of material are placed into the top of the open cells, 
+either directly or via hoppers. A 20 ft height limit for a placement lift is recommended to ensure that the cells are 
+fully filled without gaps. To maintain the thermal performance, do not rod or tamp the fill. 
+Foamed-in-Place. Foamed-in-place insulation has traditionally been used to fill the cells of hollow masonry 
+units. These foams may consist of cementitious material (magnesium oxychloride cement and ceramic talc) or 
+aminoplast resin. One advantage of foamed-in-place insulation is that it can be installed after wall sections have 
+been completed, which is beneficial for filling cells of hollow masonry. The insulation is placed under pressure 
+through ports in the side of the wall. Newly constructed walls must be allowed to cure long enough to resist the 
+pressures applied. Foamed-in-place insulation does not have an ASTM material standard, but the performance 
+properties of the material are determined using relevant ASTM test standards. 
+
+[[p7]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 7 of 19 
+Spray Polyurethane Foam. Spray foam insulation can be applied directly to the outer face of the interior wythe 
+of a BV/CMU wall and can serve as a water-resistive barrier and an air barrier. When used in the drainage cavity 
+or on the interior face of a wall, spray foam insulation is typically applied before the exterior brick wythe or interior 
+finishes are installed. Polyurethane spray foam must comply with ASTM C1029, Standard Specification for Spray 
+Applied Rigid Cellular Polyurethane Thermal Insulation. 
+One disadvantage of spray foam is that shrinkage of the foam may occur. This condition could lead to moisture 
+drainage paths and air leakage through the wall system; therefore, compatible membranes are installed at edges 
+and transitions on the interior wythe to ensure coverage of the underlying substrate when shrinkage occurs. 
+Most foams are multicomponent systems formed by a chemical reaction of two or more liquids that expand when 
+combined and require specialized equipment to install. The insulation materials that fall within the categories of 
+foamed-in-place and spray foam have different properties and characteristics, such as open cell vs. closed cell, 
+resistance to moisture and R-values. As such, some foams may be better suited to filling cells in hollow masonry 
+than filling the drainage cavity/air space. Manufacturers’ literature should be consulted for technical information on 
+applications and usage.
+Air Barriers, Water-Resistive Barriers and Vapor Permeance
+As discussed in the previous section, insulation can be placed in the drainage cavity/air space, in the cells of 
+hollow unit backing or on the interior face of the interior masonry wythe. The placement of the insulation plays 
+a role in determining where the air barrier and vapor retarder should be installed within the wall assembly. The 
+results of the hygrothermal analysis can help determine the placement of the air barrier and vapor retarder. 
+Air Barriers. Controlling airflow within the wall assembly helps to eliminate drafts and prevents moisture-laden air 
+from reaching areas of the wall assembly intended to remain dry. As a result, building codes require air barriers. 
+Per the International Energy Conservation Code (IECC) [Ref. 6], an air barrier consists of “one or more materials 
+joined together in a continuous manner to restrict or prevent the passage of air through the building envelope and 
+its assemblies.” Masonry walls with CMU backing can appear relatively airtight but may experience air leakage 
+when a dedicated air barrier product is not used. The use of block filler or two layers of paint allow a CMU wall to 
+comply as an approved air barrier assembly. Some air barrier materials such as membranes or insulation can also 
+perform as water-resistive barriers. 
+Water-Resistive Barriers. Water-resistive barriers (WRB) are intended to resist liquid water that has penetrated 
+behind the exterior wythe from further intruding into the wall assembly. The use of a WRB is not required by 
+building codes for wall assemblies with masonry or concrete backup construction, but a WRB is sometimes 
+installed on the exterior face of the interior wythe to protect against ingress of incidental moisture or moisture-
+laden air that reaches that interface. If applied, the WRB must be continuous over the backing and must be sealed 
+at interfaces with other elements or materials. 
+Parging. Historically, parging the exterior or interior face of the interior masonry wythe with mortar was used to 
+reduce air and water leakage. However, the effectiveness of parging is limited due to the tendency of cementitious 
+materials to crack and because it is not recognized by the building code to serve as a water-resistive barrier. 
+Parging qualifies as an air barrier assembly per the IECC, provided that it is portland cement based and has a 
+minimum ½ in. (13 mm) thickness. In some cases, parging may be recommended for application as a substrate 
+for another air barrier or water-resistive barrier membrane; however, the manufacturers of air barrier and water-
+resistive barrier membranes typically have their own surface preparation requirements that may or may not be 
+compatible with the use of parging. 
+Vapor Permeance. A material’s vapor permeance controls the amount of moisture that can be transmitted 
+through it (vapor diffusion). Materials with a higher vapor permeance/permeability are often referred to as 
+“breathable.” Both air barriers and water-resistive barriers can have various levels of permeability; the suitability of 
+a particular product depends on the code requirements for a vapor retarder in the wall assembly and the results of 
+the hygrothermal analysis. 
+In-depth discussion of air barriers, water-resistive barriers and vapor retarders is outside the scope of this 
+Technical Note. There are many building science resources available for reference [see Ref. 3]. For buildings 
+with unusual walls, consultation with building envelope professionals is recommended for development of project-
+specific recommendations for materials and placement of those materials in the wall assembly. For further 
+discussion on air barriers, water-resistive barriers and vapor retarders, refer to the Technical Note 7 Series.
+
+[[p8]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 8 of 19 
+Wall Ties/Anchors
+For the purposes of this Technical Note, the term “tie” is used to describe a fastener connecting the veneer to the 
+backing or an outer wythe to an inner wythe. The TMS Code uses the term “anchors” to describe the fasteners 
+that attach the brick veneer to the structural backing. In the context of composite or non-composite walls, the term 
+“anchors” sometimes refers to fasteners used to connect the inner wythe of the wall to the structure, and the term 
+“ties” refers to the fasteners used to connect the separate wythes of masonry. 
+For a tie system to function properly, it must meet the following criteria:
+•	
+Be securely attached to or embedded in the masonry wythes
+•	
+Have sufficient strength to transfer lateral loads with minimal deformations 
+•	
+Have a minimal amount of mechanical play (if adjustable) 
+•	
+Have sufficient corrosion resistance 
+•	
+Be easily installed without damage to the tie system or other wall components 
+Connection to Frame. Masonry walls used to enclose or infill frame structures must be carefully designed 
+and detailed to permit the transfer of loads applied to the wythes to the frame in a manner that accommodates 
+differential movement. The anchorage of the exterior veneer to the building frame generally provides out-of-plane 
+support for the veneer and resists tension and compression from the loads perpendicular to the plane of the wall. 
+This permits in-plane differential movement between the building frame and the exterior veneer without causing 
+distress. Ties must be designed and detailed to accommodate construction tolerance differences and differential 
+movement resulting from loads applied to the frame and floor elements. Horizontal joint reinforcement and 
+separate ties should not be placed in the same bed joint, as there is not adequate space to accommodate both 
+and surround them with mortar. 
+Connection of Wythes. Ties serve three important functions: to provide a connection for each wythe, to transfer 
+lateral loads between wythes and to accommodate differential movement between wythes. There are multiple 
+tie types for use in brick veneer walls with CMU backing, including unit ties, horizontal joint reinforcement and 
+adjustable ties. All types must conform to the applicable requirements for wire size, tie spacing and configuration 
+listed in the TMS Code and summarized in Table 1 and Table 2. 
+TABLE 1
+Adjustable Tie Requirements for Brick Veneer with a Backing of CMU or Concrete¹
+Air 
+Space,  
+in. (mm)
+Tie Type
+Minimum 
+Wire Size
+Maximum 
+Wall Area 
+per Tie,  
+sq ft (m²)
+Backing Attachment 
+Requirements
+Pintle or Adjustable Part 
+Requirements
+≤ 4⅝ (117)
+Joint 
+Reinforcement with 
+Adjustable Ties  
+or  
+Adjustable Unit 
+Ties²
+W1.7 
+(MW11)
+2.67 (0.25)
+Ladder, Tab or Eye:  
+Min. wire W1.7 (MW11)
+Plate:  
+Min. 0.06 in. (1.5 mm) thick 
+and ⅞ in. (22.2 mm) wide
+Wire: 
+Min. W2.8 (MW18)
+Pintle Legs: 
+1 min.
+Offset: 
+Max. 1¼ in. (31.8 mm)
+> 4⅝ (117) 
+and 
+≤ 6⅝ (168)
+Joint 
+Reinforcement with 
+Adjustable Ties  
+or 
+Adjustable Unit 
+Ties²
+W2.8 
+(MW18)
+2.67 (0.25)
+Ladder, Tab or Two Eyes: 
+Min. wire W2.8 (MW18)
+Barrel: 
+Min. ¼ in. (6.4 mm) 
+outside dia.
+Plate/Prong: 
+Min. 0.074 in. (1.88 mm) thick 
+and 1¼ in. (31.8 mm) wide
+Wire: 
+Min. W2.8 (MW18)
+Pintle Legs: 
+2 min.
+Offset: 
+Max. 1¼ in. (31.8 mm)
+Distance from Inside Face of 
+Brick to End of Adj. Part: 
+Max. 2 in. (51 mm)
+> 6⅝ (168)
+Design ties using TMS Code “Alternative design of anchored masonry veneer” provisions
+1. Tie requirements shown are for brick veneer with a backing of CMU or concrete, as appropriate. For multi-wythe masonry with composite 
+or non-composite action, see the TMS Code for tie requirements.
+2. Adjustable unit ties may also include a sheet-metal adjustable part (dovetail anchors). Sheet-metal adjustable parts should conform to 
+backing attachment requirements for plate in air spaces less than or equal to 4⅝ in. 
+
+[[p9]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 9 of 19 
+TABLE 2
+Non-Adjustable Tie Requirements for Brick Veneer with a Backing of CMU or Concrete¹
+Air Space, 
+in. (mm)
+Tie Type²
+Minimum Wire or Plate Size
+Maximum Wall Area  
+per Tie, sq ft (m²)
+≤ 4⅝ (117)
+Joint Reinforcement and 
+Unit Ties—Wire
+W1.7 (MW11)
+2.67 (0.25)
+W2.8 (MW18)
+3.50 (0.33)
+Unit Ties—Sheet-Metal
+Min. 0.06 in. (1.5 mm) thick and  
+⅞ in. (22.2 mm) wide
+3.50 (0.33)
+> 4⅝ (117) and 
+≤ 6⅝ (168)
+Joint Reinforcement
+W2.8 (MW18) (longitudinal and cross wires)
+1.77 (0.16)³
+> 6⅝ (168)
+Design ties using TMS Code “Alternative design of anchored masonry veneer” provisions
+1. Tie requirements shown are for brick veneer with a backing of CMU or concrete, as appropriate. For multi-wythe masonry with composite 
+or non-composite action, see the TMS Code for tie requirements.
+2. It is recommended that unit ties in air spaces greater than 4⅝ in. should be designed using TMS Code “Alternative design of anchored 
+masonry veneer” provisions.
+3. Recommended maximum wall area per tie. Assumes placement of joint reinforcement at 16 in. o.c. vertically (two courses of typical 
+CMU).
+Note that as the air space dimension increases, 
+the requirements for ties become more stringent. 
+Additional ties must be provided within 12 in. 
+(305 mm) of openings larger than 16 in. (406 mm) 
+at a maximum spacing of 3 ft (0.91 m) o.c. It is 
+recommended to place ties within 12 in. (305 mm) of 
+veneer expansion joints and edges of veneer. 
+Unit Ties/Anchors. Unit ties can be formed from wire 
+or sheet-metal. Typical wire ties are rectangular ties 
+or “Z” ties, as shown in Figure 2. Metal “Z” ties are 
+intended to be used between wythes of solid masonry 
+units only and are not appropriate for hollow masonry 
+units. Rectangular ties can be used between the 
+wythes of all masonry units, including solid and hollow 
+units, and are therefore recommended for multi-wythe, 
+non-composite masonry walls. Wire ties should be of 
+wire size W1.7 (0.148 in. [3.8 mm]) or W2.8 (3⁄16 in. 
+[4.8 mm]) in diameter. Sheet-metal ties must have a 
+minimum base metal thickness of 0.06 in. (1.5 mm) or 
+16 gage.
+Joint Reinforcement. Horizontal joint reinforcement 
+configurations available are the ladder, truss and tab 
+types shown in Figure 3. When used to tie the inner 
+and outer wythes together, the interior and exterior 
+wythes each receive at least one longitudinal wire. 
+The longitudinal wires are connected by cross wires to 
+tie the wythes together. Horizontal joint reinforcement 
+is typically produced in 10 to 12 ft (3 to 4 m) lengths. 
+Longitudinal wires are typically wire size W1.7 or 
+W2.8 in diameter. Cross wires are also W1.7 or W2.8 
+in diameter and should be spaced at a maximum of 
+16 in. (406 mm) o.c. horizontally. The total thickness 
+of the wires must not exceed one-half the mortar joint 
+thickness. 
+Tests indicate that BV/CMU walls tied with horizontal 
+joint reinforcement have similar performance to those 
+Figure 2
+Unit Ties
+Figure 3
+Joint Reinforcement
+Ladder Type
+3-Wire Ladder Type
+Truss Type
+3-Wire Truss Type
+Tab Type
+Rectangular Tie
+“Z” Tie
+
+[[p10]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 10 of 19 
+tied with metal unit ties. These tests also indicate that truss 
+type joint reinforcement used in BV/CMU wall construction 
+helps to develop a degree of composite action in the horizontal 
+span but does not contribute to any composite action in the 
+vertical span. This restraint in the horizontal direction will 
+reduce the amount of in-plane movement and could possibly 
+result in bowing of the masonry walls. In addition, if the inner 
+wythe consists of reinforced masonry, the diagonal cross wires 
+of truss type joint reinforcement can conflict with the vertical 
+reinforcing bars and the placement of grout in those cells. 
+Therefore, truss type joint reinforcement is not recommended 
+for BV/CMU walls. Instead, ladder type and tab type joint 
+reinforcement, which allow for the in-plane movement between 
+the wythes, are recommended. 
+Adjustable Unit Ties/Anchors. Adjustable unit ties typically 
+consist of two pieces in a double eye and pintle configuration, 
+shown in Figure 4. The piece with the eyes is installed 
+during construction of the inner wythe, while the piece with 
+the pintle(s) is installed during construction of the exterior 
+wythe. Adjustable pintle ties are required to have a minimum 
+wire size of W2.8 in diameter and a maximum vertical offset 
+between the eye and pintle components of 1¼ in. (31.8 mm). 
+In addition, adjustable ties should be detailed to prevent 
+disengagement and have a maximum horizontal out-of-
+plane mechanical play within the connecting pieces of 1⁄16 in. 
+(1.6 mm). 
+Joint Reinforcement with Adjustable Ties/Anchors. Joint 
+reinforcement with adjustable ties in a ladder and truss type 
+configuration are also available, as shown in Figure 5. This 
+type of tie consists of rectangular tie extensions with eyes 
+connected to standard joint reinforcement. The use of the 
+combined joint reinforcement and adjustable ties is preferred 
+for brick veneer walls with CMU backing, as it avoids potential 
+conflicts between unit tie wires and joint reinforcing wires. 
+Masonry Headers. Contemporary multi-wythe masonry walls are typically bonded by the use of metal ties; 
+however, masonry headers may be encountered in older wall construction. A header is a masonry unit laid 
+perpendicular to the exterior wythe, or sometimes at an angle to the exterior wythe, that is used to connect two 
+wythes of masonry. The TMS Code still permits the use of masonry headers and includes provisions for the 
+evaluation of their shear capacity, embedment and minimum percentage within the wall. Although the TMS Code 
+allows wythes of masonry designed for composite action to be bonded structurally by masonry headers, they are 
+not commonly used in contemporary construction. The use of masonry headers is no longer recommended due to 
+their lack of ductility, limited ability to accommodate differential movement, and because they provide a direct path 
+for water penetration from the outside of the wall to the interior along the head and bed joints. 
+Workmanship. Construction workmanship is critical to achieving high-performing masonry. While design, detailing 
+and material selection is important, good workmanship cannot be overemphasized. Therefore, all mortar joints in 
+both the exterior and interior masonry wythe should be completely filled as the brick—and CMU, if applicable—are 
+laid. Face shell bedding of CMU is permitted. All mortar joints must be tooled or struck in a profile to consolidate 
+the mortar at the surface of the brick masonry, which protects against water penetration. Technical Note 7B 
+discusses more information related to workmanship issues for brick masonry. One workmanship consideration 
+specific to BV/CMU construction is that both wythes of masonry must be adequately and properly tied together. 
+The main concern for the designer is assurance that all the ties are firmly embedded in and bonded to the 
+mortar. To achieve this, the masonry wythes must be laid with completely filled bed joints, and the ties must be 
+spaced properly with a minimum ⅝ in. (16 mm) of mortar cover from the exterior face of the brick and a minimum 
+embedment of 1½ in. (38.1 mm). Extensive data indicates that wall ties have excellent tying capacity when they 
+Figure 4
+Adjustable Unit Ties
+Figure 5
+Joint Reinforcement with Adjustable Ties
+Ladder Types
+Truss Types
+
+[[p11]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 11 of 19 
+are fully embedded in the masonry bed joints. If any ties are improperly embedded in the masonry units, the ties 
+that are installed correctly will be required to carry the load of those that are not, resulting in potential overloading 
+of ties and a weak structural system for the wall assembly as a whole.
+Further discussion on proper tie selection and other applicable code requirements for veneer ties used with 
+concrete or CMU backing is discussed in Technical Note 44B.
+Shelf Angles/Lintels
+Lintels provide support of brickwork over masonry openings by bearing on the brickwork on each side of the opening. 
+They are not attached to the building structure. Shelf angles provide continuous intermediate support for the brickwork 
+through connection to the building structure. Shelf angles are occasionally referred to as relieving angles. 
+Brick veneer walls with a rigid backing of concrete or CMU have no prescriptive height limitations in the TMS 
+Code and therefore do not require the use of shelf angles. However, the maximum recommended height that brick 
+veneer with this rigid backing may be supported at the foundation and between shelf angles is approximately 50 ft 
+(15 m).
+Shelf angles and lintels are designed similarly, except that a shelf angle must carry the full weight of brick 
+masonry above, while a lintel is typically permitted to carry a reduced load due to the arching action of the wythe 
+supported. Steel angles are most frequently used as shelf angles and lintels, but lintels may also be reinforced 
+masonry, precast concrete or stone. Steel used for shelf angles and lintels must conform to the requirements in 
+ASTM A36/A36M, Standard Specification for Carbon Structural Steel. All non-galvanized steel and non-stainless 
+steel angles should be primed and painted (with a commercial or industrial corrosion-inhibiting coating) to prevent 
+corrosion. In harsher climate conditions, consider the use of hot-dipped galvanized or stainless-steel angles. 
+Steel angles should have a minimum thickness of ¼ in. (6.4 mm). The horizontal leg of the shelf angle or lintel 
+must be sized to accommodate a dimension of two-thirds the thickness of the brick veneer at a minimum. The 
+maximum allowable deflection along the length of the shelf angle or lintel is L/600, and the total rotation of the toe 
+of the shelf angle is limited to 1⁄16 in. (1.6 mm). Lintels require a minimum bearing length of 4 in. (102 mm) on the 
+brick at each side of the opening. Shelf angles should not be installed as one continuous member. Space should 
+be provided at intervals to permit thermal expansion and contraction of the steel angle without causing cracking or 
+other distress of the masonry.
+For concrete structures, shelf angles are typically fastened using bolts corresponding to a matching wedge insert 
+cast into the concrete. Alternatively, cast-in embed plates may be present on concrete structures, which permit 
+welding as an attachment method. For steel structures, miscellaneous metal fabrications are used. Post-installed 
+anchors designed for structural anchorage into cured concrete, grouted masonry and hollow masonry can also 
+be used to connect shelf angles to the structure. The structural engineer for the project must design these 
+fabrications and connections. Standoff shelf angles can be designed by the structural engineer, by fabricating 
+miscellaneous metal brackets or by using prefabricated standoff shelf angle brackets. Prefabricated brackets 
+may be either fully proprietary systems including brackets and the brick support or brackets intended for use with 
+standard hot-rolled angle shapes. Where shims are installed between the shelf angle and the structure, the shims 
+must extend the full height of the vertical leg of the angle to ensure that load transfer is consistent with the design. 
+For further information on the design of lintels and shelf angles, refer to Technical Note 31B. 
+Through-Wall Flashing
+Through-wall flashing is an impervious material installed in a drainage wall system to contain and redirect 
+moisture that has penetrated back to the exterior. Similar to other drainage wall assemblies, flashing is required 
+at the base of the wall, above and below all wall openings, at shelf angles, at the tops of walls, beneath copings, 
+and at any other discontinuities in the air space. Flashing should extend to the face of the exterior brick wythe at 
+a minimum. However, extending the flashing beyond the face of the brick and forming a drip promotes improved 
+drainage, which is preferred. Where flashing is not continuous, the ends of the flashing should be turned up a 
+minimum of 1 in. (25 mm) to form an end dam. 
+Aspects of flashing unique to brick veneer with concrete or CMU backing include the following:
+•	
+The vertical leg of the flashing should extend up the backing a minimum of 8 in. (203 mm) and be 
+terminated in a bed joint of the interior masonry wythe or a horizontal slot (reglet) in concrete. If 
+
+[[p12]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 12 of 19 
+desired, flashing can be mounted to the face of the backing using a termination clamp or bar with 
+fasteners intended for masonry or concrete applications. 
+•	
+In some locations, the inner wythe of the BV/CMU wall is not continuous due to columns or other 
+structural elements. The typical flashing details need to be modified to address these conditions; 
+examples are detailed in Technical Note 7. Flexible flashings require support across any gaps. 
+Installation of compressible fillers and sealants may be required between the inner masonry wythe 
+and these structural elements to maintain watertightness above the flashing line. 
+For more information regarding proper flashing detailing, material selection and installation, refer to the Technical 
+Note 7 Series. 
+Weeps and Drainage 
+Weeps direct moisture collected on the flashing to the exterior of the wall assembly. Weeps are required to be 
+placed immediately above flashing at all locations. If weeps are installed one to two masonry courses above the 
+flashing, they will not perform their intended function. The IRC and TMS Code require weeps to be placed no more 
+than 33 in. (838 mm) o.c. An open head joint is the preferred type of weep. Open head joint weeps should be at 
+least 2 in. (51 mm) high and are recommended to be spaced no more than 24 in. (610 mm) o.c. Metal or plastic 
+screens or vents may be placed in the open head joint to discourage insect entry and to reduce the risk of weeps 
+being closed during future maintenance work. Other types of weeps that can be used include rope wicks and weep 
+tubes. See the Technical Note 7 Series for further discussion on weep types other than the open head joint. 
+Drainage Materials and Mortar Collection Devices. To the extent possible, the mason should prevent mortar 
+droppings from falling into the air space. Excessive mortar droppings can render flashing and weeps ineffective 
+in draining water to the exterior. Good workmanship during construction is the primary method of creating a 
+functional air space. Mortar collection devices or full-height drainage media can be installed in the air space 
+to help prevent obstruction by mortar. The use of these materials does not negate the importance of good 
+workmanship. Manufacturers’ literature should be used to determine the suitability of drainage materials. Use 
+of drainage materials does not eliminate the risk for mortar bridging and may result in simply moving the mortar 
+bridging higher within the air space. Therefore, many manufacturers require the flashing to be installed a minimum 
+of 6 to 8 in. (152 to 203 mm) above the top level of the collection device to provide adequate protection against 
+moisture ingress when mortar droppings accumulate. While it is important to keep the air space as free of mortar 
+as possible, some mortar is permitted to be present per the building codes, provided that it does not impact the 
+ability of the cavity to drain. For further discussion on weeps and mortar collection devices, refer to the Technical 
+Note 7 Series.
+Movement Joints
+Brick masonry will expand and contract relative to other building components. These movements must be 
+accommodated in the design and construction of the wall system in order to deter cracking, spalling and other 
+potential brick masonry issues. 
+A system of veneer expansion joints, both horizontal and vertical, is used to accommodate differential movement 
+and to reduce the potential for cracks. An expansion joint consists of an opening through the brick wythe that 
+is closed with a sealant joint and compressible filler materials. These joints separate each section of brickwork 
+and isolate it from other sections. The size, spacing, placement and compressibility of veneer expansion joints 
+is critical to achieving the proper performance of the veneer. No single recommendation for the placement and 
+spacing of veneer expansion joints can be applicable to all structures. Each exterior wall of the building must be 
+evaluated to determine the extent of movement expected, based on the wall’s length; the number, size and location 
+of openings in it; its proximity to an offset, intersecting wall, or interior or exterior corner; any changes in height or 
+support conditions; and whether it is exposed on both sides like a parapet. These features influence how the brick 
+veneer reacts to movement in a wall. Any portion of a wall not able to resist the stress induced by the movement 
+should be isolated by an expansion joint. For more information, refer to the Technical Note 18 Series. 
+Vertical Expansion Joints. Generally the spacing of vertical expansion joints should not exceed 25 ft (7.6 m) 
+in walls without openings and 20 ft (6.1 m) in walls with multiple openings. Vertical expansion joints are also 
+recommended where site walls adjoin buildings and at the corners of large openings. Building corners should 
+have a vertical expansion joint located within 10 ft (3.05 m) of the corner. Plan offsets and setbacks of a wall 
+
+[[p13]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 13 of 19 
+should also include a vertical expansion joint on inside corners. Refer to Figure 6 for a diagram of an expansion 
+joint located at an interior corner. 
+Horizontal Expansion Joints. A horizontal expansion joint cannot function unless there is some means of 
+supporting the brickwork above it. Usually this is accomplished by a shelf angle. These joints are located between 
+the bottom of the shelf angle and the brickwork below. For further discussion of vertical and horizontal expansion 
+joint details, refer to Technical Note 18A.
+Control Joints. A brick veneer wall assembly with a concrete or CMU backing will include both control joints 
+and veneer expansion joints. Control joints are installed in the concrete or CMU wythe to manage the shrinkage 
+that results as the concrete or concrete masonry cures. Control joints are not required to align with the veneer 
+expansion joints in the brick and may have separate spacing requirements.
+SPECIAL CONDITIONS
+Foundations
+Foundations of brick, concrete masonry or concrete are used to support BV/CMU walls. The brick exterior wythe 
+may be corbelled beyond the top of the foundation; however, the overhang may not be more than one-third of a 
+brick unit width nor more than one-half of its height per course. The total distance corbelled may not exceed one-
+half of the brick unit width.
+To prevent moisture penetration and to promote cavity drainage, the lowest level of flashing should be placed 
+above the finished grade. With basement construction, it is important to use through-wall flashing at the bottom of 
+the cavity to prevent moisture from penetrating through the basement wall; see Figure 7. Below the flashing, any 
+cavity should be filled solid with mortar or grout. Place flashing and weeps far enough above grade, up to 10 in. 
+(254 mm) per the building code, so that they will not be covered by future grading or landscaping. Refer to the 
+Technical Note 7 Series for more information regarding base-of-wall detailing. 
+A bond break is recommended between the exterior brick wythe and the foundation. This permits differential 
+movement among the materials and reduces the likelihood of cracking. However, for non-composite walls, it must 
+also be remembered that the flashing or bond break changes the structural boundary condition of the wall. The 
+wythes separated from the foundation by flashing should be designed as simply supported or pinned end walls, 
+not as a fixed end condition. If the exterior brick wythe is designed as a veneer, then this is not a concern. 
+Columns
+When BV/CMU walls are used to enclose or infill a structural frame building, the inner wythe is generally aligned 
+with the elements of the frame, such as columns. As such, when columns are encountered, units of the inner 
+Figure 7
+Basement Detail
+Figure 6
+Vertical Expansion Joint at Interior Corner
+
+[[p14]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 14 of 19 
+wythe are omitted to accommodate the column 
+placement. Ties must not be omitted at column 
+locations for either the inner or the outer wythes. 
+Products are available that can be welded to steel 
+columns, as well as ties that mechanically attach 
+to the column flanges without welding, as shown in 
+Figure 8. At concrete columns, beams and walls, use 
+of dovetail slots is recommended, per Figure 9 and 
+Figure 10. These are metal channels that are placed 
+prior to the concrete pour and provide the option to 
+insert adjustable ties when the masonry is installed. 
+Because the use of dovetail slots involves two 
+different trades, careful coordination is required during 
+the cast-in-place concrete submittal and shop drawing 
+phase of the project to ensure that the slots are 
+installed as intended. Special detailing for through-wall 
+flashing may be required around columns. Refer to 
+the Technical Note 7 Series for additional information. 
+Parapets
+Of all the masonry elements used in buildings, 
+the parapet wall is probably the most difficult to 
+adequately detail. Designers have tried many ways 
+to design parapets to minimize cracking, leaking and 
+displacement. They are frequently required by building 
+codes or for architectural or fire safety considerations.
+The detail shown in Figure 11 is suggested as one 
+method of building a parapet. For BV/CMU wall 
+construction, it is recommended that the cavity 
+continue through the parapet, thereby maintaining the 
+separation between the exterior wythe and the interior 
+wythe. The interior masonry wythe of the parapet is 
+reinforced and mechanically attached to the structural 
+frame. It is recommended that designers consider the 
+limitations of reinforced masonry construction as part 
+of the parapet design. A typical 12 in. (305 mm) wide 
+parapet with brick on both the exterior and interior 
+faces will result in minimal cavity widths and a nominal 
+4 in. (102 mm) thick center wythe. The cells of nominal 
+4 in. (102 mm) CMU are generally too small to 
+receive reinforcing bars and grout. An alternative to a 
+reinforced masonry parapet is to use a concrete stem 
+wall when the structure is concrete construction. 
+Copings on parapets must provide a drip on at 
+least one side of the wall and slope toward the drip. 
+Copings can consist of formed sheet-metal, stone 
+or fired clay. Through-wall flashing should be placed 
+in the mortar joint immediately beneath the coping, 
+and the coping firmly attached to the wall below with 
+mechanical anchors. Sealant compatible with the 
+flashing must be applied where the anchors penetrate 
+the flashing. Sheet-metal closures may be required 
+to support the through-wall flashing membrane as it 
+spans across the top of the cavity and beyond the 
+face of the wall. 
+Figure 9
+Anchorage to a Concrete Column
+Figure 10
+Anchorage to a Concrete Column  
+at Expansion Joint
+Figure 8
+Anchorage to a Steel Column
+
+[[p15]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 15 of 19 
+For sheet-metal copings, flexible membrane through-
+wall flashing should be installed directly below the 
+metal. Note that temperatures under sheet-metal 
+copings exceed those in a typical masonry assembly; 
+therefore, the flashing membrane installed in this 
+location must be formulated to withstand these higher 
+temperatures. Sheet-metal copings are secured 
+with cleats, thicker gauge metal fabrications that are 
+attached to the vertical faces of the parapet.
+In general, parapets should not be painted or coated; 
+however, vapor-permeable “breathable” coatings can 
+be permitted. Roofing membrane must not extend 
+the full height of the parapet interior face without 
+consideration of the impact on moisture vapor 
+transmission. If the roof flashing terminates on the 
+vertical surface of the parapet, then a layer of through-
+wall flashing is recommended to prevent moisture 
+that saturates the interior face of the parapet from 
+undermining the roofing termination, as shown in 
+Figure 11. 
+Vertical expansion joints should extend through the 
+parapet. Because a parapet receives environmental 
+exposure on three sides, it is subject to increased 
+expansion and contraction cycles compared with the main wall section and requires closer spacing of vertical 
+expansion joints. Supplemental joints that occur only in the parapet can terminate at the first horizontal expansion 
+below the base of the parapet. Ideally a shelf angle is present at the roof slab to serve as this termination point. 
+Refer to the Technical Note 18 Series for more information regarding expansion joints. 
+Doors and Windows
+Detailing openings in BV/CMU walls requires special attention because any air or water that bridges the cavity 
+may cause problems. A perimeter sealant joint at the exterior window/masonry interface is the primary defense 
+against the ingress of both air and water. 
+Protection Against Air. Air barrier continuity must be maintained around window and door openings. If the air 
+barrier is applied to the air space side of the interior wythe, membrane transition strips should wrap into the 
+rough opening, and an interior air seal should be installed between the window frame or doorframe and the inner 
+Figure 12
+Window Head with Cavity Seal
+Figure 13
+Window Jamb Detail
+Figure 11
+Metal Coping on Brick Veneer/CMU Wall Parapet
+
+[[p16]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 16 of 19 
+wythe. A second transition strip may be used as a 
+cavity closure. Refer to the air barrier manufacturer’s 
+literature for recommended or preferred details. 
+Placing mineral wool insulation, a pre-compressed 
+joint filler or sealant in the cavity at the perimeter of 
+the opening can also deter the air in the drainage 
+cavity from reaching the window frame. Such a seal 
+is typically placed at the head of the opening between 
+the back of the lintel and the interior masonry wythe, 
+per Figure 12, and below the window sill. The seal 
+must be integrated with a similar seal at the jamb 
+between the two masonry wythes, per Figure 13, 
+Figure 14, Figure 15 and Figure 16. 
+Protection Against Moisture. At window and door 
+openings, flashing is required to keep cavity moisture 
+from entering the window system and the interior, 
+as well as to keep any moisture that bypasses the 
+window system from entering the cavity. Window 
+systems are designed only to weep moisture that 
+penetrates the seals of the window frame and do not 
+negate the need for flashing of the masonry opening 
+itself. Similar to the treatment of all window openings 
+in brick walls, through-wall flashing is installed at the 
+head and below the window sill. When installed at 
+these discrete locations, extend the flashing beyond 
+the ends of the lintel or sill, and turn up to form end 
+dams. 
+Flashing below the window sill is depicted in 
+Figure 17. Form end dams at the sides and the back 
+of the sill flashing to form a pan beneath the window. 
+Fully seal or solder, as applicable, seams and corners 
+in the sill flashing. When one-piece continuous 
+masonry sills with lugs are specified, the flashing 
+should extend into the adjacent exterior masonry 
+wythe at the jambs. When detailed in this manner, sill 
+Figure 15
+Window Jamb with Brick Closure Detail
+Figure 16
+Window Jamb with Cavity Seal Detail
+Figure 14
+Window Jamb with Cavity Blocking Detail
+Figure 17
+Window Sill Detail
+
+[[p17]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 17 of 19 
+flashing can manage water that bypasses the perimeter sealant joint at both the sill and jambs. Sealing the pre-
+compressed cavity seal at the jambs to the sill flashing completes a continuous barrier between the window frame 
+and the cavity. 
+Jamb flashing is not required but may be placed between the interior masonry wythe and the window frame as 
+an additional barrier. Jamb flashing should be fully adhered or sealed to the interior masonry wythe and extended 
+down to lap over the through-wall flashing at the sill.
+Structural Bearing
+Cast-in-Place Concrete Slabs. Thermal strains or other movements are often blamed for cracking in masonry 
+walls that is caused by the shrinkage or curling of concrete slabs that bear on the walls and are bonded to them. 
+Curling of a concrete slab is generally caused by deflection of the slab when the forms are removed and in 
+response to applied dead and live loads. Installation of a bond break between the concrete slab and the concrete 
+masonry permits the slab to have some freedom of movement with respect to the plane of the wall. Thickening 
+the slab into a beam over the interior wythe can help to stiffen the slab and minimize curling. 
+Open-Web Steel Joists. The coefficient of thermal expansion of steel is approximately twice that of brick 
+masonry. When the temperature difference between the materials is large and the steel is firmly fastened to or 
+confined within the masonry, the potential for cracking the masonry wall increases. Masonry bond beams are 
+placed in the interior wythe below the steel joists to distribute the gravity load on the bearing wall. It is common 
+practice to mechanically attach floor and roof joists to steel anchors embedded in the masonry, with slotted 
+holes in the joist ends. Anchor bolts are installed snug-tight, not fully tensioned, in order to permit the necessary 
+movement. The expansion and contraction capacity of this detail can be improved by lubricating the bearing 
+surfaces or providing bearing pads with low coefficients of friction. The joist end should be separated from the 
+grout in the bearing wall by surrounding the joist end with a layer of building paper prior to grouting in order 
+to prevent unintended restraint. Minimum bearing requirements of the joists are established by the Steel Joist 
+Institute and depend on the span and depth of the joist. Figure 18 illustrates an example of a structural system 
+using steel joists bearing on a masonry wall.
+Precast Concrete Planks. Precast hollow-core concrete planks can bear on the interior wythe of a BV/CMU wall. 
+In such cases, a minimum bearing of 3 in. (76 mm) is generally recommended, unless the structural engineer or 
+manufacturer requires more stringent bearing depths. A bearing pad is recommended between the plank and the 
+concrete masonry bond beam below. Mechanical anchorage to the wall may be achieved with reinforcing steel, 
+similar to that shown in Figure 19. The structural engineer should design project-specific anchorage details.
+Wood Framing. Wood floor joists constructed using beam pockets in the masonry normally have a 3 in. (76 mm) 
+fire cut end and bear only on the interior wythe of a BV/CMU wall. The ends of the joists must not project into 
+the drainage cavity. If they do, they can form a ledge, which may create a path for moisture ingress across the 
+drainage cavity. Alternate framing support options include the use of standard metal joist hangers attached to a 
+Figure 18
+Steel Joist Bearing
+Figure 19
+Steel Reinforced Concrete Plank Bearing
+
+[[p18]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 18 of 19 
+ledger bolted to the inner wythe of CMU, per Figure 20, or joist hangers intended for attachment to or integration 
+into masonry may be connected to the inner wythe of the BV/CMU wall. Note that if the inner wythe consists of 
+hollow masonry, then cells where anchors will be installed, such as those supporting the ledger board or individual 
+hangers, must be grouted solid. 
+Wood roof framing can be anchored to BV/CMU walls by many methods; one of these is shown in Figure 21. 
+The detail illustrates a method in which the bearing plate is secured by anchor bolts grouted into the top of the 
+cavity. The roof framing can then be attached to the bearing plate with strap anchors as shown. The actual 
+required anchorage to the masonry must be determined by the structural engineer, but the TMS Code requires a 
+minimum embedment of anchor bolts into masonry to be four bolt diameters or 2 in. (51 mm). Resistance to uplift 
+forces on roof members may require longer bolt embedment or vertical reinforcement. After the wood plate is 
+installed, the nuts must be hand-tightened, and the use of plate washers between the nuts and the wood plate is 
+recommended. 
+Summary
+This Technical Note provides an introduction to drained multi-wythe masonry walls, with a focus on the most 
+common assembly of brick veneer with a backing of concrete masonry. The properties and general principles 
+involved in the proper detailing and specification of brick veneer with concrete masonry backing are discussed. 
+Proper selection and placement of flashing, weeps, ties, expansion joints, insulation, water-resistive barriers, 
+air barriers and vapor retarders is provided. General information is also included on various structural bearing 
+conditions that may be considered for a loadbearing concrete masonry interior wythe. 
+The information and suggestions contained in this Technical Note are based on the available data 
+and the combined experience of engineering staff and members of the Brick Industry Association. 
+This information must be used in conjunction with good technical judgment and a basic 
+understanding of the properties of brick masonry. Final decisions on the use of the information 
+contained in this Technical Note are not within the purview of the Brick Industry Association and 
+must rest with the project architect of record, engineer of record and owner.
+REFERENCES
+1.	 Annual Book of ASTM Standards, ASTM International, West Conshohocken, PA, 2016:
+Volume 1.04 
+A36/A36M	
+Standard Specification for Carbon Structural Steel
+Volume 4.05
+C34	
+Standard Specification for Structural Clay Loadbearing Wall Tile
+C62	
+Standard Specification for Building Brick (Solid Masonry Units Made From Clay or Shale
+Figure 21
+Wood Truss Bearing
+Figure 20
+Wood Floor Joist Connection Detail
+
+[[p19]]
+www.gobrick.com | Brick Industry Association | TN 28D | Brick Veneer/Concrete Masonry Walls | Page 19 of 19 
+C73	
+Standard Specification for Calcium Silicate Brick (Sand-Lime Brick)
+C90	
+Standard Specification for Loadbearing Concrete Masonry Units
+C126	
+Standard Specification for Ceramic Glazed Structural Clay Facing Tile, Facing Brick, and 
+Solid Masonry Units
+C212	
+Standard Specification for Structural Clay Tile Facing Tile
+C216	
+Standard Specification for Facing Brick (Solid Masonry Units Made from Clay or Shale)
+C270	
+Standard Specification for Mortar for Unit Masonry 
+C476	
+Standard Specification for Grout for Masonry
+C652	
+Standard Specification for Hollow Brick (Hollow Masonry Units Made From Clay or Shale)
+C1364	
+Standard Specification for Architectural Cast Stone
+C1405	
+Standard Specification for Glazed Brick (Single Fired, Brick Units)
+C1634	
+Standard Specification for Concrete Facing Brick
+Volume 4.06
+C516	
+Standard Specification for Vermiculite Loose Fill Thermal Insulation
+C549	
+Standard Specification for Perlite Loose Fill Insulation
+C578	
+Standard Specification for Rigid, Cellular Polystyrene Thermal Insulation
+C612	
+Standard Specification for Mineral Fiber Block and Board Thermal Insulation
+C1029	
+Standard Specification for Spray-Applied Rigid Cellular Polyurethane Thermal Insulation
+C1224	
+Standard Specification for Reflective Insulation for Building Applications
+C1289	
+Standard Specification for Faced Rigid Cellular Polyisocyanurate Thermal Insulation Board
+2.	 Building Code Requirements for Masonry Structures (TMS 402-16), The Masonry Society, Longmont, CO, 
+2016.
+3.	 Building Science Corporation, Westford, MA:
+Building Science Digest 012: Moisture Control for New Residential Buildings, March 2009.
+Building Science Digest 013: Rain Control in Buildings, August 2011.
+Building Science Digest 104: Understanding Air Barriers, October 2006.
+Building Science Digest 105: Understanding Drainage Planes, October 2006.
+Building Science Digest 106: Understanding Vapor Barriers, April 2011.
+Building Science Insights 001: The Perfect Wall, July 2010.
+Building Science Insights 084: Forty Years of Air Barriers – The Evolution of the Residential Air Barrier, 
+February 2015.
+4.	 Handbook of Fundamentals, American Society of Heating, Refrigeration and Air Conditioning Engineers, 
+Inc., Atlanta, GA, 1997. 
+5.	 International Building Code, International Code Council, Country Club Hills, IL, 2015.
+6.	 International Energy Conservation Code, International Code Council, Country Club Hills, IL, 2015.
+7.	 International Residential Code, International Code Council, Country Club Hills, IL, 2015.
+8.	 NFPA 285: Standard Fire Test Method for Evaluation of Fire Propagation Characteristics of Exterior 
+Non-Load-Bearing Wall Assemblies Containing Combustible Components, National Fire Protection 
+Association, Quincy, MA, 2012.
+9.	 “Thermal Insulation, Environmental Acoustics,” Volume 04.06, Annual Book of ASTM Standards, 
+American Society for Testing and Materials, West Conshohocken, PA, November 1998. 
+10.	 Specification for Masonry Structures (TMS 602-16), The Masonry Society, Longmont, CO, 2016.
+11.	 Standard Method for Determining the Sound Transmission Rating for Masonry Walls (TMS 0302), The 
+Masonry Society, Longmont, CO, 2012.
+12.	 Standards for Architectural Cast Stone (TMS 404, 504, and 604), The Masonry Society, Longmont, CO, 
+2016.

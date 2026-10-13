@@ -1,0 +1,71 @@
+**Basis:** Typical U.S. material-takeoff practice. **Measurement and waste rules are estimating conventions—not code requirements.** Contract measurement rules, approved details, specifications, and adopted building-code/TMS provisions govern where applicable.
+
+## 1. Gross wall area — convention
+
+Measure **length × actual masonry height**, separately by material, thickness, wythe, finish, and wall segment.
+
+| Assembly | Height limits |
+|---|---|
+| Brick veneer | From **bottom of first brick at its supporting ledge/angle** to **top of actual brickwork**, including parapet brick. Exclude nonmasonry coping height. |
+| CMU stem wall | From **top of supporting concrete footing** to **top of CMU**. Do not automatically stop at slab elevation; follow the section. |
+| CMU trash enclosure | From its actual masonry support to top of CMU; measure caps/bond beams separately by type. |
+| Stepped/sloping walls | Break into rectangles/trapezoids using actual elevations. Include below-grade masonry where shown. |
+
+- **Bottom of concrete footing is not the bottom of masonry.** Footing depth belongs to the concrete takeoff.
+- Measure each wythe once; **do not count both faces of a single-wythe CMU wall**.
+- Use a consistent wall-length/corner convention, correcting overlaps at corners and intersections.
+- Add brick parapet back faces and returns **only where actually detailed**. Steel-stud backup is not a CMU quantity.
+
+## 2. Opening deductions — convention
+
+- Deduct scheduled **doors, windows, louvers, gates, and other substantial openings** using the **masonry rough-opening dimensions**, not glass, sash, or nominal door size.
+- Deduct only from the material/wythe actually interrupted. A door opening does not necessarily eliminate stem-wall masonry below the slab.
+- **There is no universal small-opening deduction threshold.** A stated convention such as “ignore penetrations ≤1 SF” is acceptable if consistent with contract rules; it is **not code**.
+- Ignoring a small penetration’s area does not eliminate required sleeves, trimming, flashing, or reinforcement.
+- Net field area = gross area − openings − areas assigned to separately counted special masonry.
+
+## 3. Corners, jambs, and special courses — convention
+
+- **Corners:** Count required corner/special units **EA by course**; distinguish left/right-hand shapes where relevant. Ordinary bonded corners are not an additional full wall area.
+- **Jambs:** Measure **LF of jamb height**; count closure, sash, bullnose, or other special units EA. Add actual masonry returns/reveals not already represented in wall area.
+- **Soldier, rowlock, and header courses:** Measure **LF by course and configuration**, including sill ears/returns. Convert to EA using the actual exposed unit dimension plus joint.
+- Remove their corresponding field-masonry quantity to avoid double counting.
+- Useful checks: nominal **8 × 16-in. CMU = 1.125 units/SF**; modular brick is approximately **7 units/SF**. Verify actual unit and joint modules.
+
+## 4. Accessories, reinforcement, and waste
+
+**Convention:** How quantities are measured.  
+**Design/code:** Required locations, sizes, spacing, anchorage, development, and detailing—not an estimator-selected allowance.
+
+| Item | Quantity rule |
+|---|---|
+| **Flashing** | LF by location and **developed width**, or SF = LF × developed width. Include specified laps, upturns, end dams, corners, and transitions. Count manufactured accessories EA. |
+| **Weeps/vents** | EA laid out along **each applicable flashing run** at specified spacing and end locations. Do not round total building length once. Weeps and upper vents are separate items. |
+| **Movement joints** | LF of actual joint path, including returns/offsets. Distinguish **brick expansion joints** from **CMU control joints**; quantify specified filler, backer rod, and sealant separately. |
+| **Veneer ties/anchors** | EA from actual row/column layout, stud alignment, and required perimeter/opening additions. Area ÷ permitted coverage is only a check; stud spacing alone does not establish tie spacing. |
+| **Lintels** | EA by type, section, and length. Length = clear masonry span + **detailed end bearings**. Separate steel veneer lintels from reinforced CMU lintels; confirm scope. |
+| **Reinforcement** | Bars EA and total cut LF/weight, including hooks, bends, dowels, development, and laps. Joint reinforcement: LF per reinforced bed joint, including specified laps/corners. Count bond-beam/lintel units separately. |
+
+**Typical ordering waste—convention, not code:**
+
+- Brick: **3–5%** straightforward work; **5–10%** cut-intensive work.
+- CMU: **2–5%** straightforward work; **5–10%** extensive cutting/special conditions.
+- Flashing/joint-reinforcement rolls: **5–10%** cutting allowance **after explicit laps/details**.
+- Ties, weeps, small accessories: **2–5%** spare allowance.
+- Rebar: use a cutting schedule; roughly **2–5%** fabrication/cutting waste if applicable.
+- Special shapes/lintels: order by schedule plus deliberate spares—not a blanket percentage.
+
+**Required laps, bearings, hooks, and end dams are installed quantities, not waste.**
+
+## 5. Ten common takeoff mistakes
+
+1. Measuring masonry down to **bottom**, rather than top, of concrete footing.
+2. Using floor-to-roof height and missing parapets or below-grade masonry.
+3. Counting steel-stud backup as CMU.
+4. Counting both faces of single-wythe CMU.
+5. Double counting corners, intersections, or wall returns.
+6. Using nominal window/door sizes instead of masonry openings.
+7. Applying inconsistent small-opening deductions.
+8. Counting special courses without reducing field brick/CMU.
+9. Missing opening ties, flashing end dams, laps, reinforcement, or lintel bearings.
+10. Treating detailed installed material as waste—or applying waste twice.

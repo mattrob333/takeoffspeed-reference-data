@@ -1,0 +1,546 @@
+[
+ {
+  "name": "booth wall 1/2\" plywood (LF x height)",
+  "formula": "sheathing.wall: SF = sum(LF x height x faces)",
+  "inputs": {
+   "runs": [
+    {
+     "lf": 15.9,
+     "unit": "FT",
+     "height": {
+      "value": 3.0,
+      "unit": "FT"
+     },
+     "faces": 1
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 47.7,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 81 / markup p29 (A-706) WALL 706",
+  "note": "height 3.0 ft is the estimator's and is not printed on any sheet; keep as a regression of the arithmetic only"
+ },
+ {
+  "name": "exterior wall 1/2\" plywood sheathing",
+  "formula": "sheathing.wall: SF = sum(LF x sheathing height x faces), no opening deduction",
+  "inputs": {
+   "runs": [
+    {
+     "lf": 89.7,
+     "unit": "FT",
+     "height": {
+      "value": 12.75,
+      "unit": "FT"
+     },
+     "faces": 1,
+     "legend": "EXT 8\" STUD WALL @ 12'9\"H"
+    },
+    {
+     "lf": 9.2,
+     "unit": "FT",
+     "height": {
+      "value": 10.25,
+      "unit": "FT"
+     },
+     "faces": 1,
+     "legend": "EXT 6\" STUD WALL @ 12'3\"H SHTNG 10'3\"H (sheathing height overrides wall height)"
+    },
+    {
+     "lf": 5.9,
+     "unit": "FT",
+     "height": {
+      "value": 7.166667,
+      "unit": "FT"
+     },
+     "faces": 1,
+     "legend": "PARAPET WALL @ 7'2\"H A310"
+    },
+    {
+     "lf": 41.5,
+     "unit": "FT",
+     "height": {
+      "value": 15.75,
+      "unit": "FT"
+     },
+     "faces": 1,
+     "legend": "EXT 8\" STUD WALL @ 15'9\"H"
+    },
+    {
+     "lf": 13.0,
+     "unit": "FT",
+     "height": {
+      "value": 4.0,
+      "unit": "FT"
+     },
+     "faces": 1,
+     "legend": "EXT 8\" STUD WALL @ 4'H"
+    },
+    {
+     "lf": 8.7,
+     "unit": "FT",
+     "height": {
+      "value": 15.75,
+      "unit": "FT"
+     },
+     "faces": 1,
+     "legend": "EXT 8\" STUD WALL @ 15'9\"H NO GWB"
+    },
+    {
+     "lf": 8.4,
+     "unit": "FT",
+     "height": {
+      "value": 18.666667,
+      "unit": "FT"
+     },
+     "faces": 2,
+     "legend": "6\" & 3-5/8\" METAL STUD @ 18'8\"H, BS 1/2\" SHTNG ONLY"
+    },
+    {
+     "lf": 46.0,
+     "unit": "FT",
+     "height": {
+      "value": 1.583333,
+      "unit": "FT"
+     },
+     "faces": 1,
+     "legend": "A-140 PARAPET WALL @ 1'7\"H"
+    },
+    {
+     "lf": 38.0,
+     "unit": "FT",
+     "height": {
+      "value": 2.583333,
+      "unit": "FT"
+     },
+     "faces": 1,
+     "legend": "A-140 PARAPET WALL @ 2'7\"H"
+    },
+    {
+     "lf": 96.6,
+     "unit": "FT",
+     "height": {
+      "value": 4.583333,
+      "unit": "FT"
+     },
+     "faces": 1,
+     "legend": "A-140 PARAPET WALL @ 4'7\"H"
+    }
+   ],
+   "openings": []
+  },
+  "expected": {
+   "quantity": 3057.0775,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 82 / markups p4 (A-120) + p7 (A-140)",
+  "note": "recomputes 3050.26 (-0.22%) at printed heights; 3051.50 (-0.18%) with the measured heights 4'-7 1/16\", 1'-7 1/8\" and 15'-9 1/16\" (A-300/A-310). LF rounding alone (max 5.59 SF) does not cover the 6.82 SF residual; ~1.2 SF is unexplained at printed heights"
+ },
+ {
+  "name": "canopy roof 5/8\" plywood (RT2 area)",
+  "formula": "sheathing.area: SF = sum(areas) x slope factor (1.0, flat)",
+  "inputs": {
+   "areas": [
+    {
+     "value": 285.4,
+     "unit": "SF",
+     "legend": "RT2 ROOFING"
+    }
+   ],
+   "pitch": {
+    "value": 0,
+    "unit": "in/12"
+   }
+  },
+  "expected": {
+   "quantity": 285.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.2,
+  "source": "line 84 / markup p7 (A-140)"
+ },
+ {
+  "name": "booth ceiling 3/4\" plywood, two layers",
+  "formula": "sheathing.area: SF = area x layers",
+  "inputs": {
+   "areas": [
+    {
+     "value": 76.2,
+     "unit": "SF",
+     "legend": "PT5 FINISH @ BOOTH ROOF"
+    }
+   ],
+   "layers": 2
+  },
+  "expected": {
+   "quantity": 152.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.3,
+  "source": "line 86 / markup p29 (A-706)",
+  "note": "estimate 152 = 2 x 76.2 booth-roof area; top layer is the 3/4\" plywood painted PT-5, the second layer is read as the ceiling-side plywood substrate (A-706 det. 7/8) whose thickness is not printed"
+ },
+ {
+  "name": "IT room FR plywood backboard",
+  "formula": "backing.area: SF = measured elevation area (8 ft tall panels)",
+  "inputs": {
+   "areas": [
+    {
+     "value": 215.3,
+     "unit": "SF",
+     "legend": "3/4\"THK. FIRE RATED PLYWOOD BACKBOARD"
+    }
+   ],
+   "thickness": "3/4\"",
+   "treatment": "FRT"
+  },
+  "expected": {
+   "quantity": 215.33,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 87 / markup p49 (E-702)"
+ },
+ {
+  "name": "casework in-wall blocking, rows from the \"(n)\" prefix",
+  "formula": "blocking: LF = sum(rows x run LF)",
+  "inputs": {
+   "runs": [
+    {
+     "lf": 8.6,
+     "unit": "FT",
+     "rows": 7,
+     "legend": "A-701 (7) 1x4 FIRE RETARDANT TREATED BLOCKING"
+    },
+    {
+     "lf": 14.6,
+     "unit": "FT",
+     "rows": 2,
+     "legend": "A-702 (2) 1x4 WOOD BLOCKING FRAMING"
+    },
+    {
+     "lf": 9.8,
+     "unit": "FT",
+     "rows": 4,
+     "legend": "A-703 (4) 1x4 WOOD BLOCKING FRAMING"
+    },
+    {
+     "lf": 23.3,
+     "unit": "FT",
+     "rows": 2,
+     "legend": "A-707 (2) 1x4 WOOD BLOCKING FRAMING"
+    },
+    {
+     "lf": 15.7,
+     "unit": "FT",
+     "rows": 2,
+     "legend": "A-705 (2) 1x4 BLOCKING"
+    },
+    {
+     "lf": 1.6,
+     "unit": "FT",
+     "rows": 5,
+     "legend": "A-700 (5) 2x4 WOOD BLOCKING FRAMING"
+    },
+    {
+     "lf": 8.7,
+     "unit": "FT",
+     "rows": 3,
+     "legend": "A-705 (3) 2x4 BLOCKING"
+    }
+   ],
+   "size": "1x4",
+   "treatment": "FRT"
+  },
+  "expected": {
+   "quantity": 240.66,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 89 / markups p23-p32",
+  "note": "estimator folded the two 2x4 rows into the 1x4 line; 1x4 rows alone = 206.6 LF"
+ },
+ {
+  "name": "high-low roof step wall 2x4 P.T. blocking",
+  "formula": "blocking: LF = run LF, rounded up to whole LF",
+  "inputs": {
+   "runs": [
+    {
+     "lf": 45.3,
+     "unit": "FT",
+     "legend": "8/A450 LAP ROOF 2', INCL WALL"
+    }
+   ],
+   "size": "2x4",
+   "treatment": "P.T.",
+   "roundUpTo": {
+    "value": 1,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 46.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.0,
+  "source": "line 91 / markup p7 (A-140), A-450 det. 8/10",
+  "note": "alternative: A-140 PARAPET WALL @ 1'7\"H is also 46.0 FT exactly (46 would then be unrounded); rejected because its coping detail 6/A450 has one 2x10 nailer, while det. 8/10 at the step wall shows the stacked 2x4 + 2x6"
+ },
+ {
+  "name": "high-low roof step wall 2x6 P.T. blocking",
+  "formula": "blocking: LF = run LF, rounded up to whole LF",
+  "inputs": {
+   "runs": [
+    {
+     "lf": 45.3,
+     "unit": "FT",
+     "legend": "8/A450 LAP ROOF 2', INCL WALL"
+    }
+   ],
+   "size": "2x6",
+   "treatment": "P.T.",
+   "roundUpTo": {
+    "value": 1,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 46.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.0,
+  "source": "line 92 / markup p7 (A-140), A-450 det. 10",
+  "note": "alternative: A-140 PARAPET WALL @ 1'7\"H is also 46.0 FT exactly (46 would then be unrounded); rejected because its coping detail 6/A450 has one 2x10 nailer, while det. 8/10 at the step wall shows the stacked 2x4 + 2x6"
+ },
+ {
+  "name": "wing-wall coping 2x16 P.T. blocking",
+  "formula": "blocking: LF = coping LF, rounded up to 5 LF",
+  "inputs": {
+   "runs": [
+    {
+     "lf": 13.9,
+     "unit": "FT",
+     "legend": "COPING 3/A430"
+    }
+   ],
+   "size": "2x16",
+   "treatment": "P.T.",
+   "roundUpTo": {
+    "value": 5,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 15.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.0,
+  "source": "line 93 / markup p7 (A-140), A-430 det. 3"
+ },
+ {
+  "name": "roof coping 2x10 P.T. nailer",
+  "formula": "blocking: LF = coping LF",
+  "inputs": {
+   "runs": [
+    {
+     "lf": 148.1,
+     "unit": "FT",
+     "legend": "COPING 6/A450"
+    }
+   ],
+   "size": "2x10",
+   "treatment": "P.T."
+  },
+  "expected": {
+   "quantity": 148.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 94 / markup p7 (A-140), A-450 det. 6"
+ },
+ {
+  "name": "high-parapet coping 2x14 P.T. nailer",
+  "formula": "blocking: LF = coping LF, rounded up to 5 LF",
+  "inputs": {
+   "runs": [
+    {
+     "lf": 38.5,
+     "unit": "FT",
+     "legend": "COPING 9/A450"
+    }
+   ],
+   "size": "2x14",
+   "treatment": "P.T.",
+   "roundUpTo": {
+    "value": 5,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 40.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.0,
+  "source": "line 95 / markup p7 (A-140), A-450 det. 9"
+ },
+ {
+  "name": "high-parapet 1x6 blocking under brake metal",
+  "formula": "blocking: LF = coping LF, rounded up to 5 LF",
+  "inputs": {
+   "runs": [
+    {
+     "lf": 38.5,
+     "unit": "FT",
+     "legend": "COPING 9/A450"
+    }
+   ],
+   "size": "1x6",
+   "treatment": "P.T.",
+   "roundUpTo": {
+    "value": 5,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 40.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.0,
+  "source": "line 96 / markup p7 (A-140), A-450 det. 9"
+ },
+ {
+  "name": "night depository opening 2x6 blocking",
+  "formula": "blocking: LF = traced opening perimeter",
+  "inputs": {
+   "runs": [
+    {
+     "lf": 8.8,
+     "unit": "FT",
+     "legend": "2x6 BLOCKING"
+    }
+   ],
+   "size": "2x6"
+  },
+  "expected": {
+   "quantity": 8.78,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.3,
+  "source": "line 97 / markup p12 (A-201)"
+ },
+ {
+  "name": "transaction bar knee wall 1/2\" plywood, both faces",
+  "formula": "backing.wall: SF = ceil5(LF x height x faces)",
+  "inputs": {
+   "runs": [
+    {
+     "lf": 4.0,
+     "unit": "FT",
+     "height": {
+      "value": 3.75,
+      "unit": "FT"
+     },
+     "faces": 2,
+     "legend": "1/2\" PLYWOOD @ 3'9\"H"
+    }
+   ],
+   "roundUpTo": {
+    "value": 5,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 30.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.0,
+  "source": "line 145 / markup p23 (A-700)"
+ },
+ {
+  "name": "casework 3/4\" plywood backing",
+  "formula": "backing: SF = ceil5(sum(n x LF x H) + sum(areas))",
+  "inputs": {
+   "runs": [
+    {
+     "lf": 3.7,
+     "unit": "FT",
+     "height": {
+      "value": 1.333333,
+      "unit": "FT"
+     },
+     "rows": 2,
+     "legend": "A-700 (2) 3/4\" PLYWOOD @ 1'4\"H"
+    },
+    {
+     "lf": 1.6,
+     "unit": "FT",
+     "height": {
+      "value": 0.666667,
+      "unit": "FT"
+     },
+     "rows": 1,
+     "legend": "A-700 3/4\" PLYWOOD @ 8\"H"
+    },
+    {
+     "lf": 8.6,
+     "unit": "FT",
+     "height": {
+      "value": 7.67,
+      "unit": "FT"
+     },
+     "rows": 1,
+     "legend": "A-701 3/4\" PLYWOOD @ 7.67H"
+    }
+   ],
+   "areas": [
+    {
+     "value": 46.9,
+     "unit": "SF",
+     "legend": "A-702 3/4\" PLYWOOD"
+    },
+    {
+     "value": 8.0,
+     "unit": "SF",
+     "legend": "A-703 3/4\" PLYWOOD"
+    }
+   ],
+   "roundUpTo": {
+    "value": 5,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 135.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.0,
+  "source": "line 146 / markups p23, p24, p25, p27",
+  "note": "raw 131.80 SF before the ceil-to-5 rule"
+ },
+ {
+  "name": "tech wall 5/8\" plywood backing",
+  "formula": "backing.area: SF = ceil5(area)",
+  "inputs": {
+   "areas": [
+    {
+     "value": 37.2,
+     "unit": "SF",
+     "legend": "5/8\" PLYWOOD BACKING"
+    }
+   ],
+   "roundUpTo": {
+    "value": 5,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 40.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.0,
+  "source": "line 147 / markup p28 (A-704)"
+ }
+]

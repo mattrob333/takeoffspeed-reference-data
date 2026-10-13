@@ -1,0 +1,95 @@
+**Basis:** Count from approved plans, riser and sequence of operations—not floor area alone. References below use **NFPA 72-2019, NEC-2020 and IBC-2021**; adopted editions/local amendments govern. **† = estimating allowance, not a code minimum.**
+
+## A. Addressable fire alarm
+
+| Material | Counting rule |
+|---|---|
+| FACP/enclosure | **1/system** assumed; include required SLC/NAC/interface cards, avoiding duplicates included with panel |
+| Annunciator; communicator | **1 each where specified**; communicator may be integral |
+| Smoke/heat detectors | **1 head + 1 compatible base/location**; substitute sounder/isolator base where shown |
+| Duct detector | **1 assembly/location**, sampling tube sized to duct; add remote test/indicator and shutdown interface where required |
+| Manual stations | **1/shown location**; do not assume every exit requires one without checking applicable requirements |
+| Horns, strobes, horn/strobes | **1 appliance/location**; combination horn/strobe = **1 appliance**, not 2 |
+| Speakers/speaker-strobes | **1/location** if voice evacuation specified; include amplifiers/power equipment |
+| Monitor modules | Count **independent monitored inputs**, then divide by usable inputs/module; waterflow and valve tamper normally remain separate points |
+| Control/relay modules | Count **independently controlled functions/circuits**: HVAC shutdown, door release, etc.; distinguish supervised outputs from dry-contact relays |
+| SLC isolators | Count engineered isolation boundaries; **no universal “1 per X devices” rule** |
+| NAC boosters/remote supplies | Quantity from output count, load, voltage drop and distribution—not a fixed devices/supply ratio |
+| Boxes/backboxes | **1 per required mounting enclosure**; account for shared boxes and integral enclosures. Combination appliance generally uses **1 box** |
+| Accessories | Count EOL components **per supervised circuit requiring them**; mounting plates, covers, guards and labels per applicable location |
+
+**Cable schedule—examples only; listing/manufacturer and voltage drop govern:**
+
+- SLC: **1 × 18/2** cable along the actual loop/branch route; shielding as specified.
+- NAC: **1 × 14/2 or 12/2** per circuit route.
+- Auxiliary power: separate **2-conductor** cable where required; gauge calculated.
+- Voice: typically **1 × shielded 18/2** per speaker-circuit route, if compatible with the equipment.
+- Select **FPL/FPLR/FPLP** or permitted substitutes by installation environment—not simply “all low voltage.”
+- Include required primary-power branch circuit(s), disconnect identification and monitoring; assign the electrical-package scope explicitly.
+
+**Batteries:** Count **1 set per independently battery-backed source**. A typical 24 V source uses **2 × 12 V batteries in series**; Ah capacity does **not** double.
+
+\[
+Ah_{\text{base}}=24I_{\text{standby}}+\frac{5}{60}I_{\text{alarm}}
+\]
+
+For emergency voice/alarm service, use **15/60 h**, rather than 5/60 h, at the applicable alarm load. Apply the adopted-edition safety/aging factor and manufacturer requirements; round up to an approved battery size. Verify charger capacity and cabinet space. These durations are the usual battery-only protected-premises basis, not every permitted power arrangement.
+
+## B. Access control—per single-leaf, entry-controlled door
+
+Assume **1 entry reader and mechanical free egress**.
+
+| Item | Quantity/door | Typical cable/run |
+|---|---:|---|
+| Reader | **1**; add **1** for controlled exit | **1 reader run**: OSDP—1 impedance-controlled RS-485 twisted pair plus 2 power conductors; Wiegand—typically **22/6 or 22/8**, manufacturer-specified |
+| Electric strike/electrified lock | **1** | **1 × 18/2 or 16/2**; additional conductors for monitoring/functions |
+| Door-position contact | **1/monitored leaf** | **1 × 22/2** |
+| Powered REX sensor | **0 or 1** | If used, typically **1 × 22/4** |
+| Passive REX switch | **0 or 1**, often integral to hardware | Typically **1 × 22/2**; do not automatically add a separate sensor |
+| Power transfer/door loop | **1 only for powered leaf-mounted hardware** | Conductors matched to hardware; not normally needed for a frame-mounted strike |
+| Reader/device/junction boxes | Per actual mounting detail | Do not assign one generic box to every concealed component |
+
+System-level quantities:
+
+- **Controllers:** \(\lceil D/c\rceil\), where \(D\) = controlled doors and \(c\) = usable doors/controller; also verify reader and I/O capacities and geographic grouping.
+- **Power supplies:** count required power zones after checking simultaneous load, output count, voltage drop and release arrangement. **Not automatically 1/door.**
+- **Backup batteries:** only as specified/required; access control has **no blanket NFPA 72 24-hour standby requirement**.
+- **Network:** generally **1 Cat 6 home run/networked controller**, not necessarily 1/door.
+- **Sensor-release locking:** include **1 independent manual unlocking device/door** and required fire-alarm/sprinkler release interfaces. Hardware-release arrangements differ. **Do not require FA release for every electric strike merely because it is access-controlled.**
+- Count shared FA release relays by **approved release circuit/group**, and count them in **one trade only**.
+
+## C. IP video surveillance
+
+- **Cameras:** **1/location**; add **1 required mount**, enclosure/backbox and environmental accessories per mounting detail.
+- **Horizontal cable:** **1 Cat 6 home run/camera** for typical Ethernet/PoE cameras.
+- **PoE ports:** **1/camera**; planning allowance **\(\lceil1.20N\rceil\)†**. Count uplinks separately. Verify per-port PoE class and total **PSE power allocation**, including IR/heaters—not just port count.
+- **NVR/VMS:** normally **1 appropriately sized recording system**; verify camera channels, incoming bitrate, recording throughput and **1 licence/camera where separately licensed**.
+- **Storage:** use aggregate average recording bitrate—not camera count alone:
+
+\[
+\boxed{\text{Usable TB}=0.0108\times N\times b_{\text{Mbps}}\times d_{\text{days}}\times f_{\text{recording}}}
+\]
+
+Example: **8 cameras × 4 Mbps × 30 days × continuous recording = 10.37 TB usable**, before overhead/reserve. A **20%†** allowance gives **12.44 TB usable**. Motion-recording duty factor is **uncertain unless substantiated**.
+
+- Count actual HDDs after RAID, hot-spare and formatting allowances; **raw disk TB ≠ usable recording TB**.
+- Count UPS units by designated protected equipment group, **if specified**.
+
+## LF and termination conventions—all three systems
+
+1. **Measure actual routed centerline:** horizontal route + vertical rises/drops + offsets. Single-storey does not mean zero vertical LF.
+2. **FA daisy chain:** panel-to-first-device home run + every device-to-device segment. Add required return legs for Class A; measure required separated routing. Do **not** home-run every addressable device unless designed that way.
+3. **Access/video:** count each actual home-run or distributed-controller segment. A composite cable is **1 cable run**, not several separately purchased cables.
+4. **Slack allowance:** **2 ft/field cable termination + 10 ft/panel or rack termination†**. Count incoming/outgoing cable ends separately. Add specified service loops separately.
+5. **Cable LF:** route + slack. Keep optional **5% ordering waste†** separate from installed LF. A 100-ft run of **18/2 = 100 cable-ft**, not 200 cable-ft.
+6. **Conduit LF:** count shared raceway **once**, regardless of cable count. Count fittings, boxes, supports, sleeves and firestopping from actual routing/penetrations.
+7. **Ethernet:** normally **90 m/295 ft permanent link; 100 m/328 ft channel**, including applicable cords; slack consumes the allowance. Check temperature/cord-related derating.
+8. **Typical jack-to-jack camera link:** **1 patch-panel port + 1 field jack + 2 patch cords**. Approved MPTL/direct-camera termination instead uses **1 field plug + 1 rack patch cord**; do not count both arrangements.
+
+## Code/standard references
+
+- **NFPA 72-2019:** **§10.6**, particularly **§10.6.7.2**—power/secondary capacity; **§12.3**—pathway classifications; **§§17.6, 17.7, 17.14**—heat, smoke and manual initiation; **§§18.4–18.5**—audible/visible notification; **Chapter 21**—emergency-control interfaces.
+- **NEC-2020:** **§§760.121, 760.130, 760.136, 760.154**—PLFA sources, wiring, separation and cable applications; **§§725.121, 725.130, 725.136, 725.144, 725.154**—Class 2/3 sources, wiring, separation, power/data and cable applications. Raceway fill: **§300.17 and Chapter 9, Table 1**, including its notes.
+- **IBC-2021:** **§1010.2.11**—door-hardware release; **§1010.2.12**—sensor release of electrically locked egress doors.
+- **TIA-568.2-D:** balanced-pair channel/permanent-link and MPTL provisions; **TIA-569-D:** telecommunications pathways/spaces. **Exact TIA clause numbers are unverified here; I am not asserting guessed section numbers.** Neither establishes the project’s device count or the slack/waste allowances above.[gpt-6-astra tokens in 181 out 7876]
+

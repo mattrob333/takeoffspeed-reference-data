@@ -1,0 +1,448 @@
+[
+ {
+  "name": "33-site-utilities line 721: 15\" DIA STORM PIPE LINE",
+  "formula": "pipeLF = sum(runs where size=15\")",
+  "inputs": {
+   "runs": {
+    "value": [
+     25.11
+    ],
+    "unit": "ft"
+   },
+   "size": {
+    "value": 15,
+    "unit": "in"
+   },
+   "material": {
+    "value": "HDPE",
+    "unit": "text"
+   }
+  },
+  "expected": {
+   "quantity": 25.11,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.01,
+  "source": "line 721 / C-4.0 STORM PIPES table (p74)"
+ },
+ {
+  "name": "33-site-utilities line 722: 18\" DIA STORM PIPE LINE",
+  "formula": "pipeLF = sum(runs where size=18\")",
+  "inputs": {
+   "runs": {
+    "value": [
+     17.69,
+     45.97,
+     92.25,
+     85.26,
+     70.17,
+     21.08
+    ],
+    "unit": "ft"
+   },
+   "size": {
+    "value": 18,
+    "unit": "in"
+   },
+   "material": {
+    "value": "HDPE",
+    "unit": "text"
+   }
+  },
+  "expected": {
+   "quantity": 332.42,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.01,
+  "source": "line 722 / C-4.0 STORM PIPES table (p74)"
+ },
+ {
+  "name": "33-site-utilities line 723: 6\" SANITARY SEWER PIPE LINE",
+  "formula": "pipeLF = sum(runs)",
+  "inputs": {
+   "runs": {
+    "value": [
+     49.92,
+     92.03,
+     14.14,
+     90.7,
+     14.14,
+     23.03,
+     12.0
+    ],
+    "unit": "ft"
+   },
+   "size": {
+    "value": 6,
+    "unit": "in"
+   },
+   "material": {
+    "value": "PVC",
+    "unit": "text"
+   }
+  },
+  "expected": {
+   "quantity": 295.96,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.01,
+  "source": "line 723 / C-5.0 SANITARY PIPES table (p77)"
+ },
+ {
+  "name": "33-site-utilities line 725: 8\" HDPE HEADER PIPE FOR ROOF DRAIN",
+  "formula": "pipeLF = legend LF (2-dp PlanSwift value)",
+  "inputs": {
+   "runs": {
+    "value": [
+     168.18
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 168.18,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 725 / p74 C-4.0 legend 168.2 FT"
+ },
+ {
+  "name": "33-site-utilities line 726: 8: 1\" PVC DOMESTIC WATERINE",
+  "formula": "pipeLF = legend LF (2-dp PlanSwift value)",
+  "inputs": {
+   "runs": {
+    "value": [
+     138.27
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 138.27,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 726 / p77 C-5.0 legend 138.3 FT"
+ },
+ {
+  "name": "33-site-utilities line 727: 3: UNDERGROUND POWER SERVICE.",
+  "formula": "pipeLF = legend LF (2-dp PlanSwift value)",
+  "inputs": {
+   "runs": {
+    "value": [
+     72.88
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 72.88,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 727 / p77 C-5.0 legend 72.9 FT"
+ },
+ {
+  "name": "33-site-utilities line 728: 4: UNDERGROUND TELEPHONE SERVICE",
+  "formula": "pipeLF = legend LF (2-dp PlanSwift value)",
+  "inputs": {
+   "runs": {
+    "value": [
+     74.43
+    ],
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 74.43,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "line 728 / p77 C-5.0 legend 74.4 FT"
+ },
+ {
+  "name": "33-site-utilities line 729: 4\" DIA SANITARY CLEANOUTS W/ RECESSED BRASS CLEANOUT PLUG",
+  "formula": "EA = count",
+  "inputs": {
+   "type": {
+    "value": "cleanout",
+    "unit": "text"
+   },
+   "count": {
+    "value": 6,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 6,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 729 / p77 legend + C-5.0 SSCO rows S2-S7"
+ },
+ {
+  "name": "33-site-utilities line 730: A2-2-STGI: HOODED GRATE INLET - NO DETAILS",
+  "formula": "EA = count",
+  "inputs": {
+   "type": {
+    "value": "inlet",
+    "unit": "text"
+   },
+   "count": {
+    "value": 5,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 5,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 730 / p74 legend + C-4.0 STGI rows A2,A2.2,A3,A4,C2"
+ },
+ {
+  "name": "33-site-utilities line 731: YARD INLET - NO DETAILS",
+  "formula": "EA = count",
+  "inputs": {
+   "type": {
+    "value": "yard-inlet",
+    "unit": "text"
+   },
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 731 / p74 legend + A2.1-STYI"
+ },
+ {
+  "name": "33-site-utilities line 732: 4'-0\" DIA PRECAST CONCRETE JUNCTION BOX - NO DETAILS SO ASSUMED",
+  "formula": "EA = count",
+  "inputs": {
+   "type": {
+    "value": "junction-box",
+    "unit": "text"
+   },
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "excludedExisting": {
+    "value": [
+     "C1-STJB"
+    ],
+    "unit": "text"
+   }
+  },
+  "expected": {
+   "quantity": 1,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 732 / p74 legend + B1-STJB"
+ },
+ {
+  "name": "33-site-utilities line 733: 4'-0\" DIA PRECAST CONCRETE OUTLET CONTROL STRUCTURE - NO DETAILS SO AS",
+  "formula": "EA = count",
+  "inputs": {
+   "type": {
+    "value": "control-structure",
+    "unit": "text"
+   },
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 733 / p74 legend + B2-STOCS"
+ },
+ {
+  "name": "33-site-utilities line 734: 5: PROPOSED 8\"x8\"x1\" TAPPING SADDLE AND CORPORATION STOP",
+  "formula": "EA = count",
+  "inputs": {
+   "kind": {
+    "value": "tapping-saddle",
+    "unit": "text"
+   },
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 734 / p77 legend keynote 5"
+ },
+ {
+  "name": "33-site-utilities line 735: 9: 1\" DOMESTIC WATER METER",
+  "formula": "EA = count",
+  "inputs": {
+   "kind": {
+    "value": "meter",
+    "unit": "text"
+   },
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 735 / p77 legend keynote 9"
+ },
+ {
+  "name": "33-site-utilities line 736: 9: 1\" DOMESTICRPZ BACKFLOW PREVENTER",
+  "formula": "EA = count",
+  "inputs": {
+   "kind": {
+    "value": "backflow",
+    "unit": "text"
+   },
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 736 / p77 legend keynote 9"
+ },
+ {
+  "name": "33-site-utilities line 737: 2: CONNECTION AT EXISTING MANHOLE FOR SANITARY SEWER CONNECTION. CORE ",
+  "formula": "EA = count",
+  "inputs": {
+   "kind": {
+    "value": "connection",
+    "unit": "text"
+   },
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 1,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 737 / p77 legend keynote 2"
+ },
+ {
+  "name": "33-site-utilities line 738: A1-STHW: 6\" CONCRETE HEADWALL",
+  "formula": "headwallLF = legend LF rounded to whole feet (ceil vs nearest unverified: both give 9)",
+  "inputs": {
+   "wallLength": {
+    "value": 8.8,
+    "unit": "ft"
+   },
+   "roundTo": {
+    "value": 1,
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 9,
+   "unit": "LF"
+  },
+  "tolerancePct": 0,
+  "source": "line 738 / p74 C-4.0 legend A1-STHW 8.8 FT"
+ },
+ {
+  "name": "33-site-utilities line 739: 2: IRRIGATION BACKFLOW",
+  "formula": "EA = sum(legend counts over pages) [estimator double count; dedupe gives 1]",
+  "inputs": {
+   "pageCounts": {
+    "value": [
+     1,
+     1
+    ],
+    "unit": "EA"
+   },
+   "pages": {
+    "value": [
+     42,
+     87
+    ],
+    "unit": "page"
+   }
+  },
+  "expected": {
+   "quantity": 2,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 739 / p42 + p87 E-010 legends"
+ },
+ {
+  "name": "33-site-utilities line 740: EXCAVATION REQUIRED FOR PIPE TRENCHING",
+  "formula": "trenchExcCY = round(sum(L)) * W * D / 27",
+  "inputs": {
+   "runs": {
+    "value": [
+     25.11,
+     332.42,
+     295.96,
+     168.18
+    ],
+    "unit": "ft"
+   },
+   "trenchWidth": {
+    "value": 3.0,
+    "unit": "ft"
+   },
+   "depth": {
+    "value": 5.0,
+    "unit": "ft"
+   },
+   "roundLengthTo": {
+    "value": 1,
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 456.666667,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.05,
+  "source": "line 740 / lines 721+722+723+725; estimator section 3 ft x 5 ft (inferred, not detail-backed)"
+ },
+ {
+  "name": "33-site-utilities line 741: BACKFILL REQUIRED",
+  "formula": "trenchBackfillCY = trenchExcCY - haulCY",
+  "inputs": {
+   "excavation": {
+    "value": 456.666667,
+    "unit": "CY"
+   },
+   "haul": {
+    "value": 42,
+    "unit": "CY"
+   }
+  },
+  "expected": {
+   "quantity": 414.666667,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.05,
+  "source": "line 741 / line 740 - line 742"
+ }
+]

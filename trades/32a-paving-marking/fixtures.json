@@ -1,0 +1,632 @@
+[
+ {
+  "name": "32a line 632: standard duty asphalt SF",
+  "formula": "SF = sum(areas)",
+  "inputs": {
+   "areas": [
+    {
+     "value": 2459.18,
+     "unit": "SF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2459.18,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.01,
+  "source": "632 / p72 brown 2459.2 SQ FT"
+ },
+ {
+  "name": "32a line 633: heavy duty asphalt SF",
+  "formula": "SF = sum(areas)",
+  "inputs": {
+   "areas": [
+    {
+     "value": 11367.3,
+     "unit": "SF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 11367.3,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.01,
+  "source": "633 / p72 cyan 11367.3 SQ FT"
+ },
+ {
+  "name": "32a line 634: heavy duty concrete pavement SF (keynotes 21 + 18 merged)",
+  "formula": "SF = ceil(sum(areas))",
+  "inputs": {
+   "areas": [
+    {
+     "value": 241.8,
+     "unit": "SF"
+    },
+    {
+     "value": 505.8,
+     "unit": "SF"
+    }
+   ],
+   "rounding": "ceil to whole SF"
+  },
+  "expected": {
+   "quantity": 748,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.01,
+  "source": "634 / p72 teal 241.8 + bright green 505.8"
+ },
+ {
+  "name": "32a line 635: concrete sidewalk SF",
+  "formula": "SF = ceil(area)",
+  "inputs": {
+   "areas": [
+    {
+     "value": 1834.7,
+     "unit": "SF"
+    }
+   ],
+   "rounding": "ceil to whole SF"
+  },
+  "expected": {
+   "quantity": 1835,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.01,
+  "source": "635 / p72 green 1834.7"
+ },
+ {
+  "name": "32a line 636: sidewalk 1/4\" expansion joint LF",
+  "formula": "LF = sidewalkSF / expansionSpacing",
+  "inputs": {
+   "sidewalkSF": {
+    "value": 1835,
+    "unit": "SF"
+   },
+   "expansionSpacing": {
+    "value": 25,
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 73.4,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "636 / C-6.0 sidewalk detail 25' max"
+ },
+ {
+  "name": "32a line 637: GDOT ADA ramp SF",
+  "formula": "SF = ceil(sum(rampAreas))",
+  "inputs": {
+   "rampAreas": [
+    {
+     "value": 113.3,
+     "unit": "SF"
+    }
+   ],
+   "ramps": {
+    "value": 2,
+    "unit": "EA"
+   },
+   "rounding": "ceil to whole SF"
+  },
+  "expected": {
+   "quantity": 114,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.01,
+  "source": "637 / p72 olive 113.3"
+ },
+ {
+  "name": "32a line 638: 24\" curb & gutter LF",
+  "formula": "LF = ceil(sum(runs))",
+  "inputs": {
+   "runs": [
+    {
+     "value": 993.9,
+     "unit": "LF"
+    }
+   ],
+   "rounding": "ceil to whole LF"
+  },
+  "expected": {
+   "quantity": 994,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.01,
+  "source": "638 / p72 slate blue 993.9 FT"
+ },
+ {
+  "name": "32a line 642: 4\" SSWL LF",
+  "formula": "LF = sum(runs)",
+  "inputs": {
+   "runs": [
+    {
+     "value": 441.31,
+     "unit": "LF"
+    }
+   ],
+   "width": {
+    "value": 4,
+    "unit": "in"
+   },
+   "color": "WHITE"
+  },
+  "expected": {
+   "quantity": 441.31,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.05,
+  "source": "642 / p72 red 441.3 FT"
+ },
+ {
+  "name": "32a line 643: striped crosswalk traced LF",
+  "formula": "LF = traced linework (as measured)",
+  "inputs": {
+   "runs": [
+    {
+     "value": 79.46,
+     "unit": "LF"
+    }
+   ],
+   "crossingLength": {
+    "value": 22.5,
+    "unit": "ft"
+   },
+   "walkWidth": {
+    "value": 5,
+    "unit": "ft"
+   },
+   "bars": {
+    "value": 4,
+    "unit": "EA"
+   },
+   "barWidth": {
+    "value": 2,
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 79.46,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "643 / p72 bright green 79.5 FT"
+ },
+ {
+  "name": "32a line 644: ADA aisle 45-degree hatch traced LF",
+  "formula": "LF = traced linework (as measured)",
+  "inputs": {
+   "runs": [
+    {
+     "value": 97.48,
+     "unit": "LF"
+    }
+   ],
+   "aisle": {
+    "W": {
+     "value": 5,
+     "unit": "ft"
+    },
+    "L": {
+     "value": 18,
+     "unit": "ft"
+    }
+   },
+   "width": {
+    "value": 4,
+    "unit": "in"
+   },
+   "color": "BLUE"
+  },
+  "expected": {
+   "quantity": 97.48,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "644 / p72 yellow 97.5 FT"
+ },
+ {
+  "name": "32a line 645: ADA painted symbol EA",
+  "formula": "EA = accessible stalls",
+  "inputs": {
+   "accessibleStalls": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "size": "3'-0\" x 3'-0\""
+  },
+  "expected": {
+   "quantity": 1,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "645 / p72 blue circle 1 EA"
+ },
+ {
+  "name": "32a line 646: 24\" stop bar LF",
+  "formula": "LF = sum(runs)",
+  "inputs": {
+   "runs": [
+    {
+     "value": 49.58,
+     "unit": "LF"
+    }
+   ],
+   "width": {
+    "value": 24,
+    "unit": "in"
+   },
+   "bars": {
+    "value": 2,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 49.58,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.05,
+  "source": "646 / p72 purple 49.6 FT"
+ },
+ {
+  "name": "32a line 647: arrow marking EA",
+  "formula": "EA = count",
+  "inputs": {
+   "count": {
+    "value": 2,
+    "unit": "EA"
+   },
+   "size": "3'-8\" x 9'-4\""
+  },
+  "expected": {
+   "quantity": 2,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "647 / p72 teal circles 2 EA"
+ },
+ {
+  "name": "32a line 648: ADA parking sign assembly EA",
+  "formula": "EA = accessible stalls",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "signCode": "R7-8 + R7-8P5"
+  },
+  "expected": {
+   "quantity": 1,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "648 / p72 magenta circle 1 EA"
+ },
+ {
+  "name": "32a line 649: STOP sign EA",
+  "formula": "EA = count",
+  "inputs": {
+   "count": {
+    "value": 3,
+    "unit": "EA"
+   },
+   "signCode": "R1-1",
+   "panel": "30\" x 30\""
+  },
+  "expected": {
+   "quantity": 3,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "649 / p72 olive circles 3 EA"
+ },
+ {
+  "name": "32a line 650: DO NOT ENTER sign EA",
+  "formula": "EA = count",
+  "inputs": {
+   "count": {
+    "value": 2,
+    "unit": "EA"
+   },
+   "signCode": "R5-1"
+  },
+  "expected": {
+   "quantity": 2,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "650 / p72 slate blue circles 2 EA"
+ },
+ {
+  "name": "32a line 659: bike rack EA",
+  "formula": "EA = count",
+  "inputs": {
+   "count": {
+    "value": 2,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 2,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "659 / p72 cyan circles 2 EA"
+ },
+ {
+  "name": "32a line 660: bike rack footing CY",
+  "formula": "CY = round(pi/4*round(D,2)^2,2) * H * racks * footingsPerRack / 27",
+  "inputs": {
+   "racks": {
+    "value": 2,
+    "unit": "EA"
+   },
+   "footingsPerRack": {
+    "value": 2,
+    "unit": "EA"
+   },
+   "diameter": {
+    "value": 1.0,
+    "unit": "ft"
+   },
+   "depth": {
+    "value": 1.0,
+    "unit": "ft"
+   },
+   "circleAreaRounding": "2 dp"
+  },
+  "expected": {
+   "quantity": 0.117037,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.01,
+  "source": "660 / p72 19:BIKE RACK 2 EA"
+ },
+ {
+  "name": "32a line 661: bike rack excavation CY",
+  "formula": "CY = round(pi/4*round(D,2)^2,2) * H * racks * footingsPerRack / 27",
+  "inputs": {
+   "racks": {
+    "value": 2,
+    "unit": "EA"
+   },
+   "footingsPerRack": {
+    "value": 2,
+    "unit": "EA"
+   },
+   "diameter": {
+    "value": 1.0,
+    "unit": "ft"
+   },
+   "depth": {
+    "value": 1.0,
+    "unit": "ft"
+   },
+   "circleAreaRounding": "2 dp"
+  },
+  "expected": {
+   "quantity": 0.117037,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.01,
+  "source": "661 / p72 19:BIKE RACK 2 EA"
+ },
+ {
+  "name": "32a line 662: bike rack haul-off CY",
+  "formula": "CY = round(pi/4*round(D,2)^2,2) * H * racks * footingsPerRack / 27",
+  "inputs": {
+   "racks": {
+    "value": 2,
+    "unit": "EA"
+   },
+   "footingsPerRack": {
+    "value": 2,
+    "unit": "EA"
+   },
+   "diameter": {
+    "value": 1.0,
+    "unit": "ft"
+   },
+   "depth": {
+    "value": 1.0,
+    "unit": "ft"
+   },
+   "circleAreaRounding": "2 dp"
+  },
+  "expected": {
+   "quantity": 0.117037,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.01,
+  "source": "662 / p72 19:BIKE RACK 2 EA"
+ },
+ {
+  "name": "32a line 674: dumpster bollard EA",
+  "formula": "EA = count",
+  "inputs": {
+   "count": {
+    "value": 5,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 5,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "674 / p72 DUMPSTER BOLLARDS 5 EA; C-3.0 draws 5 (3 back wall + 2 jamb), A-190 plan 4 draws 6 (4 back wall + 2 jamb)"
+ },
+ {
+  "name": "32a line 675: dumpster bollard footing CY",
+  "formula": "CY = round(pi/4*round(D,2)^2,2) * H * n / 27",
+  "inputs": {
+   "count": {
+    "value": 5,
+    "unit": "EA"
+   },
+   "diameter": {
+    "value": 16,
+    "unit": "in"
+   },
+   "depth": {
+    "value": 3.0,
+    "unit": "ft",
+    "assumed": true
+   },
+   "circleAreaRounding": "2 dp"
+  },
+  "expected": {
+   "quantity": 0.772222,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.01,
+  "source": "675 / depth 3'-0\" is an estimator assumption: A-190 section 3 gives the 16\" pier diameter only, drawn with break lines, no depth (RFI) + p72"
+ },
+ {
+  "name": "32a line 676: dumpster bollard excavation CY",
+  "formula": "CY = round(pi/4*round(D,2)^2,2) * H * n / 27",
+  "inputs": {
+   "count": {
+    "value": 5,
+    "unit": "EA"
+   },
+   "diameter": {
+    "value": 16,
+    "unit": "in"
+   },
+   "depth": {
+    "value": 3.0,
+    "unit": "ft",
+    "assumed": true
+   },
+   "circleAreaRounding": "2 dp"
+  },
+  "expected": {
+   "quantity": 0.772222,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.01,
+  "source": "676 / depth 3'-0\" is an estimator assumption: A-190 section 3 gives no pier depth (RFI) + p72"
+ },
+ {
+  "name": "32a line 677: dumpster bollard haul-off CY",
+  "formula": "CY = round(pi/4*round(D,2)^2,2) * H * n / 27",
+  "inputs": {
+   "count": {
+    "value": 5,
+    "unit": "EA"
+   },
+   "diameter": {
+    "value": 16,
+    "unit": "in"
+   },
+   "depth": {
+    "value": 3.0,
+    "unit": "ft",
+    "assumed": true
+   },
+   "circleAreaRounding": "2 dp"
+  },
+  "expected": {
+   "quantity": 0.772222,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.01,
+  "source": "677 / depth 3'-0\" is an estimator assumption: A-190 section 3 gives no pier depth (RFI) + p72"
+ },
+ {
+  "name": "32a line 713: drive-thru bollard EA",
+  "formula": "EA = count",
+  "inputs": {
+   "count": {
+    "value": 8,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 8,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "713 / p89 A-401 legend 8 EA"
+ },
+ {
+  "name": "32a line 714: drive-thru bollard footing CY",
+  "formula": "CY = round(pi/4*round(D,2)^2,2) * H * n / 27",
+  "inputs": {
+   "count": {
+    "value": 8,
+    "unit": "EA"
+   },
+   "diameter": {
+    "value": 16,
+    "unit": "in"
+   },
+   "depth": {
+    "value": 4.0,
+    "unit": "ft"
+   },
+   "circleAreaRounding": "2 dp"
+  },
+  "expected": {
+   "quantity": 1.647407,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.01,
+  "source": "714 / A-401 detail 8: H = 4.0 ft is the nominal pipe embedment '48\" BELOW GRADE'; the detail adds 3\" of fill below the pipe (51\" total), not carried by the estimator + p89"
+ },
+ {
+  "name": "32a line 715: drive-thru bollard excavation CY",
+  "formula": "CY = round(pi/4*round(D,2)^2,2) * H * n / 27",
+  "inputs": {
+   "count": {
+    "value": 8,
+    "unit": "EA"
+   },
+   "diameter": {
+    "value": 16,
+    "unit": "in"
+   },
+   "depth": {
+    "value": 4.0,
+    "unit": "ft"
+   },
+   "circleAreaRounding": "2 dp"
+  },
+  "expected": {
+   "quantity": 1.647407,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.01,
+  "source": "715 / A-401 detail 8 (H = 48\" nominal pipe embedment; 3\" extension not carried) + p89"
+ },
+ {
+  "name": "32a line 716: drive-thru bollard haul-off CY",
+  "formula": "CY = round(pi/4*round(D,2)^2,2) * H * n / 27",
+  "inputs": {
+   "count": {
+    "value": 8,
+    "unit": "EA"
+   },
+   "diameter": {
+    "value": 16,
+    "unit": "in"
+   },
+   "depth": {
+    "value": 4.0,
+    "unit": "ft"
+   },
+   "circleAreaRounding": "2 dp"
+  },
+  "expected": {
+   "quantity": 1.647407,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.01,
+  "source": "716 / A-401 detail 8 (H = 48\" nominal pipe embedment; 3\" extension not carried) + p89"
+ }
+]

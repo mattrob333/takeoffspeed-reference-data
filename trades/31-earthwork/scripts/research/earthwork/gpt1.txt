@@ -1,0 +1,65 @@
+[gpt-6-astra tokens in 206 out 5779]
+**Basis:** 1 CY = 27 ft³. Project specifications, geotechnical recommendations and planned excavation protection override estimating assumptions.
+
+### 1. Swell, shrink and conversions
+
+**Indicative planning ranges only:** I am not confident enough to attribute these ranges to a verified published table.
+
+| Material | Swell: bank → loose | Shrink: bank → compacted |
+|---|---:|---:|
+| Sand | 10–15% | 0–10% |
+| Common earth | 20–30% | 10–20% |
+| Clay | 30–50% | 10–20% |
+| Blasted rock | 50–75% | No reliable generic factor; compacted volume can exceed bank volume |
+
+Define \(s\) as swell and \(h\) as shrink, expressed as decimals:
+
+- **LCY = BCY × (1+s)**
+- **CCY = BCY × (1−h)**
+- **BCY = LCY/(1+s) = CCY/(1−h)**
+- **LCY = CCY × (1+s)/(1−h)**
+
+Example: 100 BCY, 25% swell, 10% shrink → **125 LCY or 90 CCY**. Shrink here is relative to **bank**, not loose volume.
+
+Published basis for volume-state terminology: *Earthmoving Operations*, U.S. Department of the Army, **FM 5-434, 15 June 2000, chapter 1**. The ranges above are not quotations from its tables.
+
+### 2. Footing/trench excavation
+
+- **Working space:** No universal dimension. An explicitly labelled preliminary assumption might be **1–2 ft each side**; earth-formed footings may need **0 ft**. Formwork, waterproofing, access and shoring govern. Estimators should include necessary working space even when drawings show only finished concrete.
+- **Bottom width:** \(b=\text{footing width}+2w\).
+- **Slopes:** OSHA maximum slopes for excavations **20 ft or less**: stable rock **vertical**; Type A **0.75H:1V**; B **1H:1V**; C **1.5H:1V**, subject to classification and Appendix B conditions. These are safety limits, not automatic takeoff allowances; protective systems may replace slopes.
+- For a uniform trench with symmetric slopes \(mH:1V\):  
+  **CY = \(Ld(b+md)/27\)**, dimensions in feet; account separately for sloped ends.
+- **Over-excavation:** No standard percentage. Measure specified limits; identify any contingency separately.
+
+Source: *Safety and Health Regulations for Construction*, OSHA/U.S. Department of Labor, **29 CFR 1926, Subpart P, §1926.652 and Appendix B, Table B-1**; continuously codified regulation, not a numbered handbook edition.
+
+### 3. Topsoil, exposed subgrade and undercut
+
+- Strip actual specified/topsoil thickness—not automatically **6 in**. If 6 in is assumed, **1,000 SF = 18.52 BCY**.
+- Measure stripping and exposed-subgrade compaction separately. Compaction does **not** reduce plan area.
+- **95% compaction is not 5% volumetric shrinkage**; it ordinarily means a specified percentage of laboratory maximum dry density.
+- Undercut depth/extent and replacement material require geotechnical direction; no universal **6-in or 12-in** allowance.
+
+Source: *Standard Test Methods for Laboratory Compaction Characteristics of Soil Using Standard Effort*, **ASTM International, ASTM D698-12(2021), §1**. This defines the laboratory test, not a universal field acceptance percentage.
+
+### 4. Volume methods and accuracy
+
+With feet/SF inputs:
+
+- **Average-end-area:** \(V=L(A_1+A_2)/54\) CY. Useful for trenches, roads and cross-section-based work; sensitive to section spacing.
+- **Prismoidal:** \(V=L(A_1+4A_m+A_2)/162\) CY; \(A_m\) is the actual midpoint area—not the endpoint average. Better represents smoothly changing sections.
+- **Grid:** Useful for broad, relatively regular sites; misses features smaller than grid spacing.
+- **TIN:** Well suited to irregular sites with surveyed breaklines; exact for correctly integrated modeled planar surfaces, not necessarily actual terrain.
+
+There is **no defensible universal accuracy percentage or ranking** independent of survey quality, spacing and terrain.
+
+Source: *Elementary Surveying: An Introduction to Geomatics*, Charles D. Ghilani, **Pearson, 15th edition, chapter 27, “Volumes.”**
+
+### 5. Haul-off
+
+Balance quantities on one stated basis, commonly bank. Truck capacity is generally **loose CY**: 100 BCY at 25% swell requires **125 LCY** capacity. Payload limits may govern before volumetric capacity.
+
+### 6. Common mistakes
+
+Mixing volume states; netting cut/fill before conversion; double-counting stripping or overlapping excavations; omitting working space/slope ends; treating density percentage as shrinkage; ignoring unsuitable material; and failing to deduct permanent structures when calculating backfill.

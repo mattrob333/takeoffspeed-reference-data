@@ -1,0 +1,3188 @@
+[[p1]]
+cmha.org
+Installation Guide and Detailing Options
+for Compliance with ASTM C1780
+For Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+MSV Installation Guide
+
+[[p2]]
+
+[[p3]]
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+i
+Installation Guide and Detailing Options for 
+Compliance with ASTM C1780 For Adhered 
+Manufactured Stone Veneer
+Sixth Edition, First Printing
+13750 Sunrise Valley Drive 	
+Herndon, VA 20171	
+USA	
+Tel:+1.703.713.1900
+E-mail: info@masonryandhardscapes.org
+Web: www.cmha.org
+P.O. Box 1150
+Uxbridge, ON L9P 1N4
+Canada
+The Concrete Masonry & Hardscapes Association (CMHA), is the premier trade association representing producers, suppliers, and 
+contractors in the US and Canadian concrete masonry and hardscape industry. Formed through the unification of ICPI and NCMA, 
+CMHA stands as the authoritative voice for segmental concrete products and systems, promoting them as the best value and 
+preferred choice for resilient pavements, structures, and living spaces
+© Copyright 2026, Concrete Masonry & Hardscapes Association (CMHA).
+No part of this publication may be reproduced without the express written permission of CMHA.
+
+[[p4]]
+cmha.org
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+ii
+
+[[p5]]
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+iii
+DEFINITIONS/ABBREVIATIONS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+REFERENCES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ix
+DESIGN AND CONSTRUCTION CONSIDERATIONS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 01
+MATERIAL REQUIREMENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 03
+SURFACE PREPARATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 07
+INSTALLATION OF ADHERED MANUFACTURED STONE VENEER. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+CAUTIONS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+DRAWINGS/CROSS SECTIONS
+Figure 1.	
+Installation Over Wood Framing...................................................................................................................................16
+Figure 2.	
+Installation Over Concrete Masonry Units....................................................................................................................17
+Figure 3.	
+Wall Assembly Transition..............................................................................................................................................18
+Figure 4a. 	
+Typical Frame Wall Section..........................................................................................................................................19
+Figure 4b. 	
+Typical Frame Wall Section Over Continuous Rigid Insulation....................................................................................20
+Figure 5a. 	
+Foundation Wall Base..................................................................................................................................................21
+Figure 5b. 	
+Foundation Wall Base Over Continuous Rigid Insulation.............................................................................................22
+Figure 6. 	
+Foundation Wall Base-AMSV Overlapping Foundation................................................................................................23
+Figure 7. 	
+Foundation Wall-Transition to AMSV Continuing Down Foundation............................................................................24
+Figure 8a. 	
+Cladding Transition.......................................................................................................................................................25
+Figure 8b. 	
+Cladding Transition Over Continuous Rigid Insulation.................................................................................................26
+Figure 9a. 	
+Outside Corner.............................................................................................................................................................27
+Figure 9b. 	
+Outside Corner Over Continuous Insulation.................................................................................................................28
+Figure 10a.	
+Inside Corner................................................................................................................................................................29
+Figure 10b.	
+Inside Corner Over Continuous Insulation....................................................................................................................30
+Figure 11a.	
+Horizontal Transition.....................................................................................................................................................31
+Figure 11b.	
+Horizontal Transition Over Continuous Insulation........................................................................................................32
+Figure 12a.	
+Vertical Transition.........................................................................................................................................................33
+Figure 12b.	
+Vertical Transition Over Continuous Insulation.............................................................................................................34
+Figure 13a.	
+Open Eave-Overhang...................................................................................................................................................35
+Figure 13b.	
+Open Eave-Overhang Over Continuous Insulation......................................................................................................36
+Figure 14.	
+Open Eave-Flush..........................................................................................................................................................37
+Figure 15. 	
+Rake-Overhang............................................................................................................................................................38
+Figure 16. 	
+Rake-Flush...................................................................................................................................................................39
+Figure 17a.	
+Side Wall-Composition Shingles..................................................................................................................................40
+Table of Contents
+
+[[p6]]
+cmha.org
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+iv
+Figure 17b.	
+Side Wall-Composition Shingles Over Continuous Insulation......................................................................................41
+Figure 18. 	
+Side Wall-Composition Shingles Curbing.....................................................................................................................42
+Figure 19. 	
+Side Wall-Tile Roofing..................................................................................................................................................43
+Figure 20. 	
+Side Wall-Tile Roofing Curbing.....................................................................................................................................44
+Figure 21a.	
+Window Sill...................................................................................................................................................................45
+Figure 21b.	
+Window Sill Over Continuous Insulation.......................................................................................................................46
+Figure 22.	
+Window Jamb...............................................................................................................................................................47
+Figure 23. 	
+Window Head...............................................................................................................................................................48
+Figure 24. 	
+Kick-Out Flashing.........................................................................................................................................................49
+Figure 25. 	
+Cricket..........................................................................................................................................................................50
+Figure 26. 	
+Chimney Chase............................................................................................................................................................51
+Figure 27. 	
+Wood Column with Penetration Through Cap..............................................................................................................52
+Figure 28. 	
+Penetration, Flanged....................................................................................................................................................53
+Figure 29.	
+Penetration Non-Flanged, with Building Paper WRB...................................................................................................54
+Figure 30. 	
+Penetration Non-Flanged, with Housewrap WRB..........................................................................................................5
+Figure 31. 	
+Penetration, Fixture......................................................................................................................................................56
+Figure 32. 	
+Penetration, Dryer Vent................................................................................................................................................57
+Figure 33. 	
+Deck Termination..........................................................................................................................................................58
+Figure 34. 	
+Wall Cap.......................................................................................................................................................................59
+Figure 35.	
+Wall Assembly-Rainscreen System-Drainage System.................................................................................................60
+Figure 36. 	
+Wall Assembly-Rainscreen System-Strapped..............................................................................................................61
+Figure 37. 	
+Foundation Wall Base-Rainscreen System..................................................................................................................62
+Figure 38. 	
+Typical Wall Section-Rainscreen System.....................................................................................................................63
+Figure 39. 	
+Retaining Wall (CMU)...................................................................................................................................................64
+Figure 40. 	
+Stone Wrap Under Straight Overhang..........................................................................................................................65
+Figure 41a.	
+Forward Mounted Commercial Window.......................................................................................................................66
+Figure 41b.	
+Forward Mounted Commercial Window Over Continuous Insulation...........................................................................67
+Figure 42. 	
+Forward Mounted Commercial Window-Top View........................................................................................................68
+Figure 43. 	
+Commercial Storefront Window-Top View....................................................................................................................69
+Figure 44. 	
+Commercial Storefront Window....................................................................................................................................70
+Figure 45. 	
+Wall-Section Multi-Floor Joint Detail.............................................................................................................................71
+Figure 46a.	
+Wall-Section CMU........................................................................................................................................................72
+Figure 46b.	
+Wall-Section Over Continuous Rigid Insulation............................................................................................................73
+Figure 47. 	
+Wall-Section Parapet with Stone Cap..........................................................................................................................74
+Figure 48. 	
+Wall-Section Parapet with Steel Cap............................................................................................................................75
+Notes 	
+......................................................................................................................................................................................76
+Table of Contents continued
+
+[[p7]]
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+v
+Disclaimer
+This Guide addresses generally accepted methods and details for the installation of Adhered Manufactured Stone Veneer. To the 
+best of our knowledge, it is correct and up to date. The document, however, is designed only as a guide and it is not intended 
+for any specific construction project. CMHA makes no express or implied warranty or guarantee of the techniques, construction 
+methods or materials identified herein. It is understood that there are alternative means or methods that might be required and/or 
+recommended based on project conditions, manufacturer’s recommendations, or product characteristics.
+This Guide is for builders, architects, designers, masons, installers and other construction professionals who can interpret the 
+illustrations and typical applications of Adhered Manufactured Stone Veneer presented. Details in this guide that address the 
+installation and detailing of Adhered Manufactured Stone Veneer and its interface with other building components are not intended 
+as specific recommendations.
+It is the responsibility of all design and construction professionals to determine the applicability and appropriate application of any 
+detail to any specific project.
+ABOUT CMHA
+The Concrete Masonry & Hardscapes Association (CMHA), is the premier trade association representing producers, suppliers, and 
+contractors in the US and Canadian concrete masonry and hardscape industry. Formed through the unification of ICPI and NCMA, 
+CMHA stands as the authoritative voice for segmental concrete products and systems, promoting them as the best value and 
+preferred choice for resilient pavements, structures, and living spaces.
+Concrete Masonry & Hardscapes Association
+13750 Sunrise Valley Drive
+Herndon, VA 20171
+Phone: 703.713.1900
+www. cmha. org
+Copyright © 2026 by CMHA.   
+All rights reserved.  
+6th Edition, 1st Printing
+
+[[p8]]
+cmha.org
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+vi
+
+[[p9]]
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+vii
+Adhered Manufactured Stone Veneer (AMSV) — lightweight, architectural, non-load-bearing product that is manufactured by wet 
+cast blending of cementitious materials and aggregates, with or without pigments, admixtures, or other materials to simulate the 
+appearance of natural stone and other masonry materials.
+Note: CMHA recognizes there are many names used to describe Adhered Manufactured Stone Veneer products. Adhered Manufactured 
+Stone Veneer is used commonly throughout the industry and by some manufacturers. In the International Building Code, Adhered 
+Manufactured Stone Veneer products are referred to as Adhered Masonry Veneer. This guide will use AMSV (Adhered Manufactured 
+Stone Veneer) when referencing the product.
+Assembly Thickness — The distance from the exterior surface of the AMSV to the interior surface of the scratch coat or cement 
+backer unit.
+Backup — The interior or exterior assembly to which AMSV systems are installed.
+CMU — Concrete masonry unit.
+Corrosion Resistant — A material that is intrinsically resistant to degradation or physically or chemically treated to be so under 
+expected exposure conditions. Examples include: plastic-based materials stabilized for exposure to UV light, galvanized ferrous 
+metals, and stainless steel.
+Fasteners — Corrosion resistant hardware used to secure lath, screed, and flashing materials to backup systems.
+Flashing — Corrosion resistant material used to restrict the movement of water around any intersection or projection of materials in 
+an assembly.
+Lath — Corrosion resistant mesh building material fastened to the substrate to act as base for adhering mortar.
+Mortar — A mixture of cementitious material, water, and aggregate, with or without the addition of admixtures or additives to alter one 
+or more plastic or hardened properties, used to bond masonry construction materials together and fill spaces between.
+Pointing Mortar — Also known as grouting mortar, mortar mixture used to fill joints and cavities in AMSV construction.
+Mortar Scratch Coat — Base coat of mortar used during the installation of AMSV; cross-raked to improve bond of subsequent 
+mortar layers.
+Mortar Screen — Sheet material installed to prevent the mortar scratch coat from filling the drainage space behind an AMSV 
+assembly containing a rainscreen system.
+Mortar Setting Bed — Mortar used to adhere the AMSV to the substrate or scratch coat. This mortar is also referred to as ‘Bonding 
+Mortar.’
+Water Resistive Barrier (WRB) — Material used to restrict the transmission of water to the surface behind.
+Definitions
+
+[[p10]]
+cmha.org
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+viii
+
+[[p11]]
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+ix
+AC191 — ICC-ES Acceptance Criteria for Metal Plaster Bases (Lath)
+AC275 — ICC-ES Acceptance Criteria for Glass Fiber Lath used in Cementitious Exterior Wall Coating or Exterior Cement Plaster 
+(Stucco)
+AC376 — ICC-ES Acceptance Criteria for Reinforced Cementitious Sheets used as Wall and Ceiling Sheathing and Floor 
+Underlayment (Cement Board)
+ANSI Accredited Evaluation Service — (or equivalent) third-party organization that issues an evaluation report affirming a specific 
+building product meets building code requirements.
+International Code Council - Evaluation Service (ICC-ES) — An organization that performs technical evaluations on building 
+products, components, and construction methods for building code compliance. In the case where the building code is silent or 
+ambiguous as to a product’s requirements or a specific construction method, ICC-ES may develop “Acceptance Criteria” (AC) for the 
+product or construction method. www.icc-es.org
+International Building Code — Building code that provides the minimum requirements for safety, health, and welfare of life and 
+property from hazards of the built environment. The provisions of this code apply to the construction, alteration, addition, replacement, 
+repair, use and occupancy of all buildings except one and two family dwellings, and single-family townhomes not more than three 
+stories in height. www.iccsafe.org
+International Residential Code — Building code that provides minimum requirements for safety, health, and welfare of life and 
+property from hazards of the built environment. The provisions of this code apply to the construction, alteration, addition, replacement, 
+repair, use and occupancy of detached one and two family dwellings and single-family townhomes not more than three stories in 
+height. www.iccsafe.org
+ANSI — American National Standards Institute, www.ansi.org
+ANSI A118. 1 — American National Standards Institute Specifications for Dry-Set Portland Cement Mortar
+ANSI A118. 4 — American National Standards Institute Specifications for Modifed Dry-Set Cement Mortars
+ANSI A118. 15 — American National Standards Institute Specifications for Improved Modified Dry-Set Cement Mortar
+TMS 402 — Building Code Requirements for Masonry Structures. This standard is produced through the efforts of The Masonry 
+Society (TMS). www.masonrysociety.org
+TMS 602 — Specification for Masonry Structures. This standard is produced through the efforts of The Masonry Society (TMS). www.
+masonrysociety.org
+ICRI — International Concrete Repair Institute, Technical Guideline No. 310.2. www.icri.org
+ASTM International — ASTM is a developer of technical standards for products, systems, and services. www.astm.org
+ASTM C270 — Standard Specification for Mortar for Unit Masonry
+ASTM C482 — Standard Test Method for Bond Strength of Ceramic Tile to Portland Cement Paste 
+ASTM C578 - Standard Specification for Rigid, Cellular Polystyrene Thermal Insulation
+ASTM C847 — Standard Specification for Surface Applied Bonding Compounds for Exterior Plastering
+ASTM C933 — Standard Specification for Welded Wire Lath
+ASTM C979/979M — Standard Specification for Pigments for Integrally Colored Concrete
+ASTM C1032 — Standard Specification for Woven Wire Plaster Base
+ASTM C1059/1059M — Standard Specification for Latex Agents for Bonding Fresh to Hardened Concrete
+References
+
+[[p12]]
+cmha.org
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+x
+ASTM C1063 — Standard Specification for Installation of Lathing and Furring to Receive Interior and Exterior Portland Cement 
+Based Plaster
+ASTM C1289 - Standard Specification for Faced Rigid Cellular Polyisocyanurate Thermal Insulation Board
+ASTM C1325 — Standard Specification for Non-Asbestos Fiber-Mat Reinforced Cementitious Backer Units
+ASTM C1384 — Standard Specification for Admixtures for Masonry Mortars
+ASTM C1670/C1670M — Standard Specification for Adhered Manufactured Stone Masonry Veneer Units
+ASTM C1714/C1714M — Standard Specification for Preblended Dry Mortar Mix for Unit Masonry
+ASTM C1780 — Standard Practice for Installation Methods for Adhered Manufactured Stone Masonry Veneer
+ASTM C1788 — Standard Specification for Non Metallic Plaster Bases (Lath) Used with Portland Cement Based Plaster in Vertical 
+Wall Applications
+ASTM C1861 — Standard Specification for Lathing and Furring Accessories, and Fasteners, for Interior and Exterior Portland 
+Cement-Based Plaster
+ASTM E2556/E2556M — Standard Specification for Vapor Permeance Flexible Sheet Water-Resistive Barriers Intended for 
+Mechanical Attachment
+ASTM D226/D226M — Standard Specification for Asphalt Saturated Organic Felt Used in Roofing and Water Proofing
+ASTM F1667 — Standard Specification for Driven Fasteners, Nails, Spikes, and Staples
+References continued
+
+[[p13]]
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+xi
+Requirements Summary
+Sheathing5
+Substrate5
+Water Resistive 
+Barrier2
+Lath Type
+Fasteners3
+Scratch Coat
+Setting Bed 
+Mortar
+Backup: Interior Wood or Steel Stud Framing, Maximum Spacing 16 in. (406 mm)4,10
+•	 Gypsum Wall 
+Board
+•	 Plywood
+•	 OSB
+•	 Fiber Board
+Lath & Scratch 
+Coat
+Optional6
+Any approved 
+lath
+Corrosion Resistant; 
+minimum penetration ¾ inch 
+(19 mm) into wood framing 
+member or 3/8 in. into Steel 
+framing member
+Type N or S mortar 
+complying with ASTM 
+C270 or ASTM
+C1714; minimum nominal 
+thickness ½ in. (13 mm)
+ANSI A118.4  
+or A118.15
+Optional when 
+sheathing is non-
+structural
+Cement Board
+Not required
+Not required
+Corrosion-resistant cement 
+board screws
+Not required
+ANSI A118.4  
+or A118.15
+Backup: Exterior Wood or Steel Stud Framing; maximum spacing 16 in. (406 mm)10
+•	 Gypsum Wall 
+Board
+•	 Plywood
+•	 OSB
+•	 Fiber Board
+Lath & Scratch 
+Coat
+Minimum 2 layers 
+WRB
+Any approved 
+lath7
+Corrosion Resistant; 
+minimum penetration ¾ inch 
+(19 mm) into wood framing 
+member or 3/8 in. into Steel 
+framing member
+Type N or S mortar 
+complying with ASTM 
+C270 or ASTM
+C1714; minimum nominal 
+thickness ½ in. (13 mm)
+ANSI A118.4  
+or A118.15
+Cement Board
+Minimum 1 layer WRB
+Not required
+Corrosion-resistant cement 
+board screws
+Not required
+ANSI A118.4  
+or A118.15
+ Backup: Concrete or Concrete Masonry8,9,10
+Not applicable
+None (when 
+surface is suitable 
+for direct bonding)
+Not applicable
+Not applicable
+Not applicable
+Not applicable
+ANSI A118.4  
+or A118.15
+Lath and scratch 
+coat (when 
+required for 
+bonding)
+Optional9
+Any approved 
+Lath7,9
+Corrosion resistant concrete 
+screws, masonry nails, or 
+powder actuated fasteners9
+Type N or S mortar 
+complying with ASTM 
+C270 or ASTM
+C1714; minimum nominal 
+thickness ½ in. (13 mm)9
+ANSI A118.4  
+or A118.15
+Cement board
+Not applicable
+Not applicable
+Corrosion resistant concrete 
+screws with washers
+Not required
+ANSI A118.4  
+or A118.15
+Backup: Clay Masonry8,9,10
+Not applicable
+Lath & Scratch 
+Coat
+Optional9
+Any approved 
+Lath
+Corrosion resistant concrete 
+screws, masonry nails, or 
+powder actuated fasteners
+Type N or S mortar 
+complying with ASTM 
+C270 or ASTM
+C1714; minimum nominal 
+thickness ½ in. (13 mm)
+ANSI A118.4  
+or A118.15
+Cement Board
+Not required
+Not applicable
+Corrosion resistant concrete 
+screws with washers
+Not required
+ANSI A118.4  
+or A118.15
+1 Refer to AMSV manufacturer for installation recommendations addressing conditions not listed.
+2 WRB complying with ASTM D226 Type I, ASTM E2556 Type I or II, or equivalent.
+3 Fastener type must comply with ASTM C1861  and spacing must comply with ASTM C1063 for attachment of lath. For cement board attachment,  
+refer to cement board manufacturer 
+installation instructions. Refer to Tables 3 and 4 for minimum fastening requirements for direct attachment of AMSV systems over continuous insulation.
+4 For interior applications exposed to moisture, refer to corresponding exterior wall detailing requirements.
+5 Sheathing/substrate material shall be approved for intended application and installed in accordance with manufacturer’s recommendations.
+6 A single layer of WRB is recommended where the sheathing/substrate is moisture sensitive.
+7 Approved lath options are listed in ‘Material Requirements’ section under ‘Lath’ in this guide.
+8 AMSV systems cannot be installed over existing anchored masonry veneers.
+9 When installing AMSV over concrete or concrete masonry walls where good bond cannot be achieved or the concrete or concrete masonry is unsound, 
+  install AMSV over lath.
+10 Backup systems should be designed to limit out-of-plane deflections to l/360 when subjected to 42% of the components and cladding wind pressure.
+Table 1. AMSV Installation Requirements Summary1
+
+[[p14]]
+cmha.org
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+xii
+
+[[p15]]
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+1
+INTRODUCTION
+This guide focuses on the installation of AMSV systems for backup assemblies addressed in the summary table. Other backup 
+systems, such as structural insulated panels (SIPs), may require a specifically-designed system of installation for AMSVs. AMSV 
+systems should not be installed over deteriorating or unsound backup assemblies or exterior insulation and finishing systems (EIFS).
+DESIGN AND CONSTRUCTION CONSIDERATIONS
+This Installation Guide assumes that construction personnel have knowledge of the materials described and their knowledge and 
+experience of proper methods of installation.
+Prior to commencing activity related to the scope of this Guide, review all adjacent products and other work that precedes the 
+installation of AMSV to ensure that proper workmanship is reflected and that there are no recognizable errors or deficiencies that may 
+compromise the installation or performance of the AMSV.
+Quality
+A successful project requires the use of quality materials, proper design and detailing for the application, and a high standard of care 
+during installation. Unfortunately, the execution of these components in the field can be subject to value-engineering resulting in 
+materials selected based solely on price and installation techniques that focus on speed rather than quality. While the performance of 
+AMSV systems depends upon all three of these components, field workman- ship issues tend to be the dominate source of problems 
+when performance issues surface in the field. Installing AMSV in accordance with the recommended practices of this guide and 
+ASTM C1780 helps to ensure AMSV systems perform as intended for decades.
+Building Code Requirements
+Building code requirements vary from area to area. Check with local authorities for building code requirements for your area and 
+application. Carefully read all sections of this guide and follow the manufacturer’s installation instructions before proceeding with 
+your AMSV application. In the event the manufacturer’s installation instructions conflict with the intent of statements made in this 
+document, contact the manufacturer for additional guidance.
+The information provided in this Guide is written primarily for applying the prescriptive option for installation of adhered manufactured 
+stone masonry veneer in accordance with the 2022 version of TMS 402/602. That version is referenced in the 2024 International 
+Building Code and International Residential Code. For installations under earlier versions of the IBC or IRC, refer to the 5th Edition, 
+6th printing of this Guide.
+Project Site Requirements
+Jobsite safety is outside of the scope of this guide, however, users should always follow proper job site safety requirements including 
+local, state, and federal laws when installing AMSV products and systems.
+Prescriptive vs. Engineered Adhered Masonry Veneer
+Building code provisions for adhered masonry veneer are contained in TMS 402 (Building Code Requirements for Masonry Structures) 
+and TMS 602 (Specification for Masonry Structures). Beginning with the 2022 version of those standards, there are two primary 
+options for design and construction - the prescriptive option and the engineered option. For the prescriptive option, TMS 402/602 
+provides a detailed set of requirements for materials, substrates, fastening, and more. When those details are followed, additional 
+design is not needed. For the engineered option, there are few prescriptive requirements, instead requiring engineering of the 
+system, but allowing a much larger range of materials and systems.
+This Guide is written primarily for applying the prescriptive option for installation of adhered manufactured stone masonry veneer. 
+As such, situations where the engineered option would be required are generally outside of the scope of this guide. Therefore, the 
+following general requirements for prescriptive design and installation as required by TMS 402/602 apply for the recommendations 
+contained within this Guide:
+1.	The assembly thickness (defined as the average distance from the exterior surface of the adhered veneer unit to the interior 
+surface of the scratch coat or cement backer unit) shall not exceed 3 5/8 in. (92.1 mm).
+2.	The height above grade plane shall not exceed 60 ft (18.3 m).
+Design and Construction Considerations
+
+[[p16]]
+Design and Construction Considerations
+ 
+cmha. org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+2
+3.	Veneer shall be installed in a vertical application.
+4.	Light-frame backing shall have rigid sheathing installed.
+5.	The weight of the assembly (including units, setting bed mortar, scratch coat, lath, cement board, and other materials attached to 
+the backing, where present) shall not exceed a specified weight of 50 psf (2.4 kPa).
+Adhered veneer applications that do not meet the list above, as well as applications that intend to use installation methods or 
+materials outside those in this Guide or TMS 402/602 should consider the engineered option. Consult TMS 402/602-22 for more 
+information on engineered design and construction.
+
+[[p17]]
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+3
+Units
+AMSV units installed in accordance with this guide must meet the minimum requirements of ASTM C1670/ C1670M. This standard 
+contains constituent material requirements, physical property requirements (such as compressive strength, freeze-thaw durability, 
+drying shrinkage, and shear bond), as well as the following dimensional properties:
+•	 Minimum thickness of unit: 1/4 in. (6 mm), except those parts within 0.5 in. (13 mm) of the unit perimeter;
+•	 Average thickness of the unit: less than or equal to 2 5/8 in. (67 mm);
+•	 Maximum face dimension of unit: 36 in. (915 mm);
+•	 Maximum face area of the unit: 5 ft2 (0.5 m2); and
+•	 The weight per square foot of the unit shall not exceed 15 lb/ft2 (73 kg/m2).
+Flashing
+All flashing and flashing accessories must be corrosion resistant and integrated with the WRB materials (if present). For exterior 
+applications, flashing must be installed at all through-wall penetrations and at lower boundaries of AMSV installations. Flashing is not 
+required for interior applications of AMSV systems not exposed to water. For interior applications that are exposed to water, treat as 
+an exterior assembly.
+In some applications, the use of self-adhering flashing, also known as flashing tape, can be used. It is recommended that applicable 
+building codes as well as manufacturer's instructions are reviewed and followed to ensure they are permissible for the given project 
+or application. Additionally, the manufacturer of the AMSV should be contacted prior to construction to ensure the compatibility of the 
+two products.
+Rainscreen Drainage Plane Systems 
+Rainscreens are optional building techniques used to improve the drainage of incidental water behind the cladding and reduce drying 
+time. Rainscreen products (such as drainage mats or formed polymer sheeting) or construction techniques (such as strapping or 
+furring) that create a capillary break/air space between the cladding and the water resistive barrier can be effectively incorporated 
+into AMSV applications. Refer to the manufacturer’s recommendation for rainscreen/drainage system applications with adhered 
+manufactured stone veneer wall systems. Details of various applications utilizing rainscreen drainage plane systems can be found 
+in Figures 35-38. Building codes may allow a single layer of a water resistive barrier when a drainage space is incorporated in the 
+wall system (i.e. rainscreen). Based on the 2021 International Building Code, when a drainage space is required, the space/material 
+provided must be at least 3/16 in. (4.8 mm) applied to the exterior side of the WRB. Further, the WRB used behind the drainage 
+space must provide a water resistance equal to or greater to that provided by materials that comply with ASTM E2556 Type 2. Local 
+jurisdictions may have different requirements for drainage space size.
+Requirements for rainscreens vary by region. Verify local jurisdictional requirements regarding the use and application of rainscreens 
+and/or drainage products.
+Weep Screeds and Casing Beads
+Weep screeds and casing beads must be corrosion resistant, with weep screeds having a minimum vertical attachment flange of 3.5 
+inches (89 mm) that terminates behind the water resistive barrier (if present). The minimum thickness of metal weep screeds and 
+casing beads should not be less than 0.0179 inches (0.45 mm) (26 gage). For plastic weep screeds or casing beads, the minimum 
+thickness is 0.050 inches (1.3 mm).
+Lath
+Multiple lath materials have been used successfully for the installation of AMSV systems, including:
+•	 2.5 lb/yd2 (1.4 kg/m2) (or heavier) self-furring metal lath meeting ASTM C847;
+•	 Welded wire lath complying with ASTM C933;
+•	 18 gauge (or heavier) woven wire lath meeting ASTM C1032; or
+Material Requirements
+
+[[p18]]
+Material Requirements
+ 
+cmha. org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+4
+•	 The lath product is consistent with the AMSV manufacturer’s installation instructions and has an evaluation acceptance report from 
+an accredited evaluation service showing compliance with ICC-ES Acceptance Criteria 275 (AC275), or equivalent, and ASTM 
+C1788.
+All lath and lath accessories must be corrosion resistant, consisting of either galvanized or stainless steel materials or consisting of 
+materials complying with AC 275, and ASTM C1788. All lath material must be self-furred or use self-furring fasteners. Refer to Table 
+1 of this guide for specific lath and fastener recommendations.
+Fasteners
+Corrosion resistant fasteners are used to secure flashing and lath or cement board to the backup system. A variety of fasteners are 
+available such as staples, screws, and nails, provided the heads or washers of these fasteners are large enough to not pull through 
+the lath or cement board and the fastener is of sufficient length to penetrate into the supporting material. For specific fastener 
+selection criteria, refer to ASTM C1861.
+•	 Wood framing - For lath, corrosion resistant staples, corrosion resistant roofing nails, or corrosion resistant screws and washers. 
+For cement board, corrosion resistant cement board screws as recommended by the cement board manufacturer. Fasteners must 
+be of sufficient length to penetrate a minimum of ¾ inch (19 mm) into framing members.
+•	 Metal framing or panels - For lath, corrosion resistant staples, corrosion resistant roofing nails, or corrosion resistant screws 
+and washers. For cement board, corrosion resistant cement board screws as recommended by the cement board manufacturer. 
+Fasteners must be of sufficient length to penetrate a minimum of 3/8 inch (9.5 mm) through metal studs or panels.
+•	 Masonry or concrete walls or panels - Corrosion resistant concrete screws or powder actuated fasteners (or cap fastener). For 
+cement board, use 1 ¾ inch to 2 ¼ inch long 3/16 inch diameter concrete screws with 1-¼” diameter 25 gage galvanized washer.
+Cement Board
+Cement board may be used in place of lath and scratch coat, if desired. When used, cement board must comply with ASTM C1325. 
+They must also be evaluated for interior or exterior use in accordance with ICC-ES AC376 based on the desired applications. 
+When using cement board, only modified mortars complying with ANSI A118.4 or ANSI A118.15 should be used as the setting bed 
+mortar. Do not use conventional mortars (Type S or N) with cement board installations. Refer to ASTM C1780 and manufacturer 
+recommendations for additional details on cement board installations. Refer to Figures 4a and 4b for references to the primary 
+difference between lath and cement board applications. Other construction details illustrated in this guide are applicable to cement 
+boards installations as well.
+It is permitted to use one layer of water-resistive barrier between cement board and substrate. For exterior applications, joints in 
+cement board should be treated per manufacturer’s recommendations with modified mortars meeting ANSI A118.4 or ANSI A118.15 
+and 4-in. (100 mm). wide alkali-resistant fiberglass mesh tape. For interior applications, joints in cement board should be treated 
+per manufacturer’s recommendations with modified mortars meeting ANSI A118.4 or ANSI A118.15 and 2-in (50 mm). wide alkali-
+resistant fiberglass mesh tape.
+Mortar
+Mortars used for the installation of AMSV systems can be grouped into three different categories; scratch coat mortar, setting bed 
+mortar, and pointing mortar. Depending upon the type of mortar used and whether it is batched on site or delivered premixed to the 
+project, each mortar must meet minimum requirements as described below:
+Scratch Coat Mortars – Scratch coat mortars are also referred to as rendering mortars, parging mortars, and brown coat mortars. 
+They are applied directly to the lath or substrate to which AMSV systems are adhered. While historically the scratch coat has been 
+intentionally roughened, when modified mortars are used, such roughening is not necessary. Recommendations for the scratch coat 
+mortar are as follows:
+•	 Site Mixed: Meets the requirements of ASTM C270 Type N or Type S, or ASTM C926 up to brown coat (without application of finish 
+coat)
+•	 Preblended: Meets the requirements of ASTM C1714 /C1714M Type N or Type S
+
+[[p19]]
+Material Requirements
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+5
+Setting Bed Mortars – After the scratch coat mortar has cured sufficiently, the setting bed mortar is used to adhere the AMSV units 
+to the backing. The setting bed mortar is applied directly to the scratch coat or to the back of the AMSV units (back-buttering), or a 
+combination of both application methods. Recommendations for setting bed mortars are as follows:
+•	 Setting bed mortar should meet the requirements of ANSI 118.4 or ANSI 118.15
+Pointing Mortars – Pointing mortars, also referred to as grouting mortars or mortar used to grout mortar joints, are used to fill the joints 
+between individual AMSV units once the setting bed mortar has sufficiently cured. Not all AMSV systems incorporate mortar between 
+the units, while others allow the distance between units to be varied to create alternative architectural finishes. Recommendations 
+for the pointing mortar are as follows:
+•	 Site Mixed: Meets the requirements of ASTM C270 Type N or Type S
+•	 Preblended: Meets the requirements of ASTM C1714/C1714M Type N or Type S
+It is important to note that mortars mixed with higher amounts of cement will tend to be less workable and may be prone to increased 
+shrinkage cracking, but will provide greater bond strength. Type N mortars are generally easier to work with than Type S mortars due 
+to the higher cement content of Type S mortars.
+General Mortar Considerations
+When considering mortar selections, verify the mortar can provide a minimum shear bond strength of 50 lb/ in.2 (345 kPa) when 
+tested in accordance with ASTM C482, is consistent with the stone manufacturer's recommendations, and is suitable for installation 
+of adhered manufactured stone veneer. Prepackaged/ preblended mortars should be mixed and installed per mortar manufacturer's 
+instructions
+In some cases additives or admixtures are added to mortars to modify one or more plastic or hardened properties of the mortar; such 
+as workability enhancers, water repellents, or bond enhancers. When a modifier is introduced to a mortar comply with ASTM C270 or 
+ASTM C1714, the additional requirements of ASTM C1384 must also be met. Modifiers used in the production of mortar complying 
+with ANSI A118.4 or ANSI A118.15 are specifically designed to increase the mortar's bond strength.
+As reflected in Table 2, modified mortars containing bond enhancers and mortars with higher cement con- tents are better suited for 
+challenging installations or where increased bond strength is desired. Examples of these installations include exterior applications or 
+when directly bonding to substrates such as cement board. As not all mortar admixtures are compatible or interchangeable, consult 
+with mortar or additive manufacturers to ensure compatibility of mortar and admixture components.
+Modified Mortars
+There are a variety of different mortars that can be used as the setting bed in adhered veneer applications (the mortar used to attach 
+the stone to the prepared substrate). While historically mortars used in other masonry applications have been used, it is becoming 
+more common to utilize modified mortars for this purpose.
+Modified mortars contain additives to enhance properties, most relevantly bond strength. Polymers and other additives are used in 
+the dry mortar mix, which is then mixed on-site with water for use in adhered veneer. These mortars have different considerations for 
+use when compared to conventional mortars to ensure success.
+Modified mortars are required to comply with one of two ANSI standards:
+•	 ANSI A118.4 – American National Standard Specifications for Modified Dry-Set Cement Mortar.
+•	 ANSI A118.15 – American National Standard Specifications for Improved Modified Dry-Set Cement Mortar.
+These specifications prescribe minimum requirements for these materials. Mortar complying with either standard can be used in 
+adhered veneer applications. There may be some mortars that have polymers added, but do not meet the all the requirements of the 
+ANSI standards listed above. Be sure to carefully review information on the mortar to ensure full compliance with all the requirements 
+of ANSI A118.4 or A118.15.
+There are various modifying admixtures that are on the market. These are additives that are added to conventional mortar at the 
+jobsite to enhance properties, including bond. There is no current way for a Type S or N masonry mortar with jobsite additive additions 
+to be compliant with ANSI A118.4 or A118.15. This Guide does not recommend using jobsite latex additions in any setting bed mortar. 
+Use preblended, packaged modified mortars. Blending of conventional mortar with modified mortar also should not be done.
+
+[[p20]]
+Material Requirements
+ 
+cmha. org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+6
+This Guide prescribes several situations where modified mortar MUST be used:
+•	 Installing MSV over cement board
+•	 Non-vertical applications (such as overhangs)
+•	 Exterior applications over 10 ft. (3 m) above finished grade (except single-family residential)
+In addition to these situations, the 2022 TMS 402/602 (which is referenced in the 2024 IBC) requires the use of modified mortar when 
+using the prescriptive design and construction provisions. This new requirement will continue to expand the required use of modified 
+mortar into most applications in the future. Be sure to understand requirements applicable to a project based on which local code is 
+in effect.
+Modified Mortar Mixing
+Modified mortars may require different mixing methods than traditional type S or N mortars, and we will discuss generic methodology 
+for mixing modified mortars, or ANSI A118.4 and A118.15 mortars.
+Always follow the manufacturer’s mixing instructions, typically found on the back of the bagged product, or the Data Sheet for said 
+mortar. All manufacturers will provide at least some basic instructions which would include water content, recommended tools and 
+mixing methodology. In order for the modified mortar to perform as expected, be sure to follow the manufacturer’s recommendations 
+on mixing, slaking, and water content.
+When working with the mortar and it starts to stiffen up, re-mix the product without adding any more water. The product will loosen up 
+and be usable again. Most of these products have a 3 to 4 hour pot life (at 70°F (21 °C) and 50% RH). Check mortar manufacturer 
+information for specific pot life of a given mortar. Typically, pot life will be reduced when temperatures are high – a good rule of thumb 
+is that a 20°F (6.7 °C) increase in temperature will reduce pot life in half.
+
+[[p21]]
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+7
+Verify that the surface to which the AMSV is to be installed is structurally sound, free of any coatings or materials that would inhibit 
+bonding, and capable of supporting the intended AMSV system. The majority of the discussion and details in this guide focuses 
+on the installation of AMSV systems on backup systems consisting of wood or steel framing with rigid sheathing and concrete or 
+concrete masonry construction; however, virtually any backup system can be used when properly designed and prepared to receive 
+AMSV systems.
+When using modified mortar as the setting bed, surface preparation is generally the same as conventional mortars. The substrate 
+may need to be less rough or uneven than for conventional mortars. If the substrate is too rough or uneven, it should be made smooth 
+and flat using a modified mortar bed prior to the installation of a veneer. Follow mortar manufacturer’s recommendations when using 
+modified mortar to smooth the substrate.
+Masonry walls, poured-in-place concrete walls, and concrete tilt up panels must be clean and sound, free of dirt, waterproofing, 
+paint, form oil, or any other substance that could inhibit the mortar bond and must readily accept/absorb water in order to achieve 
+good bond. The International Concrete Repair Institute, (ICRI), provides guidance for concrete surface preparation and assessment. 
+The surfaces intended to receive AMSV units must have a rough texture to ensure good mortar bond. Refer to ICRI Technical 
+Guideline 310.2 for additional information on concrete surface preparation, including information on Concrete Surface Profile (CSP), 
+a standardized method to measure concrete surface roughness. A CSP equal to or greater than 2 is usually acceptable for the 
+installation of AMSV over concrete and masonry assemblies. If necessary, cleaning may be done with power washing or mechanical 
+methods (i.e. shot or bead blasting). If a bondable surface cannot be achieved, attach lath and scratch coat before installing AMSV. 
+This guide does not address the installation of AMSV systems over open stud backup systems.
+Modified Mortar: when installing on a masonry wall with modified mortar, if the substrate is too rough or uneven with dips and valleys 
+greater than ¼ in. (6 mm), it should be made smooth and flat using a modified mortar bed prior to the installation of a veneer. If the 
+substrate is relatively flat and smooth but the joints aren’t struck flush, a skim coat of a modified adhesive mortar may be all that is 
+necessary prior to the installation of the veneers. Filling joints and gaps is important when using modified setting beds because most 
+are intended for use at thicknesses less than conventional mortar. Excessive mortar thickness could lead to shrinkage cracking. 
+Refer to mortar manufacturer recommendations for usage of modified mortar as a skim coat, including recommendations on curing 
+time prior to stone installation.
+However, if the wall is flat, smooth, and the joints are struck flush, a direct adhesion of the veneer is possible. It is recommended that 
+the wall be cleaned and dampened before the application of a modified adhesive mortar.
+For concrete walls with a modified mortar, it should be verified that the concrete is free of sealers or form release agents. The presence 
+of these agents will prevent adequate bonding and may result in failure. Sealers and form release agents should be removed prior to 
+the veneer installation via mechanical means or the use of a pressure washer (3000 to 4000 PSI). Once the contaminants have been 
+removed, make sure to clean the dust or allow the wall to slightly dry. If the substrate is too rough or uneven with dips and valleys 
+greater than ¼ in. (6 mm), it should be made smooth and flat using a modified mortar bed prior to the installation of a veneer. It is 
+typically advised to wait 24 hours for the mortar bed to cure before starting the veneer installation. If the wall imperfections are smaller 
+than ¼ in. (6 mm), a modified adhesive mortar may be used as a skim coat. Filling gaps and imperfections is important when using 
+modified setting beds because most are intended for use at thicknesses less than conventional mortar. Excessive mortar thickness 
+could lead to shrinkage cracking. Refer to the manufacturer’s recommendations for usage of modified mortar as a skim coat and 
+relative to concrete surface texture for direct application.
+However, if the wall is flat and smooth, a direct adhesion of the veneer is possible. It is recommended that the wall be cleaned and 
+dampened before the application of a modified adhesive mortar.
+Wall Systems with Exterior Continuous Insulation
+AMSV may be installed on walls insulated with continuous insulation such as foam insulation. The presence of continuous insulation 
+may require larger fasteners and smaller spacing than for systems without insulation. TMS 402-22 contains tables for installation of 
+adhered veneer over both wood and steel stud framing for a variety of AMSV assembly weights and cavity widths. For AMSV, the 
+cavity is the distance from the structural backup to the inside surface of the scratch coat or cement board. The presence of continuous 
+insulation is one reason for larger cavity widths. See Tables 2 and 3 for requirements on fastening over continuous insulation, which 
+are adopted from similar provisions in Chapter 26 of the International Building Code. The requirements are contained within the IBC. 
+The allowable insulation thicknesses are based upon the fastener type, fastener spacing, cladding weight, and supporting backup 
+system.
+Surface Preparation
+
+[[p22]]
+Surface Preparation
+ 
+cmha. org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+8
+Water Resistive Barrier
+Where a water resistive barrier (WRB) is required, it should be installed in two separate layers in shingle fashion, starting from 
+the bottom of the wall. The inner layer of WRB (herein referred to as the Primary WRB) should be installed, along with flashings, 
+to create a drainage plane. The outer layer of WRB (herein referred to as the Secondary WRB) is intended to keep the scratch 
+coat from contacting the Primary WRB. For WRB materials complying with ASTM D226, the upper layer of the WRB should lap 
+on top of the lower layer by a minimum of 2 inches (51 mm), and the vertical joints should be lapped a minimum of 6 inches (152 
+mm). Refer to the WRB manufacturer's information for lapping requirements for other WRBs. Inside and outside corners must be 
+overlapped a minimum of 16 inches (406 mm) past the corner in both directions. The WRB should be installed in accordance with 
+the manufacturer’s recommendations and be integrated with all flashing accessories, adjacent WRBs, doors, windows, penetrations, 
+and cladding transitions.
+Cladding Fastener 
+through Foam:
+Cladding Fastener 
+Type and Minimum 
+Sizeb
+Cladding Fastener 
+Horizontal 
+Spacing (in. )
+Cladding Fastener 
+Vertical  
+Spacing (in. )
+Maximum Thickness of Foam Sheathingc  (in. )
+Cladding System Weightd
+11 psf
+18 psf
+25 psf
+Steel framing 
+(minimum 
+penetration of  
+steel thickness 
+plus 3 threads)
+#8 screw into  
+33 mil steel or thicker
+16
+6
+2.95
+2.20
+1.45
+#10 screw into 
+33 mil steel or thicker
+16
+6
+3.50
+2.70
+1.95
+#10 screw into 
+43 mil steel or thicker
+16
+6
+4.00
+4.00
+3.60
+For SI: 1 in. = 25.4 mm; 1 pound per square foot (psf) = 0.0479 kPa, 1 pound per square inch = 0.00689 MPa.
+DR = design required; 
+a  Steel framing shall be minimum 33 ksi steel for 33 mil and 43 mil steel and 50 ksi steel for 54 mil steel or thicker.
+b  Screws shall comply with the requirements of AISI S200.
+c  Foam sheathing shall have a minimum compressive strength of 15 pounds per square inch in accordance with ASTM C578 or ASTM C1289. 
+d Cladding System Weight includes the installed weight of the AMSV units, setting bed mortar, lath, and scratch coat.
+Table 2. Cladding Minimum Fastening Requirements for Direct Attachment of AMSV Over Insulation for Steel Framinga
+Cladding Fastener 
+through Foam:
+Cladding Fastener 
+Type and Minimum 
+Sizeb
+Cladding Fastener 
+Horizontal 
+Spacing (in. )
+Cladding Fastener 
+Vertical Spacing 
+(in. )
+Maximum Thickness of Foam Sheathingc  (in. )
+Cladding System Weightd
+11 psf
+18 psf
+25 psf
+Wood framing 
+(minimum 1¼ in. 
+pentration)
+0.113 in.  
+diameter nail
+16
+6
+1.45
+0.75
+DR
+0.120 in. 
+diameter nail
+16
+6
+1.70
+0.90
+0.55
+0.131 in.  
+diameter nail
+16
+6
+2.15
+1.20
+0.75
+0.162 in.  
+diameter nail
+16
+6
+3.55
+2.05
+1.40
+For SI: 1 inch = 25.4 mm; 1 pound per square foot (psf) = 0.0479 kPa 
+DR = design required
+a. Wood framing shall be Spruce-Pine-Fir or any wood species with a specific gravity of 0.42 or greater in accordance with AFPA/NDS.
+b. Nail fasteners shall comply with ASTM F1667, except nail length shall be permitted to exceed ASTM F1667 standard lengths.
+c. Foam sheathing shall have a minimum compressive strength of 15 psi in accordance with ASTM C578 or ASTM C1289.
+d. Cladding System Weight includes the installed weight of the AMSV units, setting bed mortar, lath, and scratch coat.
+Table 3. Cladding Minimum Fastening Requirements for Direct Attachment of AMSV over Insulation for Wood Framing
+
+[[p23]]
+Surface Preparation
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+9
+Acceptable WRBs:
+•	 No. 15 felt complying with ASTM D226 Type 1.
+•	 ASTM E2556 Type I or II
+•	 Approved equal in accordance with the building code. Other approved materials must be used and installed in accordance with the 
+manufacturer's instructions and as detailed in compliance reports. The following is a non-exhaustive list of additional materials that 
+may be suitable as a WRB if they include documentation of compliance with the referenced acceptance criteria:
+	◦ Materials evaluated for compliance with ICC-ES AC38.
+	◦Liquid-applied materials evaluated for compliance with ICC-ES AC212 (for use as Primary WRB only)
+	◦Pre-coated sheathing evaluated for compliance with ICC-ES AC310 (for use as Primary WRB only)
+•	 It is permitted to use only a primary WRB between cement board and the substrate.
+•	 As discussed in the “Rainscreen Drainage Plane Systems”, building codes may allow a single layer of a WRB to be used when 
+a drainage space is incorporated in the wall system. Requirements for the rainscreens vary by region. Verify with the local juris- 
+dictional requirements regarding the use an application of rainscreens. Refer to Figures 35-38 for details on such construction 
+method.
+•	 When transitioning to another cladding (such as that shown in Figure 8), refer to the applicable building code requirements for 
+WRB behind that specific cladding system. Despite the number of layers required for the non-AMSV cladding, there must be two 
+(2) layers of WRB present behind the AMSV.
+•	 Some types of continuous insulation may be substituted for the Primary WRB provided it is installed and sealed and/or taped in 
+accordance with the insulation manufacturer's installation instructions and approved for such applications. Continuous insulation 
+is commonly applied on the exterior side of the framing or on the exterior side of sheathing, runs continuously, and has minimal 
+thermal bridging. Ensure WRB(s) selected are approved for wall applications. Some WRB's intended for roofs are not appropriate 
+for walls. For example, 15 pound felt is not the same product as No. 15 felt. For details of this practice, please refer to the 
+continuous insulation figures shown throughout the figures section of this guide.
+Lath
+The installation of lath should be in accordance with ASTM C1063. Lath should be applied horizontally (perpendicular to framing, if 
+present) per manufacturer’s instructions, and should overlap a minimum of 1 in. (25 mm) at the vertical seams and a minimum of 1/2 
+in. (13 mm) at the horizontal seams. Vertical seams should be staggered. Lath should be wrapped around inside and outside corners 
+a minimum of 12 in. (305 mm). Lath should be fastened every 7 in. (178 mm) vertically on each stud. The spacing of studs should not 
+exceed 16 in. (406 mm). A similar spacing should be used on concrete or masonry wall surfaces, when used. Do not place seams at 
+inside/outside corner framing.
+TMS 402-22 contains tables for installation of adhered veneer over both wood and steel stud framing for a variety of AMSV assembly 
+weights and cavity widths. For AMSV, the cavity is the distance from the structural backup to the inside surface of the scratch coat or 
+cement board. Consult these tables for specific fastener size and spacing based on assembly weight and cavity width. If not installed 
+in accordance with ASTM C1063, alternate lath installation practices should be in accordance with manufacturer’s instructions. 
+Acceptable installation practices for metal lath should be evaluated in accordance with AC191 and ASTM C933.
+While recommendations vary, existing codes and standards do not stipulate the orientation of the lath “cups” (keys) once installed. 
+More important than the orientation of the lath cups is ensuring the lath is embed- ded within, and bonded to, the mortar scratch coat 
+for a successful AMSV installation. Lath is considered to be embedded within the mortar scratch coat when there is a 1/4 in. (6 mm) 
+nominal thickness of mortar between the back plane of the lath and the back plane of the scratch coat for at least one-half (50%) of 
+the sur- face area of the installation.
+Please refer to Figures 1 and 2 for general details on lath installation based on backing.
+Cement Board
+The installation of cement board should be in accordance with the cement board manufacturer’s instructions. Cement board should 
+be fastened at a spacing not greater than 8 in. (203 mm) vertically on each stud. The spacing of studs should not exceed 16 in. (406 
+mm). A similar spacing should be used on concrete or masonry wall surfaces, when used.
+
+[[p24]]
+Surface Preparation
+ 
+cmha. org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+10
+TMS 402-22 contains tables for installation of adhered veneer over both wood and steel stud framing for a variety of AMSV assembly 
+weights and cavity widths. For AMSV, the cavity is the distance from the structural backup to the inside surface of the scratch coat or 
+cement board. Consult these tables for specific fastener size and spacing based on assembly weight and cavity width.
+The seams between cement boards must be treated per manufacturers instructions. For exterior applications, use 4 in. (100 mm) 
+wide alkali-resistant fiberglass mesh tape. For interior applications use 2 in. (50 mm) wide alkali-resistant fiberglass mesh tape. A coat 
+of modified mortar meeting either ANSI A118.4 or ANSI A118.15 must be used to bed the fiberglass mesh tape. The same modified 
+mortar should be applied to corners, control joints, trims or other accessories. Feather modified mortar over fasteners to fully conceal.
+Flashings/Weep Screeds/Casing Bead
+All flashing and accessory detailing pieces should be corrosion resistant.
+Verify that all flashing, including roofing kickout flashing, has been properly installed. Although roof flashings are not part of the wall 
+cladding system, they are necessary for proper water management. Flashing material should extend above horizontal terminations, 
+roofing material, and drainage planes or drainage products.
+All flashing material should be integrated with water resistive barriers to mitigate water penetration into the structure. The WRB 
+should overlap the weep screed flange.
+Some applications may not require the use of flashing, weep screeds, and casing beads to prevent water penetration. In cases where 
+there is no WRB present, a weep screed is usually not required but a weep screed or casing bead can still be used for aesthetic 
+purposes. In cases where a drip edge is needed based on a clad- ding transition, then flashing is required. The use of both flashing 
+and a weep screed simultaneously is not typically necessary.
+Plan ahead with the various trades to integrate flashing and water resistive barriers to effectively shed water down and out of the 
+wall system. This may require the preceding trade on the job to install flashing or WRBs for integration with the next trade on the job.
+Movement Joints
+Different elements and materials within any structure move differently in response to applied loads or because of fluctuations in 
+temperature or moisture content.
+It is important to define common types of joints and their functions as it relates to AMSV installations and this Guide:
+•	 Movement Joint – A generic term for a joint that may be intended to serve in multiple functions or accommodate multiple sources 
+of movement.
+•	 Control Joint – A joint used to break up a large field of concrete masonry into discrete panels for the purpose of allowing shrinkage 
+and mitigating cracking.
+In determining if and where movement joints may be needed as part of an AMSV installation, consideration should be given to where 
+differential movement is expected. Specific examples where differential movement can occur include:
+•	 Changes in wall height and/or wall thickness
+•	 At (or above) movement joints in foundations and backup systems
+•	 above or below movement joints in floor and roof systems.
+•	 Vertical and horizontal transitions to other cladding systems
+•	 Differential support: where one portion of the MSV is supported differently than an adjacent portion.
+•	 Backing transition: where the backing of the MSV transitions from a relatively flexible system to a relatively rigid system. One 
+common example would be where wood frame transitions to a concrete or masonry foundation.
+Openings: Consideration should be given for movement joints around openings as well. In some cases, the backup system will have 
+movement joints to accommodate movement. In these cases, the adhered veneer should have similar movement joints as well.
+Control joints: This Guide does not contain specific recommendations for spacing of control joints within the general plane of the 
+wall. While not every MSV system needs regular control joint spacing, there may be some applications where the designer should 
+consider control joints. When specified by the designer, control joints should be installed in accordance with the contract documents.
+
+[[p25]]
+Surface Preparation
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+11
+Joint construction: Installing movement or control joints at specified locations is important. There are several examples within this 
+Guide on how to detail joints correctly (see Figures 12a and 12b). For installations with lath and scratch coat, lath shall not be 
+continuous through control joints but shall be stopped. One piece control joint should be anchored into backup framing. When backup 
+frame is not available lath shall be tied at each side. See ASTM C1063 for more information.
+Clearances
+On exterior frame walls, the building code requires that adhered masonry veneer be held a minimum of 4 in. (102 mm) above grade or 
+a minimum of 2 in. (51 mm) above paved surfaces. This minimum can be reduced to ½ in. (13 mm) if the paved surface is a walking 
+surface supported by the same foundation that supports the wall. See Figure 5.
+Where the backing is concrete or masonry, maintain 2 in. (51 mm) clearance from grade or ½ in. (13 mm) from a paved surface 
+provided that frost heave of adjacent surfaces is taken into consideration.
+In situations where units are applied below the flashing transition and onto a concrete or masonry wall, (such as that shown in Figure 
+7), the adhered masonry veneer shall maintain the 2 in. (51 mm) clearance to grade. It is generally not recommended to install 
+manufactured stone veneer in contact or below grade, contact the manufacturer for installation recommendations for such situations.
+Interior Applications
+Interior applications in non-wet locations (areas not exposed to water) for AMSV are similar to exterior applications with the following 
+alternatives:
+•	 Two layers of WRB are not necessary behind the lath and scratch coat. A single layer of WRB is recommended protect moisture 
+sensitive materials during AMSV installation.
+•	 Interior applications are not subjected to the same fluctuations in temperature and moisture as exterior applications. As such, the 
+criteria for clearances used for exterior applications are typically not necessary. Nevertheless, differential movement between 
+different materials must still be accounted for.
+•	 Flashings, weep screeds, and casing beads are not necessary.
+
+[[p26]]
+cmha.org
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+12
+
+[[p27]]
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+13
+Prior to commencing installation of AMSV, ensure the WRB and flashing are properly installed and integrated. Refer to the flashing 
+details, referenced in this guide, for detailing around windows, doors, through- wall penetrations, and AMSV terminations.
+After the lath is installed, apply a nominal ½ in. (13 mm) thick layer of mortar ensuring the lath is completely encapsulated with mortar. 
+The mortar should be applied with sufficient pressure and thickness to fully embed the lath in mortar. Once the mortar is thumbprint 
+hard, scratch (score) the surface horizon- tally to create the mortar scratch coat.
+NOTE: When using modified mortars as the setting bed, ‘scratching’ of the scratch coat may not be needed. The additional bonding 
+strength of modified adhesive mortars allows the bonding of the veneer to smooth surfaces.
+There are modified mortar products that are intended to be used for the scratch coat. Note that modified mortars for scratch coat may 
+not be suitable as modified setting bed mortar. Consult with the mortar manufacturer for application information.
+Moist curing the mortar scratch coat will help reduce cracking and ensure proper hydration during curing. Before applying AMSV, the 
+mortar scratch coat should be dampened so that the surface appears wet but free of standing water.
+Before installing AMSV, lay out a minimum of 25 sq ft (2.3 m2) of AMSV units at the jobsite so there is a variety of sizes, shapes, and 
+colors from which to choose. Mixing AMSV sizes, shapes, textures and color will allow for variety and contrast in the design to achieve 
+the desirable finished project. Follow AMSV manufacturers recommendations regarding mixing of product to achieve desired results.
+Per TMS 402/602-22, units that have a bonded surface area greater than 360 in.2 (0.232 m2) must have an installation procedure 
+approved by the design professional.
+Modified Mortar Installation:
+Refer to mortar manufacturer’s instructions for techniques for a specific mortar product. The goal of installation is to ensure adequate 
+transfer of setting bed mortar between the unit and the substrate, with 100% coverage to both the substrate and veneer unit. One 
+method that has been shown to be successful is as follows:
+•	 Use a hand trowel to apply a thin coat of the modified mortar to cover the entire back of the veneer unit. 
+•	 Spread additional mortar onto the back of the thin-coated veneer unit sufficient to completely fill the space between the veneer unit 
+and the substrate when compressed against the substrate.
+•	 Press the mortar covered back of the veneer against the substrate at the desired final position. Slide the unit roughly 1–1 ½ in. 
+(25 – 40 mm) diagonally from the desired final position and back into the desired position while maintaining even pressure.
+•	 In situations where there is not sufficient room to slide the unit, it may be necessary to apply setting bed mortar to both the unit and 
+substrate to ensure complete coverage.
+Clean excess extruded mortar with trowel and spread onto the next veneer unit to be installed.
+Note: When working with a very porous substrate, use a flat trowel to skim coat the substrate and “burn” or “key” the mortar into the 
+substrate to fill all imperfections and micropores. This will ensure coverage and improve adhesion.
+In some cases, such as with larger format units or with those with flatter profiles, installation using a notched trowel may be beneficial 
+in achieving level and plumb between units. A notched trowel application may also be useful for smaller units for speed and ease of 
+installation. For adhered masonry veneer installation using a notched trowel, apply the mortar into the substrate and skim coat on an 
+easily reachable area and then comb on additional mortar (trowel size is determined by substrate flatness and finished material size). 
+Back butter all veneer units 8 x 8 inches (200 x 200 mm) or larger to provide full bedding of the veneer. Place veneer into the mortar 
+and adjust to desired position. Make sure to move the veneer unit enough to collapse the ridges and ensure full coverage (typically 
+1–1 ½ inches (25-40 mm). Clean any excess mortar between veneers or sides of stone veneer.
+Periodically during installation, it is useful to remove a recently place stoned to check for complete mortar setting bed coverage and 
+transfer to the substrate. Following verification, be sure to follow the instructions above for reinstalling the inspected stone.
+Note: Prior to installation, ensure the back of veneer units are clean of dust, laitance, loose concrete crumbs and any excess film that 
+could impede bond.
+Grouting:
+Grouting the joints should be completed only after there is sufficient cure time of the installed AMSV units, when mild contact with 
+Installation Of Adhered Manufactured Stone Veneer
+
+[[p28]]
+Installation of Adhered Manufactured Stone Veneer
+ 
+cmha. org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+14
+AMSV units will not break the bond to the backup system. Grouting may be done with a grout bag, filling joints to the desired depth, 
+ensuring that mortar is forced into all voids.
+Grout should be “thumbprint hard” before tooling the joints. The curing time required before the grout is ready will vary significantly 
+with temperature and humidity. Use a wooden raking stick or pointing tool to tool the joints to the desired depth. Extra precaution 
+should be taken while tooling so the surface of the AMSV is not damaged. Clean off remaining grout debris on the AMSV surface 
+with a dry, soft-bristled brush. 
+To prevent mortar smearing, DO NOT use a wet brush to treat uncured mortar joints.
+Cold Weather Application
+AMSV applications should be protected from temperatures below 40°F (4°C) during and immediately following installation. The use 
+of anti-freeze admixtures to lower the freezing point of the mortar is not recommended. Accelerating admixtures shall comply with 
+ASTM C1384; accelerating admixtures containing calcium chloride are not permitted. AMSV pieces containing visible frozen moisture 
+shall not be installed.
+The cold weather practices defined in TMS 602 should be followed for the installation of AMSV systems.
+Additional considerations for modified mortars:
+•	 When working in colder weather, store all bagged materials in a warm place to keep materials above freezing as using very cold 
+products will potentially slow down curing times. Additionally, the water temperature should remain above 40°F (5°C).
+•	 Ensure that the surface temperature is within the suggested temperature range for the product being used during the installation 
+and cure period, typically, between 40°F (5°C) and 90°F (32°C) degrees.
+•	 Tent and heat areas that will be subjected to the elements or freezing temperatures during installation and cure periods. The 
+installation areas should be sheltered and heated to keep the temperature above 40°F (5°C).
+Hot Weather Application
+If the environmental conditions during installation exceed 90°F (32°C) additional water may be needed on the scratch coat surface 
+and the backs of the AMSV being installed. Providing shade and/or frequent misting of the wall may be required. Consult with mortar 
+manufacturer to determine if hot weather mortar mix options are available. The hot weather practices defined in TMS 602 should be 
+followed for the installation of AMSV systems.
+Additional considerations for modified mortars:
+•	 When working in hotter weather, make sure to keep the mortars in a cool place, if the material itself is allowed to heat up, it could 
+reduce pot life and working time. Acclimating the mortar in an air-conditioned space overnight will ensure the product remains cool. 
+Additionally, pay attention to the water temperature, make sure to run the water a while when using a hose to access cooler water. 
+Bags of ice may also be used to cool down the water if necessary.
+•	 Dampen or wet down substrate surfaces to not only clean the area, but to lower the temperature and lower the absorption rate 
+of the substrate. Sweep off excess water just before mortar is applied. This step will extend the working time of the installation 
+materials.
+•	 Due to the rapid rate of moisture loss and Portland cement dehydration at temperatures >90°F (>32°C), cover installations with 
+polyethylene sheeting for 1-2 days to allow curing at a more normal rate.
+•	 Low humidity also accelerates the curing process.
+•	 Tent off or provide shade when working in direct sunlight.
+•	 Work during cooler periods of the day (e.g. early morning).
+Cleaning the Adhered Manufactured Stone Veneer
+Refer to AMSV manufacturer recommendations on cleaning and maintenance. Do not use harsh chemicals for cleaning, such as raw 
+acid, or use abrasive tools such as wire brushes or power washers. The sooner that cleaning is performed after installation the better. 
+
+[[p29]]
+Installation of Adhered Manufactured Stone Veneer
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+15
+Start with less aggressive cleaning options and increase the aggressiveness of cleaners and cleaning activity only as necessary to 
+achieve the desired results.
+For modified mortar systems, use a cleaning product purpose-built for such mortars. Follow the manufacturer's instructions for the 
+cleaning product chosen. It is recommended to test the cleaning product in an inconspicuous area prior to use.
+Coating Adhered Manufactured Stone Veneer
+Refer to the AMSV manufacturer for recommendations regarding the use of repellant, sealers, or other topically applied coatings 
+used for water penetration resistance, graffiti resistance, or surface sealing.
+Alternative Installation Methods/Materials
+This guide covers common installation practices for AMSV systems. Alternative installation materials and methods not included in 
+this guide may be introduced into the marketplace. Example: Exterior installation methods using cementitious adhesive mortars with 
+a direct application to a substrate that may include coatings applied as loadbearing bonded water-proof membranes.
+Alternative installation materials and methods along with their test methods and evaluation criteria are being developed. As a designer, 
+contractor, or installer, you may wish to utilize these materials and/or methods in lieu of the recommended methods included in this 
+guide. Users should verify that the alternative method(s) will meet or exceed the recommended installation practices presented in 
+this guide.
+Refer to manufacturer's recommendations for additional information regarding the use of alternative installation methods or materials.
+
+[[p30]]
+cmha.org
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+16
+
+[[p31]]
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+17
+The following precautions should be taken to ensure a successful and durable AMSV installation.
+•	 Do not subject AMSV to direct or frequent water contact. Examples include avoiding sprinklers directly spraying on surfaces, pools, 
+and Jacuzzis. Also, downspouts or drainage pipes should be placed so that water is not frequently moistening the AMSV units.
+•	 Do not subject AMSV to contact with de-icing materials, salt, cleaning chemicals, pool chemicals, or other harsh chemicals. 
+Prolonged exposure to these conditions may discolor the AMSV or result in surface damage.
+•	 The installation of AMSV over open stud construction (no sheathing) is not covered in this Guide. Refer to recommendations from 
+the AMSV manufacturer.
+•	 Retaining Walls—the details in this Guide only cover installation of AMSV on retaining walls and required waterproofing for the 
+soil side of the wall (Figure 39). Other details of construction of retaining walls, including water management behind the wall, are 
+outside the scope of this Guide.
+•	 Do not use AMSV on exterior stair risers (or similar situations) where exposure to de-icing chemicals, snow and ice removal tools, 
+where standing water is likely to occur, or when appropriate clearances cannot be maintained.
+•	 Do not use AMSV in applications with potential exposure in direct flame such as return into a fire-box of a wood or gas-burning 
+fireplace. Exposure to elevated temperatures may lead to change in color of AMSV units, and issues with drying and cracking of 
+mortar.
+Cautions
+
+[[p32]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+18
+INTERIOR GYPSUM BOARD
+BATT INSULATION
+WOOD FRAMING
+EXTERIOR GRADE SHEATHING
+(2) LAYERS OF WRB
+ LATH
+LATH FASTENERS - TYPE & 
+SPACING PER ASTM C1063
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+ADHERED CONCRETE MASONRY 
+VENEER
+MORTAR JOINT
+WRB LAPPED OVER WEEP 
+SCREED
+WEEP SCREED
+Figure 1. Installation Over Wood Framing
+
+[[p33]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+19
+INTERIOR GYPSUM BOARD
+FURRING OR CHANNEL
+RIGID INSULATION
+JOINT REINFORCEMENT
+CMU BACKUP
+ LATH (OPTIONAL)
+LATH FASTENER - TYPE & 
+SPACING PER ASTM C1063
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+ADHERED CONCRETE MASONRY 
+VENEER
+MORTARJOINT
+WEEP SCREED (OPTIONAL)
+Figure 2. Installation Over Concrete Masonry Units
+
+[[p34]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+20
+EXTERIOR FINISH
+(STUCCO SHOWN)
+LAYERS OF WRB PER  CLADDING 
+CODE REQUIREMENTS
+LAP WRB OVER SCREED/FLASHING
+WEEP SCREED OR CASING BEAD 
+(VARIES BY CLADDING TYPE)
+EXTEND WRB FROM WALL BELOW 
+6 IN. (152 mm) MIN. ABOVE 
+STONE CLADDING
+FLASHING
+BEDDING SEALANT UNDER
+FLASHING
+SCRATCH COAT
+MORTAR SETTING BED
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR JOINT (WHERE USED)
+(2) LAYERS WRB
+LATH
+SHEATHING
+BLOCKING (WHERE REQUIRED)
+FASTENER
+6 in. 
+(152 mm) MIN.
+Figure 3. Wall Assembly Transition
+
+[[p35]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+21
+WALL SYSTEM
+SHEATHING
+(2) LAYERS WRB
+LATH
+MORTAR 
+SCRATCH COAT
+MORTAR 
+SETTING BED
+ADHERED 
+MANUFACTURED 
+STONE VENEER
+MORTAR JOINT 
+(WHERE USED)
+EXTERIOR
+INTERIOR
+WALL SYSTEM
+SHEATHING
+(2) LAYERS WRB 
+(OPTIONAL)
+LATH
+MORTAR 
+SCRATCH COAT
+MORTAR 
+SETTING BED
+ADHERED 
+MANUFACTURED 
+STONE VENEER
+MORTAR JOINT 
+(WHERE USED)
+USE OF LATH AND MOR-
+TAR SCRATCH COAT
+USE OF CEMENT BOARD
+WALL SYSTEM
+SHEATHING
+MINIMUM ONE
+(1) LAYER WRB
+CEMENT BOARD
+MORTAR
+SETTING BED
+ADHERED
+MANUFACTURED
+STONE VENEER
+MORTAR JOINT
+(WHERE USED)
+EXTERIOR
+INTERIOR
+WALL SYSTEM
+SHEATHING
+(OPTIONAL)*
+(1) LAYER WRB
+(OPTIONAL)
+CEMENT BOARD
+MORTAR
+SETTING BED
+ADHERED
+MANUFACTURED
+STONE VENEER
+MORTAR JOINT
+(WHERE USED)
+* INTERNAL SHEATHING
+OPTIONAL WITH CEMENT
+BOARD ONLY WHEN FRAMING
+IS NON- STRUCTURAL
+Figure 4a. Typical Frame Wall Section
+
+[[p36]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+22
+LATH
+EXTERIOR
+INTERIOR
+SHEATHING
+MORTAR SCRATCH 
+COAT
+MORTAR SETTING 
+BED
+CONTINUOUS 
+INSULATION*
+ADHERED 
+MANUFACTURED 
+STONE VENEER
+MORTAR JOINT 
+(WHERE USED)
+(2) LAYERS WRB
+SHEATHING
+MORTAR SCRATCH 
+COAT
+MORTAR SETTING 
+BED
+CONTINUOUS 
+INSULATION
+ADHERED 
+MANUFACTURED 
+STONE VENEER
+MORTAR JOINT 
+(WHERE USED)
+(2) LAYERS WRB
+(OPTIONAL)
+LATH
+USE OF LATH AND MOR-
+TAR SCRATCH COAT
+USE OF CEMENT BOARD
+EXTERIOR
+INTERIOR
+SHEATHING
+CEMENT BOARD
+MORTAR SETTING
+BED
+CONTINUOUS INSULATION
+ADHERED MANUFACTURED
+STONE VENEER
+MORTAR JOINT
+(WHERE USED)
+MINIMUM ONE (1)
+LAYER WRB
+SHEATHING
+(OPTIONAL)**
+MORTAR JOINT
+(WHERE USED)
+CEMENT
+BOARD
+MORTAR
+SETTING BED
+(1) LAYER WRB
+(OPTIONAL)
+CONTINUOUS
+INSULATION
+ADHERED
+MANUFACTURED
+STONE VENEER
+* SEE TABLES 3 AND 4 FOR
+FASTENER REQUIREMENTS
+OVER CONTINUOUS
+INSULATION
+** INTERNAL SHEATHING
+OPTIONAL WITH CEMENT
+BOARD ONLY WHEN FRAMING
+IS NON- STRUCTURAL
+Figure 4b. Typical Wall Frame Section with Continuous Rigid Insulation
+
+[[p37]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+23
+SHEATHING
+(2) LAYERS WRB
+LATH
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR JOINT (WHERE USED)
+FLOOR FRAMING
+LAP WRB OVER
+WEEP SCREED FLANGE
+FOUNDATION WEEP SCREED
+EXTEND ADHERED MANUFACTURED 
+STONE VENEER MIN. 1 IN. (25 mm) 
+BELOW TOP OF FOUNDATION
+4 IN. (102 mm) AT GRADE
+SLOPE GRADE
+2% MIN.
+2 IN. (51 mm) AT PAVING (CAN BE
+REDUCED TO 0.5 IN. (13 mm) AT 
+PAVING WHEN PAVING IS 
+SUPPORTED BY SAME 
+FOUNDATION AS WALL)
+Figure 5a. Foundation Wall Base
+
+[[p38]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+24
+SHEATHING
+(2) LAYERS WRB
+LATH
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR JOINT (WHERE USED)
+FLOOR FRAMING
+LAP WRB OVER
+WEEP SCREED FLANGE
+FOUNDATION WEEP SCREED
+EXTEND ADHERED MANUFACTURED 
+STONE VENEER MIN. 1 IN. (25 mm) 
+BELOW TOP OF FOUNDATION
+2 IN. (51 mm) AT PAVING (CAN BE
+REDUCED TO 0.5 IN. (13 mm) AT 
+PAVING WHEN PAVING IS 
+SUPPORTED BY SAME 
+FOUNDATION AS WALL)
+4 IN. (102 mm) AT GRADE
+SLOPE GRADE
+2% MIN.
+CONTINUOUS INSULATION*
+*SEE TABLES 3 and 
+4 FOR FASTENER 
+REQUIREMENTS 
+OVER CONTINUOUS 
+INSULATION
+Figure 5b. Foundation Wall Base Over Continuous Rigid Insulation
+
+[[p39]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+25
+SHEATHING
+(2) LAYERS WRB
+LATH
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+ADHERED MANUFACTURED
+STONE VENEER
+MORTAR JOINT (WHERE USED)
+(2) LAYERS WRB
+FLASHING 6 IN. (152 mm)
+FLOOR LINE OR FOUNDATION
+(2) LAYERS WRB
+CONTINUED (WHERE REQ'D)
+LAP WRB OVER
+WEEP SCREED FLANGE
+FOUNDATION WEEP SCREED
+FLASHING 6 IN. (152 mm)
+NOTE 3: MAINTAIN 4 IN. (102 MM)
+CLEARANCE TO GRADE.
+Figure 6. Foundation Wall Base – AMSV Overlapping Foundation
+NOTE 1: FOR CONTINUOUS 
+INSULATION APPLICATIONS, 
+REFER TO FIGURE 5b.
+NOTE 2: REFER TO FIGURE 
+7 FOR AN ALTERNATIVE 
+DETAIL FOR ACCOMMO-
+DATING DIFFERENTIAL 
+MOVEMENT THAT MAY BE 
+PRESENT WHEN TRANSI-
+TIONING BETWEEN FOUN-
+DATION AND ABOVE GRADE 
+WALLS.
+
+[[p40]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+26
+SHEATHING
+(2) LAYERS WRB
+LATH
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+ADHERED MANUFACTURED
+STONE VENEER
+MORTAR JOINT (WHERE
+USED)
+LAP WRB OVER FLASHING
+SILL SCREED FLANGE
+WEEP SCREED, DRIP SCREED,
+OR CASING BEAD, (OPTIONAL)
+BEDDING SEAL UNDER
+FLASHING WITH DRIP EDGE
+FLASHING TRANSITION EXTEND
+MIN. 1 IN. (25 mm) BELOW TOP
+OF FOUNDATION
+LATH (WHERE REQ'D)
+MORTAR SETTING BED OVER
+MORTAR SCRATCH COAT
+FLOOR LINE OR FOUNDATION
+1 IN. (25 mm)
+NOTE 1:
+FOR CONTINUOUS INSTALLATION
+APPLICATIONS, REFER TO FIGURE 5b.
+FLASHING (SLOPED TO
+EXTERIOR)
+NOTE 2:
+MAINTAIN  2 IN. (51 MM) CLEARANCE TO
+GRADE.
+Figure 7. Foundation Wall – Transition to AMSV Continuing Down Foundation
+
+[[p41]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+27
+EXTERIOR CLADDING (SIDING SHOWN)
+NOTE: OTHER FINISHES MAY BE USED
+LAYERS OF WRB PER CLADDING CODE 
+REQUIREMENTS
+EXTEND WRB FROM WALL BELOW 6 IN. 
+(152 mm) MIN. ABOVE CLADDING TRANSITION
+FLASHING WITH DRIP EDGE
+BLOCKING (OPTIONAL)
+BEDDING SEAL UNDER FLASHING
+LATH FASTENER
+ADHERED MANUFACTURED STONE VENEER
+SUPPORT ANGLE -- INSTALL IF REQUIRED PER 
+THE STONE MANUFACTURER'S INSTRUCTIONS
+ADHERED MANUFACTURED STONE VENEER
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+(2) LAYERS WRB
+MORTAR JOINT (WHERE USED)
+LATH
+SHEATHING
+6 IN. (152 mm) LAP
+Figure 8a. Cladding Transition
+Flashing should be installed prior to the adhered manufactured stone. Water resistive barrier laps over the vertical leg of 
+flashing for positive drainage. Optional support angle shown. Verify installation requirements with adhered manufactured 
+stone veneer manufacturer.
+
+[[p42]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+28
+EXTERIOR CLADDING (SIDING SHOWN)
+LAYERS OF WRB PER CLADDING CODE
+REQUIREMENTS
+EXTEND WRB FROM WALL BELOW 6 IN. 
+(152 mm) MIN. ABOVE CLADDING TRANSITION
+FLASHING WITH DRIP EDGE
+BLOCKING (OPTIONAL)
+BEDDING SEAL UNDER FLASHING
+LATH FASTENER
+ADHERED MANUFACTURED STONE VENEER
+SUPPORT ANGLE -- INSTALL IF REQUIRED PER 
+THE STONE MANUFACTURER'S INSTRUCTIONS
+ADHERED MANUFACTURED STONE VENEER
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+(2) LAYERS WRB
+MORTAR JOINT (WHERE USED)
+LATH
+SHEATHING
+6 IN. (152 mm) LAP
+CONTINUOUS INSULATION
+NOTE: OTHER FINISHES MAY BE USED
+Figure 8b. Cladding Transition Over Continuous Rigid Insulation
+Flashing should be installed prior to the adhered manufactured stone. Water resistive barrier laps over the vertical leg of 
+flashing for positive drainage. Optional support angle shown. Verify installation requirements with adhered manufactured 
+stone veneer manufacturer.
+
+[[p43]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+29
+SHEATHING
+BATT INSULATION
+(2) LAYERS WRB
+LATH -- WRAP LATH AROUND
+CORNER MIN. 12 IN. (305 MM)TO 
+NEXT FRAMING MEMBER  AND 
+LAP AT FRAMING MEMBER 
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+ADHERED MANUFACTURED  
+STONE VENEER
+MORTAR JOINT 
+(WHERE USED)
+EXTEND AT LEAST ONE LAYER OF WRB 
+FROM EACH DIRECTION AROUND 
+CORNER 12 IN. (305 MM) MIN. 
+WALL SYSTEM AT CORNER
+ADHERED MANUFACTURED STONE 
+VENEER ALTERNATE SHORT END 
+RETURNS ABOVE AND BELOW AT 
+CORNER
+Figure 9a. Outside Corner
+
+[[p44]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+30
+SHEATHING
+BATT INSULATION
+(2) LAYERS WRB
+LATH -- WRAP LATH AROUND
+CORNER MIN. 12 IN. (305 mm)
+TO NEXT FRAMING MEMBER
+AND LAP AT FRAMING MEMBER
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+ADHERED MANUFACTURED
+STONE VENEER
+MORTAR JOINT
+(WHERE USED)
+EXTEND AT LEAST ONE LAYER OF WRB
+FROM EACH DIRECTION AROUND
+CORNER 12 IN. (305 mm) MIN.
+WALL SYSTEM AT CORNER
+ADHERED MANUFACTURED
+STONE VENEER ALTERNATE
+SHORT END RETURNS ABOVE
+AND BELOW AT CORNER
+CONTINUOUS INSULATION
+Figure 9b. Outside Corner Over Continuous Insulation
+
+[[p45]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+31
+ADHERED MANUFACTURED STONE VENEER
+ALTERNATE ENDS ABOVE AND BELOW TO
+INTERWEAVE CORNER
+EXTEND AT LEAST ONE LAYER OF WRB
+FROM EACH DIRECTION AROUND 
+CORNER 12 IN. (305 mm) MIN.
+LATH - WRAP LATH AROUND CORNER 
+12 IN. (305 mm) MIN.TO  NEXT FRAMING
+MEMBER AND LAP LATH AT 
+FRAMING MEMBER
+ADHERED MANUFACTURED STONE VENEER
+MORTAR JOINT (WHERE USED)
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+LATH
+(2) LAYERS WRB
+SHEATHING
+Figure 10a. Inside Corner
+
+[[p46]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+32
+ADHERED MANUFACTURED STONE VENEER
+ALTERNATE ENDS ABOVE AND BELOW TO
+INTERWEAVE CORNER
+EXTEND AT LEAST ONE LAYER OF WRB
+FROM EACH DIRECTION AROUND 
+CORNER 12 IN. (305 mm) MIN.
+LATH - WRAP LATH AROUND CORNER 
+MIN. 12 IN. (305 mm) TO NEXT FRAMING 
+MEMBER AND LAP LATH AT 
+FRAMING MEMBER
+ADHERED MANUFACTURED STONE VENEER
+MORTAR JOINT (WHERE USED)
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+LATH
+(2) LAYERS WRB
+SHEATHING
+Figure 10b. Inside Corner Over Continuous Insulation
+
+[[p47]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+33
+EXTERIOR SHEATHING (SIDING SHOWN)
+NOTE:  OTHER FINISHES MAY BE USED 
+LAYERS OF WRB PER CLADDING CODE
+REQUIREMENTS
+FLASHING - PROVIDE END DAM AT 
+FLASHING TERMINATION
+HORIZONTAL WOOD TRIM
+STRIP OF FLASHING - LAP OVER
+FLASHING BELOW
+BLOCKING FOR LATH EDGE
+AND FLASHING
+FLASHING - PROVIDE END DAM AT
+FLASHING TERMINATION
+BEDDING SEAL UNDER FLASHING
+CASING BEAD (OPTIONAL) OVER WRB
+ADHERED MANUFACTURED STONE VENEER
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+LATH
+(2) LAYERS WRB
+MORTAR JOINT (WHERE USED)
+SHEATHING
+EXTEND WRB 6 IN. (152 mm)
+ABOVE FLASHING
+Figure 11a. Horizontal Transition
+
+[[p48]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+34
+EXTERIOR SHEATHING (SIDING SHOWN)
+LAYERS OF WRB PER CLADDING CODE
+REQUIREMENTS
+FLASHING - PROVIDE END DAM AT 
+FLASHING TERMINATION
+HORIZONTAL WOOD TRIM
+STRIP OF FLASHING - LAP OVER
+FLASHING BELOW
+BLOCKING FOR LATH EDGE
+AND FLASHING
+FLASHING - PROVIDE END DAM AT
+FLASHING TERMINATION
+BEDDING SEAL UNDER FLASHING
+CASING BEAD (OPTIONAL) OVER WRB
+ADHERED MANUFACTURED STONE VENEER
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+LATH
+(2) LAYERS WRB
+MORTAR JOINT (WHERE USED)
+SHEATHING
+EXTEND WRB 6 IN. (152 mm)
+ABOVE FLASHING
+CONTINUOUS INSULATION
+NOTE: OTHER FINISHES MY BE USED
+Figure 11b. Horizontal Transition Over Continuous Insulation
+
+[[p49]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+35
+BLOCKING AT LATH EDGE
+FLASHING BEHIND TRIM - 
+EXTEND UNDER ADJACENT 
+FINISH AS REQUIRED
+ADJACENT FINISH
+VARIES
+BACKER ROD AND SEALANT
+CASING BEAD AT SEALANT JOINT (OPTIONAL)
+FLASHING
+(2) LAYERS WRB - (1) LAYER UNDER FLASHING 
+LAP (1) LAYER OVER FLASHING AND CASING 
+BEAD
+SHEATHING
+WOOD TRIM (PRIMED) 
+SIZE AND PROFILE 
+MAY VARY
+38 IN. (10 mm)
+JOINT
+LAP FLASHING
+OVER CASHING BEAD
+6 IN. (152 mm) MIN.
+LATH
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR JOINT
+(WHERE USED)
+Figure 12a. Vertical Transition
+
+[[p50]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+36
+BLOCKING AT LATH EDGE
+FLASHING BEHIND TRIM - 
+EXTEND UNDER ADJACENT 
+FINISH AS REQUIRED
+ADJACENT FINISH
+VARIES
+BACKER ROD AND SEALANT
+CASING BEAD AT SEALANT JOINT (OPTIONAL)
+FLASHING
+(2) LAYERS WRB - (1) LAYER UNDER FLASHING 
+LAP (1) LAYER OVER FLASHING AND CASING 
+BEAD
+SHEATHING
+WOOD TRIM (PRIMED) 
+SIZE AND 
+PROFILE MAY 
+VARY
+38 IN. (10 mm)
+JOINT
+LAP FLASHING
+OVER CASHING BEAD
+6 IN. (152 mm) MIN.
+LATH
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR JOINT
+(WHERE USED)
+CONTINUOUS INSULATION
+Figure 12b. Vertical Transition Over Continuous Insulation
+
+[[p51]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+37
+ADHERED MANUFACTURED STONE 
+VENEER
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+MORTAR JOINT (WHERE USED)
+LATH
+(2) LAYERS WRB
+SHEATHING
+6 IN. (152 mm) MIN. LAP
+FLASHING OVER WRB
+Water resistive barrier should be in place prior to soffit installation followed by adhered manufactured stone veneer.
+Figure 13a. Open Eave - Overhang
+
+[[p52]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+38
+ADHERED MANUFACTURED STONE 
+VENEER
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+MORTAR JOINT (WHERE USED)
+LATH
+(2) LAYERS WRB
+SHEATHING
+6 IN. (152 mm) MIN. LAP
+FLASHING OVER WRB
+CONTINUOUS INSULATION
+Water resistive barrier should be in place prior to soffit installation followed by adhered manufactured stone veneer.
+Figure 13b. Open Eave - Overhang Over Continuous Insulation
+
+[[p53]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+39
+WRB OR FLASHING
+USE WOOD STOP OR 1X FILLER
+BEHIND FASCIA
+OPTION: CASING BEAD OVER
+FLASHING
+1 IN. (25 mm) MIN. LAP OVER TOP
+OF ADHERED MANUFACTURED
+STONE VENEER
+ADHERED MANUFACTURED
+STONE VENEER
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+MORTAR JOINT (WHERE USED)
+LATH
+(2) LAYERS WRB
+SHEATHING
+6 IN. (152 mm) MIN. LAP
+FLASHING OVER WRB
+NOTE:FOR CONTINUOUS 
+INSULATION APPLICATIONS, 
+REFER TO FIGURE 13b.
+Water resistive barrier should be in place prior to soffit installation followed by adhered manufactured stone veneer.
+Figure 14. Open Eave - Flush
+
+[[p54]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+40
+FLASHING OR WRB STRIP BEHIND TRIM - 
+LAP OVER (2) LAYERS WRB AT WALL
+CASING BEAD (OPTIONAL)
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR JOINT (WHERE USED)
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+LATH
+(2) LAYERS WRB
+SHEATHING
+4 IN. (102 mm) MIN. LAP
+FLASHING OVER WRB
+BACKER ROD AND SEALANT
+NOTE:FOR CONTINUOUS 
+INSULATION APPLICATIONS, 
+REFER TO FIGURE 13b.
+Figure 15. Rake - Overhang
+
+[[p55]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+41
+FLASHING OR WRB STRIP BEHIND 
+TRIM LAP OVER WRB AT WALL
+1 IN. (25 mm) MIN. LAP OVER 
+TOP OF ADHERED MANUFACTURED 
+STONE VENEER
+BACKER ROD AND SEALANT
+CASING BEAD OVER (OPTIONAL)
+(2) LAYERS WRB - OPTION: USE 
+WOOD STOP OR 1X FILLER BEHIND 
+SUB-FASCIA
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR JOINT (WHERE USED)
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+LATH
+(2) LAYERS WRB
+SHEATHING
+4 IN. (102 mm) MIN. LAP
+FLASHING OVER WRB
+NOTE:FOR CONTINUOUS 
+INSULATION APPLICATIONS, 
+REFER TO FIGURE 13b.
+Figure 16. Rake - Flush
+
+[[p56]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+42
+ADHERED MANUFACTURED
+STONE VENEER
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+MORTAR JOINT (WHERE USED)
+LATH
+BLOCKING FOR LATH EDGE
+AND FLASHING
+(2) LAYERS WRB 
+LAP OVER STEP FLASHING 
+AND WEEP SCREED
+STEP FLASHING AT RAKE
+PER ROOF MANUFACTURER'S 
+RECOMMENDATIONS
+WEEP SCREED - LAP
+OVER STEP FLASHING 2 IN.
+(51 mm) MIN.
+ROOF TYPE MAY VARY - 
+COMPOSTION SHINGLE
+ROOF SHOWN
+ROOF UNDERLAYMENT -
+TURN UP AT SIDE WALL
+2 IN. 
+(51mm)
+MIN.
+Figure 17a. Side Wall – Composition Shingles
+
+[[p57]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+43
+ADHERED MANUFACTURED
+STONE VENEER
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+MORTAR JOINT (WHERE USED)
+LATH
+BLOCKING FOR LATH EDGE
+AND FLASHING
+(2) LAYERS WRB 
+LAP OVER STEP FLASHING 
+AND WEEP SCREED
+STEP FLASHING AT RAKE
+PER ROOF MANUFACTURER'S 
+RECOMMENDATIONS
+WEEP SCREED - LAP
+OVER STEP FLASHING 2 IN.
+(51 mm) MIN.
+ROOF TYPE MAY VARY - 
+COMPOSTION SHINGLE
+ROOF SHOWN
+ROOF UNDERLAYMENT -
+TURN UP AT SIDE WALL
+2 IN. 
+(51mm)
+MIN.
+CONTINUOUS INSULATION
+Figure 17b. Side Wall – Composition Shingles Over Continuous Insulation
+
+[[p58]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+44
+ADHERED MANUFACTURED
+STONE VENEER
+(2) LAYERS WRB
+LAP OVER WEEP SCREED
+AND COUNTERFLASHING
+BLOCKING FOR LATH 
+EDGE AND FLASHING
+WEEP SCREED
+COUNTERFLASHING
+STEP FLASHING AT RAKE PER
+ROOF MANUFACTURER'S 
+RECOMMENDATION
+ROOF TYPE MAY VARY -
+COMPOSTION SHINGLE 
+ROOF SHOWN
+ROOF UNDERLAYMENT -
+TURN UP AT SIDE WALL
+1X FILLER - SLOPE TOP
+2 IN. (51 mm)
+MIN.
+2 IN. 
+(51 mm)
+MIN.
+2 IN. 
+(51 mm)
+MIN.
+NOTE:FOR CONTINUOUS 
+INSULATION APPLICATIONS, 
+REFER TO FIGURE 17b.
+Figure 18.  Side Wall – Composition Shingles Curbing
+
+[[p59]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+45
+ADHERED MANUFACTURED
+STONE VENEER
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+LATH
+BLOCKING FOR LATH 
+EDGE AND FLASHING
+(2) LAYERS WRB
+ LAP OVER WEEP SCREED
+WEEP SCREED OR DRIP 
+SCREED LAP OVER RAKE 
+WALL FLASHING
+2 IN. (51 mm) MIN.
+SIDE WALL FLASHING PER
+ROOF MANUFACTURER'S
+RECOMMENDATION
+ROOF TYPE MAY VARY -
+TILE ROOF SHOWN
+ROOF UNDERLAYMENT - 
+TURN UP AT SIDE WALL
+2 IN. 
+(51 mm)
+MIN.
+NOTE:FOR CONTINUOUS 
+INSULATION APPLICATIONS, 
+REFER TO FIGURE 17b.
+Figure 19. Side Wall – Tile Roofing
+
+[[p60]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+46
+ADHERED MANUFACTURED 
+STONE VENEER
+(2) LAYERS WRB - LAP
+OVER WEEP SCREED
+AND FLASHING
+SCREED OR DRIP 
+SCREED
+BLOCKING FOR LATH 
+EDGE AND FLASHING
+COUNTERFLASHING
+1X FILLER
+SIDE WALL FLASHING 
+PER ROOF 
+MANUFACTURER'S 
+RECOMMENDATION
+ROOF TYPE MAY VARY - 
+TILE ROOF SHOWN
+ROOF UNDERLAYMENT - 
+TURN UP AT SIDE WALL
+2 IN. (51 mm) 
+MIN. LAP
+2 IN. 
+(51 mm)
+MIN. 
+NOTE:FOR CONTINUOUS 
+INSULATION APPLICATIONS, 
+REFER TO FIGURE 17b.
+Figure 20. Side Wall – Tile Roofing Curbing
+
+[[p61]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+47
+WINDOW FRAME
+PROFILE MAY VARY - REFER TO 
+WINDOW MANUFACTURER'S DETAILS 
+FOR INSTALLATION AND FLASHING
+BEDDING SEALANT UNDER WINDOW FIN 
+(IF REQUIRED PER WINDOW 
+MANUFACTURER'S INSTRUCTIONS)
+BACKER ROD AND SEALANT
+CASING BEAD (OPTIONAL)
+SILL FLASHING UNDER WINDOW FIN
+LAP OVER WRB 4 IN. (102 mm) MIN.
+38 IN. (10 mm)
+ADHERED MANUFACTURED STONE 
+VENEER WITH SLOPED TOP
+MORTAR SETTING BED
+MORTAR JOINT (WHERE USED)
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR SCRATCH COAT
+LATH
+(2) LAYERS WRB UNDER SILL FLASHING
+SHEATHING
+AIR SEAL
+Rough openings must be properly flashed prior to window installation. Tuck water resistive barrier under flashing at sill. 
+Sill flashing should drain to the exterior of the primary WRB or to exterior of adhered manufactured stone veneer.
+Figure 21a.  Window Sill
+
+[[p62]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+48
+BACKER ROD AND SEALANT
+CASING BEAD (OPTIONAL)
+SILL FLASHING UNDER WINDOW FIN
+LAP OVER WRB 4 IN. (102 mm) MIN.
+38 IN. (10 mm)
+ADHERED MANUFACTURED STONE 
+VENEER WITH SLOPED TOP
+MORTAR SETTING BED
+MORTAR JOINT (WHERE USED)
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR SCRATCH COAT
+LATH
+(2) LAYERS WRB UNDER 
+SILL FLASHING
+SHEATHING
+AIR SEAL
+CONTINUOUS INSULATION
+FLASHING
+WINDOW FRAME
+PROFILE MAY VARY - REFER 
+TO WINDOW MANUFACTURER'S 
+DETAILS FOR INSTALLATION 
+AND FLASHING
+BEDDING SEALANT UNDER WINDOW 
+FIN (IF REQUIRED PER WINDOW 
+MANUFACTURER'S INSTRUCTIONS)
+Rough openings must be properly flashed prior to window installation. Tuck water resistive barrier under flashing at sill. 
+Sill flashing should drain to the exterior of the primary WRB or to exterior of adhered manufactured stone veneer.
+Figure 21b.  Window Sill Over Continuous Insulation
+
+[[p63]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+49
+WINDOW FRAME
+PROFILE MAY VARY - REFER TO 
+WINDOW MANUFACTURER'S DETAILS 
+FOR INSTALLATION AND FLASHING
+JAMB FLASHING UNDER
+WINDOW FIN
+BEDDING SEALANT UNDER 
+WINDOW FIN
+SHEATHING
+(2) LAYERS WRB
+SEAL EDGE TO FIN
+LATH
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+MORTAR JOINT (WHERE USED)
+ADHERED MANUFACTURED
+STONE VENEER
+BEDDING SEALANT UNDER WRB 
+LAPPED OVER CASING BEAD
+CASING BEAD (OPTIONAL) LAP 
+FLASHING OVER LEG
+BACKER ROD AND SEALANT
+38 IN. 
+(10 mm)
+NOTE:FOR CONTINUOUS 
+INSULATION APPLICATIONS, 
+REFER TO FIGURE 21b.
+Rough openings must be properly flashed prior to window installation. Backer rod and sealant between the window frame and 
+the adhered manufactured stone veneer allows for movement between the dissimilar materials.
+Figure 22. Window Jamb
+
+[[p64]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+50
+SHEATHING
+(2) LAYERS WRB
+LATH
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+ADHERED MANUFACTURED
+STONE VENEER
+MORTAR JOINT (WHERE USED)
+ADHERED MANUFACTURED STONE
+VENEER KEY OR TRIM (WHERE OCCURS)
+LAP WRB OVER HEAD FLASHING
+AND SEAL EDGE
+DRIP SCREED OR CASING BEAD
+HEAD FLASHING SET IN SEALANT
+(WIDTH TO COVER JAMB TREATMENT)
+OPTIONAL BACKER ROD AND SEALANT
+BEDDING SEALANT UNDER WINDOW FIN
+WINDOW FRAME PROFILE MAY VARY -
+REFER TO WINDOW MANUFACTURER'S
+DETAILS FOR INSTALLATION AND
+FLASHING
+38 IN. (10 mm)
+9 IN. (229 mm) MIN. FLASHING
+OVER HEAD FIN
+NOTE:FOR CONTINUOUS 
+INSULATION APPLICATIONS, 
+REFER TO FIGURE 21b.
+Flashing and WRB installed shingle fashion may be complimented with self-adhered flashing (SAF) to seal WRB to window 
+frame.
+Figure 23. Window Head
+
+[[p65]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+51
+ADHERED MANUFACTURED 
+STONE VENEER
+ROOFING MATERIAL
+(2) LAYERS WRB
+LAP OVER SCREED AND
+STEP FLASHING
+WEEP SCREED
+STEP FLASHING AT
+ ROOFING LAP 
+OVER KICK-OUT FLASHING
+KICK-OUT FLASHING - SEAL 
+OVER EAVE FLASHING
+SHINGLE LAP ALL WALL 
+FLASHING PIECES WITH WRB
+UNDERLAYMENT PER ROOF 
+MANUFACTURER
+EAVE DRIP EDGE FLASHING
+GUTTER
+WRB STRIP BEHIND TRIM 
+LAP OVER WRB AT WALL
+Figure 24. Kick-Out Flashing
+
+[[p66]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+52
+TYPICAL CRICKET 
+PER ROOF MANUFACTURER'S 
+RECOMMENDATIONS 
+DETAIL 25.2
+EXTEND CRICKET MIN. 2 IN. (51 mm) 
+BEYOND CHASE
+(2) LAYERS WRB
+WEEP SCREED
+COUNTERFLASHING
+ADHERED MANUFACTURED 
+STONE VENEER OVER 
+FRAMED WALL OR CHASE
+DETAIL 25.3
+(2) LAYERS WRB
+EXTEND FLASHING 2 IN. (51 mm) BEYOND 
+CHASE - EACH SIDE TO ACCOMODATE 
+INSTALLATION OF ADHERED 
+MANUFACTURED STONE VENEER
+SEE DETAIL 23.3
+COMPOSITION SHINGLE ROOFING 
+(OTHER ROOFING SIMILAR)
+UNDERLAYMENT OVER ROOF SUBSTRATE - 
+LAP OVER CRICKET FLANGE
+CRICKET - PROVIDE SHEATHING AND 
+FRAMING SUPPORT AS NEEDED
+DETAIL 25.1
+2 IN. (51 mm) MIN.
+Figure 25. Cricket
+
+[[p67]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+53
+CHIMNEY CHASE NOTE:
+MAINTAIN MINIMUM 
+CLEARANCE OF 
+COMBUSTIBLE 
+MATERIALS PER 
+CHIMNEY 
+MANUFACTURER'S 
+RECOMMENDATIONS
+SHIM AS REQUIRED
+SOLID SUBSTRATE - 
+SLOPE 14:12, MIN.
+METAL CHIMNEY CAP (PER PLAN)
+ROOFING UNDERLAYMENT
+9 IN. (229 mm) WIDE FLASHING OR 
+WRB STRIP LAP OVER WRB AT WALL
+1X OR 2X BLOCKING AS REQUIRED
+3 4 IN. (19 mm) STUCCO KEY
+OPTION:  USE WOOD STOP OR 
+CASING BEAD OVER FLASHING
+2X TRIM
+1 IN. (25 mm) MIN. LAP OVER TOP 
+OF ADHERED MANUFACTURED 
+STONE VENEER
+DIMENSION TO CLEAR TOP 
+OF A.C.M.V.
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR JOINT (WHERE USED)
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+LATH
+(2) LAYERS WRB
+SHEATHING
+Figure 26. Chimney Chase
+
+[[p68]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+54
+FLEXIBLE SEALANT (1
+2" NOM.
+THICKNESS AT POST PENETRATION)
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+LATH
+2 LAYERS WRB
+WOOD COLUMN OR POST
+WEEP SCREED OR DRIP SCREED
+BEDDING SEAL UNDER FLASHING
+-
+1/2 " (13 mm) MIN.
+A minimum one half inch (13 mm) clearance should be maintained at all sides of the base. All column materials to be exterior 
+grade.  Do not extend flashing past edge of AMSV for safety reasons.
+Figure 27. Wood Column with Penetration Through Cap
+
+[[p69]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+55
+CUT WRB DIAGONALLY FROM TOP 
+CORNERS PENETRATION FLANGE
+(1) LAYER WRB
+APPLY (1) LAYER 
+SELF-ADHERED FLASHING 
+(SAF) OVER WRB UNDER 
+PENETRATION FLANGE
+SEAL DIAGONAL CUTS IN 
+WRB WITH (1) LAYER SAF
+SEAL TOP FLAP OF WRB 
+APPLY (1) LAYER SAF OVER 
+TOP FLAP
+APPLY (1) LAYER SAF OVER 
+WRB EACH SIDE AND UNDER 
+TOP FLAP OF CUT WRB
+NOTE:
+2ND LAYER OF WRB (OUTER LAYER)
+TO BE APPLIED OVER FLANGE AND 
+FLASHING OF PENETRATION
+STEP 1
+STEP 2
+Penetration with flanges can be incorporated into the wall system by applying WRB in a watershed fashion and sealing cuts in the 
+WRB with self-adhered flashing. Drawing illustrates installation with housewrap WRB. Installation with building paper WRB would 
+be similar but instead of 45 degree cuts, fit last piece of WRB on top of flanges and tuck under WRB course above penetration.
+Figure 28. Penetration, Flanged
+
+[[p70]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+56
+UPPER COURSE WRB LAPPED MIN. 
+2 IN. (51 mm)
+(1) LAYER WRB TRIM TO FIT 
+AROUND PENETRATION
+APPLY FLEXIBLE SELF-ADHERED 
+FLASHING (SAF) AND SEALANT 
+AROUND PENETRATION
+STEP 1
+STEP 2
+NON-FLANGED 
+PENETRATION
+LOWER COURSE WRB 
+(BUILDING PAPER)
+TUCK UNDER UPPER COURSE 
+OF WRB MIN. 2 IN. (51 mm)
+(1) LAYER WRB
+NON-FLANGED 
+PENETRATION
+(1) LAYER WRB - APPLY OUTER 
+LAYER WRB OVER FLASHING AT 
+PENETRATION AND TRIM TO FIT 
+AROUND PENETRATION
+Figure 29. Penetration Non-Flanged, with Building Paper WRB
+
+[[p71]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+57
+WRB CUT AT APPROXIMATELY 45° ANGLE UP
+FROM PENETRATION HOLD FLAP UP AND
+AWAY FOR FLEXIBLE SELF-ADHERED
+FLASHING (SAF) TO BE SEALED AT
+PENETRATION
+SHEATHING BEHIND
+(1) LAYER WRB TRIM TO FIT
+AROUND PENETRATION
+APPLY FLECIBLE SAF AND (OR)
+SEALANT AROUND PENETRATION
+NON-FLANGED PENETRATION
+(1) LAYER WRB
+FLAP OF WRB
+FOLDED UP
+FLEXIBLE SAF
+NON-FLANGED
+PENETRATION
+STEP 1
+STEP2
+PLACE FLAP OF WRB ON EXTERIOR
+SIDE OF FLEXIBLE SAF - SEAL CUTS
+IN WRB WITH SAF
+(1) LAYER WRB
+APPLY FLECIBLE SAF
+SEALING TO PENETRATION
+AND WRB
+NON-FLANGED PENETRATION
+FLAP OF WRB
+FOLDED DOWN
+ON TOP OF SAF
+AROUND PIPE
+FLEXIBLE
+SAF SEALING
+CUTS IN WRB
+NON-FLANGED
+PENETRATION
+FLEXIBLE SAF
+NOTE:
+APPLY LAYER OF WRB (OUTER LAYER)
+OVER FLASHING AT PENETRATION AND
+TRIMMED TO FIT AROUND PENETRATION
+Figure 30. Penetration Non-Flanged, with Housewrap WRB
+
+[[p72]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+58
+INSULATION
+WALL SYSTEM
+SHEATHING
+(2) LAYERS WRB*
+LATH
+BED EXTERIOR FLANGE 
+IN SEALANT
+PLASTER RING
+MORTAR SETTING BED
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR SCRATCH COAT
+(2) LAYERS WRB
+MORTAR JOINT (WHERE USED)
+LATH
+INTERIOR
+EXTERIOR
+*SEE FIGURES 29, 30, AND 31 FOR FLASHING OPTIONS.
+Plaster rings should be affixed over the service box to bring the face of the box flush with the adhered manufactured stone 
+veneer. Bed the exterior flange in sealant. Water resistive barrier should be installed snugly around the plaster ring flange.
+Figure 31. Penetration, Fixture
+
+[[p73]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+59
+INTERIOR
+EXTERIOR
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR JOINT (WHERE USED)
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+BED EXTERIOR FLANGE
+IN SEALANT
+EXTERIOR DRYER VENT
+LATH
+(2) LAYERS WRB*
+SHEATHING
+WALL SYSTEM
+NOTE: SEAL AROUND 
+ANNULAR SPACE OF 
+PENETRATION. 
+Figure 32. Penetration, Dryer Vent
+
+[[p74]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+60
+SHEATHING
+LATH
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR JOINT (WHERE USED)
+(2) LAYERS WRB
+LAP WRB OVER WEEP SCREED 
+OR FLASHING
+FLASHING OR WEEP SCREED
+FLOOR FRAMING
+LEDGER
+DECK FRAMING
+ADHERED MANUFACTURED
+STONE VENEER
+FLASHING
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+(2) LAYERS WRB
+LATH
+SHEATHING
+1 IN. (25 mm) 
+MIN.
+Figure 33. Deck Termination
+
+[[p75]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+61
+ADHERED MANUFACTURED STONE
+ VENEER  CAP IN MORTAR SETTING BED
+LEVEL SCRATCH COAT AT TOP OF WALL
+LATH OVER TOP OF WALL - LAP OVER 
+WALL LATH 4 IN. (102 mm) MIN. FASTEN 
+LATH AT VERTICAL WALL FACES ONLY
+FLASHING OVER TOP OF WALL 
+CONSTRUCTION.  LAP OVER WRB
+SLOPING SOLID SHIM 
+(e.g. BEVELED SIDING)
+ADHERED MANUFACTURED STONE VENEER
+MORTAR SETTING BED
+MORTAR JOINT (WHERE REQUIRED)
+MORTAR SCRATCH COAT
+WRB (WHERE REQUIRED)
+SHEATHING
+WALL SYSTEM
+WEEP SCREED OR DRIP SCREED
+BEDDING SEAL UNDER FLASHING
+2 IN. (51 mm) 
+MIN.
+1 IN. 
+(25 mm) 
+MIN.
+Figure 34. Wall Cap
+
+[[p76]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+62
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+LATH
+(1) LAYER WRB OR 
+MORTAR SCREEN
+DRAINAGE MEDIUM
+(1) LAYER WRB
+SHEATHING
+NOTE: WHERE PERMITTED, 
+RAINSCREEN MAY REPLACE 
+(1) LAYER OF WRB 
+Figure 35. Wall Assembly – Rainscreen System – Membrane System
+
+[[p77]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+63
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR SETTING BED
+MORTAR SCRATCH COAT
+(1) LAYER WRB OR 
+MORTAR SCREEN
+(1) LAYER WRB
+SHEATHING
+PRESSURE TREATED FURRING*
+8 IN. (203 mm) O.C.
+LATH
+NOTE: WHERE PERMITTED, 
+RAINSCREEN MAY REPLACE 
+(1) LAYER OF WRB
+Figure 36. Wall Assembly – Rainscreen System – Strapped
+
+[[p78]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+64
+SHEATHING
+WRB
+DRAINAGE MEDIUM
+MORTAR SCREEN / WRB
+LATH
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR JOINT (WHERE USED)
+FLOOR FRAMING
+LAP WRB OVER WEEP 
+SCREED FLANGE
+WEEP SCREED, DRIP SCREED, 
+OR CASING BEAD
+FOUNDATION WEEP SCREED 
+OR WEEP SCREED
+EXTEND ADHERED MANUFACTURED 
+STONE VENEER MIN. 1 IN. (25 mm) 
+BELOW TOP OF FOUNDATION
+2 IN. (51 mm) MIN. AT PAVING (CAN BE 
+REDUCED TO 0.5 IN. (13mm) AT PAVING 
+WHEN PAVING IS SUPPORTED BY SAME 
+FOUNDATION AS WALL)
+4 IN. (102 mm) MIN. AT GRADE
+SLOPE GRADE
+2% MIN.
+NOTE: WHERE PERMITTED, 
+RAINSCREEN MAY REPLACE 
+(1) LAYER OF WRB 
+Figure 37. Foundation Wall Base – Rainscreen System
+
+[[p79]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+65
+WALL SYSTEM
+SHEATHING
+WRB
+DRAINAGE MEDIUM
+MORTAR 
+SCREEN/WRB
+LATH
+MORTAR SCRATCH 
+COAT
+MORTAR 
+SETTING BED
+ADHERED 
+MANUFACTURED
+STONE VENEER
+MORTAR JOINT 
+(WHERE USED)
+EXTERIOR
+INTERIOR
+NOTE: WHERE PERMITTED, 
+RAINSCREEN MAY REPLACE 
+(1) LAYER OF WRB 
+Figure 38. Typical Wall Section – Rainscreen System
+
+[[p80]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+66
+2 IN. (51 mm) MIN. AT GRADE
+12 IN. (13 mm) MIN. AT PAVING
+SECTION VIEW
+APPLIED LIQUID 
+WATERPROOF COATING
+GRAVEL BACKFILL APPROXIMATELY 
+6 IN. (152 mm) WIDE PROVIDE 
+DRAINAGE AT FOOTING
+LANDSCAPE CLOTH (OPTIONAL)
+ADHERED MANUFACTURED 
+STONE VENEER CAP IN 
+MORTAR SETTING BED
+1 IN. (25 mm) MIN.
+LEVEL SCRATCH COAT AT 
+TOP OF WALL
+ADHERED MANUFACTURED 
+STONE VENEER
+MORTAR SETTING BED
+MORTAR JOINT (WHERE USED)
+CMU WALL SYSTEM 
+WATERPROOFING (WHEN 
+REQUIRED)
+12 IN. (13 mm) MIN. AT PAVING
+2 IN. (51 mm) MIN. AT GRADE
+GRADE
+NOTE: THIS
+DETAIL COVERS 
+ONLY INSTALLATION OF 
+AMSV ON THE EXPOSED SIDE OF THE
+WALL. OTHER DETAILS OF 
+CONSTRUCTION OF RETAINING WALLS, 
+INCLUDING WATER MANAGEMENT BEHIND THE
+WALL ARE OUTSIDE OF THE SCOPE OF THIS GUIDE.
+Figure 39. Retaining Wall (CMU)
+
+[[p81]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+67
+IF INSIDE CORNER IS NOT
+COVERED BY ROOF, PERFORM
+SAME DETAIL AS THE FRONT
+1ST LAYERS WRB
+2ND LAYERS WRB
+WIRE LATH
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+MORTAR SETTING BED
+(2) LAYERS WRB (1) LAYER
+TO EXTENDS UP BEHIND SOFFIT
+SELF-ADHERED FLASHING (SAF)
+ AT CORNERS
+EXTERIOR SHEATHING
+COVERED ROOF SOFFIT
+FRAMING
+ADHERED
+MANUFACTURED
+STONE
+ADHERED
+MANUFACTURED
+STONE
+WEEP SCREED
+MORTAR SCRATCH COAT
+SEE TABLE 2 FOR RECOMMENDATIONS ON SETTING 
+BED MORTAR FOR NON-VERTICAL APPLICATION.
+Figure 40. Stone Wrap Under Straight Overhang
+
+[[p82]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+68
+(2) LAYERS WRB WRAPPED 
+INTO ROUGH OPENING
+SELF ADHERED FLASHING 
+MEMBRANE
+LATH
+FIELD FAB CUSTOM 
+DRIP CAP
+(2) LAYERS WRB WRAPPED 
+INTO ROUGH OPENING
+CORNER UNIT
+OPTIONAL CASING BEAD 
+(NOT SHOWN)
+BACKER ROD, SEALANT
+WINDOW JAMB
+BACKER ROD, SEALANT
+OPTIONAL CASING BEAD
+(NOT SHOWN)
+PAN FLASHING
+JAMB DETAIL
+Figure 41a. Forward Mounted Commercial Window
+
+[[p83]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+69
+(2) LAYERS WRB WRAPPED 
+INTO ROUGH OPENING
+SELF ADHERED FLASHING 
+MEMBRANE
+LATH
+FIELD FAB CUSTOM 
+DRIP CAP
+(2) LAYERS WRB WRAPPED 
+INTO ROUGH OPENING
+CORNER UNIT
+OPTIONAL CASING BEAD 
+(NOT SHOWN)
+BACKER ROD, SEALANT
+WINDOW JAMB
+BACKER ROD, SEALANT
+OPTIONAL CASING BEAD
+(NOT SHOWN)
+PAN FLASHING
+JAMB DETAIL
+CONTINUOUS INSULATION
+CONTINUOUS INSULATION
+LATH
+CONTINUOUS INSULATION
+Figure 41b. Forward Mounted Commercial Window Over Continuous Insulation
+
+[[p84]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+70
+(2) LAYERS WRB WRAPPED INTO 
+ROUGH OPENING
+CORNER UNIT
+BACKER ROD, SEALANT
+WINDOW JAMB
+OPTIONAL CASING BEAD
+(NOT SHOWN)
+SECTION VIEW
+NOTE:FOR CONTINUOUS 
+INSULATION APPLICATIONS, 
+REFER TO FIGURE 41b.
+Figure 42. Forward Mounted Commercial Window — Top View
+
+[[p85]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+71
+WINDOW JAMB
+(2) LAYERS WRB WRAPPED INTO 
+ROUGH OPENING
+TRIM MATERIALS SPECIFIED BY 
+OTHERS 
+CASING BEAD OPTIONAL 
+(NOT SHOWN)
+BACKING ROD, SEALANT
+NOTE:FOR CONTINUOUS 
+INSULATION APPLICATIONS, 
+REFER TO FIGURE 41b.
+Figure 43. Commercial Storefront Window — Top View
+
+[[p86]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+72
+(2) LAYERS WRB WRAPPED 
+INTO ROUGH OPENING
+SELF ADHERED FLASHING 
+MEMBRANE
+(2) LAYERS WRB WRAPPED 
+INTO ROUGH OPENING
+OPTIONAL CASING BEAD 
+(NOT SHOWN)
+BACKER ROD, SEALANT
+WINDOW JAMB
+BACKER ROD, SEALANT
+OPTIONAL CASING BEAD
+(NOT SHOWN)
+PAN FLASHING
+JAMB DETAIL
+TRIM MATERIALS 
+SPECIFIED BY OTHERS
+DRIP CAP
+BEDDING SEAL
+TRIM MATERIALS 
+SPECIFIED BY OTHERS
+SLOPPED SILL SPECIFIED
+BY OTHERS
+NOTE:FOR CONTINUOUS 
+INSULATION APPLICATIONS, 
+REFER TO FIGURE 41b.
+Figure 44. Commercial Storefront Window
+
+[[p87]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+73
+LAP WRB OVER FLASHING
+SILL SCREED FLANGE
+WEEP SCREED, DRIP 
+SCREED, OR WEEP 
+CASING BEAD
+BEDDING SEAL UNDER
+FLASHING WITH DRIP EDGE 
+SIZED PER THICKEST STONE
+FLASHING
+SHEATHING
+MORTAR SCRATCH COAT
+MORTAR SETTING BED
+ADHERED MANUFACTURED 
+STONE VENEER
+SEE DETAIL ABOVE
+(2) LAYERS WRB
+MORTAR JOINT 
+(WHERE USED)
+LATH
+WALL SYSTEM
+1 IN. (25 mm) MIN.
+DETAIL
+WRB
+NOTE:FOR CONTINUOUS 
+INSULATION APPLICATIONS, 
+REFER TO FIGURE 41b.
+Figure 45. Wall—Section Multi-Floor Joint Detail
+
+[[p88]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+74
+LATH (OPTIONAL)
+EXTERIOR
+INTERIOR
+MASONRY WALL SYSTEM
+(CMU SHOWN)
+MORTAR SCRATCH COAT
+(USED WITH LATH)
+MORTAR SETTING BED
+ADHERED MANUFACTURED 
+STONE VENEER
+LATH FASTENER 
+MORTAR JOINT (WHERE USED)
+WRB (OPTIONAL)
+Figure 46a. Wall—Section CMU
+
+[[p89]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+75
+LATH
+EXTERIOR
+INTERIOR
+MASONRY WALL SYSTEM
+(CMU SHOWN)
+MORTAR SCRATCH COAT
+(USED WITH LATH)
+MORTAR SETTING BED
+CONTINUOUS INSULATION
+ADHERED MANUFACTURED 
+STONE VENEER
+LATH FASTENER 
+MORTAR JOINT (WHERE USED)
+WRB (OPTIONAL)
+Figure 46b. Wall—Section Over Continuous Rigid Insulation
+
+[[p90]]
+ 
+®
+cmha.org
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+76
+(2) LAYERS WRB
+ADHERED MANUFACTURED
+STONE VENEER
+MORTAR JOINT (WHERE
+USED)
+MORTAR SETTING BED
+CONTINUOUS INSULATION
+LATH
+SCRATCH COAT
+BACKER ROD & SEALANT
+SLOPING SOLID SHIM (e.g.
+BEVELED SIDING)
+FLASHING OVER TOP OF
+WALL CONSTRUCTION.
+LAP OVER WRB
+LEVEL SCRATCH COAT AT
+TOP OF WALL
+LATH OVER TOP OF WALL -
+LAP OVER WALL LATH
+4 IN. (102 mm) MIN. FASTEN
+LATH AT VERTICAL WALL
+FACES ONLY
+ADHERED MANUFACTURED
+STONE VENEER CAP IN
+MORTAR SETTING BED
+SHEATHING
+SCUPPER
+KERF*
+1IN. (25 mm) MIN.
+SECTION VIEW
+1X FILLER - SLOPE TOP
+ROOF UNDERLAYMENT -
+TURN UP AT SIDE WALL
+*Kerfs are typically not a molded feature of manufactured stone units, but instead are field-cut features where desired.
+1IN. (25 mm) MIN.
+Figure 47. Wall-Section Parapet with Stone Cap
+
+[[p91]]
+S TO N E S O LU T I O N S
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+77
+(2) LAYERS WRB
+PRESSURE TREATED 
+BLOCKING
+SLOPED METAL 
+COPING SYSTEM
+DRIP EDGE PER
+ARCH.
+MEMBRANE FLASHING 
+EXTEND OVER TOP 
+OF PARAPET 
+ADHERED MANUFACTURED 
+STONE VENEER
+SCUPPER 
+MORTAR JOINT (WHERE 
+USED)
+SEALANT, TYPICAL
+ROOF SYSTEM 
+PER ARCH.
+MORTAR SETTING BED
+CONTINUOUS INSULATION
+LATH
+SCRATCH COAT
+SHEATHING
+1 IN. 
+(25 mm)
+PER ARCH. 
+STYLE
+Figure 48.  Wall-Section Parapet with Steel Cap
+
+[[p92]]
+cmha.org
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+78
+Notes:
+
+[[p93]]
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+79
+Notes:
+
+[[p94]]
+cmha.org
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+80
+CMHA Manufactured Stone Veneer Associate Members
+MAPEI
+https://www.mapei.com/
+ARDEX Americas
+https://www.ardexamericas.com/
+LATICRETE 
+https://laticrete.com
+PermaBase Cement Board (National Gypsum)
+www.nationalgypsum.com
+Smooth-On, Inc.
+www.smooth-on.com
+
+[[p95]]
+ 
+Installation Guide for Adhered Manufactured Stone Veneer 6th Edition, 1st Printing
+cmha.org
+81
+
+[[p96]]
+For additional information or questions on the
+items contained here, please contact CMHA at:
+(703) 713-1900
+Copyright © 2026 CMHA All Rights Reserved.
+CMHA and its respective logos are trademarks of  
+CMHA in the United States and other countries.

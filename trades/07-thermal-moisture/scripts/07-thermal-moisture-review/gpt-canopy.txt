@@ -1,0 +1,28 @@
+[gpt-6-astra tokens in 3164 out 747]
+### 1. Membrane extension: **4 inches minimum per LF of canopy edge**
+
+The detail explicitly states:
+
+> **“ROOF SYSTEM RT-2, WRAP MEMBRANE 4" MIN. OVER EDGE OF CANOPY”**
+
+The supported additional membrane takeoff allowance is therefore **4 inches minimum of developed width**:
+
+- **4 ÷ 12 = 0.333 SF per LF**
+- For **138.5 LF**: **138.5 × 4/12 = 46.17 SF** additional membrane.
+
+This is a **minimum wrap allowance**, not an exact maximum or an allowance for laps and waste.
+
+### 2. Support for a 30-inch membrane wrap: **No**
+
+The detail labels the fascia/soffit finish:
+
+> **“ACM PANEL SYSTEM”**
+
+The estimate’s **12" top + 12" front + 6" base = 30"** describes the ACM fascia girth; it is **not a membrane-wrap requirement**. The membrane-specific instruction is **“4" MIN. OVER EDGE OF CANOPY,”** not a full wrap around the ACM profile.
+
+Using **30 inches** would add:
+
+- **2.5 SF per LF**
+- **138.5 × 2.5 = 346.25 SF**
+
+That is **300.08 SF more** than the stated 4-inch minimum allowance. **This detail provides no basis for that full-girth membrane addition.**

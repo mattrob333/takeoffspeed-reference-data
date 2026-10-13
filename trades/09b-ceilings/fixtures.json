@@ -1,0 +1,544 @@
+[
+  {
+    "name": "L278 5/8\" THK. GYPSUM BOARD AT CEILING",
+    "formula": "gypsum-board.ceiling.board-sf",
+    "inputs": {
+      "areaSF": {
+        "value": 516.1,
+        "unit": "SF"
+      },
+      "layers": {
+        "value": 1,
+        "unit": "EA"
+      }
+    },
+    "expected": {
+      "quantity": 516.0,
+      "unit": "SF"
+    },
+    "tolerancePct": 0.1,
+    "source": "line 278 / markup p5 (A-130)"
+  },
+  {
+    "name": "L279 NO. OF SHEETS",
+    "formula": "gypsum-board.sheets",
+    "inputs": {
+      "boardSF": {
+        "value": 516.0,
+        "unit": "SF",
+        "from": "line 278"
+      },
+      "sheetSF": {
+        "value": 32,
+        "unit": "SF"
+      }
+    },
+    "expected": {
+      "quantity": 16.125,
+      "unit": "EA"
+    },
+    "tolerancePct": 0.05,
+    "source": "line 279 / derived from line 278"
+  },
+  {
+    "name": "L280 ADHESIVE",
+    "formula": "gypsum-board.adhesive-tubes",
+    "inputs": {
+      "boardSF": {
+        "value": 516.0,
+        "unit": "SF",
+        "from": "line 278"
+      },
+      "tubesPerSF": {
+        "value": 0.031,
+        "unit": "TUBES/SF"
+      }
+    },
+    "expected": {
+      "quantity": 15.996,
+      "unit": "TUBES"
+    },
+    "tolerancePct": 0.05,
+    "source": "line 280 / derived from line 278"
+  },
+  {
+    "name": "L281 TAPING",
+    "formula": "gypsum-board.tape-rolls",
+    "inputs": {
+      "boardSF": {
+        "value": 516.0,
+        "unit": "SF",
+        "from": "line 278"
+      },
+      "tapeLFperSF": {
+        "value": 0.375,
+        "unit": "LF/SF"
+      },
+      "rollLF": {
+        "value": 500,
+        "unit": "LF"
+      }
+    },
+    "expected": {
+      "quantity": 0.387,
+      "unit": "ROLLS"
+    },
+    "tolerancePct": 0.05,
+    "source": "line 281 / derived from line 278"
+  },
+  {
+    "name": "L282 DRYWALL SCREWS",
+    "formula": "gypsum-board.screws-lb",
+    "inputs": {
+      "boardSF": {
+        "value": 516.0,
+        "unit": "SF",
+        "from": "line 278"
+      },
+      "lbPerSF": {
+        "value": 0.005357142857142857,
+        "unit": "LB/SF",
+        "basis": "0.0375/7"
+      }
+    },
+    "expected": {
+      "quantity": 2.764286,
+      "unit": "LBS"
+    },
+    "tolerancePct": 0.05,
+    "source": "line 282 / derived from line 278"
+  },
+  {
+    "name": "L283 MUD PLASTER",
+    "formula": "gypsum-board.compound-lb",
+    "inputs": {
+      "boardSF": {
+        "value": 516.0,
+        "unit": "SF",
+        "from": "line 278"
+      },
+      "lbPerSF": {
+        "value": 0.53,
+        "unit": "LB/SF"
+      }
+    },
+    "expected": {
+      "quantity": 273.48,
+      "unit": "LBS"
+    },
+    "tolerancePct": 0.05,
+    "source": "line 283 / derived from line 278"
+  },
+  {
+    "name": "L284 3-5/8\" METAL STUD FRAMING @ 16\"O.C",
+    "formula": "metal-framing.ceiling-joists-area-rule",
+    "inputs": {
+      "areaSF": {
+        "value": 516.0,
+        "unit": "SF",
+        "from": "line 278"
+      },
+      "divisor": {
+        "value": 1.33,
+        "unit": "FT",
+        "basis": "16\" O.C. -> 16/12 rounded"
+      }
+    },
+    "expected": {
+      "quantity": 387.969925,
+      "unit": "LF"
+    },
+    "tolerancePct": 0.05,
+    "source": "line 284 / markup p5 (A-130)"
+  },
+  {
+    "name": "L285 5/8\" THK. GYPSUM BOARD AT CEILING SOFFIT",
+    "formula": "gypsum-board.soffit.board-sf-by-legend-height",
+    "inputs": {
+      "runs": [
+        {
+          "name": "SOFFIT @ 3'6\"H, GWB BS",
+          "lf": {
+            "value": 4.2,
+            "unit": "LF"
+          },
+          "boardHeight": {
+            "value": 3.5,
+            "unit": "FT"
+          },
+          "faces": {
+            "value": 2,
+            "unit": "EA"
+          }
+        },
+        {
+          "name": "SOFFIT @ 6'6\"H, GWB @ 4'H",
+          "lf": {
+            "value": 2.7,
+            "unit": "LF"
+          },
+          "boardHeight": {
+            "value": 4.0,
+            "unit": "FT"
+          },
+          "faces": {
+            "value": 1,
+            "unit": "EA"
+          }
+        },
+        {
+          "name": "SOFFIT @ 3'6\"H, GWB @ 1'6\"H",
+          "lf": {
+            "value": 6.7,
+            "unit": "LF"
+          },
+          "boardHeight": {
+            "value": 1.5,
+            "unit": "FT"
+          },
+          "faces": {
+            "value": 1,
+            "unit": "EA"
+          }
+        },
+        {
+          "name": "SOFFIT @ 4'6\"H, GWB @ 3'H",
+          "lf": {
+            "value": 30.5,
+            "unit": "LF"
+          },
+          "boardHeight": {
+            "value": 3.0,
+            "unit": "FT"
+          },
+          "faces": {
+            "value": 1,
+            "unit": "EA"
+          }
+        },
+        {
+          "name": "SOFFIT @ 5'9\"H, GWB @ 2'6\"H",
+          "lf": {
+            "value": 35.3,
+            "unit": "LF"
+          },
+          "boardHeight": {
+            "value": 2.5,
+            "unit": "FT"
+          },
+          "faces": {
+            "value": 1,
+            "unit": "EA"
+          }
+        },
+        {
+          "name": "SOFFIT @ 2'H",
+          "lf": {
+            "value": 28.1,
+            "unit": "LF"
+          },
+          "boardHeight": {
+            "value": 2.0,
+            "unit": "FT"
+          },
+          "faces": {
+            "value": 1,
+            "unit": "EA"
+          }
+        }
+      ]
+    },
+    "expected": {
+      "quantity": 286.04,
+      "unit": "SF"
+    },
+    "tolerancePct": 0.5,
+    "source": "line 285 / markup p5 (A-130)"
+  },
+  {
+    "name": "L286 NO. OF SHEETS",
+    "formula": "gypsum-board.sheets",
+    "inputs": {
+      "boardSF": {
+        "value": 286.04,
+        "unit": "SF",
+        "from": "line 285"
+      },
+      "sheetSF": {
+        "value": 32,
+        "unit": "SF"
+      }
+    },
+    "expected": {
+      "quantity": 8.93875,
+      "unit": "EA"
+    },
+    "tolerancePct": 0.05,
+    "source": "line 286 / derived from line 285"
+  },
+  {
+    "name": "L287 ADHESIVE",
+    "formula": "gypsum-board.adhesive-tubes",
+    "inputs": {
+      "boardSF": {
+        "value": 286.04,
+        "unit": "SF",
+        "from": "line 285"
+      },
+      "tubesPerSF": {
+        "value": 0.031,
+        "unit": "TUBES/SF"
+      }
+    },
+    "expected": {
+      "quantity": 8.86724,
+      "unit": "TUBES"
+    },
+    "tolerancePct": 0.05,
+    "source": "line 287 / derived from line 285"
+  },
+  {
+    "name": "L288 TAPING",
+    "formula": "gypsum-board.tape-rolls",
+    "inputs": {
+      "boardSF": {
+        "value": 286.04,
+        "unit": "SF",
+        "from": "line 285"
+      },
+      "tapeLFperSF": {
+        "value": 0.375,
+        "unit": "LF/SF"
+      },
+      "rollLF": {
+        "value": 500,
+        "unit": "LF"
+      }
+    },
+    "expected": {
+      "quantity": 0.21453,
+      "unit": "ROLLS"
+    },
+    "tolerancePct": 0.05,
+    "source": "line 288 / derived from line 285"
+  },
+  {
+    "name": "L289 DRYWALL SCREWS",
+    "formula": "gypsum-board.screws-lb",
+    "inputs": {
+      "boardSF": {
+        "value": 286.04,
+        "unit": "SF",
+        "from": "line 285"
+      },
+      "lbPerSF": {
+        "value": 0.005357142857142857,
+        "unit": "LB/SF",
+        "basis": "0.0375/7"
+      }
+    },
+    "expected": {
+      "quantity": 1.532357,
+      "unit": "LBS"
+    },
+    "tolerancePct": 0.05,
+    "source": "line 289 / derived from line 285"
+  },
+  {
+    "name": "L290 MUD PLASTER",
+    "formula": "gypsum-board.compound-lb",
+    "inputs": {
+      "boardSF": {
+        "value": 286.04,
+        "unit": "SF",
+        "from": "line 285"
+      },
+      "lbPerSF": {
+        "value": 0.53,
+        "unit": "LB/SF"
+      }
+    },
+    "expected": {
+      "quantity": 151.6012,
+      "unit": "LBS"
+    },
+    "tolerancePct": 0.05,
+    "source": "line 290 / derived from line 285"
+  },
+  {
+    "name": "L291 3-5/8\" METAL STUD FRAMING @ 16\"O.C",
+    "formula": "metal-framing.soffit-studs-area-rule",
+    "inputs": {
+      "soffits": [
+        {
+          "name": "SOFFIT @ 3'6\"H, GWB BS",
+          "lf": {
+            "value": 4.2,
+            "unit": "LF"
+          },
+          "framingHeight": {
+            "value": 3.5,
+            "unit": "FT"
+          }
+        },
+        {
+          "name": "SOFFIT @ 6'6\"H, GWB @ 4'H",
+          "lf": {
+            "value": 2.7,
+            "unit": "LF"
+          },
+          "framingHeight": {
+            "value": 6.5,
+            "unit": "FT"
+          }
+        },
+        {
+          "name": "SOFFIT @ 3'6\"H, GWB @ 1'6\"H",
+          "lf": {
+            "value": 6.7,
+            "unit": "LF"
+          },
+          "framingHeight": {
+            "value": 3.5,
+            "unit": "FT"
+          }
+        },
+        {
+          "name": "SOFFIT @ 4'6\"H, GWB @ 3'H",
+          "lf": {
+            "value": 30.5,
+            "unit": "LF"
+          },
+          "framingHeight": {
+            "value": 4.5,
+            "unit": "FT"
+          }
+        },
+        {
+          "name": "SOFFIT @ 5'9\"H, GWB @ 2'6\"H",
+          "lf": {
+            "value": 35.3,
+            "unit": "LF"
+          },
+          "framingHeight": {
+            "value": 5.75,
+            "unit": "FT"
+          }
+        },
+        {
+          "name": "SOFFIT @ 2'H",
+          "lf": {
+            "value": 28.1,
+            "unit": "LF"
+          },
+          "framingHeight": {
+            "value": 2.0,
+            "unit": "FT"
+          }
+        }
+      ],
+      "bracing": [
+        {
+          "name": "3-5/8\" METAL STUD BRACING @ 48\" O.C @ 5'H",
+          "lf": {
+            "value": 27.1,
+            "unit": "LF"
+          },
+          "height": {
+            "value": 5.0,
+            "unit": "FT"
+          },
+          "spacing": {
+            "value": 48,
+            "unit": "in"
+          }
+        },
+        {
+          "name": "3-5/8\" METAL STUD BRACING @ 48\" O.C @ 8'H",
+          "lf": {
+            "value": 28.1,
+            "unit": "LF"
+          },
+          "height": {
+            "value": 8.0,
+            "unit": "FT"
+          },
+          "spacing": {
+            "value": 48,
+            "unit": "in"
+          }
+        }
+      ],
+      "divisor": {
+        "value": 1.33,
+        "unit": "FT"
+      }
+    },
+    "expected": {
+      "quantity": 429.599624,
+      "unit": "LF"
+    },
+    "tolerancePct": 0.5,
+    "source": "line 291 / markup p5 (A-130)"
+  },
+  {
+    "name": "L292 24\"x24\" ACOUSTICAL CEILING TILE - ACT1",
+    "formula": "ceilings.act.area",
+    "inputs": {
+      "areaSF": {
+        "value": 948.7,
+        "unit": "SF"
+      },
+      "module": "2x2",
+      "tag": "ACT-1"
+    },
+    "expected": {
+      "quantity": 948.75,
+      "unit": "SF"
+    },
+    "tolerancePct": 0.1,
+    "source": "line 292 / markup p5 (A-130)"
+  },
+  {
+    "name": "L293 ACOUSTICAL CEILING TILE - ACT-2",
+    "formula": "ceilings.act.area",
+    "inputs": {
+      "areaSF": {
+        "value": 244.8,
+        "unit": "SF"
+      },
+      "module": "2x4",
+      "tag": "ACT-2"
+    },
+    "expected": {
+      "quantity": 244.81,
+      "unit": "SF"
+    },
+    "tolerancePct": 0.1,
+    "source": "line 293 / markup p5 (A-130)"
+  },
+  {
+    "name": "L294 2\"x8\" BAFFLE SYSTEM - BAR-1",
+    "formula": "ceilings.baffles.rows",
+    "inputs": {
+      "measuredLF": {
+        "value": 370.8,
+        "unit": "LF"
+      },
+      "rows": {
+        "value": 37,
+        "unit": "EA"
+      },
+      "rowSpacing": {
+        "value": 8,
+        "unit": "in"
+      }
+    },
+    "expected": {
+      "quantity": 370.76,
+      "unit": "LF"
+    },
+    "tolerancePct": 0.1,
+    "source": "line 294 / markup p6 (A-131)"
+  }
+]

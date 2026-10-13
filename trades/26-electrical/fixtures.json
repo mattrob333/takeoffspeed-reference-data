@@ -1,0 +1,2214 @@
+[
+ {
+  "name": "26-electrical line 495: 1P4F pole light, 1 head",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 43,
+     "legendItem": "1P4F LIGHT",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 495 / markup p43"
+ },
+ {
+  "name": "26-electrical line 496: 2P4DA pole light, 2 heads 180 deg",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 43,
+     "legendItem": "2P4DA LIGHT",
+     "value": 4,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 4.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 496 / markup p43"
+ },
+ {
+  "name": "26-electrical line 498: 120V 20A toggle switch in bell box (monument sign)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 42,
+     "legendItem": "120V, 20A TOGGLE SWITCH IN METALLIC BELL BOX W/ METALLIC...",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 498 / markup p42"
+ },
+ {
+  "name": "26-electrical line 499: Service disconnect switch",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 42,
+     "legendItem": "SERVICE DISCONNECT SWITCH",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 499 / markup p42"
+ },
+ {
+  "name": "26-electrical line 500: 120V 20A GFCI WR duplex receptacle (site)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 42,
+     "legendItem": "120V, 20A GFCI WEATHER RESISTANT DUPLEX RECEPTACLE",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 500 / markup p42"
+ },
+ {
+  "name": "26-electrical line 501: Transformer (slab box w/ traffic guard)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 42,
+     "legendItem": "TRANSFORMER SLABBOX W/ TRAFFIC GUARD",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 501 / markup p42"
+ },
+ {
+  "name": "26-electrical line 502: Electric utility meter",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 42,
+     "legendItem": "ELECTRIC UTILITY METER",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 502 / markup p42"
+ },
+ {
+  "name": "26-electrical line 503: Junction box (site)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 42,
+     "legendItem": "JUNCTION BOX",
+     "value": 4,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 4.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 503 / markup p42"
+ },
+ {
+  "name": "26-electrical line 504: DDCV hot box",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 42,
+     "legendItem": "DDCV HOT BOX",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 504 / markup p42"
+ },
+ {
+  "name": "26-electrical line 505: (2) 4\" conduit (telephone service entrance)",
+  "formula": "LF = \u03a3 route lengths (bundle LF; conduits-in-route kept as a label)",
+  "inputs": {
+   "routeLengths": [
+    {
+     "page": 42,
+     "legendItem": "(2) 4\"DIA CONDUIT",
+     "value": 71.5,
+     "unit": "LF"
+    },
+    {
+     "page": 44,
+     "legendItem": "(2) 4\"DIA CONDUIT",
+     "value": 30.2,
+     "unit": "LF"
+    }
+   ],
+   "conduitsInRoute": {
+    "value": 2,
+    "unit": "EA",
+    "use": "description only; LF is NOT multiplied"
+   }
+  },
+  "expected": {
+   "quantity": 101.71,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 505 / markup p42, p44"
+ },
+ {
+  "name": "26-electrical line 506: 1\" conduit (AV at remote drive-thru)",
+  "formula": "LF = \u03a3 route lengths (bundle LF; conduits-in-route kept as a label)",
+  "inputs": {
+   "routeLengths": [
+    {
+     "page": 41,
+     "legendItem": "1\"DIA CONDUIT",
+     "value": 4.8,
+     "unit": "LF"
+    },
+    {
+     "page": 41,
+     "legendItem": "1\"DIA CONDUIT",
+     "value": 15.4,
+     "unit": "LF"
+    }
+   ],
+   "conduitsInRoute": {
+    "value": 1,
+    "unit": "EA",
+    "use": "description only; LF is NOT multiplied"
+   }
+  },
+  "expected": {
+   "quantity": 20.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 506 / markup p41, p41"
+ },
+ {
+  "name": "26-electrical line 507: (2) 2\" conduit (VTM/ATM data)",
+  "formula": "LF = \u03a3 route lengths (bundle LF; conduits-in-route kept as a label)",
+  "inputs": {
+   "routeLengths": [
+    {
+     "page": 41,
+     "legendItem": "(2) 2\"DIA CONDUIT",
+     "value": 15.4,
+     "unit": "LF"
+    },
+    {
+     "page": 42,
+     "legendItem": "(2) 2\"DIA CONDUIT",
+     "value": 61.8,
+     "unit": "LF"
+    },
+    {
+     "page": 44,
+     "legendItem": "(2) 2\"DIA CONDUIT",
+     "value": 30.2,
+     "unit": "LF"
+    }
+   ],
+   "conduitsInRoute": {
+    "value": 2,
+    "unit": "EA",
+    "use": "description only; LF is NOT multiplied"
+   }
+  },
+  "expected": {
+   "quantity": 107.37,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 507 / markup p41, p42, p44"
+ },
+ {
+  "name": "26-electrical line 508: (2) 5\" conduit (HV primary)",
+  "formula": "LF = \u03a3 route lengths (bundle LF; conduits-in-route kept as a label)",
+  "inputs": {
+   "routeLengths": [
+    {
+     "page": 42,
+     "legendItem": "(2) 5\"DIA CONDUIT",
+     "value": 11.4,
+     "unit": "LF"
+    }
+   ],
+   "conduitsInRoute": {
+    "value": 2,
+    "unit": "EA",
+    "use": "description only; LF is NOT multiplied"
+   }
+  },
+  "expected": {
+   "quantity": 11.39,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 508 / markup p42"
+ },
+ {
+  "name": "26-electrical line 509: Stub-out & terminate per utility",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 42,
+     "legendItem": "STUBOUT & TERMINATE PER UTILITY COMPANY REQUIREMENT...",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 509 / markup p42"
+ },
+ {
+  "name": "26-electrical line 511: Type A 2x2 LED troffer (estimate tag reads AE)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "A",
+     "value": 8,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 8.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 511 / markup p46"
+ },
+ {
+  "name": "26-electrical line 512: Type AE 2x2 LED troffer w/ EM battery",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "AE",
+     "value": 6,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 6.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 512 / markup p46"
+ },
+ {
+  "name": "26-electrical line 513: Type B recessed linear",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "B",
+     "value": 3,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 3.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 513 / markup p46"
+ },
+ {
+  "name": "26-electrical line 514: Type C Tacada pendant",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "C",
+     "value": 53,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 53.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 514 / markup p46"
+ },
+ {
+  "name": "26-electrical line 515: Type F3 3ft wall striplight",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "F3",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 515 / markup p46"
+ },
+ {
+  "name": "26-electrical line 516: Type FEM 48in suspended strip w/ EM",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "FEM",
+     "value": 2,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 516 / markup p46"
+ },
+ {
+  "name": "26-electrical line 517: Type G linear cove wall washer (LF)",
+  "formula": "LF = \u03a3 measured linear fixture runs",
+  "inputs": {
+   "lengths": [
+    {
+     "page": 46,
+     "legendItem": "G",
+     "value": 26.8,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 26.78,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 517 / markup p46"
+ },
+ {
+  "name": "26-electrical line 518: Type G1 5in downlight",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "G1",
+     "value": 22,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 22.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 518 / markup p46"
+ },
+ {
+  "name": "26-electrical line 519: Type GEM 5in downlight w/ EM",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "GEM",
+     "value": 2,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 519 / markup p46"
+ },
+ {
+  "name": "26-electrical line 520: Type J 6in square downlight",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "J",
+     "value": 9,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 9.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 520 / markup p46"
+ },
+ {
+  "name": "26-electrical line 521: Type JE 6in square downlight w/ EM",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "JE",
+     "value": 4,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 4.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 521 / markup p46"
+ },
+ {
+  "name": "26-electrical line 522: Type L Tetra contour LED (LF)",
+  "formula": "LF = \u03a3 measured linear fixture runs",
+  "inputs": {
+   "lengths": [
+    {
+     "page": 46,
+     "legendItem": "L",
+     "value": 30.4,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 30.36,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 522 / markup p46"
+ },
+ {
+  "name": "26-electrical line 523: Type PB Paravo pendant",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "PB",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 523 / markup p46"
+ },
+ {
+  "name": "26-electrical line 524: Type S 4ft strip LED",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "S",
+     "value": 2,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 524 / markup p46"
+ },
+ {
+  "name": "26-electrical line 525: Type T 2ft T-bar LED",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "T",
+     "value": 7,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 7.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 525 / markup p46"
+ },
+ {
+  "name": "26-electrical line 526: Type TE 2ft T-bar LED w/ EM",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "TE",
+     "value": 9,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 9.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 526 / markup p46"
+ },
+ {
+  "name": "26-electrical line 527: Type U1 in-ground LED",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "U1",
+     "value": 2,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 527 / markup p46"
+ },
+ {
+  "name": "26-electrical line 528: Type U3 in-ground LED",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "U3",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 528 / markup p46"
+ },
+ {
+  "name": "26-electrical line 529: Type UC undercabinet strip (LF)",
+  "formula": "LF = \u03a3 measured linear fixture runs",
+  "inputs": {
+   "lengths": [
+    {
+     "page": 46,
+     "legendItem": "UC",
+     "value": 9.1,
+     "unit": "LF"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 9.13,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 529 / markup p46"
+ },
+ {
+  "name": "26-electrical line 530: Type X1 recessed exit sign",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "X1",
+     "value": 4,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 4.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 530 / markup p46"
+ },
+ {
+  "name": "26-electrical line 531: Type X2 wall exit sign",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "X2",
+     "value": 2,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 531 / markup p46"
+ },
+ {
+  "name": "26-electrical line 532: Type X3 EM egress wallpack",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "X3",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 532 / markup p46"
+ },
+ {
+  "name": "26-electrical line 533: Drive-thru alert light",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "DRIVE THRU ALERT LIGHT",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 533 / markup p44"
+ },
+ {
+  "name": "26-electrical line 534: Duplex receptacle 20A 125V",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "DUPLEX RECEPTACLE, 20A, 125V",
+     "value": 6,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 6.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 534 / markup p44"
+ },
+ {
+  "name": "26-electrical line 535: GFCI duplex receptacle 20A",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "GFCI DUPLEX RECEPTACLE, 20A, 125V",
+     "value": 6,
+     "unit": "EA"
+    },
+    {
+     "page": 49,
+     "legendItem": "GFCI DUPLEX RECEPTACLE, 20A, 125V",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 7.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 535 / markup p44, p49"
+ },
+ {
+  "name": "26-electrical line 536: Quad receptacle 20A",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "QUAD RECEPTACLE, 20A, 125V",
+     "value": 3,
+     "unit": "EA"
+    },
+    {
+     "page": 49,
+     "legendItem": "QUAD RECEPTACLE, 20A, 125V",
+     "value": 14,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 17.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 536 / markup p44, p49"
+ },
+ {
+  "name": "26-electrical line 537: TR GFCI duplex receptacle",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "TEMPER RESISTANT GFCI DUPLEX RECEPTACLE, 20A, 125V",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 537 / markup p44"
+ },
+ {
+  "name": "26-electrical line 538: TR quad receptacle",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "TAMPER RESISTANT QUAD RECEPTACLE, 20A, 125V",
+     "value": 7,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 7.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 538 / markup p44"
+ },
+ {
+  "name": "26-electrical line 539: Simplex receptacle",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "SIMPLEX LEFT RECEPTACLE, 20A, 125V",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 539 / markup p44"
+ },
+ {
+  "name": "26-electrical line 540: TR duplex w/ black plate",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "TAMPER RESISTANT DUPLEX RECEPTACLE, 20A, 125V W/ BLACK COVER PLATE",
+     "value": 5,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 5.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 540 / markup p44"
+ },
+ {
+  "name": "26-electrical line 542: GFCI duplex w/ engraved plate",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "GFCI DUPLEX RECEPTACLE, 20A, 125V- PROVIDE FACTORY ENGRAVED COVER PLATE ...",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 542 / markup p44"
+ },
+ {
+  "name": "26-electrical line 543: Duplex w/ cover plate",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "DUPLEX RECEPTACLE, 20A, 125V W/ COVER PLATE",
+     "value": 2,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 543 / markup p44"
+ },
+ {
+  "name": "26-electrical line 544: GFCI WP duplex w/ metallic cover (roof)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 45,
+     "legendItem": "GFCI WEATHERPROOF DUPLEX RECEPTACLE, 20A 120V W/ METALLIC COVER",
+     "value": 2,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 544 / markup p45"
+ },
+ {
+  "name": "26-electrical line 545: USB duplex (Legrand R26USBACWCCV6)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "USB DUPLEX RECETACLE, 20A, 125V",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 545 / markup p44"
+ },
+ {
+  "name": "26-electrical line 546: Quad receptacle 20A (separate row)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "QUAD RECEPTACLE 20A, 125V",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 546 / markup p44"
+ },
+ {
+  "name": "26-electrical line 547: Surge protective duplex (Leviton T5380W)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "DUPLEX RECEPTACLE, SURGE PROTECTIVE (LEVITON T5380W) 20A, 125V",
+     "value": 3,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 3.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 547 / markup p44"
+ },
+ {
+  "name": "26-electrical line 548: USB duplex receptacle",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "USB DUPLEX RECEPTACLE, 20A, 125V",
+     "value": 7,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 7.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 548 / markup p44"
+ },
+ {
+  "name": "26-electrical line 549: TR duplex receptacle",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "TEMPER RESISTANT DUPLEX RECEPTACLE, 20A, 125V",
+     "value": 5,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 5.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 549 / markup p44"
+ },
+ {
+  "name": "26-electrical line 550: TR duplex w/ engraved plate",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "TEMPER RESISTANT DUPLEX RECEPTACLE, 20A, 125V- PROVIDE FACTORY ENGRAVED...",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 550 / markup p44"
+ },
+ {
+  "name": "26-electrical line 551: Quad w/ black device & plate (booths)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "20A, 125V QUAD RECEPTACLE W/ BLACK DEVICE & COVER PLATES",
+     "value": 2,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 551 / markup p44"
+ },
+ {
+  "name": "26-electrical line 552: USB duplex w/ black device & plate",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "USB DUPLEX RECEPTACLE, 20A, 125V W/ BLACK DEVICE & COVER PLATES",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 552 / markup p44"
+ },
+ {
+  "name": "26-electrical line 553: Disconnect switch (unrated)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "DISCONNECT SWITCH",
+     "value": 3,
+     "unit": "EA"
+    },
+    {
+     "page": 51,
+     "legendItem": "DISCONNECT SWITCH",
+     "value": 1,
+     "unit": "EA"
+    },
+    {
+     "page": 55,
+     "legendItem": "DISCONNECT SWITCH",
+     "value": 2,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 6.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 553 / markup p46, p51, p55"
+ },
+ {
+  "name": "26-electrical line 554: 3-pole disconnect switch",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 55,
+     "legendItem": "3-POLE DISCONNECT SWITCH",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 554 / markup p55"
+ },
+ {
+  "name": "26-electrical line 555: Single switch 120/277V toggle",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "SINGLE SWITCH, 120/277V, TOOGLE TYPE",
+     "value": 6,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 6.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 555 / markup p44"
+ },
+ {
+  "name": "26-electrical line 556: Motor rated single switch",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "MOTOR RATED SINGLE SWITCH, 120/277V, TOOGLE TYPE",
+     "value": 2,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 556 / markup p44"
+ },
+ {
+  "name": "26-electrical line 557: Weatherproof single switch",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "WEATHERPROOF SINGLE SWITCH, 120/277V, TOOGLE TYPE",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 557 / markup p44"
+ },
+ {
+  "name": "26-electrical line 558: 20/2 NF disconnect switch",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "20/2 NF DISCONNECT SWITCH",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 558 / markup p44"
+ },
+ {
+  "name": "26-electrical line 559: NEMA 3R fusible disconnect (RTU)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 45,
+     "legendItem": "DISCONNECT SWITCH, PROVIDE NEMA 3R FUSIBLE DISCONNECT SWITCH",
+     "value": 3,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 3.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 559 / markup p45"
+ },
+ {
+  "name": "26-electrical line 560: Switch bank",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "SWITCH BANK FOR SWITCHES",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 560 / markup p46"
+ },
+ {
+  "name": "26-electrical line 561: LV dimming override switch w/ plate",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "LOW VOLTAGE DIMMING OVERRIDE SWITCH W/ COVER PLATE",
+     "value": 3,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 3.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 561 / markup p46"
+ },
+ {
+  "name": "26-electrical line 562: Open/close gang switch (drive-thru)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "OPEN/CLOSE GANG SWITCH W/ (1) COVER PLATE FOR BOTH",
+     "value": 2,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 562 / markup p46"
+ },
+ {
+  "name": "26-electrical line 563: Dimmer switch 20A",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "DIMMER SWITCH, 20A, 120/277V",
+     "value": 3,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 3.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 563 / markup p46"
+ },
+ {
+  "name": "26-electrical line 564: LV dimmer switch",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "LOW VOLTAGE DIMMER SWITCH",
+     "value": 2,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 564 / markup p46"
+ },
+ {
+  "name": "26-electrical line 565: Single switch 20A 120/277V",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "SINGLE SWITCH 20A, 120/277V",
+     "value": 2,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 565 / markup p46"
+ },
+ {
+  "name": "26-electrical line 566: LV 2-hour manual override switch",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "LOW VOLTAGE 2-HOUR MANUAL OVERRIDE SWITCH",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 566 / markup p46"
+ },
+ {
+  "name": "26-electrical line 567: LV 2-hour override dimmer switch",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "LOW VOLTAGE 2-HOUR MANUAL OVERRIDE DIMMER SWITCH",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 567 / markup p46"
+ },
+ {
+  "name": "26-electrical line 568: MechoShade control switch",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 50,
+     "legendItem": "MECHOSHADES CONTROL SWITCH",
+     "value": 4,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 4.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 568 / markup p50"
+ },
+ {
+  "name": "26-electrical line 569: Volume control switch (by others, install)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "VOLUMN CONTROL SWITCH BY OTHERS, GC TO INSTALL ONLY",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 569 / markup p44"
+ },
+ {
+  "name": "26-electrical line 570: Mood Media switch",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 50,
+     "legendItem": "MOOD MEDIA SWITCH",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 570 / markup p50"
+ },
+ {
+  "name": "26-electrical line 571: Combination data outlet",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "COMBINATION DATA OUTLET",
+     "value": 14,
+     "unit": "EA"
+    },
+    {
+     "page": 50,
+     "legendItem": "COMBINATION DATA OUTLET",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 15.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 571 / markup p44, p50"
+ },
+ {
+  "name": "26-electrical line 572: Combo data outlet w/ black plate",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "COMBINATION DATA OUTLET W/ BLACK COVER PLATE",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 572 / markup p44"
+ },
+ {
+  "name": "26-electrical line 573: Combo data outlet w/ black device & plate",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "COMBINATION DATA OUTLET W/ BLACK DEVICE & COVER PLATE",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 573 / markup p44"
+ },
+ {
+  "name": "26-electrical line 574: Junction box (building)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "JUNCTION BOX",
+     "value": 9,
+     "unit": "EA"
+    },
+    {
+     "page": 46,
+     "legendItem": "JUNCTION BOX",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 10.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 574 / markup p44, p46"
+ },
+ {
+  "name": "26-electrical line 575: Junction box w/ 2in cut-in box",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "JUNCTION BOX W/ 2\"W CUTIN BOX",
+     "value": 2,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 575 / markup p44"
+ },
+ {
+  "name": "26-electrical line 576: 4in square junction box (night depository)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "4\" SQUARE JUNCTION BOX",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 576 / markup p44"
+ },
+ {
+  "name": "26-electrical line 577: Double gang deep junction box",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "JUNCTION BOX W/ DOUBLE GANG, DEEP JBOX",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 577 / markup p44"
+ },
+ {
+  "name": "26-electrical line 578: Weatherproof junction box",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "WEATHER PROOF JUNCTION BOX",
+     "value": 6,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 6.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 578 / markup p46"
+ },
+ {
+  "name": "26-electrical line 579: Motion sensor (assumed)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "MOTION SENSOR, ASSUMED",
+     "value": 6,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 6.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 579 / markup p44"
+ },
+ {
+  "name": "26-electrical line 580: Occupancy sensor",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "OCCUPANCY SENSOR",
+     "value": 10,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 10.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 580 / markup p46"
+ },
+ {
+  "name": "26-electrical line 581: Security panel",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 49,
+     "legendItem": "SECURITY PANEL",
+     "value": 7,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 7.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 581 / markup p49"
+ },
+ {
+  "name": "26-electrical line 582: Telecommunication box",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 49,
+     "legendItem": "TELECOMMUNICATION BOX",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 582 / markup p49"
+ },
+ {
+  "name": "26-electrical line 583: Digital alarm communicator transmitter",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 49,
+     "legendItem": "DIGITAL ALARM COMMUNICATOR TRANSMITTER",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 583 / markup p49"
+ },
+ {
+  "name": "26-electrical line 584: Dimmer panel",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 49,
+     "legendItem": "DIMMER PANEL",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 584 / markup p49"
+ },
+ {
+  "name": "26-electrical line 585: Panduit two-post rack w/ managers",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 49,
+     "legendItem": "PANDUIT TWO POST CABLE MANAGMENT RACK SYSTEM",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 585 / markup p49"
+ },
+ {
+  "name": "26-electrical line 586: 18in Homaco ladder rack",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 49,
+     "legendItem": "18\" STEEL HOMACO LADDER RACK",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 586 / markup p49"
+ },
+ {
+  "name": "26-electrical line 587: Ground bus bar 12x2x1/4 Cu",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 49,
+     "legendItem": "GROUND BUS BAR, 12\"x2\"x1/4\" COPPER GROUND BAR W/ STANDOFF INSULATORS...",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 587 / markup p49"
+ },
+ {
+  "name": "26-electrical line 588: Panel PP 208/120 3ph 400A MCB",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 49,
+     "legendItem": "PANEL PP",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 588 / markup p49"
+ },
+ {
+  "name": "26-electrical line 589: Panel RP-A 208/120 3ph 225A MLO",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 49,
+     "legendItem": "PANEL RP-A",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 589 / markup p49"
+ },
+ {
+  "name": "26-electrical line 590: IOT BMS LCP-SA lighting control panel",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "INTERNET OF TEAM BMS LCP-SA LIGHTING CONTROL PANEL",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 590 / markup p46"
+ },
+ {
+  "name": "26-electrical line 591: Photosensor",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "PHOTOSENSOR",
+     "value": 4,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 4.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 591 / markup p46"
+ },
+ {
+  "name": "26-electrical line 592: Outlet box hood (roof)",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 45,
+     "legendItem": "OUTLET BOX HOOD",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 592 / markup p45"
+ },
+ {
+  "name": "26-electrical line 593: Wired remote controller",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 55,
+     "legendItem": "WIRED REMOTE CONTROLLER",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 593 / markup p55"
+ },
+ {
+  "name": "26-electrical line 594: Push button w/ 2in cut-in box",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "PUSH BUTTON W/ 2\"W CUTIN BOX",
+     "value": 2,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 594 / markup p44"
+ },
+ {
+  "name": "26-electrical line 595: Push button w/ 2-gang push plate & box",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "PUSH BUTTON W/ GANG DOOR PUSH PLATE & ELECTRIC BOX FOR PUSH PLATE",
+     "value": 2,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 595 / markup p44"
+ },
+ {
+  "name": "26-electrical line 596: Recessed floor box Legrand RFBA4C",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 44,
+     "legendItem": "RECESSED FLOOR BOX LEGRAND WIREMOLD #RFBA4C300G, RFBADP, RFBA24C4EXT,...",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 596 / markup p44"
+ },
+ {
+  "name": "26-electrical line 597: Dimmable power pack",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 46,
+     "legendItem": "DIMMABLE POWER PACK LIGHTING CONTROL DEVICE",
+     "value": 7,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 7.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 597 / markup p46"
+ },
+ {
+  "name": "26-electrical line 598: Pitch pocket",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 45,
+     "legendItem": "PITCH POCKET",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 598 / markup p45"
+ },
+ {
+  "name": "26-electrical line 599: 1-gang box",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 50,
+     "legendItem": "1-GANG BOX",
+     "value": 5,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 5.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 599 / markup p50"
+ },
+ {
+  "name": "26-electrical line 600: Recessed 3-gang box Arlington TVBS507",
+  "formula": "count = \u03a3 legend counts across markup pages (each physical device counted once)",
+  "inputs": {
+   "counts": [
+    {
+     "page": 50,
+     "legendItem": "RECESSED ELECTRICAL BOX (ARLINGTON BOXES TVBS507 3-GANG)",
+     "value": 1,
+     "unit": "EA"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 600 / markup p50"
+ },
+ {
+  "name": "26-electrical line 601: (4) 3/4in IMC (transaction bar power)",
+  "formula": "LF = \u03a3 route lengths (bundle LF; conduits-in-route kept as a label)",
+  "inputs": {
+   "routeLengths": [
+    {
+     "page": 44,
+     "legendItem": "(4) 3/4\"DIA IMC CONDUIT",
+     "value": 19.6,
+     "unit": "LF"
+    }
+   ],
+   "conduitsInRoute": {
+    "value": 4,
+    "unit": "EA",
+    "use": "description only; LF is NOT multiplied"
+   }
+  },
+  "expected": {
+   "quantity": 19.61,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 601 / markup p44"
+ },
+ {
+  "name": "26-electrical line 602: (4) 2in IMC w/ string (transaction bar data)",
+  "formula": "LF = \u03a3 route lengths (bundle LF; conduits-in-route kept as a label)",
+  "inputs": {
+   "routeLengths": [
+    {
+     "page": 44,
+     "legendItem": "(4) 2\"DIA IMC W/ STRING CONDUIT",
+     "value": 19.5,
+     "unit": "LF"
+    }
+   ],
+   "conduitsInRoute": {
+    "value": 4,
+    "unit": "EA",
+    "use": "description only; LF is NOT multiplied"
+   }
+  },
+  "expected": {
+   "quantity": 19.54,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 602 / markup p44"
+ },
+ {
+  "name": "26-electrical line 510: wiring/conduit/fittings allowance basis area",
+  "formula": "allowance basis SF = ceil(gross SF / 500) \u00d7 500; quantity 1 LS",
+  "inputs": {
+   "grossArea": {
+    "value": 1900,
+    "unit": "SF",
+    "read": "title block \"1,900 SF\""
+   },
+   "roundTo": {
+    "value": 500,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 1,
+   "unit": "LS",
+   "basisArea": 2000
+  },
+  "tolerancePct": 0,
+  "source": "line 510 / title block E-010; same basis on lines 403, 445, 622"
+ }
+]

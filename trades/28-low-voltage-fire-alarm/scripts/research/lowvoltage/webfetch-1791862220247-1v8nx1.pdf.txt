@@ -1,0 +1,1859 @@
+HS24-177, S24-177, EH-24, HS-24 & S-24 SERIES
+ANSI/UL & CAN/ULC COMPLIANT
+HS-24-WP, HSLP-24-WP, S-24-WP & SLP-24-WP SERIES
+CHS-24A, CS-24WA, CHS-24B, CS-24WB, CHS-24G, 
+CS-24WG, CHS-24R & CS-24WR SERIES
+CHS-24A-WP, CHSLP-24A-WP, CS-24WA-WP, CSLP-24WA-WP  
+CHS-24B-WP, CHSLP-24B-WP, CS-24WB-WP, CSLP-24WB-WP
+CHS-24G-WP, CHSLP-24G-WP, CS-24WG-WP, CSLP-24WG-WP
+CHS-24R-WP, CHSLP-24R-WP, CS-24WR-WP & CSLP-24WR-WP SERIES
+ANSI/UL & CAN/ULC COMPLIANT
+VISIBLE AND/OR AUDIBLE 
+SIGNALING APPLIANCES
+I. INTRODUCTION
+The Potter Electric models HS24-177, S24-177, EH-24, HS-24, S-24, HS-24-WP, HSLP-24-WP, S-24-WP, SLP-24-WP, CHS-24A, CS-24WA, CHS-24B, CS-24WB, CHS-24G, CS-24WG, 
+CHS-24R, CS-24WR, CHS-24A-WP, CHSLP-24A-WP, CS-24WA-WP, CSLP-24WA-WP, CHS-24B-WP, CHSLP-24B-WP, CS-24WB-WP, CSLP-24WB-WP, CHS-24G-WP, CHSLP-24G-WP, 
+CS-24WG-WP, CSLP-24WG-WP, CHS-24R-WP, CHSLP-24R-WP, CS-24WR-WP, CSLP-24WR-WP are high quality audible and/or visible signaling appliances.  The high intensity strobe utilizes
+a Xenon flash tube that generates a high-intensity flash visible from all angles.  This appliance is intended to provide a visible, audible or audible/visible, depending on the model, notification 
+signal for the purpose of life safety and property protection.  The HS-24, S-24, CHS-24A, CS-24WA, CHS-24B, CS-24WB, CHS-24G, CS-24WG, CHS-24R, CS-24WR are provided with a slider
+switch which allows for candela selection at the installation site; the candela intensities which can be selected are 15Cd, 30Cd, 60Cd, 75Cd, or 110Cd.  The HS24-177 and S24-177 are fixed
+candela units; the candela intensity which can be ordered is 177Cd.  The HS-24-WP, HSLP-24-WP, S-24-WP, SLP-24-WP, CHS-24A-WP, CHSLP-24A-WP, CS-24WA-WP, CSLP-24WA-WP,
+CHS-24B-WP, CHSLP-24B-WP, CS-24WB-WP, CSLP-24WB-WP, CHS-24G-WP, CHSLP-24G-WP, CS-24WG-WP, CSLP-24WG-WP, CHS-24R-WP, CHSLP-24R-WP, CS-24WR-WP, 
+CSLP-24WR-WP are fixed candela units, available in a 75 candela intensity only.  This appliance is ideal for any occupancy that requires notification appliances per the applicable building or fire
+code or wherever dependable alarms are required.  
+The HS24-177, S24-177, HS-24, S-24 strobe is listed in compliance with ANSI/UL 1971, Signaling Appliances for the Hearing Impaired.  The HS-24-WP, HSLP-24-WP, S-24-WP, SLP-24-WP,
+CHS-24A, CS-24WA, CHS-24B, CS-24WB, CHS-24G, CS-24WG, CHS-24R, CS-24WR, CHS-24A-WP, CHSLP-24A-WP, CS-24WA-WP, CSLP-24WA-WP, CHS-24B-WP, CHSLP-24B-WP, 
+CS-24WB-WP, CSLP-24WB-WP, CHS-24G-WP, CHSLP-24G-WP, CS-24WG-WP, CSLP-24WG-WP, CHS-24R-WP, CHSLP-24R-WP, CS-24WR-WP, CSLP-24WR-WP strobe is listed in 
+compliance with ANSI/UL 1638, Visual Signaling Appliances - Private Mode Emergency and General Signaling.  Additionally, colored lens models CHS-24A, CS-24WA, CHS-24B, CS-24WB,
+CHS-24G, CS-24WG, CHS-24R, CS-24WR comply with the polar dispersion requirements of ANSI/UL 1971.
+II. LOCATION
+This appliance is intended for use in Fire Alarm Systems and is to be installed in accordance with this manual, the recommendation of the local authorities having jurisdiction, and other NFPA
+documents that provide standards on notification appliances for protective signaling systems.  The HS24-177, S24-177, EH-24, HS-24, S-24, CHS-24A, CS-24WA, CHS-24B, CS-24WB, 
+CHS-24G, CS-24WG, CHS-24R, CS-24WR are intended for indoor installations only; this appliance is not listed for outdoor or drip proof applications.  The HS-24-WP, HSLP-24-WP, S-24-WP,
+SLP-24-WP, CHS-24A-WP, CHSLP-24A-WP, CS-24WA-WP, CSLP-24WA-WP, CHS-24B-WP, CHSLP-24B-WP, CS-24WB-WP, CSLP-24WB-WP, CHS-24G-WP, CHSLP-24G-WP, CS-24WG-WP, 
+CSLP-24WG-WP, CHS-24R-WP, CHSLP-24R-WP, CS-24WR-WP, CSLP-24WR-WP are intended for indoor or outdoor installations; this appliance is rated for outdoor or drip proof applications
+when used in conjunction with the WPBB or WPLPBB Enclosure.
+Wall mounted strobe and horn/strobe appliances shall have their entire lens at heights above the finished floor of not less than 80 in. (2m) and not greater than 96 in. (2.4m)**.  Spacing shall be
+in accordance with Table A.  If a room configuration is not square, the room size that will entirely encompass the room or subdivide the room into multiple squares shall be used.  Wall mounted
+horn only appliances shall have their tops above the finished floors at heights of not less than 90 in. (2.30m) and below the finished ceilings at heights of not less than 6 in. (152mm).  Different
+mounting heights shall be permitted by the AHJ provided the sound pressure level requirements of NFPA 72 are met.
+III. MOUNTING, ROUGH-IN BOX AND RUN WIRING
+This unit is designed for mounting to most single gang boxes, 4" square outlet boxes, 2-gang masonry boxes or non-metallic 2-gang switch boxes.  Conduit entrance to boxes should be 
+selected to insure sufficient wiring clearance.
+1. Run a minimum 18 gauge insulated 2 or more conductor cable.
+2. Mount a box for each remote signaling appliance.  Screw bracket onto box. Insert signal into bracket and slide to the right firmly into the terminal block 
+receptacle.  Place housing over mounted assembly and screw together with single screw at the bottom of the signal.  Cover screw with plastic tab.
+NOTICE: WIRING SHOULD BE CONNECTED TO MOUNTING BRACKET PRIOR TO MOUNTING SIGNAL.  INCOMING POSITIVE POWER LEAD MUST BE BROKEN AND EACH LEAD IS
+TO BE INSERTED INTO EACH OF THE TOP TWO TERMINALS. IF TWO POWER RUNS ARE MADE TO THE SIGNAL, ONE FOR THE STROBE AND ONE FOR THE HORN, ONLY ONE OF
+THE RUNS MUST HAVE ITS POSITIVE LEAD BROKEN AND PLACED UNDER THE TWO SEPARATE TOP TERMINALS. A BARRIER IS PROVIDED TO PREVENT BOTH LEADS FROM
+BEING PLACED UNDER THE SAME TERMINAL.
+NA = Not allowable
+Table A
+Room Spacing for Wall-Mounted Visible Appliances per NFPA 72, 2013 Edition
+Maximum Room Size
+Minimum Required Light Output ( Effective Intensity, Cd)
+Meters
+Feet
+One Light 
+per Room 
+Four Lights per Room 
+(One Light per Wall)
+6.10 x 6.10
+20 x 20
+15
+NA
+8.53 x 8.53
+28 x 28
+30
+NA
+9.14 x 9.14
+30 x 30
+34
+NA
+12.2 x 12.2
+40 x 40
+60
+15
+13.7 x 13.7
+45 x 45
+75
+19
+15.2 x 15.2
+50 x 50
+94
+30
+16.5 x 16.5
+54 x 54
+110
+30
+16.8 x 16.8
+55 x 55
+115
+30
+18.3 x 18.3
+60 x 60
+135
+30
+19.2 x 19.2
+63 x 63
+150
+37
+20.7 x 20.7
+68 x 68
+177
+43
+21.3 x 21.3
+70 x 70
+184
+60
+24.4 x 24.4
+80 x 80
+240
+60
+27.4 x 27.4
+90 x 90
+304
+95
+30.5 x 30.5
+100 x 100
+375
+95
+33.5 x 33.5
+110 x 110
+455
+135
+36.6 x 36.6
+120 x 120
+540
+135
+39.6 x 39.6
+130 x 130
+635
+185
+550-0593
+Page 1
+HS24-177, S24-177, HS-24 AND S-24  PRODUCT INFORMATION
+**Effective Intensity Requirements for Sleeping Areas
+Visible Notification Appliance
+Distance from Ceiling to Top of Lens  
+Intensity
+greater than or equal to 24"
+110cd
+less than 24"
+177cd
+CAUTION: 
+Strobe light must be
+installed within 16 feet
+of the pillow when used
+in a sleeping area.
+ADDITIONAL CAN/ULC LISTED PRODUCT INFORMATION IS FOUND ON PAGES 5 AND 6
+
+HS-24-WP, HSLP-24-WP, S-24-WP, SLP-24-WP, CHS-24A-WP, CHSLP-24A-WP, CS-24WA-WP, CSLP-24WA-WP, CHS-24B-WP, 
+CHSLP-24B-WP, CS-24WB-WP, CSLP-24WB-WP, CHS-24G-WP, CHSLP-24G-WP, CS-24WG-WP, CSLP-24WG-WP, 
+CHS-24R-WP, CHSLP-24R-WP, CS-24WR-WP AND CSLP-24WR-WP PRODUCT INFORMATION
+Models
+Color Lens
+CHS-24A-WP, CHSLP-24A-WP, 
+CS-24WA-WP, CSLP-24WA-WP
+Amber
+CHS-24B-WP, CHSLP-24B-WP, 
+CS-24WB-WP, CSLP-24WB-WP
+Blue
+CHS-24G-WP, CHSLP-24G-WP, 
+CS-24WG-WP, CSLP-24WG-WP
+Green
+CHS-24R-WP, CHSLP-24R-WP, 
+CS-24WR-WP, CSLP-24WR-WP
+Red
+NOTICE: DC VOLTAGE RANGE LIMITS: 16-33V.  FWR VOLTAGE RANGE LIMITS: 16-33V.  THIS PRODUCT WAS ONLY TESTED TO
+THE STATED VOLTAGE RANGE(S); DO NOT APPLY 80% AND 110% OF THIS RANGE FOR SYSTEM OPERATION.
+24VDC CLEAR & AMBER Lens Outdoor 
+Strobe Current Ratings
+Use with HS-24-WP, HSLP-24-WP, S-24-WP,
+SLP-24-WP, CHS-24A-WP, CHSLP-24A-WP, 
+CS-24WA-WP, and CSLP-24WA-WP Products
+Candela
+Regulated 24VDC 
+Max. Operating 
+Current (mA)
+Regulated 24VFWR
+Max. Operating 
+Current (mA)
+75
+170
+263
+24VDC BLUE, GREEN & RED Lens Outdoor 
+Strobe Current Ratings
+Use with CHS-24B-WP, CHSLP-24B-WP, 
+CS-24WB-WP, CSLP-24WB-WP, CHS-24G-WP, 
+CHSLP-24G-WP, CS-24WG-WP, CSLP-24WG-WP, 
+CHS-24R-WP, CHSLP-24R-WP, CS-24WR-WP 
+and CSLP-24WR-WP Products
+Candela
+Regulated 24VDC 
+Max. Operating 
+Current (mA)
+Regulated 24VFWR
+Max. Operating 
+Current (mA)
+75
+164
+278
+AMBER Lens Indoor Strobe Current Ratings
+Use with CHS-24A and CS-24WA Products
+Candela
+Regulated 24VDC 
+Max. Operating 
+Current (mA)
+Regulated 24VFWR
+Max. Operating 
+Current (mA)
+15
+47
+82
+30
+64
+112
+60
+113
+178
+75
+145
+213
+110
+178
+259
+CHS-24A, CS-24WA, CHS-24B, CS-24WB, CHS-24G, CS-24WG, CHS-24R AND CS-24WR PRODUCT INFORMATION
+BLUE, GREEN & RED Lens Indoor 
+Strobe Current Ratings
+Use with CHS-24B, CS-24WB, CHS-24G, 
+CS-24WG, CHS-24R and CS-24WR Products
+Candela
+Regulated 24VDC 
+Max. Operating 
+Current (mA)
+Regulated 24VFWR
+Max. Operating 
+Current (mA)
+15
+105
+164
+30
+130
+196
+60
+203
+325
+75
+243
+355
+110
+310
+491
+Models
+Color Lens
+CHS-24A, CS-24WA
+Amber
+CHS-24B, CS-24WB
+Blue
+CHS-24G, CS-24WG
+Green
+CHS-24R, CS-24WR
+Red
+NOTICE: DC VOLTAGE RANGE LIMITS: 16-33V.  FWR VOLTAGE RANGE LIMITS: 16-33V.  THIS PRODUCT WAS ONLY TESTED TO
+THE STATED VOLTAGE RANGE(S); DO NOT APPLY 80% AND 110% OF THIS RANGE FOR SYSTEM OPERATION.
+HORN DECIBEL AND CURRENT RATINGS PRODUCT INFORMATION
+NOTICE:
+w THE THREE PULSE TEMPORAL PATTERN IS TO BE USED FOR EVACUATION USE ONLY.
+w THE SOUND OUTPUT FOR THE TEMPORAL 3 TONE IS RATED LOWER SINCE THE TIME THE HORN IS OFF IS AVERAGED INTO THE SOUND OUT PUT RATING.  WHILE THE HORN IS PRODUCING A TONE 
+IN THE TEMPORAL 3 MODE ITS SOUND PRESSURE IS THE SAME AS THE CONTINUOUS MODE.  UNITS HAVE BEEN TESTED TO 0°C, 49°C AND 93% HUMIDITY.   
+* Operating the horn in this mode at this voltage will result in not meeting the minimum ANSI/UL 464 sound level required for public mode fire protection service.  
+These settings are acceptable only for private mode fire alarm signaling use.  Use the high dBA setting for public mode applications (the chime tone is always private mode).
+550-0593
+Page 2
+Strobe light cannot be seen when objects such as doors, furniture or walls block strobe light.
+NOTICE: 
+w THE VISUAL SIGNAL MUST BE IN THE DIRECT VIEWING AREA OF THE OCCUPANT IN ORDER TO BE SEEN.
+w VISUAL SIGNALS FOR THE HEARING IMPAIRED ARE ONLY ONE METHOD OF ALERTING THE HEARING IMPAIRED.  VISUAL SIGNALS MAY NOT BE THE PREFERRED METHOD 
+FOR NOTIFYING ALL HEARING IMPAIRED INDIVIDUALS.
+w THE STROBE LIGHT MUST BE SEEN BY THE SLEEPING PERSON.  IF THE PERSON HAS HEAD TURNED OR OTHERWISE UNABLE TO BE ALERTED BY VISUAL, THE STROBE 
+WILL NOT BE EFFECTIVE.
+24VDC CLEAR Lens Indoor Strobe Current Ratings
+HS24-177 and 
+S24-177 Series
+Available Candela
+S-24 and HS-24
+Series Available
+Candela
+Strobe
+Candela
+Regulated 24VDC
+Max. Operating 
+Current(mA)
+Regulated 24VFWR 
+Max. Operating 
+Current (mA)
+24VDC 
+Nominal Operating
+Current (mA) 
+w
+15
+42
+77
+30
+w
+30
+58
+102
+42
+w
+60
+97
+161
+66
+w
+75
+116
+225
+80
+w
+110
+161
+256
+103
+w
+177
+213
+341
+N/A
+NOTICE: DC VOLTAGE RANGE LIMITS: 16-33V.  FWR
+VOLTAGE RANGE LIMITS: 16-33V.  THIS PRODUCT WAS
+ONLY TESTED TO THE STATED VOLTAGE RANGE(S); DO
+NOT APPLY 80% AND 110% OF THIS RANGE FOR 
+SYSTEM OPERATION.
+N/A: 24VDC nominal operating current data not available
+Horn Decibel Levels:
+Reverberant Room
+Horn Current Ratings Over 
+Input Voltage Range of 16-33V
+24VDC Nominal Horn 
+Current Ratings
+Horn Mode
+Minimum SPL
+at 10Ft. Per
+ANSI/UL 464
+(HIGH)
+Minimum SPL
+at 10Ft. Per
+ANSI/UL 464
+(LOW)
+Regulated 24VDC
+Max. Operating
+Current (mA)
+HIGH Setting
+Regulated 24VFWR
+Max. Operating
+Current (mA) 
+HIGH Setting
+24VDC Operating
+Current (mA) 
+HIGH Setting
+24VFWR Operating
+Current (mA)
+HIGH Setting
+Temp 3 2400Hz
+78 dBA
+71* dBA
+28
+48
+10.7
+26.8
+Temp 3 Mechanical
+76 dBA
+70* dBA
+25
+44
+9.7
+24.5
+Temp 3 Chime
+70* dBA
+66* dBA
+15
+30
+8.6
+20.6
+Continuous 2400Hz
+81 dBA
+74* dBA
+28
+48
+20.4
+43.7
+Continuous Mechanical
+80 dBA
+72* dBA
+25
+44
+17.0
+39.3
+Continuous Chime
+70* dBA
+66* dBA
+15
+30
+9.6
+23.0
+Whoop
+82 dBA
+69* dBA
+56
+62
+45.4
+60.2
+
+550-0593
+Page 3
+IV. WIRING
+Wiring for synchronized strobes and horns.
+Using this method you may:
+w Use only two wires to synchronize the temporal horn and strobe with the ability to mute the horn (place switches 
+1 and 2 in the ON position on the HS24-177, HS-24, HS-24-WP, HSLP-24-WP, CHS-24A, CHS-24B, CHS-24G, 
+CHS-24R, CHS-24A-WP, CHSLP-24A-WP, CHS-24B-WP, CHSLP-24B-WP, CHS-24G-WP, CHSLP-24G-WP, 
+CHS-24R-WP, CHSLP-24R-WP).
+w Mute the horn only when the temporal horn option has been selected.
+w Use the Potter Electric AVSM synchronization protocol to provide synchronization and mute the horn, if available.
+Wiring for synchronized parallel (unison) horn/strobe operation.
+Using this method you may:
+w Use four wires where two wires are used to power and synchronize the strobe and two additional wires are used to 
+power and synchronize the horn (place switches 1 and 2 in the OFF position on the HS24-177, HS-24, HS-24-WP, HSLP-24-WP, CHS-24A, CHS-24B, CHS-24G, CHS-24R, CHS-24A-WP, 
+CHSLP-24A-WP, CHS-24B-WP, CHSLP-24B-WP, CHS-24G-WP, CHSLP-24G-WP, CHS-24R-WP, CHSLP-24R-WP).
+w Choose either continuous horn and allow the FACP to control the horn or choose temporal horn and synchronize the horns with the Potter Electric AVSM synchronization protocol. 
+w Use the Potter Electric AVSM synchronization protocol to provide synchronization and mute the horn, if available.  
+NOTICE: 
+w FOR THIS OPTION, SWITCHES 1 AND 2 ON THE HS24-177, HS-24, HS-24-WP, HSLP-24-WP, CHS-24A, CHS-24B, CHS-24G, CHS-24R, CHS-24A-WP, CHSLP-24A-WP, CHS-24B-WP, 
+CHSLP-24B-WP, CHS-24G-WP, CHSLP-24G-WP, CHS-24R-WP, CHSLP-24R-WP MUST BE IN THE OFF POSITION TO ISOLATE POWER TO THE AUDIBLE AND VISIBLE PORTION OF  
+THE CIRCUIT.
+w ALL STROBES ARE DESIGNED TO FLASH AS SPECIFIED WITH CONTINUOUS APPLIED VOLTAGE.  THIS APPLIANCE IS NOT RECOMMENDED FOR USE ON CODED OR PULSING 
+SIGNALING CIRCUITS. HOWEVER, USE OF THE AVSM CONTROL MODULE IS PERMITTED TO SYNCHRONIZE THE STROBE AND/OR MUTE THE HORN.
+w REFERENCE AVSM CONTROL MODULE MANUAL (550-0598, DATED 2-1-13) FOR SYNCHRONIZATION MODULE WIRING DIAGRAMS.  AVSM MANUAL CAN BE OBTAINED BY 
+CALLING POTTER ELECTRIC SIGNAL COMPANY AT 1-800-325-3936.
+Conventional Method:
+You may connect both the strobe and the horn directly from a source of rated power without the use of a control module.  However, the horns and strobe lights will NOT be synchronized.  Place
+switches 1 and 2 in the ON position on the HS24-177, HS-24, HS-24-WP, HSLP-24-WP, CHS-24A, CHS-24B, CHS-24G, CHS-24R, CHS-24A-WP, CHSLP-24A-WP, CHS-24B-WP, 
+CHSLP-24B-WP, CHS-24G-WP, CHSLP-24G-WP, CHS-24R-WP, CHSLP-24R-WP to power both the audible and visible from a single pair of power wires. If you wish to power the horn and
+strobe from independent sources of power, place switches 1 and 2 in the OFF position on the HS24-177, HS-24, HS-24-WP, HSLP-24-WP, CHS-24A, CHS-24B, CHS-24G, CHS-24R, 
+CHS-24A-WP, CHSLP-24A-WP, CHS-24B-WP, CHSLP-24B-WP, CHS-24G-WP, CHSLP-24G-WP, CHS-24R-WP, CHSLP-24R-WP and connect power to the appropriate terminals.
+CAUTION: When using only a single power source to 
+energize the strobe and horn (switches 1 and 2 in the ON 
+position), the in/out wiring must be under the S+ and S- 
+terminals only.  Failure to do so may result in damage to your
+signal.  For the horn only (EH-24) and strobe only (S24-177,
+S-24, S-24-WP, SLP-24-WP, CS-24WA, CS-24WB, CS-24WG,  
+CS-24WR, CS-24WA-WP, CSLP-24WA-WP, CS-24WB-WP,
+CSLP-24WB-WP, CS-24WG-WP, CSLP-24WG-WP, 
+CS-24WR-WP, CSLP-24WR-WP), only the top three terminals
+are to be used.  
+SWITCH POSITION
+TONE
+3
+4
+5
+Mechanical Temporal 3
+ON
+ON
+ON
+Mechanical - Continuous
+OFF
+ON
+ON
+2400Hz - Temporal 3
+ON
+OFF
+ON
+2400Hz - Continuous
+OFF
+OFF
+ON
+Chime - Temporal 3
+ON
+ON
+OFF
+Chime - Continuous
+OFF
+ON
+OFF
+Whoop
+ON
+OFF
+OFF
+Whoop
+OFF
+OFF
+OFF
+NOTICE: 
+w SWITCH POSITIONS 1 AND 2 IN THE OFF POSITION TO 
+SELECT ISOLATED HORN AND STROBE POWER INPUTS
+w SWITCH POSITION 6 ON = HIGH DBA
+w SWITCH POSITION 6 OFF = LOW DBA
+CAUTION: A jumper card is provided to test for correct
+wiring in the supervisory mode only.  DO NOT pass alarm
+current through the jumper.
+Mounting Bracket:
+Allows the installer to pre-wire the system, test for system
+supervision, remove the signal head until occupancy,
+switch out Potter Electric signals without changing 
+mounting brackets and has locking edge connector for
+snap-in-place installation.
+Instant Voltage Verification:  
+It is often necessary to confirm the voltage drop along a
+line of devices. The access holes are provided in the back
+of the terminal block to allow the voltage to be measured
+directly without removing the device. Typically this would
+be done at the end of the line to confirm design criteria.
+Most measurements will be taken using the S+ and S-
+locations although access is provided to other locations. 
+NOTICE: CARE SHOULD BE TAKEN TO NOT SHORT
+THE TEST PROBES.
+
+FOR MODELS: HS-24, S-24, CHS-24A, CS-24WA, CHS-24B, CS-24WB, 
+CHS-24G, CS-24WG, CHS-24R, CS-24WR ONLY
+To remove bezel, grip both
+sides of bezel and pull in a
+downward and outward
+motion.
+FOR MODELS: HS24-177, S24-177, EH-24, HS-24, S-24, 
+CHS-24A, CS-24WA, CHS-24B, CS-24WB, CHS-24G, CS-24WG, 
+CHS-24R, CS-24WR ONLY
+V. CHECKOUT AND TROUBLESHOOTING
+1. Supply power to the system control panel.  The auxiliary signaling appliances in the system should not be activated.
+2. If the signal is activated:
+w Check all smoke and fire detectors in the system to make sure they have not been activated.
+w Check all wiring connections to make sure the signal detection circuits are not reversed or shorted together.  Check wire color codes and traces.
+w Verify that the jumpers and switches are properly set on both the control module and signal appliance.  If the jumper on the AVSM is removed, the horns will not produce any sound unless
+there is an input to the H+ and H- terminals on the control module.
+3. To test the signal appliances, trip the auxiliary panel or activate the alarm circuit at the main control panel or activate one of the fire detection units in the system.  All auxiliary signals should 
+be activated.
+4. An operational test on this product should be conducted in accordance with National Standards or at a minimum annually and more often if dictated by local and state codes or authorities 
+having jurisdiction.
+NOTICE: THESE TESTING PROCEDURES AND TROUBLESHOOTING INSTRUCTIONS ARE GENERALIZED.  PLEASE REFER TO THE SYSTEM CONTROL PANEL OPERATING
+INSTRUCTIONS FOR PROPER OPERATION OF THE PANEL AND FIRE DETECTION SYSTEM.
+SIGNALING APPLIANCE LIMITATION:
+Your horn and horn/strobe meet or exceed the current audibility requirements of ANSI/UL 464.  However, if the appliance is located outside a bedroom it may not wake up a sound sleeper,
+especially if the room door is closed or only partially open.
+VI. TO RETURN AN APPLIANCE
+Should you experience problems with your appliance, proceed as follows:
+1. Turn off electrical power to the auxiliary alarm circuit.
+2. Remove the bezel, nameplate, then mounting screw and slide signal off from bracket
+3. Replace unit that was removed to restore wiring supervision and to eliminate system trouble alert.
+4. Carefully pack the defective unit (the manufacturer cannot be responsible for consequential damage due to shipping or mis-handling).  Include a return address and complete details as to 
+the nature of the difficulties being experienced and date of installation.
+5. Return to: Potter Electric Signaling Company, LLC 1609 Park 370, Hazelwood, MO 63042.  Prior to returning, call the Potter Electric field service department at 1-800-325-3936 to obtain a 
+RMA number.
+THIS APPLIANCE WILL NOT OPERATE WITHOUT ELECTRICAL POWER.  AS FIRES FREQUENTLY CAUSE POWER INTERRUPTIONS, 
+POTTER ELECTRIC SUGGESTS YOU DISCUSS FURTHER SAFEGUARDS WITH YOUR LOCAL FIRE PROTECTION SPECIALIST.
+Candela selection 
+slider switch.  Depress 
+center and slide switch to
+desired brightness level.
+Break off pin and insert into
+hole at the bottom of the
+selector to lock candela 
+setting.  Signal must be
+removed from bracket and
+pin pushed forward from
+backside out of hole to
+change candela.
+550-0593
+Page 4
+
+PRODUCT INFORMATION
+This appliance is intended to provide a visible, audible or audible/visible, depending on the model, notification signal for the purpose of life safety and property protection.  This appliance is ideal
+for any occupancy that requires notification appliances per the applicable building or fire code or wherever dependable alarms are required.  This appliance is listed in compliance with 
+CAN/ULC S525 and/or CAN/ULC S526.  This appliance is intended for use in fire alarm systems and is to be installed in accordance with this manual, the National Building Code of Canada,
+CAN/ULC S524 and local codes that provide standards on notification appliances for protective signaling systems.  Potter Electric recommends spacing notification appliances in compliance
+with CAN/ULC S524.  
+This unit is designed for mounting to most single gang boxes, 4" square outlet boxes, 2-gang masonry boxes or non-metallic 2-gang switch boxes.  Conduit entrance to boxes should be 
+selected to insure sufficient wiring clearance.
+1. Wiring is to be in accordance with CSA C22.1 Canadian Electrical Code, Part 1, Safety Standard for Electrical Installations, Sec. 32
+2. Run a minimum 18 gauge insulated 2 or more conductor cable.
+3. Mount a box for each remote signaling appliance.  Screw bracket onto box. Insert signal into bracket and slide to the right firmly into the terminal block receptacle.  Place housing over 
+mounted assembly and screw together with single screw at the bottom of the signal.  Cover screw with plastic tab.
+ADDITIONAL INSTRUCTIONS FOR VISIBLE AND/OR AUDIBLE 
+SIGNALING APPLIANCES: CAN/ULC
+CAN/ULC HORN DECIBEL AND CURRENT RATINGS PRODUCT INFORMATION: HORN & HORN/STROBE
+NOTICE:
+w THE NATIONAL BUILDING CODE AND CAN/ULC S525 REQUIRES THAT ALL HORNS USED 
+FOR BUILDING EVACUATION PRODUCE TEMPORAL CODED SIGNALS.
+w THE SOUND OUTPUT FOR THE TEMPORAL 3 TONE IS RATED LOWER SINCE THE TIME 
+THE HORN IS OFF IS AVERAGED INTO THE SOUND OUT PUT RATING.  UNITS HAVE 
+BEEN TESTED TO 0°C, 49°C AND 93% HUMIDITY. 
+Directional Sound Characteristic:
+Horn and Horn/Strobe
+Horizontal Angle
+-3 dBA
+20
+-6 dBA
+v
+Vertical Angle
+-3 dBA
+70
+-6 dBA
+v
+v = NO MEASURED LOSS
+HORN DECIBEL RATINGS IN ULC ANECHOIC ROOM (dBA @ 3 meters)
+HORN & HORN/STROBE
+Horn Mode
+Regulated 24 VDC 
+Max. SPL Rating
+Regulated 
+24 VFWR 
+Max. SPL Rating 
+24 VDC
+Nominal SPL
+Rating
+24 VFWR
+Nominal SPL
+Rating
+Temp 3 2400Hz (HIGH)
+89.9
+91.6
+92.3
+94.5
+Temp 3 2400Hz (LOW)
+81.9
+84.9
+85.6
+88.3
+Temp 3 Mechanical (HIGH)
+92.8
+94.6
+95.8
+97.8
+Temp 3 Mechanical (LOW)
+86.0
+88
+89.2
+91.4
+Temp 3 Chime (HIGH)
+84.0
+84.7
+85.2
+86.3
+Temp 3 Chime (LOW)
+78.1
+80.4
+81.0
+82.9
+Continuous 2400Hz (HIGH)
+89.9
+91.8
+92.7
+94.5
+Continuous 2400Hz (LOW)
+82.4
+84.8
+85.7
+88.4
+Continuous Mechanical (HIGH)
+92.7
+94.9
+96.0
+97.7
+Continuous Mechanical (LOW)
+86.0
+88.2
+89.6
+91.4
+Continuous Chime (HIGH)
+83.6
+84.9
+85.1
+86.4
+Continuous Chime (LOW)
+78.1
+80.4
+80.9
+82.9
+Whoop (HIGH)
+92.8
+83.6
+94.7
+95.3
+Whoop (LOW)
+81.1
+83.3
+84.6
+86.6
+Horn Current Ratings Over 
+Input Voltage Range of 16-33V
+24VDC Nominal Horn 
+Current Ratings
+Horn Mode
+Regulated 24VDC
+Max. Operating
+Current (mA)
+HIGH Setting
+Regulated 24VFWR
+Max. Operating
+Current (mA) 
+HIGH Setting
+24VDC Operating
+Current (mA) 
+HIGH Setting
+24VFWR Operating
+Current (mA)
+HIGH Setting
+Temp 3 2400Hz
+28
+48
+10.7
+26.8
+Temp 3 Mechanical
+25
+44
+9.7
+24.5
+Temp 3 Chime
+15
+30
+8.6
+20.6
+Continuous 2400Hz
+28
+48
+20.4
+43.7
+Continuous Mechanical
+25
+44
+17.0
+39.3
+Continuous Chime
+15
+30
+9.6
+23.0
+Whoop
+56
+62
+45.4
+60.2
+550-0593
+Page 5
+
+550-0593-AAC
+Potter Electric Signal Company, LLC
+1609 Park 370, Hazelwood, MO 63042
+Phone: 800-325-3936
+www.pottersignal.com
+Important Notice:
+These materials have been prepared by Potter Electrical Signal Company, LLC ("Potter") for informational purposes only, are necessarily summary, and are not purported to serve as legal advice and should not be used as such.  Potter makes no representations and warranties, express or implied, that these 
+materials are complete and accurate, up-to-date, or in compliance with all relevant local, state and federal laws, regulations and rules.  The materials do not address all legal considerations as there is inevitable uncertainty regarding interpretation of laws, regulations and rules and the application of such laws, 
+regulations and rules to particular fact patterns.  Each person's activities can differently affect the obligations that exist under applicable laws, regulations or rules.  Therefore, these materials should be used only for informational purposes and should not be used as a substitute for seeking professional legal advice.
+Potter will not be responsible for any action or failure to act in reliance upon the information contained in this material.
+LIMITED WARRANTY
+For a period of 60 months from the date of manufacture (or as long as required by applicable law), Potter Electrical Signal Company, LLC warrants to you the original purchaser that your appliance will be
+free from defects in workmanship and materials under normal use and service.  
+This warranty does not apply and is void if damage or failure is caused by: accident, abuse, misuse, abnormal use, faulty installation, liquid contact, fire, earthquake or other external cause; 
+operating the appliance outside Potter Electrical Signal Company, LLC’s published guidelines; or service, alteration, maintenance or repairs performed by anyone other than Potter Electrical
+Signal Company, LLC. This warranty also does not apply to: consumable parts, such as batteries; cosmetic damage, including but not limited to scratches or dents; defects caused by normal
+wear and tear or otherwise due to the normal aging of the appliance, or if any serial number has been removed or defaced from the appliance.
+TO THE EXTENT PERMITTED BY LAW, THIS WARRANTY AND THE REMEDIES SET FORTH HEREIN ARE EXCLUSIVE AND IN LIEU OF ALL OTHER WARRANTIES, REMEDIES AND CONDITIONS,
+WHETHER ORAL, WRITTEN, STATUTORY, EXPRESS OR IMPLIED. POTTER ELECTRICAL SIGNAL COMPANY, LLC DISCLAIMS ALL STATUTORY AND IMPLIED WARRANTIES, INCLUDING WITHOUT 
+LIMITATION, WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND WARRANTIES AGAINST HIDDEN OR LATENT DEFECTS TO THE EXTENT PERMITTED BY LAW.
+TO THE EXTENT SUCH WARRANTIES CANNOT BE DISCLAIMED, SUCH IMPLIED WARRANTIES SHALL APPLY ONLY FOR THE WARRANTY PERIOD SPECIFIED ABOVE.  PLEASE NOTE THAT SOME
+STATES (COUNTRIES AND PROVINCES) DO NOT ALLOW LIMITATION ON HOW LONG AN IMPLIED WARRANTY (OR CONDITION) LASTS.  SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU.  
+EXCEPT AS PROVIDED IN THIS WARRANTY AND TO THE EXTENT PERMITTED BY LAW,  POTTER ELECTRICAL SIGNAL COMPANY, LLC WILL NOT BE LIABLE FOR ANY DIRECT, SPECIAL, 
+INCIDENTAL OR CONSEQUENTIAL DAMAGES RESULTING FROM ANY BREACH OF WARRANTY OR CONDITION, OR ARISING IN CONNECTION WITH THE SALE, USE OR REPAIR OF THE 
+APPLIANCE, OR UNDER ANY OTHER LEGAL THEORY, INCLUDING BUT NOT LIMITED TO LOSS OF USE, LOSS OF REVENUE, LOSS OF ACTUAL OR ANTICIPATED PROFITS, LOSS OF THE USE OF
+MONEY, LOSS OF BUSINESS, LOSS OF OPPORTUNITY, LOSS OF GOODWILL, AND LOSS OF REPUTATION.  THE MAXIMUM LIABILITY OF POTTER ELECTRICAL SIGNAL COMPANY, LLC SHALL NOT
+IN ANY CASE EXCEED THE PURCHASE PRICE PAID BY YOU FOR THE APPLIANCE.  PLEASE NOTE THAT SOME STATES (COUNTRIES AND PROVINCES) DO NOT ALLOW THE EXCLUSION OR 
+LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
+If a defect in workmanship or materials causes your appliance to become inoperable within the warranty period, you must return the appliance to Potter Electrical Signal Company, LLC postage prepaid to: 
+Potter Electrical Signal Company, LLC, 1609 Park 370, Hazelwood MO  63042.  You must prove to the satisfaction of Potter Electrical Signal Company, LLC the date of purchase of your appliance.  You must
+also enclose a return address. Warranty service may only be performed by Potter Electrical Signal Company, LLC personnel at Potter Electrical Signal Company, LLC's facilities in Hazelwood, Missouri.  You
+must also pack the appliance to minimize the risk of it being damaged in transit.  If we receive an appliance in a damaged condition as the result of shipping, we will notify you and you must seek a claim with the 
+shipper.  
+If you submit a valid claim to Potter Electrical Signal Company, LLC during the warranty period, Potter Electrical Signal Company, LLC will, at its option, repair your appliance or furnish you
+with a new or rebuilt appliance without charge to you except for postage required to return the appliance to us.  Potter Electrical Signal Company, LLC will not reimburse you for repairs or 
+replacement parts provided by other parties.  Your repaired or replacement appliance will be returned to you free of charge and it will be covered under the warranty for the balance of the warranty
+period, if any. When a product or part is replaced, any replacement item becomes your property and the replaced item becomes property of Potter Electrical Signal Company, LLC. For additional
+warranty and product information go to www.pottersignal.com.
+THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS AND YOU MAY ALSO HAVE OTHER RIGHTS WHICH VARY FROM STATE TO STATE (OR BY COUNTRY OR PROVINCE).  BY THIS 
+WARRANTY, POTTER ELECTRICAL SIGNAL COMPANY, LLC DOES NOT LIMIT OR EXCLUDE YOUR RIGHTS EXCEPT AS ALLOWED BY LAW.  TO FULLY UNDERSTAND YOUR RIGHTS, YOU
+SHOULD CONSULT THE LAWS OF YOUR COUNTRY, PROVINCE OR STATE.
+CAN/ULC HORN DECIBEL AND CURRENT RATINGS PRODUCT INFORMATION: OUTDOOR HORN & HORN/STROBE
+Directional Sound Characteristic:
+Outdoor Horn & Horn/Strobe
+Horizontal Angle
+-3 dBA
+10
+-6 dBA
+5
+Vertical Angle
+-3 dBA
+70
+-6 dBA
+v
+v = NO MEASURED LOSS
+HORN DECIBEL RATINGS IN ULC ANECHOIC ROOM (dBA @ 3 meters)
+OUTDOOR HORN AND HORN/STROBE
+Horn Mode
+Regulated 24 VDC 
+Max. SPL Rating
+Regulated 
+24 VFWR 
+Max. SPL Rating 
+24 VDC
+Nominal SPL
+Rating
+24 VFWR
+Nominal SPL
+Rating
+Temp 3 2400Hz (HIGH)
+89.1
+91.8
+92.9
+94.8
+Temp 3 2400Hz (LOW)
+80.9
+84.9
+84.0
+87.9
+Temp 3 Mechanical (HIGH)
+91.7
+94.0
+94.9
+96.8
+Temp 3 Mechanical (LOW)
+83.3
+85.8
+87.0
+89.3
+Temp 3 Chime (HIGH)
+82.8
+83.8
+84.5
+85.2
+Temp 3 Chime (LOW)
+77.1
+78.6
+80.1
+81.3
+Continuous 2400Hz (HIGH)
+89.3
+91.9
+92.7
+94.6
+Continuous 2400Hz (LOW)
+80.7
+84.3
+84.5
+87.7
+Continuous Mechanical (HIGH)
+92.3
+94.0
+95.4
+97.1
+Continuous Mechanical (LOW)
+83.9
+86.0
+87.7
+89.4
+Continuous Chime (HIGH)
+92.7
+84.6
+84.4
+85.9
+Continuous Chime (LOW)
+75.4
+78.7
+77.9
+81.4
+Whoop (HIGH)
+91.6
+91.2
+93
+92.6
+Whoop (LOW)
+78.7
+80.9
+82.2
+84.2
+REFER TO CAN/ULC HORN CURRENT CHART ON PAGE 5 FOR CAN/ULC HORN CURRENT RATINGS FOR OUTDOOR HORN AND HORN/STROBE PRODUCTS
+NOTICE:
+w THE NATIONAL BUILDING CODE AND CAN/ULC S525 REQUIRES THAT ALL HORNS USED 
+FOR BUILDING EVACUATION PRODUCE TEMPORAL CODED SIGNALS.
+w THE SOUND OUTPUT FOR THE TEMPORAL 3 TONE IS RATED LOWER SINCE THE TIME 
+THE HORN IS OFF IS AVERAGED INTO THE SOUND OUT PUT RATING.  UNITS HAVE 
+BEEN TESTED TO 0°C, 49°C AND 93% HUMIDITY. 
+Page 6
+Manual Issue Date:
+02/01/13
+
+APPAREILS DE SIGNALISATION 
+VISUELLE OU SONORE
+I. INTRODUCTION
+Les modèles HS24-177, S24-177, EH-24, HS-24, S-24, HS-24-WP, HSLP-24-WP, S-24-WP, SLP-24-WP, CHS-24A, CS-24WA, CHS-24B, CS-24WB, CHS-24G, CS-24WG, CHS-24R, CS-24WR,
+CHS-24A-WP, CHSLP-24A-WP, CS-24WA-WP, CSLP-24WA-WP, CHS-24B-WP, CHSLP-24B-WP, CS-24WB-WP, CSLP-24WB-WP, CHS-24G-WP, CHSLP-24G-WP, CS-24WG-WP, CSLP-24WG-WP,
+CHS-24R-WP, CHSLP-24R-WP, CS-24WR-WP, CSLP-24WR-WP de Potter Electric sont des appareils de signalisation sonore ou visuelle de grande qualité. Le stroboscope haute intensité fait appel
+à un tube à éclair au xénon qui émet un puissant flash à haute intensité visible, quel que soit l’angle. L’appareil est conçu pour émettre, selon le modèle, un signal d’avertissement visuel, sonore ou
+sonore et visuel pour assurer la sécurité des personnes et la protection matérielle. Les modèles HS-24, S-24, CHS-24A, CS-24WA, CHS-24B, CS-24WB, CHS-24G, CS-24WG, CHS-24R, CS-24WR
+sont dotés d’un commutateur à glissière qui permet de sélectionner l’intensité lumineuse au moment de l’installation; voici les intensités pouvant être sélectionnées : 15 cd, 30 cd, 60 cd, 75 cd ou 110
+cd (24 V c.c. seulement). Les modèles HS24-177 et S24-177 offrent une intensité lumineuse fixe qui peut être commandée, soit 177 cd. Les modèles HS-24-WP, HSLP-24-WP, S-24-WP, SLP-24-WP,
+CHS-24A-WP, CHSLP-24A-WP, CS-24WA-WP, CSLP-24WA-WP, CHS-24B-WP, CHSLP-24B-WP, CS-24WB-WP, CSLP-24WB-WP, CHS-24G-WP, CHSLP-24G-WP, CS-24WG-WP, CSLP-24WG-WP,
+CHS-24R-WP, CHSLP-24R-WP, CS-24WR-WP, CSLP-24WR-WP offrent une intensité lumineuse fixe seulement, réglée à 75 cd. Cet appareil convient parfaitement à tout type d’occupation devant
+être doté d’un appareil de signalisation conformément au code du bâtiment ou de sécurité incendie ou à tout bâtiment exigeant un moyen d’alarme fiable. 
+Les stroboscopes HS24-177, S24-177, HS-24, S-24 sont homologués conformément à la norme ANSI/UL 1971, Appareils de signalisation pour les personnes ayant une déficience auditive. Les 
+stroboscopes HS-24-WP, HSLP-24-WP, S-24-WP, SLP-24-WP, CHS-24A, CS-24WA, CHS-24B, CS-24WB, CHS-24G, CS-24WG, CHS-24R, CS-24WR, CHS-24A-WP, CHSLP-24A-WP, 
+CS-24WA-WP, CSLP-24WA-WP, CHS-24B-WP, CHSLP-24B-WP, CS-24WB-WP, CSLP-24WB-WP, CHS-24G-WP, CHSLP-24G-WP, CS-24WG-WP, CSLP-24WG-WP, CHS-24R-WP, CHSLP-24R-WP,
+CS-24WR-WP, CSLP-24WR-WP sont homologués conformément à la norme ANSI/UL 1638, Appareils de signalisation visuelle – Urgences privées et signalisation générale. De plus, les modèles à
+lentille de couleur CHS-24A, CS-24WA, CHS-24B, CS-24WB, CHS-24G, CS-24WG, CHS-24R, CS-24WR sont conformes aux exigences de dispersion polaire de la norme ANSI/UL 1971.
+II. EMPLACEMENT
+Cet appareil est destiné à l’intégration aux systèmes d’alarme incendie et doit être installé conformément au présent manuel, aux recommandations des autorités compétentes locales et aux normes
+NFPA établissant les normes pour les appareils de signalisation des systèmes de signaux de protection. Les modèles HS24-177, S24-177, EH-24, HS-24, S-24, CHS-24A, CS-24WA, CHS-24B, 
+CS-24WB, CHS-24G, CS-24WG, CHS-24R, CS-24WR  doivent uniquement être installés à l’intérieur. Ces appareils ne sont pas homologués pour les applications extérieures ni pour les endroits
+exposés. Les modèles HS-24-WP, HSLP-24-WP, S-24-WP, SLP-24-WP, CHS-24A-WP, CHSLP-24A-WP, CS-24WA-WP, CSLP-24WA-WP, CHS-24B-WP, CHSLP-24B-WP, CS-24WB-WP, 
+CSLP-24WB-WP, CHS-24G-WP, CHSLP-24G-WP, CS-24WG-WP, CSLP-24WG-WP, CHS-24R-WP, CHSLP-24R-WP, CS-24WR-WP, CSLP-24WR-WP peuvent être installés à l’intérieur comme à l’ex-
+térieur; ces appareils sont homologués pour les applications extérieures et pour les endroits exposés lorsqu’ils sont utilisés avec les boîtiers WPBB ou WPLPBB .
+La lentille au complet des stroboscopes et des avertisseurs ou stroboscopes muraux doit être placée au-dessus du plancher fini, à une hauteur située entre 80 po (2 m) et 96 po (2,4 m)**.
+L’espacement doit être conforme à ce qui est indiqué au Tableau A. Lorsque la pièce n’est pas carrée, il faut tenir compte d’une taille correspondant au volume total de la pièce ou subdiviser la pièce
+en de multiples carrés. La partie supérieure des avertisseurs muraux doit être placée au-dessus du plancher fini, à une hauteur d’au moins 90 po (2,30 m), tout en étant éloignée d’au moins 6 po
+(152 mm) du plafond. Les autorités compétentes peuvent permettre différentes hauteurs d’installation à la condition que les exigences de pression acoustique de la norme NFPA 72 soient 
+respectées.
+III. INSTALLATION ET POSE DE LA BOÎTE ET DES FILS
+Cet appareil est conçu pour être installé sur la majorité des boîtes simples, des boîtes carrées de 4 po pour prise, des boîtes doubles pour maçonnerie ou des boîtes doubles non métalliques pour
+interrupteur. L’entrée du conduit sélectionnée sur la boîte doit assurer un dégagement approprié des fils.
+1. Poser un câble de calibre minimum de 18 comportant au moins 2 conducteurs.
+2. Poser une boîte pour chaque appareil de signalisation. Visser le support sur la boîte. Insérer l’appareil sur le support et le faire glisser fermement vers la droite pour le brancher dans la prise du
+réceptacle. Placer le boîtier sur l’appareil, puis visser les deux ensemble au moyen de la vis unique au bas de l’appareil. Recouvrir la vis de la languette de plastique.
+AVIS : LES FILS DOIVENT ÊTRE BRANCHÉS AU SUPPORT AVANT D’Y POSER L’APPAREIL DE SIGNALISATION. LE FIL D’ALIMENTATION POSITIF DOIT ÊTRE SCINDÉ EN DEUX, CHAQUE
+PARTIE ÉTANT INSÉRÉE DANS LES DEUX BORNES SUPÉRIEURES. SI DEUX FILS D’ALIMENTATION SONT ACHEMINÉS À L’APPAREIL, UN POUR LE STROBOSCOPE ET L’AUTRE POUR
+L’AVERTISSEUR, UN SEUL DES FILS DOIT ÊTRE SCINDÉ EN DEUX ET INSÉRÉ DANS LES DEUX BORNES SUPÉRIEURES DISTINCTES. UN SÉPARATEUR EST EN PLACE POUR ÉVITER
+QUE LES DEUX FILS SOIENT BRANCHÉS À LA MÊME BORNE.
+N.A. = 
+Non autorisé
+Tableau A
+Espacement dans la pièce pour des appareils de signalisation visuelle installés au mur, 
+selon la norme NFPA 72, Édition 2013.
+Taille maximum de la pièce
+Puissance lumineuse minimum exigée (intensité efficace, cd) 
+Mètres
+Pieds
+Un tube 
+par pièce 
+Quatre tubes par pièce 
+(un par mur)
+6,10 x 6,10
+20 x 20
+15
+N.A.
+8,53 x 8,53
+28 x 28
+30
+N.A.
+9,14 x 9,14
+30 x 30
+34
+N.A.
+12,2 x 12,2
+40 x 40
+60
+15
+13,7 x 13,7
+45 x 45
+75
+19
+15,2 x 15,2
+50 x 50
+94
+30
+16,5 x 16,5
+54 x 54
+110
+30
+16,8 x 16,8
+55 x 55
+115
+30
+18,3 x 18,3
+60 x 60
+135
+30
+19,2 x 19,2
+63 x 63
+150
+37
+20,7 x 20,7
+68 x 68
+177
+43
+21,3 x 21,3
+70 x 70
+184
+60
+24,4 x 24,4
+80 x 80
+240
+60
+27,4 x 27,4
+90 x 90
+304
+95
+30,5 x 30,5
+100 x 100
+375
+95
+33,5 x 33,5
+110 x 110
+455
+135
+36,6 x 36,6
+120 x 120
+540
+135
+39,6 x 39,6
+130 x 130
+635
+185
+550-0593
+Page 1
+RENSEIGNEMENTS SUR LE PRODUIT – HS24-177, S24-177, HS-24 et S-24
+**Exigences d’intensité efficace pour les chambres à coucher
+Appareil de signalisation visuelle
+Distance entre le plafond et le dessus de la lentille
+Intensité
+supérieure ou égale à 24 po
+110 cd
+et inférieure à 24 po
+177 cd
+AVERTISSEMENT : 
+Le stroboscope doit être
+installé à moins de 16 pieds
+de tout oreiller lorsqu’il est
+placé dans une chambre à
+coucher.
+POUR DES RENSEIGNEMENTS SUPPLÉMENTAIRES SUR L’HOMOLOGATION CAN/ULC DU PRODUIT, VOIR LES PAGES 5 ET 6.
+SÉRIES HS24-177, S24-177, EH-24, HS-24 ET S-24
+CONFORME AUX NORMES ANSI/UL ET CAN/ULC 
+SÉRIES HS-24-WP, HSLP-24-WP, S-24-WP ET SLP-24-WP 
+SÉRIES CHS-24A, CS-24WA, CHS-24B, CS-24WB, CHS-24G, 
+CS-24WG, CHS-24R ET CS-24WR 
+SÉRIES CHS-24A-WP, CHSLP-24A-WP, CS-24WA-WP, 
+CSLP-24WA-WP, CHS-24B-WP, CHSLP-24B-WP, CS-24WB-WP, CSLP-24WB-WP
+CHS-24G-WP, CHSLP-24G-WP, CS-24WG-WP, CSLP-24WG-WP, CHS-24R-WP,
+CHSLP-24R-WP, CS-24WR-WP ET CSLP-24WR-WP 
+CONFORME AUX NORMES ANSI/UL ET CAN/ULC 
+
+Caractéristiques nominales de courant du stroboscope intérieur à lentille TRANSPARENTE de 24 V c.c.
+Séries HS24-177 et 
+S24-177 
+Intensité lumineuse
+disponible
+Séries HS24-177 et
+S24-177
+Intensité lumineuse
+disponible
+Intensité
+lumineuse
+du stroboscope
+Tension stabilisée 
+maximum de 24 V RDA
+Courant de 
+fonctionnement (mA)
+Tension stabilisée 
+maximum de de 24 V
+RDA Courant de 
+fonctionnement (mA)
+24 V c.c. 
+Courant de 
+fonctionnement 
+nominal (mA) 
+w
+15
+42
+77
+30
+w
+30
+58
+102
+42
+w
+60
+97
+161
+66
+w
+75
+116
+225
+80
+w
+110
+161
+256
+103
+w
+177
+213
+341
+S.O.
+RENSEIGNEMENTS SUR LE PRODUIT – HS-24-WP, HSLP-24-WP, S-24-WP, SLP-24-WP, CHS-24A-WP, CHSLP-24A-WP, CS-24WA-WP, 
+CSLP-24WA-WP, CHS-24B-WP, CHSLP-24B-WP, CS-24WB-WP, CSLP-24WB-WP, CHS-24G-WP, CHSLP-24G-WP, CS-24WG-WP, 
+CSLP-24WG-WP, CHS-24R-WP, CHSLP-24R-WP, CS-24WR-WP et CSLP-24WR-WP 
+Modèles
+Lentille colorée
+CHS-24A-WP, CHSLP-24A-WP, 
+CS-24WA-WP, CSLP-24WA-WP
+Ambre
+CHS-24B-WP, CHSLP-24B-WP, 
+CS-24WB-WP, CSLP-24WB-WP
+Bleu
+CHS-24G-WP, CHSLP-24G-WP, 
+CS-24WG-WP, CSLP-24WG-WP
+Vert
+CHS-24R-WP, CHSLP-24R-WP, 
+CS-24WR-WP, CSLP-24WR-WP
+Rouge
+AVIS : LIMITES DE LA PLAGE DE TENSIONS C.C. : 16 À 33 V.
+LIMITES DE LA PLAGE DE TENSIONS RDA : 16 À 33 V. CE 
+PRODUIT A UNIQUEMENT FAIT L’OBJET D’ESSAI POUR LES
+PLAGES DE TENSIONS INDIQUÉES; IL NE FAUT PAS FAIRE
+FONCTIONNER LE PRODUIT AVEC DES VALEURS 
+CORRESPONDANT À 80 % ET 110 % DE CES PLAGES.
+S.O. : Les données relatives au courant de fonctionnement 24 V c.c.
+ne sont pas disponibles.
+AVIS : LIMITES DE LA PLAGE DE TENSIONS C.C. : 16 À 33 V. LIMITES DE LA PLAGE DE TENSIONS RDA : 16 À 33 V. CE
+PRODUIT A UNIQUEMENT FAIT L’OBJET D’ESSAI POUR LES PLAGES DE TENSIONS INDIQUÉES; IL NE FAUT PAS FAIRE
+FONCTIONNER LE PRODUIT AVEC DES VALEURS CORRESPONDANT À 80 % ET 110 % DE CES PLAGES.
+Caractéristiques nominales de courant pour stroboscope
+extérieur à lentille TRANSPARENTE et AMBRE de 24 V c.c.
+Utiliser avec les modèles HS-24-WP, HSLP-24-WP, 
+S-24-WP,SLP-24-WP, CHS-24A-WP, CHSLP-24A-WP, 
+CS-24WA-WP, and CSLP-24WA-WP 
+Candela
+Tension stabilisée
+maximum de 24 V
+RDA Courant de 
+fonctionnement (mA)
+Tension stabilisée
+maximum de 24 V
+RDA Courant de 
+fonctionnement (mA)1
+75
+170
+263
+Caractéristiques nominales de courant pour stroboscope extérieur
+à lentille BLEUE, VERTE et ROUGE de 24 V c.c.
+Utiliser avec les modèles CHS-24B-WP, CHSLP-24B-WP, 
+CS-24WB-WP, CSLP-24WB-WP, CHS-24G-WP, 
+CHSLP-24G-WP, CS-24WG-WP, CSLP-24WG-WP, CHS-24R-WP,
+CHSLP-24R-WP, CS-24WR-WP et CSLP-24WR-WP
+Candela
+Tension stabilisée 
+maximum de 24 V RDA
+Courant de 
+fonctionnement (mA)
+Tension stabilisée 
+maximum de 24 V RDA
+Courant de 
+fonctionnement (mA)1
+75
+164
+278
+Caractéristiques nominales de courant des stroboscopes
+intérieurs à lentille AMBRE 
+Utiliser avec les modèles CHS-24A et CS-24WA
+Candela
+Tension stabilisée 
+maximum de 
+24 V RDA Courant de 
+fonctionnement (mA)
+Tension stabilisée 
+maximum de 
+24 V RDA Courant de 
+fonctionnement (mA)1
+15
+47
+82
+30
+64
+112
+60
+113
+178
+75
+145
+213
+110
+178
+259
+RENSEIGNEMENTS SUR LE PRODUIT – CHS-24A, CS-24WA, CHS-24B, CS-24WB, CHS-24G, CS-24WG, CHS-24R et CS-24WR
+Caractéristiques nominales de courant des stroboscopes
+intérieurs à lentille BLEUE, VERTE et ROUGE de 24 V c.c.
+Utiliser avec les modèles CHS-24B, CS-24WB, 
+CHS-24G, CS-24WG, CHS-24R et CS-24WR
+Candela
+Tension stabilisée 
+maximum de 
+24 V RDA Courant de 
+fonctionnement (mA)
+Tension stabilisée 
+maximum de 
+24 V RDA Courant de 
+fonctionnement (mA)1
+15
+105
+164
+30
+130
+196
+60
+203
+325
+75
+243
+355
+110
+310
+491
+Modèles
+Lentille colorée
+CHS-24A, CS-24WA
+Ambre
+CHS-24B, CS-24WB
+Bleu
+CHS-24G, CS-24WG
+Vert
+CHS-24R, CS-24WR
+Rouge
+AVIS : LIMITES DE LA PLAGE DE TENSIONS C.C. : 16 À 33 V. LIMITES DE LA PLAGE DE TENSIONS RDA : 16 À 33 V.  CE
+PRODUIT A UNIQUEMENT FAIT L’OBJET D’ESSAI POUR LES PLAGES DE TENSIONS INDIQUÉES; IL NE FAUT PAS FAIRE
+FONCTIONNER LE PRODUIT AVEC DES VALEURS CORRESPONDANT À 80 % ET 110 % DE CES PLAGES.
+Niveaux sonores (dB) de l’avertisseur : 
+Pièce réverbérante
+Caractéristiques nominales de courant de l’avertisseur
+pour une plage de tensions d’entrée de 16 à 33 V
+Caractéristiques nominales de courant pour
+un avertisseur de 24 V c.c.
+Mode de l’avertisseur
+dBnps minimum à 10
+pi selon la norme
+ANSI/UL 464 (ÉLEVÉ)
+dBnps minimum à 10
+pi selon la norme
+ANSI/UL 464 (BAS)
+Tension stabilisée maximum
+de 24 V c.c. Courant de
+fonctionnement (mA)
+Réglage supérieur
+Tension stabilisée maximum
+de 24 V RDA Courant de
+fonctionnement (mA) 
+Réglage SUPÉRIEUR
+24 V c.c. Courant de
+fonctionnement (mA) 
+Réglage SUPÉRIEUR
+24 V RDA Courant de
+fonctionnement (mA)
+Réglage SUPÉRIEUR
+Temp 3 2400Hz
+78 dBA
+71* dBA
+28
+48
+10,7
+26,8
+Temp 3 Mechanical
+76 dBA
+70* dBA
+25
+44
+9,7
+24,5
+Temp 3 Chime
+70* dBA
+66* dBA
+15
+30
+8,6
+20,6
+Continuous 2400Hz
+81 dBA
+74* dBA
+28
+48
+20,4
+43,7
+Continu mécanique
+80 dBA
+72* dBA
+25
+44
+17,0
+39,3
+Carillon continu
+70* dBA
+66* dBA
+15
+30
+9,6
+23,0
+Son « whoop-whoop »
+82 dBA
+69* dBA
+56
+62
+45,4
+60,2
+RENSEIGNEMENTS SUR LE PRODUIT – NIVEAUX SONORES (dB) DE L’AVERTISSEUR ET CARACTÉRISTIQUES NOMINALES DE COURANT
+AVIS :
+w LE MODE TEMPOREL À TROIS TONALITÉS DOIT ÊTRE UTILISÉ UNIQUEMENT POUR L’ÉVACUATION.
+w LA PUISSANCE SONORE NOMINALE DU MODE TEMPOREL À 3 TONALITÉS EST INFÉRIEURE PARCE QUE LE TEMPS QUE L’AVERTISSEUR EST MUET EST AJOUTÉ À LA MOYENNE DE
+LA PUISSANCE SONORE. LORSQUE L’AVERTISSEUR ÉMET UNE TONALITÉ EN MODE TEMPOREL À 3 TONALITÉS, LA PRESSION ACOUSTIQUE EST IDENTIQUE À CELLE DU MODE
+CONTINU. LES APPAREILS ONT FAIT L’OBJET D’ESSAIS À 0 °C ET À 49 °C, À UNE HUMIDITÉ DE 93 %. 
+* L’utilisation de l’avertisseur dans ce mode et à cette tension n’atteint pas le niveau sonore minimum de la norme ANSI/UL 464 exigé pour la sécurité incendie publique.  
+Ces paramètres conviennent uniquement à une utilisation de l’appareil de signalisation pour la sécurité incendie privée. Pour les applications publiques, utiliser les paramètres
+dBA les plus élevés (le carillon est toujours en mode privé).
+550-0593
+Page 2
+Il n’est pas possible de voir le stroboscope lorsqu’il est masqué par un objet, notamment une porte, un meuble ou un mur.
+AVIS : 
+w POUR ÊTRE APERÇU, L’APPAREIL DE SIGNALISATION VISUELLE DOIT ÊTRE DANS LA ZONE DIRECTE DE VISUALISATION DE L’OCCUPANT.
+w AVIS : LES APPAREILS DE SIGNALISATION VISUELLE NE SONT QU’UNE DES MÉTHODES POUR ALERTER LES PERSONNES AYANT UNE DÉFICIENCE AUDITIVE. CES APPAREILS NE
+CONSTITUENT PEUT-ÊTRE PAS LA MEILLEURE MÉTHODE POUR AVISER TOUTES LES PERSONNES AYANT UNE DÉFICIENCE AUDITIVE.
+w LE STROBOSCOPE DOIT ÊTRE VU PAR UNE PERSONNE QUI DORT. SI LA PERSONNE SE TOURNE LA TÊTE OU SI ELLE NE PEUT ÊTRE ALERTÉE PAR LE SIGNAL VISUEL, LE 
+STROBOSCOPE NE SERA PAS EFFICACE.
+
+550-0593
+Page 3
+IV. CÂBLAGE
+Câblage pour la synchronisation du stroboscope et de l’avertisseur.
+Avec cette méthode, vous pouvez :
+w Utiliser seulement deux fils pour synchroniser l’avertisseur temporel et le stroboscope, tout en ayant la possibilité de couper l’avertisseur
+(placer les commutateurs 1 et 2 en position « ON » sur les modèles HS24-177, HS-24, HS-24-WP, HSLP-24-WP, CHS-24A, CHS-24B,
+CHS-24G, CHS-24R, CHS-24A-WP, CHSLP-24A-WP, CHS-24B-WP, CHSLP-24B-WP, CHS-24G-WP, CHSLP-24G-WP, 
+CHS-24R-WP, CHSLP-24R-WP).
+w Couper l’avertisseur uniquement lorsque le mode temporel a été sélectionné.
+w Utiliser le AVSM protocole de synchronisation Potter Electric, s’il est disponible, pour assurer la synchronisation et couper l’avertisseur.
+Câblage pour la synchronisation parallèle (mode unisson) du stroboscope et de l’avertisseur.
+Avec cette méthode, vous pouvez :
+w Utiliser quatre fils, deux d’entre eux servant à alimenter et à synchroniser le stroboscope et les deux autres, à alimenter et à synchroniser l’avertisseur (placer les commutateurs 1 et 2 en position « OFF » sur 
+les modèles HS24-177, HS-24, HS-24-WP, HSLP-24-WP, CHS-24A, CHS-24B, CHS-24G, CHS-24R, CHS-24A-WP, CHSLP-24A-WP, CHS-24B-WP, CHSLP-24B-WP, CHS-24G-WP, 
+CHSLP-24G-WP, CHS-24R-WP, CHSLP-24R-WP).
+w Sélectionner le mode continu et laisser le FACP commander l’avertisseur ou choisir le mode temporel et synchroniser les avertisseurs au moyen du AVSM protocole de synchronisation Potter Electric. 
+w Utiliser le AVSM protocole de synchronisation Potter Electric, s’il est disponible, pour assurer la synchronisation et couper l’avertisseur. 
+AVIS : 
+w POUR CETTE OPTION, LES COMMUTATEURS 1 ET 2 DES MODÈLES HS24-177, HS-24, HS-24-WP, HSLP-24-WP, CHS-24A, CHS-24B, CHS-24G, CHS-24R, CHS-24A-WP, CHSLP-24A-WP,
+CHS-24B-WP, CHSLP-24B-WP, CHS-24G-WP, CHSLP-24G-WP, CHS-24R-WP, CHSLP-24R-WP DOIVENT ÊTRE EN POSITION « OFF » POUR ISOLER L’ALIMENTATION DES PARTIES 
+« SONORES » ET « VISUELLES » DU CIRCUIT.
+w TOUS LES STROBOSCOPES SONT CONÇUS POUR CLIGNOTER COMME INDIQUÉ EN FONCTION DE LA TENSION CONTINUE QUI LEUR EST FOURNIE. CET APPAREIL N’EST PAS 
+RECOMMANDÉ POUR LES CIRCUITS DE SIGNALISATION CODIFIÉS OU À IMPULSIONS. IL EST TOUTEFOIS PERMIS D’UTILISER LE MODULE DE COMMANDE AVSM POUR SYNCHRONISER LE 
+STROBOSCOPE OU COUPER L’AVERTISSEUR.
+w SE REPORTER AU MANUEL DU MODULE DE COMMANDE (550-0598, DATE DE PUBLICATION Û 1ER FÉVRIER 2013) POUR LES SCHÉMAS DE CÂBLAGE DU MODULE DE SYNCHRONISATION.
+VOUS POUVEZ VOUS PROCURER LE MANUEL DU MODULE AVSM EN APPELANT POTTER ELECTRIC AU 1 800 325-3936.
+Méthode conventionnelle :
+Vous pouvez brancher directement le stroboscope et l’avertisseur à une source d’alimentation nominale sans passer par un module de commande. Toutefois, les avertisseurs et les stroboscopes ne
+seront PAS synchronisés. Sur les modules HS24-177, HS-24, HS-24-WP, HSLP-24-WP, CHS-24A, CHS-24B, CHS-24G, CHS-24R, CHS-24A-WP, CHSLP-24A-WP, CHS-24B-WP, CHSLP-24B-WP,
+CHS-24G-WP, CHSLP-24G-WP, CHS-24R-WP, CHSLP-24R-WP, placer les commutateurs 1 et 2 en position « ON » pour alimenter les signaux sonores et visuels à partir d’une seule paire de fils 
+d’alimentation. Pour alimenter l’avertisseur et le stroboscope au moyen de sources d’alimentation indépendantes, sur les modèles HS24-177, HS-24, HS-24-WP, HSLP-24-WP, CHS-24A, CHS-24B,
+CHS-24G, CHS-24R, CHS-24A-WP, CHSLP-24A-WP, CHS-24B-WP, CHSLP-24B-WP, CHS-24G-WP, CHSLP-24G-WP, CHS-24R-WP, CHSLP-24R-WP placer les commutateurs 1 et 2 en position «
+OFF », puis brancher l’alimentation aux bornes appropriées.
+AVERTISSEMENT : Lorsque vous utilisez une seule source pour 
+alimenter le stroboscope et l’avertisseur (commutateurs 1 et 2 en
+position « ON »), les fils entrant/sortant doivent uniquement être
+branchés aux bornes S+ et S-. Ne pas faire ce branchement 
+endommagera l’appareil. Pour alimenter uniquement l’avertisseur
+(modèle EH-24) et uniquement le stroboscope (modèles S24-177,
+S-24, S-24-WP, SLP-24-WP, CS-24WA, CS-24WB, CS-24WG,  
+CS-24WR, CS-24WA-WP, CSLP-24WA-WP, CS-24WB-WP,
+CSLP-24WB-WP, CS-24WG-WP, CSLP-24WG-WP, 
+CS-24WR-WP, CSLP-24WR-WP), seules les trois bornes
+supérieures doivent être utilisées. 
+POSITION DES COMMUTATEURS
+TONALITÉ
+3
+4
+5
+Temp. 3 mécanique
+« ON »
+« ON »
+« ON »
+Mécanique – Continu
+« OFF »
+« ON »
+« ON »
+2400Hz - Temporal 3
+« ON »
+« OFF »
+« ON »
+2400Hz - Continuous
+« OFF »
+« OFF »
+« ON »
+Chime - Temporal 3
+« ON »
+« ON »
+« OFF »
+Carillon – Continu
+« OFF »
+« ON »
+« OFF »
+Son « whoop-whoop »
+« ON »
+« OFF »
+« OFF »
+Son « whoop-whoop »
+« OFF »
+« OFF »
+« OFF »
+AVIS : 
+w PLACER LES COMMUTATEURS 1 ET 2 EN POSITION « OFF » POUR
+SÉLECTIONNER LES ENTRÉES D’ALIMENTATION PERMETTANT
+D’ISOLER L’AVERTISSEUR ET LE STROBOSCOPE.
+w PLACER LE COMMUTATEUR 6 EN POSITION « ON » = DBA ÉLEVÉ
+w PLACER LE COMMUTATEUR 6 EN POSITION « OFF » = DBA BAS
+AVERTISSEMENT : Une fiche de référence des 
+commutateurs est fournie pour faire l’essai des 
+branchements en mode Supervision seulement. NE PAS faire
+passer le courant d’alarme par le commutateur.
+Supporte de montage :
+Grâce au support de montage, l’installateur peut précâbler le
+système, faire l’essai du mode Supervision, retirer l’unité
+lumineuse jusqu’à ce que la pièce soit occupée, désactiver la
+signalisation Potter Electric sans modifier le support en plus
+d’avoir accès à des connecteurs verrouillables pour une 
+installation par enclenchement.
+Fonction pour la vérification instantanée de la
+tension:
+Il est parfois nécessaire de confirmer la chute de tension
+dans un groupe de dispositifs branchés en série. Des trous
+d’accès se trouvent à l’arrière du réceptacle pour mesurer
+directement la tension sans avoir à déposer l’appareil.
+Habituellement, cette vérification est effectuée en fin de
+série pour confirmer les critères de conception. La majorité
+des mesures sont effectuées aux bornes S+ et S-, même s’il
+est possible d’accéder à d’autres emplacements. 
+AVIS : IL FAUT PRENDRE SOIN DE NE PAS 
+COURT-CIRCUITER LES SONDES D’ESSAI.
+DISTANCE
+MAX. DE FIL
+(EN PIEDS)
+(TENSION AU PANNEAU/TENSION MIN. DE L’APPAREIL) X CONDUCTIVITE DES FILES
+`
+APPEL DE COURANT TOTAL 
+= [
+[
+FIL
+CONDUCTIVITE
+`
+18 AWG
+16 AWG
+14 AWG
+12 AWG
+60
+95
+153
+244
+Comprend le ﬁl à des"na"on et au retour de l’appareil. AVERTISSEMENT: S’applique 
+uniquement aux installa"ons réglementées. On suppose que tous les appareils sont 
+situés à l’extrémité du segment de ﬁl (pire des situa"ons).
+
+POUR LES MODÈLES : HS-24, S-24, CHS-24A, CS-24WA, CHS-24B, 
+CS-24WB, CHS-24G, CS-24WG, CHS-24R, CS-24WR SEULEMENT
+Pour retirer le cadre,
+agripper les deux côtés
+et tirer vers le bas et
+l’extérieur.
+POUR LES MODÈLES : HS24-177, S24-177, EH-24, HS-24, S-24, 
+CHS-24A, CS-24WA, CHS-24B, CS-24WB, CHS-24G, CS-24WG, 
+CHS-24R, CS-24WR SEULEMENT
+V. VÉRIFICATION ET DÉPANNAGE
+1. Alimenter le panneau de commande du système. Les appareils de signalisation auxiliaires du système ne devraient pas être activés.
+2. Cependant, s’ils le sont :
+w Vérifier tous les détecteurs de fumée et d’incendie du système pour s’assurer qu’ils n’ont pas été activés.
+w Vérifier tous les branchements pour s’assurer que les circuits de détection ne sont pas inversés ou court-circuités. Vérifier les codes de couleur des fils et en faire le suivi.
+w S’assurer que les cavaliers et les commutateurs sont correctement configurés dans le module de commande et dans les appareils de signalisation. Si le cavalier du module AVSM est
+débranché, les avertisseurs ne produiront aucun son, à moins qu’une entrée soit fournie aux bornes H+ et H- du module de commande.
+3. Pour vérifier les appareils de signalisation, déclencher le panneau auxiliaire ou activer le circuit d’alarme du panneau de commande principal; vous pouvez aussi déclencher l’un des
+appareils de détection d’incendie du système. Tous les appareils de signalisation auxiliaires devraient être activés.
+4. Un essai opérationnel de ce produit doit être effectué conformément aux exigences des normes nationales ou à tout le moins une fois par année ou selon une fréquence supérieure en 
+fonction des exigences des autorités compétentes ou des codes provinciaux ou locaux.
+AVIS : CES PROCÉDURES D’ESSAI ET DIRECTIVES DE DÉPANNAGE SONT DE NATURE GÉNÉRALE. SE REPORTER AUX INSTRUCTIONS D’UTILISATION DU PANNEAU DE 
+COMMANDE DU SYSTÈME POUR CONNAÎTRE LE FONCTIONNEMENT APPROPRIÉ DU PANNEAU ET DU SYSTÈME DE DÉTECTION D’INCENDIE.
+LIMITES DE L’APPAREIL DE SIGNALISATION :
+L’avertisseur et l’avertisseur ou stroboscope sont conformes ou surpassent les exigences d’audibilité actuelles de la norme ANSI/UL 464. Quoi qu’il en soit, si l’appareil est situé en dehors de la
+chambre à coucher, il se pourrait qu’il ne réveille pas une personne endormie, particulièrement si la porte de la chambre est fermée ou partiellement ouverte.
+VI. POUR RETOURNER UN APPAREIL
+En cas de problème avec votre appareil, procéder comme suit :
+1. Couper l’alimentation électrique du circuit d’alarme auxiliaire.
+2. Retirer le cadre et la plaque signalétique, enlever la vis de montage, puis faire glisser l’appareil de signalisation pour le retirer du support.
+3. Remplacer l’appareil enlevé pour rétablir la fonction de supervision du câblage et supprimer le signal de dérangement.
+4. Emballer avec soin l’appareil défectueux (le fabricant n’est pas tenu responsable des dommages indirects attribuables à l’expédition ou aux erreurs de manutention. Indiquer votre adresse et
+décrire en détail la nature du problème et la date d’installation.
+5. Retourner à : Potter Electric Signaling Company, LLC 1609 Park 370 Hazelwood, MO 63042. Avant de retourner l’appareil, appeler Potter Electric au 1 800 325-3936 pour obtenir un numéro
+d’autorisation de retour (RMA) du Service à la clientèle.
+CET APPAREIL NE FONCTIONNE PAS SANS ALIMENTATION ÉLECTRIQUE. COMME LES INCENDIES ENTRAÎNENT SOUVENT DES PANNES DE COURANT, 
+POTTER ELECTRIC RECOMMANDE DE DISCUTER DE MESURES DE PROTECTION SUPPLÉMENTAIRES AVEC LE SPÉCIALISTE LOCAL EN PROTECTION INCENDIE.
+Commutateur à glissière 
+de sélection de l’intensité
+lumineuse. Appuyer au centre
+du commutateur et le faire
+glisser pour obtenir l’intensité
+souhaitée.
+Briser la tige et l’insérer dans
+le trou au bas du sélecteur
+pour sélectionner l’intensité
+lumineuse. Pour modifier 
+l’intensité lumineuse, l’appareil
+doit être retiré du support et la
+tige repoussée hors du trou 
+par l’arrière de l’appareil.
+550-0593
+Page 4
+
+RENSEIGNEMENTS SUR LE PRODUIT
+L’appareil est conçu pour émettre, selon le modèle, un signal d’avertissement visuel, sonore ou sonore et visuel pour assurer la sécurité des personnes et la protection matérielle. Cet appareil
+convient parfaitement à tout type d’occupation devant être doté d’un appareil de signalisation conformément au code du bâtiment ou de sécurité incendie ou à tout bâtiment exigeant un moyen
+d’alarme fiable. Cet appareil est homologué conformément aux normes CAN/ULC S525 ou CAN/ULC S526. Il est destiné à l’utilisation dans des systèmes d’alarme incendie et doit être installé
+conformément aux directives du présent manuel, du Code du bâtiment canadien, de la norme CAN/ULC S524 et des codes locaux établissant les normes pour les appareils de signalisation des
+systèmes de signaux de protection. Potter Electric recommande de disposer les appareils de signalisation conformément aux exigences d’espacement de la norme CAN/ULC S524. 
+Cet appareil est conçu pour être installé sur la majorité des boîtes simples, des boîtes carrées de 4 po pour prise, des boîtes doubles pour maçonnerie ou des boîtes doubles non métalliques
+pour interrupteur. L’entrée du conduit sélectionnée sur la boîte doit assurer un dégagement approprié des fils.
+1. Le câblage doit être conforme au Code canadien de l’électricité C22.1, Partie 1, Safety Standard for Electrical Installations, Sec. 32.
+2. Poser un câble de calibre minimum de 18 comportant au moins 2 conducteurs.
+3. Poser une boîte pour chaque appareil de signalisation. Visser le support sur la boîte. Insérer l’appareil sur le support et le faire glisser fermement vers la droite pour le brancher dans la prise
+du réceptacle. Placer le boîtier sur l’appareil, puis visser les deux ensemble au moyen de la vis unique au bas de l’appareil. Recouvrir la vis de la languette de plastique.
+550-0593
+Page 5
+DIRECTIVES SUPPLÉMENTAIRES POUR LES APPAREILS DE SIGNALISATION 
+APPAREILS DE SIGNALISATION : CAN/ULC
+RENSEIGNEMENTS CAN/ULC SUR LE PRODUIT – CARACTÉRISTIQUES NOMINALES D’INTENSITÉ 
+ACOUSTIQUE ET DE COURANT AVERTISSEUR ET AVERTISSEUR /STROBOSCOPE
+AVIS :
+w LE CODE NATIONAL DU BÂTIMENT ET LA NORME CAN/ULC S525 EXIGENT QUE TOUS LES 
+AVERTISSEURS DESTINÉS À L’ÉVACUATION DU BÂTIMENT DIFFUSENT DES SIGNAUX TEMPORELS 
+CODIFIÉS.
+w LA PUISSANCE SONORE NOMINALE DU MODE TEMPOREL À 3 TONALITÉS EST INFÉRIEURE PARCE
+QUE LE TEMPS QUE L’AVERTISSEUR EST MUET EST AJOUTÉ À LA MOYENNE DE LA PUISSANCE
+SONORE.  LES APPAREILS ONT FAIT L’OBJET D’ESSAI À 0 °C ET À 49 °C, À UNE HUMIDITÉ DE 93 %. 
+Caractéristiques sonores directionnelles :
+pour un avertisseur et un avertisseur/stroboscope
+Angle horizontal
+-3 dBA
+20
+-6 dBA
+v
+Angle vertical
+-3 dBA
+70
+-6 dBA
+v
+v = AUCUNE PERTE MESURÉE
+CARACTÉRISTIQUES SONORES NOMINALES EN DÉCIBELS DANS UNE CHAMBRE ANÉCHOÏQUE ULC
+(dBA à 3 mètres) POUR UN AVERTISSEUR ET UN AVERTISSEUR STROBOSCOPE
+Mode de l’avertisseur
+Tension stabilisée
+maximum 
+de 24 V RDA
+Caractéristiques
+nominales dBnps
+Tension stabilisée 
+maximum 
+de 24 V RDA
+Caractéristiques
+nominales dBnps 
+24 V c.c. 
+Caractéristiques
+nominales dBnps 
+24 V RDA
+Caractéristiques
+nominales dBnps
+Temp. 3 2400 Hz (ÉLEVÉ)
+89,9
+91,6
+92,3
+94,5
+Temp 3 2400Hz (BAS)
+81,9
+84,9
+85,6
+88,3
+Temp. 3 mécanique (ÉLEVÉ)
+92,8
+94,6
+95,8
+97,8
+Temp. 3 mécanique (BAS)
+86,0
+88
+89,2
+91,4
+Temp 3 Chime (ÉLEVÉ)
+84,0
+84,7
+85,2
+86,3
+Temp 3 Chime (BAS)
+78,1
+80,4
+81,0
+82,9
+Continu 2400 Hz (ÉLEVÉ)
+89,9
+91,8
+92,7
+94,5
+Continu 2400 Hz (BAS)
+82,4
+84,8
+85,7
+88,4
+Continu mécanique (ÉLEVÉ)
+92,7
+94,9
+96,0
+97,7
+Continu mécanique (BAS)
+86,0
+88,2
+89,6
+91,4
+Carillon continu (ÉLEVÉ)
+83,6
+84,9
+85,1
+86,4
+Carillon continu (BAS)
+78,1
+80,4
+80,9
+82,9
+Son « whoop-whoop » (ÉLEVÉ)
+92,8
+83,6
+94,7
+95,3
+Son « whoop-whoop » (BAS)
+81,1
+83,3
+84,6
+86,6
+Caractéristiques nominales de courant de
+l’avertisseur pour une plage de tensions
+d’entrée de 16 à 33 V
+Caractéristiques nominales de courant
+pour un avertisseur de 24 V c.c.
+Mode de l’avertisseur
+Tension stabilisée
+maximum de 
+24 V c.c. Courant de
+fonctionnement (mA) 
+Réglage supérieur
+Tension stabilisée
+maximum de 
+24 V RDA Courant de
+fonctionnement (mA) 
+Réglage SUPÉRIEUR
+24 V c.c. Courant de
+fonctionnement (mA) 
+Réglage SUPÉRIEUR
+24 V RDA Courant de
+fonctionnement (mA) 
+Réglage SUPÉRIEUR
+Temp 3 2400Hz
+28
+48
+10,7
+26,8
+Temp 3 Mechanical
+25
+44
+9,7
+24,5
+Temp 3 Chime
+15
+30
+8,6
+20,6
+Continuous 2400Hz
+28
+48
+20,4
+43,7
+Continu mécanique
+25
+44
+17,0
+39,3
+Carillon continu
+15
+30
+9,6
+23,0
+Son « whoop-whoop »
+56
+62
+45,4
+60,2
+
+550-0593-AAC
+Date de publication du manuel :
+02/01/13
+Avis important :
+Ces renseignements ont été préparés par Potter Electrical Signal Company, LLC (ci-après « Potter ») à titre informatif uniquement; ils sont de nature sommaire et ne constituent nullement des avis juridiques et ne doivent par conséquent pas être utilisés à une telle fin.  À cet égard, Potter ne fait aucune représenta-
+tion ni garantie, explicite ou implicite, que ces renseignements sont exhaustifs et exacts, à jour, ou conformes aux lois, règlements ou règles locaux, provinciaux ou fédéraux.  Ces renseignements ne tiennent pas compte de toutes les considérations juridiques, en raison des inévitables incertitudes quant à l’interpré-
+tation des lois et règlements et à la mise en application de ces lois et règlements en fonction des situations particulières.  Les activités de chaque personne peuvent modifier les obligations pertinentes en vertu des lois ou des règlements en vigueur.  Par conséquent, ces renseignements ne 
+doivent être utilisés qu’à des fins informationnelles et ne doivent pas servir à remplace un avis juridique professionnel. Potter n’assumera aucune responsabilité quant aux mesures ou activités qui pourraient être, ou ne pas être, prises ou effectuées à la suite de ces renseignements.
+GARANTIE LIMITÉE
+Potter Electrical Signal Company, LLC garantit à l’acheteur initial que, dans des conditions normales d’utilisation et d’entretien, l’appareil sera exempt de tout défaut de fabrication ou de matériaux pendant 60
+mois à compter de la date de fabrication (ou pendant aussi longtemps que l’exigent les lois applicables).  
+Cette garantie est nulle et sans effet lorsque les dommages ou la défectuosité sont attribuables : à un accident, un usage abusif, un abus, une utilisation anormale, une installation fautive, un
+contact avec un liquide, un incendie, un séisme ou toute autre cause externe; à l’utilisation de l’appareil en dehors des directives établies par Potter Electric Signal Company, LLC; à 
+l’entretien, la modification, la maintenance ou la réparation effectuée par toute autre entreprise que Potter Electric Signal Company, LLC. Cette garantie ne s’applique pas non plus : aux pièces
+consomptibles, comme les piles; aux dommages cosmétiques, y compris, mais sans en exclure d’autres, aux égratignures ou bosses; aux défaillances attribuables à l’usure normale ou au 
+vieillissement normal de l’appareil; si le numéro de série de l’appareil a été supprimé ou altéré.
+DANS LES LIMITES AUTORISÉES PAR LA LOI, LA PRÉSENTE GARANTIE ET LES RECOURS QUI Y SONT DÉFINIS SONT EXCLUSIFS ET REMPLACENT TOUTE AUTRE GARANTIE, RECOURS ET
+CONDITION, QU’ELLES SOIENT ORALES, ÉCRITES, LÉGALES, EXPRESSES OU IMPLICITES. POTTER ELECTRICAL SIGNAL COMPANY, LLC DÉCLINE TOUTE GARANTIE LÉGALE ET IMPLICITE, Y
+COMPRIS, MAIS NON DE FAÇON LIMITATIVE, TOUTE GARANTIE DE COMMERCIALITÉ OU D’ADAPTATION À UN USAGE PARTICULIER AINSI QUE LES GARANTIES CONTRE LES VICES CACHÉS OU
+LES DÉFAUTS LATENTS, DANS LES LIMITES AUTORISÉES PAR LA LOI. DANS LA MESURE OÙ DE TELLES GARANTIES NE PEUVENT ÊTRE DÉCLINÉES, TOUTE GARANTIE IMPLICITE S’APPLIQUE
+UNIQUEMENT À LA PÉRIODE DE GARANTIE INDIQUÉE PLUS HAUT.  À NOTER QUE CERTAINS ÉTATS (PAYS ET PROVINCES) N’ACCEPTENT PAS LES LIMITATIONS QUANT À LA DURÉE DES
+GARANTIES (OU DES CONDITIONS) IMPLICITES.  IL SE PEUT DONC QUE LES LIMITATIONS CI-DESSUS NE S’APPLIQUENT PAS DANS VOTRE CAS. DANS LA MESURE OÙ CELA N’EST PAS EXCLU
+DANS LA PRÉSENTE GARANTIE ET DANS LES LIMITES AUTORISÉES PAR LA LOI, POTTER ELECTRICAL SIGNAL COMPANY, LLC NE POURRA ÊTRE TENU RESPONSABLE DES DOMMAGES
+DIRECTS, SPÉCIAUX, INDIRECTS OU CONSÉCUTIFS DÉCOULANT DE TOUT BRIS OU CONDITION DE LA GARANTIE OU PORTANT SUR LA VENTE, L’UTILISATION OU LA RÉPARATION DE 
+L’APPAREIL, OU DE TOUTE AUTRE THÉORIE LÉGALE, Y COMPRIS, MAIS SANS EN EXCLURE D’AUTRES, DE LA PERTE D’USAGE, DE REVENUS OU DE PROFITS RÉELS OU ANTICIPÉS, DE LA
+PERTE D’UTILISATION DES FONDS, D’AFFAIRES OU D’OCCASIONS, DE LA PERTE DE CLIENTÈLE OU DE L’ATTEINTE À LA RÉPUTATION.  LA RESPONSABILITÉ MAXIMALE DE POTTER ELECTICAL
+SIGNAL COMPANY, LLC NE PEUT EN AUCUN CAS ÊTRE SUPÉRIEURE AU PRIX D’ACHAT DE L’APPAREIL. VEUILLEZ NOTER QUE CERTAINS ÉTATS (PAYS ET PROVINCES) N’AUTORISENT PAS
+L’EXCLUSION OU LA LIMITATION DES DOMMAGES ACCIDENTELS OU CONSÉCUTIFS, DE SORTE QUE LES LIMITATIONS OU EXCLUSIONS CI-DESSUS POURRAIENT NE PAS S’APPLIQUER DANS
+VOTRE CAS.
+Si un défaut de fabrication ou de matériau entraîne la défaillance de votre appareil pendant la période de garantie, vous devez le retourner à Potter Electrical Signal Company, LLC, port payé, à l’adresse 
+suivante : Potter Electrical Signal Company, LLC, 1609 Park 370, Hazelwood MO 63042.  Vous devez apporter la preuve de la date d’achat de l’appareil, à la satisfaction de Potter Electrical Signal Company, LLC.
+Vous devez aussi fournir votre adresse pour le retour de l’appareil. Le service sous garantie peut être uniquement exécuté par le personnel de Potter Electrical Signal Company, LLC, dans les installations de 
+Potter Electrical Signal Company, LLC’s de Hazelwood au Missouri.  Il faut aussi emballer soigneusement l’appareil pour réduire au minimum les risques de dommage pendant le transport.  Si nous recevons un
+appareil endommagé en cours de transport, nous vous en aviserons et il vous reviendra d’obtenir dédommagement de la part du transporteur.  
+Si vous transmettez une demande valable à Potter Electrical Signal Company, LLC pendant la période de garantie, Potter Electrical Signal Company, LLC assumera, sans frais et à sa 
+discrétion, la réparation de votre appareil ou vous fournira un appareil neuf ou remis à neuf; vous n’aurez qu’à assumer les frais d’acheminement de l’appareil par la poste.  Potter Electrical 
+Signal Company, LLC ne s’engage pas à rembourser les frais des pièces de rechange ou des réparations effectuées par d’autres parties.  L’appareil réparé ou de remplacement vous sera retourné
+sans frais et il sera couvert en vertu de la garantie pendant la période de garantie résiduelle, le cas échéant. Lors du remplacement d’un produit ou d’une pièce, l’élément de remplacement devient
+votre propriété tandis que l’élément remplacé devient la propriété de Potter Electrical Signal Company, LLC. Pour de plus amples renseignements sur la garantie ou le produit, visitez 
+www.pottersignal.com.
+LA PRÉSENTE GARANTIE VOUS ACCORDE DES DROITS PARTICULIERS, MAIS IL SE POURRAIT QUE VOUS AYEZ AUSSI D’AUTRES DROITS, QUI VARIENT D’UN ÉTAT (OU PAYS OU
+PROVINCE) À L’AUTRE.  DANS LA PRÉSENTE GARANTIE, POTTER ELECTRICAL SIGNAL COMPANY, LLC NE LIMITE PAS VOS DROITS ET N’EN EXCLUT AUCUN, DU MOINS DANS LES LIMITES
+AUTORISÉES PAR LA LOI. POUR BIEN COMPRENDRE VOS DROITS, VOUS DEVRIEZ CONSULTER LA LÉGISLATION DE VOTRE PAYS, PROVINCE OU ÉTAT.
+Potter Electric Signal Company, LLC
+1609 Park 370, Hazelwood, MO 63042
+TÉLÉPHONE : +1 800-325-3936
+www.pottersignal.com
+RENSEIGNEMENTS CAN/ULC SUR LE PRODUIT – CARACTÉRISTIQUES NOMINALES D’INTENSITÉ ACOUSTIQUE ET DE
+COURANT AVERTISSEUR ET AVERTISSEUR STROBOSCOPE 
+Caractéristiques sonores directionnelles :
+avertisseur et avertisseur/stroboscope extérieur
+Angle horizontal
+-3 dBA
+10
+-6 dBA
+5
+Angle vertical
+-3 dBA
+70
+-6 dBA
+v
+v = AUCUNE PERTE MESURÉE
+CARACTÉRISTIQUES SONORES NOMINALES EN DÉCIBELS DANS UNE CHAMBRE ANÉCHOÏQUE ULC 
+(dBA à 3 mètres) POUR UN AVERTISSEUR ET UN AVERTISSEUR STROBOSCOPE EXTÉRIEUR
+Mode de l’avertisseur
+Tension stabilisée
+maximum de 24 V
+RDA Caractéristiques
+nominales dBnps
+Tension stabilisée 
+maximum de 24 V
+RDA Caractéristiques
+nominales dBnps
+24 V c.c. 
+Caractéristiques
+nominales dBnps 
+24 V RDA
+Caractéristiques
+nominales dBnps
+Temp. 3 2400 Hz (ÉLEVÉ)
+89,1
+91,8
+92,9
+94,8
+Temp 3 2400Hz (BAS)
+80,9
+84,9
+84,0
+87,9
+Temp. 3 mécanique (ÉLEVÉ)
+91,7
+94,0
+94,9
+96,8
+Temp. 3 mécanique (BAS)
+83,3
+85,8
+87,0
+89,3
+Temp 3 Chime (ÉLEVÉ)
+82,8
+83,8
+84,5
+85,2
+Temp 3 Chime (BAS)
+77,1
+78,6
+80,1
+81,3
+Continu 2400 Hz (ÉLEVÉ)
+89,3
+91,9
+92,7
+94,6
+Continu 2400 Hz (BAS)
+80,7
+84,3
+84,5
+87,7
+Continu mécanique (ÉLEVÉ)
+92,3
+94,0
+95,4
+97,1
+Continu mécanique (BAS)
+83,9
+86,0
+87,7
+89,4
+Carillon continu (ÉLEVÉ)
+92,7
+84,6
+84,4
+85,9
+Carillon continu (BAS)
+75,4
+78,7
+77,9
+81,4
+Son « whoop-whoop » (ÉLEVÉ)
+91,6
+91,2
+93
+92,6
+Son « whoop-whoop » (BAS)
+78,7
+80,9
+82,2
+84,2
+SE REPORTER AU TABLEAU CAN/ULC DES COURANTS DE L’AVERTISSEUR POUR LES CARACTÉRISTIQUES NOMINALES DE COURANT CAN/ULC POUR UN
+AVERTISSEUR ET UN AVERTISSEUR STROBOSCOPE EXTÉRIEUR
+AVIS :
+w LE CODE NATIONAL DU BÂTIMENT ET LA NORME CAN/ULC S525 EXIGENT QUE TOUS LES 
+AVERTISSEURS DESTINÉS À L’ÉVACUATION DU BÂTIMENT DIFFUSENT DES SIGNAUX TEMPORELS 
+CODIFIÉS.
+w LA PUISSANCE SONORE NOMINALE DU MODE TEMPOREL À 3 TONALITÉS EST INFÉRIEURE PARCE QUE
+LE TEMPS QUE L’AVERTISSEUR EST MUET EST AJOUTÉ À LA MOYENNE DE LA PUISSANCE SONORE.
+LES APPAREILS ONT FAIT L’OBJET D’ESSAI À 0 °C ET À 49 °C, À UNE HUMIDITÉ DE 93 %. 
+Page 6

@@ -1,0 +1,1004 @@
+[
+ {
+  "name": "AE-01 microwave drawer scheduled, not placed",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "AE-01",
+   "planCount_EA": 0,
+   "providedBy": "GC",
+   "installedBy": "GC"
+  },
+  "expected": {
+   "quantity": 1,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "337 / A-170 (markup p10)"
+ },
+ {
+  "name": "AE-02 appliance count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    1
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "338 / markup p9"
+ },
+ {
+  "name": "AE-03 appliance count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    1
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "339 / markup p9"
+ },
+ {
+  "name": "AE-04 appliance count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    1
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "340 / markup p9"
+ },
+ {
+  "name": "AE-06 appliance count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    1
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "341 / markup p9"
+ },
+ {
+  "name": "AE-07 appliance count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    1
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "342 / markup p9"
+ },
+ {
+  "name": "Remote teller terminal count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    1
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "343 / markup p3"
+ },
+ {
+  "name": "Motorized MechoShade SF from run LF x estimator drop",
+  "formula": "shade-sf-run-x-drop",
+  "inputs": {
+   "runLF_ft": 74.025,
+   "drop_ft": 16
+  },
+  "expected": {
+   "quantity": 1184.4,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "345 / markup p5"
+ },
+ {
+  "name": "Motorized MechoShade SF from legend LF (display precision)",
+  "formula": "shade-sf-run-x-drop",
+  "inputs": {
+   "runLF_ft": 74.0,
+   "drop_ft": 16
+  },
+  "expected": {
+   "quantity": 1184.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0,
+  "source": "345 / markup p5; legend displays 74.0 FT, 74.0 x 16 = 1184.0, 0.034 % below the estimate 1184.4, which implies a hidden 74.025 LF (see the preceding fixture)"
+ },
+ {
+  "name": "MechoShade description LF rounding",
+  "formula": "ceil",
+  "inputs": {
+   "runLF_ft": 74.025
+  },
+  "expected": {
+   "quantity": 75,
+   "unit": "LF"
+  },
+  "tolerancePct": 0,
+  "source": "345 description \"(75 LF)\""
+ },
+ {
+  "name": "CH-01 furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    2
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "346 / markup p9"
+ },
+ {
+  "name": "CH-02 furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    2
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "347 / markup p9"
+ },
+ {
+  "name": "CH-03 furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    2
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "348 / markup p9"
+ },
+ {
+  "name": "CH-04 furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    3
+   ]
+  },
+  "expected": {
+   "quantity": 3.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "349 / markup p9"
+ },
+ {
+  "name": "CH-06 furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    2
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "350 / markup p9"
+ },
+ {
+  "name": "CH-07 furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    1
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "351 / markup p9"
+ },
+ {
+  "name": "CH-08 furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    1
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "352 / markup p9"
+ },
+ {
+  "name": "CH-10 furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    2
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "353 / markup p9"
+ },
+ {
+  "name": "CH-11 furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    4
+   ]
+  },
+  "expected": {
+   "quantity": 4.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "354 / markup p9"
+ },
+ {
+  "name": "PL-02 furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    2
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "355 / markup p9"
+ },
+ {
+  "name": "SS-01 furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    2
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "356 / markup p9"
+ },
+ {
+  "name": "SS-03A scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "SS-03A",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "357 / A-170 (markup p10); the one A-160 SS-03 placement is the 3-seat SS-03B (drawn 95.5 in wide), so SS-03A is not placed"
+ },
+ {
+  "name": "SS-03B furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    1
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "358 / markup p9 legend SS03 1.0 EA; A-160 sofa under the SS-03 bubble measures 95.5 in x 33.3 in = SS-03B 95.75 x 33.25"
+ },
+ {
+  "name": "ST-02 furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    1
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "359 / markup p9"
+ },
+ {
+  "name": "TB-01 furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    1
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "360 / markup p9"
+ },
+ {
+  "name": "TB-02 furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    2
+   ]
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "361 / markup p9"
+ },
+ {
+  "name": "TB-04A furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    1
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "362 / markup p9"
+ },
+ {
+  "name": "WS-01 furniture count",
+  "formula": "tag-count",
+  "inputs": {
+   "placements_EA": [
+    1
+   ]
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "363 / markup p9"
+ },
+ {
+  "name": "CH-05 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "CH-05",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "364 / A-170 (markup p10)"
+ },
+ {
+  "name": "CH-09 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "CH-09",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "365 / A-170 (markup p10)"
+ },
+ {
+  "name": "CS-01 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "CS-01",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "366 / A-170 (markup p10)"
+ },
+ {
+  "name": "LK-01 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "LK-01",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "367 / A-170 (markup p10)"
+ },
+ {
+  "name": "MS-01 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "MS-01",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "368 / A-170 (markup p10)"
+ },
+ {
+  "name": "MS-03 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "MS-03",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "369 / A-170 (markup p10)"
+ },
+ {
+  "name": "PD-01 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "PD-01",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "370 / A-170 (markup p10)"
+ },
+ {
+  "name": "PL-01 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "PL-01",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "371 / A-170 (markup p10)"
+ },
+ {
+  "name": "PT-01 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "PT-01",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "372 / A-170 (markup p10)"
+ },
+ {
+  "name": "PW-01 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "PW-01",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "373 / A-170 (markup p10)"
+ },
+ {
+  "name": "PW-02 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "PW-02",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "374 / A-170 (markup p10)"
+ },
+ {
+  "name": "PW-03 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "PW-03",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "375 / A-170 (markup p10)"
+ },
+ {
+  "name": "SH-03 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "SH-03",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "376 / A-170 (markup p10)"
+ },
+ {
+  "name": "SH-04 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "SH-04",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "377 / A-170 (markup p10)"
+ },
+ {
+  "name": "SH-06 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "SH-06",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "378 / A-170 (markup p10)"
+ },
+ {
+  "name": "SH-08 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "SH-08",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "379 / A-170 (markup p10)"
+ },
+ {
+  "name": "SS-02L scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "SS-02L",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "380 / A-170 (markup p10)"
+ },
+ {
+  "name": "SS-02R scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "SS-02R",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "381 / A-170 (markup p10)"
+ },
+ {
+  "name": "SS-04L scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "SS-04L",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "382 / A-170 (markup p10)"
+ },
+ {
+  "name": "SS-04R scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "SS-04R",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "383 / A-170 (markup p10)"
+ },
+ {
+  "name": "SS-06 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "SS-06",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "384 / A-170 (markup p10)"
+ },
+ {
+  "name": "SS-07A scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "SS-07A",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "385 / A-170 (markup p10)"
+ },
+ {
+  "name": "SS-07B scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "SS-07B",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "386 / A-170 (markup p10)"
+ },
+ {
+  "name": "ST-01 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "ST-01",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "387 / A-170 (markup p10)"
+ },
+ {
+  "name": "ST-03 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "ST-03",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "388 / A-170 (markup p10)"
+ },
+ {
+  "name": "ST-04 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "ST-04",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "389 / A-170 (markup p10)"
+ },
+ {
+  "name": "TB-03A scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "TB-03A",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "390 / A-170 (markup p10)"
+ },
+ {
+  "name": "TB-03B scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "TB-03B",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "391 / A-170 (markup p10)"
+ },
+ {
+  "name": "TB-03C scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "TB-03C",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "392 / A-170 (markup p10)"
+ },
+ {
+  "name": "TB-03D scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "TB-03D",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "393 / A-170 (markup p10)"
+ },
+ {
+  "name": "TB-04B scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "TB-04B",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "394 / A-170 (markup p10)"
+ },
+ {
+  "name": "TB-05A scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "TB-05A",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "395 / A-170 (markup p10)"
+ },
+ {
+  "name": "TB-05B scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "TB-05B",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "396 / A-170 (markup p10)"
+ },
+ {
+  "name": "TB-05C scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "TB-05C",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "397 / A-170 (markup p10)"
+ },
+ {
+  "name": "TB-05D scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "TB-05D",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "398 / A-170 (markup p10)"
+ },
+ {
+  "name": "TB-06 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "TB-06",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "399 / A-170 (markup p10)"
+ },
+ {
+  "name": "TB-07 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "TB-07",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "400 / A-170 (markup p10)"
+ },
+ {
+  "name": "WD-01 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "WD-01",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "401 / A-170 (markup p10)"
+ },
+ {
+  "name": "WS-02 scheduled-only furniture",
+  "formula": "scheduled-unplaced-count",
+  "inputs": {
+   "scheduleRow": "WS-02",
+   "planCount_EA": 0,
+   "unplacedConvention_EA": 1
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "402 / A-170 (markup p10)"
+ }
+]

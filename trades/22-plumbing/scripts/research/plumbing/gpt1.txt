@@ -1,0 +1,58 @@
+## Basis and labels
+Assume U.S. practice using **2021 IPC, IFGC, IBC and IECC** model codes; verify locally adopted editions, amendments and specifications. **[C]** = code-based; **[T]** = takeoff convention/component accounting; **[R]** = provisional rule of thumb—not a code requirement or validated industry average.
+
+## 1. Measurement conventions
+
+- **[T]** Measure by system, material, diameter, joining method and location: underground, overhead, exposed and vertical. Include actual slopes, drops, offsets and equipment connections—not merely plan-projected lengths.
+- **[T]** A common estimating convention is **centerline length through fitting intersections**, with fittings counted separately. This is not a universal measurement standard; state the convention.
+- **[T]** For fabrication/purchasing, calculate net pipe cuts using manufacturer fitting dimensions and socket insertion depths. Do not mix net-cut and through-fitting quantities or deduct fittings twice.
+- **[T]** Count fittings, valves, fixtures and accessories individually. Establish package boundaries to prevent duplicate fixture-hookup quantities.
+
+## 2. Derive from every pipe run
+
+- **[T] Pipe/joints:** Pipe length and stock lengths; elbows by angle/radius; tees, wyes, combinations, reducers, transitions, adapters, caps and plugs. Match sanitary fitting patterns/orientation to **[C] IPC §706, drainage connections**.
+- **[T] Hubless DWV:** **One specified coupling per actual hubless joint**, including pipe-to-fitting joints—not one per fitting. Include transition couplings separately; select coupling class from specifications.
+- **[T] Copper:** Solder/braze/press fittings, straight-stock couplings, adapters, unions/flanges and required isolation components. Count solder, flux or brazing consumables from joint count/manufacturer yield.
+- **[T] Plastic DWV:** Socket fittings, mechanical transitions, and applicable solvent cement/primer from joint size/count and manufacturer coverage—not an arbitrary gallon-per-foot allowance.
+- **[T] Gas:** Specified pipe/tubing, threaded/welded/CSST fittings, unions, connectors and joining consumables. Equipment shutoffs and sediment traps depend on application: **[C] IFGC §§409.5 and 408.4**. Do not assume every appliance requires a sediment trap.
+- **[T] Supports:** Hangers, rods, inserts/anchors, trapeze steel, riser clamps, guides, shoes and insulation shields/inserts. Count actual support locations; **[C] IPC §308/Table 308.5** governs plumbing support intervals; **IFGC §415/Table 415.1** addresses gas-piping support. Add specified load, expansion and seismic restraints.
+- **[T] Penetrations:** Sleeves, core-hole locations, escutcheons and waterproof seals by detail. Rated penetrations require compatible firestop-system components: **[C] IBC §714, penetrations**. Quantify the listed assembly, not generic “caulk per hole.”
+- **[T] Insulation:** Length by diameter/thickness, fitting/valve covers, jackets, vapor-barrier closures, adhesives and supports. Check hot-water requirements against **[C] IECC §C404.4**; cold-water condensation protection follows project requirements.
+- **[T] Other:** Specified bedding/backfill, warning tape and protection; test caps/plugs/blanks, gauges and temporary connections. Testing requirements: **[C] IPC §312; IFGC §406**. Size reusable test-device quantities to simultaneous test sections, not total joints.
+
+## 3. Derive from each fixture/drain
+
+| Type | Components to check **[T]**, unless marked |
+|---|---|
+| Water closet/urinal | Fixture, seat where applicable, flushometer/tank, stop, supply connection, flange/spud, gasket, fasteners, carrier/support and trim. Avoid adding an external trap to an integral-trap fixture. |
+| Lavatory, sink, mop/service sink | Faucet, strainer/pop-up, tailpiece, trap/adapters, stops, supplies, escutcheons, brackets/carrier, specified mixing valve and accessible piping protection. |
+| Drinking fountain/bottle filler | Unit, carrier/bracket, supply/stop, filter if specified, waste/trap and adapters. |
+| Water heater | Unit, supports, isolation/check valves, specified expansion control, relief discharge, drain pan/drain, and assigned gas/venting accessories. |
+| Floor drain/floor sink | Body, grate, outlet, trap, extensions, clamping collar/membrane connection. Required trap-seal protection: **[C] IPC §1002.4.1**; count primer valve, distribution unit and tubing, or the permitted alternative—not both. |
+| Roof/area drain | Body, dome/grate, outlet, sump/extension, flashing clamp, support and insulation. Count emergency drainage separately where required: **[C] IPC §1108**. |
+| Cleanout | Fitting, plug, extension, access cover/box and finish coordination; locate/size using **[C] IPC §708**, not a fittings-per-foot allowance. |
+
+Also check **[C] IPC §608** for applicable backflow protection and **§604.9** for water-hammer arrestors at quick-closing valves.
+
+## 4. Preliminary fitting allowances
+
+**[R]** Illustrative starting ranges below are for schematic checks only. Short, fixture-dense branches can exceed them substantially. Count drawings whenever available.
+
+| System | Directional/branch/reducer fittings per 100 LF |
+|---|---:|
+| Underground sanitary | 4–10 |
+| Aboveground sanitary | 8–16 |
+| Storm | 3–8 |
+| Vent | 8–16 |
+| Domestic copper | 12–25 |
+| Natural gas | 4–10 |
+
+Exclude couplings, valves, cleanouts and equipment accessories. Never use these ranges to determine required drainage fittings or cleanouts.
+
+## 5. Waste allowances
+
+There are **no universal standard waste percentages**.
+
+**[R]** Initial cutting/offcut allowances: cast-iron pipe **3–5%**; plastic DWV **5–10%**; copper and rigid steel gas pipe **3–5%**; insulation/jacketing **5–10%**. Adjust for stock lengths, cut optimization and layout complexity.
+
+**[T]** Count fittings, fixtures and valves exactly; identify any small-fitting spares separately. Use manufacturer consumable yields, and never add waste twice to already rounded stock purchases.

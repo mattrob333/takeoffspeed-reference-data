@@ -1,0 +1,813 @@
+Stormwater Best Management Practice 
+Compost Filter Socks 
+Minimum Measure: Construction Site Stormwater Runoff Control 
+Subcategory: Erosion Control 
+Description 
+A compost filter sock is a type of contained compost filter 
+berm. The filter sock is typically a mesh tube filled with 
+composted material that is placed perpendicular to the 
+direction of sheet flow to control erosion and retain 
+sediment in disturbed areas. A compost filter sock has 
+an oval or round cross-section and provides a three-
+dimensional filter to retain sediment and other pollutants 
+(e.g., suspended solids, nutrients, metals and motor oil) 
+and allow clean water to flow through (Faucette et al., 
+2009). The filter sock can replace a traditional erosion 
+and sediment control practice, such as a silt fence or 
+straw bale barrier, and is often more effective. The 
+composts in filter socks come from a variety of 
+feedstocks, including yard trimmings, food residuals, 
+separated municipal solid waste, biosolids and manure. 
+Construction staff generally place compost filter socks 
+along the perimeter of a site or at intervals along a slope 
+to capture and treat sheet flow. They can also serve as 
+storm drain inlet protection on pavement. They are 
+flexible, and construction staff can fill them in place or fill 
+and move them into position, making compost filter 
+socks especially useful on steep or rocky slopes where 
+installation of other erosion and sediment control 
+practices is not feasible. Compost filter socks have more 
+surface area contact with the underlying soil than typical 
+sediment control devices, so stormwater is less likely to 
+create rills under them and/or create channels carrying 
+unfiltered sediment. The greater contact area and weight 
+of compost filter socks also allows water to pond 
+upgradient and suspended sediments to settle out. 
+Compost filter socks can be vegetated or unvegetated. 
+Vegetated filter socks can remain in place to provide 
+long-term stormwater filtration as a post-construction 
+stormwater control measure. The vegetation grows into 
+the slope, further anchoring the filter sock. Construction 
+staff often cut open unvegetated filter socks upon project 
+completion, and they spread the compost around the site 
+as soil amendment or mulch. They then dispose of the 
+mesh sock unless it is biodegradable. 
+Compost filter socks installed in a vegetated channel 
+leading to a sediment basin. 
+Credit: Anthony D'Angelo for USEPA, 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+-
+- -
+-
+Applicability 
+Compost filter socks apply to construction sites or other 
+disturbed areas where stormwater discharge occurs as 
+sheet flow. Compost filter socks can apply to steeper 
+slopes with faster flows if they have closer spacing, lie 
+beside and/or on top of each other, have larger 
+diameters, or work in combination with other stormwater 
+controls such as compost blankets. 
+It is also important to account for regional considerations 
+such as ambient temperature and moisture conditions. 
+Freezing temperatures and prolonged dry periods can 
+impact the compost’s effectiveness and life span 
+(USACE, 2008). 
+Compost Quality Considerations 
+Compost quality is an important consideration when 
+designing a compost filter sock. Use of sanitized, 
+mature, biologically stable compost ensures that the 
+compost filter sock performs according to design, has no 
+identifiable feedstock constituents or offensive odors, 
+and minimizes soluble nutrient loss. 
+https://www.epa.gov/npdes 
+EPA-832-F-21-028P 
+December 2021 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+—
+NPDES: Stormwater Best Management Practice—Compost Filter Socks 
+Maturity: Maturity indicates how well the compost will 
+support plant growth. One maturity test compares the 
+percentage of seeds that germinate in compost 
+compared to a potting soil mix. The difference in 
+germination rates marks the maturity of the compost. 
+Stability: Stability indicates microbial activity in the 
+compost and can directly correlate to carbon dioxide 
+production from the compost due to microbe respiration 
+during the decay process. A stable compost has no 
+offensive odors, does not resemble the original material 
+and has low rates of carbon dioxide off-gassing. 
+Absence of pathogens: The pathogen count indicates 
+how sanitary the compost is. In 40 CFR, Part 503, EPA 
+has defined processes for composting that reduce the 
+number of pathogenic organisms to nondetectable levels 
+and ensure the resulting compost is sufficiently heat-
+treated and sanitary. 
+The compost in filter socks should meet all local, state 
+and federal quality requirements and meet the guidelines 
+outlined in Table 1. All compost should comply with 40 
+CFR, Part 503, which establishes safe standards for 
+pathogen reduction and presence of heavy metals. 
+Table 1. Quality guidelines for compost used in filter socks. 
+Parameters 
+Units of Measure 
+Acceptable Range 
+pH 
+N/A 
+5.0–8.5 
+Soluble salt concentration (electrical 
+conductivity) 
+dS/m (millimhos/cm) 
+Maximum 5 dS/m 
+Moisture content 
+Percent, wet weight basis 
+30–60% 
+Organic matter content 
+Percent, dry weight basis 
+25–100% 
+Particle size 
+Percentage passing a selected mesh 
+size, dry weight basis 
+2 inches, 100% passing; 
+3/8 inches, 50% passing 
+Biological stability/maturity (carbon dioxide 
+evolution rate) 
+mg CO2-C per gram of organic 
+matter per day 
+Less than 8 mg 
+Physical contaminants 
+(human-made inerts) 
+Percent, dry weight basis 
+Less than 1% 
+Source: AASHTO 2017, USDA 2011 
+The U.S. Composting Council (USCC) certifies compost 
+products under its Seal of Testing Assurance Program. 
+Compost producers whose products the Seal of Testing 
+Assurance Program has certified provide customers with 
+a standard product label that allows comparison among 
+compost products. The USCC website contains 
+information on the current Seal of Testing Assurance 
+Program requirements and testing methods. 
+Construction staff should choose a mature, biologically 
+stable compost that meets the particle size specifications 
+in Table 1 above. This ensures that the nutrients in the 
+composted material are in organic form, less soluble and 
+less likely to migrate into receiving waters. 
+The American Association of State Highway 
+Transportation Officials (AASHTO) and many individual 
+state departments of transportation have issued 
+specifications for filter socks (AASHTO, 2017; USCC, 
+2001). These specifications describe the quality and 
+particle size distribution of compost for compost filter 
+socks for highway construction projects. Research on 
+these parameters continues to evolve; therefore, design 
+engineers should contact the department of 
+transportation or state environmental agency where they 
+will install the filter sock to obtain any applicable 
+specifications or compost-testing recommendations. 
+Compost filter socks can apply to many types of 
+construction projects and various landscaping projects 
+as well. Construction staff may modify these parameters 
+depending on local site conditions or needs, as 
+appropriate. 
+Page 2 
+Office of Water, 4203M 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+—
+NPDES: Stormwater Best Management Practice—Compost Filter Socks 
+Siting and Design Considerations 
+Filter sock assembly involves tying a knot in one end of 
+the mesh sock, filling the sock with the composted 
+material (usually using a pneumatic blower), then 
+knotting the other end once the sock reaches the desired 
+length. A filter sock is normally the width of the slope to 
+ensure that stormwater does not break through at the 
+intersection of socks placed end to end. Where this is 
+not possible, construction staff place the socks end to 
+end along a slope and interlock the ends. 
+The diameter of the filter sock varies depending on the 
+purpose of the filter sock, as well as the steepness and 
+length of the slope. Construction staff usually place 
+compost filter socks along a contour perpendicular to 
+sheet flow. In areas of concentrated flow, compost filter 
+socks often serve as check dams. Local rainfall and 
+appropriate storm scenarios should determine the sizing 
+and spacing of filter socks. Specifications manuals can 
+provide detailed information regarding diameter, length, 
+specific location and spacing recommendations for filter 
+socks (e.g., USDA 2011 and ASSHTO 2017). 
+Studies examining the use of erosion and sediment 
+control practices utilizing compost in bioretention 
+systems, compost blankets and as soil amendments 
+have shown both reductions in organic nutrients and 
+releases of nutrients (N and P) in leachate and infiltrate. 
+The potential for nutrient discharges from erosion and 
+sediment control practices that utilize compost should be 
+considered to determine whether compost use is 
+appropriate especially in cases where there are 
+receiving waterbodies that are sensitive to or are 
+currently impaired by nutrients. Site conditions, compost 
+type and composition, compost berm placement and 
+management of the compost system also will affect 
+potential nutrient loadings or reductions and pollutant 
+loadings to receiving waters. The use of this practice 
+should be considered weighing the overall efficacy of the 
+system in terms initial nutrient loadings, mid-life nutrient 
+trapping capacity and the potential for end-of-life nutrient 
+discharges where nutrients are of concern. 
+Installation 
+The advantage of compost filter socks over similar 
+stormwater controls is that they do not require trenching; 
+therefore, installing them does not disturb the soil. 
+However, construction staff should trim or remove 
+vegetation and debris to ensure full contact with the 
+ground surface. Once staff have filled the filter sock and 
+placed it, they should anchor it to the slope. The 
+preferred anchoring method is to drive stakes at regular 
+intervals through the center of the sock at least 8 inches 
+into the ground (USDA, 2011); alternatively, construction 
+staff can place stakes on the downstream side of the 
+sock. They should direct the ends of the filter sock 
+upslope to prevent stormwater from running around 
+them. Incorporating seed into the compost before 
+placement in the filter sock can vegetate the filter sock. 
+Since it is not necessary to trench compost filter socks 
+into the ground, construction staff can install them on 
+frozen ground or even cement. 
+Limitations 
+Construction staff can install compost filter socks on any 
+type of soil surface; however, they should cut down or 
+remove heavy vegetation to ensure that the compost 
+contacts the ground surface. Stormwater and sediment 
+control devices, including filter socks, are not appropriate 
+for use in streams. 
+Maintenance Considerations 
+Construction staff should inspect compost filter socks 
+regularly, including after each rainfall event, to ensure 
+proper function. Excessive upstream ponding or 
+overtopping indicates that the current configuration is not 
+adequate. In these cases, construction staff should place 
+an additional filter sock further up the slope or use an 
+additional erosion control, such as a compost blanket, in 
+conjunction with the filter sock. Staff should remove 
+accumulated sediment when it reaches one half the 
+height of the filter sock or as the current EPA 
+Construction General Permit or equivalent state and 
+local permits mandate. If the compost filter sock is a 
+temporary application, at the end of the project, 
+construction staff can spread the compost material in 
+areas that do not receive concentrated flow (USDA, 
+2011). 
+Effectiveness 
+A number of studies have shown that compost filter 
+socks are at least as effective as traditional erosion 
+controls at removing settleable solids, total suspended 
+solids and a variety of other pollutants from stormwater. 
+An Ohio State University study found that compost filter 
+socks have a 50 percent higher flow-through rate than 
+Page 3 
+Office of Water, 4203M 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+—
+NPDES: Stormwater Best Management Practice—Compost Filter Socks 
+silt fences without a reduction in sediment removal 
+efficiencies (Keener et al., 2007). A U.S. Department of 
+Agriculture study found that compost filter socks reduced 
+clay and silt particulates (the major contributors to 
+suspended solids and turbidity) by 65 percent, 
+outperforming straw bales and mulch berms. The same 
+study saw a reduction in bacteria of 75 percent, 
+reduction in heavy metals of 37 to 71 percent and 
+reduction in petroleum hydrocarbons of 43 to 84 percent 
+(Faucette et al., 2009). In a similar study, compost filter 
+socks reduced phosphorus concentrations by about 60 
+percent, compared to removal rates of around 20 
+percent by silt fences (Faucette et al., 2008). 
+Cost Considerations 
+The cost to install a compost filter sock depends on the 
+availability of the required quality of compost in an area. 
+The cost for a biodegradable compost filter sock 
+generally ranges from $5 to $10 per linear foot, with the 
+cost mostly dependent on the cost of the compost 
+(RSMeans, 2019). Although costs for fully biodegradable 
+netting can be more than non-biodegradable netting, the 
+labor cost savings from not having to remove the control 
+measure—as well as the subsequent benefit to soil 
+condition and vegetation establishment—may justify this 
+cost. However, there is still the cost to remove and 
+dispose of sediment that accumulates to at least one-
+third the distance between the top of the fiber roll and 
+the ground surface. 
+Additional Information 
+Additional information on related practices and the Phase II MS4 program can be found at 
+EPA’s National Menu of Best Management Practices (BMPs) for Stormwater website 
+References 
+American Association of State Highway Transportation Officials (AASHTO). (2017). Standard specifications for 
+transportation materials and methods of sampling and testing designation R 51-13 compost for erosion/sediment control 
+(filter berms and filter socks). 
+Brown, S., Corfman, A., Mendrey, K., Kurtz, K., and Grothkopp, F. (2016). “Stormwater Bioretention Systems: Testing the 
+Phosphorus Saturation Index and Compost Feedstocks as Predictive Tools for System Performance.” Journal of 
+Environmental Quality, 45(1), 98–106. 
+Confesor Jr, R. B., Hamlett, J. M., Shannon, R. D., and Graves, R. E. (2009). “Potential Pollutants from Farm, Food and 
+Yard Waste Composts at Differing Ages: Leaching Potential of Nutrients Under Column Experiments. Part II.” Compost 
+Science & Utilization, 17(1), 6–17. 
+Eck, B., Barrett, M., McFarland, A., Hauck, L., Mcfarland, A., and Hauck, L. (2010). “Hydrologic and Water Quality 
+Aspects of Using a Compost/Mulch Blend for Erosion Control.” Journal of Irrigation and Drainage Engineering-ASCE, 
+136(9), 646–655. 
+Faucette, B. (2010). “Nature’s Way.” Public Works Magazine. 
+Faucette, B., Cardoso-Gendreau, F., Codling, E., Sadeghi, A., Pachepsky, Y., & Shelton, D. (2009). Stormwater pollutant 
+removal performance of compost filter socks. Journal of Environmental Quality, 38, 1233–1239. 
+Faucette, L. B., Cardoso-Gendreau, F. A., Codling, E., Sadeghi, A. M., Pachepsky, Y. A., and Shelton, D. R. (2009a). 
+“Storm water pollutant removal performance of compost filter socks.” Journal of Environmental Quality, 38(3), 1233–1239. 
+Faucette, L. B., Sefton, K. A., Sadeghi, A. M., & Rowland, R. A. (2008). Sediment and phosphorus removal from 
+simulated storm runoff with compost filter socks and silt fence. Journal of Soil and Water Conservation, 63(4), 257–264. 
+Page 4 
+Office of Water, 4203M 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+—
+NPDES: Stormwater Best Management Practice—Compost Filter Socks 
+Keener, H., Faucette, B., & Klingman, M. (2007). Flowthrough rates and evaluation of solids separation of compost filter 
+socks vs. silt fence in sediment control applications. Journal of Environmental Quality, 36(3), 742–752. 
+RSMeans. (2019). Erosion and Sedimentation Controls [Online data file]. RSMeans data from Gordian. 
+U.S. Army Corps of Engineers (USACE). (2008). Filter socks technology. Engineer Research and Development Center. 
+U.S. Composting Council (USCC). (2001). Compost use on state highway applications. 
+U.S. Department of Agriculture (USDA). (2011). Agronomy technical note no. 4. 
+Disclaimer 
+This fact sheet is intended to be used for informational purposes only. These examples and references are not intended to be 
+comprehensive and do not preclude the use of other technically sound practices. State or local requirements may apply. 
+Page 5 
+Office of Water, 4203M 

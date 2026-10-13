@@ -1,0 +1,938 @@
+[
+ {
+  "name": "L148 CONTINUOUS ACOUSTIC SEALANT AT WALLS",
+  "formula": "acousticSealantLF",
+  "inputs": {
+   "groups": {
+    "value": [
+     {
+      "name": "A-series partitions (GWB both sides, to structure)",
+      "lf": 149.2,
+      "beads": 4
+     },
+     {
+      "name": "D-series partitions (GWB one side)",
+      "lf": 49.7,
+      "beads": 2
+     },
+     {
+      "name": "low walls (A3A @ 3'9\", 6\" @ 4'4\"), base only",
+      "lf": 26.0,
+      "beads": 2
+     },
+     {
+      "name": "exterior stud walls with interior GWB",
+      "lf": 153.4,
+      "beads": 2
+     }
+    ],
+    "unit": "LF x beads"
+   }
+  },
+  "expected": {
+   "quantity": 1053.5,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 148 / markup p4 (A-120) wall runs; A-620 details A-B01, A-T01, D-B01, D-T01",
+  "classification": "derived (inferred convention)",
+  "recomputed": 1055.0,
+  "note": "rule follows the A-620 details (head + base per finished face, no head bead on partial-height walls); not confirmed. The alternative fit 4 x 224.9 interior + 1 x 153.4 exterior = 1053.0 is numerically closer but contradicts D-B01."
+ },
+ {
+  "name": "L150 SEALANT W/ BACKER ROD",
+  "formula": "sumRuns",
+  "inputs": {
+   "runs": {
+    "value": [
+     65.7,
+     156.2
+    ],
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 221.96,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 150 / markups p11 (A-200) + p12 (A-201) \"SEALANT W/ BACKER ROD\"",
+  "classification": "measured",
+  "recomputed": 221.9
+ },
+ {
+  "name": "L151 2\"THK. POLYSTYRENE XPS INSULATION UNDER SLAB",
+  "formula": "underSlabXpsSF",
+  "inputs": {
+   "slabSF": {
+    "value": 1917.6,
+    "unit": "SF"
+   },
+   "perimeterLF": {
+    "value": 193.8,
+    "unit": "LF"
+   },
+   "turnDown": {
+    "value": 2.0,
+    "unit": "FT"
+   }
+  },
+  "expected": {
+   "quantity": 2298.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 151 / markup p33 (S-201) slab + 8\" stem wall; detail 1/G-003",
+  "classification": "derived",
+  "recomputed": 2305.2
+ },
+ {
+  "name": "L152 3-1/2\"THK. SOUND ATTENUATION BLANKET INSULATION AT WALLS",
+  "formula": "cavityInsulationSF",
+  "inputs": {
+   "runLF": {
+    "value": 34.2,
+    "unit": "LF"
+   },
+   "height": {
+    "value": 12.5,
+    "unit": "FT"
+   }
+  },
+  "expected": {
+   "quantity": 427.5,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 152 / markup p4 (A-120) WALL A3B @ 12'6\"H",
+  "classification": "measured+derived",
+  "recomputed": 427.5
+ },
+ {
+  "name": "L153 5-1/2\"THK. SOUND ATTENUATION BLANKET INSULATION AT WALLS",
+  "formula": "cavityInsulationSF",
+  "inputs": {
+   "runLF": {
+    "value": 28.4,
+    "unit": "LF"
+   },
+   "height": {
+    "value": 12.5,
+    "unit": "FT"
+   }
+  },
+  "expected": {
+   "quantity": 356.25,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 153 / markup p4 (A-120) WALL A6B @ 12'6\"H",
+  "classification": "measured+derived",
+  "recomputed": 355.0
+ },
+ {
+  "name": "L154 3-1/2\"THK. BATT INSULATION AT EXTERIOR WALLS",
+  "formula": "cavityInsulationSF",
+  "inputs": {
+   "runLF": {
+    "value": 46,
+    "unit": "LF"
+   },
+   "height": {
+    "value": 2.0,
+    "unit": "FT"
+   }
+  },
+  "expected": {
+   "quantity": 92.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 154 / markup p7 (A-140) \"8/A450 LAP ROOF 2', INCL WALL\"; details 8 & 10/A450",
+  "classification": "derived",
+  "recomputed": 92.0
+ },
+ {
+  "name": "L155 5-1/2\"THK. BATT INSULATION AT EXTERIOR WALLS",
+  "formula": "cavityInsulationSF",
+  "inputs": {
+   "runLF": {
+    "value": 9.2,
+    "unit": "LF"
+   },
+   "height": {
+    "value": 12.25,
+    "unit": "FT"
+   }
+  },
+  "expected": {
+   "quantity": 113.3125,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 155 / markup p4 (A-120) EXT 6\" STUD WALL @ 12'3\"H",
+  "classification": "measured+derived",
+  "recomputed": 112.7
+ },
+ {
+  "name": "L156 8\"THK. BATT INSULATION AT EXTERIOR WALLS",
+  "formula": "cavityInsulationSF",
+  "inputs": {
+   "runs": {
+    "value": [
+     [
+      46.0,
+      1.583333
+     ],
+     [
+      38.0,
+      2.583333
+     ],
+     [
+      13.0,
+      4.0
+     ],
+     [
+      96.6,
+      4.583333
+     ],
+     [
+      5.9,
+      7.166667
+     ],
+     [
+      89.7,
+      12.75
+     ],
+     [
+      41.5,
+      15.75
+     ],
+     [
+      8.7,
+      15.75
+     ]
+    ],
+    "unit": "LF x FT"
+   }
+  },
+  "expected": {
+   "quantity": 2652.875,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 156 / markups p4 (A-120) + p7 (A-140), all 8\" stud rows",
+  "classification": "measured+derived",
+  "recomputed": 2642.3583,
+  "note": "expected is the framing line 311 value; the legend rows rebuild to 2642.36 (-0.40%), residual unexplained (not display rounding); 0.5% tolerance covers it"
+ },
+ {
+  "name": "L157 2\"THK. RIGID INSULATION AT ROOF TRANSITION WALL",
+  "formula": "rigidBandSF",
+  "inputs": {
+   "runLF": {
+    "value": 46,
+    "unit": "LF"
+   },
+   "height": {
+    "value": 2.5,
+    "unit": "FT"
+   }
+  },
+  "expected": {
+   "quantity": 115.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 157 / markup p7 (A-140) 8/A450 run; detail 10/A450",
+  "classification": "derived (estimator convention)",
+  "recomputed": 115.0
+ },
+ {
+  "name": "L158 2\"THK. POLYISO BOARD INSULATION AT ROOF",
+  "formula": "roofInsulationSF",
+  "inputs": {
+   "areaSF": {
+    "value": 285.4,
+    "unit": "SF"
+   },
+   "round": {
+    "value": 1,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 285.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 158 / markup p7 (A-140) RT2 ROOFING",
+  "classification": "measured",
+  "recomputed": 285
+ },
+ {
+  "name": "L159 MIN. 6\"THK. POLYISO BOARD INSULATION R-34 AT ROOF",
+  "formula": "roofInsulationSF",
+  "inputs": {
+   "areaSF": {
+    "value": 1864.3,
+    "unit": "SF"
+   },
+   "round": {
+    "value": 1,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 1864.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 159 / markup p7 (A-140) RT1 ROOFING",
+  "classification": "measured",
+  "recomputed": 1864
+ },
+ {
+  "name": "L160 2\"THK. RIGID INSULATION BEHIND EXTERIOR FINISH",
+  "formula": "rigidBehindCladdingSF",
+  "inputs": {
+   "acmSF": {
+    "value": 488.3,
+    "unit": "SF"
+   },
+   "brickSF": {
+    "value": 395.7,
+    "unit": "SF"
+   },
+   "roundUpTo": {
+    "value": 5,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 890.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 160 / lines 181 + 32 (p11, p17 ACM1/ACM2; p11, p12 EXT-1 brick)",
+  "classification": "derived",
+  "recomputed": 890
+ },
+ {
+  "name": "L161 6\"THK. COUND BATT INSULATION AT BOOTH CEILING",
+  "formula": "roofInsulationSF",
+  "inputs": {
+   "areaSF": {
+    "value": 76.2,
+    "unit": "SF"
+   },
+   "round": {
+    "value": 1,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 76.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 161 / markup p29 (A-706) booth roof framing w/ 6\" sound batt",
+  "classification": "measured",
+  "recomputed": 76
+ },
+ {
+  "name": "L163 1/4\"THK. COVER BOARD",
+  "formula": "coverBoardSF",
+  "inputs": {
+   "fieldSF": {
+    "value": 1864,
+    "unit": "SF"
+   },
+   "wallLF": {
+    "value": 46,
+    "unit": "LF"
+   },
+   "wallHeight": {
+    "value": 2.0,
+    "unit": "FT"
+   }
+  },
+  "expected": {
+   "quantity": 1956.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 163 / markup p7 RT1 + transition wall (detail 10/A450 1/4\" cover board on wall face)",
+  "classification": "derived",
+  "recomputed": 1956.0
+ },
+ {
+  "name": "L164 TAPERED POLYISOCYANURATE INSULATION ROOF CRICKET",
+  "formula": "areaSF",
+  "inputs": {
+   "areaSF": {
+    "value": 262.1,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 262.06,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 164 / markup p7 TAPERED ... ROOF CRICKET",
+  "classification": "measured",
+  "recomputed": 262.1
+ },
+ {
+  "name": "L165 VAPOR BARRIER AT ROOF, ASSUMED",
+  "formula": "areaSF",
+  "inputs": {
+   "areaSF": {
+    "value": [
+     1864.3,
+     285.4
+    ],
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 2149.28,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 165 / markup p7 RT1 + RT2",
+  "classification": "measured",
+  "recomputed": 2149.7
+ },
+ {
+  "name": "L166 PRESUURE SENSITIVE AIR & VAPOR BARRIER @ CURB",
+  "formula": "stripSF",
+  "inputs": {
+   "runLF": {
+    "value": 39.9,
+    "unit": "LF"
+   },
+   "width": {
+    "value": 1.0,
+    "unit": "FT"
+   },
+   "roundUpTo": {
+    "value": 5,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 40.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 166 / markup p7 CURB - 1/A450; detail 1/A450",
+  "classification": "derived (estimator convention)",
+  "recomputed": 40
+ },
+ {
+  "name": "L167 TPO WALKWAY PAD MEMBRANE",
+  "formula": "areaSF",
+  "inputs": {
+   "areaSF": {
+    "value": 286.8,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 286.79,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 167 / markup p7 TPO WALKWAY PAD MEMBRANE",
+  "classification": "measured",
+  "recomputed": 286.8
+ },
+ {
+  "name": "L168 2'7\" PREFINISHED 0.040 GA. ALUMINUM COPING W/ CLEATS & SPLIC",
+  "formula": "runLF",
+  "inputs": {
+   "runLF": {
+    "value": 13.9,
+    "unit": "LF"
+   },
+   "roundUpTo": {
+    "value": 5,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 15.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 168 / markup p7 COPING 3A430",
+  "classification": "measured",
+  "recomputed": 15
+ },
+ {
+  "name": "L169 2' PREFINISHED COPING W/ CLEATS & SPLICE PLATES",
+  "formula": "runLF",
+  "inputs": {
+   "runLF": {
+    "value": 148.1,
+    "unit": "LF"
+   },
+   "round": {
+    "value": 1,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 148.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 169 / markup p7 COPING 6A450",
+  "classification": "measured",
+  "recomputed": 148
+ },
+ {
+  "name": "L170 2'4\" PREFINISHED ALUMINUM COPNG W/ CLEATS & SPLICE PLATES",
+  "formula": "runLF",
+  "inputs": {
+   "runLF": {
+    "value": 38.5,
+    "unit": "LF"
+   },
+   "roundUpTo": {
+    "value": 5,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 40.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 170 / markup p7 COPING 9A450",
+  "classification": "measured",
+  "recomputed": 40
+ },
+ {
+  "name": "L171 18\"H PREFABRICATED METAL CURB W/",
+  "formula": "runLF",
+  "inputs": {
+   "runLF": {
+    "value": 39.9,
+    "unit": "LF"
+   },
+   "roundUpTo": {
+    "value": 5,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 40.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 171 / markup p7 CURB - 1/A450",
+  "classification": "measured",
+  "recomputed": 40
+ },
+ {
+  "name": "L172 PREFABRICATED METAL CURB @ ROOF HATCH",
+  "formula": "curbPerimeterLF",
+  "inputs": {
+   "count": {
+    "value": 1.0,
+    "unit": "EA"
+   },
+   "size": {
+    "value": [
+     30,
+     36
+    ],
+    "unit": "IN"
+   }
+  },
+  "expected": {
+   "quantity": 11.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 172 / markup p7 30\"x36\" ROOF ACCESS HATCH (1 EA); spec 07 7200 hatch 30x36",
+  "classification": "counted+specified",
+  "recomputed": 11.0
+ },
+ {
+  "name": "L173 FLASHING @ ROOF DRAIN",
+  "formula": "count",
+  "inputs": {
+   "count": {
+    "value": 11.0,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 11.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 173 / markup p7 FLASHING @ ROOF DRAIN",
+  "classification": "counted",
+  "recomputed": 11.0
+ },
+ {
+  "name": "L174 FLASHING @ VENT PIPE",
+  "formula": "count",
+  "inputs": {
+   "count": {
+    "value": 3.0,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 3.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 174 / markup p7 FLASHING @ VENT PIPE",
+  "classification": "counted",
+  "recomputed": 3.0
+ },
+ {
+  "name": "L175 TWO-PIECE ALUMINUM HEAD FLASHING",
+  "formula": "runLF",
+  "inputs": {
+   "runLF": {
+    "value": 119.4,
+    "unit": "LF"
+   },
+   "roundUpTo": {
+    "value": 5,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 120.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 175 / markup p7 \"9/A430\" run (storefront head @ canopy)",
+  "classification": "measured",
+  "recomputed": 120
+ },
+ {
+  "name": "L176 SELF ADHERED FLASHING STRIP",
+  "formula": "runLF",
+  "inputs": {
+   "runLF": {
+    "value": 119.4,
+    "unit": "LF"
+   },
+   "roundUpTo": {
+    "value": 5,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 120.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 176 / markup p7 \"9/A430\" run (storefront head @ canopy)",
+  "classification": "measured",
+  "recomputed": 120
+ },
+ {
+  "name": "L177 COUNTER FLASHING",
+  "formula": "runLF",
+  "inputs": {
+   "runLF": {
+    "value": 39.9,
+    "unit": "LF"
+   },
+   "roundUpTo": {
+    "value": 5,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 40.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 177 / markup p7 CURB - 1/A450 (counterflashing skirt, detail 1/A450)",
+  "classification": "measured",
+  "recomputed": 40
+ },
+ {
+  "name": "L178 3\"THK. EIFS BARRIER SYSTEM - EIFS1",
+  "formula": "areaSF",
+  "inputs": {
+   "areaSF": {
+    "value": [
+     599.9,
+     1039.0
+    ],
+    "unit": "SF"
+   },
+   "roundUpTo": {
+    "value": 5,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 1640.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 178 / markups p11 (A-200) + p12 (A-201)",
+  "classification": "measured",
+  "recomputed": 1640
+ },
+ {
+  "name": "L179 5\"THK. EIFS BARRIER SYSTEM - EIFS2",
+  "formula": "areaSF",
+  "inputs": {
+   "areaSF": {
+    "value": [
+     189.7,
+     84.7
+    ],
+    "unit": "SF"
+   },
+   "roundUpTo": {
+    "value": 5,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 275.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 179 / markups p11 (A-200) + p12 (A-201)",
+  "classification": "measured",
+  "recomputed": 275
+ },
+ {
+  "name": "L180 3\"THK. EIFS BARRIER SYSTEM AT SOFFIT - EIFS1",
+  "formula": "areaSF",
+  "inputs": {
+   "areaSF": {
+    "value": 8.8,
+    "unit": "SF"
+   },
+   "roundUpTo": {
+    "value": 5,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 10.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 180 / markup p5 (A-130) EIFS SOFFIT 1/A310",
+  "classification": "measured",
+  "recomputed": 10
+ },
+ {
+  "name": "L181 ALUMINUM COMPOSITE METAL PANEL FINISH O/ SUB-GIRT",
+  "formula": "areaSF",
+  "inputs": {
+   "areaSF": {
+    "value": [
+     108.7,
+     379.6
+    ],
+    "unit": "SF"
+   },
+   "roundUpTo": {
+    "value": 5,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 490.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 181 / markups p11 (A-200) + p17 (A-420) ACM1, ACM2 FINISH - 1/A440",
+  "classification": "measured",
+  "recomputed": 490
+ },
+ {
+  "name": "L182 ALUMINUM COMPOSITE METAL PANEL FINISH O/ SUB-GIRT AT CANOPY",
+  "formula": "areaSF",
+  "inputs": {
+   "areaSF": {
+    "value": 358.7,
+    "unit": "SF"
+   },
+   "roundUpTo": {
+    "value": 5,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 360.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 182 / markup p5 (A-130) ACM-3 CANOPY - 10/A430",
+  "classification": "measured",
+  "recomputed": 360
+ },
+ {
+  "name": "L183 ALUMINUM COMPOSITE METAL PANEL CANOPY FASCIA",
+  "formula": "runLF",
+  "inputs": {
+   "runLF": {
+    "value": 138.5,
+    "unit": "LF"
+   },
+   "roundUpTo": {
+    "value": 5,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 140.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 183 / markup p7 (A-140) CANOPY EDGE 7/A430",
+  "classification": "measured",
+  "recomputed": 140
+ },
+ {
+  "name": "L184 FLUID APPLIED VAPOR BARRIER",
+  "formula": "sumAreasSF",
+  "inputs": {
+   "areasSF": {
+    "value": [
+     1640,
+     275,
+     10,
+     490,
+     568.5
+    ],
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 2983.5,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 184 / lines 178 + 179 + 180 + 181 + 85",
+  "classification": "derived",
+  "recomputed": 2983.5
+ },
+ {
+  "name": "L185 PRE-FINISHED ALUMINUM SILL",
+  "formula": "sumRuns",
+  "inputs": {
+   "runs": {
+    "value": [
+     28.9,
+     19.4
+    ],
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 48.27,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 185 / markups p11 + p12 \"PRE-FINISHED ALUMINUM SILL\"",
+  "classification": "measured",
+  "recomputed": 48.3
+ },
+ {
+  "name": "L186 ALUMINUM FLASHING",
+  "formula": "sumRuns",
+  "inputs": {
+   "runs": {
+    "value": [
+     31.2,
+     70.0
+    ],
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 101.18,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 186 / markups p11 + p12 \"ALUMINUM FLASHING\"",
+  "classification": "measured",
+  "recomputed": 101.2
+ },
+ {
+  "name": "L187 THRU WALL FLASHING",
+  "formula": "sumRuns",
+  "inputs": {
+   "runs": {
+    "value": [
+     101.6,
+     111.5
+    ],
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 213.07,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 187 / markups p11 + p12 \"THRU WALL FLASHING\"",
+  "classification": "measured",
+  "recomputed": 213.1
+ },
+ {
+  "name": "L188 INTEGRATED SILL PAN FLASHING",
+  "formula": "runLF",
+  "inputs": {
+   "runLF": {
+    "value": 24.4,
+    "unit": "LF"
+   },
+   "roundUpTo": {
+    "value": 5,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 25.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 188 / markup p11 (A-200) \"Linear\" run, green line along storefront sill at slab",
+  "classification": "measured",
+  "recomputed": 25
+ },
+ {
+  "name": "L189 SEALANT W/ BACKER ROD",
+  "formula": "sumRuns",
+  "inputs": {
+   "runs": {
+    "value": [
+     65.7,
+     156.2
+    ],
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 221.96,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "line 189 / markups p11 (A-200) + p12 (A-201) \"SEALANT W/ BACKER ROD\"",
+  "classification": "measured",
+  "recomputed": 221.9
+ }
+]

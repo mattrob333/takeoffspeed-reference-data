@@ -1,0 +1,3986 @@
+6
+Index
+Surface
+Stabilization  TEMPORARY SEEDING
+PERMANENT SEEDING
+SODDING
+Tr
+v
+MULCHING
+RIpr
+VEGETATION DUNE STABILIZATION
+ROLLED EROSION CONTROL pr
+6.10.1
+6.11.1
+6.12.1
+6.13.1
+6.14.1
+6.15.1
+6.16.1
+6.17.1
+                                         COMPOST BLANKETS                                                                   6.18.1 
+Rev. 5/13
+
+
+Rev. 6/06 
+6.10.1
+Practice Standards and Specifications
+temPoRaRy seeding
+Definition
+Planting rapid-growing annual grasses, small grains, or legumes to provide 
+initial, temporary cover for erosion control on disturbed areas.
+Purpose
+To temporarily stabilize denuded areas that will not be brought to final grade 
+for a period of more than 21 calendar days.
+Temporary seeding controls runoff and erosion until permanent vegetation or 
+other erosion control measures can be established.  In addition, it provides 
+residue for soil protection and seedbed preparation, and reduces problems of 
+mud and dust production from bare soil surfaces during construction.
+Conditions Where 
+Practice Applies
+On any cleared, unvegetated, or sparsely vegetated  soil surface where 
+vegetative cover is needed for less than 1 year.  Applications of this practice 
+include diversions, dams, temporary sediment basins, temporary road banks, 
+and topsoil stockpiles.
+Planning 
+Considerations
+Annual plants, which sprout and grow rapidly and survive for only one season, 
+are suitable for establishing initial or temporary vegetative cover.  Temporary 
+seeding preserves the integrity of earthen sediment control structures such 
+as dikes, diversions, and the banks of dams and sediment basins.  It can also 
+reduce the amount of maintenance associated with these devices.  For example, 
+the frequency of sediment basin cleanouts will be reduced if watershed areas, 
+outside the active construction zone, are stabilized.
+Proper seedbed preparation, selection of appropriate species, and use of quality 
+seed are as important in this Practice as in Practice 6.11, Permanent Seeding. 
+Failure to follow established guidelines and recommendations carefully may 
+result in an inadequate or short-lived stand of vegetation that will not control 
+erosion.
+Temporary seeding provides protection for no more than 1 year, during which 
+time permanent stabilization should be initiated.
+Specifications
+Complete grading before preparing seedbeds, and install all necessary erosion 
+control practices such as, dikes, waterways, and basins.  Minimize steep slopes 
+because they make seedbed preparation difficult and increase the erosion 
+hazard.  If soils become compacted during grading, loosen them to a depth of 
+6-8 inches using a ripper, harrow, or chisel plow.
+SEEDBED PREPARATION
+Good seedbed preparation is essential to successful plant establishment.  A 
+good seedbed is well-pulverized, loose, and uniform.  Where hydroseeding 
+methods are used, the surface may be left with a more irregular surface of 
+large clods and stones.
+Liming—Apply lime according to soil test recommendations.  If the pH (acidity) 
+of the soil is not known, an application of ground agricultural limestone at the
+6.10
+
+6
+rate of 1 to 1 1/2 tons/acre on coarse-textured soils and 2-3 tons/acre on fine-
+textured soils is usually sufficient.  Apply limestone uniformly and incorporate 
+into the top 4-6 inches of soil.  Soils with a pH of 6 or higher need not be 
+limed.
+Fertilizer—Base application rates on soil tests.  When these are not possible, 
+apply a 10-10-10 grade fertilizer at 700-1,000 lb/acre.  Both fertilizer and lime 
+should be incorporated into the top 4-6 inches of soil.  If a hydraulic seeder is 
+used, do not mix seed and fertilizer more than 30 minutes before application.
+Surface roughening—If recent tillage operations have resulted in a loose 
+surface, additional roughening may not be required, except to break up large 
+clods.  If rainfall causes the surface to become sealed or crusted, loosen it 
+just prior to seeding by disking, raking, harrowing, or other suitable methods. 
+Groove or furrow slopes steeper than 3:1 on the contour before seeding 
+(Practice 6.03, Surface Roughening).
+PLANT SELECTION
+Select an appropriate species or species mixture from Table 6.10a for seeding 
+in late winter and early spring, Table 6.10b for summer, and Table 6.10c for 
+fall.
+In the Mountains, December and January seedings have poor chances of 
+success.  When it is necessary to plant at these times, use recommendations 
+for fall and a securely tacked mulch.
+SEEDING
+Evenly apply seed using a cyclone seeder (broadcast), drill, cultipacker seeder, 
+or hydroseeder.  Use seeding rates given in Tables 6.10a-6.10c.  Broadcast 
+seeding and hydroseeding are appropriate for steep slopes where equipment 
+cannot be driven.  Hand broadcasting is not recommended because of the 
+difficulty in achieving a uniform distribution.
+Small grains should be planted no more than 1 inch deep, and grasses and 
+legumes no more than 1/2 inch.  Broadcast seed must be covered by raking 
+or chain dragging, and then lightly firmed with a roller or cultipacker. 
+Hydroseeded mixtures should include a wood fiber (cellulose) mulch.
+MULCHING
+The use of an appropriate mulch will help ensure establishment under normal 
+conditions, and is essential to seeding success under harsh site conditions 
+(Practice 6.14, Mulching).  Harsh site conditions include:
+• seeding in fall for winter cover (wood fiber mulches are not considered 
+adequate for this use),
+• slopes steeper than 3:1,
+• excessively hot or dry weather,
+• adverse soils (shallow, rocky, or high in clay or sand), and
+• areas receiving concentrated flow.
+If the area to be mulched is subject to concentrated waterflow, as in channels, 
+anchor mulch with netting (Practice 6.14, Mulching).
+6.10.2
+
+Practice Standards and Specifications
+Maintenance
+Reseed and mulch areas where seedling emergence is poor, or where erosion 
+occurs, as soon as possible.  Do not mow.  Protect from traffic as much as 
+possible.
+References
+Site Preparation
+6.03, Surface Roughening 
+6.04, Topsoiling
+Surface Stabilization
+6.11, Permanent Seeding 
+6.14, Mulching
+Appendix
+8.02, Vegetation Tables 
+ 
+6.10.3
+
+6
+6.10.4
+table 6.10a
+temporary seeding
+Recommendations for late
+winter and early spring
+seeding mixture
+        species
+Rate (lb/acre)
+Rye (grain)
+Annual lespedeza (Kobe in 
+Piedmont and Coastal Plain, 
+Korean in Mountains)
+120
+50
+Omit annual lespedeza when duration of temporary cover is not to 
+extend beyond June.
+seeding dates
+Mountains—Above 2500 feet: Feb. 15 - May 15 
+Below 2500 feet: Feb. 1- May 1
+Piedmont—Jan. 1 - May 1
+Coastal Plain—Dec. 1 - Apr. 15
+soil amendments
+Follow recommendations of soil tests or apply 2,000 lb/acre ground 
+agricultural limestone and 750 lb/acre 10-10-10 fertilizer.
+mulch
+Apply 4,000 lb/acre straw.  Anchor straw by tacking with asphalt, netting, 
+or a mulch anchoring tool.  A disk with blades set nearly straight can be 
+used as a mulch anchoring tool.
+maintenance
+Refertilize if growth is not fully adequate.  Reseed, refertilize and mulch 
+immediately following erosion or other damage.
+
+ 
+6.10.5
+Practice Standards and Specifications
+table 6.10b
+temporary seeding
+Recommendations for
+summer
+seeding mixture
+ 
+species
+German millet
+Rate (lb/acre)
+40
+In the Piedmont and Mountains, a small-stemmed Sudangrass may be 
+substituted at a rate of 50 lb/acre.
+seeding dates
+Mountains—May 15 - Aug. 15
+Piedmont—May 1 - Aug. 15
+Coastal Plain—Apr. 15 - Aug. 15
+soil amendments
+Follow recommendations of soil tests or apply 2,000 lb/acre ground 
+agricultural limestone and 750 lb/acre 10-10-10 fertilizer.
+mulch
+Apply 4,000 lb/acre straw.  Anchor straw by tacking with asphalt, netting, 
+or a mulch anchoring tool.  A disk with blades set nearly straight can be 
+used as a mulch anchoring tool.
+maintenance
+Refertilize if growth is not fully adequate.  Reseed, refertilize and mulch 
+immediately following erosion or other damage.
+
+6
+table 6.10c
+temporary seeding
+Recommendations for fall
+seeding mixture
+ 
+species
+Rye (grain)
+Rate (lb/acre)
+120
+seeding dates
+Mountains—Aug. 15 - Dec. 15
+Coastal Plain and Piedmont—Aug. 15 - Dec. 30
+soil amendments
+Follow soil tests or apply 2,000 lb/acre ground agricultural limestone 
+and 1,000 lb/acre 10-10-10 fertilizer.
+mulch
+Apply 4,000 lb/acre straw.  Anchor straw by tacking with asphalt, netting, 
+or a mulch anchoring tool.  A disk with blades set nearly straight can be 
+used as a mulch anchoring tool.
+maintenance
+Repair and refertilize damaged areas immediately.  Topdress with 50 
+lb/acre of nitrogen in March.  If it is necessary to extent temporary 
+cover beyond June 15, overseed with 50 lb/acre Kobe (Piedmont and 
+Coastal Plain) or Korean (Mountains) lespedeza in late February or 
+early March.
+6.10.6
+
+Rev. 5/08 
+6.11.1
+Practice Standards and Specifications
+PeRmanent seeding
+Definition
+Controlling runoff and erosion on disturbed areas by establishing perennial 
+vegetative cover with seed.
+Purpose
+To reduce erosion and decrease sediment yield from disturbed areas, to 
+permanently stabilize such areas in a manner that is economical, adapts to site 
+conditions, and allows selection of the most appropriate plant materials.
+Conditions Where 
+Practice Applies
+Fine-graded areas on which permanent, long-lived vegetative cover is the 
+most practical or most effective method of stabilizing the soil.  Permanent 
+seeding may also be used on rough-graded areas that will not be brought to 
+final grade for a year or more.
+Areas to be stabilized with permanent vegetation must be seeded or planted 
+within 15 working days or 90 calendar days after final grade is reached, unless 
+temporary stabilization is applied.
+Introduction
+During the initial phase of all land disturbing projects, the protective layer, either 
+natural or man-made, is removed from the earth’s surface.  As the protective 
+layer is removed, the resulting bare areas are exposed to the natural forces 
+of rainfall, freezing, thawing, and wind.  The result is soil erosion that leads 
+to sediment pollution of North Carolina streams, rivers, lakes, and estuaries.
+This design manual presents many alternative strategies for preventing erosion 
+and reducing sediment loss during the construction process.  Establishment 
+of protective vegetative cover during the construction project, however, is 
+the crucial step in achieving soil stabilization, controlling soil erosion, and 
+preventing sedimentation of waterways. Without a sufficient amount of root mat 
+and leaf cover to protect and hold the soil in place, large volumes of soil will be 
+lost and waterways will be degraded long after projects are considered complete.
+Sections of this practice standard address many of these various situations 
+and set forth selection criteria for the appropriate cover based on purpose and 
+adaptability.  Some sediment and erosion control practices recommended in 
+earlier editions of the manual may no longer be applicable.  For example, many 
+popular and commonly used seed and plant varieties have been identified as 
+invasive.  Invasive plants are defined as species that aggressively compete 
+with, and displace, locally adapted native plant communities.  In select cases 
+where no practical alternative is available, these plants may be considered on 
+a limited basis for soil stabilization, understanding that the goal is to eliminate 
+the use of all invasive plants in favor of non-invasive native and/or introduced 
+species that will provide an equally acceptable vegetative cover.  Where there is 
+no alternative to the use of invasive species, measures need to be incorporated 
+in the installation and maintenance of these plants to limit their impacts.
+6.11
+
+6
+6.11.2 
+Rev. 5/08
+It is imperative that disturbed soils be totally protected from erosion and sediment 
+loss during construction and before a project is considered complete and 
+acceptable.  Installing appropriate vegetation in an immediate and timely fashion 
+is the optimal means of achieving this stabilization.  Vegetative specifications 
+for most exposed soil conditions across North Carolina are provided in this 
+section of the manual. It should be noted however, that no two sites in the State 
+are exactly alike; therefore the protective vegetative cover for individual sites 
+should be carefully selected.  Each requires its own investigation, analysis, 
+design and vegetative prescription as set forth in this section of the manual.
+This practice standard describes three stages of vegetative cover; immediate, 
+primary and long term.  Effective and acceptable stabilization can be provided 
+only when the optimum combination of immediate, primary, and long term 
+vegetative practices are applied.
+The vegetative measures presented in this chapter include application of seed, 
+sod and sprigs.  Use of field and container grown plants are not addressed 
+in this manual.  Planting of these types of vegetation is typically at spacing 
+and intervals that will not provide the required protective cover.  However, 
+the design professional is encouraged to utilize these larger plants to 
+compliment the required protective cover, particularly where these types of 
+plants will provide seed for continued long term cover and wildlife habitat.
+PLANNING CONSIDERATIONS
+SOILS
+Test and analyze the type(s) and quality of the existing soils on a site, their pH 
+ranges, and their nutrient levels.  Taking soil samples from the different areas 
+of the project site and having them tested at a state or independent lab will 
+provide a baseline for determining the pH modifiers and additional nutrients 
+required for the selected plant varieties.
+Disturbed conditions on a site may produce a variety of soil communities. 
+Nutrient and pH levels in deeply cut soils will be quite different from those 
+soils found on the original surface.  When sites are highly disturbed through 
+mechanical means such as grading, the soils become mixed together in many 
+different ratios.  These areas should be identified and tested.
+Results from soil tests will usually include recommended application rates of 
+soil modifiers such as lime and fertilizer for the selected plant species in the 
+particular soils.  Application rates will be itemized in the report. 
+The texture of the soil on a site, which is the proportion of sand, silt, and clay 
+in the soil, is an important physical indicator of the site’s ability to support 
+vegetation.  In heavy clay soils amendments may be necessary to provide an 
+adequately drained planting medium.  Conversely, in extremely sandy soils, 
+amendments may be required to provide for moisture and nutrient retention.
+
+Practice Standards and Specifications
+Rev. 5/08 
+6.11.3
+Soil tests will indicate the texture of the given soil but will not 
+provide recommendations for amendments that will improve the soil 
+texture.  Generally, the addition of organic materials will improve the 
+porosity of heavy clay soils and improve the water holding capacity of 
+extremely sandy soils.  On sites where these different soil conditions 
+exist, it is recommended that a design professional with experience in 
+soil modification be employed to recommend the proper amendments. 
+For more information visit the NCDA Agronomic Services Soil Testing web 
+page http://www.agr.state.nc.us/agronomic/sthome.htm
+SOIL PREPARATION 
+Proper soil preparation is necessary for successful seed germination and root 
+establishment.  It is also necessary for establishment of rooted sprigs, sod and 
+woody plants. Heavily compacted soils prevent air, nutrients and moisture 
+from reaching roots thereby retarding or preventing plant growth.  The success 
+of site stabilization and reduction of future maintenance are dependent on an 
+adequately prepared soil bed.  Following are the requirements for preparation 
+of areas to be vegetated by grassing, sprigging, sodding, and/or planting of 
+woody plants:
+General Requirements:
+• Preparation for primary/permanent stabilization shall not begin until all 
+construction and utility work within the preparation area is complete. 
+However, it may be necessary to prepare for nurse crops prior to 
+completion of construction and installation of utilities. 
+• A North Carolina Department of Agriculture Soils Test (or equal) shall 
+be obtained for all areas to be seeded, sprigged, sodded or planted. 
+Recommended fertilizer and pH adjusting products shall be incorporated 
+into the prepared areas and backfill material per the test.
+• All areas to be seeded or planted shall be tilled or ripped to a depth specified 
+on the approved plans, construction sequence and/or construction bid 
+list.  Ripping consists of creating fissures in a criss-cross pattern over 
+the entire surface area, utilizing an implement that will not glaze the side 
+walls of the fissures.  Site preparation that does not comply with these 
+documents shall not be acceptable.  The depth of soil preparation may 
+be established as a range based on the approval of the reviewing state or 
+local agency.  Once tilled or ripped according to the approved plan, all 
+areas are to be returned to the approved final grade.  pH modifiers and/or 
+other soil amendments specified in the soil tests can be added during the 
+soil preparation procedure or as described below.
+• All stones larger than three (3) inches on any side, sticks, roots, and other 
+extraneous materials that surface during the bed preparation shall be 
+removed.
+
+6
+6.11.4 
+Rev. 5/08
+Areas to be Seeded:
+• Till or disc the prepared areas to be seeded to a minimum depth of four 
+(4) inches. Remove stones larger than three (3) inches on any side, sticks, 
+roots and other extraneous materials that surface.  If not incorporated 
+during the soil preparation process, add pH modifier and fertilizers at the 
+rate specified in the soil test report. 
+• Re-compact the area utilizing a cultipacker roller. The finished grade shall 
+be a smooth even soil surface with a loose, uniformly fine texture.  All 
+ridges and depressions shall be removed and filled to provide the approved 
+surface drainage.  Seeding of graded areas is to be done immediately after 
+finished grades are obtained and seedbed preparation is completed.
+Areas to be Sprigged, Sodded, and/or Planted:
+• At the time of planting till or disc the prepared areas to a depth of four (4) 
+to six (6) inches below the approved finished grade.  Remove all stones 
+larger than three (3) inches on any side, sticks, roots and other extraneous 
+materials that surface.  If not incorporated in the ripping process, add pH 
+modifier, fertilizer, and other recommended soil amendments.
+• Re-compact the area utilizing a cultipacker roller and prepare final grades 
+as described above.  Install sprigs, sod and plants as directed immediately 
+after fine grading is complete.  Mulch, mat and/or tack as specified.
+VEGETATION
+Availability of seed and plant materials is an important consideration of 
+any construction stabilization effort. Throughout North Carolina, climate, 
+economics, construction schedule delays and accelerations, and other factors 
+present difficult challenges in specifying the different vegetation needed for 
+site stabilization.  To help resolve this issue, vegetative stabilization requires 
+consideration in three categories:
+■ Immediate Stabilization – nurse crop varieties (Note:  temporary mulching 
+may be utilized for immediate stabilization if outlined on the approved 
+plans and construction sequence.)
+■ Primary Stabilization – plant varieties providing cover up to 3 years with 
+a specified maintenance program
+■ Long Term Stabilization – plant varieties providing protective cover with 
+maintenance levels selected by the owner
+An adequate job in one of these areas does not guarantee success in the later 
+phases.  Horticultural maintenance must be included in the plans.
+Immediate vegetative cover will always require additional fertilization, soil 
+amendments, soil tests, overseeding and/or other horticultural maintenance 
+until primary vegetative cover is established.
+
+Practice Standards and Specifications
+Rev. 5/08 
+6.11.5
+Where provisions are made for regular maintenance, primary vegetative 
+cover may be the end result.  An example of primary vegetative cover being 
+acceptable as an end use would be lawns in residential and commercial 
+developments that are established, monitored and complimented with regular 
+and approved horticultural maintenance practices.  (See Example 6.11.a.)
+In projects where continual maintenance will not be provided or scheduled 
+following the primary stabilization of a project, long-term stabilization will 
+be necessary.  Maintenance of initial and long-term stabilization can cease 
+only after the long-term cover has established and hardened to local climatic 
+conditions.  Maintenance of long-term vegetation must be included in the 
+project construction sequence and on the approved plans.  Examples of 
+areas suitable for long term vegetation include roadsides, reforestation areas, 
+restored flood plains, restored riparian areas, phased closing of landfills, and 
+mining reclamations. 
+Complete stabilization requires using at least two, and most times, all three 
+vegetative phases. The design professional must clearly communicate this point 
+in their specifications, construction sequence, and in direct communications 
+to owners and installers. The charts in tables 6.11.a through 6.11.d provide 
+information to assist the design professional in this task.  The tables are not 
+inclusive and are presented only as alternatives.  The professional is expected 
+and required to provide design and specifications that combine the information 
+in the manual with knowledge of the particular sites and their constraints.
+pH AND NUTRIENT AMENDMENTS
+Determining the nutrients that enable seed and container plants to grow, 
+flourish, and become established after planting are critical elements of the 
+design and stabilization process.  The soils tests previously described will 
+provide a recipe for amendments based on particular plants and particular 
+soils.  The test results will recommend the amounts of base elements (nitrogen, 
+phosphorous, potassium), pH modifiers and other trace elements that should to 
+be added to the soil for selected species of seeds and plants.
+The acid/base characteristic of the soil is a primary component of soil fertility. 
+If the soil acidity is not in the proper range, other nutrients will be ineffective, 
+resulting in less productive plant growth.  Most plants grow best in a pH range 
+of 6.5 – 7.0 (slightly acidic to neutral).  The soil tests will recommend the 
+specific amendments and application rates required to achieve this range. 
+These amendments must be incorporated into the soil (not applied on the 
+surface) to be effective.  (See the General Requirements for soil preparation 
+specifications and timing for incorporation of soil amendments.)
+The base elements are easily found in bulk quantities.  Lime can also be 
+obtained in large quantities. They all must be thoroughly incorporated into 
+the soil through appropriate mechanical means.  Ground surface applications 
+without proper soil mixing will result in poor results.
+In addition to the base fertilizers, other trace elements are needed to produce 
+healthy and vigorous growth. These include but may not be limited to sulfur, 
+manganese, zinc, boron, chlorine and molybdenum.  If not already included 
+with bulk mixes of the base elements, they can be obtained from commercial 
+suppliers.
+
+6
+6.11.6 
+Rev. 5/08
+Provisions for soils test during and/or after initial grading is complete shall 
+be included on the approved plan, in the approved construction sequence, and 
+on the bid item list utilized for the project.  If you did not obtain a soil test: 
+Follow these recommendations for all grasses except centipedegrass.
+1. Apply 75 pounds of ground limestone per 1,000 sq. ft.
+2. Apply a starter type fertilizer (one that is high in phosphorus) based on the 
+type of grass and planting method. Fertilizer bags have a three-number system 
+indicating the primary nutrients, such as 8-8-8 or 5-10-10. These numbers 
+denote the N-P-K ratio—the percentage of each nutrient in a fertilizer. The 
+percentages are always noted in the following order:
+N Nitrogen for green color and growth.
+P2O5 Phosphorus for good establishment and rooting.
+K2O Potassium to enhance pest and environmental stress tolerance.
+Some common examples of starter type fertilizers required for a 1,000 sq. 
+ft. area include 40 pounds of 5-10-10, 20 pounds of 10-20-20, or 16 pounds 
+of 18-24-6. For sandy soils, typical to coastal plain and sandhills of North 
+Carolina, fertilizer rates should be increased by 20 percent. 
+Where available, it is recommended that the design professional specify 
+organic compounds that meet the fertilization requirements, pH and other 
+element requirements.  Initial studies have indicated that these compounds 
+have a more positive effect on the environment than some of the synthetic 
+compounds used to manufacture inorganic fertilizers. These materials are 
+readily available in the commercial trade as well as found in recycled yard 
+waste debris, sewerage sludge, lime-stabilized sludge and animal manures. 
+Materials proposed for use must be industry certified and/or privately tested 
+and certified to be acceptable for proposed areas of use and application prior 
+to approval.
+MULCHES AND TACKING AGENTS
+Mulches and tacking agents may be required or necessary to protect a seedbed’s 
+disturbed surface until the seed can germinate and provide the required 
+protection from erosion.  Selection of the materials used in this application 
+should be based on their ability to hold moisture in the soil, as well as protect 
+exposed soil from rainfall, storm water runoff, and wind.  The availability of 
+the selected material and the means to apply it are critical factors to consider 
+when planning for the stabilization of any disturbed area.  The mulch must 
+cover a minimum of eighty (80) percent of the soil surface and must be secured 
+by a tacking agent, crimping, or protective biodegradable netting. Netting that 
+incorporates plastic mesh and/or plastic twine should not be used in wetlands, 
+riparian buffers or floodplains due to the potential of small animal mortality. 
+See Section 6.14 for detailed specifications and product applications.
+SOIL BLANKETS
+Soil blankets can be an acceptable and effective method of temporary sediment 
+and erosion control in lieu of nurse crops.  See Section 6.17 of the manual for 
+descriptions of this product and how it can be used in conjunction with this 
+section.  In absence of mulches and tracking agents other means of protection 
+may be necessary and required.
+
+Rev. 5/08 
+6.11.7
+Practice Standards and Specifications
+PROTECTIVE MATTING  
+Protective matting consists of an impervious cover secured to the soil surface 
+in lieu of vegetative cover.  It is used to protect and stabilize the surface where 
+the process of seeding or planting forms of vegetation may cause more erosion 
+and off-site sedimentation than application of the mat.  It is also used where a 
+disturbed area is intended to lay fallow for a period of time before additional 
+construction or land disturbance takes place.  If a pervious matting is selected, 
+a combination of vegetation and matting is required.  Seeds can be applied 
+prior to installation of the matting only after proper seedbed preparation 
+has been provided.  Also, live stakes, dormant sprigs, and other vegetation 
+forms can be inserted in the pervious matting once it has been installed.  Pre-
+seeded pervious matting may be used for quicker root establishment and 
+stabilization only if certified dating and germination guarantees are provided. 
+The reviewing agency must approve all pre-seeded matting on site prior to 
+installation.  Matting that incorporates plastic mesh and/or plastic twine should 
+not be used in wetlands, riparian buffers or floodplains due to the potential 
+of small animal mortality.  See Section 6.17 for detailed specifications and 
+recommended product applications.
+STABILIzATION IN WETLANDS, RIPARIAN BUFFERS, AND 
+FLOODPLAINS
+Land disturbing activity involving streams, wetlands or other waterbodies 
+may also require permitting by the U.S. Army Corps of Engineers or the N.C. 
+Division of Water Quality. Approval of an erosion and sedimentation control 
+plan is conditioned upon the applicant’s compliance with federal and State 
+water quality laws, regulations, and rules. Additionally, a draft plan should be 
+disapproved if implementation of the plan would result in a violation of rules 
+adopted by the Environmental Management Commission to protect riparian 
+buffers along surface waters. Care should be taken in selecting vegetative 
+stabilization of wetlands and riparian buffers to comply with permitting 
+requirements of other agencies, as well as provide adequate ground cover.
+Planning Considerations for Land Disturbing Activities Within Wetland, 
+Riparian, and Floodplain Areas
+Wetlands, riparian areas, floodplains, and/or terrestrial areas between streams 
+and uplands, serve to buffer surface water and provide habitat for aquatic and 
+terrestrial flora and fauna.  When cleared and disturbed, these sensitive areas 
+are difficult to protect.  Because of their proximity to water courses, relatively 
+high ground water tables, and flooding potential, detailed analysis and design 
+is necessary to determine the appropriate erosion control measures during 
+construction.  Determining the appropriate and most expeditious means of 
+permanent vegetative stabilization in these areas requires equally detailed 
+analysis and design.  The following considerations for erosion control and 
+stabilization should be taken into account during the design phase of the land 
+disturbing project where sensitive areas are involved:
+• Obtain soil tests to determine the soil type, pH, texture and available 
+nutrients.
+• Based on the soil tests provide a schedule of nutrients and other soil 
+amendments that will be required.
+
+6
+6.11.8 
+Rev. 5/08
+• Select a seeding mix of non-invasive species that will provide immediate 
+stabilization (a short-term environment that will support and compliment 
+permanent vegetative stabilization) and include a selective native 
+species mix that will eventually provide a permanent cover (a long-term 
+environment that, with minimal maintenance, will provide adequate root 
+and leaf cover).
+• Invasive species are to be avoided.  If native species and introduced non-
+invasive seed sources are not available, protective matting that will hold 
+and foster the development of native cover from adjacent seed sources 
+should be used.  Continuous maintenance must be employed until the 
+selected species have matured and are no longer susceptible to competition 
+from invasive plants.  If no alternative to the use of invasive seeds and 
+plants is available, invasives approved on the plans may be utilized only 
+with strict containment measures outlined in detail on the plans, in the 
+construction sequence and in the maintenance specifications.
+• A quickly germinating nurse crop of non-invasive, non-competitive annual 
+grass species can be used along with native seeding and/or matting.  These 
+temporary systems should be planted at minimal density so that they do 
+not inhibit the growth and establishment of the permanent, native species. 
+(See the plant chart in Table 6.11.a for recommended native and nurse 
+crop species.)
+• Seed bed preparation is key to successful establishment of seeds.  Particular 
+care should be taken, however, when working in wetlands, riparian areas, 
+or floodplains due to their sensitive nature.  Careful consideration should 
+be given to the types and placement of large equipment working in these 
+areas.  This process must be outlined in detail on the plan’s construction 
+sequence.
+• Installation techniques vary and should be planned for accordingly.
+• A maintenance plan must be established for optimal plant establishment, 
+submitted with the plans and included in the bid list for the project.
+Like all construction sites, wetlands, riparian areas, and floodplains will vary 
+widely in physical makeup across North Carolina.  Different conditions will 
+dictate specific treatment, design and plant selection within the Mountains, 
+Piedmont, and Coastal Plain regions.  Soil tests, seedbed preparation, 
+mulching, matting, and maintenance will be critical for successful vegetative 
+establishment and long-term protection of these environmentally sensitive 
+areas.  Unavoidable impacts to these areas during land disturbing activities 
+need to be addressed in detail on the plan sheets and construction sequence.
+
+Rev. 5/08 
+6.11.9
+Practice Standards and Specifications
+Native Seed and Plant Selection for Stabilization of Wetlands, Riparian 
+Areas, and Floodplains
+Upon the completion of the land disturbing activity, vegetative cover must 
+be established on all areas not stabilized by other means.  If work in these 
+areas stops for more than 15 working days, temporary vegetative cover and/
+or matting must be applied to all disturbed areas.  The goal is to protect these 
+areas from erosion and to prevent sedimentation of adjacent streams, wetlands, 
+lakes, and other water bodies.
+Planning considerations for wetlands, riparian areas and floodplains will 
+require additional research, detail and specifications.  Native grasses are 
+usually required as a condition of a 401 Water Quality Certification or a trout 
+buffer variance.
+Native vegetative species are plant species that naturally occur in the region in 
+which they evolved.  These plants are adapted to local soil types and climatic 
+variations.  Because most native species do not germinate and establish as 
+readily as some introduced species, it is necessary to provide a non-native 
+nurse crop or matting to stabilize the soil until the native crop can become 
+established as the dominant cover.  Once established, the native plants will 
+produce an extensive root structure that, if properly maintained, will stabilize 
+soils and reduce erosive forces of rainfall and overland stormwater flow.  Many 
+of these plants also possess characteristics that, when established, allow them 
+not only to survive, but also to thrive under local conditions.
+Seeding a mixture of perennial native grasses, rushes, and sedges is a way 
+to establish permanent ground cover within wetlands, riparian areas and 
+floodplains.  The use of propagated plants is another method of reestablishing 
+natives in these environments.  Selecting a seed mixture and/or propagated 
+plants of different species with complimentary characteristics will provide 
+vegetation to fill select niches on sites with varying physical conditions. 
+The design professional should note that because most native species do not 
+germinate and establish as readily as some introduced species, it is necessary 
+to provide a non-native nurse crop or matting to stabilize the soil until the 
+native crop can become established as the dominant cover.  For additional 
+information about acceptable nurse crop varieties, consult the planting list in 
+Appendix 8.02, local seed and plant suppliers, the North Carolina Cooperative 
+Extension Service or a qualified design professional to assure the proper 
+selection and plant mix.
+
+6
+6.11.10 
+Rev. 5/08
+Permanent native seed species within the seed mixture should be selected 
+based on natural occurrence of each species in the project site area.  Climate, 
+soils, topography, and aspect are major factors affecting the suitability of plants 
+for a particular site and these factors vary widely across North Carolina, with 
+the most significant contrasts occurring among the three major physiographic 
+regions of the state – Mountains, Piedmont, and Coastal Plain.  Sub-regions 
+of the state should also be considered.  For example, the Triassic Basin in the 
+Piedmont region may have characteristics that call for special soil treatment, 
+limited plant selection, and special maintenance.  Even within the riparian 
+area, there may be need for different species depending on site conditions 
+(i.e., dry sandy alluvial floodplains with wet pockets).  Therefore, thoughtful 
+planning is required when selecting species for individual sites in order to 
+maximize successful vegetation establishment.
+Native seed and plant species are included on the plant list in Appendix 8.02 
+of this manual. 
+The design professional should note that regardless of the benefits and 
+advantages of native seeds and plants, there are potential issues if proper 
+planning, installation and maintenance do not occur.  These may include:
+• Potential for erosion or washout during the establishment stage;
+• Seasonal limitation on suitable seeding dates and availability of seed and 
+plants;
+• Adaptability of species at specific sites;
+• Availability of water and appropriate temperatures during germination 
+and early growth; and
+• Lack of maintenance to control invasive plants and undesirable 
+competition.
+PLANTING
+• Seed – Prepare the seed bed as described above in soil preparation.  Apply 
+seed at rates specified on the plans, and/or as recommended in Tables 
+6.11a-c of this manual, with a cyclone seeder, prop type spreader, drill, 
+or hydroseeder on and/or into the prepared bed.  Incorporate the seed 
+into the seed bed as specified.  Provide finished grades as specified on 
+the approved plan and carefully culti-pack the seedbed as terrain allows. 
+If terrain does not allow for the use of a cultipacker, the approved plans 
+and construction sequence must provide an alternative method of lightly 
+compacting the soil.  Mulch immediately.
+• Sprigs and Sod – Install onto the prepared seed bed per the most current 
+guidance in Carolina Lawns, NCSU Extension Bulletin AG-69, or Practice 
+6.12 Sodding.
+
+Rev. 5/08 
+6.11.11
+Practice Standards and Specifications
+ • Woody plants (liners, container, B&B) – These materials are typically 
+used to complement an herbaceous protective cover.  They eventually 
+are major components of long-term, permanent stabilization and should 
+be chosen and planned in conjunction with immediate and long-term 
+maintenance.  The plants should be selected and specified by the design 
+professional for each individual project.  See Practice 6.13 Trees, Shrubs, 
+Vines, and Ground Covers.
+MAINTENANCE 
+The absence of or an incomplete landscape management specification and/
+or complete maintenance schedule shall constitute grounds for disapproval of 
+the plans. Proper maintenance is critical for the continued stabilization once 
+vegetative cover is established.  Although maintenance strategies for different 
+sites may be similar, no two construction sites in North Carolina have been 
+or will be able to be controlled or protected in identical ways.  Variations in 
+climate, topography, soils, available moisture, size and many other conditions 
+will dictate the maintenance methodology to be used.  A detailed schedule of 
+maintenance will be required on the plans. This schedule will illustrate how 
+the initial planting will be maintained to assure immediate, short term and 
+permanent protection.  The schedule will address topics such as appropriate 
+irrigation of plants during the early establishment phase, drought conditions, 
+excessive rainfall, mulch replacement, supplemental seeding, supplemental 
+soils tests, application of nutrients and amendments, control of competitive 
+and invasive species, disease and insect control, and corrective maintenance, 
+measures to address failure of vegetation to become established.  Contractual 
+responsibility for maintenance after initial establishment of vegetative cover 
+will be provided on the plans, in the construction sequence and on the bid list 
+for the project.  Maintenance bonds and/or warranty guarantee may be required 
+of the responsible party, especially for areas in or adjacent to environmentally 
+sensitive sites such as wetlands, riparian buffers, floodplains, and waters of 
+the State.  See Example 6.11a for a sample maintenance specification and a 
+minimum maintenance check list that shall be provided on all plans.
+RECOMMENDED BID LIST
+(These items should be itemized on documents utilized to obtain pricing for 
+planting pertaining to vegetative stabilization of land disturbing projects in 
+North Carolina.)
+• Soil test prior to grading (price per each test).
+• Soil test during grading operations (price per each test).
+• Soil test at completion of grading and/or prior to seeding, sprigging, 
+sodding and application of fertilizer, lime, and other soil amendments 
+(price per each test).
+• Ripping/subsoiling to a depth of six (6) inches.  (Provide an alternate for 
+ripping to a depth greater than six (6) inches.)  (price per acre)
+• Tilling/discing ripped area to a depth of four (4) inches and re-compacting 
+with a cultipacker roller (include in seeding price).
+
+6
+6.11.12 
+Rev. 5/08
+• Seeding (price per square foot).
+• Mulching (price per square foot).
+• Repair seeding (price per square foot).
+• Repair mulching (price per square foot).
+• Matting (price per square yard).
+• Watering (price per thousand gallons).
+• Mowing (price per square foot).
+SEEDING RECOMMENDATIONS
+The following tables list herbaceous plants recommended for use as nurse 
+crops for immediate stabilization and primary crops for initial and long-term 
+stabilization.  Nurse crops are expected to develop in two to five weeks and, 
+with adequate maintenance, be an effective method of soil stabilization for 
+a period of six months to one year.  Nurse crops are not effective as primary 
+long-term cover, however if properly maintained they can be an adequate 
+cover and protection for the development of primary crops.
+The goal for a primary crop is for it to develop over a three-week to one-year 
+period and be effective up to three years with a well-defined maintenance 
+program.  The long-term goal for a primary crop is the initial step toward 
+a sustainable protective cover without the need of maintenance. Where the 
+primary crop is intended for a managed lawn and landscape aesthetics, the 
+effective period can be extended by a more intense maintenance program. 
+Where native species are utilized and become established during the planned 
+maintenance program, a permanent cover that will support future succession 
+species should exist and require little or no additional maintenance or 
+management.
+In uses of both nurse and primary crops, the development periods listed on the 
+tables are optimal based on normal climatic conditions for the planting dates 
+listed.  The sediment and erosion control maintenance program must recognize 
+that optimum temperatures and rainfall are the exception rather than the rule. 
+The design professional needs to provide flexibility in the stabilization plan 
+to address the potential ranges of temperature and moisture conditions we 
+experience in North Carolina. 
+
+Practice Standards and Specifications
+Rev. 5/08 
+6.11.13
+Information is provided for seeding rates, optimum planting dates in the state’s 
+three regions, sun and shade tolerance, invasive characteristics, compatibility 
+in wetlands and riparian buffers, and installation maintenance considerations. 
+By going through the lists the design professional can select the nurse and 
+primary seed varieties and maintenance characteristics they feel are best suited 
+for their site conditions, vegetation management expertise and maintenance 
+capabilities. 
+To use the information in the seeding charts the plan preparer must: 
+• Determine what nurse crop best fits their site, soil conditions, and 
+permanent seed mix. 
+• Obtain soil tests for all areas to be seeded. 
+• Know the site’s region: mountains, piedmont, or coastal plain. 
+• Know if the areas to be seeded are sunny, part shade, or full shade. 
+• Know if the areas are well or poorly drained. 
+• Know if wetlands or riparian buffers are included in the areas to be 
+seeded. 
+• Know if a chosen crop is invasive and if so, what potential impacts it will 
+have on the site and adjacent properties.
+With this knowledge the plan preparation may proceed utilizing the charts 
+provided to provide the several seed mixes that will be applicable to the 
+different areas requiring stabilization.
+
+6
+6.11.14 
+Rev. 5/08
+
+Practice Standards and Specifications
+Rev. 5/08 
+6.11.15
+
+6
+6.11.16 
+Rev. 5/08
+HERBACEOUS PLANTS-Seeding recommendations for  primary stabilization
+Successfull development depends on planting date (effectiveness goal: 6 mo. - 3 yrs. without an ongoing maintenance program)
+           NATIVE SPECIES 
+            Optimal Planting Dates 
+Common Name
+Botanical Name / 
+Cultivar
+Native / 
+Introduced 
+See Table 
+Fertilization/ 
+limestone  
+lbs/acre
+Mountains
+Piedmont
+Coastal 
+Plains 
+Sun/Shade 
+tolerant 
+Wetlands
+Riparian 
+Buffers
+Invasive  
+Yes or 
+No
+Installation / Maintenance 
+Considerations
+Other information,              
+commentary 
+Switchgrass
+Panicum virgatum /
+N
+A
+By soil test
+12/1-4/15
+NR
+NR
+Sun
+NR
+Well drained
+No
+Responds well to 
+Cave-in-Rock
+only
+controlled burns.  Mix with
+3 to 5 other seed varieties
+that have similar soil
+drainage adaptations.
+Switchgrass
+Panicum virgatum / 
+A
+By soil test
+12/1-4/15
+12/1 - 4/1
+12/1-4/1
+Sun
+NR
+Well drained
+No
+Responds well to
+Blackwell
+N
+only
+controlled burns.  Mix with
+3 to 5 other seed varieties
+that have similar soil
+drainage adaptations.
+Switchgrass
+Panicum virgatum /
+N
+A
+By soil test
+12/1-4/15
+12/1 - 4/1
+12/1-4/1
+Sun
+NR
+Well drained
+No
+Responds well to
+Shelter
+only
+controlled burns.  Mix with
+3 to 5 other seed varieties
+that have similar soil
+drainage adaptations.
+Switchgrass
+Panicum virgatum /
+N
+A
+By soil test
+12/1-4/15
+12/1 - 4/1
+12/1-4/1
+Sun
+Yes
+Yes
+No
+Responds well to
+Carthage
+controlled burns.  Mix with
+3 to 5 other seed varieties
+that have similar soil
+drainage adaptations.
+Switchgrass
+Panicum virgatum /
+N
+A
+By soil test
+12/1-4/15
+12/1 - 4/1
+12/1-4/1
+Sun
+No
+Poorly
+No
+Responds well to
+Kanlow
+drained
+controlled burns.  Mix with
+3 to 5 other seed varieties
+that have similar soil
+drainage adaptations.
+Switchgrass
+Panicum virgatum /
+N
+A
+By soil test
+NR
+12/1 - 5/1
+1/1 - 5/1
+Sun
+No
+Poorly
+No
+Responds well to
+Alamo
+drained
+controlled burns.  Mix with
+3 to 5 other seed varieties
+that have similar soil
+drainage adaptations.
+Indiangrass
+Sorghastrum nutans /
+N
+B
+By soil test
+12/1-4/15
+12/1 - 4/1
+12/1-4/1
+Sun
+NR
+Well
+No
+Responds well to
+Western coastal plain only
+Rumsey
+drained
+controlled burns.  Mix with
+3 to 5 other seed varieties
+that have similar soil
+drainage adaptations.
+Indiangrass
+Sorghastrum nutans /
+N
+B
+By soil test
+12/1-4/15
+12/1 - 4/1
+12/1-4/1
+Sun
+NR
+Well
+No
+Responds well to
+Western coastal plain only
+Osage
+drained
+controlled burns.  Mix with
+3 to 5 other seed varieties
+that have similar soil
+drainage adaptations.
+Table 6.11.c 
+6.
+  
+.d for
+variety
+ 
+11
+seedling rates
+
+Practice Standards and Specifications
+Rev. 5/08 
+6.11.17
+HERBACEOUS PLANTS-Seeding recommendations for  primary stabilization
+Successfull development depends on planting date (effectiveness goal: 6 mo. - 3 yrs. without an ongoing maintenance program)
+           NATIVE SPECIES 
+            Optimal Planting Dates 
+Common Name
+Botanical Name / 
+Cultivar
+Native / 
+Introduced 
+Fertilization/ 
+limestone  
+lbs/acre
+Mountains
+Piedmont
+Coastal 
+Plains 
+Sun/Shade 
+tolerant 
+Wetlands
+Riparian 
+Buffers
+Invasive  
+Yes or 
+No
+Installation / Maintenance 
+Considerations
+Other information,              
+commentary 
+Cheyenne
+drained
+drainage adaptations.
+Indiangrass
+Sorghastrum nutans /
+N
+B
+By soil test
+NR
+12/1 - 5/1
+1/1 -5/1
+Sun
+NR
+Well
+No
+Responds well to
+Only Indiangrass adaptable to
+Lomenta
+drained
+controlled burns.  Mix with
+Eastern coastal plain (Zone 8)
+3 to 5 other seed varieties
+that have similar soil
+drainage adaptations.
+Deertongue
+Dichanthelium
+N
+C
+By soil test
+5/1-4/15
+5/1 - 4/1
+NR
+Sun &
+Yes
+Poorly
+No
+Responds well to
+clandestinum / Tioga
+Shade
+drained to
+controlled burns.  Mix with
+drought
+3 to 5 other seed varieties
+that have similar soil
+drainage adaptations.
+Big Bluestem
+Andropogon gerardii /
+N
+D
+By soil test
+12/1-4/15
+12/1 - 4/1
+NR
+Sun
+NR
+Welll
+No
+Responds well to
+Warm season grass
+Rountree
+drained
+controlled burns.  Mix with
+3 to 5 other seed varieties
+that have similar soil
+drainage adaptations.
+Big Bluestem
+Andropogon gerardii /
+N
+D
+By soil test
+12/1-4/15
+12/1 - 4/1
+NR
+Sun
+NR
+Welll
+No
+Responds well to
+Warm season grass
+Kaw
+drained
+controlled burns.  Mix with
+3 to 5 other seed varieties
+that have similar soil
+drainage adaptations.
+Big Bluestem
+Andropogon gerardii /
+N
+D
+By soil test
+12/1-4/15
+12/1 - 4/1
+12/1-5/1
+Sun
+NR
+Welll
+No
+Responds well to
+Warm season grass
+Earl
+drained
+controlled burns.  Mix with
+3 to 5 other seed varieties
+that have similar soil
+drainage adaptations.
+Little Bluestem
+Schizachyrium
+N
+E
+By soil test
+12/1-4/15
+NR
+NR
+Sun
+NR
+Welll
+No
+Responds well to
+Warm season grass
+scoparium / Aldous
+drained
+controlled burns.  Mix with
+3 to 5 other seed varieties
+that have similar soil
+drainage adaptations.
+Little Bluestem
+Schizachyrium
+N
+E
+By soil test
+12/1-4/15
+12/1 - 4/1
+NR
+Sun
+NR
+Welll
+No
+Responds well to
+Warm season grass
+scoparium / Cimmaron
+drained
+controlled burns.  Mix with
+3 to 5 other seed varieties
+that have similar soil
+drainage adaptations.
+Table 6.11.c (con't)
+Indiangrass
+Sorghastrum nutans /
+N
+B
+By soil test
+12/1-4/15
+12/1 - 4/1
+12/1-4/1
+Sun
+NR
+Well
+No
+Western coastal plain only
+Responds well to controlled 
+varieties that have similar soil
+burns. Mix with 3 to 5 other seed
+See Table 
+6. .d for
+variety
+11
+seedling rates
+
+6
+6.11.18 
+Rev. 5/08 
+HERBACEOUS PLANTS-Seeding recommendations for  primary stabilization
+Successfull development depends on planting date (effectiveness goal: 6 mo. - 3 yrs. without an ongoing maintenance program)
+           NATIVE SPECIES 
+            Optimal Planting Dates 
+Common Name
+Botanical Name / 
+Cultivar
+Native / 
+Introduced 
+Fertilization/ 
+limestone  
+lbs/acre
+Mountains
+Piedmont
+Coastal 
+Plains 
+Sun/Shade 
+tolerant 
+Wetlands
+Riparian 
+Buffers
+Invasive  
+Yes or 
+No
+Installation / Maintenance 
+Considerations
+Other information,              
+commentary 
+3 to 5 other seed varieties
+that have similar soil
+drainage adaptations.
+Sweet Woodreed
+Cinna arundinacea
+N
+F
+By soil test
+12/1-4/15
+12/1 - 4/1
+12/1-4/1
+Sun &
+Yes
+Poorly to
+No
+Mix with 3 to 5 other seed
+Warm season grass
+mod. Shade
+well drained
+varieties that have similar
+soil drainage adaptations
+Rice Cutgrass
+Leersia oryzoides
+N
+G
+By soil test
+12/1-4/15
+12/1 - 4/1
+12/1-4/1
+Sun
+Yes
+Poorly
+No
+Mix with 3 to 5 other seed
+Warm season grass
+drained
+varieties that have similar
+soil drainage adaptations
+Indian Woodoats
+Chasmanthium latifolium
+N
+H
+By soil test
+3/1 - 5/15
+2/15 - 4/1 2/15-3/20
+Sun &
+NR
+Well
+No
+Mix with 3 to 5 other seed
+Cool season grass
+7/15-8/15 8/15 - 10/159/1 - 11/1 mod. Shade
+drained
+varieties that have similar
+soil drainage adaptations
+Virginia Wild Rye
+Elymus virginicus
+N
+I
+By soil test
+3/1 - 5/15
+2/15 - 4/1 2/15-3/20
+Sun &
+NR
+Well
+No
+Mix with 3 to 5 other seed
+Cool season grass
+7/15-8/15 8/15 - 10/159/1 - 11/1 mod. Shade
+drained
+varieties that have similar
+soil drainage adaptations
+Elymus hystrix
+N
+J
+By soil test
+3/1 - 5/15
+2/15 - 4/1
+NR
+Sun &
+NR
+Well
+No
+Mix with 3 to 5 other seed
+Cool season grass
+7/15-8/15 8/15 - 10/15
+mod. Shade
+drained
+varieties that have similar
+soil drainage adaptations
+Soft Rush
+Juncus effusus
+N
+K
+By soil test
+12/1 - 5/15 12/1 - 5/1 12/1-4/15
+Sun
+Yes
+Poorly
+No
+Mix with 3 to 5 other seed
+8/15-10/15 9/1 - 11/1
+drained
+varieties that have similar
+soil drainage adaptations
+Shallow Sedge
+Carex lurida
+N
+L
+By soil test
+12/1 - 5/15 12/1 - 5/1 12/1-4/15
+Sun
+Yes
+Poorly
+No
+Mix with 3 to 5 other seed
+8/15-10/15 9/1 - 11/1
+drained
+varieties that have similar
+soil drainage adaptations
+Fox Sedge
+Carex vulpinoidea
+N
+L
+By soil test
+12/1 - 5/15 12/1 - 5/1 12/1-4/15
+Sun
+Yes
+Poorly
+No
+Mix with 3 to 5 other seed
+8/15-10/15 9/1 - 11/1
+drained
+varieties that have similar
+soil drainage adaptations
+NOTE:
+1. Seeding rates are for hulled seed unless otherwise noted.
+2. Fertilizer & Limestone - rates to be applied in absense of soils tests.  Recommended application rate assumes significantly disturbed site soils with little or no residual value.  
+3. NR means Species not recommended for this region or application area. 
+4. Native, warm season grasses require six or more months to germinate under optimum conditions.  If they are planted in the summer, then a whole y ear will have to pass before they germinate. 
+5. Invasive designation as determined by the N.C. Exotic Pest Pant Council and N.C. Native Plant Society . 
+6. Sprigging is not recommended for immediate stabilization unless terrain is flat, heavymulch is applied and no other immediate stabilization method is practical.
+7. Sodding for immediate stabilization - see primary stabilization charts  (other information column) and Section 
+.
+8. Long term stabilization can only be accomplished with an adequate, immediate, and primary stabilization program.  To achieve long term protective cover with the species listed in
+Table 6.11.c (con't)
+Little Bluestem
+Schizachyrium
+N
+E
+By soil test
+NR
+NR
+12/1-4/1
+Sun
+NR
+Welll
+No
+Responds well to
+Warm season grass
+scoparium / Common
+drained
+controlled burns.  Mix with
+Eastern Bottlebrush
+Grass
+See Table 
+6. .d for
+variety
+11
+seedling rates
+6. 2
+1
+
+Rev. 5/08 
+6.11.19
+Practice Standards and Specifications
+
+6
+6.11.20 
+Rev. 5/08
+Following is an outline that demonstrates what should be included in specifications that will insure the long term 
+stabilization of disturbed sites in North Carolina.  As noted before in this manual, each construction site in the 
+state is unique and has features that will require special provisions for revegetation and stabilization.  The outline 
+provided below cannot address these individual sites.  It is the responsibility of the design professional and the 
+financially responsible party to see that the specifications are edited to fit their site and to assure that permanent 
+stabilization is achieved.
+General Provisions
+A. Intent:
+1. These specifications are prepared with the intent of promoting outstanding performance in long- 
+term stabilization.  They are to be used as guidelines in establishing sediment control and vegetative standards 
+for the sites.  Final technical decisions such as herbicides, fertilizer ratios, times of application and schedules 
+are to be determined by the Contractor, who has the responsibility to obtain soil test and to manage the 
+vegetation to achieve the desired results.  The maintenance specifications must address maintenance for 
+sediment and erosion control vegetation during construction and for permanent/long-term stabilization.
+B. Description of Work:
+1. Perform all work necessary and required for the (insert period of contract) maintenance of the project as 
+indicated on the drawings, in the project manual, and specified herein.
+2. Licensing:
+a) Contractor shall provide verification of current, applicable pesticide applicator licensing for 
+each applicator that will handle pesticides on the contracted sites.
+3.  Contract Administration
+a) Staffing:  The Contractor shall provide adequate staffing, with the appropriate expertise, to 
+perform all required work.
+b) Monthly Site Review meetings will be held.  Attendees will include the Contractor’s Project 
+Manager and Site Foreman and the property manager or other representative designated by the 
+financially responsible party.  Result of site reviews will be documented and circulated to the 
+attendees and the owner by the contractor.
+c) The Contractor will communicate with the proper person on a monthly basis to summarize 
+work performed and immediately notify the project manager of any failure of the site to remain 
+stabilized.
+II. Materials
+A. Soil Additives:  Additives are to be applied per soils test taken prior to, during and after construction.  (Use 
+this section to provide the types and quantities of fertilizers, lime, and other soil amendments called for in 
+the soils report.  Include all soils test reports in the specifications document. This narrative or list should 
+include quantities, rates, mixes, organic information, manufacturer, sources, and other information 
+suggested in the soils test.) 
+Example 6.11.a GUIDELINES FOR WRITING MINIMUM LANDSCAPE MANAGEMENT SPECIFICATIONS
+
+Rev. 5/08 
+6.11.21
+Practice Standards and Specifications
+A. Pesticides:
+1. Establish an Integrated Pest Management (IPM) program for the site that relies on targeted insect and 
+disease control coupled with sound stabilization management and water management practices.
+2. These specifications do not include pesticide treatments for infestations of Southern Pine Beetle, Gypsy 
+Moth, or Fire Ants.  The contractor shall notify the Owner if these pests are observed on site.
+3. All pesticides shall be applied by a North Carolina licensed applicator in accordance with all State and 
+Federal regulations and per manufacturer’s recommendations.
+B. Mulches:  Mulch for areas not subject to erosion and over wash by storm water should be called out in 
+this section addressing its maintenance, replacement, removal and conversion to other uses.  Those subject to 
+erosion and over wash by storm water must be addressed on the plans and in the calculations.
+III. Execution
+A. General:
+1. Good long term stabilization is based on the proper maintenance, management and balance of nutrients, 
+soil moisture and general cultural practices.  It is recognized that fewer fungicide and pesticide treatments as 
+well as lower fertility rates are required with a well managed, balanced landscape.  The following section is 
+meant to promote this balance and therefore do not highlight specific quantitative standards.  (Quantitative 
+standards should be addressed as site specific by the design professional in conjunction with the 
+owner and contractor.)  Calendar references are general and are to be used only as a guide.  Weather and 
+soil conditions that are most appropriate for a given process, procedure and/or area of the state shall be the 
+determining factor in scheduling work.
+B. Soil Tests:
+1. After the soil test prior to stabilization, tests shall be made yearly in the fall to determine the required soil 
+additives for all stabilized areas.  If known nitrogen requirements are not specified by previous test, they 
+need to be determined by the subsequent soils test and the proper applications made.  Fertilizer ratios may 
+be determined through analysis of the soil tests coupled with the contractor’s experience and knowledge of 
+the site.
+C. Mowing
+1. Mowing for maintained turf/lawns 
+a. 
+Mow areas intended for “groomed appearance” on a schedule during the growing season 
+and as required throughout the year to provide the desired appearance. (Establish a mowing 
+frequency here that addresses the specific plant species used and their growing habits.)  This 
+frequency will be a minimum standard.  Particular properties and their peculiar characteristics 
+as well as individual plant species may require mowing more often than the stated minimum 
+may be required.  This should be noted in this section. 
+b. 
+The range of turf species suggested for lawns in the three growing regions of North Carolina 
+vary as to optimum maintained height.  The selected species should be maintained at a height 
+recommended by the seed producer. Do not cut too short and do not allow the turf to attain 
+a height that will cause the crop to decline or die.  Consult individual seed producers and/or 
+packaging for recommended mowing heights.
+c. 
+Mow with a mulching mower to limit the amount of clippings removed, or mow and blow in 
+such a manner that clippings are not evident and not to adversely effect the growing capacity 
+
+6
+6.11.22 
+Rev. 5/08
+and/or health of the existing vegetation turf.  It is important clippings are allowed to remain 
+spread throughout the lawn area, to the extent possible, so that they might aid in building a 
+more productive soil profile and root zone.   
+2.   Mowing other stabilized areas to promote continued growth.  Include mowing specification here for other 
+stabilized areas which require maintenance but not a “groomed” appearance.  Also include specifications 
+for mowing areas where it is desirable for woody native volunteer vegetation to become established.  This 
+should include attention to mowing stakes or other way of protecting the desired woody natives from the 
+mowing operation.
+D. Watering
+1. Irrigation System Maintenance and Monitoring:  If stabilized areas are to be irrigated the design 
+professional should include specifications for the system, its maintenance and its operation in this section. 
+2. In the absence of an automatic or manual irrigation system, provisions for providing adequate water to 
+stabilized areas should be addressed in this section. 
+3. (Provisions should be made in this section for adjustments to application rates of water during 
+times of regulated droughts and/or periods of excessive rainfall.)
+E. CONTROL OF INVASIVES:  Competition from invasive species can be detrimental to the establishment 
+of the permanent vegetative cover.  Left unchecked, these invasives can undermine a revegetation process in 
+a short period of time and eventually lead to unprotected soil and sediment damage.  Make site observations 
+monthly to check for the presence of such species and, if found, treat them immediately with the appropriate 
+cultural practices and/or by the use of seasonally-appropriate and site appropriate herbicides.
+F. Maintenance items including fertilization, mowing, continued soils testing, repair, mulching, matting and 
+soil preparation are to be addressed in the approved construction sequence and on the project bid list.
+
+ 
+6.12.1
+Practice Standards and Specifications
+sodding
+Definition
+Permanently stabilizing areas by laying a continuous cover of grass sod.
+Purpose
+To prevent erosion and damage from sediment and runoff by stabilizing the 
+soil surface with permanent vegetation where specific goals might be:
+• to provide immediate vegetative cover of critical areas,
+• to stabilize disturbed areas with a suitable plant material that cannot be 
+established by seed, or
+• to stabilize drainageways, channels, and other areas of concentrated flow 
+where flow velocities will not exceed that specified for a grass lining 
+(Appendix 8.05).
+Conditions Where 
+Practice Applies
+Disturbed areas which require immediate and permanent vegetative cover, or 
+where sodding is preferred to other means of grass establishment.  Locations 
+particularly suited to stabilization with sod are:
+• waterways and channels carrying intermittent flow at acceptable velocities 
+(Appendix 6.05),
+• areas around drop inlets, when the drainage area has been stabilized 
+(Practice 6.53, Sod Drop Inlet Protection),
+• residential or commercial lawns and golf courses where prompt use and 
+aesthetics are important, and
+• steep critical areas.
+Planning
+Considerations
+Quality turf can be established with either seed or sod; site preparation for the 
+two methods is similar.  The practice of sodding for soil stabilization eliminates 
+both the seeding and mulching operations, and is a much more reliable method 
+of producing adequate cover and sediment control.  However, compared to 
+seed, sod is more difficult to obtain, transport, and store.
+Advantages of properly installed sod include:
+• immediate erosion and dust control,
+• nearly year-round establishment capability,
+• less chance of failure than with seedings,
+• freedom from weeds, and
+• rapid stabilization of surfaces for traffic areas, channel linings, or critical 
+areas.
+Sod can be laid during times of the year when seeded grasses may fail, provided 
+there is adequate water available for irrigation in the early weeks.  Irrigation 
+is essential, at all times of the year, to install sod.  It is initially more costly to 
+install sod than to plant seed.  However, the higher cost may be justified for 
+specific applications where sod performs better than seed.
+6.12
+
+6
+6.12.2
+In waterways and channels that carry concentrated flow, properly pegged sod is 
+preferable to seed because it provides immediate protection.  Drop inlets placed 
+in areas to be grassed can be protected from sediment by placing permanent 
+sod strips around the inlet (Practice 6.53, Sod Drop Inlet Protection).  Sod also 
+maintains the necessary grade around the inlet.
+Because sod is composed of living plants that must receive adequate care, final 
+grading and soil preparation should be completed before sod is delivered.  If 
+left rolled or stacked, heat can build up inside the sod, causing severe damage 
+and loss of costly plant material.
+Specifications
+Choosing appropriate types of sod—The type of sod selected should be 
+composed of plants adapted to both the site and the intended purpose.  In 
+North Carolina these are limited to Kentucky bluegrass, tall fescue, bluegrass-
+tall fescue blends, fine-turf (hybrid) Bermudagrass, St. Augustinegrass, 
+centipedegrass, and zoysiagrass.  Species selection is primarily determined 
+by region, availability, and intended use (Table 6.12a).  Availability varies 
+across the state and from year to year.  New varieties are continually being 
+developed and tested.  A complete and current listing of sod recommendations 
+can be obtained from suppliers or the State Agricultural Extension office.  Sod 
+composed of a mixture of varieties may be preferred becuase of its broader 
+range of adaptability.
+Table 6.12a
+Types of sod Available in
+north Carolina
+Varieties
+Region of
+Adaptation
+Cool season grasses:
+Kentucky blugrass blend1
+Mountains
+Tall fescue blend
+Adventure, Brookston, 
+Falcon, Finelawn, 
+Galway, Houndog, 
+Jaguar, Olympic, Rebel
+Mountains 
+and Piedmont
+Tall fescue/Kentucky 
+bluegrass
+Mountains 
+and Piedmont
+Warm season grasses:
+Hybrid Bermudagrass
+Vamont, Tifway, Tifway 
+II & Tifgreen
+Piedmont and 
+Coastal Plain
+Zoysiagrass
+Emerald, Meyer
+Piedmont and 
+Coastal Plain
+Centipedegrass
+No improved varieties
+Piedmont and 
+Coastal Plain
+St. Augustinegrass
+Raleigh
+Piedmont and 
+Coastal Plain
+1A large number of varieties exist—consult suppliers and your local 
+Agricultural Extension office for recommendations.
+
+ 
+6.12.3
+Practice Standards and Specifications
+Quality of sod—Use only high-quality sod of known genetic origin, free of 
+noxious weeds, disease, and insect problems.  It should appear healthy and 
+vigorous, and conform to the following specifications:
+• Sod should be machine cut at a uniform depth of 1/2 - 2 inches (excluding 
+shoot growth and thatch).
+• Sod should not have been cut in excessively wet or dry weather.
+• Sections of sod should be a standard size as determined by the supplier, 
+uniform, and untorn.
+• Sections of sod should be strong enough to support their own weight, and 
+retain their size and shape when lifted by one end.
+• Harvest, delivery, and installation of sod should take place within a period 
+of 36 hours.
+Soil preparation—Test soil to determine the exact requirements for lime and 
+fertilizer.  Soil tests may be conducted by the State soil testing lab or a reputable 
+commercial laboratory.  Information on free soil testing is available from the 
+Agronomic Division of the North Carolina Department of Agriculture or the 
+Agricultural Extension Service.  Where sodding must be planned without soil 
+tests the following soil amendments may be sufficient:
+• Pulverized agricultural limestone at a rate of 2 tons/acre (100 lb/1,000 
+ft2)
+• Fertilizer at a rate of 1,000 lb/acre (25 lb/1,000 ft2) of 10-10-10 in fall or 
+5-10-10 in spring.
+Equivalent nutrients may be applied with other fertilizer formulations.  These 
+amendments should be spread evenly over the area, and incorporated into the 
+top 4-8 inches of soil by disking, harrowing, or other effective means.  If 
+topsoil is applied, follow specifications given in Practice 6.04, Topsoiling.
+Prior to laying sod, clear the soil surface of trash, debris, roots, branches, 
+stones, and clods larger than 2 inches in diameter.  Fill or level low spots in 
+order to avoid standing water.  Rake or harrow the site to achieve a smooth 
+and level final grade.
+Complete soil preparation by rolling or cultipacking to firm the soil.  Avoid 
+using heavy equipment on the area, particularly when the soil is wet, as this 
+may cause excessive compaction, and make it difficult for the sod to take 
+root.
+Sod installation—A step-by-step procedure for installing sod is illustrated in 
+Figure 6.12a and described below.
+1. Moistening the sod after it is unrolled helps maintain its viability.  Store it 
+in the shade during installation.
+2. Rake the soil surface to break the crust just before laying sod.  During the 
+summer, lightly irrigate the soil, immediately before laying the sod to cool the 
+soil, reduce root burning, and dieback.
+
+6
+6.12.4
+3. Do not sod on gravel, frozen soils, or soils that have been treated recently 
+with sterilants or herbicides.
+4. Lay the first row of sod in a straight line with subsequent rows placed 
+paralled to and butting tightly against each other.  Stagger strips in a brick-like 
+pattern.  Be sure that the sod is not streached or overlapped and that all joints 
+are butted tightly to prevent voids.  Use a knife or sharp spade to trim and fit 
+irregularly shaped areas.
+5. Install strips of sod with their longest dimension perpendicular to the 
+slope.  On slopes 3:1 or greater, or wherever erosion may be a problem, secure 
+sod with pegs or staples.
+6. As sodding of clearly defined areas is completed, roll sod to provide firm 
+contact between roots and soil.
+7. After rolling, irrigate until the soil is wet 4 inches below the sod.
+
+ 
+6.12.5
+Practice Standards and Specifications
+8. Keep sodded areas moist to a depth of 4 inches until the grass takes root. 
+This can be determined by gently tugging on the sod—resistance indicates 
+that rooting has occurred.
+9. Mowing should not be attempted until the sod is firmly rooted, usually 2-3 
+weeks.
+Sodded waterways—Sod provides a resilient channel lining, providing 
+immediate protection from concentrated runoff and eliminating the need for 
+installing mats or mulch.  The following points apply to the use of sod in 
+waterways:
+1. Prepare the soil as described in Practice 6.30, Grass-lined Channels.  The 
+sod type must be able to withstand the velocity of flow specified in the channel 
+design (Appendix 8.05).
+2. Lay sod strips perpendicular to the direction of flow, with the lateral joints 
+staggered in a brick-like pattern.  Edges should butt tightly together (Figure 
+6.12b).
+
+6
+6.12.6
+Table 6.12b
+Characteristics of the Principal Lawn grasses grown as sod in north Carolina
+species or Mixture
+Adaptation
+Maintenance
+Shade
+Heat
+Cold
+Drought
+Wear
+Annual
+Fertilizer
+(lb N/1000 ft2)
+Mowing
+Height
+(in.)
+Mowing
+Frequency
+Kentucky bluegrass
+good
+fair
+good
+good
+good
+2.5-4
+2
+med.
+Kentucky bluegrass/
+Tall fescue
+good
+good
+good
+good
+good
+2.5-3
+3
+high
+Tall fescue
+good
+good
+good
+good
+good
+2.5-3.5
+3
+high
+Hybrid Bermudagrass
+poor
+good
+poor
+excel.
+excel.
+5-6
+1
+high
+Centipedegrass
+fair
+good
+poor
+good
+poor
+0.5
+1
+low
+St. Augustinegrass
+good
+good
+poor
+good
+poor
+2.5
+2-3
+med.
+Zoysiagrass
+fair
+good
+fair
+excel.
+good
+1.5
+1
+high
+Adapted from Carolina Lawns, NCAES Bulletin no. AG-69.
+3. After rolling or tamping to create a firm contact, peg or staple individual sod 
+strips to resist washout during establishment.  Jute or other netting material may 
+be pegged over the sod for extra protection on critical areas.
+Maintenance
+After the first week, water as necessary to maintain adequate moisture in the 
+root zone and prevent dormancy of the sod.
+Do not remove more than one-third of the shoot in any mowing.  Grass height 
+should be maintained between 2 and 3 inches unless otherwise specified.
+After the first growing season, established sod requires fertilization, and may 
+also require lime.  Follow soil test recommendations when possible, or use the 
+rates in Table 6.12b.
+References
+Site Preparation
+6.04, Topsoiling
+Surface Stabilization
+6.11, Permanent Seeding
+Runoff Conveyance Measures
+6.30, Grass-lined Channels
+Inlet Protection
+6.53, Sod Drop Inlet Protection
+Appendices
+8.02, Vegetation Tables 
+8.05, Design of Stable Channels and Diversions
+
+ 
+6.13.1
+Practice Standards and Specifications
+TRees, shRubs, Vines, And gRound CoVeRs
+6.13
+Definition
+Stabilizing disturbed areas by establishing a vegetative cover of trees, shrubs, 
+vines, or ground covers.
+Purpose
+To stabilize the soil with vegetation other than grasses or legumes, to provide 
+food and shelter for wildlife, and to provide windbreaks or screens.
+Conditions Where 
+Practice Applies
+Trees, shrubs, vines, and ground covers may be used on steep or rocky slopes 
+where mowing is not feasible; as ornamentals for landscaping purposes; or in 
+shaded areas where grass establishment is difficult.
+Planning
+Considerations
+Woody plants and ground covers provide alternatives to grasses and legumes 
+as low-maintenance, long-term erosion control.  However, they are normally 
+planted only for special, high-value applications, or for aesthetic reasons 
+because there is additional cost and labor associated with their use.
+Very few of these plants can be dependably planted from seed, and none of 
+them are capable of providing the rapid cover possible with grasses.  Trees and 
+shrubs in particular require a long time to produce cover adequate to control 
+erosion.  Consequently, efforts must first focus on short-term stabilization 
+using densely-growing herbaceous species or a dependable mulch.
+There are many different species of woody plants and ground covers from 
+which to choose.  Most are not as broadly adapted as herbaceous species, 
+and care must be taken in their selection.  It is essential to select planting 
+material suited to both the intended use and site.  Specific characteristics and 
+requirements of recommended species are given in Appendix 8.02 as an aid to 
+their selection.
+The large selection of available plant material makes it impractical to give 
+planting specifications for even the most common species.  Instead, general 
+planting guidelines are given here.
+ZONES OF ADAPTATION
+Zones of climatic adaptation of landscape plants are referred to as “Plant 
+Hardiness Zones” (Figure 6.13a).  North Carolina encompasses portions of 
+zones 6, 7, 8, and 9, but most of the State falls into zones 7 and 8.  Most 
+of the plants listed in Table 8.02b (Appendix 8.02) are climatically adapted 
+throughout the state.  Plant selection is most limited for high elevations in the 
+Mountains and the extreme northwest corner of the state (zone 6).
+TREES
+Although trees are among the best soil stabilizers, years are required for the 
+development of forest cover adequate to meet sedimentation control objectives. 
+Efforts must first focus on establishing densely-growing species to stabilize 
+the site and protect the area between immature trees.
+For areas in which tree or shrub plantings are planned, initial seedings of 
+grasses and legumes may need to be altered somewhat to reduce competition 
+with the woody species.  Unless the site is highly erodible, seeding rates may
+
+6
+be reduced, or competitive species may be omitted.  Species such as tall 
+fescue, which produce vigorous early growth, are highly competitive.  Annual 
+lespedezas, which start growing relatively late in the spring, are much less 
+competitive with tree seedlings.  On highly erodible sites the addition of a low 
+seeding rate of weeping lovegrass may be effective.
+Two alternative approaches to establishing tree cover on disturbed sites are: (1) 
+planting seedlings of the desired species, usually at the earliest suitable date, 
+or (2) allowing natural invasion by native species.  Most unmowed sites in 
+North Carolina will be colonized, usually within a few years, by pine species 
+dominant in the locality.
+Planting speeds tree establishment, ensures adequate stands, and allows 
+selection of species composition.  Where forest production is the objective, 
+planting is preferable to natural invasion.  Where invasion is acceptable, tree 
+planting is not necessary if there is a seed source near the site.
+Black locust is the only tree useful for conservation and revegetation that is 
+readily established by adding seeds to the initial seeding mixture (Practice 
+6.11, Permanent Seeding, Table 6.11i).  It is only adapted to the Mountain 
+region where it is recommended for particularly erodible sites.
+Black locust grows rapidly, and is tolerant of shallow, dry, infertile soils. 
+Being a legume, it contributes nitrogen and nutrient-rich litter to the soil, 
+thereby preparing the way for succession by more valuable hardwoods.  It 
+has other characteristics that also foster successional development; it is fairly 
+short-lived, intolerant of shade, and unable to regenerate under its own or 
+other tree canopies.
+Seeded stands of black locust can be almost impenetrable for 6-8 years. 
+The trees are thorny, and can be hazardous to people and equipment.  At the 
+same time they provide effective protection from traffic—a highly beneficial 
+function on fragile sites.
+SHRUBS
+Shrubs vary in form from small trees to sprawling, woody ground covers. 
+They differ from most trees in that several small trunks arise from a common 
+base.
+6.13.2
+
+Practice Standards and Specifications
+ 
+6.13.3
+As a supplement to herbaceous, plantings shrubs can be used to:
+• increase the aesthetic value of plantings,
+• provide screening,
+• enhance windbreaks,
+• provide food and cover for wildlife,
+• accelerate the transition to a diverse landscape, and
+• provide post-construction landscaping.
+GROUND COVERS
+As used by landscapers, “ground cover” refers to low-growing, herbaceous or 
+woody plants that spread vegetatively to produce a dense, continuous cover. 
+They are used in landscape plantings, or as an alternative to turf.  Typically 
+only a few ornamental grasses are included in this category.  Many ground 
+covers, such as English ivy, are vines that spread along the ground but also 
+climb on buildings, fences, or other vegetation.
+Ground covers differ in growth form, growth rate, and shade tolerance.  They 
+may be evergreen or deciduous.  Some are suitable only as part of a high-
+maintenance landscape; others can be used to stabilize large areas with little 
+maintenance.
+In addition to stabilizing disturbed soil, vines and ground covers perform the 
+following functions:
+• They maintain cover in heavily shaded areas where turf will not thrive.
+• They provide attractive cover that does not need mowing.
+• They restrict pedestrian traffic (people are likely to avoid walking through 
+a thick bed of ivy or a planting of juniper).
+Specifications
+Areas planted to shrubs or trees must also be covered with a suitable mulch, 
+or seeded to permanent vegetation, to protect the site until the woody plants 
+become established.  Refer to Practices 6.11, Permanent Seeding, and 6.14, 
+Mulching, to select methods for stabilizing these areas.  Do not use plants that 
+will shade-out the woody seedlings.  A circle of mulch around seedlings helps 
+them compete with herbaceous plants.
+TREES
+Sources—Trees can be dug on-site with a tree spade, or purchased from a 
+nursery.  Large trees come with their roots and the attached soil wrapped in 
+burlap, and small trees and shrubs are sold in plastic containers or as bare-root 
+stock.  The soil ball of containerized and burlapped trees should be 12 inches 
+in diameter for each inch of trunk diameter.
+Black locust is a tree that can be readily established by seed.  It is an excellent 
+tree for stabilization purposes, but is only adapted to the Mountain region. 
+Seeds can be included in the initial seeding mixture (Practice 6.11, Permanent 
+Seeding, Table 6.11i).
+
+6
+6.13.4
+Planting bare-root tree seedlings—Bare-root seedlings should be handled 
+only while dormant in late winter, early spring, or after leaf fall in autumn. 
+Availability of stock usually limits planting to winter or spring.  Store packages 
+of seedlings in a shaded location out of the wind.  If it is necessary to store 
+moss-packed seedlings for more than two weeks, add one pint of water per 
+package.  Do not add water to clay-treated seedlings.
+Do not allow roots to dry out during planting by carrying seedlings exposed 
+to air and sun.  Keep moss-packed seedlings in a container packed with wet 
+moss or filled with thick muddy water.  Cover clay-treated seedlings with wet 
+burlap.
+A method for hand planting bare-root seedlings is illustrated in Figure 6.13b. 
+With a tree planting bar or spade, make a notch deep enough to accommodate 
+the roots.  Place the roots in the notch to the same depth as in the nursery, then 
+firm soil around roots by pressing the notch closed.  Water immediately and 
+mulch the area within 2 ft of the plant.  Several weeks after planting, broadcast 
+a handful of 10-10-10 fertilizer around each plant, at least 1 ft from the base.
+
+Practice Standards and Specifications
+ 
+6.13.5
+On large sites where slopes are not prohibitive, bare-root seedlings can be 
+efficiently planted in furrows using a tractor-drawn vegetable transplanter.
+Planting balled-and-burlapped or container-grown trees—(Figure 6.13c). 
+Late fall (Nov. - Dec.) is the preferred planting time for deciduous trees 
+and evergreens, although they may be planted year-round.  Avoid summer 
+planting.
+Keep the soil around the roots moist until planting.  Branches should be bound 
+with soft rope to prevent damage during transport.
+Each planting hole must be deep and wide enough to allow proper placement 
+of the root ball.  Ideally, the hole should be twice the size of the root ball. 
+When digging the hole, keep topsoil separate from subsoil.  If the subsoil 
+is high in clay, allow extra room (one-half again the height of the root ball). 
+Backfill the hole with enough topsoil or peat moss to position the base of the 
+tree at the same level as in the nursery.
+If the plant is in a container, carefully remove it, taking the soil surrounding 
+the roots with it.  This may require cutting the container.  Loosen the twine and 
+burlap at the top of balled-and-burlapped plants, and check to make sure that 
+no other wrapping is present before planting.
+Before replacing subsoil, mix it with one-third peat moss or well-rotted manure. 
+Backfill the hole, firming the soil as it is replaced, and leave a depression 
+around the trunk within the excavated area to hold water.  Cover the base of 
+the trunk to the same level as before it was removed (Figure 6.13c).  Water 
+thoroughly, and rewater as necessary to keep the roots moist.
+Stake small trees with vertical stakes driven into the ground, just beyond the 
+root ball (Figure 6.13c).  Secure large trees with guy wires.  Cushion wire, 
+where it contacts the tree, with rubber hose.  Wrap the trunks of young trees to 
+protect them from sunburn and pests.
+Fertilize trees in late fall or early spring, before leaves emerge.  Using a 
+punchbar, crowbar, or auger, make holes 18 inches deep and about 2 ft apart 
+around the drip line of each tree.  Distribute the fertilizer evenly among the 
+holes to bring it in contact with tree roots, and close.
+SHRUBS
+Selecting shrubs—The best shrubs for erosion control have characteristics 
+such as fast growth, ease of establishment, large lateral spread or prostrate 
+growth, year-round foliage (evergreens), disease and insect resistance, ability 
+of the roots to fix nitrogen, and adaptation to a broad range of soil conditions. 
+Selections should be based on a specific site and purpose.
+Many different species and varieties of shrubs are available that grow well in 
+North Carolina.  Those described in Table 8.02b (Appendix 8.02) are generally 
+available, and are useful for stabilization and erosion control.  In most situations 
+it will not be necessary to look further than this listing.  For very specific uses 
+consult local nurserymen or the State Extension Horticulturist.
+
+6
+6.13.6
+
+Practice Standards and Specifications
+ 
+6.13.7
+Obtaining shrubs—Shrubs are normally planted as bare-root stock or 
+container-grown plants.  Container-grown seedlings, 1 year old, are usually 
+recommended for their ease of planting and cost.
+Planting is best done in early fall or early spring.  Follow the general procedures 
+for tree care and planting (Figures 6.13b and c).
+Maintenance requirements depend on the particular shrub.  In all cases watering 
+is important in getting plants established.  Once established, fertilizing every 3 
+years is generally sufficient.  A heavy layer of mulch around the base of each 
+plant reduces weeds and retains moisture.  Mulch may consist of woodchips, 
+sawdust pine needles, or straw.
+VINES AND GROUND COVERS
+Selecting plants—For most stabilization purposes, fast-growing, evergreen, 
+low-maintenance ground covers are preferable.  Some pertinent characteristics 
+that should help in selecting appropriate ground covers are given in Table 
+8.02b (Appendix 8.02).
+When to plant—Ground covers are best planted in early fall or early spring. 
+Spring planting is preferred in the mountains.
+Site preparation—Good soil is important in establishing ground covers 
+because their dense growth requires large amounts of nutrients and water. 
+Well-drained soils high in organic matter work best.  When possible, apply 
+organic matter in the form of peat, sawdust, or well-rotted manure, and 
+incorporate to 4-6 inches.
+Add lime and fertilizer according to soil tests, or add 100 lb/1,000 ft2 ground 
+agricultural limestone, and 50 lb/1,000 ft2 of 10-10-10 fertilizer and incorporate 
+into the top 4-6 inches of soil.  Add organic matter in an amount up to one-
+third the total soil volume, either over the whole area (layer 2 inches deep 
+mixed into the top 6 inches) or in each planting hole if the area is large.
+On steep slopes, till the soil in contour rows, or dig single holes for each 
+plant.  Blend the needed lime, fertilizer, and organic material with the soil 
+removed from each hole or furrow.  Mix fertilizer thoroughly with the soil 
+before planting, and use it sparingly to avoid burning roots.
+To eliminate harmful competition from weeds, a pre-emergent herbicide may 
+be useful if weeding is not practical.
+Planting—Most ground covers are planted from container-grown nursery 
+stock.  Planting density determines how quickly full cover is achieved; a 1-
+foot spacing is often suggested for rapid cover.  Large plants such as junipers 
+can be spaced on 3-feet centers.
+Transplanting to the prepared seedbed can be done using a small trowel or a 
+spade.  Make a hole large enough to accommodate the roots and soil.  Backfill 
+and firm the soil around the plant, water immediately, and keep well watered 
+until established.
+
+6
+6.13.8
+Mulching—Competition from volunteer plants inhibits development and 
+maintenance of the ground cover.  A thick durable mulch such as shredded 
+bark or wood chips should prevent erosion and reduce weeds.  Mulch the 
+entire planting area.
+On steep slopes (3:1) or highly erodible soils, install netting or matting prior 
+to planting, and tuck plants into the soil through slits in the net.  Plant in a 
+staggered pattern.
+Maintenance—Most ground covers need yearly trimming to promote growth. 
+Trim back from trees, flower beds, fences, and buildings.  Add mulch where 
+needed and fertilize, as described above, every 3-4 years.
+References
+Site Preparation
+6.04, Topsoiling
+Surface Stabilization
+6.11, Permanent Seeding 
+6.14, Mulching
+Appendix
+8.02, Vegetation Tables
+
+Practice Standards and Specifications
+ 
+6.14.1
+MuLChing
+Definition
+Application of a protective blanket of straw or other plant residue, gravel, or 
+synthetic material to the soil surface.
+Purpose
+To protect the soil surface from the forces of raindrop impact and overland 
+flow.  Mulch fosters the growth of vegetation, reduces evaporation, insulates 
+the soil, and suppresses weed growth.  Mulch is frequently used to accent 
+landscape plantings.
+Conditions Where 
+Practice Applies
+Mulch temporary or permanent seedings immediately.  Areas that cannot 
+be seeded because of the season should be mulched to provide temporary 
+protection of the soil surface.  Use an organic mulch in this case (but not wood 
+fiber), and seed the area as soon as possible.  Mulch around plantings of trees, 
+shrubs, or ground covers to stabilize the soil between plants.
+Planning
+Considerations
+A surface mulch is the most effective, practical means of controlling runoff 
+and erosion on disturbed land prior to vegetation establishment.  Mulch 
+reduces soil moisture loss by evaporation, prevents crusting and sealing of the 
+soil surface, moderates soil temperatures, provides a suitable microclimate for 
+seed germination, and may increase the infiltration rate of the soil.
+Organic mulches such as straw, wood chips, and shredded bark have been 
+found to be the most effective.  Do not use materials which may be sources 
+of competing weed and grass seeds.  Decomposition of some wood products 
+can tie up significant amounts of soil nitrogen, making it necessary to modify 
+fertilization rates, or add fertilizer with the mulch (Table 6.14a).
+A variety of mats and fabrics have been developed in recent years for use as 
+mulch, particularly in critical areas such as waterways and channels.  Various 
+types of netting materials are also available to anchor organic mulches.
+Chemical soil stabilizers or soil binders, when used alone, are less effective 
+than other types of mulches.  These products are primarily useful for tacking 
+wood fiber mulches.
+The choice of materials for mulching should be based on soil conditions, 
+season, type of vegetation, and size of the area.  A properly applied and tacked 
+mulch is always beneficial.  It is especially important when conditions for 
+germination are not optimum, such as midsummer and early winter, and on 
+difficult areas such as cut slopes and slopes with southern exposures.
+ORGANIC MULCHES
+Straw is the mulch most commonly used in conjunction with seeding.  The 
+straw should come from wheat or oats (“small grains”), and may be spread by 
+hand or with a mulch blower.  Straw may be lost to wind, and must be tacked 
+down.
+Wood chips are suitable for areas that will not be closely mowed, and around 
+ornamental plantings.  Chips do not require tacking.  Because they decompose 
+slowly, they must be treated with 12 pounds of nitrogen per ton to prevent
+6.14
+
+6
+6.14.2
+Table 6.14a
+Mulching Materials and Application Rates
+Material
+organic Mulches
+Rate Per Acre
+Quality
+notes
+Straw
+1-2 tons
+Dry, unchopped, 
+unweathered; avoid 
+weeds.
+Should come from wheat or oats; 
+spread by hand or machine; must 
+be tacked down.
+Wood chips
+5-6 tons
+Air dry
+Treat with 12 lbs nitrogen/ton.  Apply 
+with mulch blower, chip handler, or 
+by hand.  Not for use in fine turf.
+Wood fiber
+0.5-1 tons
+Also referred to as wood cellulose.  
+May be hydroseeded.  Do not use in 
+hot, dry weather.
+Bark
+35 cubic yards
+Air dry, shredded or 
+hammer-milled, or chips.
+Apply with mulch blower, chip 
+handler, or by hand.  Do not use 
+asphalt tack.
+Corn stalks
+4-6 tons
+Cut or shredded in 4-6 
+in. lengths.
+Apply with mulch blower or by hand. 
+Not for use in fine turf.
+Sericea 
+lespedeza 
+seed-bearing 
+stems
+1-3 tons
+Green or dry; should 
+contain mature seed.
+nets and Mats1
+Jute net
+Cover area
+Heavy, uniform; woven 
+of single jute yarn.
+Withstands waterflow.  Best when 
+used with organic mulch.
+Fiberglass net
+Cover area
+Withstands waterflow.  Best when 
+used with organic mulch.
+Excelsior 
+(wood fiber) 
+mat
+Cover area
+Withstands waterflow.
+Fiberglass roving
+0.5-1 tons
+Continuous fibers of 
+drawn glass bound 
+together with a non-toxic 
+agent.
+Apply with a compressed air ejector. 
+Tack with emulsified asphalt at a 
+rate of 25-35 gal/1,000 sq ft.
+Chemical stabilizers2
+Aquatain
+Aerospray
+Curasol AK
+Petroset SB
+Terra Tack
+Crust 500
+Genaqua 743
+M-145
+follow 
+manufacturer’s 
+specifications
+Not beneficial to plant growth.
+1Refer to Practice No. 6.30, Grass Lined Channels.
+2Use of trade names does not imply endorsement of product.
+
+Practice Standards and Specifications
+ 
+6.14.3
+nutrient deficiency in plants.  This can be an inexpensive mulch if chips are 
+obtained from trees cleared on the site.
+Bark chips and shredded bark are by-products of timber processing often 
+used in landscape plantings.  Bark is also a suitable mulch for areas planted 
+to grasses and not closely mowed.  It may be applied by hand or with a mulch 
+blower.  Unlike wood chips, the use of bark does not require additional 
+nitrogen fertilizer.
+Wood fiber refers to short cellulose fibers applied as a slurry in hydroseeding 
+operations.  Wood fiber does not require tacking, although tacking agents 
+or soil binders can easily be added to the slurry.  Wood fiber hydroseeder 
+slurries may be used to tack straw mulch on steep slopes, critical areas, and 
+where harsh climatic conditions exist.  Wood fiber mulch does not provide 
+sufficient erosion protection to be used alone.
+There are other organic materials that make excellent mulches, but may only be 
+available locally or seasonally, for example: dried sewage sludge, corn stalks, 
+animal manure, pine boughs, cotton burs, peanut hulls, and hay.  Creative use 
+of these materials can reduce costs.
+CHEMICAL MULCHES AND SOIL BINDERS
+A wide range of synthetic mulching compounds is available to stabilize and 
+protect the soil surface.  These include emulsions or dispersions of vinyl 
+compounds, asphalt, or rubber mixed with water.  They may be used alone, or 
+may be used to tack wood fiber hydromulches.
+When used alone, chemical mulches do not insulate the soil or retain moisture, 
+and therefore do little to aid seedling establishment.  They are easily damaged 
+by traffic, are usually more expensive than organic mulches, and they 
+decompose in 60-90 days.
+Check labels on chemical mulches and binders for environmental 
+concerns.  Take precautions to avoid damage to fish, wildlife, and water 
+resources.
+NETS, MATS, AND ROVING
+Netting is very effective in holding mulch in place on waterways and slopes 
+before grasses become established.
+Mats promote seedling growth in the same way as organic mulches.  They are 
+very useful in establishing grass in channels and waterways.  A wide variety 
+of synthetic and organic materials are available.  “Excelsior” is a wood fiber 
+mat, and should not be confused with wood fiber slurry.
+When installing nets and mats, it is critical to obtain a firm, continuous contact 
+between the material and the soil.  Without such contact, the material is useless, 
+and erosion will occur underneath.
+Fiberglass roving consists of continuous strands of fiberglass which, when 
+blown onto the soil surface from a special compressed air ejector, form a mat 
+of glass fibers.  This mat must then be tacked down with asphalt.
+
+6
+6.14.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rev. 12/93
+Construction
+Specifications
+Select a material based on site and practice requirements, availability of 
+material, labor, and equipment.  Table 6.14a lists commonly used mulches and 
+some alternatives.
+Before mulching, complete the required grading, install sediment control 
+practices, and prepare the seedbed.  Apply seed before mulching except in the 
+following cases:
+• Seed is applied as part of a hydroseeder slurry containing wood fiber 
+mulch.
+• A hydroseeder slurry is applied over straw.
+APPLICATION OF ORGANIC MULCH
+Organic mulches are effective where they can be tacked securely to the surface. 
+Material and specifications are given in Table 6.14a.
+Spread mulch uniformly by hand, or with a mulch blower.  When spreading 
+straw mulch by hand, divide the area to be mulched into sections of 
+approximately 1,000 ft2, and place 70-90 lb of straw ( 1 1/2 to 2 bales) in each 
+section to facilitate uniform distribution.  After spreading mulch, no more than 
+25% of the ground surface should be visible.  In hydroseeding operations a 
+green dye, added to the slurry, assures a uniform application.
+ANCHORING ORGANIC MULCH
+Straw mulch must be anchored immediately after spreading.  The 
+following methods of anchoring mulch may be used:
+Mulch anchoring tool—A tractor-drawn implement designed to punch mulch 
+into the soil, a mulch anchoring tool provides maximum erosion control with 
+straw.  A regular farm disk, weighted and set nearly straight, may substitute, 
+but will not do a job comparable to the mulch anchoring tool.  The disk should 
+not be sharp enough to cut the straw.  These methods are limited to slopes no 
+steeper than 3:1, where equipment can operate safely.  Operate machinery on 
+the contour.
+Liquid mulch binders—Application of liquid mulch binders and tackifiers 
+should be heaviest at the edges of areas and at crests of ridges and banks, 
+to resist wind.  Binder should be applied uniformly to the rest of the area. 
+Binders may be applied after mulch is spread, or may be sprayed into the 
+mulch as it is being blown onto the soil.  Applying straw and binder together 
+is the most effective method.  Liquid binders include asphalt and an array of 
+commercially available synthetic binders.
+Emulsified asphalt is the most commonly used mulch binder.  Any type thin 
+enough to be blown from spray equipment is satisfactory.  Asphalt is classified 
+according to the time it takes to cure.  Rapid setting (RS or CRS designation) 
+is formulated for curing in less than 24 hours, even during periods of high 
+humidity; it is best used in spring and fall.  Medium setting (MS or CMS) is 
+formulated for curing within 24 to 48 hours, and slow setting (SS or CSS) is 
+formulated for use during hot, dry weather, requiring 48 hours or more curing 
+time.
+
+Practice Standards and Specifications
+Rev. 12/93 
+6.14.5
+Apply asphalt at 0.10 gallons per square yard (10 gal/1,000 ft2).  Heavier 
+applications cause straw to “perch” over rills.
+In traffic areas, uncured asphalt can be picked up on shoes and cause damage 
+to rugs, clothing etc.  Use types RS or CRS to minimize such problems.
+Synthetic binders such as Petroset, Terratack, and Aerospray may be used, as 
+recommended by the manufacturer, to anchor mulch.  These are expensive, 
+and therefore usually used in small areas or in residential areas where asphalt 
+may be a problem (Use of trade names does not constitute an endorsement).
+Mulch nettings—Lightweight plastic, cotton, jute, wire, or paper nets may be 
+stapled over the mulch according to the manufacturer’s recommendations (see 
+“Nets and Mats” below).
+Peg and twine—Because it is labor-intensive, this method is feasible only in 
+small areas where other methods cannot be used.  Drive 8-10 inch wooden 
+pegs to within 3 inches of the soil surface, every 4 feet in all directions.  Stakes 
+may be driven before or after straw is spread.  Secure mulch by stretching 
+twine between pegs in a criss-cross-within-a-square pattern.  Turn twine two 
+or more times around each peg.  Twine may be tightened over the mulch by 
+driving pegs further into the ground.
+Vegetation—Rye (grain) may be used to anchor mulch in fall plantings, and 
+German millet in spring.  Broadcast at 15 lb/acre before applying mulch.
+CHEMICAL MULCHES
+Chemical mulches may be effective for soil stabilization if used between May 
+1 and June 15, or Sept. 15 and Oct. 15, provided that they are used on slopes no 
+steeper than 4:1, and that proper seedbed preparation has been accomplished, 
+including surface roughening where required.
+Chemical mulches may be used to bind other mulches, or with wood fiber in a 
+hydroseeded slurry at any time.  Follow the manufacturer’s recommendations 
+for application.
+FIBERGLASS ROVING
+Fiberglass roving (“roving”) is wound into a cylindrical package so that it can 
+be continuously withdrawn from the center using a compressed air ejector. 
+Roving expands into a mat of glass fibers as it contacts the soil surface.  It is 
+often used over a straw mulch, but must still be tacked with asphalt.
+Spread roving uniformly over the area at a rate of 0.25 to 0.35 lb/yd2.  Anchor 
+with asphalt immediately after application, at a rate of 0.25 to 0.35 gal/yd2.
+As a channel lining, and at other sites of concentrated flow, the roving mat 
+must be further anchored to prevent undermining.  It may be secured with 
+stakes placed at intervals no greater than 10 feet along the drainageway, and 
+randomly throughout its width, but not more than 10 feet apart.  As an option 
+to staking, the roving can be buried to a depth of 5 inches at the upgrade end 
+and at intervals of 50 feet along the length of the channel.
+NETS AND MATS
+Nets alone generally provide little moisture conservation benefits and only
+
+6
+6.14.6 
+Rev. 12/93
+limited erosion protection.  Therefore, they are usually used in conjunction 
+with an organic mulch such as straw.
+Except when wood fiber slurry is used, netting should always be installed over 
+the mulch.  Wood fiber may be sprayed on top of an installed net.
+Mats, including “excelsior” (wood fiber) blankets, are considered protective 
+mulches and may be used alone, on erodible soils, and during all times of the 
+year.  Place the matting in firm contact with the soil, and staple securely.
+INSTALLATION OF NETTING AND MATTING
+Products designed to control erosion should be installed in accordance with 
+manufacturer’s instructions.  Any mat or blanket-type product used as a 
+protective mulch should provide cover of at least 30% of the surface where it 
+is applied.  Installation is illustrated in Figure 6.14a.
+1. Apply lime, fertilizer, and seed before laying the net or mat.
+
+Practice Standards and Specifications
+Rev. 12/93 
+6.14.7
+2. Start laying the net from the top of the channel or slope, and unroll it down 
+the grade.  Allow netting to lay loosely on the soil or mulch cover but 
+without wrinkles—do not stretch.
+3. To secure the net, bury the upslope end in a slot or trench no less than 6 
+inches deep, cover with soil, and tamp firmly as shown in Figure 6.14a.  Staple 
+the net every 12 inches across the top end and every 3 ft around the edges and 
+bottom.  Where 2 strips of net are laid side by side, the adjacent edges should 
+be overlapped 3 inches and stapled together.  Each strip of netting should also 
+be stapled down the center, every 3 ft.  Do not stretch the net when applying 
+staples.
+4. To join two strips, cut a trench to anchor the end of the new net.  Overlap the 
+end of the previous roll 18 inches, as shown in Figure 6.14a, and staple every 
+12 inches just below the anchor slot.
+Maintenance
+Inspect all mulches periodically, and after rainstorms to check for rill erosion, 
+dislocation or failure.  Where erosion is observed, apply additional mulch.  If 
+washout occurs, repair the slope grade, reseed and reinstall mulch.  Continue 
+inspections until vegetation is firmly established.
+References
+Surface Stabilization
+6.11, Permanent Seeding
+Appendix
+8.02, Vegetation Tables
+
+6
+6.14.8
+
+Practice Standards and Specifications 
+Rev. Jan 2026 
+6.15.1 
+6.15 Riprap 
+Definition 
+A permanently placed layer of large irregular-shaped stone with an underlining geotextile 
+or granular filter blanket. 
+Purpose 
+To protect the soil surface from erosive forces and/or improve stability of soil slopes that 
+are subject to seepage or have poor soil structure. 
+Conditions Where Practice Applies 
+Riprap is used for the following applications: 
+• cut-and-fill slopes subject to seepage or weathering, particularly where conditions 
+prohibit establishment of vegetation, 
+• channel side slopes and bottoms, 
+• inlets and outlets for culverts, bridges, slope drains, grade stabilization structures, 
+and storm drains 
+• streambanks and streambeds, 
+• shorelines subject to wave action. 
+Planning Considerations 
+Riprap is a versatile, highly erosion-resistant material that can be used effectively in 
+many locations and in a variety of ways to control erosion on construction sites. 
+Graded Versus Uniform Riprap 
+Riprap is classed as either graded or uniform.  Graded riprap includes a wide mixture of 
+stone sizes. Uniform riprap consists of stones nearly all the same size. 
+Graded riprap is preferred to uniform riprap in most applications because the variation in 
+size allows for settling and forms a dense, flexible cover.  Uniform riprap creates more 
+open voids, and cannot adjust as effectively to movement of the stones.  Graded riprap is 
+also cheaper to install requiring less hand work for installation than uniform riprap, which 
+must be placed in a uniform pattern. Uniform riprap may give a more pleasing 
+appearance. 
+
+Chapter 6 
+6.15.2 
+Rev. Jan 2026 
+Riprap sizes are designated by either the mean diameter or the weight of the stones. The 
+diameter specification is often misleading since the stones are usually angular.  However, 
+common practice is to specify stone size by the diameter of an equivalent size of 
+spherical stone.  
+A method commonly used for specifying the range of stone sizes in graded riprap is to 
+designate a diameter for which some percentage, by weight, will be smaller.  For 
+example, “d85” specifies a mixture of stones in which 85% of the stone by weight would 
+be smaller than the diameter specified.  Most designs are based on “d50”, or median size 
+stones. Table 6.15a lists some commonly referenced mean diameter stone sizes available 
+within North Carolina. 
+Table 6.15a Sizes for Riprap (Source: NCDOT) 
+Acceptance Criteria for Rip Rap and Stone for Erosion Control 
+Class 
+Minimum 
+Required Stone 
+Sizes, inches 
+Midrange 
+Required Stone 
+Sizes, inches 
+Maximum 
+Required Stone 
+Sizes, inches 
+A 
+2 
+4 
+6 
+B 
+5 
+8 
+12 
+1 
+5 
+10 
+17 
+2 
+9 
+14 
+23 
+No more than 5.0% of the material furnished can be less than the minimum size specified 
+nor more than 10.0% of the material can exceed the maximum size specified. 
+When considering riprap for surface stabilization, it is important to anticipate visual 
+impacts, including weed control, hazards from snakes and other animals, danger of slides 
+and hazards to areas below steep riprap slopes, damage and possible slides from children 
+moving stones, and general safety. 
+Proper stone size selection and surface preparation are essential for successful long-term 
+functioning of riprap.  Adequate compaction of fill areas and proper use of filter blankets 
+are necessary. 
+Sequence of construction—Schedule disturbance of areas that require riprap protection so 
+that the placement of riprap can follow immediately after grading. When riprap is used 
+for outlet protection, place the riprap before or in conjunction with the installation of the 
+structure so that it is in place before the first runoff event. 
+
+Practice Standards and Specifications 
+Rev. Jan 2026 
+6.15.3 
+Design Criteria 
+Gradation—Riprap should be a well-graded mixture with 50% by weight larger than the 
+specified design size. The diameter of the largest stone size in such a mixture should be 
+1.5 times the d50 size with smaller sizes grading down to 1 inch. 
+The designer should determine the riprap size that will be stable for design conditions.  
+Having determined the design stone size, the designer should select the size or sizes that 
+equal or exceed that minimum size based on riprap gradations commercially available in 
+the area. 
+Thickness—Construction techniques, dimensions of the area to be protected, size and 
+gradation of the riprap, the frequency and duration of flow, difficulty and cost of 
+maintenance, and consequences of failure should be considered when determining the 
+thickness of riprap linings.  The minimum thickness should be 1.5 times the maximum 
+stone diameter, but in no case less than 6 inches. 
+Quality of stone—Stone for riprap may consist of field stone or quarry stone. The stone 
+should be hard, angular, of such quality that it will not break down on exposure to water 
+or weathering, and suitable in all other respects for the purpose intended. The specific 
+gravity of the individual stones should be at least 2.5. 
+Size of stone—The sizes of stones used for riprap protection are determined by purpose 
+and specific site conditions. 
+• Slope stabilization—Riprap stone for slope stabilization, not subject to flowing 
+water or wave action, should be sized for stability for the proposed grade. The 
+gradient of the slope to be stabilized should be less than the natural angle of 
+repose of the stone selected. Angle of repose of riprap stones may be estimated 
+from Figure 6.15a 
+Riprap used for surface stabilization of slopes does not add significant resistance 
+to sliding or slope failure and should not be considered a retaining wall.  The 
+inherent stability of the soil must be satisfactory before riprap is used for surface 
+stabilization.  Slopes approaching 1.5:1 may require special stability analysis. 
+• Outlet protection—Design criteria for sizing stone and determining the 
+dimensions of riprap pads at channel or conduit outlets are presented in Practice 
+6.41, Outlet Stabilization Structure. 
+• Channel stabilization and streambank protection—Design criteria for sizing 
+stone for stability of channels are contained in Appendix 8.05. 
+
+Chapter 6 
+6.15.4 
+Rev. Jan 2026 
+Figure 6.15a Angle of repose of riprap in terms of mean size and 
+shape of stone (Adapted from FHWA HEC-15, 2005) 
+Filter blanket—A filter blanket is a layer of material placed between the riprap and the 
+underlying soil to prevent soil movement into or through the riprap. 
+A suitable filter may consist of a well-graded gravel or sand-gravel layer or a synthetic 
+geotextile manufactured for this express purpose. The design of a gravel filter blanket is 
+based on the ratio of particle size in the overlying filter material to that of the base 
+material in accordance with the criteria below. The designed gravel filter blanket may 
+consist of several layers of increasingly large particles from sand to erosion control stone. 
+A gravel filter blanket should have the following filter-to-base or filter-to-rip-rap 
+relationship for a stable design: 
+
+Practice Standards and Specifications 
+Rev. Jan 2026 
+6.15.5 
+𝑑𝑑15𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢 
+𝑑𝑑85𝑙𝑙𝑙𝑙𝑙𝑙𝑢𝑢𝑢𝑢 ≤5 
+5 ≤ 𝑑𝑑15𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢 
+𝑑𝑑15𝑙𝑙𝑙𝑙𝑙𝑙𝑢𝑢𝑢𝑢 ≤ 40 
+𝑑𝑑50𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢 
+𝑑𝑑50𝑙𝑙𝑙𝑙𝑙𝑙𝑢𝑢𝑢𝑢 ≤ 40 
+In the above relationships, "upper" refers to the overlying material and "lower" refers to 
+the underlying material. The relationships must hold between the filter blanket and base 
+material and between the riprap and filter blanket. More than one layer of filter material 
+may be needed. Each layer of filter material should be at least 6 inches thick. 
+A geotextile may be used with or in place of gravel filters.  Selection of geotextile should 
+consider factors such as soil retention, permeability, clogging and survivability.  With the 
+exception of problematic soils or high velocity conditions associated with steep channels, 
+geotextile filters may usually be selected based on the apparent opening size (AOS) of the 
+geotextile and the soil type as shown in Table 6.15b. 
+Detailed design guidance for selecting geotextiles as a riprap filter material in situations 
+where problematic soil environments exist, severe environmental conditions are 
+expected, and/or for critical installations may be found in Federal Highway 
+Administration, 1998. "Geosynthetic Design and Construction Guidelines,” FHWA-HI-
+95-038. 
+Table 6.15b Maximum AOS for Geotextile Filters (FHWA, 1998) 
+Soil Type 
+Maximum AOS 
+(mm) 
+Non cohesive, less than 15 percent passing the 
+0.43 
+0.075 mm (US #200) sieve 
+Non cohesive, 15 to 50 percent passing the 0.075 
+0.25 
+mm (US #200) sieve 
+Non cohesive, more than 50 percent passing the 
+0.22 
+0.075 mm (US #200) sieve 
+Cohesive, plasticity index greater than 7 
+0.30 
+Filter blankets should always be provided where seepage is significant, or where flow 
+velocity and duration of flow or turbulence may cause the underlying soil particles to 
+move through the riprap. 
+
+Chapter 6 
+6.15.6 
+Rev. Jan 2026 
+Construction Specifications 
+Subgrade preparation—Prepare the subgrade for riprap and filter to the required lines 
+and grades shown on the plans.  Compact any fill required in the subgrade to a density 
+approximating that of the surrounding undisturbed material or overfill depressions with 
+riprap.  Remove brush, trees, stumps, and other objectionable material.  Cut the subgrade 
+sufficiently deep that the finished grade of the riprap will be at the elevation of the 
+surrounding area. Channels should be excavated sufficiently to allow placement of the 
+riprap in a manner such that the finished inside dimensions and grade of the riprap meet 
+design specifications. 
+Sand and gravel filter blanket—Place the filter blanket immediately after the ground 
+foundation is prepared.  For gravel, spread filter stone in a uniform layer to the specified 
+depth. Where more than one layer of filter material is used, spread the layers with 
+minimal mixing. 
+Geotextile—Place and secure the geotextile directly on the prepared soil foundation in 
+accordance with the manufacturer’s installation guidelines. Typically, overlap the edges 
+by at least 12 inches, and space anchors every 3 ft along the overlap.  Bury the upstream 
+end of the geotextile a minimum of 12 inches below ground and where necessary, bury 
+the lower end of the geotextile or overlap with the next section as required.  See Figure 
+6.14a, Page 6.14.6. 
+Take care not to damage the geotextile when placing riprap.  If damage occurs remove 
+the riprap and repair the sheet by adding another layer of geotextile with a minimum 
+overlap of 12 inches around the damaged area.  If extensive damage is suspected, remove 
+and replace the entire section. 
+Where large stones are used or machine placement is difficult, a 4-inch layer of fine 
+gravel or sand may be needed to protect the geotextile. 
+Stone placement—Placement of riprap should follow immediately after placement of the 
+filter.  Place riprap so that it forms a dense, well-graded mass of stone with a minimum of 
+voids.  The desired distribution of stones throughout the mass may be obtained by 
+selective loading at the quarry, and controlled dumping during final placement.  Place 
+riprap to its full thickness in one operation.  Do not place riprap by dumping through 
+chutes or other methods that cause segregation of stone sizes.  Take care not to dislodge 
+the underlying base or filter when placing the stones. 
+The toe of the riprap slope should be keyed to a stable foundation at its base as shown in 
+Figure 6.15b.  The toe should be excavated to a depth about 1.5 times the design 
+thickness of the riprap and should extend horizontally from the slope. 
+
+Practice Standards and Specifications 
+Rev. Jan 2026 
+6.15.7 
+The finished slope should be free of pockets of small stone or clusters of large stones. 
+Hand placing may be necessary to achieve the proper distribution of stone sizes to 
+produce a relatively smooth, uniform surface.  Excavate embankment or channel to 
+accommodate the depth of stone such that the riprap is uniform and level with the 
+finished grade. 
+Maintenance 
+In general, once a riprap installation has been properly designed and installed it requires 
+very little maintenance.  Riprap should be inspected periodically for scour or dislodged 
+stones.  Control of weed and brush growth may be needed in some locations. 
+References 
+Runoff Conveyance Measures 
+6.31, Riprap-lined and Paved Channels 
+Outlet Protection 
+6.41, Outlet Stabilization Structure 
+Appendices 
+8.05, Design of Stable Channels and Diversions  
+8.06, Design of Riprap Outlet Protection 
+Figure 6.15b Riprap slope protection (modified from VDH&T) 
+
+VegeTATiVe dune sTAbiLizATion
+Definition
+Use of adapted vegetation and mechanical means to catch and hold sand, and 
+build or repair dunes.
+Purpose
+To maintain a barrier dune system that protects low-lying backshore areas 
+during storms of short duration; to stabilize sandy areas disturbed by 
+construction activities; and to protect roads, buildings, and valued areas from 
+encroachment by blowing sand.  Dunes act as barriers to waves, as energy 
+dissipators, and as reservoirs of sand that reduce foreshore recession during 
+storms.  Dunes are not effective against persistent, continuous beach recession 
+when shoreline changes are occurring.
+Conditions Where 
+Practice Applies
+On coastal foredunes or in areas on barrier islands, away from the foredune 
+area, where stabilization of sand is necessary.
+Planning
+Considerations
+There are only a few plant species that are tolerant of the stresses of the beach 
+environment.  Plants must be able to survive burial by blowing sand, sand 
+blasting, salt spray, saltwater flooding, drought, heat, and low nutrient supply. 
+Perennial grasses are the primary stabilizers of frontal dunes.  The North 
+Carolina coast is a transition zone between the northern-dominant American 
+beachgrass and the southern-dominant sea oats.  Bitter panicum is also an 
+important perennial grass on foredunes in North Carolina.
+American beachgrass is the most practical vegetation to plant for initial 
+coastal dune stabilization.  It is easy to propagate, harvest, store, and transplant; 
+it establishes and grows rapidly, trapping sand effectively by the middle of the 
+first growing season.  The vigorous rhizome system of American beachgrass 
+makes it effective for filling sparse stands.
+The main disadvantages of American beachgrass are that it is susceptible to 
+heat and drought in North Carolina, and that stands begin to die out when the 
+supply of sand and nutrients is cut off.  Consequently, it persists for only a 
+few years behind the crest of the frontal dune.  It is also susceptible to disease 
+and insect pests.  To overcome these problems, a small amount of sea oats 
+and bitter panicum can be included in beachgrass plantings.  Replace dead 
+beachgrass patches with sea oats, bitter panicum or seashore elder.
+Sea oats is a warm-season dune grass ranging from southeastern Virginia to 
+Mexico.  It is vigorous, drought and heat tolerant, and is relatively free of 
+pests.  Sea oats is more tolerant of reduced sand and nutrient supply than 
+American beachgrass and persists in backdune areas.  The disadvantages of sea 
+oats are that it is more difficult to propagate in field nurseries than American 
+beachgrass, and commercial availability is limited.  Potted plants can easily 
+be grown from seed, but this method of production makes costs higher than 
+for American beachgrass.
+Bitter panicum—Commercial sources of bitter panicum are also limited.  It 
+grows and multiplies well in field nurseries, but it is more difficult to dig, store,
+6.16
+ 
+6.16.1
+Practice Standards and Specifications
+
+6
+6.16.2
+and transport than American beachgrass.  There is a wide range of types of 
+bitter panicum ranging from slender to large stemmed and from low-growing 
+and decumbent to tall and erect.
+Specifications
+Plant selection—American beachgrass is the most practical species for large-
+scale dune plantings in North Carolina, due to its commercial availability, low 
+cost, ease of transplanting, and quick establishment.  Use cultivars adapted 
+to North Carolina such as Hatteras and Bogue.  Cape is a northern strain, not 
+recommended for North Carolina because it declines rapidly after the first 
+growing season.
+Include sea oats and/or bitter panicum (10% is adequate) in dune plantings of 
+American beachgrass to fill bare spots created as the beachgrass dies out.
+Site preparation—Low areas benefit from installation of wind fences to 
+accumulate blowing sand, raising the elevation and decreasing the chance of 
+flooding by salt water.  Tillage or liming are not required for planting on beach 
+sand.
+Planting—Plant small areas and steep slopes by hand.  Place single plants 
+into separate holes made with a shovel or dibble bar.  Firm the sand around 
+plants.  Complete planting specifications are given in Table 6.16a.
+Large, flat sites can be planted more economically using a tractor-drawn 
+transplanter with planting shoes extended to make furrows 8-10 inches deep.
+Bitter panicum roots at every node on its stem.  Place runners in a trench and 
+cover, leaving 6-8 inches sticking out of the sand.
+Fertilizer—A good supply of nutrients promotes rapid establishment of 
+transplants, increases growth and sand-trapping capacity, and improves 
+chances of survival.  Therefore fertilizer is usually required for establishment 
+and maintenance, particularly in areas that are heavily used, because dune 
+sand is low in plant nutrients.  Periodic maintenance fertilization may also 
+be necessary to maintain stands in areas not receiving a fresh sand supply. 
+Grasses on the front of foredunes, receiving blowing sand, have adequate 
+plant nutrients, and do not respond to fertilization.
+Do not apply fertilizer to dune vegetation until it is certain that root growth 
+has begun.  If fertilizer is applied before or at planting, there is a risk of losing 
+nitrogen to leaching before plant uptake occurs.  During the first growing 
+season, apply 15 lb/1,000 ft2 or 10-10-10 fertilizer in April followed by 1.3 
+lb of nitrogen in June, and again around the first of September.  Maintenance 
+fertilization should be continued through the third growing season (Table 
+6.16b).
+Maintenance
+Replant areas lost to erosion.  Fertilize twice during the second growing 
+season and once a year thereafter if needed (Table 6.16b).  Replace American 
+beachgrass that dies out with sea oats, bitter panicum, or seashore elder.
+
+Practice Standards and Specifications
+ 
+6.16.3
+Table 6.16a
+Planting Specifications for:
+Coastal sands exposed to 
+salt spray and/or Wind
+erosion
+Planting mixture
+ 
+species
+Rate
+Hatteras American beachgrass
+1 healthy stem/hill
+Interplant 5-10% sea oats and/or bitter panicum if possible.
+Planting dates
+American beachgrass: November - March
+Sea oats and bitter panicum: March - June
+Planting depth
+American beachgrass and sea oats: 8-10 inches
+Bitter panicum: 6 inches
+spacing
+To repair or maintain existing dunes plant at a spacing of 1.5 ft x 1.5 ft. 
+To build dunes by trapping sand, a graduated spacing pattern should 
+be used that allows sand to penetrate to the center of the planting, 
+creating a wide, flat dune; spacing should be as follows.
+number
+of Rows
+Row
+spacing (ft)
+4
+4
+4*
+4
+4
+3
+2
+1.5
+2
+3
+* - center of dune
+Fertilization
+Refer to Table 6.16b for suggested dates and rates of dune 
+fertilization.
+Mulch
+Do not mulch.
+Maintenance
+Do not mow.  Fertilize as needed; fill in dead areas of American 
+beachgrass by transplanting sea oats, bitter panicum, or seashore 
+elder.
+
+6
+6.16.4
+Table 6.16b
+dune Fertilization schedule
+for Maintenance (Rates are
+pounds per 1,000 square
+Feet) 
+Date
+First year
+Second Year
+Subsequent 
+Years (if needed)
+American beachgrass
+March 15
+---
+10 lbs 10-10-10
+10 lbs 10-10-10
+April 15
+15 lbs 10-10-10
+---
+---
+June 15
+4 lbs ammonium 
+nitrate
+---
+---
+Sept. 1
+4 lbs ammonium 
+nitrate
+3 lbs ammonium 
+nitrate
+---
+sea oats and bitter Panicum
+April 15
+---
+10 lbs 10-10-10
+10 lbs 10-10-10
+May 1
+15 lbs 10-10-10
+---
+---
+June 15
+4 lbs ammonium 
+nitrate
+---
+---
+July 1
+---
+3 lbs ammonium 
+nitrate
+---
+August 1
+4 lbs ammonium 
+nitrate
+---
+---
+Souce: Building and Stabilizing Dunes with Vegatation. UNC Sea 
+Grant Publication 82-05, S. W. Broome et al., 1982
+
+Practice Standards and Specifications
+Definition
+Rolled erosion control products are manufactured or fabricated into rolls 
+designed to reduce soil erosion and assist in the growth, establishment 
+and protection of vegetation.  Examples of RECP’s are blankets, nets, and 
+matting. 
+Purpose
+Erosion control mats and blankets are intended to protect soil and hold seed and 
+mulch in place on slopes and in channels so that vegetation can become well 
+established.  Turf reinforcement mats can be used to permanently reinforce 
+grass in drainage ways during high flows.  Nets are made of high tensile 
+material woven into an open net which overlays mulch materials.  Blankets 
+are made of interlocking fibers, typically held together by a biodegradable 
+or photodegradable netting (for example, excelsior or straw blankets).  They 
+generally have lower tensile strength than nets, but cover the ground more 
+completely.  Coir (coconut fiber) fabric comes as both nets and blankets.
+Conditions Where 
+Practice Applies
+Rolled Erosion Control Products (RECP’s) should be used to aid permanent 
+vegetated stabilization of slopes 2:1 or greater and with more than 10 feet of 
+vertical relief.  RECP’s should also be used when mulch cannot be adequately 
+tacked and where immediate ground cover is required to prevent erosion 
+damage.
+RECP’s should be used to aid in permanent stabilization of vegetated channels 
+when runoff velocity will exceed 2 ft/sec on bare earth during the 2-year rainfall 
+event that produces peak runoff.  The product selected must have a permissible 
+shear stress that exceeds the shear stress of the design runoff event.
+ 
+Planning 
+Considerations
+• Good ground contact is critical to the effectiveness of these products.  If 
+good ground contact is not achieved, runoff can concentrate under the 
+product, resulting in significant erosion.
+• Nets must be used in conjunction with mulch.  Excelsior, woven straw 
+blankets and coir (coconut fiber) blankets may be installed without mulch. 
+There are many other types of erosion control nets and blankets on the 
+market that may be appropriate in certain circumstances.  In general, most 
+nets (e.g. jute matting) require mulch in order to prevent erosion because 
+they have a fairly open structure.  Blankets typically do not require mulch 
+because they usually provide complete protection of the surface.
+• Most netting used with blankets is photodegradable, meaning they break 
+down under sunlight (not UV stabilized).  However, this process can take 
+months or years even under bright sun.  Once vegetation is established, 
+sunlight does not reach the mesh.  It is not uncommon to find non-
+degraded netting still in place several years after the installation.  This can 
+be a problem if maintenance requires the use of mowers or ditch cleaning 
+equipment.  In addition, birds and small animals can become trapped in 
+the netting.
+RoLLed eRosion ConTRoL PRoduCTs
+6.17
+Rev. 6/06 
+6.17.1
+RECP
+
+6
+• Biodegradable blankets are available for use in sensitive areas.  These 
+organic blankets are usually held together with a fiber mesh and stitching 
+which may last up to a year. 
+Design Criteria
+The following discussion and examples of design are adapted from “Green 
+Engineering, Design Principles and Applications Using Rolled Erosion 
+Control Products” by  C. Joel Sprague.
+Slope Protection : Reducing raindrop and overland flow erosion.  The 
+Revised Universal Soil Loss Equation (RUSLE), as shown below, is commonly 
+used to estimate erosion due to rainfall and sheet runoff.
+A = R * K * LS * C * P
+where:
+A = soil loss in tons/acre/year
+R = rain factor
+K = soil erodibility
+LS = topographic factor
+C = cover factor
+P = practice factor
+The United States Department of Agriculture’s handbook, “Predicting Soil 
+Erosion by Water: A Guide to Conservation Planning with the Revised 
+Universal Soil Loss Equation (RUSLE), 1997,” provides agriculture-oriented 
+values for all of these variables. Yet, when the equation is used to estimate 
+construction-related erosion, the following unique C- and P-factors developed 
+specifically for these applications should be used.
+The C-Factor—C-factors are equal to the reduction in soil loss when using 
+a specific erosion control system when compared to the comparable bare soil 
+(control) condition. The designer will require C-factors representing various 
+conditions from unvegetated to fully vegetated, including vegetation, which 
+has been mulched or, alternatively, protected by an RECP, in order to determine 
+an appropriate factor to be used to represent the design condition. (See Table 
+6.17a for a range of C-factors.)
+6.17.2 
+Rev. 6/06
+
+Practice Standards and Specifications
+Table 6.17a                         C-Factor for Various slope Treatments
+Treatment
+Dry Mulch Rate
+C-Factor for Growing Period*
+kg/m3
+Slope %
+<6 Weeks
+1.5-6 Months
+6-12 Months
+Annualized**
+No mulching or seeding
+—
+all
+1.00
+1.00
+1.00
+1.00
+Seeded grass
+none
+all
+0.70
+0.10
+0.05
+0.15
+0.22
+<10
+0.20
+0.07
+0.03
+0.07
+0.34
+<10
+0.12
+0.05
+0.02
+0.05
+0.45
+<10
+0.06
+0.05
+0.02
+0.04
+0.45
+11 - 15
+0.07
+0.05
+0.02
+0.04
+0.45
+16 - 20
+0.11
+0.05
+0.02
+0.04
+0.45
+21 - 25
+0.14
+0.05
+0.02
+0.05
+0.45
+26 - 33
+0.17
+0.05
+0.02
+0.05
+0.45
+34 - 50
+0.20
+0.05
+0.02
+0.05
+Second-year grass
+—
+all
+0.01
+0.01
+0.01
+0.01
+Organic and Synthetic Blankets
+—
+all
+0.07
+0.01
+0.005
+0.02
+Composite Mats
+—
+all
+0.07
+0.01
+0.005
+0.02
+Synthetic Mats
+—
+all
+0.14
+0.02
+0.005
+0.03
+Fully Vegetated Mats
+—
+all
+0.005
+0.005
+0.005
+0.005
+ * Approximate time periods for humid climates: Conversion: kg/m3 x 4.45 = tons/acre. 
+ ** Annualized C-Factor = (<6 weeks value x 6/52) + (1.5-6 months value x 20/52) + (6-12 months value x 
+26/52).
+Table 6.17b                  Permissible shear stress, tP, of Various ReCP’s
+Category
+Product Type
+Max. Permis-
+sible Shear Stress 
+(lb/ft2)
+Slopes*
+Up To
+Degradable RECP’s (Unvegetated)
+Nets and Mulch
+0.1 - 0.2
+20:1
+Coir Mesh
+0.4 - 3.0
+3:1
+Blanket - Single Net
+1.55 - 2.0
+2:1
+Blanket - Double Net
+1.65 - 3.0
+1:1
+Nondegradable RECP’s
+Unvegetated TRM**
+2 - 4
+1:1
+Partially Vegetated TRM
+4 - 6
+>1:1
+Fully Vegetated
+5 - 10
+>1:1
+ * Steeper slope limits may apply.  For further information, contact the manufacturer.  
+** Turf Reinforcement Mat.
+Rev. 6/06 
+6.17.3
+
+6
+The P-Factor—when examining erosion by itself, is commonly taken as 1.0, 
+since this assumes that no special “practices” (i.e. terracing, contouring, etc.) 
+will be used. Yet, the use of silt fences or other storm water management/
+sediment control practices may be integrated into the RUSLE using a P-factor 
+that is less than 1.0, which reflects the effectiveness of the sediment control 
+practice in removing sediment from runoff.
+Sample Problem 
+6.17a
+A steep slope is to be protected from erosion using RECP. The 3H:1V 
+slope is 100 feet long and comprised of silty loam. The RUSLE will 
+be used to evaluate the effectiveness of RECP in limiting annual soil 
+loss. Following are the inputs to the RUSLE equation from the U.S. 
+Department of Agriculture:
+R = 250
+K = 0.33
+LS = 6.2
+P = 1.0 (assuming no sediment control)
+From Table 6.17a:
+Cunprotected = 1.00
+Cprotected, year 1 = 0.03
+Cprotected, year 2+ = 0.005
+Aunprotected = 250 x 0.33 x 6.2 x 1.0 x 1.0 = 511 tons/acre/year
+Aprotected, year 1 = 250 x 0.33 x 6.2 x 0.03 x 1.0 = 15 tons/acre/year
+Aprotected, year 2+ = 250 x 0.33 x 6.2 x 0.005 x 1.0 = 3 tons/acre/year
+This example shows that vegetation, protected by an RECP, is 97 
+percent effective in reducing erosion in the first year and 99.5 percent 
+effective in the longer-term.
+Table 6.17b aids in selecting an appropriate type of RECP for the 
+project-specific slope.
+Drainage Channels Concepts—Permissible shear design is commonly used 
+to determine if a channel liner is stable. This method requires the input of an 
+appropriate expected flow rate (discharge) as well as the determination of flow 
+depth.  A broader presentation of channel design is located in Appendix 8.05, 
+Design of Stable Channels and Diversions.
+The design flow rate will be based on local storm frequency design standards 
+and flow depth is calculated - commonly using Manning’s equation. With 
+these inputs the designer can then perform a permissible shear design, which 
+compares the permissible shear of the prospective liner materials to the 
+expected flow-induced shear as calculated using the equation below.
+tc = Y D S
+where:
+Y = unit weight of water (62.4lb/ft3) 
+d = depth of flow (ft)
+S = channel slope (ft/ft)
+6.17.4 
+Rev. 6/06
+
+Practice Standards and Specifications
+If the permissible shear stress, tp, is greater than the computed shear, tc, 
+the lining is considered acceptable. Values for permissible shear stress, tp, 
+for linings are based on research conducted at laboratory facilities and in the 
+field. Typical values are given in Table 6.17b. The permissible shear stress, 
+tp, indicates the force per unit area resulting from flowing water required to 
+create instability of the lining material and/or adjacent soil.
+Manning’s Equation and Roughness Coefficient, n—The condition of 
+uniform, steady flow in a channel at a known discharge is computed using 
+the Manning’s Equation below. Numerous computer programs are available 
+to facilitate the use of this equation since a trial-and-error solution relating 
+channel width, B, and depth, d, is required.
+Q = (1.49/n) (A) (R)2/3 (S)1/2
+Manning’s equation for determining velocity:
+V = (1.49/n) (R)2/3 (S)1/2
+where:
+Q = discharge (cfs)
+V = average velocity in cross section (ft/s)
+n = Manning’s roughness coefficient
+A = cross-sectional area (ft2)
+R = hydraulic radius = A/P (ft)
+P = wetted perimeter (ft)
+S = energy gradient (commonly taken as equivalent to the channel bed 
+slope, ft/ft)
+The appropriate Manning’s “n” to use when designing with RECP’s 
+depends on whether one is designing for bare soil retention and vegetation 
+establishment (short-term) or for fully grassed conditions (long term), or both. 
+The “n” values for RECP’s can vary significantly with material type and flow 
+depth, but they typically range from 0.02 to 0.04 and are usually provided by 
+the manufacturer.
+In lieu of product-specific information, the following values can be used as 
+approximations.
+nunvegetated = 0.02
+nvegetated = refer to Table 6.17c and Figure 6.17a
+nlined = refer to Table 8.05e
+Table 6.17c    grass Retardance Categories
+Average Grass Length
+Retardance
+>24 in.
+A
+10 in. to 24 in.
+B
+6 in. to 10 in.
+C
+2 in. to 6 in.
+d
+Less than 2 in.
+E
+Rev. 6/06 
+6.17.5
+
+6
+Figure 6.17a Hydraulic roughness of 
+grass
+Figure 6.17b Limiting values for bare 
+and TRM protected soils
+Figure 6.17c Limiting values for plain 
+and TRM reinforced grass
+6.17.6 
+Rev. 6/06
+
+Practice Standards and Specifications
+Sample Problem 
+6.17b
+Determine if an RECP-lined drainage channel will be stable for a long-
+term peak flow (10-year design storm) of 70 cfs down a 20:1 slope 
+(S=0.05) with a 4 foot bottom width and 1:1 side slopes. The duration of 
+flow is 50 hours for long-term and one hour for short-term design. The 
+grass cover is expected to be in retardance group D. Short-term stability 
+can be checked using the two-year design storm, which produces a 
+short-term peak flow of 45 cfs.
+Long-term design = vegetated channel stability
+• Use Qpeak = Q10-year = 70 cfs 
+• From Figure 6.17c: Limiting shear = 6 lb/ft2
+• Assume nvegetated = 0.05
+Solve for the depth of flow using iterations of Manning’s equation.  An 
+Excel spreadsheet located on the internet at http://www.dlr.enr.state.
+nc.us/pages/sedimenttecassist.html or commercially available channel 
+software is recommended.
+For trapezoidal channels: 
+(bd + zd2)
+         (bd + zd2)        2/3   
+    b + 2d (z2 + 1)1/2
+=
+   Qn
+1.49S1/2
+From trial-and-error, d = 1.7ft 
+Determine area of flow A, from A = (bd + zd2)
+= 9.8ft2
+Since slope < 1:10, calculate VR using:
+Vestimate = 7.1ft/s; 
+  VR= (7.1ft/s) (1.11) = 7.88ft/s
+From Figure 6.17a: Use n = 0.032.  Recalculate d = 1.34ft
+A = 7.14ft2
+Check shear stress tC = YDS
+= (62.4) (1.34) (0.05)
+= 4.18 lb/ft2
+4.18 < 6 lb/ft2, therefore acceptable 
+Rev. 6/06 
+6.17.7
+
+6
+Sample Problem 
+6.17b con’t.
+short-term design = bare soil channel stability
+• Use Qpeak = Q2-year = 45 cfs
+• From Figure 6.17b: Limiting shear = 4.5 lb/ft2
+• For mat on bare soil, n = 0.03
+Determine depth of flow via trail-and-error using Manning’s Equation:
+For trapezoidal channels: (bd + zd2)
+(bd + zd2)
+         (bd + zd2)        2/3   
+    b + 2d (z2 + 1) 1/2
+=     Qn
+  1.49S1/2
+From trial-and-error, d = 1.0ft
+Check shear stress t = YDS
+= (62.4) (1.0) (0.05)
+= 3.12 lb/ft2
+3.12 < 4.5 lb/ft2, therefore acceptable
+Construction 
+Specifications
+Construction 
+Even if properly designed, if not properly installed, RECP’s will probably 
+not function as desired. Proper installation is imperative.  Even if properly 
+installed, if not properly timed and nourished, vegetation will probably not 
+grow as desired.  Proper seed/vegetation selection is also imperative.
+Grade the surface of installation areas so that the ground is smooth and loose. 
+When seeding prior to installation, follow the steps for seed bed preparation, 
+soil amendments, and seeding in Surface Stabilization, 6.1.  All gullies, rills, 
+and any other disturbed areas must be fine graded prior to installation.  Spread 
+seed before RECP installation. (Important: Remove all large rocks, dirt clods, 
+stumps, roots, grass clumps, trash, and other obstructions from the soil surface 
+to allow for direct contact between the soil surface and the RECP.)
+Terminal anchor trenches are required at RECP ends and intermittent trenches 
+must be constructed across channels at 25-foot intervals. Terminal anchor 
+trenches should be a minimum of 12 inches in depth and 6 inches in width, 
+while intermittent trenches need be only 6 inches deep and 6 inches wide.
+Installation for Slopes— Place the RECP 2-3 feet over the top of the slope 
+and into an excavated end trench measuring approximately 12 inches deep 
+by 6 inches wide.  Pin the RECP at 1 foot intervals along the bottom of the 
+trench, backfill, and compact.  Unroll the RECP down (or along) the slope 
+maintaining direct contact between the soil and the RECP.  Overlap adjacent 
+rolls a minimum of 3 inches. Pin the RECP to the ground using staples or 
+pins in a 3 foot center-to-center pattern.  Less frequent stapling/pinning is 
+acceptable on moderate slopes.
+6.17.8 
+Rev. 6/06
+
+Practice Standards and Specifications
+Installation in Channels— Excavate terminal trenches (12 inches deep and 6 
+inches wide) across the channel at the upper and lower end of the lined channel 
+sections.  At 25-foot intervals along the channel, anchor the RECP across the 
+channel either in 6 inch by 6 inch trenches or by installing two closely spaced 
+rows of anchors.  Excavate longitudinal trenches 6 inches deep and wide along 
+channel edges (above water line) in which to bury the outside RECP edges. 
+Place the first RECP at the downstream end of the channel.  Place the end of 
+the first RECP in the terminal trench and pin it at 1 foot intervals along the 
+bottom of the trench.  
+Note: The RECP should be placed upside down in the trench with the roll on 
+the downstream side of the bench.
+Once pinned and backfilled, the RECP is deployed by wrapping over the 
+top of the trench and unrolling upstream.  If the channel is wider than the 
+provided rolls, place ends of adjacent rolls in the terminal trench, overlapping 
+the adjacent rolls a minimum of 3 inches. Pin at 1 foot intervals, backfill, and 
+compact.  Unroll the RECP in the upstream direction until reaching the first 
+intermittent trench.  Fold the RECP back over itself, positioning the roll on 
+the downstream side of the trench, and allowing the mat to conform to the 
+trench.
+Then pin the RECP (two layers) to the bottom of the trench, backfill, and 
+compact.  Continue up the channel (wrapping over the top of the intermittent 
+trench) repeating this step at other intermittent trenches, until reaching the 
+upper terminal trench.
+At the upper terminal trench, allow the RECP to conform to the trench, 
+secure with pins or staples, backfill, compact and then bring the mat back 
+over the top of the trench and onto the existing mat (2 to 3 feet overlap in the 
+downstream direction), and pin at 1 foot intervals across the RECP.  When 
+starting installation of a new roll, begin in a trench or shingle-lap ends of rolls 
+a minimum of 1 foot with upstream RECP on top to prevent uplifting.  Place 
+the outside edges of the RECP(s) in longitudinal trenches, pin, backfill, and 
+compact.
+Anchoring Devices—11 gauge, at least 6 inches length by 1 inch width staples 
+or 12 inch minimum length wooden stakes are recommended for anchoring the 
+RECP to the ground.
+Drive staples or pins so that the top of the staple or pin is flush with the ground 
+surface.  Anchor each RECP every 3 feet along its center.  Longitudinal 
+overlaps must be sufficient to accommodate a row of anchors and uniform 
+along the entire length of overlap and anchored every 3 feet along the overlap 
+length.  Roll ends may be spliced by overlapping 1 foot (in the direction of 
+water flow), with the upstream/upslope mat placed on top of the downstream/
+downslope RECP.  This overlap should be anchored at 1 foot spacing across 
+the RECP.  When installing multiple width mats heat seamed in the factory, all 
+factory seams and field overlaps should be similarly anchored.
+Rev. 6/06 
+6.17.9
+
+6
+Figure 6.17d  Temporary Channel Liners; Washington State Department of Ecology
+6.17.10 
+Rev. 6/06
+Overlap 6” min.
+NOTES: 
+1. Design velocities exceeding 2 ft/sec require temporary blankets, mats or similar liners to protect 
+seed and soil until vegetation becomes established. 
+2. Grass-lined channels with design velocities exceeding 6 ft/sec should include turf reinforcement 
+mats
+Flow
+Prepare soil and apply seed before 
+installing blankets, mats or other 
+temporary channel liner system
+Shingle-lap spliced ends or begin new 
+roll in an intermittent check slot
+Longitudinal anchor trench
+Intermittent check slot
+6”
+Typical installation 
+with erosion control 
+blankets or turf 
+reinforcement mats
+Overcut channel 2” to allow bulking 
+during seedbed preparation
+Longitudinal 
+anchor trench
+Excavate channel to design 
+grade and cross-section
+Design depth
+6”
+6”
+
+Practice Standards and Specifications
+Figure 6.17e  Channel Installation and Slope Installation; Washington State Ecology Department
+Rev. 6/06 
+6.17.11
+6”
+Longitudinal anchor 
+trench
+12”
+Terminal slope and 
+channel anchor trench
+Stake at 3’-5’ 
+intervals
+Channel 
+bottom
+Check slot at 25’ 
+intervals
+Initial channel 
+anchor trench
+Intermittent 
+check slot
+NOTE: 
+1. Check slots to be constructed per manufacturers specifications. 
+2. Staking or stapling layout per manufacturers specifications.
+Lime, fertilize, and seed before installation. Planting 
+of shrubs, trees, etc. should occur after installation. 
+Bring material down to a level area, 
+turn the end under 4” and staple at 12” 
+intervals.
+Staple overlaps 
+max. 5” spacing.
+Min. 6” overlap.
+Anchor in 6”x6” min. Trench 
+and staple at 12” intervals.
+If there is a berm at the top of 
+slope, anchor upslope of the berm.
+For slopes less than 3H:1V, rolls 
+may be placed in horizontal strips.
+Do not stretch blankets/matting tight-allow 
+the rolls to conform to any irregularities.
+Min. 2” 
+overlap
+Stapling pattern as 
+per manufacturers 
+recommendations.
+Slope surface shall be smooth before 
+placement for proper soil contact.
+
+6
+Maintenance
+1. Inspect Rolled Erosion Control Products at least weekly and after each 
+significant (1/2 inch or greater) rain fall event repair immediately. 
+2. Good contact with the ground must be maintained, and erosion must not 
+occur beneath the RECP.
+3. Any areas of the RECP that are damaged or not in close contact with the 
+ground shall be repaired and stapled.
+4. If erosion occurs due to poorly controlled drainage, the problem shall be 
+fixed and the eroded area protected.
+5. Monitor and repair the RECP as necessary until ground cover is 
+established.  
+References
+Sprague, C. Joel. TRI/ Environmental, Inc. “Green Engineering, Design 
+principles and applications using rolled erosion control products”
+Storm Water Management Manual for Western Washington, Washington State 
+Department of Ecology, Water Quality Program
+http://www.ecy.wa.gov/programs/wq/stormwater/index.html
+Erosion Control Technology Council, http://www.ectc.org
+6.17.12  
+Rev. 6/07
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.18 
+ 
+    
+Definition 
+Compost is the organic product resulting from the controlled biological 
+decomposition of organic material, occurring under aerobic conditions that has 
+been sanitized through the generation of heat and stabilized to the point that it is 
+appropriate for its particular application. Active composting is characterized by a 
+high-temperature phase that sanitizes the product and allows a high rate of 
+decomposition.  This is followed by a lower-temperature phase that allows the 
+compost to stabilize while it continues to decompose at a slower rate. Compost 
+should possess no objectionable odors.  It shall not contain substances toxic to 
+plants, and shall not resemble the raw material from which it was derived. 
+Compost is not a fertilizer.  
+ 
+It is recommended that compost utilized on construction sites in North Carolina 
+meet the minimum rules and regulations for proper thermophilic composting set 
+forth by NCDENR, defined by USEPA, described in 40 Code of Federal 
+Regulations Part 503, Appendix B, and as described in Table 6.18a.  
+   
+Most compost contains a wood based fraction (e.g., bark, ground brush, wood 
+chips, etc.) which is typically removed before the compost is used as a soil 
+amendment.  However, this coarser, woody fraction of the compost plays an 
+important role in erosion and sediment control. For certain compost applications 
+it may be advantageous to add fresh, ground bark or composted, properly sized 
+wood based material to a compost product to improve its efficacy in a particular 
+application.  
+   
+Compost materials may be considered fill material when placed in wetlands or 
+riparian buffers.  Prior to installation in these areas consult with the U.S. Army 
+Corp of Engineers, and the NCDENR Division of Water Quality for permitting  
+requirements. 
+ 
+Compost Blankets 
+  
+A compost blanket is a slope stabilization, erosion control, and vegetation 
+establishment practice used on construction sites to stabilize bare, disturbed, or 
+erodible soils. Compost blankets may be used for temporary erosion control and 
+in the process of providing permanent vegetative cover. 
+ 
+ 
+6.18.1
+Rev. 5/13
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+Figure 6.18 
+ 
+ 
+Figure 6.18a Compost Blanket Installation
+ 
+  Conditions Where 
+     Practice Applies   
+Compost blankets should be considered when soil is poor.  Compost blankets can 
+be placed on rocky slopes and shallow or infertile soils to improve the growth 
+medium for grasses.  Care should be taken not to apply compost where it can 
+raise the nutrient level of streams.  When the blanket is specified for permanent 
+stabilization, vegetative cover shall be incorporated with the compost at rates 
+shown in the seeding specification on the approved plan and maintained until the 
+permanent cover is established.  Where specified for temporary stabilization the 
+blanket must be installed and maintained as specified in the construction 
+sequence on the approved plan.  A temporary vegetative cover or nurse crop 
+should be considered for incorporation with temporary compost blankets.   
+ 
+          
+Planning  
+Considerations  Compost blankets have a mulch function and cover 100% of the soil surface, and 
+therefore provide the beneficial effects characteristic to mulches, including: 
+reduced raindrop impact and splash erosion, reduced runoff energy and sheet 
+erosion, buffered soil temperature for plants, decreased moisture evaporation, 
+increased moisture holding capacity at the soil surface, reduced runoff volume 
+and velocity, and increased infiltration.  Where planned and applied correctly to a 
+properly prepared subgrade, compost blankets can aid in amending the soil.  This 
+can provide benefits to the soil's structure; increased aggregation, aeration, 
+infiltration and percolation, moisture holding capacity, activity of beneficial 
+microbes, availability of nutrients; decreased runoff volume and velocity, and 
+decreased erosion; increased plant health; and long-term site sustainability.  
+   
+A compost blanket may be considered appropriate for erosion and sediment 
+control in conjunction with other methodologies, during the construction process. 
+Compost blankets should only be used to control sheet flow from rainfall.  
+Blankets may not be utilized in areas of concentrated runoff.  Blankets may not 
+Compost Blanket  
+(with appropriate seed mix where specified) 
+ 
+ 
+ 
+ 
+ 
+ 
+Protected Soil 
+1-2 Inch Profile 
+100% Soil Contact 
+6.18.2
+Rev. 5/13
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+be utilized in areas subject to vehicular traffic and use by heavy equipment.  Very 
+coarse compost should be avoided, if the slope is to be landscaped or seeded, as it 
+will make planting and crop establishment more difficult.   
+  
+When planning the use of compost blankets, it is recommended to use products 
+that are certified by the US Composting Council’s Seal of Testing (STA) 
+Program (www.compostingcouncil.org
+ 
+).  This practice will allow for the 
+acquisition of products that are analyzed on a routine basis, using the specified 
+test methods. STA participants are also required to provide a standard product 
+label to all customers, allowing easy comparison to other products. Compost use 
+for compost blankets should be considered mature as defined by USCC-STA 
+Biological Assays Seedling Emergence and Relative Growth test.  
+       Design Criteria  
+Compost blankets may be used for temporary erosion/sediment control 
+applications. This application is appropriate for slopes up to a 2:1 grade 
+(horizontal distance: vertical distance), and only be used in areas that have sheet 
+flow drainage patterns (not areas that receive concentrated flows). Slopes steeper 
+than 2:1 may require special installation techniques (consult compost supplier for 
+recommendations).  The chemical, physical and biological parameters of 
+compost blankets approved for use in this application are described in Table 
+6.18a.  Only compost products that meet all applicable state and federal 
+regulations pertaining to its production and distribution may be used. Approved 
+compost products must meet related state and federal chemical contaminant (e.g., 
+heavy metals, pesticides, etc.) and pathogen limit standards pertaining to the 
+source materials from which it is derived.   
+ 
+Table 6.18a – Compost Blanket Parameters  
+ 
+Parameters
+Reported as  
+1,4
+ 
+(units of 
+measure)  
+Surface Mulch to be 
+Vegetated  
+Surface Mulch  
+to be left  
+Un-vegetated  
+Test Method 
+Test Method Name 
+pH
+pH units  
+2
+ 
+5.0 - 8.5  
+N/A  
+TMECC 04.11-A  
+Electrometric pH 
+Determinations for 
+Compost.  1:5 Slurry 
+Method 
+Soluble Salt 
+Concentration
+(electrical conductivity)  
+2
+ 
+dS/m (mmhos/cm)  Maximum 5  
+Maximum 5  
+TMECC 04.10-A  
+Electrical 
+Conductivity for 
+Compost. 1:5 Slurry 
+Method (Mass Basis) 
+Moisture Content  
+%, wet weight 
+basis  
+30 – 60  
+30 – 60  
+TMECC 03.09-A 
+Total Solids and 
+Moisture at 70±5°C  
+Organic Matter Content  
+%, dry weight 
+basis  
+25 – 65  
+25-100  
+TMECC 05.07-A 
+Matter Method.  Loss 
+On Ignition Organic 
+Matter Method 
+Particle Size  
+  
+% passing a 
+selected mesh 
+size, dry weight 
+basis   
+• 3” (75 mm), 100% 
+passing  
+• 1”  (25mm),  
+90- 100% passing   
+• 3/4” (19mm), 65-
+100% passing   
+• 1/4” (6.4 mm),  
+• 3” (75 mm), 
+99% passing  
+• 1”  (25mm),  
+90-100% passing   
+• 3/4” (19mm), 
+65-100% passing   
+• 1/2” (12.5 mm), 
+TMECC 02.12-B 
+Laboratory Sample 
+Preparation.  Sample 
+Sieving for Aggregate 
+Size Classification 
+6.18.3
+Rev. 5/13
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0-75% passing   
+• Maximum particle 
+length of 6” (152mm)   
+0-30% passing  
+• Maximum 
+particle length of 
+6” (152mm)  
+Stability
+Carbon Dioxide  
+3
+ 
+Evolution Rate  
+  
+mg CO
+2
+  
+-C per g 
+OM per day  
+< 8   
+  
+N/A  
+TMECC 05.08-B 
+Respirometry.  
+Carbon Dioxide 
+Evolution Rate 
+Maturity (Bioassay)  
+Percent Emergence  
+Relative Seedling Vigor  
+% (average)  
+% (average)  
+100%  
+100%  
+90-100%  
+90-100%  
+TMECC 05.05-A 
+ 
+Physical Contaminants 
+(man-made inerts)  
+%, dry weight 
+basis  
+< 1  
+< 1  
+ 
+Biological Assays.  
+Seedling Emergence 
+and Relative Growth 
+  
+1 
+Recommended test methodologies are provided in Test Methods for the Examination of      
+Composting and Compost (TMECC, The US Composting Council) 
+2 
+Each specific plant species requires a specific pH range. Each plant also has a salinity tolerance rating, 
+and maximum tolerable quantities are known. When specifying the establishment of any plant or turf 
+species, it is important to understand their pH and soluble salt requirements, and how they relate to the 
+compost in use. 
+3 
+Stability/Maturity rating is an area of compost science that is still evolving, and as such, other various 
+test methods could be considered. Also, never base compost quality conclusions on the result of a 
+single stability/maturity test. 
+4 
+Landscape architects and project (field) engineers may modify the allowable compost specification 
+ranges based on specific field conditions and plant requirements. 
+ 
+   
+Construction  
+The following steps shall be taken for the installation of compost blankets for 
+Specifications  
+erosion/sediment control. The information shall also be included in the 
+construction sequence on the approved erosion and sediment control plan.  
+Prepare the soil by removing large clods, rocks, stumps, roots as described in 
+Chapter 6 of this manual.   
+  
+ 
+Apply the compost blanket to 100% of the area as required on the approved plan.  
+ 
+1.   The blanket shall cover 100% of the bare or disturbed soil area, whereas, no 
+native soil shall be visible in or through the compost blanket. It shall be 
+applied at the application rates, as specified in Table 6.18b. Seed shall be 
+thoroughly mixed with the compost prior to application or surface applied to 
+the compost blanket at time of application at the appropriate rates as 
+prescribed by the approved plan. 
+ 
+2.  Compost blankets shall be installed at least 10 ft over and beyond the shoulder 
+of the slope and/or into the edge of existing vegetation to ensure runoff does 
+not undercut the blanket.  When installing into the edge of existing 
+vegetation, care must be taken not to disturb the existing root mat. 
+  
+ 
+ 
+3.    Compost blanket application rates should be designed and specified based on
+specific site (e.g., soil characteristics, existing vegetation) and climatic 
+conditions, as well as particular project related requirements and calculated 
+storm water runoff.  
+6.18.4
+Rev. 5/13
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.  Compost blankets installed on slopes greater than or equal to 4:1 shall be 
+tracked.  Blankets on 3:1 slopes shall be tracked and secured with an 
+adequate rolled erosion control product.  (See Practice Standard 6.17 Rolled 
+Erosion Control Products (RECP) for installation procedure.)  Where high 
+winds and wind erosion are expected, RECPs shall be installed over the 
+compost blanket, regardless of slope. All other installation procedures and 
+specifications will be as shown on the approved plan and described in the 
+approved construction sequence.  Compost shall be uniformly applied as 
+described in the approved construction sequence with the appropriate 
+equipment.  If required, thorough watering may be used to improve settling 
+of the blanket.  
+  7aEle E – Compost Blanket Application Rates
+   
+*these lower application rates should only be used in conjunction with seeding, and for compost blankets 
+applied during the prescribed planting season for the particular region.  
+ 
+Maintenance 
+Inspect compost blankets weekly and within 24 hours of a rainfall event of ½ 
+inch or greater.  If failure or damage to the blanket occurs or if vegetation does 
+not establish within the expected germination time of the selected seed type, 
+reapply compost and seed to the affected area to return it to the original 
+condition.  Take additional measures as necessary to establish permanent ground 
+cover.  Compost blankets shall be inspected until permanent vegetation is 
+established.  RECP placed over the compost blanket should be repaired if it has 
+been moved or damaged by wind or storm runoff and/or if part of or the whole 
+blanket is not in contact with the soil surface.   
+ 
+ 
+ 
+ 
+Annual 
+Rainfall/Flow 
+Rate  
+Total Precipitation 
+& Rainfall Erosivity 
+Index  
+Application Rate For 
+Vegetated*
+Application Rate For 
+ Compost 
+Surface Mulch  
+Unvegetated Compost Surface 
+Mulch  
+Low  
+1”-25”,  
+20-90  
+1”–1 ½”  
+(25 mm – 37.5mm)  
+1”–1 ½”  
+(25 mm – 37.5mm)   
+Average  
+26”-50”,  
+91-200  
+1”–1 ½”  
+(25 mm – 37.5mm)  
+1 ½”–2”  
+(37 mm – 50 mm)  
+High  
+51” and above,  
+201 and above  
+1”-2”  
+(25 mm - 50 mm)  
+2”-4”  
+(50mm – 100mm)  
+6.18.5
+Rev. 5/13
+
+Practice Standards and Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Compost Sampling And Characterization Of Compost   
+ 
+Sampling procedures to be used for purposes of this specification (and the Seal of Testing Assurance 
+program) are as provided in 02.01 Field Sampling of Compost Materials, 02.01-B Selection of Sampling 
+Locations for Windrows and Piles of the Test Methods for the Examination of Compost and Composting 
+(TMECC), Chapter 2, Section One, Sample Collection and Laboratory Preparation, jointly published by 
+the USDA and USCC (2002 publishing as a part of the USDA National Resource Conservation Technical 
+Bulletin Series). The sample collection section is available online at http://compostingcouncil.org/tmecc/
+ 
+. 
+Test Methods to be used for purposes of this specification are as provided in The Test Methods for the 
+Examination of Compost and Composting (TMECC), Jointly published by the USDA and USCC (2002 
+publishing as a part of the USDA National Resource Conservation Technical Bulletin Series). A list of 
+such methods is provided online at 
+  
+http://compostingcouncil.org/tmecc/ 
+References   
+Chapter 3 Vegetative Considerations  
+Chapter 6 Surface Stabilization  
+  
+ 
+ 
+ 
+ 6.03, Surface Roughing  
+6.10, Temporary Seeding  
+6.11, Permanent Seeding  
+6.17, Rolled Erosion Control Products 
+ 
+Test Methods for the Examination of Compost and Composting TMECC), jointly     
+   published by the USDA and US Composting Council (2002 publishing as a   
+   part of the USDA National Resource Conservation Technical Bulletin Series).  
+   http://compostingcouncil.org/tmecc/ 
+  
+ECTC. 2004. Erosion Control Technology Council Standard Specification for  
+   Rolled Erosion Control Products. Rev. 4904. www.ectc.org  
+ 
+Faucette, L.B., C.F. Jordan, L.M. Risse, M. Cabrera, D.C. Coleman, and L.T.  
+   West. 2005. Evaluation of storm water from compost and conventional erosion  
+   control practices in construction activities. Journal of Soil and Water  
+   Conservation. 60:6:288-297.  
+Fifield, J. 2001. Designing for Effective Sediment and Erosion Control on  
+   Construction Sites. Forester Press, Santa Barbara, CA.
+   
+ 
+Tyler, R., A. Marks, B. Faucette. 2010. The Sustainable Site: Design Manual for  
+   Green Infrastructure and Low Impact Development Forester Press, Santa  
+   Barbara, CA. 
+ 
+ 
+  
+ 
+ 
+ 
+   Control Manual, 2000, 5th Ed..
+GA Soil and Water Conservation Commission, 2000.  Georgia Erosion and Sediment
+6.18.6
+Rev. 5/13

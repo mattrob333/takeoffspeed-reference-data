@@ -1,0 +1,61 @@
+[gpt-6-astra tokens in 6217 out 4404]
+**The visible details do not establish a unique acoustic-sealant total for all four groups.** In particular, E-B01 and the general notes are cut off/not visible in these crops, and D-T01 specifies **“continuous sealant,”** not expressly *acoustical* sealant.
+
+### Bead counts shown by the details
+
+| Wall group | Base beads per LF | Head beads per LF |
+|---|---:|---|
+| Full-height, two-sided A walls — **149.2 LF** | **2** at A-B01: one **outside each runner-track flange, beneath each gypsum-board face**. Not two beads per face. | **2 acoustical** at A-T01. **None shown** at A-T02 or A-T03. |
+| Full-height, one-sided D walls — **49.7 LF** | **1** at D-B01: on the **gypsum-board/room side, outside that track flange**. No second bead is drawn at the bare, backing-wall side of the track. | D-T01 shows **1 continuous-sealant bead** on the board side; its acoustic classification needs confirmation. D-T02 shows **none**. |
+| Low, two-sided walls — **26.0 LF** | **2**, applying the two-sided A-B01 base detail. | **No acoustical bead is documented at a low-wall cap.** None of the supplied head details is a free-standing low-wall-top detail. |
+| Exterior studs, inside GWB only — **153.4 LF** | **Not established by the visible details.** | **Not established by the visible details.** One-sided board alone does not establish the perimeter-sealant requirements. |
+
+A further distinction matters: **studs reaching structure do not necessarily mean A-T01 applies.** A-T02 also has framing reaching structure, but its boards stop 6 inches above the ceiling and it does not show head sealant. The applicable head-detail assignments are needed.
+
+### Arithmetic
+
+The identifiable **interior base** quantity is:
+
+\[
+(149.2\times2)+(49.7\times1)+(26.0\times2)
+=298.4+49.7+52.0
+=\boxed{400.1\text{ LF}}
+\]
+
+**If all the full-height A walls use A-T01**, their head quantity is:
+
+\[
+149.2\times2=298.4\text{ LF}
+\]
+
+That gives:
+
+\[
+400.1+298.4=\boxed{698.5\text{ LF}}
+\]
+
+This excludes exterior sealant and the acoustically unconfirmed D head sealant.
+
+**If all D walls use D-T01 and its “continuous sealant” is confirmed acoustical**, add:
+
+\[
+49.7\times1=49.7\text{ LF}
+\]
+
+\[
+698.5+49.7=\boxed{748.2\text{ LF}}
+\]
+
+Finally, **if** the missing exterior details require one acoustical base bead and one acoustical head bead, add:
+
+\[
+153.4\times(1+1)=306.8\text{ LF}
+\]
+
+The resulting **conditional** total would be:
+
+\[
+596.8+99.4+52.0+306.8=\boxed{1,055.0\text{ LF}}
+\]
+
+**But 1,055.0 LF is not established by these crops.** It depends on A-T01 and D-T01 assignments, confirmation that D’s head sealant is acoustical, and an exterior requirement of one base plus one head bead. No low-wall-top acoustic bead has been added because none is documented here.

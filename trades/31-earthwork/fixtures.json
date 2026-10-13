@@ -1,0 +1,988 @@
+[
+ {
+  "name": "31-earthwork line 629: EXCAVATION PROVIDED FOR FOOTING",
+  "formula": "excavationCY = [wf.length*(wf.width+2*wsWall)*(wf.thickness+tof) + sum(n*(L+2*wsPad)*(W+2*wsPad)*(T+tof))] / 27",
+  "inputs": {
+   "wallFooting": {
+    "mark": "WF20",
+    "length": {
+     "value": 124.2,
+     "unit": "LF"
+    },
+    "width": {
+     "value": 2,
+     "unit": "ft"
+    },
+    "thickness": {
+     "value": 1,
+     "unit": "ft"
+    }
+   },
+   "spreadFootings": [
+    {
+     "mark": "F30",
+     "length": {
+      "value": 3,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 3,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 3,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F38",
+     "length": {
+      "value": 3.666667,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 3.666667,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 3,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F50",
+     "length": {
+      "value": 5,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 5,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1.166667,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 6,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F60",
+     "length": {
+      "value": 6,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 6,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1.333333,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 1,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F70",
+     "length": {
+      "value": 7,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 7,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1.333333,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 1,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F7040",
+     "length": {
+      "value": 7,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 4,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1.333333,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 1,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F10050",
+     "length": {
+      "value": 10,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 5,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1.166667,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 1,
+      "unit": "EA"
+     }
+    }
+   ],
+   "topOfFootingBelowFF": {
+    "value": 2,
+    "unit": "ft"
+   },
+   "workingSpaceWallPerSide": {
+    "value": 1,
+    "unit": "ft"
+   },
+   "workingSpacePadPerSide": {
+    "value": 0.5,
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 119.8,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "629 / p33 S-201 legend + S-201 schedules"
+ },
+ {
+  "name": "31-earthwork line 630: BACKFILL PROVIDED FOR FOOTING",
+  "formula": "backfillCY = excavationCY(geometry) - footingConcrete - stemWallConcrete",
+  "inputs": {
+   "wallFooting": {
+    "mark": "WF20",
+    "length": {
+     "value": 124.2,
+     "unit": "LF"
+    },
+    "width": {
+     "value": 2,
+     "unit": "ft"
+    },
+    "thickness": {
+     "value": 1,
+     "unit": "ft"
+    }
+   },
+   "spreadFootings": [
+    {
+     "mark": "F30",
+     "length": {
+      "value": 3,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 3,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 3,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F38",
+     "length": {
+      "value": 3.666667,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 3.666667,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 3,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F50",
+     "length": {
+      "value": 5,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 5,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1.166667,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 6,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F60",
+     "length": {
+      "value": 6,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 6,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1.333333,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 1,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F70",
+     "length": {
+      "value": 7,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 7,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1.333333,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 1,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F7040",
+     "length": {
+      "value": 7,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 4,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1.333333,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 1,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F10050",
+     "length": {
+      "value": 10,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 5,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1.166667,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 1,
+      "unit": "EA"
+     }
+    }
+   ],
+   "topOfFootingBelowFF": {
+    "value": 2,
+    "unit": "ft"
+   },
+   "workingSpaceWallPerSide": {
+    "value": 1,
+    "unit": "ft"
+   },
+   "workingSpacePadPerSide": {
+    "value": 0.5,
+    "unit": "ft"
+   },
+   "footingConcrete": {
+    "value": 25.925803,
+    "unit": "CY",
+    "from": "estimate lines 19-26, the estimator's printed CY (WF20 line 19 = 9.196296 uses estimator LF 124.15; legend 124.2 gives 9.2)"
+   },
+   "stemWallConcrete": {
+    "value": 10.150741,
+    "unit": "CY",
+    "from": "estimate lines 27-28, the estimator's printed CY 9.628148 + 0.522593 (estimator: 194.0 LF x 2 ft x 0.67 ft and 8.5 LF x 2 ft x 0.83 ft; legend 193.8 / 8.4 LF at 8\" / 10\" gives 10.0889 CY)"
+   }
+  },
+  "expected": {
+   "quantity": 83.7,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "630 / line 629 - lines 19-28"
+ },
+ {
+  "name": "31-earthwork line 631: HAULING OFF EXTRA MATERIAL",
+  "formula": "haulCY = excavationCY - backfillCY (= footingConcrete + stemWallConcrete, bank CY, no swell)",
+  "inputs": {
+   "wallFooting": {
+    "mark": "WF20",
+    "length": {
+     "value": 124.2,
+     "unit": "LF"
+    },
+    "width": {
+     "value": 2,
+     "unit": "ft"
+    },
+    "thickness": {
+     "value": 1,
+     "unit": "ft"
+    }
+   },
+   "spreadFootings": [
+    {
+     "mark": "F30",
+     "length": {
+      "value": 3,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 3,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 3,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F38",
+     "length": {
+      "value": 3.666667,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 3.666667,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 3,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F50",
+     "length": {
+      "value": 5,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 5,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1.166667,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 6,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F60",
+     "length": {
+      "value": 6,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 6,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1.333333,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 1,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F70",
+     "length": {
+      "value": 7,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 7,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1.333333,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 1,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F7040",
+     "length": {
+      "value": 7,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 4,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1.333333,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 1,
+      "unit": "EA"
+     }
+    },
+    {
+     "mark": "F10050",
+     "length": {
+      "value": 10,
+      "unit": "ft"
+     },
+     "width": {
+      "value": 5,
+      "unit": "ft"
+     },
+     "thickness": {
+      "value": 1.166667,
+      "unit": "ft"
+     },
+     "count": {
+      "value": 1,
+      "unit": "EA"
+     }
+    }
+   ],
+   "topOfFootingBelowFF": {
+    "value": 2,
+    "unit": "ft"
+   },
+   "workingSpaceWallPerSide": {
+    "value": 1,
+    "unit": "ft"
+   },
+   "workingSpacePadPerSide": {
+    "value": 0.5,
+    "unit": "ft"
+   },
+   "footingConcrete": {
+    "value": 25.925803,
+    "unit": "CY",
+    "from": "estimate lines 19-26, the estimator's printed CY (WF20 line 19 = 9.196296 uses estimator LF 124.15; legend 124.2 gives 9.2)"
+   },
+   "stemWallConcrete": {
+    "value": 10.150741,
+    "unit": "CY",
+    "from": "estimate lines 27-28, the estimator's printed CY 9.628148 + 0.522593 (estimator: 194.0 LF x 2 ft x 0.67 ft and 8.5 LF x 2 ft x 0.83 ft; legend 193.8 / 8.4 LF at 8\" / 10\" gives 10.0889 CY)"
+   }
+  },
+  "expected": {
+   "quantity": 36.1,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.1,
+  "source": "631 / line 629 - line 630"
+ },
+ {
+  "name": "31-earthwork line 639: CUT REQUIRED FOR GRADING",
+  "formula": "cutCY = sum(region.cut)",
+  "inputs": {
+   "regions": [
+    {
+     "proposedElev": {
+      "value": 440.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 0,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 51.72,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 440.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 1.78,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 151.02,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 440.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 0,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 224.56,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 440.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 0,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 199,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 440.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 0,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 2.11,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 440.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 0,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 12.81,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 439.5,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 61.2,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 84.11,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 439.5,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 15.69,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 0,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 439.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 27.56,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 37.98,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 439.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 58.96,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 18.35,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 438.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 47.33,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 4.59,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 437.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 25.2,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 0,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 436.5,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 238.52,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 0,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 435.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 158.17,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 0,
+      "unit": "CY"
+     }
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 634.41,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.01,
+  "source": "639 / p92 Earthwork Pro Summary (C-4.0)"
+ },
+ {
+  "name": "31-earthwork line 640: FILL REQUIRED FOR GRADING",
+  "formula": "fillCY = sum(region.fill)",
+  "inputs": {
+   "regions": [
+    {
+     "proposedElev": {
+      "value": 440.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 0,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 51.72,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 440.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 1.78,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 151.02,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 440.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 0,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 224.56,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 440.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 0,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 199,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 440.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 0,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 2.11,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 440.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 0,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 12.81,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 439.5,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 61.2,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 84.11,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 439.5,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 15.69,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 0,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 439.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 27.56,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 37.98,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 439.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 58.96,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 18.35,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 438.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 47.33,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 4.59,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 437.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 25.2,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 0,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 436.5,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 238.52,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 0,
+      "unit": "CY"
+     }
+    },
+    {
+     "proposedElev": {
+      "value": 435.0,
+      "unit": "ft"
+     },
+     "cut": {
+      "value": 158.17,
+      "unit": "CY"
+     },
+     "fill": {
+      "value": 0,
+      "unit": "CY"
+     }
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 786.25,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.01,
+  "source": "640 / p92 Earthwork Pro Summary (C-4.0)"
+ },
+ {
+  "name": "31-earthwork line 641: NET FILL",
+  "formula": "netFillCY = fillCY - cutCY (shrinkPct = 0)",
+  "inputs": {
+   "cut": {
+    "value": 634.41,
+    "unit": "CY"
+   },
+   "fill": {
+    "value": 786.25,
+    "unit": "CY"
+   },
+   "shrinkPct": {
+    "value": 0,
+    "unit": "%"
+   }
+  },
+  "expected": {
+   "quantity": 151.84,
+   "unit": "CY"
+  },
+  "tolerancePct": 0.01,
+  "source": "641 / p92 Qty total"
+ }
+]

@@ -1,0 +1,617 @@
+[
+ {
+  "name": "32c-erosion-landscape line 684: CO: 6\" THK (1.5\"-3.5\") CRUSHED STONE CONSTRUCTION EXIT / GEOTEXTILE...",
+  "formula": "constructionExitSF = ceil(sum(areas))",
+  "inputs": {
+   "areas": {
+    "value": [
+     1569.4
+    ],
+    "unit": "SF"
+   },
+   "thickness": {
+    "value": 6,
+    "unit": "in"
+   }
+  },
+  "expected": {
+   "quantity": 1570.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 684 / p65 C-2.0 legend \"CO: CONSTRUCTION EXIT\"",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 685: 7'-0\"x7'-0\" CONCRETE WASHOUT AREA W/ / 10 MIL PLASTIC SHEETING",
+  "formula": "washoutEA = count",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "size": {
+    "value": "7'-0\" x 7'-0\"",
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 685 / p65 C-2.0 legend \"CONCRETE WASHOUT\" + C-2.5 CONCRETE WASHDOWN detail",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 686: FUEL STORAGE - NO DETAILS",
+  "formula": "fuelStorageSF = round(sum(areas))",
+  "inputs": {
+   "areas": {
+    "value": [
+     25.1
+    ],
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 25.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 686 / p65 C-2.0 legend \"FUEL STORAGE\"",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 687: SD1-NS: SEDIMENT BARRIER - NON SENSITIVE / 30\" DIA COMPOST FILTER S...",
+  "formula": "sedimentBarrierLF = ceil(sum(runs))",
+  "inputs": {
+   "runs": {
+    "value": [
+     767.9
+    ],
+    "unit": "LF"
+   },
+   "stakeSpacing": {
+    "value": 2,
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 768.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 687 / p65 C-2.0 legend \"SD1-NS: SEDIMENT BARRIER - NON SENSITIVE\"",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 688: RT-B: SLOTTED BOARD DAM RETROFIT",
+  "formula": "linearPracticeLF = sum(runs)",
+  "inputs": {
+   "runs": {
+    "value": [
+     5.14
+    ],
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 5.14,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 688 / p65 C-2.0 legend \"RT-B: SLOTTED BOARD DAM RETROFIT\"",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 689: DS1: TEMPORARY PROTECTION FOR DISTURBED AREA - DISTURBED AREA STABI...",
+  "formula": "stabilizationSF = sum(areas)",
+  "inputs": {
+   "areas": {
+    "value": [
+     20298.88
+    ],
+    "unit": "SF"
+   },
+   "practices": {
+    "value": [
+     "mulch",
+     "temporary-seed",
+     "dust-control"
+    ]
+   }
+  },
+  "expected": {
+   "quantity": 20298.88,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 689 / p65 C-2.0 legend \"DS1, DS2 & DU\" (teal row)",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 690: DS2: TEMPORARY VEGETATION PRACTICES - DISTURBED AREA STABILIZATION ...",
+  "formula": "stabilizationSF = sum(areas)",
+  "inputs": {
+   "areas": {
+    "value": [
+     20298.88
+    ],
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 20298.88,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 690 / = line 689 (same polygon, practice DS2)",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 691: DU: DUST CONTROL ON DISTURBED AREAS",
+  "formula": "stabilizationSF = sum(areas)",
+  "inputs": {
+   "areas": {
+    "value": [
+     20298.88
+    ],
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 20298.88,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 691 / = line 689 (same polygon, practice DU)",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 692: SD2-F: TRMPORARY INLET SEDIMENT TRAP( FILTER FABRIC W/ SUPPORTED FR...",
+  "formula": "inletProtectionLF = ceil(sum(runs))",
+  "inputs": {
+   "runs": {
+    "value": [
+     193.7
+    ],
+    "unit": "LF"
+   },
+   "inlets": {
+    "value": 4,
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 194.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 692 / p66 C-2.1 legend \"SD2-F: TRMPORARY INLETE SEDIMENT TRAP( FILTER FABRI...\"",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 694: DS1: TEMPORARY PROTECTION FOR DISTURBED AREA - DISTURBED AREA STABI...",
+  "formula": "stabilizationSF = sum(areas)",
+  "inputs": {
+   "areas": {
+    "value": [
+     15581.92
+    ],
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 15581.92,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 694 / p65 C-2.0 legend \"DS1, DS2 & DU\" (red row)",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 695: DS2: TEMPORARY VEGETATION PRACTICES - DISTURBED AREA STABILIZATION ...",
+  "formula": "stabilizationSF = sum(areas)",
+  "inputs": {
+   "areas": {
+    "value": [
+     15581.92
+    ],
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 15581.92,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 695 / = line 694 (practice DS2)",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 696: DU: DUST CONTROL ON DISTURBED AREAS",
+  "formula": "stabilizationSF = sum(areas)",
+  "inputs": {
+   "areas": {
+    "value": [
+     15581.92
+    ],
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 15581.92,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 696 / = line 694 (practice DU)",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 697: DS3:DISTURBED AREA STABILIZATION WITH PERMANENT VEGETATION",
+  "formula": "stabilizationSF = sum(areas)",
+  "inputs": {
+   "areas": {
+    "value": [
+     2114
+    ],
+    "unit": "SF"
+   },
+   "practices": {
+    "value": [
+     "permanent-seed",
+     "matting"
+    ]
+   }
+  },
+  "expected": {
+   "quantity": 2114.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 697 / p66 C-2.1 legend \"SS, DS3: AREA\"",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 698: SS: SLOPE STABILIZATION",
+  "formula": "stabilizationSF = sum(areas)",
+  "inputs": {
+   "areas": {
+    "value": [
+     2114
+    ],
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 2114.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 698 / = line 697 (practice SS)",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 699: SD2-F:TRMPORARY INLET SEDIMENT TRAP( FILTER FABRIC W/ SUPPORTED FRA...",
+  "formula": "carry = line692 LF",
+  "inputs": {
+   "phase2LF": {
+    "value": 194,
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 194.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 699 / = line 692 (Phase 2 SD2-F carried into Phase 3)",
+  "estimatorParity": true,
+  "perDrawings": {
+   "formula": "phase3LF = sum(runs on the Phase 3 sheet)",
+   "inputs": {
+    "runs": {
+     "value": [
+      74.5
+     ],
+     "unit": "LF"
+    }
+   },
+   "expected": {
+    "quantity": 74.5,
+    "unit": "LF"
+   },
+   "tolerancePct": 1.0
+  },
+  "note": "Estimator parity only: reproduces the Phase 2 SD2-F quantity copied into Phase 3. The drawings support 74.5 LF of Sd2-P (C-2.2 legend, p67 'TEMPORARY INLET SEDIMENT  TRAP (CURB INLET PROTEC...' 74.5 FT), -61.6%. Exclude from drawing-truth assertions."
+ },
+ {
+  "name": "32c-erosion-landscape line 700: DS4:DISTURBED AREA STABILIZATION WITH SODDING",
+  "formula": "stabilizationSF = sum(areas)",
+  "inputs": {
+   "areas": {
+    "value": [
+     14393.68
+    ],
+    "unit": "SF"
+   },
+   "practices": {
+    "value": [
+     "sod"
+    ]
+   }
+  },
+  "expected": {
+   "quantity": 14393.68,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 700 / p67 C-2.2 legend \"DS4\"",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 701: COMMON NAME: AMERICAN HOLY / BOTANICAL NAME: LLEX OPACA GREENLEAF /...",
+  "formula": "plantEA = scheduleQty",
+  "inputs": {
+   "scheduleQty": {
+    "value": 5,
+    "unit": "EA"
+   },
+   "planCounts": {
+    "value": [
+     11
+    ],
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 5.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "source": "line 701 / p83 L-1.0 PLANT LIST row \"American Holly / Ilex opaca 'Greenleaf'\"",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 702: COMMON NAME: EASTERN REDCEDAR / BOTANICAL NAME: JUNIPERUS VIRGINIAN...",
+  "formula": "plantEA = scheduleQty",
+  "inputs": {
+   "scheduleQty": {
+    "value": 11,
+    "unit": "EA"
+   },
+   "planCounts": {
+    "value": [
+     1,
+     5
+    ],
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 11.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "source": "line 702 / p83 L-1.0 PLANT LIST row \"Eastern Redcedar / Juniperus virginiana\"",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 703: COMMON NAME: FLORIDA SUNSHINE ANISE / BOTANICAL NAME: LLICIUM PARVI...",
+  "formula": "plantEA = scheduleQty",
+  "inputs": {
+   "scheduleQty": {
+    "value": 17,
+    "unit": "EA"
+   },
+   "planCounts": {
+    "value": [
+     7,
+     3,
+     7
+    ],
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 17.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "source": "line 703 / p83 L-1.0 PLANT LIST row \"Florida Sunshine Anise / Illicium parviflorum 'Florida Sunshine'\"",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 704: COMMON NAME: DON'S DW ARF WAX MYRTILE / BOTANICAL NAME: MYRICA CERI...",
+  "formula": "plantEA = scheduleQty",
+  "inputs": {
+   "scheduleQty": {
+    "value": 15,
+    "unit": "EA"
+   },
+   "planCounts": {
+    "value": [
+     6,
+     9
+    ],
+    "unit": "EA"
+   }
+  },
+  "expected": {
+   "quantity": 15.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "source": "line 704 / p83 L-1.0 PLANT LIST row \"Don's Dwarf Wax Myrtle / Myrica cerifera 'Don's Dwarf'\"",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 705: PINESTRAWV-MULCH A",
+  "formula": "mulchSF = sum(areas)",
+  "inputs": {
+   "areas": {
+    "value": [
+     2500
+    ],
+    "unit": "SF"
+   },
+   "depth": {
+    "value": 3,
+    "unit": "in"
+   }
+  },
+  "expected": {
+   "quantity": 2500.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 705 / p83 L-1.0 PLANT LIST row \"Pinestraw / Mulch A\"",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 706: SOD",
+  "formula": "sodSF = sum(areas)",
+  "inputs": {
+   "areas": {
+    "value": [
+     11500
+    ],
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 11500.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 706 / p83 L-1.0 PLANT LIST row \"Sod / ---\"",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 708: 23: PROPOSED STORMWATER POND AREA / NOTE: POND EARTHWORK HAS BEEN A...",
+  "formula": "pondAreaSF = sum(areas)",
+  "inputs": {
+   "areas": {
+    "value": [
+     3074
+    ],
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 3074.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 708 / p72 C-3.0 legend \"23: PROPOSED STORMWATER PO...\"",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 709: 6 OZ/SY NON-WOVEN GEOTEXTILE FABRIC",
+  "formula": "geotextileSF = pondAreaSF",
+  "inputs": {
+   "pondArea": {
+    "value": 3074,
+    "unit": "SF"
+   }
+  },
+  "expected": {
+   "quantity": 3074.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 709 / = line 708 (pond area); C-4.2 \"6 OZ/SY NON-WOVEN GEOTEXTILE FABRIC\"",
+  "estimatorParity": true,
+  "perDrawings": {
+   "formula": "geotextileSF = bedSF + bedPerimeter * depth",
+   "inputs": {
+    "bedArea": {
+     "value": 948.1,
+     "unit": "SF"
+    },
+    "bedPerimeter": {
+     "value": 206.0,
+     "unit": "LF"
+    },
+    "depth": {
+     "value": 5.5,
+     "unit": "ft"
+    }
+   },
+   "expected": {
+    "quantity": 2081.1,
+    "unit": "SF"
+   },
+   "tolerancePct": 1.0
+  },
+  "note": "Estimator parity only: fabric = pond SF. The C-4.2 trench section wraps the stone bed bottom and sides only: 948.1 SF bed + 206.0 ft perimeter x 5.5 ft = 2081.1 SF before laps (-32%). Exclude from drawing-truth assertions."
+ },
+ {
+  "name": "32c-erosion-landscape line 710: 6\" PERFORATED HDPE UNDERDRAIN",
+  "formula": "underdrainLF = ceil(sum(runs))",
+  "inputs": {
+   "runs": {
+    "value": [
+     95.6
+    ],
+    "unit": "LF"
+   }
+  },
+  "expected": {
+   "quantity": 96.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 710 / C-4.0 / C-4.2 stone bed (keynote 7) length, scaled; = ST-1 area / bed width",
+  "estimatorParity": false
+ },
+ {
+  "name": "32c-erosion-landscape line 711: UNDERGROUND STONE STORAGE CLEAN OPEN GRADED COURSE AGGREGATE",
+  "formula": "storageStoneCY = area * (basinBottom - gravelBottom) / 27",
+  "inputs": {
+   "area": {
+    "value": 3074,
+    "unit": "SF"
+   },
+   "basinBottom": {
+    "value": 435.0,
+    "unit": "ft"
+   },
+   "gravelBottom": {
+    "value": 429.5,
+    "unit": "ft"
+   }
+  },
+  "expected": {
+   "quantity": 626.185185,
+   "unit": "CY"
+  },
+  "tolerancePct": 1.0,
+  "source": "line 711 / = line 708 x C-4.2 stone depth",
+  "estimatorParity": true,
+  "perDrawings": {
+   "formula": "storageStoneCY = stoneBedSF * (basinBottom - gravelBottom) / 27",
+   "inputs": {
+    "area": {
+     "value": 962.4,
+     "unit": "SF"
+    },
+    "basinBottom": {
+     "value": 435.0,
+     "unit": "ft"
+    },
+    "gravelBottom": {
+     "value": 429.5,
+     "unit": "ft"
+    }
+   },
+   "expected": {
+    "quantity": 196.044444,
+    "unit": "CY"
+   },
+   "tolerancePct": 1.0
+  },
+  "note": "Estimator parity only: stone depth applied to the 3074 SF pond footprint at top of bank. Stone fills only the 435 bottom bed (ST-1 962.4 SF; C-4.2 MINIMUM SURFACE AREA OF 950 SF): 962.4 x 5.5 / 27 = 196.044444 CY (-68.7%). Corroborated by C-4.2 PROVIDED WQv = 2,225 CF vs 962.4 x 5.5 x 0.40 voids = 2,117 CF. Exclude from drawing-truth assertions."
+ }
+]

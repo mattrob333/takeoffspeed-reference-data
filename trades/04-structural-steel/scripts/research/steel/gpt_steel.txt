@@ -1,0 +1,41 @@
+**Legend:** **[C]** = specified, standard/commonly cited, or direct arithmetic; **[R]** = my estimating rule of thumb—not a design requirement. Approved drawings and supplier data govern. Keep **installed quantities separate from purchase quantities**.
+
+### Units
+- **HSS, W-shapes, channels, angles, loose lintels:** EA by mark, LF cut length, and lb using published section weights.
+- **KCS joists:** EA by designation/span; use supplier weights, checking whether seats, extensions, and bridging are included.
+- **Bridging:** LF and lb by section; clips/anchors EA.
+- **Base/cap/connection plates:** EA by dimensions; weight = volume in cubic inches × **0.283 lb/in³ [C]**.
+- **Bolts/anchors:** EA by diameter/length; shop welds LF by size.
+- **Deck:** SF net coverage, plus sheet count/length for purchasing.
+- **Bollards/ladder:** EA assemblies; additionally LF and lb of components. Separate bollard concrete fill.
+
+### Measurement rules
+- Measure actual fabricated lengths—not automatically grid-to-grid. Account for setbacks, bearings, extensions, and splice gaps.
+- Do **not** deduct bolt holes, ordinary copes, or minor notches from nominal member weight **[C, customary estimating convention]**. Record major cutouts separately.
+- Use actual sloping lengths/roof surface area. Do not add an arbitrary camber percentage; use long-point dimensions when nesting angled cuts.
+- Deduct deck openings only where sheets are actually omitted. Field-cut opening material remains purchased waste. Measure opening headers/trimmers separately.
+- Deck sidelaps are already reflected in manufacturer’s **net cover width**. End laps are additional.
+
+### Connection/detailing allowance
+Where connections remain undeveloped, allow on **primary member weight**, excluding deck and joists:
+- Conventional W-shape simple framing: **5–10% [R]**.
+- HSS-heavy, moment, or gusset-intensive framing: **10–15% [R]**, potentially higher for unusual details.
+
+Allowance covers otherwise unmeasured plates, cleats, gussets, stiffeners, and bolts. Credit explicitly measured connection steel—especially base/cap plates—to prevent duplication.
+
+### Waste, bridging, and fasteners
+- Preliminary member purchasing waste: **3–5% [R]** for repetitive W/channel/angle work; **5–10% [R]** for short, mixed HSS cuts. Replace with stock-length nesting.
+- Deck offcuts: **3–5% [R]** simple rectangular roofs; **5–10% [R]** irregular roofs, **excluding end laps**.
+- A **4-in [C]** end lap adds **0.333 SF per LF of lap line [C]**; approximately **1.7% [C]** for repeated **20-ft [C]** sheet runs.
+- Bridging budget only: **1/2/3 rows [R]** for spans **≤20 / >20–30 / >30–40 ft [R]**. Actual SJI/manufacturer requirements override this shortcut.
+- With row count \(r\), joist spacing \(s\), and bridging depth \(h\): horizontal bridging ≈ **\(2rs\) LF/joist [C, geometry]**; X-bridging ≈ **\(2r\sqrt{s²+h²}\) LF/joist [C, geometry]**. Count actual interjoist spaces and end anchors; do not add both systems everywhere.
+- **36/4 [C]** attachment: budget **\(4/(3p)\) welds/SF [C]**, where \(p\) is support spacing in feet, before boundary/shared-attachment adjustments. At **5 ft [C]**, that is **0.267/SF [C]**. Count actual support lines, end laps, and perimeter requirements.
+- **#10 TEK @18 in [C]**, with **3-ft [C]** deck coverage: approximately **0.222 screws/SF [C]**, before boundary adjustments. Weld diameter: **5/8 in [C]**.
+
+### Coatings
+Galvanizing: actual fabricated lb, including attachments. Primer: exposed SF from section perimeters and plate faces/edges, excluding specified masked areas. **G90 = 0.90 oz/SF total both faces [C]**; do not add separate galvanizing to factory-coated deck.
+
+### Five common mistakes / check
+Missing opening framing; duplicating connection allowances; counting bridging along joist spans; confusing deck coverage with purchased area; using plan area on sloped roofs.
+
+Reasonableness screen: **6–12 psf [R]** total structural frame, joists, bridging, connections, and roof deck per roof-plan SF; exclude miscellaneous assemblies. Outside this range, investigate—not automatically revise.

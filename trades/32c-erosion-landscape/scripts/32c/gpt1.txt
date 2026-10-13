@@ -1,0 +1,119 @@
+**Preliminary US takeoff conventions—not installation specifications.** SF = ft²; SY = yd²; CY = yd³; tons = **US short tons**. Confidence: **H = high, M = moderate, L = low without supplier/project data.**
+
+### 1. Sod
+| Format | Typical coverage | Confidence |
+|---|---:|:---:|
+| Slab sod | **400–500 SF/pallet**; 450 and 500 common | M |
+| Small/hand rolls | **400–600 SF/pallet**; commonly 450–500 | M |
+| Large palletized hand rolls, sometimes called “big rolls” | **500–700 SF/pallet** | M |
+| True mechanically handled big rolls | Often **250–500 SF/roll**, with larger formats available; generally **not a standardized pallet quantity** | M |
+
+- **Waste:** rectangular areas **2–5%**; irregular areas **5–10%**; highly fragmented/curved work **10–15%**. **Confidence: M.**
+- Order coverage = measured area × **(1 + waste fraction)**, rounded to supplier units.
+- Bermuda/Zoysia/Centipede **do not determine pallet coverage**; supplier/harvesting format does.
+
+*Reference: Sod Solutions’ pallet-sizing guidance.*
+
+### 2. Pine straw
+- **Conventional rectangular bale:** approximately **10–25 lb**, strongly dependent on size, compression and moisture. Round “bales” can be substantially larger. **Confidence: M.**
+- **At a true 3-inch settled depth:** preliminary allowance **25–40 SF/bale**, using **30 SF/bale** conservatively. **Confidence: L–M.**
+- Advertised **40–60 SF/bale** should **not automatically be treated as coverage at 3 inches settled**. There is no standardized bale or settled-depth yield; verify by test spread.
+- **Bales = ⌈bed SF ÷ verified SF/bale⌉**; include any handling-loss allowance before rounding. **Formula confidence: H.**
+
+*Reference: UGA Extension, **Pine Straw Mulch: Harvesting, Marketing and Landscape Use**, for bale variability and landscape-use guidance; the settled-depth allowance above is a budgeting assumption.*
+
+### 3. Plant counts from spacing
+For bed area \(A\) in SF and on-center spacing \(s\) in **feet**:
+
+| Layout | Formula | Factor | Confidence |
+|---|---|---:|:---:|
+| Square | \(N\approx A/s^2\) | **1.0000** | H |
+| Equilateral triangular | \(N\approx A/(0.866025s^2)\) | **1.1547** | H |
+
+With spacing \(p\) in **inches**:
+\[
+N\approx\frac{144A}{p^2}\times\text{layout factor}
+\]
+
+Triangular row separation = **0.8660 × spacing**. Round the estimate up, but use an actual layout for narrow/irregular beds and boundary setbacks.
+
+### 4. Straw/coconut erosion-control blankets
+- Common roll formats: **80 SY** = nominal **6 ft 8 in × 108 ft**; **100 SY** = **8 ft × 112.5 ft**. Some wide rolls are **200 SY**. **Confidence: H for dimensions; M for availability by product.**
+- Typical overlaps: **2–4 inches along sides**, **6–12 inches at ends**, shingled downstream. **Confidence: M.**
+- Preliminary staple allowances:
+
+| Slope, H:V | Staples/SY | Confidence |
+|---|---:|:---:|
+| 4:1 or flatter | **0.7–1.0** | M |
+| About 3:1 | **1.2–1.7** | M |
+| About 2:1 | **1.7–2.0** | M |
+| About 1:1 | **3.5–4.0** | M |
+
+These are **budget allowances**, not a universal manufacturer schedule. Soil, slope length, channels and product class change fastening; include separately detailed anchor/check-trench fastening where necessary.
+
+*References: North American Green **S150, SC150 and C125 product specifications**, **Slope Installation** details and **Staple Pattern Guide**.*
+
+### 5. Nonwoven geotextile, 6 oz/SY
+- Typical drainage-fabric seam allowance: **12–24 inches**. Weak-subgrade separation work may require **24–36 inches or more**, or sewn seams. **Confidence: M.**
+- **6 oz/SY alone does not establish overlap requirements.** Top closure also follows the specified detail; **12–24 inches** is a common preliminary allowance.
+
+\[
+SY=\frac{A_{\text{bottom}}+A_{\text{sloped walls}}+
+A_{\text{wrap}}+A_{\text{seam overlaps}}}{9}
+\]
+
+For a straight, fully wrapped trench, **excluding end faces and additional seams**:
+\[
+SY=\frac{L\left[b+2\sqrt{d^2+r^2}+t+o\right]}9
+\]
+where \(b\)=bottom width, \(d\)=depth, \(r\)=horizontal run of each side, \(t=b+2r\)=top width, and \(o\)=top closure overlap; all dimensions in feet.
+
+For basin walls, use **actual sloped trapezoid area**, not plan-projected area. Avoid counting closure overlap twice. **Geometry confidence: H.**
+
+*Reference: **AASHTO M 288**, application-specific requirements and installation guidance.*
+
+### 6. Open-graded stone
+| Quantity | Preliminary value | Confidence |
+|---|---:|:---:|
+| Clean #57 bulk density | **1.35–1.50 tons/CY** | M |
+| Clean #3 bulk density | **1.30–1.50 tons/CY** | M |
+| Storage porosity \(n=V_v/V_{\text{total}}\) | **0.35–0.40**; **0.40** frequently assumed | M |
+
+**Important:** porosity is not the geotechnical void ratio:
+\[
+e=\frac{V_v}{V_s}=\frac{n}{1-n}
+\]
+Thus **\(n=0.35–0.40\)** corresponds to **\(e=0.54–0.67\)**.
+
+\[
+\text{Storage ft}^3=27\times\text{stone CY}\times n
+\]
+
+**Formula confidence: H.** Use the governing stormwater manual’s permitted porosity and supplier/test density.
+
+*References: **ASTM C29/C29M**, bulk density and aggregate voids; **Minnesota Stormwater Manual**, aggregate-reservoir guidance.*
+
+### 7. Silt fence
+- For one open run:
+  \[
+  N_{\text{posts}}=\left\lceil L/s\right\rceil+1
+  \]
+  Same formula for wood or steel; **post material alone does not establish spacing**. **Confidence: H.**
+- Typical spacing **6–8 ft**; **10 ft only where the approved system permits**. For **100 LF**: **18 posts at 6 ft**, **14 at 8 ft**, **11 at 10 ft**. **Spacing confidence: M.**
+- Fabric rolls: **100 ft gross** is common. Lap joints often consume **2–3 ft**, but many details instead require a rolled/twisted two-post connection. **Confidence: M.**
+- For specified overlap \(o\), continuous-run roll count:
+  \[
+  R=\max\!\left(1,\left\lceil\frac{L-o}{100-o}\right\rceil\right)
+  \]
+  **Formula confidence: H.**
+- **Yes:** add actual LF for uphill returns/J-hooks to installed length. Joint overlap adds **purchased fabric**, not additional protected alignment. Account for mandatory corner/joint posts separately.
+
+*Reference: US EPA, **Stormwater Best Management Practice—Silt Fences**.*
+
+### 8. Compost filter sock
+- Common diameters: **8, 12, 18 and 24 inches**; **32 inches** also available. **Confidence: H.**
+- Typical stake spacing: **10 ft o.c. maximum**; some details require approximately **5 ft**, plus additional joint/end stakes. **Confidence: M.**
+- End overlap: **12–24 inches** appears in proprietary details; other agency details require **3–4 ft** or a prescribed interlocking connection. **Confidence: L–M without the selected detail.**
+- Takeoff = alignment LF **plus uphill end extensions plus specified splice consumption**; do not assume butt joints are acceptable.
+
+*Reference: **Filtrexx Design Manual**, SiltSox/perimeter-control installation details.*

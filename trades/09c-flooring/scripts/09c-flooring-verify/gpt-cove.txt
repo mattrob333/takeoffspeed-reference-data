@@ -1,0 +1,29 @@
+### 1) Visible olive/khaki runs
+
+The clearest olive/khaki runs are along:
+- **Men’s west wall**, interrupted by Janitor door **115**—a short segment north of that opening and a longer segment south of it.
+- **Women’s east wall**, essentially the full north–south length.
+
+Along the **north walls, both faces of the shared partition, and the south wall segments**, the perimeter traces coincide with the blue/purple markup, so the olive color is less distinctly separable. The visible outer-wall runs are important: they indicate more than just the three tile-band walls.
+
+### 2) Compare the three compositions
+
+Dimensions converted to feet:
+- Men’s width: **7.6667 ft**
+- Women’s width: **7.53125 ft**
+- Both rooms’ depth: **7.677083 ft**
+
+Gross four-wall perimeters:
+- Men’s: \(2(7.6667+7.677083)=30.6875\) LF
+- Women’s: \(2(7.53125+7.677083)=30.4167\) LF
+- **Combined: 61.1042 LF**
+
+| Composition | Men’s LF | Women’s LF | Combined LF |
+|---|---:|---:|---:|
+| **(a) All four walls, less all three 3′ doors** | 30.6875 − 6 = **24.6875** | 30.4167 − 3 = **27.4167** | **52.1042** |
+| **(b) All four walls, less only the two restroom doors** | 30.6875 − 3 = **27.6875** | 30.4167 − 3 = **27.4167** | **55.1042** |
+| **(c) North + partition + south, less restroom door** | 2(7.6667) + 7.677083 − 3 = **20.0104** | 2(7.53125) + 7.677083 − 3 = **19.7396** | **39.7500** |
+
+The shared partition is counted on **both restroom faces**.
+
+**Best match: (a), all four walls of both rooms net of all three doors.** Its **52.10 LF** is only **0.20 LF—about 2.45 inches, or 0.4%—above the 51.9 LF legend**. That is a close traced-takeoff match, though not an exact dimensional match; the other compositions are substantially farther away.

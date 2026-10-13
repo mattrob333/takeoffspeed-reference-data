@@ -1,0 +1,878 @@
+[[p1]]
+Technical Notes 
+on Brick Construction 
+Brick Industry Association 11490 Commerce Park Drive, Reston, Virginia  20191 
+31B 
+REVISED 
+Reissued* 
+May 
+1987 
+STRUCTURAL STEEL LINTELS 
+Abstract: The design of structural steel lintels for use with brick masonry is too critical an element to be left to 
+“rule-of-thumb" designs. Too little concern for loads, stresses and serviceability can lead to problems. 
+Information is provided so that structural steel lintels for use in brick masonry walls may be satisfactorily 
+designed. 
+Key Words: beams (supports); brick; buildings; deflection; design; lintels; loads (forces); masonry; struc­
+tural steel; walls. 
+INTRODUCTION 
+A lintel is a structural member placed over an opening 
+in a wall. In the case of a brick masonry wall, lintels may 
+consist of reinforced brick masonry, brick masonry arches, 
+precast concrete or structural steel shapes. Regardless 
+of the material chosen for the lintel, its prime function is to 
+support the loads above the opening, and it must be 
+designed properly. To eliminate the possibility of structur­
+al cracks in the wall above these openings, the structural 
+design of the lintels should not involve the use of "rule-of-
+thumb" methods, or the arbitrary selection of structural 
+sections without careful analysis of the loads to be carried 
+and calculation of the stresses developed. Many of the 
+cracks which appear over openings in masonry walls are 
+due to excessive deflection of the lintels resulting from 
+improper or inadequate design. 
+This Technical Notes presents the considerations to 
+be addressed if structural steel lintels are to be used. It 
+also provides a procedure for the structural design of 
+these lintels. For information concerning reinforced brick 
+masonry lintels, see Technical Notes 17H and for brick 
+masonry arches, see Technical Notes 31, 31A and 31C 
+Revised. 
+CONSIDERATIONS 
+General 
+When structural steel lintels are used, there are sev­
+eral considerations which must be addressed in order to 
+have a successful design. These include loading, type of 
+lintel, structural design, material selection and mainte­
+nance, moisture control around the opening, provisions to 
+avoid movement problems and installation of the lintel in 
+the wall. 
+Types 
+There are several different types of structural steel lin­
+tels used in masonry. They vary from single angle lintels 
+in cavity or veneer walls, to steel beams with plates in 
+solid walls, to shelf angles in brick veneer panel walls. 
+Most building codes permit steel angle lintels to be used 
+for openings up to 8 ft 0 in. (2.4 m). Openings larger than 
+this are usually required to have fire protected lintels. 
+Loose Angle Lintels. Loose angle lintels are used in 
+brick veneer and cavity wall constructions where the lintel 
+is laid in the wall and spans the opening. This type of lin­
+tel has no lateral support. Figure 1a shows this condition. 
+Combination Lintels. In solid masonry walls, single 
+loose angle lintels are usually not capable of doing the 
+job. Therefore, combination lintels are required. These 
+combination lintels can take many forms, from a clustering 
+of steel angles, such as shown in Figs. 1b and 1c, to a 
+combination of steel beam and plates, as shown in Figs. 
+1d and 1e. 
+Angle Lintels - In solid masonry walls, it is usually sat­
+isfactory to use multiple steel angles as a lintel. These 
+angles are usually placed back to back, as shown in Figs. 
+1b and 1c. 
+Steel Beam/Plate Lintels - In solid walls with large super­
+imposed loads, or in walls where the openings are greater 
+than 8 ft 0 in. (2.4 m), it may be necessary to use lintels com­
+posed of steel beams with attached or suspended plates, as 
+shown in Figs. 1d and 1e. This permits the beam to be fully 
+encased in masonry, and fire-protected. 
+Shelf Angles. In panel walls systems, the exterior 
+wythe of brickwork may be supported by shelf angles 
+rigidly attached to the structural frame. These shelf 
+angles, in some cases, also act as lintels over openings in 
+the masonry. This condition is shown in Fig.1f. 
+*Originally published in Nov/Dec 1981, this Technical Notes has been reviewed and reissued. 
+
+[[p2]]
+Fig. 1 
+Types of Structural Steel Lintels 
+Design 
+The proper design of the structural steel lintel is very 
+important, regardless of the type used. The design must 
+meet the structural requirements and the serviceability 
+requirements in order to perform successfully. Design 
+loads, stresses and deflections will be covered in a later 
+section of this Technical Notes. 
+Materials 
+The proper specification of materials for steel lintels is 
+important for both structural and serviceability require­
+ments. If materials are not properly selected and main­
+tained, problems can occur. 
+Selection. The steel for lintels, as a minimum, should 
+comply with ASTM A 36.  Steel angle lintels should be at 
+least 1/4 in. (6 mm) thick with a horizontal leg of at least 3 
+1/2 in. (90 mm) for use with nominal 4 in. (100 mm) thick 
+brick, and 3 in. (75 mm) for use with nominal 3 in. (75 
+mm) thick brick. 
+Maintenance. For harsh climates and exposures, 
+consideration should be given to the use of galvanized 
+steel lintels. If this is not done, then the steel lintels will 
+require periodic maintenance to avoid corrosion. 
+Moisture Control 
+Proper consideration must always be given to mois­
+ture control wherever there are openings in masonry 
+walls. There must always be a mechanism to channel the 
+flow of water, present in the wall, to the outside. 
+Flashing and Weepholes. Even where galvanized 
+or stainless steel angles are used for lintels in cavity and 
+veneer walls, continuous flashing should be installed over 
+the angle. It should be placed between the steel and the 
+exterior masonry facing material to collect and divert 
+moisture to the outside through weepholes. Regardless 
+of whether flashing is used, weepholes should be provid­
+ed in the facing at the level of the lintel to permit the 
+escape of any accumulated moisture. See Technical 
+Notes 7A for further information on flashing and weep-
+holes. 
+Movement Provisions 
+Because of the diversity of movement characteristics 
+of different materials, it is necessary to provide for differ­
+ential movement of the materials. This is especially true 
+at locations where a number of different materials come 
+together. Technical Notes 18 Series provides additional 
+information on differential movement. 
+Expansion Joints. Expansion joints in brick masonry 
+are very important in preventing unnecessary and unwant­
+ed cracking. There are two types of expansion joints 
+which will need to be carefully detailed when lintels are 
+involved: vertical and horizontal. 
+Vertical - Vertical expansion joints are provided to per­
+mit the horizontal movement of the brick masonry. Where 
+these expansion joints are interrupted by lintels, the 
+expansion joint should go around the end of the lintel and 
+then continue down the wall. 
+2 
+
+[[p3]]
+
+[[p4]]
+Concentrated Loads. Concentrated loads from 
+beams, girders, or trusses, framing into the wall above the 
+opening, must also be taken into consideration. Such 
+loads may be distributed over a wall length equal to the 
+base of the trapezoid and whose summit is at the point of 
+load application and whose sides make an angle of 60 
+deg with the horizontal. In Fig. 2b, the portion of the con­
+centrated load carried by the lintel would be distributed 
+over the length, EC, and would be considered as a par­
+tially distributed uniform load. Arching action of the 
+masonry is not assumed when designing for concentrated 
+loads. Again, if stack bonded masonry is used, horizontal 
+joint reinforcement must be provided to assure this distrib­
+ution. 
+Stresses 
+After the loads have been determined, the next step 
+in the design of the lintel is the design for stresses. 
+Which stresses need to be checked will depend upon the 
+type and detailing of the lintel. 
+Flexure. In a simply supported member loaded 
+through its shear center, the maximum bending moment 
+due to the triangular wall area (ABC) above the opening 
+can be determined by: 
+Mmax = WL 
+6 
+where: 
+Mmax = maximum moment (ft---lb) 
+W = total load on lintel (lb) 
+L = span of lintel, center to center of end bearing (ft) 
+As an alternative, the designer may wish to calculate an 
+equivalent uniform load by taking 2/3 of the maximum 
+height of the triangle times the unit weight of the masonry 
+as the uniform load across the entire lintel. If this is done, 
+the maximum bending moment equation becomes: 
+Mmax = wL
+2 
+8 
+where: 
+w = equivalent uniformly distributed load per unit 
+of length (lb per ft). 
+To this bending moment should be added the bending 
+moment caused by the concentrated loading, if any. 
+Where such loads are located far enough above the lintel 
+to be distributed as shown in Fig. 2b, the bending moment 
+formula for a partially distributed uniform load may be 
+used. Such formulae may be found in the " Manual of 
+Steel Construction," by the American Institute of Steel 
+Construction (AISC). Otherwise, concentrated load bend­
+ing moments should be used. 
+The next step is the selection of the required section. 
+The angle, or other structural steel shape, should be 
+selected by first determining the required section modu­
+lus. This becomes: 
+S = 12Mmax 
+Fb 
+where: 
+S = section modulus (in
+3) 
+Fb = allowable stress in bending of steel (psi) 
+The allowable stress, Fb, for ASTM A 36 structural steel is 
+22,000 psi (150 MPa) for members laterally supported. 
+Solid brick masonry walls under most conditions provide 
+sufficient lateral stiffness to permit the use of the full 
+22,000 psi (150 MPa). This is especially true when floors 
+or roofs frame into the wall immediately above the lintel. 
+The design for non-laterally supported lintels should be in 
+accordance with the AISC Specification for the Design, 
+Fabrication and Erection of Structural Steel for Buildings. 
+Using the design property tables in the AISC Manual, 
+a section having an elastic section modulus equal to, or 
+slightly greater than, the required section modulus is 
+selected. Whenever possible, within the limitations of 
+minimum thickness of steel and the length of outstanding 
+leg required the lightest section having the required sec­
+tion modulus should be chosen. 
+Combined Flexure and Torsion. In some cases, the 
+design for flexure will need to be modified to include the 
+effects of torsion. This is the case in cavity and veneer 
+walls where the load on the angle is not through the shear 
+center. 
+In some situations, such as veneers, panel or curtain 
+walls, the lintel may be supporting only the triangular por­
+tion of masonry directly over the opening. If this is the 
+case, then the torsional stresses will usually be negligible 
+compared to the flexural stresses, and can be safely 
+ignored. 
+If, on the other hand, there are imposed uniform loads 
+within the triangle or imposed concentrated loads above 
+the lintel, then a detailed, combined stress analysis will be 
+necessary. The design of a lintel subjected to combined 
+flexure and torsion should be in accordance with the AISC 
+Specification for the Design, Fabrication and Erection of 
+Structural Steel for Buildings. 
+Shear. Shear is a maximum at the end supports, and 
+for steel lintels it is seldom critical. However, the computa­
+tion of the unit shear is a simple calculation and should 
+not be neglected. The allowable unit shear value for 
+ASTM A 36 structural steel is 14,500 psi (100 MPa).  To 
+calculate the shear: 
+vmax = R max 
+AS 
+where: 
+Vmax = the actual maximum unit shear (psi) 
+Rmax = maximum reaction (lb) 
+As = area of steel section resisting shear (sq. in.) 
+4 
+
+[[p5]]
+Bearing. In order to determine the overall length of a 
+steel lintel, the required bearing area must be determined. 
+The stress in the masonry supporting each end of the lin­
+tel should not exceed the allowable unit stress for the type 
+of masonry used. For allowable bearing stresses, see 
+"Building Code Requirements for Engineered Brick 
+Masonry," BIA; "American Standard Building Code 
+Requirements for Masonry," ANSI A41.1-1953 (R 1970); 
+or the local building code. The reaction at each end of 
+the lintel will be one-half the total uniform load on the lin­
+tel, plus a proportion of any concentrated load or partially 
+distributed uniform load. The required area may be found 
+by: 
+Ab = Rmax 
+fm 
+where: 
+Ab = required bearing area (sq in.) 
+fm = allowable compressive stress in masonry (psi) 
+In addition, any stresses due to rotation from bending 
+or torsion of the angle at its bearing must be taken into 
+account. 
+Since in selecting the steel section, the width of the 
+section was determined, that width divided into the 
+required bearing area, Ab, will determine the length of 
+bearing required, F and F1, in Fig. 2b. This length should 
+not be less than 3 in. (75 mm). 
+If the openings are close together, the piers between 
+these openings must be investigated to determine 
+whether the reactions from the lintels plus the dead and 
+live loads acting on the pier exceed the allowable unit 
+compressive stress of the masonry. This condition will not 
+normally occur where the loads are light, such as in most 
+one and two-story structures. 
+Serviceability 
+In addition to the stress analysis for the lintel, a ser­
+viceability analysis is also important. Different types of 
+lintels have different problems of deflection and rotation, 
+and each must be analyzed separately to assure its prop­
+er performance. 
+Deflection Limitations. After the lintel has been 
+designed for stresses, it should be checked for deflection. 
+Lintels supporting masonry should be designed so that 
+their deflection does not exceed 1/600 of the clear span 
+nor more than 0.3 in (8 mm) under the combined superim­
+posed live and dead loads. 
+For uniform loading, the deflection can be found by: 
+Δt = 5wL
+4 (1728) 
+384 EI 
+where: 
+Δt = total maximum deflection (in.) 
+E = modulus of elasticity of steel (psi) 
+I = moment of inertia of section (in.
+4) 
+For loadings other than uniform, such as concentrated 
+loads and partially distributed loads, deflection formulae 
+may be found in the AISC Manual. 
+Torsional Limitations. In cases where torsion is pre­
+sent, the rotation of the lintel can be as important as its 
+deflection. The rotation of the lintel should be limited to 
+1/16 in. (1.5 mm) maximum under the combined superim­
+posed live and dead loads. As mentioned before, all addi­
+tional bearing stresses due to angle rotation must be 
+taken into account in the design for bearing. 
+Design Aids 
+In order to facilitate the design of steel angle lintels, 
+several design aids are included. These design aids are 
+not all-inclusive, but should give the designer some help 
+in designing lintels for typical applications. Conditions 
+beyond the scope of these tables should be thoroughly 
+investigated. 
+Table 1 contains tabulated load values to assist the 
+designer in the selection of the proper size angle lintel, 
+governed either by moment or deflection under uniform 
+load. Shear does not govern in any of the listed cases. 
+The deflection limitation in Table 1 is 1/600 of the span, or 
+0.3 in. (8 mm), whichever is less. Lateral support is 
+assumed in all cases. 
+Table 2 lists the allowable bearing stresses taken from 
+ANSI A41.1-1953 (R 1970). In all cases, allowable bear­
+ing stresses set by local jurisdictions in their building 
+codes will govern. 
+Table 3 lists end reactions and required length in 
+bearing, which may control for steel angle lintels. 
+SUMMARY 
+This Technical Notes is concerned primarily with the 
+design of structural steel lintels for use in brick masonry 
+walls. It presents the considerations which must be 
+addressed for the proper application of this type of 
+masonry support system. Other Technical Notes address 
+the subjects of reinforced brick masonry lintels and brick 
+masonry arches. 
+The information and suggestions contained in this 
+Technical Notes are based on the available data and the 
+experience of the technical staff of the Brick Institute of 
+America. The information and recommendations con­
+tained herein, if followed with the use of good technical 
+judgment, will avoid many of the problems discussed. 
+Final decisions on the use of details and materials as dis­
+cussed are not within the purview of the Brick Institute of 
+America, and must rest with the project designer, owner, 
+or both. 
+5 
+
+[[p6]]
+TABLE 1 
+1,2,3,4,5,6
+Allowable Uniform Superimposed Load (lb per ft) for ASTM A 36 Structural Steel Angle Lintels 
+Horizontal 
+Leg (in) 
+Angle Size 
+(in x in x in) 
+Weight per 
+ft (lb) 
+Span in Feet (Center to Center of 
+Required Bearing 
+Resisting 
+Moment 
+(ft-lb) 
+Elastic 
+Section 
+Modulus 
+3
+(in ) 
+Moment of 
+Inertia 
+4
+(in )
+3 
+4 
+5 
+6 
+7 
+8 
+2 1/2 
+2 x 2 1/2 x 1/4 
+2 1/2 x 2 1/2 x 1/4 
+5/16 
+3/8 
+3 x 2 1/2 x 1/4 
+3 1/2 x 2 1/2 x 1/4 
+5/16 
+3/8 
+3.6 
+4.1 
+5.0 
+5.9 
+4.5 
+4.9 
+6.1 
+7.2 
+352 
+146 
+279 
+336 
+390 
+467 
+73 
+141 
+170 
+197 
+237 
+366 
+446 
+521 
+80 
+96 
+112 
+135 
+210 
+255 
+298 
+83 
+130 
+158 
+185 
+86 
+104 
+122 
+458 
+715 
+880 
+1045 
+1027 
+1393 
+1705 
+1998 
+0.25 
+0.39 
+0.48 
+0.57 
+0.56 
+0.76 
+0.93 
+1.09 
+0.372 
+0.703 
+0.849 
+0.984 
+1.17 
+1.80 
+2.19 
+2.56 
+631 
+777 
+923 
+908 
+1233 
+1509 
+1769 
+692 
+846 
+992 
+3 1/2 
+2 1/2 x 3 1/2 x 1/4 
+3 x 3 1/2 x 1/4 
+3 1/2 x 3 1/2 x 1/4 
+5/16 
+3/8 
+4 x 3 1/2 x 1/4 
+5/16 
+5 x 3 1/2 x 5/16 
+3/8 
+6 x 3 1/2 x 3/8 
+4.9 
+5.4 
+5.8 
+7.2 
+8.5 
+6.2 
+7.7 
+8.7 
+10.4 
+11.7 
+664 
+956 
+1281 
+1590 
+1865 
+1672 
+2046 
+3153 
+3721 
+5268 
+308 
+518 
+155 
+263 
+409 
+498 
+583 
+594 
+726 
+88 
+150 
+234 
+285 
+334 
+341 
+417 
+779 
+918 
+92 
+145 
+177 
+207 
+212 
+260 
+487 
+574 
+95 
+116 
+136 
+140 
+172 
+324 
+381 
+638 
+752 
+1082 
+1448 
+1797 
+2108 
+1888 
+2310 
+3557 
+4198 
+5940 
+0.41 
+0.59 
+0.79 
+0.98 
+1.15 
+1.03 
+1.26 
+1.94 
+2.29 
+3.24 
+0.777 
+1.30 
+2.01 
+2.45 
+2.87 
+2.91 
+3.56 
+6.60 
+7.78 
+12.90 
+718 
+891 
+1046 
+938 
+1147 
+1770 
+2089 
+2958 
+1130 
+1333 
+1889 
+1308 
+958 
+1 Allowable loads to the left of the heavy line are governed by moment, and to the right by deflection. 
+2 Fb = 22,000 psi (150 MPa) 
+3 Maximum deflection limited to L/600 
+4 Lateral support is assumed in all cases. 
+5 For angles laterally unsupported, allowable load must be reduced. 
+6 For angles subjected to torsion, make special investigation. 
+TABLE 2 
+Allowable Compressive Stresses (psi) in Masonry 
+1 
+Type of Wall 
+Type of Mortar 
+M 
+S 
+N 
+O 
+Solid walls of brick or solid units 
+of clay when average compressive 
+strength of unit is as follows: 
+8000 plus psi 
+4500 to 8000 psi 
+2500 to 4500 psi 
+1500 to 2500 psi 
+400 
+250 
+175 
+125 
+350 
+225 
+160 
+115 
+300 
+200 
+140 
+100 
+200 
+150 
+110 
+75 
+Grouted solid masonry of 
+brick and other solid units of clay 
+4500 plus psi 
+2500 to 4500 psi 
+1500 to 2500 psi 
+350 
+275 
+225 
+275 
+215 
+175 
+200 
+155 
+125 
+-
+-
+-
+Masonry of hollow units 
+85 
+75 
+70 
+-
+1 Adapted from “American Standard Building Code Requirements for Masonry,” National Bureau of Standards, ANSI A41.  1-1953 (R 1970). 
+6 
+
+[[p7]]
+TABLE 3 
+End Reaction
+1 and Required Length of Bearing 
+2 for Structural Angle Lintels 
+2 1/2” Leg Horizontal 
+fm 
+psi 
+Length of Bearing 
+3 
+4 
+5 
+6 
+400 
+3000 
+4000 
+5000 
+6000 
+350 
+2625 
+3500 
+4375 
+5250 
+300 
+2250 
+3000 
+3750 
+4500 
+275 
+2063 
+2750 
+3438 
+4125 
+250 
+1875 
+2500 
+3125 
+3750 
+225 
+1688 
+2250 
+2813 
+3375 
+215 
+1613 
+2150 
+2688 
+3225 
+200 
+1500 
+2000 
+2500 
+3000 
+175 
+1313 
+1750 
+2188 
+2625 
+160 
+1200 
+1600 
+2000 
+2400 
+155 
+1163 
+1550 
+1938 
+2325 
+150 
+1125 
+1500 
+1875 
+2250 
+140 
+1050 
+1400 
+1750 
+2100 
+125 
+938 
+1250 
+1563 
+1875 
+115 
+863 
+1150 
+1438 
+1725 
+110 
+825 
+1100 
+1375 
+1650 
+100 
+750 
+1000 
+1250 
+1500 
+85 
+638 
+850 
+1063 
+1275 
+75 
+563 
+750 
+938 
+1125 
+70 
+525 
+700 
+875 
+1050 
+31/2” Leg Horizontal 
+fm 
+psi 
+Length of Bearing 
+3 
+4 
+5 
+6 
+400 
+4200 
+5600 
+7000 
+8400 
+350 
+3675 
+4900 
+6125 
+7350 
+300 
+3150 
+4200 
+5250 
+6300 
+275 
+2888 
+3850 
+4813 
+5775 
+250 
+2625 
+3500 
+4375 
+5250 
+225 
+2363 
+3150 
+3938 
+4725 
+215 
+2258 
+3010 
+3763 
+4515 
+200 
+2100 
+2800 
+3500 
+4200 
+175 
+1838 
+2450 
+3063 
+3675 
+160 
+1680 
+2240 
+2800 
+3360 
+155 
+1628 
+2170 
+2713 
+3255 
+150 
+1575 
+2100 
+2625 
+3150 
+140 
+1470 
+1960 
+2450 
+2940 
+125 
+1313 
+1750 
+2188 
+2625 
+115 
+1208 
+1610 
+2013 
+2415 
+110 
+1155 
+1540 
+1925 
+2310 
+100 
+1050 
+1400 
+1750 
+2100 
+85 
+893 
+1190 
+1488 
+1785 
+75 
+788 
+1050 
+1313 
+1575 
+70 
+735 
+980 
+1225 
+1470 
+1 End Reaction in lbs. 
+2 Length of Bearing in inches. 
+REFERENCES 
+1. AISC, Manual of Steel Construction, American 
+Institute of Steel Construction, Inc., New York, New 
+York, Eighth Edition, 1980. 
+2. AISC, Specification for the Design, Fabrication 
+and Erection of Structural Steel for Buildings, 
+American Institute of Steel Construction, Inc., New 
+York, New York, 1978. 
+3. ANSI, American Standard Building Code 
+Requirements for Masonry, ANSI A41.1-1953 (R 
+1970), American National Standards Institute, New 
+York, New York. 
+4. BIA, Building Code Requirements for Engineered 
+Brick Masonry, Brick Institute of America, McLean, 
+Virginia, 1969. 
+7 

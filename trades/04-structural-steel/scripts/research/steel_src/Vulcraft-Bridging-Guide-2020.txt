@@ -1,0 +1,829 @@
+
+=====PAGE 1
+  V2020BG
+Powerful Partnerships
+Powerful Results
+VULCRAFT®
+BRIDGING GUIDE
+BASED ON SJI SPECS 45TH EDITION 
+
+=====PAGE 2
+BRIDGING
+
+BRIDGING
+
+* Last two digits of joist designation.
+** NOTE: For spans EQUAL TO OR EXCEEDING that shown, one of the rows nearest mid-span must be bolted diagonal type.  For spans through 60 feet, the bolted diagonal bridging 
+must be installed BEFORE releasing the hoisting lines.  FOR SPANS OVER 60 FEET, ALL BRIDGING ROWS MUST BE BOLTED DIAGONAL TYPE. Spans over 60 feet through 100 feet 
+require two rows of bolted diagonal bridging to be installed, at one-third points, BEFORE releasing the hoisting lines. Spans over 100 feet require ALL rows of bolted diagonal bridging 
+to be installed BEFORE releasing the hoisting lines.
+V2018.0BR
+V2018.0BR
+U.S. CUSTOMARY UNITS
+NUMBER OF ROWS OF TOP CHORD BRIDGING2
+Section 
+Number1
+Joist
+Depth
+1
+Row
+2
+Rows
+3
+Rows
+4
+Rows
+5
+Rows
+6
+Rows
+7
+Rows
+8
+Rows
+9
+Rows
+K1
+All
+17
+>17 to 26
+>26 to 28
+K2
+All
+21
+>21 to 30 >30 to 32
+K3
+All
+18
+>18 to 26
+>26 to 40
+K4
+All
+20
+>20 to 30
+>30 to 41
+>41 to 48
+K5
+12K to 24K
+20
+>20 to 30
+>30 to 42
+>42 to 48
+26K
+28
+>28 to 41
+> 41 to 52
+K6
+14K to 24K
+20
+>20 to 31
+>31 to 42
+>42 to 48
+26K & 28K
+28
+>28 to 41
+>41 to 54
+>54 to 56
+K7
+16K to 24K
+23
+>23 to 34
+>34 to 48
+26K to 30K
+29
+>29 to 44
+>44 to 60
+K8
+24K
+25
+>25 to 39
+>39 to 48
+26K to 30K
+29
+>29 to 44
+>44 to 60
+K9
+16K to 24K
+22
+>22 to 34
+>34 to 48
+26K to 30K
+29
+>29 to 44
+>44 to 60
+K10
+18K to 24K
+22
+>22 to 38
+>38 to 48
+26K to 30K
+29
+>29 to 48
+>48 to 60
+K11
+22K
+24
+>24 to 39
+>39 to 44
+30K
+34
+>34 to 49
+>49 to 60
+K12
+24K
+25
+>25 to 43
+>43 to 48
+26K to 30K
+29
+>29 to 47
+>47 to 60
+LH02-03
+All
+20
+>20 to 30
+>30 to 40
+>40
+LH04-05
+All
+22
+>22 to 33
+>33 to 44
+>44 to 55
+>55
+LH06-08
+All
+26
+>26 to 45
+>45 to 60
+>60 to 75
+>75
+LH09
+All
+26
+>26 to 48
+>48 to 64
+>64 to 80
+>80
+LH/DLH10
+All
+28
+>28 to 54
+>54 to 72
+>72 to 90
+>90
+LH/DLH11
+All
+30
+>30 to 54
+>54 to 72
+>72 to 90
+>90 to 108
+>108
+LH/DLH12
+All
+34
+>34 to 55
+>55 to 74
+>74 to 92
+>92 to 111
+>111
+LH/DLH13
+All
+36
+>36 to 63
+>63 to 84
+>84 to 105
+>105 to 126
+>126
+LH/DLH14
+All
+38
+>38 to 64
+>64 to 86
+>86 to 107
+>107 to 129
+>129
+LH/DLH15
+All
+42
+>42 to 73
+>73 to 98
+>98 to 122
+>122 to 147
+>147
+LH/DLH 
+16-17
+All
+44
+>44 to 75 >75 to 100 >100 to 125 >125 to 150 >150 to 175
+>175
+DLH18-20
+All
+52
+>52 to 78 >78 to 104 >104 to 130 >130 to 156 >156 to 182 >182 to 208 >208 to 234
+>234
+DLH21-25
+All
+60
+>60 to 90 >90 to 120 >120 to 150 >150 to 180 >180 to 210
+>210
+(1) Last digit(s) of joist designation shown in Load Table.
+(2) Distances are Joist Span lengths in feet – See “Definition of Span” Figure 5.2-1. Refer to the Joist Load Table and 
+Specification Section 6 for required bolted diagonal bridging and additional stability requirements. See Section 5.12
+for additional bridging required for uplift design.
+American National Standard  SJI 100 - 2015
+TABLE 5.5-1
+TABLE 2.7-1
+MAXIMUM JOIST SPACING FOR HORIZONTAL BRIDGING
+SPANS OVER 60 ft. (18.3 m) REQUIRE BOLTED DIAGONAL BRIDGING
+JOIST 
+SECTION 
+NUMBER1
+Nominal 
+Unfactored 
+Force Pbr
+lbs (N)
+BRIDGING MATERIAL SIZE2
+Equal Leg Angles
+1 x 7/64
+(25 x 3 mm)
+r = 0.20”
+(5.08 mm)
+1-1/4 x 7/64
+(32 x 3 mm)
+r = 0.25”
+(6.35 mm)
+1-1/2 x 7/64
+(38 x 3 mm)
+r = 0.30”
+(7.62 mm)
+1-3/4 x 7/64
+(45 x 3 mm)
+r = 0.35”
+(8.89 mm)
+2 x 1/8
+(52 x 3 mm)
+r = 0.40”
+(10.16 mm)
+2-1/2 x 5/32
+(64 x 4 mm)
+r = 0.50”
+(12.70 mm)
+ft.-in. (mm)
+ft.-in. (mm)
+ft.-in. (mm)
+ft.-in. (mm)
+ft.-in. (mm)
+ft.-in. (mm)
+K1 – 8
+340 (1512)
+5’-0” (1524)
+6’–3” (1905)
+7’–6” (2286)
+8’-9” (2667)
+10’–0” (3048)
+12’–6” (3810)
+K9-10, 
+LH02-03
+450 (2002)
+4’-4” (1321)
+6’-1” (1854)
+7’–6” (2286)
+8’–9” (2667)
+10’–0” (3048)
+12’–6” (3810)
+K11-12, 
+LH04-05
+560 (2491)
+3’–11”(1194)
+5’–6” (1676)
+7’–4” (2235)
+8’–9” (2667)
+10’–0” (3048)
+12’–6” (3810)
+LH06-08
+750 (3336)
+4’–9” (1448)
+6’–3” (1905)
+7’–11” (2413)
+10’–0” (3048)
+12’–6” (3810)
+LH09
+850 (3781)
+4’–5” (1346)
+5’–10” (1778)
+7’–5” (2261)
+9’–9” (2972)
+12’–6” (3810)
+LH/DLH10
+900 (4003)
+4’–4” (1321)
+5’–8” (1727)
+7’–3” (2210)
+9’–5” (2870)
+12’–6” (3810)
+LH/DLH11
+950 (4226)
+4’–2” (1270)
+5’–7” (1702)
+7’–0” (2134)
+9’–2” (2794)
+12’–6” (3810)
+LH/DLH12
+1100 (4893)
+3’-11” (1194)
+5’–2” (1575)
+6’–8” (2032)
+8’–6” (2591)
+12’-6” (3810)
+LH/DLH13
+1200 (5338)
+3’-9” (1143)
+4’–11” (1499)
+6’–3” (1905)
+8’-2” (2489)
+12-6” (3810)
+LH/DLH14
+1300 (5783)
+4’-9” (1448)
+6’-0” (1829)
+7’-10” (2388)
+12’-4” (3759)
+LH/DLH15
+1450 (6450)
+4’-6” (1372)
+5’-8” (1727)
+7’-5” (2261)
+11’-8” (3556)
+LH/DLH16–17
+1850 (8229)
+4’-0” (1219)
+5’-0” (1524)
+6’-7”(2007)
+10’-4” (3150)
+DLH18–20
+2350 (10453)
+3’-7” (1067)
+4’-4” (1321)
+5’-10” (1778)
+9’-1” (2769)
+DLH21–22
+3150 (14012)
+3’-10” (1168)
+5’-0” (1524)
+7’-11” (2413)
+DLH23–24
+4130 (18371)
+3’-4” (1016)
+4’-5” (1346)
+6’-11” (2108)
+DLH25
+4770 (21218)
+4’-1”(1245)
+6’-5” (1956)
+(1) Refer to last two digit(s) of Joist Designation
+(2) Connection to joist shall resist force listed in the Steel Joist Institute Standard Specifications Table 5.5-2
+Bridging Requirements of LH-Series Joists 
+Erection Stability Spans (SJI Spec. Section 105)
+Depth
+Section Number*
+Spans Greater Than**
+Depth
+Section Number*
+Spans Greater Than**
+18
+02
+03 thru 09
+33’
+37’
+32
+06 thru 07
+08
+09 thru 15
+47’
+55’
+60’
+20
+02
+03
+04 thru 10
+33’
+38’
+41’
+36
+07 thru 08
+09
+47’
+57’
+24
+03
+04
+05
+06
+07 thru 11
+35’
+39’
+40’
+45’
+49’
+10 thru 15
+60’
+40
+08 thru 09
+10 thru 17
+47’
+60’
+44
+09
+10 thru 17
+52’
+60’
+28
+05
+06
+07 thru 08
+09  thru 13
+42’
+46’
+54’
+57’
+48
+10 thru 17
+60’
+WWW.VULCRAFT.COM
+WWW.VULCRAFT.COM 
+
+=====PAGE 3
+BRIDGING
+
+BRIDGING
+
+BRIDGING DETAILS
+V2018.0BR
+V2018.0BR
+TABLE 2.7-3
+K, LH, and DLH SERIES JOISTS
+MAXIMUM JOIST SPACING FOR DIAGONAL BRIDGING
+JOIST 
+DEPTH
+BRIDGING ANGLE SIZE – (EQUAL LEG ANGLE)
+1 x 7/64
+(25 x 3 mm)
+r = 0.20”
+(5.08 mm)
+1-1/4 x 7/64
+(32 x 3 mm)
+r = 0.25”
+(6.35 mm)
+1-1/2 x 7/64
+(38 x 3 mm)
+r = 0.30”
+(7.62 mm)
+1-3/4 x 7/64
+(45 x 3 mm)
+r = 0.35”
+(8.89 mm)
+2 x 1/8
+(50 x 3 mm)
+r = 0.40”
+(10.16 mm)
+2 ½ x 5/32
+(64x 4 mm)
+r=0.50”
+(12.70 mm)
+3 x 3/16
+(76 x 5 mm)
+r = 0.60”
+(15.24 mm)
+3 ½ x 1/4
+(89 x 6 mm)
+r = 0.70”
+(17.78 mm)
+in.  (mm)
+ft.-in. (mm)
+ft.-in. (mm)
+ft.-in. (mm)
+ft.-in.  (mm)
+ft.-in.  (mm)
+ft.-in.  (mm)
+ft.-in.  (mm)
+ft.-in. (mm)
+12”    (305)
+14”    (356)
+16”    (406)
+18”    (457)
+20”    (508)
+22”    (559)
+24”    (610)
+26”    (660)
+28”    (711)
+30”    (762)
+32”    (813)
+36”    (914)
+40” (1016)
+44” (1118)
+48” (1219)
+52” (1321)
+56” (1422)
+60” (1524)
+64” (1626)
+68” (1727)
+72” (1829)
+80” (2032)
+88” (2235)
+96” (2438)
+104” (2642)
+112” (2845)
+120” (3048)
+6’-7” (2007)
+6’-6” (1981)
+6’-6” (1981)
+6’-6” (1981)
+6’-5” (1955)
+6’-4” (1930)
+6’-4” (1930)
+6’-3” (1905)
+6’-3” (1905)
+6’-2” (1879)
+6’-1” (1854)
+5’-11”(1803)
+5’-9”(1753)
+5’-6”(1676)
+5’-4”(1626)
+5’-0”(1524)
+4’-9”(1448)
+4’-4”(1321)
+**
+**
+**
+**
+8’-3” (2514)
+8’-3” (2514)
+8’-2” (2489)
+8’-2” (2489)
+8’-2” (2489)
+8’-1” (2463)
+8’-1”  (2463)
+8’-0” (2438)
+8’-0” (2438)
+7’-11 (2413)
+7’-10”(2387)
+7’-9” (2362)
+7’-7” (2311)
+7’-5” (2260)
+7’-3” (2209)
+7’-1”(2159)
+6’-10”(2083)
+6’-8”(2032)
+6’-4”(1931)
+6’-1”(1854)
+5’-9”(1753)
+5’-0”(1524)
+**
+**
+9’-11”(3022)
+9’-11”(3022)
+9’-10”(2997)
+9’-10”(2997)
+9’-10”(2997)
+9’-10”(2997)
+9’-9”  (2971)
+9’-9” (2971)
+9’-8” (2946)
+9’-8” (2946)
+9’-7” (2921)
+9’-6”  (2895)
+9’-5”  (2870)
+9’-3” (2819)
+9’-2” (2794)
+9’-0” (2743)
+8’-10”(2692)
+8’-7”  (2616)
+8 -5”  (2565)
+8’-2”  (2489)
+8’-0” (2438)
+7’-5”(2260)
+6’-9”(2058)
+6’-0”(1829)
+**
+**
+11’-7” (3530)
+11’-7” (3530)
+11’-7” (3530)
+11’-6” (3505)
+11’-6” (3505)
+11’-6”  (3505)
+11’-5”  (3479)
+11’-5”  (3479)
+11’-5”  (3479)
+11’-4”  (3454)
+11’-4”  (3454)
+11’-3”  (3429)
+11’-2”  (3403)
+11’-0”  (3352)
+10’-11”(3327)
+10’-10” (3302)
+10’-8”  (3251)
+10’-6”  (3200)
+10’-4”  (3149)
+10’-2”  (3098)
+10’-0”  (3048)
+9’-6”    (2895)
+9’-0”    (2743)
+8’-5”
+(2565)
+7’-9”    (2362)
+7’-0”
+(2134)
+**
+13’-3”(4038)
+13’-3”(4038)
+13’-3”(4038)
+13’-3”(4038)
+13’-2”(4013)
+13’-2”(4013)
+13’-2”(4013)
+13’-1”(3987)
+13’-1”(3987)
+13’-1”(3987)
+13’-0” (3962)
+12’-11”(3973)
+12’-10”(3911)
+12’-9”  (3886)
+12’-8”  (3860)
+12’-7”  (3835)
+12’-5”  (3784)
+12’-4”  (3759)
+12’-2”  (3708)
+12’-0”  (3657)
+11’-10”(3606)
+11’-6” (3505)
+11’-1” (3378)
+10’-8”(3251)
+10’-1”(3073)
+9’-6”(2895)
+8’-9”(2667)
+16’-7”(5055)
+16’-7”(5055)
+16’-7”(5055)
+16’-7”(5055)
+16’-7”(5055)
+16’-6”(5029)
+16’-6”(5029)
+16’-6”(5029)
+16’-6”(5029)
+16’-5”(5004)
+16’-5”(5004)
+16’-4”(4979)
+16’-4”(4979)
+16’-3”(4953)
+16’-2”(4928)
+16’-1”(4902)
+16’-0”(4877)
+15’-10”(4826)
+15’-9” (4801)
+15’-8” (4775)
+15’-6” (4724)
+15’-3” (4648)
+14’-11”(4546)
+14’-7” (4445)
+14’-2” (4318)
+13’-9” (4191)
+13’-4”(4064)
+19’-11”(6070)
+19’-11”(6070)
+19’-11”(6070)
+19’-11”(6070)
+19’-11”(6070)
+19’-11”(6070)
+19’-10”(6045)
+19’-10”(6045)
+19’-10”(6045)
+19’-10”(6045)
+19’-9”(6020)
+19’-9”(6020)
+19’-8”(5994)
+19’-7”(5969)
+19’-7”(5969)
+19’-6”(5943)
+19’-5”(5918)
+19’-4”(5893)
+19’-3”(5867)
+19’-2”(5842)
+19’-1” (5816)
+18’-10”(5740)
+18’-7”  (5664)
+18’-4”  (5588)
+18’-0”  (5486)
+17’-8” (5385)
+17’-3” (5258)
+23’-3”(7086)
+23’-3”(7086)
+23’-3”(7086)
+23’-3”(7086)
+23’-3”(7086)
+23’-3”(7086)
+23’-3”(7086)
+23’-2”(7061)
+23’-2”(7061)
+23’-2”(7061)
+23’-2”(7061)
+23’-1”(7035)
+23’-1”(7035)
+23’-0”(7010)
+22’-11”(6985)
+22’-11”(6985)
+22’-10”(6960)
+22’-9”(6935)
+22’-8”(6909)
+22’-7”(6884)
+22’-6”  (6858)
+22’-4”  (6808)
+22’-1”  (6731)
+21’-11”(6680)
+21’-8”  (6604)
+21’-4”  (6503)
+21’-1”  (6426)
+**INTERPOLATION BELOW THE MINIMUM VALUES SHOWN IS NOT ALLOWED.
+SEE TABLE 2.7-4 FOR MINIMUM JOIST SPACE FOR DIAGONAL ONLY BRIDGING.
+WWW.VULCRAFT.COM
+WWW.VULCRAFT.COM 
+
+=====PAGE 4
+VULCRAFT SALES CORPORATION OFFICES
+ATLANTA, GA  
+P. 770.307.2111 
+BALTIMORE, MD  
+P. 410.998.0800 
+BIRMINGHAM, AL  
+P. 205.982.4394 
+BOARDMAN, OH 
+P. 330.726.8833 
+CENTERVILLE, UT 
+P. 801.292.0730 
+COLUMBIA, SC  
+P. 803.358.1300 
+DALLAS, TX  
+P. 214.340.1883 
+DENVER, CO 
+P. 303.757.6323 
+EDISON, NJ 
+P. 732.738.8188 
+FLOWOOD, MS 
+P. 601.383.7807 
+GENEVA, NY  
+P. 315.828.1730 
+GERMANTOWN, WI 
+P. 262.251.5666 
+GRAND RAPIDS, MI  
+P. 616.949.2106 
+HINSDALE, IL  
+P. 630.887.1400 
+HOUSTON, TX  
+P. 281.251.8857 
+INDIANAPOLIS, IN  
+P. 317.576.5399 
+KERNSVILLE, NC 
+P. 336.497.5302 
+KNOXVILLE, TN  
+P. 865.690.6388 
+LEXINGTON, KY  
+P. 859.940.0152 
+LITTLE ROCK, AR  
+P. 501.758.6424 
+MEMPHIS, TN 
+P. 901.612.3481 
+MINNEAPOLIS, MN  
+P. 763.425.4399 
+NASHVILLE, TN  
+P. 615.871.9385 
+NEW HUDSON, MI  
+P. 248.486.6166 
+NORRISTOWN, PA  
+P. 610.539.6516 
+OKLAHOMA CITY, OK 
+P. 405.715.2844 
+ORANGE, CA 
+P. 714.957.5713 
+OVERLAND PARK, KS 
+P. 913.341.9299 
+PHOENIX, AZ  
+P. 623.385.1649 
+SACRAMENTO, CA  
+P. 916.488.8180 
+SALEM, NH 
+P. 603.894.1146 
+SAN ANTONIO, TX  
+P. 210.655.9070 
+SEATTLE, WA  
+P. 425.402.9011 
+SPRINGFIELD, OH 
+P. 937.390.2300 
+ST. LOUIS, MO  
+P. 636.266.1844 
+TAMPA, FL  
+P. 813.621.0684 
+Please Visit the Contact Us Page at www.Vulcraft.com to Find Your Closest Sales Office
+Powerful Partnerships
+Powerful Results

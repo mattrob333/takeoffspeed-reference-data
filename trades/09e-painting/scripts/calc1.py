@@ -1,0 +1,13 @@
+pt1 = [(62.6,12),(15,11),(39.7,8.5),(4.9,6.5),(51.8,10),(117.1,9),(48,12.5)]
+s = sum(l*h for l,h in pt1)
+lf = sum(l for l,h in pt1)
+print('PT1 A-150 LFxH', s, 'LF', lf)
+print('+A-410 252.6 =', s+252.6, 'target 3710.84 ratio', 3710.84/(s+252.6))
+print('target/ s', 3710.84/s, 'diff', 3710.84-s, 3710.84-s-252.6)
+print('PT4', 5.3*9+10.6*10, 'target 153.62')
+print('PT6 37.2 target 40', 40/37.2)
+print('PT7', 10.3*10, 'target 105')
+print('PT8', 7.4*10, 'target 75')
+print('PT3 516.1 target 802 diff', 802-516.1)
+print('exposed 98.4 target 100')
+print('PT5 76.2 target 77')

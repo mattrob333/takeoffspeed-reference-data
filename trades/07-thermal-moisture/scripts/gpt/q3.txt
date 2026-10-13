@@ -1,0 +1,306 @@
+## 1. Basis: convention versus named standard
+
+- **[C] Estimating convention:** The LF/SF/piece-count practices below are common takeoff methods, **not a universal measurement standard**. State your assumptions and follow any measurement rules in the contract.
+- **[G] Geometry/unit conversion:** The area, overlap, and sealant-yield formulas below are mathematical relationships.
+- **[S] Named references:**
+  - **SMACNA, *Architectural Sheet Metal Manual*** provides sheet-metal detailing, fabrication, and installation guidance.
+  - **ASTM C1193**, *Standard Guide for Use of Joint Sealants*, addresses sealant-joint design and installation.
+  - **ASTM C920** specifies elastomeric sealant performance/classification.
+  - **ASTM C1330** specifies cylindrical sealant backing.
+
+These references **do not establish one universal 10-ft/12-ft stock length, lap allowance, or estimating waste percentage**. Use the specified edition, project details, and approved manufacturer/fabricator requirements.
+
+---
+
+## 2. What quantities to list **[C]**
+
+For metal, maintain three related quantities:
+
+1. **Net installed LF:** Length of the completed flashing or coping.
+2. **Developed—or “girth”—SF:** Sheet area needed to form the profile.
+3. **EA/pieces:** Straight sections, corners, end caps, splice plates, and other fittings.
+
+These are different descriptions of the same work—not three additive material quantities.
+
+Separate items by material, thickness/gauge, finish, profile/girth, and detail.
+
+| Item | Main installed quantity | Developed-area quantity | Piece/accessory quantities |
+|---|---|---|---|
+| **Coping** | LF along each parapet run, using a declared reference line | All profile legs: top, front/rear drops, returns, hems, etc. | Straight sections by length; inside/outside corners; intersections; end caps; splice/cover plates; expansion-joint assemblies |
+| **Through-wall flashing** | LF at each distinct flashing elevation/run | Full developed path through/behind the wall, including upstands, cavity crossing, outward projection, drip, hems, and returns | Straight sections; corner assemblies; end dams; transitions; splice components |
+| **Counterflashing** | LF along each roof-to-wall or similar termination | Exposed leg plus reglet insertion, offsets, kicks, hems, and returns | Straight sections; corners; terminations; splice components; separate receivers if required |
+| **Head flashing** | LF for each opening: required head length, including specified end extensions | Back/upstand leg, horizontal or sloped cover, face/drop, drip, hem, and returns | EA heads by opening size; end dams/returns; corner and splice components where applicable |
+| **Sills** | LF by opening, plus EA sill assemblies | Actual sloped sill depth, rear upstand, front drop/drip, hems, and returns | EA sills by size; end dams/end caps; corner and splice components |
+| **Joint sealant** | LF of **each individual sealant bead**, grouped by product and joint width × depth | Convert bead volume into packages | Cartridges/sausages by actual package volume |
+| **Backer rod** | LF of each joint receiving rod, grouped by diameter/type | Normally not taken off in SF | Rolls or packages after applying the stated cutting/waste allowance |
+
+For head flashings and sills, an opening schedule is useful: **opening ID, quantity, finished length, profile, and end treatment**.
+
+**Ancillary metal:** If included in scope, list continuous cleats/receivers in LF and their own girth SF; intermittent clips and fasteners in EA. Do not assume their lengths or spacings equal those of the face metal.
+
+---
+
+## 3. How to measure girth SF **[G, with C takeoff basis]**
+
+**Girth is the developed flat-sheet width—not merely the exposed face or coping top width.**
+
+For a constant profile:
+
+\[
+A_{\text{SF}}=\frac{L_{\text{ft}}\times G_{\text{in}}}{12}
+\]
+
+Example:
+
+\[
+100\text{ LF}\times24\text{-in girth}/12=200\text{ SF}
+\]
+
+For fabrication quantities, use the required blank lengths:
+
+\[
+A_{\text{blank}}=
+\sum\frac{L_{\text{blank, ft}}\times G_{\text{blank, in}}}{12}
++\text{separately calculated special-fitting blank areas}
+\]
+
+### Include in the developed width
+- Front and rear legs.
+- Concealed upstands and insertion legs.
+- Drips, kicks, offsets, and return legs.
+- Material consumed by hems.
+- Actual sloped dimensions, rather than horizontal projections alone.
+
+The final blank width should reflect the fabricator’s bend allowances/deductions. Simply adding outside profile dimensions is an estimating approximation.
+
+### Keep these distinct
+- **Installed LF:** System coverage.
+- **Blank SF:** Actual metal, including required overlaps and fitting allowances.
+- **Stock sheets/lengths:** Procurement quantities after nesting, cuts, and usable-offcut decisions.
+
+An end dam formed from an integral tab needs metal beyond the basic constant-section strip. Calculate that tab/blank allowance; do not also count it as a separate fabricated part unless it actually is separate.
+
+---
+
+## 4. Corners, miters, end caps, and splice plates **[C]**
+
+### Corners and miters
+- Count each physical change of direction as **one corner assembly**, classified by inside/outside, angle, and profile.
+- A corner assembled from two mitered straight pieces is still **one corner location**.
+- If shop operations are tracked, list **two miter cuts** where applicable—but do not turn those into two corner assemblies.
+- Count nonstandard corners, tees, and intersections separately.
+
+For a prefabricated corner with two legs:
+
+- Include its coverage in the overall installed LF.
+- **Deduct that coverage from adjoining straight-section quantities**.
+- Count the corner itself in EA and calculate its own blank area if required.
+
+Do not count full straight-run metal through a corner and then add a complete corner fitting over the same coverage.
+
+Declare whether plan lengths follow a centerline, inside face, or outside face. **Miter cutting lengths require the actual long-point/short-point geometry**, not just the takeoff reference length.
+
+### End caps and end dams
+- Count **one end cap per actual open end requiring a cap**.
+- Count **one end dam per required flashing termination**.
+- A typical isolated sill or head may require two end dams, but that is a detail-dependent assumption—not a universal rule.
+- Distinguish integral, shop-welded, and separate loose components.
+
+A wall intersection is not automatically an end cap; it may require a return, transition, or sealant termination instead.
+
+### Splice/cover plates
+Count **actual connections requiring a plate**, not “one plate per piece.”
+
+- One open chain of \(n\) connected sections ordinarily has \(n-1\) internal connections.
+- Connections to prefabricated corners may need additional plates.
+- A closed loop of \(n\) total connected sections has \(n\) connections.
+- Integral welded corners do not create field splice-plate quantities merely because they contain a bend.
+
+Classify ordinary splice plates, backing plates, and expansion-joint components separately. If one joint requires multiple components, list each component.
+
+---
+
+## 5. Piece lengths and lap allowances **[C + G]**
+
+### 10-ft versus 12-ft sections
+Neither is a universal standard. Record:
+
+- Actual fabricated length.
+- Whether the quoted length means **overall metal length** or **net installed coverage**.
+- Required lap or joint gap.
+- Maximum permitted section length.
+- Corner-leg lengths and terminal allowances.
+
+Fabrication equipment, available sheet sizes, handling, finish, and thermal-movement details can affect allowable lengths.
+
+### Overlapping straight pieces
+
+For one uninterrupted run with:
+- \(R\) = required coverage, ft
+- \(S\) = actual overall piece length, ft
+- \(a\) = overlap at each joint, ft
+- \(n\) = number of pieces
+
+and exactly \(n-1\) equal overlaps:
+
+\[
+R_{\text{covered}}=nS-(n-1)a
+\]
+
+Thus, for \(R>0\):
+
+\[
+n=\max\left(1,\left\lceil\frac{R-a}{S-a}\right\rceil\right)
+\]
+
+Required total cut-piece length is:
+
+\[
+L_{\text{blank,total}}=R+(n-1)a
+\]
+
+This simplified formula excludes special fittings and additional terminal overlaps; handle those separately.
+
+**Illustration only—not a standard lap:** With a 40-ft run and a 2-in lap:
+
+| Actual piece length | Pieces required | Total cut-piece length | Full stock length before offcut reuse |
+|---|---:|---:|---:|
+| 10 ft | 5 | 40 ft 8 in | 50 ft |
+| 12 ft | 4 | 40 ft 6 in | 48 ft |
+
+Four actual 10-ft pieces cover only **39 ft 6 in** after three 2-in overlaps.
+
+### Important lap rules
+- Use the lap specified for that particular material and detail.
+- Calculate laps from the **actual joint count**.
+- A lap along the run increases blank length; it does not automatically increase girth.
+- Butt joints with splice plates are **not overlapping joints**. Account for metal lengths, specified gaps, and plates separately.
+- Corner connections and terminal overlaps must be included where required.
+- Do not add a lap percentage after laps are already included explicitly.
+- Keep cutting waste separate from intentional laps.
+- Develop a run-by-run cut list; then optimize reusable offcuts. Dividing the building’s total LF by 10 or 12 can miss short-run and fitting requirements.
+
+---
+
+## 6. Sealant and backer-rod quantities
+
+### Sealant LF **[C]**
+
+Measure the length of **every required bead**, separated by width × depth and sealant type.
+
+Examples:
+
+- One continuous bead along a 100-ft run = **100 LF**.
+- Two specified continuous beads along that run = **200 LF**.
+- Interior and exterior perimeter seals are **separate beads**; count both when specified.
+- Sealant at transverse flashing joints is measured along each required seam path—not automatically along the entire flashing run.
+- Two beads under a lap count as two bead lengths.
+
+For a coping splice, the specified sealant path might cross the top only, follow more of the developed profile, or consist of concealed beads. Use the actual detail.
+
+### Cartridge/sausage yield **[G]**
+
+For a rectangular-equivalent joint:
+
+- \(w\) = joint width, inches
+- \(d\) = sealant depth, inches
+- \(L\) = bead length, feet
+
+\[
+V_{\text{required, in}^3}=12Lwd
+\]
+
+Theoretical package yield:
+
+\[
+\boxed{Y_{\text{LF/package}}=
+\frac{V_{\text{package, in}^3}}{12wd}}
+\]
+
+Since:
+
+\[
+1\text{ US fluid oz}=1.8046875\text{ in}^3
+\]
+
+then:
+
+\[
+\boxed{Y_{\text{LF/package}}=
+\frac{0.150390625\times V_{\text{package, US fl oz}}}{wd}}
+\]
+
+For packages rated in mL:
+
+\[
+Y_{\text{LF/package}}=
+\frac{V_{\text{package, mL}}}{196.645\,wd}
+\]
+
+**Use volume, not ounces of weight.** A 600-mL sausage and a 20-US-fl-oz sausage are close, but not identical in volume.
+
+#### Theoretical yield, before losses
+
+| Joint width × depth | 10.1-US-fl-oz cartridge | 20-US-fl-oz sausage |
+|---|---:|---:|
+| ¼ in × ¼ in | 24.3 LF | 48.1 LF |
+| ⅜ in × ¼ in | 16.2 LF | 32.1 LF |
+| ½ in × ¼ in | 12.2 LF | 24.1 LF |
+
+If \(u\) is the usable fraction of each package:
+
+\[
+Y_{\text{usable}}=uY_{\text{theoretical}}
+\]
+
+\[
+N_{\text{packages}}=
+\left\lceil
+\frac{12\sum(L_iw_id_i)}
+{uV_{\text{package, in}^3}}
+\right\rceil
+\]
+
+Group quantities by compatible product, color, and package before rounding. State the loss assumption; avoid applying both a usable-fraction deduction and another allowance for the same loss.
+
+**Depth means sealant depth, not total joint-cavity depth.** If the bead is triangular, concave, or otherwise nonrectangular, use its actual cross-sectional area or the manufacturer’s yield data. Do not assume every joint has the same width-to-depth ratio.
+
+### Backer rod **[C; selection governed by detail/manufacturer]**
+- Measure LF only where rod is required.
+- Separate by diameter and material/type.
+- Include cut/end waste explicitly.
+- Select diameter and compression according to the specified system and manufacturer.
+- Do not automatically assign backer rod to concealed lap-sealant beads or joints requiring bond-breaker tape instead.
+- If both faces require separate backing and sealant, count both backing runs.
+
+---
+
+## 7. Common takeoff mistakes **[C]**
+
+- **Double-counting corner coverage:** Full straight lengths plus complete corner legs.
+- **Missing concealed metal:** Rear legs, reglet insertions, hems, returns, end-dam tabs, or sloped development.
+- **Confusing top width with girth:** Coping top SF is not total sheet-metal SF.
+- **Treating every segment endpoint as an end cap:** Many endpoints are splices or transitions.
+- **Counting one splice plate per piece:** Connections—not pieces—control the count.
+- **Assuming nominal stock length equals coverage:** Overlaps reduce coverage unless already built into the stated nominal length.
+- **Adding laps twice:** Once in piece lengths and again as a blanket allowance.
+- **Missing the second sealant face:** Or doubling all joints even where only one face is specified.
+- **Using joint width × full cavity depth:** This can substantially overstate sealant volume.
+- **Omitting transverse or concealed beads:** Continuous perimeter sealant may not be the entire scope.
+- **Counting integral parts twice:** Integral end dams, caps, or corner fabrication also listed as separate material.
+
+## 8. Final self-check
+
+- [ ] Every plan/elevation run and flashing level is accounted for.
+- [ ] LF reference lines and opening-length conventions are stated.
+- [ ] Profiles include all visible and concealed legs.
+- [ ] Net LF, blank SF, stock quantities, and EA fittings reconcile.
+- [ ] Corner coverage is credited against straight sections.
+- [ ] Corners, end caps, end dams, transitions, and expansion joints are separately identified.
+- [ ] Piece counts use actual fabricated lengths and the correct joint type.
+- [ ] Laps, terminal allowances, gaps, and waste are each included once.
+- [ ] Splice counts match the connection layout, including corner connections.
+- [ ] Sealant LF includes every required bead and face.
+- [ ] Sealant widths/depths and package volumes are verified.
+- [ ] Backer-rod type, diameter, and LF match the applicable joints.
+- [ ] Missing dimensions or unconfirmed assumptions are clearly flagged.

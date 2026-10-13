@@ -1,0 +1,507 @@
+6
+Index
+inlet
+protection
+excavated drop inlet protection (Temporary)
+HARDWARE CLOTH AND GRAVEL INLET PROTECTION
+Block and gravel inlet Protection (Temporary)
+sod drop inlet protection
+ROCK DOUGHNUT INLET PROTECTION 
+Rock pipe inlet protection
+6.50.1
+6.51.1
+6.52.1
+6.53.1
+6.54.1
+6.55.1
+Rev. 6/06
+
+Practice Standards and Specifications
+Definition
+An excavated area in the approach to a storm drain drop inlet or curb inlet.
+Purpose
+To trap sediment at the approach to the storm drainage systems.  This practice 
+allows use of permanent stormwater conveyance at an early stage of site 
+development.
+Conditions Where 
+Practice Applies
+Where storm drain drop inlets are to be made operational before permanent 
+stabilization of the disturbed drainage area.  This method of inlet protection is 
+applicable where relatively heavy flows are expected, and overflow capability 
+is needed (Figure 6.50a).  Frequent maintenance is required and temporary 
+flooding in the excavated area will occur.  This practice can be  used in 
+combination with other temporary inlet protection devices such as Practice 
+6.51, Hardware Cloth, and Gravel Inlet Protection and Practice 6.52, Block 
+and Gravel Inlet Protection.
+6.50
+excavated drop inlet protection (Temporary)
+	
+6.50.1
+
+6
+6.50.2
+Design Criteria
+Limit the drainage area to 1 acre.  Keep the minimum depth at 1 foot and the 
+maximum depth of 2 feet as measured from the crest of the inlet structure.
+Maintain side slopes around the excavation no steeper than 2:1
+Keep the minimum volume of excavated area around the drop inlet at 
+approximately 1800 ft3/acre disturbed.
+Shape the basin to fit site conditions, with the longest dimension oriented 
+toward the longest inflow area to provide maximum trap efficiency.
+Install provisions for draining the temporary pool to improve trapping 
+efficiency for small storms and to avoid problems from standing water after 
+heavy rains.
+Construction
+Specifications
+1. Clear the area of all debris that might hinder excavation and disposal of 
+spoil.
+2. Grade the approach to the inlet uniformly.
+3. Protect weep holes by gravel.
+4. When the contributing drainage area has been permanently stabilized, seal 
+weep holes, fill the basin with stable soil to final grading elevations, compact 
+it properly, and stabilize.
+Maintenance
+Inspect, clean, and properly maintain the excavated basin after every storm 
+until the contributing drainage area has been permanently stabilized.  To 
+provide satisfactory basin efficiency, remove sediment when the volume of 
+the basin has been reduced by one-half.  Spread all excavated material evenly 
+over the surrounding land area or stockpile and stabilize it appropriately.
+References
+Inlet Protection
+6.51, Hardware, Cloth, and Gravel Inlet Protection 
+6.52, Block and Gravel Inlet Protection (Temporary)
+
+Practice Standards and Specifications
+Definition
+A temporary measure of wire-mesh hardware cloth around steel posts 
+supporting washed stone placed around the opening of a drop inlet.
+Purpose
+To prevent sediment from entering yard inlets, grated storm drains or drop 
+inlets during construction.  This practice allows early use of the storm drain 
+system.
+Conditions Where 
+Practice Applies
+To be placed around a catch basin or a drop inlet and where the flow is light to 
+moderate.  If heavy flow is anticipated, use the rock doughnut inlet protection 
+method (Practice 6.54, Rock Doughnut Inlet Protection).  It is also used where 
+storm drain inlets are to be made operational before permanent stabilization 
+of the disturbed drainage area.  This method of inlet protection is effective 
+where the inlet is expected to drain shallow sheet flow.  The immediate land 
+area around the inlet should be relatively flat (less than 1 percent) and located 
+so that accumulated sediment can be easily removed.
+This practice must not be used near the edge of fill material and must not 
+divert water over cut or fill slopes.
+Design Criteria
+Ensure that drainage areas do not exceed 1 acre per inlet.
+For securing the wire mesh hardware cloth barriers, use steel T posts.  The posts 
+need to be 1.25 lb/linear ft steel with a minimum length of 5 feet. Make sure 
+the posts have projections to facilitate fastening the hardware cloth.  Securely 
+drive each stake into the ground to a minimum depth of 2 feet. The maximum 
+spacing for the posts is 4 feet. 
+The wire mesh should be at least a 19-gauge hardware cloth with a ¼ inch 
+mesh opening.  The total height should be a minimum of 2 feet.  Providing a 
+flap of hardware cloth on the ground projecting away from the inlet can aid in 
+removal of the stone at the project’s completion.  The sediment control stone, 
+with a height of 16 inches, should have a outside slope of 2:1. 
+The top elevation of the structure must be at least 12 inches lower than the 
+ground elevation downslope from the inlet.  It is important that all storm 
+flows pass over the structure into the storm drain and not bypass the structure. 
+Temporary dikes below the structure may be necessary to prevent bypass flow. 
+Soil excavated when constructing the sediment pool may be used for this 
+purpose (Figure 6.51a). 
+6.51
+Hardware cloth & Gravel inlet protection
+Rev. 6/06	
+6.51.1
+
+6
+Construction
+Specifications
+1.  Uniformly grade a shallow depression approaching the inlet.
+2.  Drive 5-foot steel posts 2 feet into the ground surrounding the inlet.  
+Space posts evenly around the perimeter of the inlet, a maximum of 4 feet 
+apart.
+3.  Surround the posts with wire mesh hardware cloth.  Secure the wire 
+mesh to the steel posts at the top, middle, and bottom.  Placing a 2-foot flap 
+of the wire mesh under the gravel for anchoring is recommended.
+4.  Place clean gravel (NC DOT #5 or #57 stone) on a 2:1 slope with a 
+height of 16 inches around the wire, and smooth to an even grade.  
+5.  Once the contributing drainage area has been stabilized, remove 
+accumulated sediment, and establish final grading elevations.
+6.  Compact the area properly and stabilized it with groundcover. 
+Maintenance
+Inspect inlets at least weekly and after each significant (½ inch or greater) 
+rainfall event.  Clear the mesh wire of any debris or other objects to provide 
+adequate flow for subsequent rains.  Take care not to damage or undercut the 
+wire mesh during sediment removal.  Replace stone as needed.  
+References
+Inlet Protection
+6.52, Block and Gravel Inlet Protection
+6.54, Rock Doughnut Inlet Protection
+North Carolina Department of Transportation
+Standard Specifications for Roads and Structures
+6.51.2	
+Rev. 6/06
+NCDOT #5 or #57 
+washed stone
+2:1
+2’
+16”
+3’
+2’
+4’ max
+filtered 
+water
+19-guage hardware cloth 
+(¼ mesh openings)
+NCDOT #5 or #57 
+washed stone
+Figure 6.51a  Hardware cloth and gravel inlet protection
+
+Practice Standards and Specifications
+	
+6.52.1
+Definition
+A sediment control barrier formed around a storm drain inlet by the use of 
+standard concrete block and gravel.
+Purpose
+To help prevent sediment from entering storm drains before stabilizing the 
+contributing watershed.  This practice allows early use of the storm drain 
+system.
+Conditions Where 
+Practice Applies
+Where storm drain inlets are to be made operational before permanent 
+stabilization of the disturbed drainage area.  This method of inlet protection 
+applies to both drop inlets and curb inlets where heavy flows are expected, 
+and an overflow capacity is necessary to prevent excessive ponding around 
+the structure.  Shallow temporary flooding after rainfall should be expected, 
+however.
+This practice must not be used near the edge of fill material, and must not 
+divert water away from the storm drain.
+Design Criteria
+Keep the drainage area no greater than 1 acre unless site conditions allow for 
+frequent removal and adequate disposal of accumulated sediment.
+Keep the height of the barrier at least 12 inches and no greater than 24 inches. 
+Do not use mortar.  Limit the height to prevent excess ponding and bypass 
+flow.
+Recess the first course of blocks at least 2 inches below the crest opening of 
+the storm drain for lateral support.  Support subsequent courses laterally if 
+needed by placing a 2 x 4-inch wood stud through the block openings that are 
+perpendicular to the block course needing support.  Lay some blocks on their 
+side in the bottom row for dewatering the pool (Figure 6.52a).
+Place gravel just below the top of the blocks on slopes of 2:1 or flatter.  Place 
+hardware cloth or comparable wire mesh with 1/2-inch openings over all block 
+openings to hold gravel in place.
+The top elevation of the structure must be at least 6 inches lower than the 
+ground elevation downslope from the inlet.  It is important that all storm flows 
+pass over the structure and into the storm drain and not past the structure. 
+Temporary diking below the structure may be necessary to prevent bypass flow. 
+Material may be excavated from inside the sediment pool for this purpose.
+6.52
+block and gravel inlet protection (Temporary)
+
+6
+6.52.2
+Construction
+Specifications
+1. Lay one block on each side of the structure on its side in the bottom row 
+to allow pool drainage.  The foundation should be excavated at least 2 inches 
+below the crest of the storm drain.  Place the bottom row of blocks against 
+the edge of the storm drain for lateral support and to avoid washouts when 
+overflow occurs.  If needed, give lateral support to subsequent rows by placing 
+2 x 4 wood studs through block openings.
+2. Carefully fit hardware cloth or comparable wire mesh with ½-inch openings 
+over all block openings to hold gravel in place.
+3. Use clean gravel, ¾- to ½-inch in diameter, placed 2 inches below the top 
+of the block on a 2:1 slope or flatter and smooth it to an even grade.  DOT #57 
+washed stone is recommended.
+
+Practice Standards and Specifications
+Rev. 6/06	
+6.52.3
+4. If only stone and gravel are used, keep the slope toward the inlet no steeper 
+than 3:1.  Leave a minimum 1-foot wide level stone area between the structure 
+and around the inlet to prevent gravel from entering inlet.  On the slope toward 
+the inlet, use stone 3 inches in diameter or larger.  On the slope away from 
+the inlet use ½ - ¾-inch gravel (NCDOT #57 washed stone) at a minimum 
+thickness of 1 foot.
+Maintenance
+Inspect the barrier at least weekly and after each significant (½ inch or greater) 
+rainfall and make repairs as needed.
+Remove sediment as necessary to provide adequate storage volume for 
+subsequent rains.
+When the contributing drainage area has been adequately stabilized, remove 
+all materials and any unstable soil, and either salvage or dispose of it properly. 
+Bring the disturbed area to proper grade, then smooth and compact it. 
+Appropriately stabilize all bare areas around the inlet.
+References
+Inlet Protection
+6.50, Excavated Drop Inlet Protection (Temporary) 
+6.51, Hardware Cloth, and Gravel Inlet Protection (Temporary)
+North Carolina Department of Transportation
+Standard Specifications for Roads and Structures
+
+6
+6.52.4
+
+Practice Standards and Specifications
+	
+6.53.1
+Definition
+A permanent grass sod filter area around a storm drain drop inlet in a stabilized, 
+well-vegetated area.
+Purpose
+To limit sediment from entering storm drainage systems as a permanent 
+protection measure.
+Conditions Where 
+Practice Applies
+Where the drainage area of the drop inlet has been permanently seeded and 
+mulched, and the immediate surrounding area is to remain in dense vegetation. 
+This practice is well suited for lawns adjacent to large buildings.
+Design Criteria
+Keep velocity of design flow over the sod area at all points less than 5 ft/sec.
+Place sod to form a turf mat completely covering the soil surface for a minimum 
+distance of 4 feet from each side of the drop inlet where runoff will enter.
+Maintain the slope of the sodded area no greater than 4:1.
+Keep the drainage area no greater than 2 acres; maintain this area undisturbed 
+or stabilize it.
+Construction
+Specifications
+1. Bring the area to be sodded to final grade elevation with top soil.  Add 
+fertilizer and lime, and install sod according to Practice 6.12, Sodding.
+2. Lay all sod strips perpendicular to the direction of flows.
+3. Keep the width of the sod at least 4 ft in the direction of flows.
+4. Stagger sod strips so that adjacent strip ends are not aligned.
+Maintenance
+During the first 4 weeks, water sod as often as necessary to maintain moist soil 
+to a minimum depth of 2 inches.
+Maintain grass height at least 2 inches with no more than one-third the shoot 
+height (grass leaf) removed in any mowing.
+Apply fertilizer as necessary to maintain the desired growth and sod density. 
+Add lime as needed to maintain the proper pH.
+References
+Surface Stabilization
+6.12, Sodding
+6.53
+sod drop inlet protection
+
+6
+6.53.2
+Figure 6.53b Sod drop inlet sediment filter (source: Va SWCC)
+
+Practice Standards and Specifications
+Rock doughnut inlet protection (temporary)
+6.54
+Definition
+A doughnut shaped rock dam that prevents sediment from getting into a drop 
+inlet.  The rock dam has a built-in sediment storage area around the outside 
+perimeter of the structure.  
+Purpose
+To prevent sediment from entering a storm drain.
+Conditions Where 
+Practice Applies
+To be used at drop inlets with large drainage areas or at drop inlets that 
+receive high velocity water flows, possibly from many directions.  Sediment 
+is captured in an excavated depression surrounding the inlet.  When drainage 
+area exceeds 1 acre, additional measures are necessary.  This practice must not 
+divert water away from the storm drain.
+Design Criteria
+Place measure at least 30 feet away from vehicular traffic.  This inlet protection 
+can be modified to protect one side of the inlet if only one side receives flow. 
+Stone­—A minimum 1-foot wide level area set 4 inches below the drop inlet 
+crest will add protection against the entrance of material.  Structural stone 
+should be Class B riprap with 2:1 side slope, and a minimum crest width of 18 
+inches.  The height of the stone should be from 2 to 3.5 feet.  The outside face 
+of the riprap should be covered in a 12-inch thick layer of #5 or #57 washed 
+stone.   Wire mesh with 2-inch openings may be placed over the drain grating 
+but must be inspected frequently to avoid blockage by trash.  
+The top elevation of the stone structure must be at least 12 inches lower 
+than the ground elevation downslope from the inlet.  It is important that all 
+stormwater flow over the structure into the storm drain, and not past the 
+structure.  Temporary diking below the structure may be necessary to prevent 
+bypass flow.  Material may be excavated from inside the sediment pool for this 
+purpose (Practice 6.52, Block and Gravel Inlet Protection).    
+Construction 
+Specifications
+1.  Clear the area of all debris that might hinder excavation and disposal of 
+spoil.  
+2.  Grade shallow depression uniformly towards the inlet with side slopes no 
+greater than 2:1.  Grade a 1-foot wide level area set 4 inches below the area 
+adjacent to the inlet.  
+3.  Install the Class B or Class I riprap in a circle around the inlet.  The 
+minimum crest width of the riprap should be 18 inches, with a minimum 
+bottom width of 7.5 feet.  The minimum height of the stone is 2 feet. 
+4.  The outside face of the riprap is then lined with 12 inches of  NC DOT #5 
+or #57 washed stone.  
+Rev. 6/06	
+6.54.1
+
+6
+Maintenance
+Inspect rock doughnut inlet protection at least weekly and after each significant 
+(½ inch or greater) rainfall event and repair immediately.   
+To provide satisfactory inlet protection efficiency, remove sediment from 
+the sediment pool area when the volume is decreased by half. This will 
+help provide adequate storage volume for the next rain.  Stabilize excavated 
+material appropriately.  
+Take care not to damage or undercut the structure during sediment removal. 
+Remove debris from the inlet and replace stone as needed.  If the inlet was 
+covered with wire mesh the mesh should be cleaned of debris.  
+When the contributing drainage area has been adequately stabilized, remove 
+all materials and dispose of sediment properly.  Bring the disturbed area to the 
+grade of the drop inlet.  Smooth and compact it as needed.   
+Appropriately stabilize all bare areas around the inlet with ground cover.
+References
+Inlet protection
+6.52, Block and Gravel Inlet Protection (Temporary)
+North Carolina Department of Transportation 
+Erosion & Sedimentation Guidelines for Division Maintenance Operation, 
+1993.
+6.54.2	
+Rev. 6/06
+Figure 6.54a Rock doughnut inlet 
+protection plan view and cross-section 
+view.
+Plan View
+2-3.5’
+12”
+1
+2
+3.75’
+1’
+1.5’
+2
+1
+Cross-Section 
+View
+
+Practice Standards and Specifications
+Definition
+A horseshoe shaped rock dam structure at a pipe inlet with a sediment storage 
+area around the outside perimeter of the structure.
+Purpose
+To prevent sediment from entering, accumulating in and being transferred 
+by a culvert or storm drainage system prior to stabilization of the disturbed 
+drainage area.  This practice allows early use of the storm drainage system.
+Conditions Where 
+Practice Applies
+Rock pipe inlet protection may be used at pipes with a maximum diameter 
+of 36 inches.  This inlet protection may be used to supplement additional 
+sediment traps or basins at the pipe outlet, or used in combination with an 
+excavated sediment storage area to serve as a temporary sediment trap.  Pipe 
+inlet protection should be provided to protect the storm drainage system and 
+downstream areas from sedimentation until permanent stabilization of the 
+disturbed drainage area.
+Do not install this measure in an intermittent or perennial stream.
+Planning 
+Considerations
+When construction on a project reaches a stage where culverts and other storm 
+drainage structures are installed and many areas are brought to the desired 
+grade, there is a need to protect the points where runoff can leave the site 
+through culverts or storm drains.  Similar to drop and curb inlets, culverts 
+receiving runoff from disturbed areas can convey large amounts of sediment 
+to lakes or streams.  Even if the pipe discharges into a sediment trap or basin, 
+the pipe or pipe system itself may clog with sediment.
+Design Criteria
+When used in combination with an excavated sediment storage area to serve 
+as a temporary sediment trap, the design criteria for temporary sediment traps 
+must be satisfied.  The maximum drainage area should be 5 acres, and 3600 
+cubic feet of sediment storage per acre of disturbed drainage area should be 
+provided.
+The minimum stone height should be 2 feet, with side slopes no steeper than 
+2:1.  The stone “horseshoe” around the pipe inlet should be constructed of 
+Class B or Class I riprap, with a minimum crest width of 3 feet.  The outside 
+face of the riprap should be coved with a 12-inch thick layer of #5 or #57 
+washed stone.  
+In preparing plans for rock pipe inlet protection, it is important to protect the 
+embankment over the pipe from overtopping.  The top of the stone should be a 
+minimum of 1 foot below the top of the fill over the pipe.  The stone should tie 
+into the fill on both sides of the pipe.  The inside toe of the stone should be no 
+closer than 2 feet from the culvert opening to allow passage of high flows.
+The sediment storage area should be excavated upstream of the rock pipe inlet 
+protection, with a minimum depth of 18 inches below grade. 
+6.55
+Rock Pipe Inlet protection
+Rev. 6/06	
+6.55.1
+
+Figure 6.55a Rock pipe inlet protection plan view and cross-section view
+6.55.2	
+Rev. 6/06
+Flow
+Class B Riprap
+NC DOT #5 or #57 
+washed stone
+Pipe Invert
+Riprap Headwall, 1’ min 
+height from road shoulder
+Natural Ground
+3’
+1’
+2’
+1.5’
+Flow
+Riprap 
+Headwall
+Filter Berm NC 
+DOT #5 or #57 
+washed stone
+Flow
+Flow
+Flow
+Natural Ground
+Pipe Invert, 36’ 
+pipe Max
+Class B Riprap
+6
+
+Practice Standards and Specifications
+Construction 
+Specifications
+1.  Clear the area of all debris that might hinder excavation and disposal of 
+spoil.
+2.  Install the Class B or Class I riprap in a semi-circle around the pipe 
+inlet.  The stone should be built up higher on each end where it ties into the 
+embankment.  The minimum crest width of the riprap should be 3 feet, with a 
+minimum bottom width of 11 feet.  The minimum height should be 2 feet, but 
+also 1 foot lower than the shoulder of the embankment or diversions.
+3.  A 1 foot thick layer of NC DOT #5 or #57 stone should be placed on the 
+outside slope of the riprap.
+4.  The sediment storage area should be excavated around the outside of the 
+stone horseshoe 18 inches below natural grade.
+5.  When the contributing drainage area has been stabilized, fill depression 
+and establish final grading elevations, compact area properly, and stabilize 
+with ground cover. 
+Maintenance
+Inspect rock pipe inlet protection at least weekly and after each significant (½ 
+inch or greater) rainfall event and repair immediately.  Remove sediment and 
+restore the sediment storage area to its original dimensions when the sediment 
+has accumulated to one-half the design depth of the trap.  Place the sediment 
+that is removed in the designated disposal area and replace the contaminated 
+part of the gravel facing.
+Check the structure for damage.  Any riprap displaced from the stone horseshoe 
+must be replaced immediately.
+After all the sediment-producing areas have been permanently stabilized, 
+remove the structure and all the unstable sediment.  Smooth the area to 
+blend with the adjoining areas and provide permanent ground cover (Surface 
+Stabilization).
+References
+Inlet protection
+6.52, Block and Gravel Inlet Protection (Temporary)
+Sediment Trap and Barriers
+6.60, Temporary Sediment Trap
+Surface Stabilization
+6.15, Riprap
+North Carolina Department of Transportation 
+Erosion & Sedimentation Guidelines for Division Maintenance Operation, 
+1993.
+Virginia Erosion and Sediment Control Handbook. 1992. STD & SPEC 
+3.08, Culvert Inlet Protection. pages III-46 - III-51 (Culvert Inlets Sediment 
+Trap).
+ 
+Rev. 6/06	
+6.55.3
+
+6
+6.55.4	
+Rev. 6/06

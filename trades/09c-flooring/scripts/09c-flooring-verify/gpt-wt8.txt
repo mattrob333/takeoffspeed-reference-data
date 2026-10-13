@@ -1,0 +1,18 @@
+*Directions below are relative to the plan: top = north.*
+
+**(a) Elevation A shows the Men’s west (plan-left) wall. Its door is Janitor door 115.**  
+Evidence: the **10/A-410** elevation marker is in the Men’s room and points left, toward the wall shared with **Janitor 115**. Door **115** is in that wall—not the Men’s entrance door 113.
+
+**(b) Both restroom entrance doors are on the south (bottom) wall.**
+- **Men’s door 113:** near the southwest corner.
+- **Women’s door 112:** near the southeast corner.  
+Evidence: their openings, swings, and door-number tags appear along the bottom wall.
+
+**(c) The corresponding Women’s wall is the east (plan-right) wall, and it has no door.**  
+The restroom arrangements are mirrored: the Men’s west outer wall corresponds to the Women’s east outer wall. The Women’s entrance is on the adjacent south wall.
+
+**(d) Most plausibly, the two runs represent two different walls—not base intended across an actual doorway.**
+- **Net-of-door run:** Men’s west wall, excluding Janitor door 115.
+- **Full-width run:** the corresponding, uninterrupted Women’s east wall, taken off using the similar elevation.
+
+Evidence: the “Men’s interior elevations are similar to Women’s” note supports using one elevation for both rooms. The total also fits that interpretation: **7′-3½″ ≈ 7.29 FT**, leaving approximately **4.01 FT** of net base within the **11.3 FT** total. This is the strongest contextual reading, though the markup alone cannot prove the estimator’s intent.

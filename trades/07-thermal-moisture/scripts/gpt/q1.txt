@@ -1,0 +1,132 @@
+## Basis: there is no universal opening-deduction threshold
+
+Assuming **U.S. commercial estimating**, the contract’s measurement requirements govern. EIFS, ACM, air-barrier, and roofing installation requirements do **not** establish a common estimating cutoff for deducting openings.
+
+For a defensible takeoff, distinguish:
+
+- **Actual-net coverage:** the area physically receiving the material.
+- **Conventional measured area:** an agreed reporting quantity that may leave small openings undeducted.
+- **Fabrication/purchase quantity:** actual-net coverage plus applicable returns, flanges, overlaps, cutting allowances, and waste.
+
+**All numerical thresholds below are explicitly estimator conventions—not values attributed to a standard or manufacturer.** Flashing heights and termination dimensions must come from the project details and approved system requirements.
+
+## Opening deductions
+
+My recommended primary quantity is **actual-net coverage**: deduct every opening where that material is absent, with a **0 ft² cutoff — convention**. Keep any small-opening reporting convention in a separate column.
+
+| System | What to deduct and where to measure | Optional small-opening reporting convention |
+|---|---|---|
+| **EIFS** | Deduct windows, doors, storefronts, louvers, grilles, and penetrations where EIFS is absent. Measure the opening at the **EIFS termination**, not automatically at the rough opening or visible glass. First separate EIFS from ACM, masonry, and other finishes; those are system boundaries, not “small openings.” | Deduct each opening **greater than 10 ft² — convention**; leave openings at or below **10 ft² — convention** undeducted. This is a selectable project rule, not a universal trade standard. |
+| **ACM** | Deduct missing panel areas at windows, doors, storefronts, louvers, and other interruptions. For actual installed panel-face area, deduct cutouts in the panels. Reconcile elevation quantities with the panel schedule/shop drawings. | Prefer actual-net panel-face quantities rather than applying the EIFS cutoff. A cutout may reduce installed face area **without reducing the required fabrication blank**. |
+| **Fluid-applied air barrier** | Deduct apertures where coating is absent, measured at the **air-barrier/substrate plane**. Do not use visible glass dimensions by default. Do not deduct ACM joints, cladding transitions, sub-girts, or attachments merely because they occur outside the air-barrier plane. | The same **greater-than-10-ft² cutoff — convention** can be adopted for reporting, but actual-net coverage should remain available. |
+| **Wall insulation** | Deduct windows, doors, storefronts, louvers, and areas where that insulation is actually omitted. Measure each insulation layer at its own extent. Distinguish continuous insulation from cavity insulation. | The same **greater-than-10-ft² cutoff — convention** can be adopted for reporting. Do not assume an EIFS deduction automatically applies to a separate insulation layer. |
+
+**Application rules**
+
+- Apply any cutoff **per opening**, not to the sum of unrelated openings.
+- State whether a grouped storefront is measured as its overall assembly opening or as individual apertures. Usually the system’s actual termination perimeter is the clearest boundary.
+- Deduct an opening only from the systems it interrupts. A recessed feature may interrupt the cladding while leaving the air barrier and insulation continuous.
+- Add covered jambs, heads, sills, and other returns separately. The opening deduction and return addition address different surfaces.
+- A no-deduction rule is a reporting allowance; it does not mean material physically covers the opening.
+
+**Where estimators disagree:** actual-net versus small-opening conventions; rough-opening versus finish-opening dimensions; whether small-opening nondeductions implicitly cover return work; and whether insulation quantities include framing. For actual cavity-insulation coverage, framing that displaces insulation is excluded; a gross wall-area quantity including framing is a different convention and should be labeled.
+
+## Outside corners, returns, and reveals
+
+### Outside and inside corners
+
+- Measure each wall face in its own plane to the actual corner or material termination.
+- A simple corner line does **not** create additional wall area. Do not add a strip merely because the wall turns.
+- Record corner profiles, reinforcing accessories, fabricated corner panels, or other distinct details in **LF or EA**, as appropriate.
+- For ACM folded corners, count each exposed face once. Fabrication blanks may additionally require folds, attachment flanges, and concealed returns.
+
+**Disagreement:** some estimators report corners separately; others include them in the assembly quantity. Either can work, provided the area is not duplicated and distinct accessories remain identifiable.
+
+### Opening returns, deep recesses, and soffits
+
+Measure the actual surface receiving each material:
+
+\[
+A_{\text{return}}=\sum(\text{return length}\times\text{developed return width})
+\]
+
+- Measure each jamb, head, and sill only where the specified system occurs.
+- Use **developed width**, including actual changes in plane—not simply the apparent elevation width.
+- An EIFS return may stop at a frame while the air-barrier return continues farther into the opening.
+- Do not add sill area to EIFS or ACM when the sill is a separate metal flashing.
+- For projecting or recessed features, ensure their projected footprint is not counted as field wall **and** again as the feature’s front face.
+
+### Reveals
+
+- **Shallow EIFS aesthetic grooves:** keep the elevation-face area and schedule the reveal in **LF by profile**—a convention. Do not invent an additional-area allowance.
+- **Substantial recessed bands or pockets:** measure the actual exposed faces and returns.
+- **ACM joints/reveals:** record joint length and joint type separately. State whether the reported facade area includes joint gaps or represents only actual panel faces.
+
+**Disagreement:** projected facade area, actual exposed face area, and fabrication blank area are often all called “ACM area.” They are different quantities and should have separate labels.
+
+## TPO base flashing and parapet membrane
+
+Measure these in **LF by detail and height**, and convert to **developed SF** for membrane quantity. A single undifferentiated perimeter length is insufficient.
+
+Define:
+
+- \(L\): actual length along the membrane’s wall plane.
+- \(H\): vertical membrane height.
+- \(T\): horizontal/developed coverage across the parapet top.
+- \(D\): required downward leg beyond the top.
+- \(F\): roof-side apron or flange of a separate flashing sheet.
+
+### Base flashing terminating on a vertical wall
+
+\[
+A_{\text{vertical coverage}}=\sum(L\times H)
+\]
+
+Measure \(H\) from the **finished roof surface at the wall** to the specified membrane termination. Account for tapered insulation, cover board, roof slope, and stepped conditions.
+
+Do not measure from structural deck elevation unless that is actually the membrane’s lower limit.
+
+### Parapet membrane turning over the top
+
+\[
+A_{\text{parapet coverage}}=\sum\left[L\times(H+T+D)\right]
+\]
+
+- **Height:** finished roof surface to the start of the top turn.
+- **Turn-over:** actual membrane path across the parapet top to its required termination.
+- **Downward leg:** include only where shown or required by the approved detail.
+- If there is no downward leg, omit that term.
+- Segment the takeoff where heights, top widths, or termination conditions change.
+
+**Do not assume** that aluminum coping means TPO covers the entire top and outside face. The detail may use a different membrane or flashing transition beneath the coping.
+
+### Roof-side apron, laps, and corners
+
+For a separate base-flashing sheet:
+
+\[
+A_{\text{sheet before end laps/waste}}
+=\sum\left[L\times(H+T+D+F)\right]
+\]
+
+- If the apron overlaps field membrane, it is **real additional membrane**, but not additional roof-plan area.
+- Keep sheet overlaps, end laps, corner patches, and cutting waste separate from net developed coverage.
+- If the field sheet itself turns up the wall, assign that material to one takeoff line rather than duplicating it as separate base flashing.
+- Count prefabricated corners, penetration flashings, boots, and termination accessories separately.
+- Measure parapet steps, pilasters, and returns along their actual paths.
+
+**Where estimators disagree:** flashing reported only in LF versus developed SF; inclusion of roof-side apron and laps in the flashing width; assumed versus detailed termination height; and whether “turn-over” includes only the top or also the outside downward leg. The takeoff description should explicitly resolve each.
+
+## Related envelope quantities
+
+| Item | Quantity measurement rule |
+|---|---|
+| **Field TPO** | Measure actual roof-surface area within the stated field-membrane boundary. Keep upstands, parapet coverage, and overlap allowances identifiable. |
+| **Roof polyiso** | Measure each specified layer separately at its actual extent. Identify tapered insulation, crickets, and sumps separately; do not assume every layer has identical coverage. |
+| **Aluminum coping** | Measure **LF along a stated reference line**, preferably the coping centerline, grouped by profile/developed width. Schedule corners, ends, transitions, and special pieces separately. |
+| **ACM sub-girts** | Measure **LF by member/profile from the layout**, including perimeter and opening supports. Panel area alone is not a sub-girt quantity. |
+| **Air-barrier transitions** | Measure opening perimeter, substrate transitions, and roof-to-wall transitions in **LF by width and product**. Count coated return area only where the fluid-applied product actually occurs; distinguish separate transition membranes. |
+| **Through-wall flashing** | Measure **LF by location and detail**; use developed width for material area. Include back leg, horizontal run, drip/hem, and returns as detailed. Identify laps, end dams, and special corners separately. |
+| **Joint sealants** | Measure actual **LF of each specified bead**, grouped by joint size, substrates, and sealant type. Include required opening perimeters and movement joints; avoid counting the same shared joint twice. |
+
+**Best practice:** put the measurement basis on the takeoff cover sheet: opening cutoff, opening measurement plane, return treatment, ACM area definition, and flashing developed-width definition. Those choices resolve most apparent disagreements between estimators before quantities are compared.

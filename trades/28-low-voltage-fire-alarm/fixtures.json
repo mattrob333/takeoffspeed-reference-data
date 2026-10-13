@@ -1,0 +1,609 @@
+[
+  {
+    "name": "L603 security #8 ALARM LAMP/INDICATOR LIGHT",
+    "formula": "low-voltage.security-device",
+    "inputs": {
+      "tag": "8",
+      "description": "ALARM LAMP/INDICATOR LIGHT",
+      "section": "LIGHT",
+      "count": {
+        "value": [
+          2,
+          0
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 2.0,
+      "unit": "EA",
+      "item": "8: ALARM LAMP/INDICATOR LIGHT"
+    },
+    "tolerancePct": 0,
+    "source": "line 603 / markup p47 legend '8'"
+  },
+  {
+    "name": "L604 security #4 CARD READER",
+    "formula": "low-voltage.security-device",
+    "inputs": {
+      "tag": "4",
+      "description": "CARD READER",
+      "section": "ACCESS CONTROL",
+      "count": {
+        "value": [
+          5,
+          0
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 5.0,
+      "unit": "EA",
+      "item": "4: CARD READER"
+    },
+    "tolerancePct": 0,
+    "source": "line 604 / markup p47 legend '4'"
+  },
+  {
+    "name": "L605 security #6 ELECTRIC STRIKE WITH LBM",
+    "formula": "low-voltage.security-device",
+    "inputs": {
+      "tag": "6",
+      "description": "ELECTRIC STRIKE WITH LBM",
+      "section": "ACCESS CONTROL",
+      "count": {
+        "value": [
+          4,
+          0
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 4.0,
+      "unit": "EA",
+      "item": "6: ELECTRIC STRIKE WITH LBM"
+    },
+    "tolerancePct": 0,
+    "source": "line 605 / markup p47 legend '6'"
+  },
+  {
+    "name": "L606 security #12 DOOR CONTACT",
+    "formula": "low-voltage.security-device",
+    "inputs": {
+      "tag": "12",
+      "description": "DOOR CONTACT",
+      "section": "ACCESS CONTROL",
+      "count": {
+        "value": [
+          2,
+          0
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 2.0,
+      "unit": "EA",
+      "item": "12: DOOR CONTACT"
+    },
+    "tolerancePct": 0,
+    "source": "line 606 / markup p47 legend '12'"
+  },
+  {
+    "name": "L607 security #15 ROOF CONTACT",
+    "formula": "low-voltage.security-device",
+    "inputs": {
+      "tag": "15",
+      "description": "ROOF CONTACT",
+      "section": "ACCESS CONTROL",
+      "count": {
+        "value": [
+          1,
+          0
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 1.0,
+      "unit": "EA",
+      "item": "15: ROOF CONTACT"
+    },
+    "tolerancePct": 0,
+    "source": "line 607 / markup p47 legend '15'"
+  },
+  {
+    "name": "L608 security #2 NETWORK VIDEO RECORDER",
+    "formula": "low-voltage.security-device",
+    "inputs": {
+      "tag": "2",
+      "description": "NETWORK VIDEO RECORDER",
+      "section": "VIDEO SURVEILLANCE",
+      "count": {
+        "value": [
+          1,
+          0
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 1.0,
+      "unit": "EA",
+      "item": "2: NETWORK VIDEO RECORDER"
+    },
+    "tolerancePct": 0,
+    "source": "line 608 / markup p47 legend '2'"
+  },
+  {
+    "name": "L609 security #5 VIDEO MONITOR",
+    "formula": "low-voltage.security-device",
+    "inputs": {
+      "tag": "5",
+      "description": "VIDEO MONITOR",
+      "section": "VIDEO SURVEILLANCE",
+      "count": {
+        "value": [
+          2,
+          0
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 2.0,
+      "unit": "EA",
+      "item": "5: VIDEO MONITOR"
+    },
+    "tolerancePct": 0,
+    "source": "line 609 / markup p47 legend '5'"
+  },
+  {
+    "name": "L610 security #3 IP DOME CAMERA - INDOOR",
+    "formula": "low-voltage.camera",
+    "inputs": {
+      "tag": "3",
+      "description": "IP DOME CAMERA - INDOOR",
+      "count": {
+        "value": [
+          8,
+          0
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 8.0,
+      "unit": "EA",
+      "item": "3: IP DOME CAMERA - INDOOR"
+    },
+    "tolerancePct": 0,
+    "source": "line 610 / markup p47 legend '3'"
+  },
+  {
+    "name": "L611 security #14 ANALOG MINIATURE BOARD CAMERA",
+    "formula": "low-voltage.camera",
+    "inputs": {
+      "tag": "14",
+      "description": "ANALOG MINIATURE BOARD CAMERA",
+      "count": {
+        "value": [
+          0,
+          1
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 1.0,
+      "unit": "EA",
+      "item": "14: ANALOG MINIATURE BOARD CAMERA"
+    },
+    "tolerancePct": 0,
+    "source": "line 611 / markup p47 legend '14'"
+  },
+  {
+    "name": "L612 security #16 360 IP DOME CAMERA",
+    "formula": "low-voltage.camera",
+    "inputs": {
+      "tag": "16",
+      "description": "360 IP DOME CAMERA",
+      "count": {
+        "value": [
+          9,
+          1
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 10.0,
+      "unit": "EA",
+      "item": "16: 360 IP DOME CAMERA"
+    },
+    "tolerancePct": 0,
+    "source": "line 612 / markup p47 legend '16'"
+  },
+  {
+    "name": "L613 security #17 IP MINIATURE BOARD CAMERA",
+    "formula": "low-voltage.camera",
+    "inputs": {
+      "tag": "17",
+      "description": "IP MINIATURE BOARD CAMERA",
+      "count": {
+        "value": [
+          1,
+          0
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 1.0,
+      "unit": "EA",
+      "item": "17: IP MINIATURE BOARD CAMERA"
+    },
+    "tolerancePct": 0,
+    "source": "line 613 / markup p47 legend '17'"
+  },
+  {
+    "name": "L614 security #7 MOTION DETECTOR (TO SHUNT DOOR CONTACT)",
+    "formula": "low-voltage.security-device",
+    "inputs": {
+      "tag": "7",
+      "description": "MOTION DETECTOR (TO SHUNT DOOR CONTACT)",
+      "section": "ELECTRONIC DETECTION AND ALARM",
+      "count": {
+        "value": [
+          5,
+          0
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 5.0,
+      "unit": "EA",
+      "item": "7: MOTION DETECTOR (TO SHUNT DOOR CONTACT)"
+    },
+    "tolerancePct": 0,
+    "source": "line 614 / markup p47 legend '7'"
+  },
+  {
+    "name": "L615 security #9 360 MOTION DETECTOR",
+    "formula": "low-voltage.security-device",
+    "inputs": {
+      "tag": "9",
+      "description": "360 MOTION DETECTOR",
+      "section": "ELECTRONIC DETECTION AND ALARM",
+      "count": {
+        "value": [
+          5,
+          0
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 5.0,
+      "unit": "EA",
+      "item": "9: 360 MOTION DETECTOR"
+    },
+    "tolerancePct": 0,
+    "source": "line 615 / markup p47 legend '9'"
+  },
+  {
+    "name": "L616 security #10 HOLD UP BUTTON",
+    "formula": "low-voltage.security-device",
+    "inputs": {
+      "tag": "10",
+      "description": "HOLD UP BUTTON",
+      "section": "ELECTRONIC DETECTION AND ALARM",
+      "count": {
+        "value": [
+          5,
+          0
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 5.0,
+      "unit": "EA",
+      "item": "10: HOLD UP BUTTON"
+    },
+    "tolerancePct": 0,
+    "source": "line 616 / markup p47 legend '10'"
+  },
+  {
+    "name": "L617 security #11 TEMPERATURE SENSOR",
+    "formula": "low-voltage.security-device",
+    "inputs": {
+      "tag": "11",
+      "description": "TEMPERATURE SENSOR",
+      "section": "ELECTRONIC DETECTION AND ALARM",
+      "count": {
+        "value": [
+          1,
+          0
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 1.0,
+      "unit": "EA",
+      "item": "11: TEMPERATURE SENSOR"
+    },
+    "tolerancePct": 0,
+    "source": "line 617 / markup p47 legend '11'"
+  },
+  {
+    "name": "L618 security #13 ALARM KEYPAD",
+    "formula": "low-voltage.security-device",
+    "inputs": {
+      "tag": "13",
+      "description": "ALARM KEYPAD",
+      "section": "ELECTRONIC DETECTION AND ALARM",
+      "count": {
+        "value": [
+          1,
+          0
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 1.0,
+      "unit": "EA",
+      "item": "13: ALARM KEYPAD"
+    },
+    "tolerancePct": 0,
+    "source": "line 618 / markup p47 legend '13'"
+  },
+  {
+    "name": "L619 security #18 ALARM INTERFACE",
+    "formula": "low-voltage.security-device",
+    "inputs": {
+      "tag": "18",
+      "description": "ALARM INTERFACE",
+      "section": "MISC.",
+      "count": {
+        "value": [
+          2,
+          1
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 3.0,
+      "unit": "EA",
+      "item": "18: ALARM INTERFACE"
+    },
+    "tolerancePct": 0,
+    "source": "line 619 / E-150 plan bubbles (main 2 + drive-thru 1 = 3); markup p47 legend 18 = 2 EA (estimator miss)",
+    "estimatorQty": 2.0,
+    "estimatorDeltaPct": 50.0,
+    "knownEstimatorDeviation": {
+      "estimatorQty": 2.0,
+      "note": "estimator dotted 2 of 3 tag-18 bubbles on markup p47; the teller-line AI/18 (below AI, between the two HUB 10s under the transaction bar) has no dot. Estimate line 619 and legend p47 row 18 both = 2 EA."
+    }
+  },
+  {
+    "name": "L620 security #19 NIGHT DEPOSIT",
+    "formula": "low-voltage.security-device",
+    "inputs": {
+      "tag": "19",
+      "description": "NIGHT DEPOSIT",
+      "section": "MISC.",
+      "count": {
+        "value": [
+          1,
+          0
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 1.0,
+      "unit": "EA",
+      "item": "19: NIGHT DEPOSIT"
+    },
+    "tolerancePct": 0,
+    "source": "line 620 / markup p47 legend '19'"
+  },
+  {
+    "name": "L621 security #20 VENUS ROUTER",
+    "formula": "low-voltage.security-device",
+    "inputs": {
+      "tag": "20",
+      "description": "VENUS ROUTER",
+      "section": "MISC.",
+      "count": {
+        "value": [
+          1,
+          0
+        ],
+        "unit": "EA",
+        "perSheet": "E-150 view 1 (main plan), view 2 (SECURITY PLAN REMOTE DRIVE THRU): hexagon tag bubbles printed on the unmarked sheet"
+      }
+    },
+    "expected": {
+      "quantity": 1.0,
+      "unit": "EA",
+      "item": "20: VENUS ROUTER"
+    },
+    "tolerancePct": 0,
+    "source": "line 621 / markup p47 legend '20'"
+  },
+  {
+    "name": "L622 DIV 28 wire/cable/conduit allowance",
+    "formula": "low-voltage.allowance",
+    "inputs": {
+      "area": {
+        "value": 1900,
+        "unit": "SF",
+        "source": "E-160 title block 1,900 SF"
+      }
+    },
+    "expected": {
+      "quantity": 1,
+      "unit": "LS"
+    },
+    "tolerancePct": 0,
+    "source": "line 622 / markup p48",
+    "status": "proposed-convention (low-voltage.allowance-area-roundup-sf)",
+    "note": "Assert quantity and unit only. The estimator's text is 'ALLOWANCE PROVIDED FOR WIRE, CABLE & CONDUIT FITTINGS / AREA: 2000 SF' (2000 = ceil(1900/1000) x 1000). The current engine prints 'ALLOWANCE PROVIDED FOR LOW-VOLTAGE WIRE, CABLE & CONDUIT FITTINGS / AREA: 1,900 SF' because the area is printed as read and no rounding convention exists yet. Add the item assertion once low-voltage.allowance-area-roundup-sf = 1000 exists."
+  },
+  {
+    "name": "L623 FIRE ALARM CONTROL PANEL",
+    "formula": "low-voltage.fa-panel",
+    "inputs": {
+      "description": "FIRE ALARM CONTROL PANEL",
+      "count": {
+        "value": [
+          1
+        ],
+        "unit": "EA",
+        "perSheet": "E-160"
+      }
+    },
+    "expected": {
+      "quantity": 1.0,
+      "unit": "EA",
+      "item": "FIRE ALARM CONTROL PANEL"
+    },
+    "tolerancePct": 0,
+    "source": "line 623 / markup p48 legend 'FIRE ALARM CONTR...'"
+  },
+  {
+    "name": "L624 FIRE ALARM ANNUCIATOR",
+    "formula": "low-voltage.fa-panel",
+    "inputs": {
+      "description": "FIRE ALARM ANNUCIATOR",
+      "count": {
+        "value": [
+          1
+        ],
+        "unit": "EA",
+        "perSheet": "E-160"
+      }
+    },
+    "expected": {
+      "quantity": 1.0,
+      "unit": "EA",
+      "item": "FIRE ALARM ANNUCIATOR"
+    },
+    "tolerancePct": 0,
+    "source": "line 624 / markup p48 legend 'FIRE ALARM ANNUC...'"
+  },
+  {
+    "name": "L625 FIRE ALARM SMOKE DETECTOR",
+    "formula": "low-voltage.fa-device",
+    "inputs": {
+      "description": "SMOKE DETECTOR",
+      "count": {
+        "value": [
+          1
+        ],
+        "unit": "EA",
+        "perSheet": "E-160"
+      },
+      "deviceType": "smoke-detector"
+    },
+    "expected": {
+      "quantity": 1.0,
+      "unit": "EA",
+      "item": "FIRE ALARM SMOKE DETECTOR"
+    },
+    "tolerancePct": 0,
+    "source": "line 625 / markup p48 legend 'FIRE ALARM SMOKE...'"
+  },
+  {
+    "name": "L626 FIRE ALARM PULL STATION",
+    "formula": "low-voltage.fa-device",
+    "inputs": {
+      "description": "PULL STATION",
+      "count": {
+        "value": [
+          2
+        ],
+        "unit": "EA",
+        "perSheet": "E-160"
+      },
+      "deviceType": "pull-station"
+    },
+    "expected": {
+      "quantity": 2.0,
+      "unit": "EA",
+      "item": "FIRE ALARM PULL STATION"
+    },
+    "tolerancePct": 0,
+    "source": "line 626 / markup p48 legend 'FIRE ALARM PULL S...'"
+  },
+  {
+    "name": "L627 FIRE ALARM ADA APPROVED HORN/STROBE ALARM",
+    "formula": "low-voltage.fa-device",
+    "inputs": {
+      "description": "ADA APPROVED HORN/STROBE ALARM",
+      "count": {
+        "value": [
+          9
+        ],
+        "unit": "EA",
+        "perSheet": "E-160"
+      },
+      "deviceType": "horn-strobe"
+    },
+    "expected": {
+      "quantity": 9.0,
+      "unit": "EA",
+      "item": "FIRE ALARM ADA APPROVED HORN/STROBE ALARM"
+    },
+    "tolerancePct": 0,
+    "source": "line 627 / markup p48 legend 'FIRE ALARM ADA AP... (purple)'"
+  },
+  {
+    "name": "L628 FIRE ALARM ADA APPROVED VISUAL ALARM",
+    "formula": "low-voltage.fa-device",
+    "inputs": {
+      "description": "ADA APPROVED VISUAL ALARM",
+      "count": {
+        "value": [
+          3
+        ],
+        "unit": "EA",
+        "perSheet": "E-160"
+      },
+      "deviceType": "strobe"
+    },
+    "expected": {
+      "quantity": 3.0,
+      "unit": "EA",
+      "item": "FIRE ALARM ADA APPROVED VISUAL ALARM"
+    },
+    "tolerancePct": 0,
+    "source": "line 628 / markup p48 legend 'FIRE ALARM ADA AP... (yellow)'"
+  }
+]

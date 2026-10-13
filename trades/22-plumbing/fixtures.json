@@ -1,0 +1,811 @@
+[
+ {
+  "name": "22-plumbing line 404: 3\" storm pipe",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "P-301_LF": {
+    "value": 33.5,
+    "unit": "LF",
+    "legendItem": "3\"DIA STORM PIPE",
+    "markupPage": 56
+   },
+   "P-302_LF": {
+    "value": 25.8,
+    "unit": "LF",
+    "legendItem": "3\"DIA STORM PIPE",
+    "markupPage": 57
+   },
+   "P-303_LF": {
+    "value": 91.2,
+    "unit": "LF",
+    "legendItem": "3\"DIA STORM PIPE",
+    "markupPage": 58
+   }
+  },
+  "expected": {
+   "quantity": 150.59,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceLF": 0.15,
+  "source": "line 404 / markup p56 (P-301), markup p57 (P-302), markup p58 (P-303)"
+ },
+ {
+  "name": "22-plumbing line 405: 4\" storm pipe",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "P-301_LF": {
+    "value": 12.7,
+    "unit": "LF",
+    "legendItem": "4\"DIA STORM PIPE",
+    "markupPage": 56
+   },
+   "P-302_LF": {
+    "value": 103.7,
+    "unit": "LF",
+    "legendItem": "4\"DIA STORM PIPE",
+    "markupPage": 57
+   },
+   "P-303_LF": {
+    "value": 56.3,
+    "unit": "LF",
+    "legendItem": "4\"DIA STORM PIPE",
+    "markupPage": 58
+   }
+  },
+  "expected": {
+   "quantity": 172.7,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceLF": 0.15,
+  "source": "line 405 / markup p56 (P-301), markup p57 (P-302), markup p58 (P-303)"
+ },
+ {
+  "name": "22-plumbing line 406: 1-1/2\" sanitary pipe",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "legend_LF": {
+    "value": 3.6,
+    "unit": "LF",
+    "legendItem": "1-1/2\"DIA SANITARY PIPE",
+    "markupPage": 56
+   }
+  },
+  "expected": {
+   "quantity": 3.55,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.41,
+  "toleranceLF": 0.05,
+  "source": "line 406 / markup p56 (P-301)"
+ },
+ {
+  "name": "22-plumbing line 407: 3\" sanitary pipe",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "legend_LF": {
+    "value": 86.7,
+    "unit": "LF",
+    "legendItem": "3\"DIA SANITARY PIPE",
+    "markupPage": 56
+   }
+  },
+  "expected": {
+   "quantity": 86.73,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceLF": 0.05,
+  "source": "line 407 / markup p56 (P-301)"
+ },
+ {
+  "name": "22-plumbing line 408: 4\" sanitary pipe",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "legend_LF": {
+    "value": 21.9,
+    "unit": "LF",
+    "legendItem": "4\"DIA SANITARY PIPE",
+    "markupPage": 56
+   }
+  },
+  "expected": {
+   "quantity": 21.94,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceLF": 0.05,
+  "source": "line 408 / markup p56 (P-301)"
+ },
+ {
+  "name": "22-plumbing line 409: 2\" vent pipe",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "legend_LF": {
+    "value": 58.2,
+    "unit": "LF",
+    "legendItem": "2\"DIA VENT PIPE",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 58.18,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceLF": 0.05,
+  "source": "line 409 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 410: 3\" vent pipe",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "legend_LF": {
+    "value": 12.8,
+    "unit": "LF",
+    "legendItem": "3\"DIA VENT PIPE",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 12.78,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceLF": 0.05,
+  "source": "line 410 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 411: 4\" vent pipe",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "legend_LF": {
+    "value": 47.3,
+    "unit": "LF",
+    "legendItem": "4\"DIA VENT PIPE",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 47.29,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceLF": 0.05,
+  "source": "line 411 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 412: 1-1/4\" cold water pipe",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "P-301_LF": {
+    "value": 2,
+    "unit": "LF",
+    "legendItem": "1-1/4\"DIA CW",
+    "markupPage": 56
+   },
+   "P-302_LF": {
+    "value": 62.5,
+    "unit": "LF",
+    "legendItem": "1-1/4\"DIA CW",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 64.58,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceLF": 0.1,
+  "source": "line 412 / markup p56 (P-301), markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 413: 1/2\" CW Type K copper (trap primer)",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "legend_LF": {
+    "value": 15.3,
+    "unit": "LF",
+    "legendItem": "1/2\"DIA CW PIPE TYPE K COPPER",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 15.34,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceLF": 0.05,
+  "source": "line 413 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 414: 1\" cold water pipe",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "legend_LF": {
+    "value": 45.5,
+    "unit": "LF",
+    "legendItem": "1\"DIA CW",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 45.52,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceLF": 0.05,
+  "source": "line 414 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 415: 3/4\" cold water pipe",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "P-302_LF": {
+    "value": 39.8,
+    "unit": "LF",
+    "legendItem": "3/4\"DIA CW",
+    "markupPage": 57
+   },
+   "P-303_LF": {
+    "value": 4.7,
+    "unit": "LF",
+    "legendItem": "3/4\"DIA CW",
+    "markupPage": 58
+   }
+  },
+  "expected": {
+   "quantity": 44.44,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceLF": 0.1,
+  "source": "line 415 / markup p57 (P-302), markup p58 (P-303)"
+ },
+ {
+  "name": "22-plumbing line 416: 1\" hot water pipe",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "legend_LF": {
+    "value": 162.2,
+    "unit": "LF",
+    "legendItem": "1\"DIA HW",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 162.22,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceLF": 0.05,
+  "source": "line 416 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 417: 1-1/2\" condensate drain pipe (size assumed)",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "legend_LF": {
+    "value": 34.5,
+    "unit": "LF",
+    "legendItem": "1-1/2\"DIA CONDENSATE DRAIN PIPE, DIA ASSUMED",
+    "markupPage": 58
+   }
+  },
+  "expected": {
+   "quantity": 34.52,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceLF": 0.05,
+  "source": "line 417 / markup p58 (P-303)"
+ },
+ {
+  "name": "22-plumbing line 418: 1\" gas pipe (roof)",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "legend_LF": {
+    "value": 9.7,
+    "unit": "LF",
+    "legendItem": "1\"DIA GAS PIPE",
+    "markupPage": 58
+   }
+  },
+  "expected": {
+   "quantity": 9.71,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.52,
+  "toleranceLF": 0.05,
+  "source": "line 418 / markup p58 (P-303)"
+ },
+ {
+  "name": "22-plumbing line 419: 1\" natural gas pipe (below grade / up wall)",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "legend_LF": {
+    "value": 18.6,
+    "unit": "LF",
+    "legendItem": "1\"DIA NATURAL GAS PIPE",
+    "markupPage": 56
+   }
+  },
+  "expected": {
+   "quantity": 18.6,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceLF": 0.05,
+  "source": "line 419 / markup p56 (P-301)"
+ },
+ {
+  "name": "22-plumbing line 420: 3/4\" gas pipe (roof)",
+  "formula": "pipe LF = \u03a3 legend LF over sheets (net, no waste, no added risers)",
+  "inputs": {
+   "legend_LF": {
+    "value": 44.2,
+    "unit": "LF",
+    "legendItem": "3/4\"DIA GAS PIPE",
+    "markupPage": 58
+   }
+  },
+  "expected": {
+   "quantity": 44.21,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "toleranceLF": 0.05,
+  "source": "line 420 / markup p58 (P-303)"
+ },
+ {
+  "name": "22-plumbing line 421: CP circulation pump",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "CP",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 421 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 422: EDF water cooler hi-lo",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "EDF",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 422 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 423: EWH electric water heater 10 gal",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "EWH",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 423 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 424: LAV lavatory + battery faucet",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 2,
+    "unit": "EA",
+    "legendItem": "LAV",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 424 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 425: MS mop sink + wall faucet",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "MS",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 425 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 426: SK-T lounge sink + faucet",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "SK-T",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 426 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 427: SK-U library sink + faucet",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "SK-U",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 427 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 428: WC water closet ADA",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 2,
+    "unit": "EA",
+    "legendItem": "WC",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 428 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 429: WH wall hydrant",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "NON FREEZE GROUND HYDRANT",
+    "markupPage": 59
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 429 / markup p59 (P-402)"
+ },
+ {
+  "name": "22-plumbing line 430: RH roof hydrant",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "RH-1",
+    "markupPage": 58
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 430 / markup p58 (P-303)"
+ },
+ {
+  "name": "22-plumbing line 431: Whole-building sediment filter",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "STANDARD FILTER SIMILAR TO \"WHIRLPOOL L...",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 431 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 432: CD canopy drain",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 7,
+    "unit": "EA",
+    "legendItem": "CD",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 7.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 432 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 433: FL floor drain",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 3,
+    "unit": "EA",
+    "legendItem": "FL",
+    "markupPage": 56
+   }
+  },
+  "expected": {
+   "quantity": 3.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 433 / markup p56 (P-301)"
+ },
+ {
+  "name": "22-plumbing line 434: OD overflow drain",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 2,
+    "unit": "EA",
+    "legendItem": "OD",
+    "markupPage": 58
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 434 / markup p58 (P-303)"
+ },
+ {
+  "name": "22-plumbing line 435: RD roof drain",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 2,
+    "unit": "EA",
+    "legendItem": "RD",
+    "markupPage": 58
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 435 / markup p58 (P-303)"
+ },
+ {
+  "name": "22-plumbing line 436: FCO floor cleanout",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "FCO",
+    "markupPage": 59
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 436 / markup p59 (P-402)"
+ },
+ {
+  "name": "22-plumbing line 437: HB hose bib",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 2,
+    "unit": "EA",
+    "legendItem": "HB",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 437 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 438: DSN downspout nozzle",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 2,
+    "unit": "EA",
+    "legendItem": "DSN",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 438 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 439: VB wall valve box",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "VB",
+    "markupPage": 57
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 439 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 440: DB drain box",
+  "formula": "1 EA per scheduled mark (P-101 DB) = 1 per indoor condensate source piped indirect to a rain leader (P-501 detail 8); no plan tag",
+  "inputs": {
+   "scheduledMarks": {
+    "value": 1,
+    "unit": "EA",
+    "schedule": "P-101 PLUMBING FIXTURE SCHEDULE, mark DB"
+   },
+   "condensateConnections_P-501-d8": {
+    "value": 1,
+    "unit": "EA",
+    "detail": "P-501 detail 8 CONDENSATE DRAIN TO RAIN LEADER DETAIL (drain box, secondary funnel, trap insert, to rain leader)",
+    "basis": "one indoor condensate source: FCU-1 wall-mounted mini-split, M-101 (RTU condensate goes to the roof drains per M-302)"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 440 / P-101 fixture schedule DB row; P-501 detail 8"
+ },
+ {
+  "name": "22-plumbing line 441: Isolation & balancing valve (HWR)",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "ISOLATION & BALANCING VALVE",
+    "markupPage": 61
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 441 / markup p61 (P-501)"
+ },
+ {
+  "name": "22-plumbing line 442: Shut-off valve (water heater in/out)",
+  "formula": "valves = EWH count \u00d7 2 (P-302 keynote 3: in + out) = legend EA",
+  "inputs": {
+   "legend_count": {
+    "value": 2,
+    "unit": "EA",
+    "legendItem": "SHUT-OFF VALVE",
+    "markupPage": 57
+   },
+   "EWH_count": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "valvesPerHeater": {
+    "value": 2,
+    "unit": "EA/EA"
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 442 / markup p57 (P-302)"
+ },
+ {
+  "name": "22-plumbing line 443: Manual gas shut-off valve at RTU",
+  "formula": "gas shut-offs = RTU count \u00d7 1 (P-303 keynote 3) = legend EA",
+  "inputs": {
+   "legend_count": {
+    "value": 2,
+    "unit": "EA",
+    "legendItem": "MANUAL SHUT-OFF VALVE",
+    "markupPage": 58
+   },
+   "RTU_count": {
+    "value": 2,
+    "unit": "EA",
+    "source": "M-302 legend RTU-1, RTU-2 (markup p54)"
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 443 / markup p58 (P-303)"
+ },
+ {
+  "name": "22-plumbing line 444: Natural gas meter by gas company",
+  "formula": "count = legend EA (same tag counted once across plan/iso)",
+  "inputs": {
+   "legend_count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "NATURAL GAS METER BY GAS COMPANY",
+    "markupPage": 60
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "line 444 / markup p60 (P-403)"
+ }
+]

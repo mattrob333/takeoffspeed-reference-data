@@ -1,0 +1,46 @@
+[gpt-6-astra tokens in 123 out 2169]
+Use the **full bid set**, not electrical drawings alone. Tie each quantity to a document reference and responsible trade; flag unresolved conflicts rather than silently assuming scope.
+
+### Common to all three scopes
+
+| Mistake or omission | Check an estimator or AI can run |
+|---|---|
+| **Confusing vendor cabling with complete vendor scope** | Build a furnish/install/terminate/test matrix for devices, cable, raceway, boxes, sleeves, supports and power. Specifically check “vendor cable; EC raceway/boxes.” |
+| **Specs, drawings and schedules disagree** | Cross-check electrical, technology, architectural and mechanical sheets against specifications and addenda. Flag conflicting quantities, products, responsibilities and revisions for clarification. |
+| **Counting symbols in legends instead of installed devices** | Count plan instances only; exclude legends, typical details and duplicated enlarged plans. Reconcile totals against schedules and risers. |
+| **Including existing/NIC items or missing relocated work** | Classify each item as new, existing-to-remain, relocated, demolished, alternate or NIC. Include disconnect/reconnect work where required. |
+| **Undermeasuring cable and conduit** | Measure actual routing—not straight-line device spacing—including homeruns, vertical rises, drops, offsets, specified slack and separately identified waste. |
+| **Missing pathway accessories** | Reconcile routes with boxes, pull points, fittings, sleeves, supports, bushings and firestopping. Check conduit fill and spare-capacity requirements. |
+| **Wrong cable rating or construction** | Match each route to specified cable type, conductor size, shielding and environmental listing. Verify plenum versus riser from actual space classification—not ceiling appearance. |
+
+### Fire alarm
+
+| Mistake or omission | Check an estimator or AI can run |
+|---|---|
+| **Missing devices shown only in details or risers** | Reconcile floor plans with risers, sequence of operations and equipment details for modules, relays, bases, isolators and remote annunciators. |
+| **Wrong duct-detector responsibility** | Verify who furnishes detectors and sampling tubes, installs them, provides access, wires interfaces and tests operation. Check FA-furnished/mechanical-installed notes explicitly. |
+| **Omitted equipment interfaces** | Compare the FA point list with sprinkler, elevator, HVAC, smoke-control and suppression schedules. Count required monitor/control points and associated wiring. |
+| **Missing power supplies or circuit infrastructure** | Reconcile SLC/NAC/speaker circuits with panel capacity, voltage-drop, amplifier and battery requirements. Include remote supplies, dedicated power and required return/survivable pathways. |
+| **Omitted—or overapplied—red paint/identification** | Locate the actual specification requirement. Apply red conduit, junction-box paint or identification only to the specified FA components—not automatically to every low-voltage raceway. |
+| **Missing programming and acceptance costs** | Check programming, existing-system compatibility, proprietary vendor services, monitoring connections, pretesting, acceptance testing, permits and required retests. |
+
+### Security: access control, video and intrusion
+
+| Mistake or omission | Check an estimator or AI can run |
+|---|---|
+| **Treating one controlled door as one device** | Create a door-by-door matrix: readers by side, contacts by leaf, request-to-exit devices, lock interfaces, emergency release and required interconnections. |
+| **Assuming “hardware by others” removes all door scope** | Reconcile architectural hardware sets with security details. Assign locks, power transfers, electrified hinges, power supplies, installation, cabling and terminations explicitly. |
+| **Missing access-control head-end capacity** | Total reader, input and output requirements against controller capacity. Check enclosures, power supplies, batteries, licenses, network connections and specified FA release interfaces. |
+| **Counting cameras without their supporting system** | Match each camera to model, lens, mount, housing and environment. Check PoE loads, switches, uplinks, licenses and recording capacity against specified retention. |
+| **Missing intrusion accessories and signaling** | Reconcile zones/points with contacts, motions, glass-break detectors, keypads, expanders, tamper devices, sounders, batteries, communicators and monitoring setup. |
+
+### Structured cabling
+
+| Mistake or omission | Check an estimator or AI can run |
+|---|---|
+| **Equating one outlet symbol with one cable** | Expand each outlet by its scheduled port count. Include WAP, camera, controller and other dedicated drops; check for duplication in security scope. |
+| **Missing terminations and patching** | Reconcile cable ends with jacks, patch-panel ports, faceplates and specified patch cords. For fiber, count required terminated strands, connectors, splice hardware and enclosures. |
+| **Wrong copper/fiber type or backbone quantity** | Compare plans, backbone risers and specs for copper category, fiber type, strand count, shielding, redundancy and spare capacity. |
+| **Ignoring link-length limits** | Calculate routed permanent-link and channel lengths against the applicable standard and specification. Flag overlength links for resolution rather than merely adding cable. |
+| **Missing telecom-room infrastructure** | Check rack elevations and room details for racks/cabinets, ladder rack, cable management, grounding/bonding, PDUs, UPSs and active equipment responsibility. |
+| **Missing certification and turnover** | Reconcile installed links with required copper/fiber tests, labeling, test-report formats, as-builts, manufacturer certification, warranties and training. |

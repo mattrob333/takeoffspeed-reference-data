@@ -1,0 +1,2200 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+TECHNICAL NOTES on Brick Construction 
+February
+2009
+1850 Centennial Park Drive, Reston, Virginia 20191 | www.gobrick.com | 703-620-0010 
+Dimensioning and Estimating Brick
+Masonry 
+Abstract: This Technical Note presents information for determining the basic layout of brick masonry walls, including both 
+structural and veneer applications. Modular and non-modular brick masonry is discussed, including overall dimensioning of 
+masonry walls using various brick unit sizes. Finally, guidelines are presented to aid the designer in estimating the amount of 
+materials needed for brick masonry. 
+Key Words: actual dimension, construction, estimating, modular masonry, nominal dimension, size, specified dimension. 
+SUMMARY OF RECOMMENDATIONS: 
+Brick and Mortar Joint Sizes: 
+• Specify brick using standardized nomenclature and
+specified size (width by height by length) 
+• For modular brick, specify mortar joint thicknesses such
+that when added to the specified brick size, the intended
+modular dimensions result 
+• When possible, select brick size to minimize cutting 
+Bond Pattern: 
+• Select one-half running bond for applications when brick
+width is one-half of brick length; select one-third running
+bond when brick width is one-third of brick length 
+Dimensioning:
+• When using modular brick sizes, use multiples of
+brick dimension plus mortar joint to determine nominal
+dimensions 
+• For horizontal dimensions of elements longer than four 
+INTRODUCTION 
+brick lengths, use nominal dimensions as intended
+constructed dimensions 
+• When nominal dimensions are used on plans but are
+not intended to be used for construction, note plans
+accordingly 
+Estimating: 
+• Use wall area method and tables to determine number 
+of brick and quantity of mortar per wall area 
+• Modify brick estimates for bond pattern, breakage and 
+waste 
+• Modify mortar estimates for bond pattern, collar joints
+and waste 
+• Include partial brick in estimates to maintain bond at 
+corners 
+• Determine approximate mortar material quantities based
+on brick size and bond pattern 
+Brick are made in a number of sizes and laid in a variety of patterns. Most patterns of brickwork will adhere 
+to a common module that facilitates the dimensioning of the brickwork and any masonry openings. Generally, 
+designers can minimize the number of cuts of whole brick by dimensioning to a module. Knowing the size of the 
+brick and bond pattern will allow an estimate of the number of brick and amount of mortar needed for the project. 
+This Technical Note presents information to help the designer to choose a brick size, lay out modular dimensions 
+using the chosen size, and develop a materials estimate for brick and mortar. 
+Metric Measurements 
+Throughout this Technical Note, dimensions are based on the inch-pound system with conversions given for 
+the metric system. The measurements and dimensions correspond to brick manufactured primarily in the United 
+States to a typical module of 4 in. (102 mm). Brick manufactured for projects requiring metric dimensions typically 
+conform to a module of 100 mm (3.94 in.). Although the principles presented here are the same for either system, 
+care should be used when using the conversions given here for metric modular units and construction. 
+BRICK SIZES 
+Brick is a building material with a human scale. Brick sizes have varied over the centuries but have always been 
+similar to present-day sizes. Some sizes were developed to meet specific design, production or construction 
+needs. For example, larger brick were developed to increase bricklaying economy, and thinner brick help conserve 
+resources. 
+© 2009 Brick Industry Association, Reston, Virginia 
+Page 1 of 11 
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brick Orientation 
+A brick has three dimensions: width (sometimes 
+referred to as thickness), height and length. Although 
+brick can be laid in six different orientations (see 
+Figure 1), these dimensions as referenced apply 
+to a brick laid as a stretcher. Height and length are 
+sometimes called face dimensions, because these are 
+Stretcher 
+Soldier 
+Header 
+the dimensions exposed when the brick is laid as a 
+stretcher. 
+Brick Dimensions 
+There are three different sets of dimensions used 
+with brick: nominal, specified and actual. Each must 
+be used with care and accuracy to avoid confusion 
+during design and construction. 
+Rowlock 
+Stretcher 
+Sailor 
+Rowlock 
+Exposed faces shaded.
+Nominal dimensions. Nominal dimensions apply 
+to modular brick and are the result of the specified 
+Figure 1 
+dimension of the brick plus the intended thickness of 
+Brick Positions in a Wall 
+its intended mortar joint. Generally, these dimensions 
+will fall into “round” numbers to produce modules 
+of 4 in. or 8 in. for imperial units or 100 mm for SI units. They are also a quick way to refer to a given brick size 
+without having to include fractions. 
+Specified dimensions. Specified dimensions are the anticipated manufactured dimensions of the brick, without 
+consideration for mortar, which are to be used in project specifications and purchase orders. They are also used 
+by the structural engineer in rational design of brick masonry. In non-modular construction, only the specified 
+dimensions are used; thus the absence of corresponding nominal dimensions in Table 2. 
+Actual dimensions. Actual dimensions are the measurements of the brick as manufactured. Generally the actual 
+dimensions will be within a tolerance of the specified dimensions. The allowable tolerances are dependent upon 
+the type and size of the brick and are given within the applicable ASTM standard specifications, such as those in 
+ASTM C216, Standard Specification for Facing Brick and C652, Standard Specification for Hollow Brick [Ref. 1]. 
+Bond Pattern 
+For most brick sizes, one-half running bond is the basic pattern when laying a wall or pavement; i.e., 
+approximately half of the brick’s length overlaps the brick below. This pattern is the most frequently used pattern 
+in homes, schools and offices. However, some sizes lend themselves best to other bond patterns. As an example, 
+a utility-sized brick has a nominal length three times its nominal thickness. At corners, where the thickness of the 
+wythe is exposed as the brickwork turns the corner, laying a one-half running bond with utility-sized brick would 
+require cutting at least one brick in every course to maintain bond around the corner. So for utility-sized brick, one-
+third running bond is much easier to install. These two patterns, as well as some of the more historic patterns that 
+use headers to tie together multiple wythes of masonry, are presented in greater detail in Technical Note 30. 
+Modular and Non-Modular Brick 
+Modular brick are sized such that the specified dimension plus the intended mortar joint thickness equal a 
+modular dimension. Generally, modular dimensions are whole numbers without fractions that result in modules of 
+4 in. or 8 in. for imperial units or 100 mm for SI units. A modular brick has a set of nominal, specified and actual 
+dimensions as referenced above. A non-modular brick has a set of specified and actual dimensions but does not 
+have nominal dimensions. 
+Brick are available in many sizes and are referred to by many different names, depending on region. In addition, 
+the name of a brick and its size, whether modular or non-modular, can vary depending on the manufacturer. 
+Modular brick and their nominal and specified dimensions are shown in Table 1 and Figure 2. Non-modular brick 
+and their specified sizes are shown in Table 2 and Figure 3. 
+www.gobrick.com | Brick Industry Association | TN 10 | Dimensioning and Estimating Brick Masonry | Page 2 of 11 
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8"
+4" 
+23
+2 / "
+Modular 
+8" 
+8"
+4" 
+4" 
+12" 
+4" Utility 
+16" 
+4" 
+4" 
+16" 
+6" 
+6-in. Through-
+Wall Meridian 
+23/ "
+4 
+7 / " - 8"
+5 8
+3 4
+2 / " - 3" 
+Queen 
+1 4
+2 / "
+8" 
+31/ "- 3 / "
+2 
+5 8 
+Standard 
+15
+3 / "
+4" 
+6" 
+8"
+4" 
+8"
+4" 
+8"
+Engineer
+Closure 
+4" 
+Modular 
+Modular 
+23 
+15
+2” 
+2 / "
+3 / "
+12" 
+12" 
+12"
+4" 
+4" 
+4" 
+Roman 
+Norman 
+Engineer
+Norman 
+4" 
+4"
+15
+3 / "
+12" 
+12"
+12" 
+6" 
+8"
+6" 
+8" 
+4"
+23
+2 / "
+16" 
+16" 
+4"
+4" 
+Double
+Meridian 
+Meridian 
+8" 
+4" 
+16"
+16" 
+8"
+8" 
+8-in. Through-
+Double Through-
+Wall Meridian 
+Wall Meridian 
+Figure 2 
+Modular Brick Sizes (Nominal Dimensions) 
+5 8 
+3 4
+2 / " - 2 / " 
+5 8 
+3 4
+2 / " - 2 / " 
+5 8 
+3 4
+3 4 
+9 / " - 9 / " 
+3" 
+8 5/ "
+8 
+2 / " - 3" 
+King 
+2 / " - 2 / "
+3 4 
+13 16 
+1 2 
+5 8
+3 / "- 3 / "
+8"
+31/ "- 3 / "
+2 
+5 8 
+8" 
+31/ "- 3 / "
+2 
+5 8
+Engineer
+Closure 
+Standard 
+Standard 
+Figure 3 
+Non-modular Brick Sizes (Specified Dimensions) 
+www.gobrick.com | Brick Industry Association | TN 10 | Dimensioning and Estimating Brick Masonry | Page 3 of 11 
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Although a size not listed in Table 1 or Table 2 might be desired for a specific project, special sizes are typically 
+avoided where possible in order to not increase costs unnecessarily. The use of specified dimensions when 
+ordering and specifying brick is strongly recommended, since a brick name can vary from manufacturer to 
+manufacturer, and a non-modular brick will not have nominal dimensions. To avoid confusion, specify brick using 
+the stretcher position with width first, followed by height, then length. In other words, a modular brick would be 
+specified as 3⅝ in. × 2¼ in. × 7⅝ in. (92 mm × 57 mm × 194 mm). 
+TABLE 1 
+Modular Brick Sizes 
+Brick Designation
+1 
+Nominal Dimensions, in. (mm) 
+Joint 
+Thickness,
+3 
+in. (mm) 
+Specified Dimensions,
+4 in. (mm) 
+Vertical 
+Coursing
+W 
+H 
+L 
+W 
+H 
+L 
+Modular 
+4 (102) 
+2⅔ (68) 
+8 (203) 
+⅜ (9.5) 
+½ (12.7) 
+3⅝ (92) 
+3½ (89) 
+2¼ (57) 
+7⅝ (194) 
+7½ (191) 
+3C = 8 in. 
+(203 mm) 
+Engineer Modular 
+4 (102) 
+31⁄5 (81) 
+8 (203) 
+⅜ (9.5) 
+½ (12.7) 
+3⅝ (92) 
+3½ (89) 
+213⁄16 (71) 
+2¾ (70) 
+7⅝ (194) 
+7½ (191) 
+5C = 16 in. 
+(406 mm) 
+Closure Modular 
+4 (102) 
+4 (102) 
+8 (203) 
+⅜ (9.5) 
+½ (12.7) 
+3⅝ (92) 
+3½ (89) 
+3⅝ (92) 
+3½ (89) 
+7⅝ (194) 
+7½ (191) 
+1C = 4 in. 
+(102 mm)
+2 
+— 
+4 (102) 
+6 (152) 
+8 (203) 
+⅜ (9.5) 
+½ (12.7) 
+3⅝ (92) 
+3½ (89) 
+5⅝ (143) 
+5½ (140) 
+7⅝ (194) 
+7½ (191) 
+2C = 12 in. 
+(305 mm)
+2 
+— 
+4 (102) 
+8 (203) 
+8 (203) 
+⅜ (9.5) 
+½ (12.7) 
+⅜ (9.5) 
+½ (12.7) 
+3⅝ (92) 
+3½ (89) 
+3⅝ (92) 
+3½ (89) 
+7⅝ (194) 
+7½ (191) 
+1⅝ (41) 
+1½ (38) 
+7⅝ (194) 
+7½ (191) 
+11⅝ (295) 
+11½ (292) 
+1C = 8 in. 
+(203 mm) 
+2C = 4 in. 
+(102 mm)
+Roman 
+4 (102) 
+2 (51) 
+12 (305) 
+Norman 
+4 (102) 
+2⅔ (68) 
+12 (305) 
+⅜ (9.5) 
+½ (12.7) 
+3⅝ (92) 
+3½ (89) 
+2¼ (57) 
+11⅝ (295) 
+11½ (292) 
+3C = 8 in. 
+(203 mm) 
+Engineer Norman 
+4 (102) 
+31⁄5 (81) 
+12 (305) 
+⅜ (9.5) 
+½ (12.7) 
+3⅝ (92) 
+3½ (89) 
+213⁄16 (71) 
+2¾ (70) 
+11⅝ (295) 
+11½ (292) 
+5C = 16 in. 
+(406 mm) 
+Utility 
+4 (102) 
+4 (102) 
+12 (305) 
+⅜ (9.5) 
+½ (12.7) 
+3⅝ (92) 
+3½ (89) 
+3⅝ (92) 
+3½ (89) 
+11⅝ (295) 
+11½ (292) 
+1C = 4 in. 
+(102 mm)
+2 
+— 
+6 (152) 
+31⁄5 (81) 
+12 (305) 
+⅜ (9.5) 
+½ (12.7) 
+5⅝ (143) 
+5½ (140) 
+213⁄16 (71) 
+2¾ (70) 
+11⅝ (295) 
+11½ (292) 
+5C = 16 in. 
+(406 mm)
+2 
+— 
+6 (152) 
+4 (102) 
+12 (305) 
+⅜ (9.5) 
+½ (12.7) 
+5⅝ (143) 
+5½ (140) 
+3⅝ (92) 
+3½ (89) 
+11⅝ (295) 
+11½ (292) 
+1C = 4 in. 
+(102 mm)
+2 
+— 
+8 (203) 
+4 (102) 
+12 (305) 
+⅜ (9.5) 
+½ (12.7) 
+7⅝ (194) 
+7½ (191) 
+3⅝ (92) 
+3½ (89) 
+11⅝ (295) 
+11½ (292) 
+1C = 4 in. 
+(102 mm)
+2 
+— 
+4 (102) 
+2⅔ (68) 
+16 (406) 
+⅜ (9.5) 
+½ (12.7) 
+3⅝ (92) 
+3½ (89) 
+2¼ (57) 
+15⅝ (397) 
+15½ (394) 
+3C = 8 in. 
+(203 mm) 
+Meridian 
+Double Meridian 
+4 (102) 
+4 (102) 
+4 (102) 
+8 (203) 
+16 (406) 
+16 (406) 
+⅜ (9.5) 
+½ (12.7) 
+⅜ (9.5) 
+½ (12.7) 
+3⅝ (92) 
+3½ (89) 
+3⅝ (92) 
+3½ (89) 
+3⅝ (92) 
+3½ (89) 
+7⅝ (194) 
+7½ (191) 
+15⅝ (397) 
+15½ (394) 
+15⅝ (397) 
+15½ (394) 
+1C = 4 in. 
+(102 mm) 
+1C = 8 in. 
+(203 mm) 
+6-in. Through-Wall 
+Meridian 
+6 (152) 
+4 (102) 
+16 (406) 
+⅜ (9.5) 
+½ (12.7) 
+5⅝ (143) 
+5½ (140) 
+3⅝ (92) 
+3½ (89) 
+15⅝ (397) 
+15½ (394) 
+1C = 4 in. 
+(102 mm) 
+8-in. Through-Wall 
+Meridian 
+8 (203) 
+4 (102) 
+16 (406) 
+⅜ (9.5) 
+½ (12.7) 
+7⅝ (194) 
+7½ (191) 
+3⅝ (92) 
+3½ (89) 
+15⅝ (397) 
+15½ (394) 
+1C = 4 in. 
+(102 mm) 
+Double Through-
+Wall Meridian 
+8 (203) 
+8 (203) 
+16 (406) 
+⅜ (9.5) 
+½ (12.7) 
+7⅝ (194) 
+7½ (191) 
+7⅝ (194) 
+7½ (191) 
+15⅝ (397) 
+15½ (394) 
+1C = 8 in. 
+(203 mm) 
+1. Some manufacturers may use a brick designation different from that shown. 
+2. No brick designation is provided due to inadequate consensus among manufacturers. 
+3. Common joint sizes used with length and width dimensions. Actual bed joint thicknesses vary based on vertical coursing and actual brick 
+height. 
+4. Speciﬁed dimensions may vary within this range from manufacturer to manufacturer. 
+www.gobrick.com | Brick Industry Association | TN 10 | Dimensioning and Estimating Brick Masonry | Page 4 of 11 
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE 2 
+Non-Modular Brick Sizes 
+Brick Designation1 
+Joint 
+Thickness,3 
+in. (mm) 
+Specified Dimensions,4 in. (mm) 
+Vertical 
+Coursing
+W 
+H 
+L 
+Queen 
+⅜ (9.5) 
+½ (12.7) 
+2¾ (70) 
+3 (76) 
+2¾ (70) 
+7⅝ (194) 
+8 (203) 
+5C = 16 in. 
+(406 mm) 
+King 
+⅜ (9.5) 
+½ (12.7) 
+2¾ (70) 
+3 (76) 
+2⅝ (67) 
+2¾ (70) 
+9⅝ (244) 
+9¾ (248) 
+5C = 16 in. 
+(406 mm)
+2 
+— 
+⅜ (9.5) 
+½ (12.7) 
+3 (76) 
+2⅝ (67) 
+2¾ (70) 
+8⅝ (219) 
+5C = 16 in. 
+(406 mm) 
+Standard 
+⅜ (9.5) 
+½ (12.7) 
+3⅝ (92) 
+3½ (89) 
+2¼ (57) 
+8 (203) 
+3C = 8 in. 
+(203 mm) 
+Engineer Standard 
+⅜ (9.5) 
+½ (12.7) 
+3⅝ (92) 
+3½ (89) 
+213⁄16 (71) 
+2¾ (70) 
+8 (203) 
+5C = 16 in. 
+(406 mm) 
+Closure Standard 
+⅜ (9.5) 
+½ (12.7) 
+3⅝ (92) 
+3½ (89) 
+3⅝ (92) 
+3½ (89) 
+8 (203) 
+1C = 4 in. 
+(102 mm) 
+1. Some manufacturers may use a brick designation different from that shown. 
+2. No brick designation is provided due to inadequate consensus among manufacturers. 
+3. Common joint sizes used with length and width dimensions. Actual bed joint thicknesses vary based on vertical coursing 
+and actual brick height. 
+4. Speciﬁed dimensions may vary within this range from manufacturer to manufacturer. 
+MODULAR MASONRY 
+There are relationships between the width, height and 
+length of brick that were developed as brick masonry 
+construction began. The most common of these 
+dimensional relationships are: 
+• 
+two brick widths plus one mortar joint 
+equal one brick length, and 
+• 
+three brick heights plus two mortar joints 
+equal one brick length. 
+Use of these relationships allows corners and 
+openings in brick walls to be constructed with little 
+waste and limited cutting of brick. These relationships 
+allow rowlocks and headers to tie adjacent wythes 
+together and courses of brick in different orientations 
+to align vertically (see Photo 1). This has given 
+rise to the rich variety of detailing that is part of the 
+architectural vernacular of brickwork. 
+Because of greater ease in design and construction, 
+the vast majority of contemporary brickwork uses 
+modular-sized brick and modular dimensioning. 
+The most common modular dimension system for 
+brickwork utilizes a 4 in. (102 mm) grid. The 4 in. 
+(102 mm) grid is used in modular coordination 
+between brick and concrete masonry units [Ref. 1] 
+and fits the modular dimensions of other construction 
+materials. 
+Architect: DiMella Shaffer 
+Photo 1 
+Dimensional Relationships 
+www.gobrick.com | Brick Industry Association | TN 10 | Dimensioning and Estimating Brick Masonry | Page 5 of 11 
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modular dimensions are sometimes called nominal dimensions, because they represent round numbers without 
+accounting for the fractions of an inch represented by mortar joint thicknesses. For masonry elements, the 
+relationship between modular dimensions and the actual dimensions constructed in the field can depend upon 
+the overall length of the masonry element. For longer masonry wall lengths made of modular-sized brick and 
+about four or more brick lengths long, the actual constructed length of the element often will be the modular 
+dimension. This is possible because during construction, the mason typically will adjust the horizontal layout 
+of the brick to allow slightly larger or smaller head joints so that the brickwork meets the required dimension. 
+For shorter masonry wall lengths made of modular-sized brick and less than about four brick lengths long, the 
+designer may want to consider the specified dimension of the brick and joint thickness when dimensioning the 
+wall. This is because the amount of adjustment necessary to the thickness of head joints between brick will be 
+larger. Additionally, the mason will adjust the number of courses and the bed joint thicknesses in order to meet 
+fixed vertical dimensions. When the completed elevation is viewed, any slight deviation in mortar joint width or the 
+number of courses generally is not obvious in the brickwork. 
+Overall Dimensioning 
+The choice of whether nominal or specified dimensions are to be used on drawings is often determined by 
+the type of information that the drawing provides. For drawings that cover large areas, such as elevations and 
+floor plans, use of nominal dimensions is recommended. The overall intent and appearance of the project can 
+be presented without the precision of specified dimensions. When nominal dimensions are used on plans, the 
+drawings must be clearly noted to advise the mason of the intended actual size of the completed masonry 
+elements. 
+For drawings that provide specific information to other trades, those that coordinate the installation of materials, 
+and for shop drawings, the use of specified dimensions is recommended. An easy manner to remember this is to 
+use nominal dimensions for drawings in which the scale is smaller than ¼ in. per foot. Use specified dimensions 
+for drawings shown in ¼ in. per foot and larger, Of course Computer Aided Drafting (CAD) and Building 
+Information Modeling (BIM) programs often have the specified dimensions of the brick and mortar joint as input 
+options. Thus, at the designer’s discretion, specified dimensions that utilize fractions can be used throughout the 
+drawings to indicate the desired constructed dimensions of the brickwork. However, doing so involves fractions 
+and may complicate the dimensioning process. 
+Non-Modular Horizontal Dimensioning. Non-modular brick by definition do not conform to a 4 in. (203 mm) 
+module. However, all non-modular brick of a certain size create a module equal to the sum of one brick length 
+and one mortar joint width. This module can be used to establish modular dimensioning for the brickwork in a 
+fashion similar to that used for modular brick. Non-modular brick that are approximately three times as long as 
+they are wide are usually laid in one-third running bond. When laid in one-half running bond, brick near wall ends 
+and openings must usually be cut to maintain the bond. 
+Vertical Dimensioning. The vertical coursing of both modular and non-modular sized brick is similar. A certain 
+number of courses will correspond to 4, 8, 12 or 16 in. (102, 203, 305 or 406 mm) in height. This dimension 
+establishes the vertical modular grid used on the brickwork. For example, for a non-modular engineer standard 
+brick, a vertical grid of 16 in. (406 mm) is used since five courses of brick equal 16 in. (406 mm). For a wall 
+constructed of modular brick, a vertical grid is established by three courses (three brick and three mortar joints) 
+equaling 8 in. (203 mm). Table 3 gives the vertical dimensions for numbers of courses (stretcher or header 
+positions) and corresponding mortar joints using various sized brick, rounded to the nearest 1⁄16 in. 
+www.gobrick.com | Brick Industry Association | TN 10 | Dimensioning and Estimating Brick Masonry | Page 6 of 11 
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+TABLE 3 
+Vertical Coursing 
+Vertical Coursing of Unit 
+2C = 4 in. 
+3C = 8 in. 
+5C = 16 in. 
+1C = 4 in. 
+(102 mm) 
+(203 mm) 
+(406 mm) 
+(102 mm) 
+No. of 
+Courses 
+1 
+0 
+2 
+0 
+3 
+0 
+4 
+0 
+5 
+0 
+6 
+1 
+7 
+1 
+8 
+1 
+9 
+1 
+10 
+1 
+11 
+1 
+12 
+2 
+13 
+2 
+14 
+2 
+15 
+2 
+16 
+2 
+17 
+2 
+18 
+3 
+19 
+3 
+20 
+3 
+21 
+3 
+22 
+3 
+23 
+3 
+24 
+4 
+25 
+4 
+26 
+4 
+27 
+4 
+28 
+4 
+29 
+4 
+30 
+5 
+31 
+5 
+32 
+5 
+33 
+5 
+34 
+5 
+35 
+5 
+36 
+6 
+37 
+6 
+38 
+6 
+39 
+6 
+40 
+6 
+m 
+ft – in. 
+2 
+0.051 
+ft – in. 
+0 
+0 
+0 
+0 
+1 
+1 
+1 
+1 
+2 
+2 
+2 
+2 
+2 
+3 
+3 
+3 
+3 
+4 
+4 
+4 
+4 
+4 
+5 
+5 
+5 
+5 
+6 
+6 
+6 
+6 
+6 
+7 
+7 
+7 
+7 
+8 
+8 
+8 
+8 
+8 
+211⁄16 
+4 
+0.102 
+55⁄16 
+6 
+0.152 
+8 
+8 
+0.203 
+1011⁄16 
+15
+10 
+0.254 
+⁄16 
+0 
+0.305 
+4 
+2 
+0.356 
+611⁄16 
+95
+4 
+0.406 
+⁄16 
+6 
+0.457 
+0 
+8 
+0.508 
+211⁄16 
+55
+10 
+0.559 
+⁄16 
+0 
+0.61 
+8 
+1011
+2 
+0.66 
+⁄16 
+15
+4 
+0.711 
+⁄16 
+6 
+0.762 
+4 
+8 
+0.813 
+611⁄16 
+95
+10 
+0.864 
+⁄16 
+0 
+0.914 
+0 
+2 
+0.965 
+211⁄16 
+55
+4 
+1.02 
+⁄16 
+6 
+1.07 
+8 
+1011
+8 
+1.12 
+⁄16 
+15
+10 
+1.17 
+⁄16 
+0 
+1.22 
+4 
+2 
+1.27 
+611⁄16 
+95
+4 
+1.32 
+⁄16 
+6 
+1.37 
+0 
+8 
+1.42 
+211⁄16 
+55
+10 
+1.47 
+⁄16 
+0 
+1.52 
+8 
+1011
+2 
+1.58 
+⁄16 
+15
+4 
+1.63 
+⁄16 
+6 
+1.68 
+4 
+8 
+1.73 
+611⁄16 
+95
+10 
+1.78 
+⁄16 
+0 
+1.83 
+0 
+2 
+1.88 
+211⁄16 
+55
+4 
+1.93 
+⁄16 
+6 
+1.98 
+8 
+1011
+8 
+2.03 
+⁄16 
+m 
+ft – in. 
+0.068 
+0 
+0 
+0 
+1 
+1 
+1 
+1 
+2 
+2 
+2 
+2 
+3 
+3 
+3 
+4 
+4 
+4 
+4 
+5 
+5 
+5 
+5 
+6 
+6 
+6 
+6 
+7 
+7 
+7 
+8 
+8 
+8 
+8 
+9 
+9 
+9 
+9 
+10 
+10 
+10 
+33⁄16 
+0.135 
+6⅜ 
+0.203 
+9⅝ 
+0.271 
+13⁄16 
+0.339 
+4 
+0.406 
+73⁄16 
+0.474 
+10⅜ 
+0.542 
+1⅝ 
+0.61 
+413⁄16 
+0.677 
+8 
+0.745 
+113⁄16 
+0.813 
+2⅜ 
+0.881 
+5⅝ 
+0.948 
+813⁄16 
+1.02 
+0 
+33
+1.08 
+⁄16 
+1.15 
+6⅜ 
+1.22 
+9⅝ 
+1.29 
+13⁄16 
+1.36 
+4 
+73
+1.42 
+⁄16 
+1.49 
+10⅜ 
+1.56 
+1⅝ 
+1.63 
+413⁄16 
+1.69 
+8 
+1.76 
+113⁄16 
+1.83 
+2⅜ 
+1.9 
+5⅝ 
+1.96 
+813⁄16 
+2.03 
+0 
+33
+2.1 
+⁄16 
+2.17 
+6⅜ 
+2.24 
+9⅝ 
+2.3 
+13⁄16 
+2.37 
+4 
+73
+2.44 
+⁄16 
+2.51 
+10⅜ 
+2.57 
+1⅝ 
+2.64 
+413⁄16 
+2.71 
+8 
+m 
+ft – in. 
+0 
+0 
+1 
+1 
+1 
+2 
+2 
+2 
+3 
+3 
+3 
+4 
+4 
+4 
+5 
+5 
+5 
+6 
+6 
+6 
+7 
+7 
+7 
+8 
+8 
+8 
+9 
+9 
+9 
+10 
+10 
+10 
+11 
+11 
+11 
+12 
+12 
+12 
+13 
+13 
+m 
+0.081 
+4 
+0.102 
+0.163 
+8 
+0.203 
+0.244 
+0 
+0.305 
+0.325 
+4 
+0.406 
+0.406 
+8 
+0.508 
+0.488 
+0 
+0.61 
+0.569 
+4 
+0.711 
+0.65 
+8 
+0.813 
+0.732 
+0 
+0.914 
+0.813 
+4 
+1.02 
+0.894 
+8 
+1.12 
+0.975 
+0 
+1.22 
+1.06 
+4 
+1.32 
+1.14 
+8 
+1.42 
+1.22 
+0 
+1.52 
+1.3 
+4 
+1.63 
+1.38 
+8 
+1.78 
+1.46 
+0 
+1.83 
+1.54 
+4 
+1.93 
+1.63 
+8 
+2.03 
+1.71 
+0 
+2.13 
+1.79 
+4 
+2.24 
+1.87 
+8 
+2.34 
+1.95 
+0 
+2.44 
+2.03 
+4 
+2.54 
+2.11 
+8 
+2.64 
+2.2 
+0 
+2.74 
+2.28 
+4 
+2.85 
+2.36 
+8 
+2.95 
+2.44 
+0 
+3.05 
+2.52 
+4 
+3.15 
+2.6 
+8 
+3.25 
+2.68 
+0 
+3.35 
+2.76 
+4 
+3.45 
+2.85 
+8 
+3.56 
+2.93 
+0 
+3.66 
+3.01 
+4 
+3.76 
+3.09 
+8 
+3.86 
+3.17 
+0 
+3.96 
+3.25 
+4 
+4.06 
+www.gobrick.com | Brick Industry Association | TN 10 | Dimensioning and Estimating Brick Masonry | Page 7 of 11 
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE 3
+Vertical Coursing
+TABLE 3 (continued) 
+Vertical Coursing 
+No. of 
+Courses 
+41 
+6 
+42 
+7 
+43 
+7 
+44 
+7 
+45 
+7 
+46 
+7 
+47 
+7 
+48 
+8 
+49 
+8 
+50 
+8 
+100 
+16 
+2C = 4 in. 
+(102 mm) 
+ft – in. 
+m 
+10 
+2.08 
+0 
+2.13 
+2 
+2.18 
+4 
+2.24 
+6 
+2.29 
+8 
+2.34 
+10 
+2.39 
+0 
+2.44 
+2 
+2.49 
+4 
+2.54 
+8 
+5.08 
+Masonry Openings 
+3C = 8 in. 
+(203 mm) 
+ft – in. 
+9
+15⁄16 
+9
+4 
+611
+9 
+⁄16 
+9
+95⁄16 
+10 0 
+10 211⁄16 
+10 55⁄16 
+10 8 
+10 1011⁄16 
+11 15⁄16 
+22 211⁄16 
+The edges of masonry openings are defined by brick 
+units rather than mortar joints. Vertical dimensions 
+are based on the number of courses plus an extra 
+bed joint thickness. Figure 4 shows an example of 
+dimensions for a punched window opening for modular 
+sized brick units. Note that the height is for the 
+opening before the installation of the sill and extends 
+up to the bottom of the brick above, not to the bottom 
+of the lintel supporting the brick. 
+ESTIMATING BRICK MASONRY 
+There are various methods to estimate material 
+quantities on a project. Hand calculations and 
+computer programs have been used depending on 
+the complexity of the building. Because of its simplicity 
+and accuracy, the most widely used estimating 
+procedure is the “wall-area” method. It consists simply 
+of multiplying the net wall area (gross areas less areas 
+of openings) by known quantities of material required 
+per square foot (square meter). 
+Determining the area of brick and mortar within each 
+unit area of wall depends on both brick size and joint 
+width. For non-modular masonry, both dimensions 
+must be known to make accurate estimates. In 
+modular masonry, mortar joint sizes are dictated 
+by the size of the brick, simplifying the estimating 
+process. 
+Vertical Coursing of Unit 
+m 
+2.78 
+2.85 
+2.91 
+2.98 
+3.05 
+3.12 
+3.18 
+3.25 
+3.32 
+3.39 
+6.77 
+5C = 16 in. 
+(406 mm) 
+ft – in. 
+10 113⁄16 
+11 2⅜ 
+11 5⅝ 
+11 83⁄16 
+12 0 
+12 33⁄16 
+12 6⅜ 
+12 9⅝ 
+13 
+13⁄16 
+13 4 
+26 8 
+m 
+3.33 
+3.41 
+3.5 
+3.58 
+3.66 
+3.74 
+3.82 
+3.9 
+3.98 
+4.06 
+8.13 
+1C = 4 in. 
+(102 mm) 
+ft – in. 
+13 8 
+14 0 
+14 4 
+14 8 
+15 0 
+15 4 
+15 8 
+16 0 
+16 4 
+16 8 
+33 4 
+Modular Brick,
+3/8 inch (9.5 mm) Joints 
+5’-4” (1.63 m) M.O. 
+Approx. 5’-4 / ” (1.64 m) actual 
+3 8 
+24 Nom. Brick Courses + 1 Joint 
+2’-8” (813 mm) M.O. 
+Approx. 2’-83/8” (822 mm) actual 
+4 Nom. Brick Lengths + 1 Joint 
+Figure 4 
+Example of Determining Dimensions 
+for a Masonry Opening 
+m 
+4.17 
+4.27 
+4.37 
+4.47 
+4.57 
+4.67 
+4.78 
+4.88 
+4.98 
+5.08 
+10.2 
+www.gobrick.com | Brick Industry Association | TN 10 | Dimensioning and Estimating Brick Masonry | Page 8 of 11 
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brick and Mortar Quantities 
+Masons frequently use a rule of thumb that eight bags of masonry cement will lay 1000 modular brick. This is a 
+very rough estimate and includes an unspecified amount of waste. Table 4 presents the estimated quantities of 
+brick and mortar (not including waste) required for brick masonry according to the size of brick used in the wall. 
+The mortar quantities are based on theoretical dimensions of the mortar in the wall. Estimates made using Table 4 
+should also include applicable correction factors listed in the Correction Factor section. For guidance on the 
+volume of each solid material required for a specific mortar type, refer to ASTM C270, Standard Specification for 
+Mortar for Unit Masonry [Ref. 1]. The commonly used “rule of thumb” is appropriate: 1 cubic foot (cubic meter) of 
+loose, damp sand will yield about one cubic foot (cubic meter) of mortar. 
+TABLE 4 
+Quantity Estimates for Brick Masonry 
+MODULAR BRICK SIZES 
+Brick 
+Designation 
+Nominal Dimensions, in. (mm) 
+Joint 
+Thickness, 
+in. (mm) 
+Number of 
+Brick per 
+100 sq ft 
+(per 10 m²) 
+Cubic Feet (Cubic 
+Meters) of Mortar 
+W 
+H 
+L 
+Per 100 sq ft 
+(10 m²) 
+Per 1000 
+Brick 
+Modular 
+4 (102) 
+2⅔ (68) 
+8 (203) 
+⅜ (9.5) 
+½ (12.7) 
+675 (727) 
+5.5 (1.7) 
+6.9 (2.1) 
+8.1 (0.23) 
+10.3 (0.29) 
+Engineer 
+Modular 
+4 (102) 
+31⁄5 (81) 
+8 (203) 
+⅜ (9.5) 
+½ (12.7) 
+563 (605) 
+4.8 (1.5) 
+6.1 (1.9) 
+8.5 (0.24) 
+10.8 (0.31) 
+Closure Modular 
+4 (102) 
+4 (102) 
+8 (203) 
+⅜ (9.5) 
+½ (12.7) 
+450 (484) 
+4.1 (1.3) 
+5.2 (1.6) 
+9.1 (0.26) 
+11.6 (0.33)
+ — 
+4 (102) 
+6 (152) 
+8 (203) 
+⅜ (9.5) 
+½ (12.7) 
+300 (323) 
+3.2 (0.98) 
+4.1 (1.3) 
+10.7 (0.30) 
+13.7 (0.39)
+ — 
+4 (102) 
+8 (203) 
+8 (203) 
+⅜ (9.5) 
+½ (12.7) 
+225 (242) 
+2.8 (0.84) 
+3.5 (1.1) 
+12.3 (0.35) 
+15.7 (0.44) 
+Roman 
+4 (102) 
+2 (51) 
+12 (305) 
+⅜ (9.5) 
+½ (12.7) 
+600 (646) 
+6.4 (2.0) 
+8.2 (2.5) 
+10.7 (0.30) 
+13.7 (0.39) 
+Norman 
+4 (102) 
+2⅔ (68) 
+12 (305) 
+⅜ (9.5) 
+½ (12.7) 
+450 (484) 
+5.1 (1.5) 
+6.5 (2.0) 
+11.2 (0.32) 
+14.3 (0.41) 
+Engineer 
+Norman 
+4 (102) 
+31⁄5 (81) 
+12 (305) 
+⅜ (9.5) 
+½ (12.7) 
+375 (404) 
+4.4 (1.3) 
+5.6 (1.7) 
+11.7 (0.33) 
+14.9 (0.42) 
+Utility 
+4 (102) 
+4 (102) 
+12 (305) 
+⅜ (9.5) 
+½ (12.7) 
+300 (323) 
+3.7 (1.1) 
+4.7 (1.4) 
+12.3 (0.35) 
+15.7 (0.44)
+ — 
+6 (152) 
+31⁄5 (81) 
+12 (305) 
+⅜ (9.5) 
+½ (12.7) 
+375 (404) 
+6.8 (2.1) 
+8.8 (2.7) 
+18.1 (0.51) 
+23.4 (0.66)
+ — 
+6 (152) 
+4 (102) 
+12 (305) 
+⅜ (9.5) 
+½ (12.7) 
+300 (323) 
+5.7 (1.7) 
+7.4 (2.3) 
+19.1 (0.54) 
+24.7 (0.70)
+ — 
+8 (203) 
+4 (102) 
+12 (305) 
+⅜ (9.5) 
+½ (12.7) 
+300 (323) 
+7.8 (2.4) 
+10.1 (3.1) 
+25.9 (0.73) 
+33.6 (0.95)
+ — 
+4 (102) 
+2⅔ (68) 
+16 (406) 
+⅜ (9.5) 
+½ (12.7) 
+338 (363) 
+4.9 (1.6) 
+6.5 (2.1) 
+14.5 (4.7) 
+19.2 (6.2) 
+Meridian 
+4 (102) 
+4 (102) 
+16 (406) 
+⅜ (9.5) 
+½ (12.7) 
+225 (242) 
+3.5 (1.1) 
+4.4 (1.4) 
+15.4 (0.44) 
+19.7 (0.56) 
+Double Meridian 
+4 (102) 
+8 (203) 
+16 (406) 
+⅜ (9.5) 
+½ (12.7) 
+113 (121) 
+2.1 (0.64) 
+2.7 (0.82) 
+18.6 (0.53) 
+23.8 (0.67) 
+6-in. Through-
+Wall Meridian 
+6 (152) 
+4 (102) 
+16 (406) 
+⅜ (9.5) 
+½ (12.7) 
+225 (242) 
+5.4 (1.6) 
+7.0 (2.1) 
+24.0 (0.68) 
+31.0 (0.88) 
+8-in. Through-
+Wall Meridian 
+8 (203) 
+4 (102) 
+16 (406) 
+⅜ (9.5) 
+½ (12.7) 
+225 (242) 
+7.3 (2.2) 
+9.5 (2.9) 
+32.5 (0.92) 
+42.3 (1.2) 
+Double Through-
+Wall Meridian 
+8 (203) 
+8 (203) 
+16 (406) 
+⅜ (9.5) 
+½ (12.7) 
+113 (121) 
+4.4 (1.3) 
+5.7 (1.8) 
+39.1 (1.1) 
+51.0 (1.4) 
+www.gobrick.com | Brick Industry Association | TN 10 | Dimensioning and Estimating Brick Masonry | Page 9 of 11 
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE 4 (continued) 
+Quantity Estimates for Brick Masonry 
+NON-MODULAR BRICK SIZES 
+Brick 
+Designation 
+Specified Dimensions, in. (mm) 
+Joint 
+Thickness, 
+in. (mm) 
+Number of 
+Brick per 
+100 sq ft 
+(per 10 m²) 
+Cubic Feet (Cubic 
+Meters) of Mortar 
+W 
+H 
+L 
+Per 100 sq ft 
+(10 m²) 
+Per 1000 
+Brick 
+Queen 
+2¾ (70) 
+3 (76) 
+2¾ (70) 
+7⅝ (194) 
+8 (203) 
+⅜ (9.5) 
+½ (12.7) 
+550 (592) 
+6.7 (2.1) 
+7.4 (2.3) 
+12.2 (0.35) 
+13.5 (0.38) 
+King 
+2¾ (70) 
+3 (76) 
+2⅝ (67) 
+2¾ (70) 
+9⅝ (244) 
+9¾ (248) 
+⅜ (9.5) 
+½ (12.7) 
+455 (490) 
+6.5 (2.0) 
+7.3 (2.2) 
+14.2 (0.40) 
+16.0 (0.45)
+ — 
+3 (76) 
+2⅝ (67) 
+2¾ (70) 
+8⅝ (219) 
+⅜ (9.5) 
+½ (12.7) 
+512 (551) 
+6.6 (2.0) 
+8.2 (2.5) 
+13.0 (0.37) 
+16.1 (0.46) 
+Standard 
+3⅝ (92) 
+3½ (89) 
+2¼ (57) 
+8 (203) 
+⅜ (9.5) 
+½ (12.7) 
+655 (705) 
+9.5 (2.9) 
+11.0 (3.3) 
+14.5 (0.41) 
+17.8 (0.50) 
+Engineer 
+Standard 
+3⅝ (92) 
+3½ (89) 
+213⁄16 (71) 
+2¾ (70) 
+8 (203) 
+⅜ (9.5) 
+½ (12.7) 
+539 (581) 
+8.2 (2.5) 
+9.7 (3.0) 
+15.3 (0.43) 
+18.7 (0.53) 
+Closure 
+Standard 
+3⅝ (92) 
+3½ (89) 
+3⅝ (92) 
+3½ (89) 
+8 (203) 
+⅜ (9.5) 
+½ (12.7) 
+430 (463) 
+7.0 (2.2) 
+8.5 (2.6) 
+16.4 (0.46) 
+20.0 (0.57) 
+Collar Joints. For multi-wythe construction, where the vertical joint between wythes is designed to be mortared 
+solid, the values in Table 5 can be used to estimate the quantity of mortar within the collar joint. 
+TABLE 5 
+Mortar Quantities in Collar Joints 
+Cubic Feet of Mortar per 100 sq ft (m² per 10 m²) of Wall 
+¼-in. (6.4 mm) joint 
+⅜-in. (9.5 mm) joint 
+½-in. (12.7 mm) joint 
+¾-in. (19.1 mm) joint 
+2.08 (0.064) 
+3.13 (0.095) 
+4.17 (0.13) 
+6.25 (0.19) 
+Correction Factors 
+Hollow Brick. The mortar quantities in Table 4 are based on fully bedded, solid masonry units (coring up to 25 
+percent of the bedded area). In veneer applications, hollow brick should also be laid in full mortar beds. Field 
+testing has demonstrated that a veneer constructed of hollow brick units with a nominal thickness of 3 to 4 in. (76 
+to 102 mm) and cores or cells between 25 and 35 percent of the bedded area and laid in a full mortar bed does 
+not significantly increase mortar usage compared to the same veneer constructed of solid brick units. Care should 
+be taken to avoid using excessively plastic mortar or placement methods that would force excessive amounts 
+of mortar into the cells or cores of the brick below. If these steps are taken, the estimates of Table 4 are valid for 
+most hollow brick veneer applications. For hollow units laid with face shell bedding (as typically done in structural 
+applications), the estimated quantities can be reduced by a percentage equal to the percentage of voids in the 
+brick. This reduction will typically be between 25 and 35 percent. 
+Bond Pattern. The values in Table 4 are based on running or stack bond patterns. For patterns that incorporate 
+headers, the correction factors in Table 6 can be applied. The factor is a net increase for the number of brick 
+and the mortar quantity, not including waste. For definitions of the patterns cited, refer to Technical Note 30. For 
+example, for a standard-size brick laid with a ⅜ in. (9.5 mm) joint thickness in a common bond with full headers 
+every fifth course, the following estimates would apply: 
+• 
+Number of brick per 100 sq ft (9.30 m²) of brickwork: 655 + (1⁄5 × 655) = 786 brick 
+• 
+Cubic feet (0.028 m³) of mortar per 1000 brick: 14.5 + (1⁄15 × 14.5) = 15.5 
+www.gobrick.com | Brick Industry Association | TN 10 | Dimensioning and Estimating Brick Masonry | Page 10 of 11 
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE 6 
+Estimate Correction Factors for Bond Patterns 
+Bond 
+Brick Correction 
+Factor1 
+Mortar Correction 
+Factor2 
+Common Bond with full headers every fifth course only 
+1⁄5 
+1⁄15 
+Common Bond with full headers every sixth course only 
+1⁄6 
+1⁄18 
+Common Bond with full headers every seventh course only 
+1⁄7 
+1⁄21 
+English Bond (full headers every second course) 
+½ 
+1⁄6 
+Flemish Bond (alternate full headers and stretchers every course) 
+⅓ 
+1⁄9 
+Cross Bond with Flemish headers every sixth course 
+1⁄18 
+1⁄54 
+Flemish Cross Bond (Flemish headers every second course) 
+1⁄6 
+1⁄18 
+Double-stretcher, garden wall bond 
+1⁄5 
+1⁄15 
+Triple-stretcher, garden wall bond 
+1⁄7 
+1⁄21 
+1. The net increase for brick units may be less than that given when multiple headers can be made from a single brick. 
+2. Correction factors are applicable only to brick with lengths equal to twice the depth and 2½ to three times the height. 
+Brick Breakage and Waste. In the estimating procedure, determine the net quantities of all brick, including all 
+correction factors above, before adding any allowances for waste. Allowances for waste and breakage vary, but 
+as a general rule, at least 5 percent is added to the net brick quantities delivered to the jobsite. Particular job 
+conditions or experience may warrant using a higher percentage for waste. 
+Mortar Waste. In the estimating procedure, determine the net quantities of all materials, including all correction 
+factors above, before adding any allowances for waste. Allowances for waste vary, but as a general rule, add 15 to 
+25 percent to the net mortar quantities. Particular job conditions, or experience, may dictate different factors. 
+SUMMARY 
+This Technical Note provides a discussion of brick sizes and modular masonry construction and a discussion 
+of the basic layout of brick masonry walls. Methods are presented for estimating quantities of brick and mortar 
+materials for a chosen brick size, mortar joint size and bond pattern. 
+The information and suggestions contained in this Technical Note are based on the available data 
+and the experience of the engineering staff and members of the Brick Industry Association. The 
+information contained herein must be used in conjunction with good technical judgment and a 
+basic understanding of the properties of brick masonry. Final decisions on the use of the informa­
+tion discussed in this Technical Note are not within the purview of the Brick Industry Association 
+and must rest with the project architect, engineer and owner. 
+REFERENCES 
+1. Annual Volume of ASTM Standards, ASTM International, West Conshohoken, PA, 2008. 
+Volume 04.05 
+C216 
+“Standard Specification for Facing Brick” 
+C270 
+“Standard Specification for Mortar for Unit Masonry” 
+C652 
+“Standard Specification for Hollow Brick” 
+Volume 04.11 
+E835/ “Standard Guide for Modular Coordination of Clay and Concrete Masonry Units” 
+E835M 
+www.gobrick.com | Brick Industry Association | TN 10 | Dimensioning and Estimating Brick Masonry | Page 11 of 11 

@@ -1,0 +1,994 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Index 
+Site Preparation 
+Construction Sequence Schedule ............................................................................................. 6.01 
+Land Grading ........................................................................................................................... 6.02 
+Surface Roughening  ................................................................................................................ 6.03 
+Topsoiling ................................................................................................................................ 6.04 
+Tree Preservation and Protection ............................................................................................. 6.05 
+Temporary Construction Entrance/Exit ................................................................................... 6.06 
+6 
+Rev. Jan 2026 
+
+ 
+ 
+
+ 
+6.01.1
+Practice Standards and Specifications
+constRuction seQuence schedule
+Definition
+A specified work schedule that coordinates the timing of land-disturbing 
+activities and the installation of erosion and sedimentation control measures.
+Purpose
+To reduce on-site erosion and off-site sedimentation by performing land-
+disturbing activities, and installing erosion and sedimentation control practices 
+in accordance with a planned schedule.
+Conditions Where 
+Practice Applies
+All land-development projects that will disturb more than one contiguous 
+acre.
+Planning 
+Considerations
+The removal of existing surface ground cover leaves a site vulnerable to 
+accelerated erosion.  Good planning will reduce land clearing, provide 
+necessary controls, and restore protective cover in an efficient and effective 
+manner.  Appropriate sequencing of construction activities can be a cost-
+effective way to help accomplish this goal.
+Scheduling considerations are summarized in Table 6.01a.  The generalized 
+construction activities shown in the table do not usually occur in a specified 
+linear sequence, and schedules will vary due to weather and other unpredictable 
+factors.  However, the proposed construction sequence should be indicated 
+clearly in the erosion and sedimentation control plan.
+Construction access is normally the first land-disturbing activity.  Exercise 
+care not to damage valuable trees or disturb designated buffer zones.
+Next, install principal sediment basins and traps before any major site grading 
+takes place.  Erect additional sediment traps and sediment fences as grading 
+takes place to keep sediment contained on-site at appropriate locations.
+Locate key runoff-control measures in conjunction with sediment traps to 
+divert water from planned undisturbed areas out of the traps and sediment-
+laden water into the traps.  Install diversions above areas to be disturbed 
+prior to grading.  Place necessary perimeter dikes with stable outlets before 
+opening major areas for development.  Install additional needed runoff-control 
+measures as grading takes place.
+Install the main runoff conveyance system with inlet and outlet protection 
+devices early, and use it to convey storm runoff through the development site 
+without creating gullies and washes.  Install inlet protection for storm drains 
+as soon as the drain is functional to trap sediment on-site in shallow pools and 
+to allow flood flows to safely enter the storm drainage system.  Install outlet 
+protection at the same time as the conveyance system to prevent damage to 
+the receiving stream.
+Normally, install stream stabilization, including necessary stream crossings, 
+independently and ahead of other construction activities.  It is usually best to 
+schedule this work as soon as weather conditions permit.  Site clearing and
+6.01
+
+6
+table 6.01a 
+considerations for construction scheduling
+ construction activity1
+schedule consideration
+construction access.  Construction entrance, construction 
+routes, equipment parking areas. 
+First land-disturbing activity—Stabilize bare areas immediately 
+with gravel and temporary vegetation as construction takes 
+place.
+sediment traps and barriers.  Basin traps, sediment fences, 
+and outlet protection.
+Install principal basins after construction site is accessed. 
+Install additional traps and barriers as needed during 
+grading.
+Runoff control.  Diversions, perimeter dikes, water bars, and 
+outlet protection.
+Install key practices after principal sediment traps and before 
+land grading.  Install additional runoff-control measures during 
+grading.
+Runoff conveyance system.  Stabilize streambanks, storm 
+drains, channels, inlet and outlet protection, and slope 
+drains.
+Where necessary, stabilize streambanks as early as possible. 
+Install principal runoff conveyance system with runoff-control 
+measures.  Install remainder of system after grading.
+landing clearing and grading.  Site preparation—cutting, 
+filling and grading, sediment traps, barriers, diversions, drains, 
+and surface roughening.
+Begin major clearing and grading after principal sediment 
+and key runoff-control measures are installed.  Clear borrow 
+and disposal areas only as needed.  Install additional control 
+measures as grading progresses.  Mark trees and buffer 
+areas for preservation.
+surface stabilization.  Temporary and permanent seeding, 
+mulching, sodding, and riprap.
+Apply temporary or permanent stabilization measures 
+immediately on all disturbed areas where work is delayed or 
+complete.
+building construction.  Buildings, utilities, and paving.
+Install necessary erosion and sedimentation control practices 
+as work takes place.
+Landscaping and final stabilization.  Topsoiling, trees and 
+shrubs, permanent seeding, mulching, sodding, and riprap.
+Last construction phase—Stabilize all open areas, including 
+borrow and spoil areas.  Remove and stabilize all temporary 
+control areas. 
+1 Maintenance, (1) maintenance inspections should be performed weekly, and (2) after periods of rainfall, maintenance repairs 
+should be made immediately.
+project construction increases storm runoff, often making streambank 
+stabilization work more difficult and costly.
+Begin land clearing and grading as soon as key erosion and sediment 
+control measures are in place.  Once a scheduled development area is cleared, 
+grading should follow immediately so that protective ground cover can be 
+reestablished quickly.  Do not leave any area bare and exposed for extended 
+periods.  Leave adjoining areas planned for development, or to be used for 
+borrow and disposal, undisturbed as long as possible to serve as natural buffer 
+zones.
+Runoff control is essential during the grading operation.  Temporary 
+diversions, slope drains, and inlet and outlet protection installed in a timely 
+manner can be very effective in controlling erosion during this critical period 
+of development.
+Immediately after land clearing and grading, apply surface stabilization on 
+graded areas, channels, dikes, and other disturbed areas.  Stabilize any graded 
+slopes and fills where active construction will not take place for 21 calendar
+6.01.2 
+Rev. 6/06
+
+Practice Standards and Specifications
+days by temporary seeding and/or mulching or by other suitable means. 
+Install permanent stabilization measures immediately after final grading, in 
+accordance with the vegetative plan.  Temporary seeding and/or mulching may 
+be necessary during extreme weather conditions with permanent measures 
+delayed for a more suitable time.
+Coordinate building construction with other development activities so that 
+all work can take place in an orderly manner and on schedule.  Experience 
+shows that careful project scheduling improves efficiency, reduces cost, and 
+lowers the potential for erosion and sedimentation problems.
+Landscaping and final stabilization is the last major construction phase, but 
+the topsoil stockpiling, tree preservation, undisturbed buffer area, and well-
+planned road locations established earlier in the project may determine the 
+ease or difficulty of this activity.  All disturbed areas should have permanent 
+stabilization practices applied.  Unstable sediment should be removed from 
+sediment basing and traps.  All temporary structures should be removed after 
+the area above has been properly stabilized.  Borrow and disposal areas should 
+be permanently vegetated or otherwise stabilized.
+In planning construction work, it may be helpful to outline all land-disturbing 
+activities necessary to complete the proposed project.  Then list all practices 
+needed to control erosion and sedimentation on the site.  These two lists 
+can then be combined in logical order to provide a practical and effective 
+construction sequence schedule.
+A construction sequence schedule is shown as part of the sample erosion plan 
+(Chapter 7, Sample Erosion and Sedimentation Control Plan).
+Design Criteria
+As a minimum, the construction sequence schedule should show the 
+following:
+• The erosion and sedimentation control practices to be installed,
+• Principal development activities,
+• What measures should be in place before other activities are begun, and
+• Compatibility with the general construction schedule of the contract.
+Construction 
+Specifications
+Many timely construction techniques can reduce the erosion potential of 
+a site, such as (1) shaping earthen fills daily to prevent overflows and (2) 
+constructing temporary diversions ahead of anticipated storms.  These types 
+of activities cannot be put on the construction sequence schedule, but should 
+be used whenever possible.
+Following a planned construction sequence schedule to control erosion should 
+help keep field personnel aware of the possibilities of erosion prevention 
+through construction management.
+Maintenance
+Follow the construction sequence throughout the project development.  When 
+changes in construction activities are needed, amend the sequence schedule in 
+advance to maintain management control.
+Rev. 5/08 
+6.01.3
+
+6
+Orderly modification assures coordination of construction and erosion control 
+practices to minimize erosion and sedimentation problems.  When major 
+changes are necessary, send a copy of the modified schedule to the local 
+sediment control agency.
+References
+Chapter 4, Preparing the Erosion and Sedimentation Control Plan
+Chapter 7, Sample Erosion and Sedimentation Control Plan
+6.01.4
+
+Practice Standards and Specifications
+land gRading
+Definition
+Reshaping the ground surface to planned grades as determined by engineering 
+survey evaluation and layout. 
+      
+Purpose
+To provide more suitable topography for buildings, facilities, and other land 
+uses, to control surface runoff, and to minimize soil erosion and sedimentation 
+both during and after construction.
+Conditions Where 
+Practice Applies
+This practice is applicable where grading to a planned elevation is necessary 
+and practical for the proposed development of a site, and for proper operation 
+of sedimentation control practices.
+Planning 
+Considerations
+Fitting a proposed development to the natural configurations of an existing 
+landscape reduces the erosion potential of the site and the cost of installing 
+erosion and sedimentation control measures.  It may also result in a more 
+desirable and less costly development.
+Before grading begins, decisions must be made on the steepness of cut-and-fill 
+slopes, how they will be protected from runoff, how they will be stabilized, 
+and how they will be maintained.  The grading plan establishes drainage areas, 
+directs drainage patterns, and affects runoff velocities.
+The grading plan forms the basis of the erosion and sedimentation control plan. 
+Key considerations that affect erosion and sedimentation include deciding 
+which slopes are to be graded, when the work will start and stop, the degree 
+and length of finished slopes, where and how excess material will be wasted, 
+and where borrow is needed.
+Leaving undisturbed temporary and permanent buffer zones in the grading 
+operation may provide an effective and low-cost erosion control measure 
+that will help reduce runoff velocity and volume and off-site sedimentation. 
+In developing the grading plan, always consider how to take advantage of 
+undisturbed water disposal outlets before storm drains or other constructed 
+outlets are installed.
+Design Criteria
+Base the grading plan and installation upon adequate surveys and soil 
+investigations.  In the plan, show disturbed areas, cuts, fills, and finished 
+elevations of the surface to be graded.  Include in the plan all practices 
+necessary for controlling erosion on the graded site and minimizing 
+sedimentation downstream.  Such practices may include, but are not limited 
+to, sediment basins, diversions, mulching, vegetation, vegetated and lined 
+waterways, grade stabilization structures, and surface and subsurface drains. 
+The practices may be temporary or permanent, depending upon the need after 
+construction is completed.
+6.02
+ 
+6.02.1
+
+6
+In the grading plan consider the following as a minimum:
+Make a provision to intercept and conduct all surface runoff to storm drains, 
+protected outlets, or to stable watercourses to minimize erosion on newly 
+graded slopes.
+Use slope breaks, such as diversions or benches, as appropriate, to reduce the 
+length of cut-and-fill slope to limit sheet and rill erosion and prevent gullying. 
+A spacing guide is shown in Table 6.02a.
+table 6.02a
+spacing guide for slope
+breaks
+slope
+spacing (ft)
+steep slopes
+2:1
+20
+3:1
+35
+4:1
+45
+long slopes
+15-25%
+50
+10-15%
+80
+6-10%
+125
+3-6%
+200
+<3%
+300
+Stabilize all graded areas with vegetation, crushed stone, riprap, or other 
+ground cover as soon as grading is completed, or when work is interrupted 
+for 30 working days or more.  Use mulch to stabilize areas temporarily where 
+final grading must be delayed.  The finished cut-and-fill slopes, which are to 
+be vegetated with grass and legumes, should not be steeper than 2:1.  Slopes 
+to be maintained by tractor or other equipment should not be steeper than 3:1. 
+Slopes in excess of 2:1 may warrant vines, special vegetation, or retaining 
+walls.  Roughen the surface of all slopes during the construction operation 
+to retain water, increase filtration, and facilitate vegetation.  (Practice 6.03, 
+Surface Roughening.)
+Do not place cuts or fill so close to property lines as to endanger adjoining 
+property without adequately protecting such properties from erosion, 
+sedimentation, slippage, subsidence, or other damages.
+Provide subsurface drainage to intercept seepage in areas with high water 
+tables that would affect slope stability, bearing strength, or create undesirable 
+wetness. 
+Do not place fill adjacent to a channel bank where it can create bank failure or 
+result in deposition of sediment downstream.
+Show all borrow and disposal areas in the grading plan, and ensure they are 
+adequately drained and stabilized.
+Provide stable channels and floodways to convey all runoff from the developed 
+area to an adequate outlet without causing increased erosion or off-site 
+sedimentation.
+6.02.2
+
+Practice Standards and Specifications
+ 
+6.02.3
+Construction 
+Specifications
+1. Construct and maintain all erosion and sedimentation control practices 
+and measures in accordance with the approved sedimentation control plan and 
+construction schedule.
+2. Remove good topsoil from areas to be graded and filled, and preserve it 
+for use in finishing the grading of all critical areas.
+3. Scarify areas to be topsoiled to a minimum depth of 2 inches before 
+placing topsoil (Practice 6.04, Topsoiling).
+4. Clear and grub areas to be filled by removing trees, vegetation, roots, or 
+other objectionable material that would affect the planned stability of the fill.
+5. Ensure that fill material is free of brush, rubbish, rocks, logs, stumps, 
+building debris, and other materials inappropriate for constructing stable fills.
+6. Place all fill in layers not to exceed 9 inches in thickness, and compact 
+the layers as required to reduce erosion, slippage, settlement, or other related 
+problems.
+7. Do not incorporate frozen, soft, mucky, or highly compressible materials 
+into fill slopes.
+8. Do not place fill on a frozen foundation, due to possible subsidence and 
+slippage.
+9. Keep diversions and other water conveyance measures free of sediment 
+during all phases of development.
+10. Handle seeps or springs encountered during construction in accordance 
+with approved methods (Practice 6.81, Subsurface Drain).
+11. Permanently stabilize all graded areas immediately after final grading is 
+completed on each area in the grading plan.  Apply temporary stabilization 
+measures on all graded areas when work is to be interrupted or delayed for 30 
+working days or longer.
+12. Show topsoil stockpiles, borrow areas, and spoil areas on the plans, 
+and make sure they are adequately protected from erosion.  Include final 
+stabilization of these areas in the plan.
+Maintenance
+Periodically, check all graded areas and the supporting erosion and 
+sedimentation control practices, especially after heavy rainfalls.  Promptly 
+remove all sediment from diversions and other water-disposal practices.  If 
+washouts or breaks occur, repair them immediately.  Prompt maintenance of 
+small eroded areas before they become significant gullies is an essential part 
+of an effective erosion and sedimentation control plan.
+References
+Chapter 3, Vegetative Considerations
+Chapter 5, Overview of Erosion and Sedimentation Control Practices
+
+6
+6.02.4
+
+ 
+6.03.1
+Practice Standards and Specifications
+suRface Roughening
+Definition
+Roughening a bare soil surface with horizontal grooves running across the 
+slope, stair stepping, or tracking with construction equipment.
+Purpose
+To aid the establishment of vegetative cover from seed, to reduce runoff 
+velocity and increase infiltration, and to reduce erosion and provide for 
+sediment trapping.
+Conditions Where 
+Practice Applies
+All construction slopes require surface roughening to facilitate stabilization 
+with vegetation, particularly slopes steeper than 3:1.
+Planning 
+Considerations
+Rough slope surfaces are preferred because they aid the establishment of 
+vegetation, improve water infiltration, and decrease runoff velocity.  Graded 
+areas with smooth, hard surfaces may be initially attractive, but such surfaces 
+increase the potential for erosion.  A rough, loose soil surface gives a mulching 
+effect that protects lime, fertilizer, and seed.  Nicks in the surface are cooler 
+and provide more favorable moisture conditions than hard, smooth surfaces; 
+this aids seed germination.
+There are different methods for achieving a roughened soil surface on a slope, 
+and the selection of an appropriate method depends upon the type of slope. 
+Roughening methods include stair-step grading, grooving (Figure 6.03a), and 
+tracking.  Factors to be considered in choosing a method are slope steepness, 
+mowing requirements, and whether the slope is formed by cutting or filling.
+figure 6.03a  Bulldozer treads 
+create grooves perpendicular to the 
+slope.  The slope face should not be 
+back-bladed during the final grading 
+operation (source: Va SWCC).
+6.03
+
+6
+Design Criteria
+No formal design is required.
+Construction
+Specifications
+CUT SLOPE ROUGHENING FOR AREAS NOT TO BE MOWED
+Stair-step grade or groove cut slopes with a gradient steeper than 3:1 (Figures 
+6.03b and 6.03c).
+Use stair-step grading on any erodible material soft enough to be ripped with 
+a bulldozer.  Slopes consisting of soft rock with some subsoil are particularly 
+suited to stair-step grading.
+Make the vertical cut distance less than the horizontal distance, and slightly 
+slope the horizontal position of the “step” in toward the vertical wall.
+Do not make individual vertical cuts more than 2 feet in soft materials or more 
+than 3 feet in rocky materials.
+Grooving uses machinery to create a series of ridges and depressions that run 
+across the slope (on the contour).
+Groove using any appropriate implement that can be safely operated on the 
+slope, such as disks, tillers, spring harrows, or the teeth on a front-end loader 
+bucket.  Do not make such grooves less than 3 inches deep nor more than 15 
+inches apart.
+FILL SLOPE ROUGHENING FOR AREAS NOT TO BE MOWED
+Place fill slopes with a gradient steeper than 3:1 in lifts not to exceed 9 inches, 
+and make sure each lift is properly compacted.  Ensure that the face of the 
+slope consists of loose, uncompacted fill 4 to 6 inches deep.  Use grooving, as 
+described above, to roughen the face of the slopes, if necessary.
+Do not blade or scrape the final slope face.
+CUTS, FILLS, AND GRADED AREAS THAT WILL BE MOWED
+Make mowed slopes no steeper than 3:1.
+Roughen these areas to shallow grooves by normal tilling, disking, harrowing, 
+or use of cultipacker-seeder.  Make the final pass of any such tillage implement 
+on the contour.
+Make grooves, formed by such implements, close together (less than 10 
+inches) and not less than 1 inch deep.
+Excessive roughness is undesirable where mowing is planned.
+ROUGHENING WITH TRACKED MACHINERY
+Limit roughening with tracked machinery to sandy soils to avoid undue 
+compaction of the soil surface.  Tracking is generally not as effective as the 
+other roughening methods described.
+Operate tracked machinery up and down the slope to leave horizontal 
+depressions in the soil.  Do not back-blade during the final grading operation. 
+6.03.2
+
+Practice Standards and Specifications
+ 
+6.03.3
+
+6
+Seeding—Immediately seed and mulch roughened areas to obtain optimum 
+seed germination and growth.
+Maintenance
+Periodically check the seeded slopes for rills and washes.  Fill these areas 
+slightly above the original grade, then reseed and mulch as soon as possible.
+References
+Surface Stabilization
+6.10, Temporary Seeding 
+6.11, Permanent Seeding 
+6.14, Mulching
+Chapter 3, Vegetative Considerations
+6.03.4
+
+Practice Standards and Specifications
+toPsoiling
+ 
+6.04.1
+Definition
+Preserving and using topsoil to enhance final site stabilization with 
+vegetation.
+Purpose
+To provide a suitable growth medium for vegetation.
+Conditions Where 
+Practice Applies
+Where a sufficient supply of quality topsoil is available.
+Where the subsoil or areas of existing surface soil present the following 
+problems:
+• The structure, pH, or nutrient balance of the available soil cannot be 
+amended by reasonable means to provide an adequate growth medium for 
+the desired vegetation,
+• The soil is too shallow to provide adequate rooting depth or will not 
+supply necessary moisture and nutrients for growth of desired vegetation, 
+and
+• The soil contains substances toxic to the desired vegetation.
+Where high-quality turf or ornamental plants are desired.
+Where slopes are 2:1 or flatter.
+Planning 
+Considerations
+Topsoil is the surface layer of the soil profile, generally characterized as darker 
+than the subsoil due to enrichment with organic matter.  It is the major zone of 
+root development and biological activity.  Microorganisms that enhance plant 
+growth thrive in this layer.  Topsoil can usually be differentiated from subsoil 
+by texture as well as color.  Clay content usually increases in the subsoil.  In 
+North Carolina, were subsoils are often high in clay, the topsoil layer may be 
+significantly coarser in texture.  The depth of topsoil may be quite variable. 
+On severely eroded sites it may be gone entirely.
+Advantages of topsoil include its high organic-matter content and friable 
+consistence (soil aggregates can be crushed with only moderate pressure), 
+and its available water-holding capacity and nutrient content.  Most often it is 
+superior to subsoil in these characteristics.  The texture and friability of topsoil 
+are usually much more conducive to seedling emergence and root growth.
+In addition to being a better growth medium, topsoil is often less erodible than 
+subsoils, and the coarser texture of topsoil increases infiltration capacity and 
+reduces runoff.
+Although topsoil may provide improved growth medium, there may be 
+disadvantages, too.  Stripping, stockpiling, hauling, and spreading topsoil, or 
+importing topsoil, may not be cost-effective.  Handling may be difficult if 
+large amounts of branches or rocks are present, or if the terrain is too rough. 
+Most topsoil contains weed seeds, which compete with desirable species.
+In site planning, compare the options of topsoiling with preparing a seedbed 
+in the available subsoil.  The clay content of many subsoils retains moisture. 
+When properly limed and fertilized, subsoils may provide a satisfactory growth 
+medium, which is generally free of weed seeds.
+6.04 
+
+6
+Topsoiling is normally recommended where ornamental plants or high-
+maintenance turf will be grown.  It may also be required to establish vegetation 
+on shallow soils, soils containing potentially toxic materials, stony soils, and 
+soils of critically low pH (high acidity).
+If topsoiling is to be used, consider the following:
+• quality and amount of topsoil, and
+• location for a stabilized stockpile that will not erode, block drainage, or 
+interfere with work on the site.
+Bonding—if topsoil and subsoil are not properly bonded, water will not 
+infiltrate the soil profile evenly, and it will be difficult to establish vegetation.
+Do not apply topsoil to slopes steeper than 2:1 to avoid slippage, nor to a 
+subsoil of highly contrasting texture.  Sandy topsoil over clay subsoil is a 
+particularly poor combination especially on steep slopes.  Water may creep 
+along the junction between the soil layers and cause the topsoil to slough.
+Construction
+Specifications
+MATERIALS
+Determine whether the quality and quantity of available topsoil justifies 
+selective handling.  Quality topsoil has the following characteristics:
+Texture—loam, sandy loam, and silt loam are best; sandy clay loam, silty clay 
+loam, clay loam, and loamy sand are fair.  Do not use heavy clay and organic 
+soils such as peat or muck as topsoil
+Organic matter content—(sometimes referred to as “humic matter”) should 
+be greater than 1.5% by weight.
+Acidity—pH should be greater than 3.6 before liming, and liming is required 
+if it is less than 6.0.
+Soluble salts—should be less than 500 ppm.
+Sodium—sodium adsorption ratio should be less than 12.
+The depth of material meeting the above qualifications should be at least 2 
+inches.  Soil factors such as rock fragments, slope, depth to water table, and 
+layer thickness affect the ease of excavation and spreading of topsoil.
+Generally, the upper part of the soil, which is richest in organic matter, is 
+most desirable; however, material excavated from deeper layers may be worth 
+storing if it meets the other criteria listed above.
+Organic soils such as mucks and peats do not make good topsoil.  They can be 
+identified by their extremely light weight when dry.
+STRIPPING
+Strip topsoil only from those areas that will be disturbed by excavation, filling, 
+roadbuilding, or compaction by equipment.  A 4-6 inch stripping depth is 
+common, but depth varies depending on the site.  Determine depth of stripping
+6.04.2
+
+Practice Standards and Specifications
+Rev. 6/06 
+6.04.3
+by taking soil cores at several locations within each area to be stripped.  Topsoil 
+depth generally varies along a gradient from hilltop to toe of the slope.  Put 
+sediment basins, diversions, and other controls into place before stripping.
+STOCKPILING
+Select stockpile location to avoid slopes, natural drainageways, and traffic 
+routes.  On large sites, respreading is easier and more economical when topsoil 
+is stockpiled in small piles located near areas where they will be used.
+Sediment barriers—Use sediment fences or other barriers where necessary 
+to retain sediment.
+Temporary seeding—Protect topsoil stockpiles by temporarily seeding as 
+soon as possible, no more than 21 calendar days after the formation of the 
+stockpile (Practice 6.10, Temporary Seeding).
+Permanent vegetation—If stockpiles will not be used within 90 days they 
+must be stabilized with permanent vegetation to control erosion and weed 
+growth (Practice 6.11, Permanent Seeding).
+SITE PREPARATION
+Before spreading topsoil, establish erosion and sedimentation control practices 
+such as diversions, berms, dikes, waterways, and sediment basins.
+Grading—Maintain grades on the areas to be topsoiled according to the 
+approved plan and do not alter them by adding topsoil.
+Limit of subsoil—Where the pH of the existing subsoil is 6.0 or less, or the 
+soil is composed of heavy clays, incorporate agricultural limestone in amounts 
+recommended by soil tests or specified for the seeding mixture to be used 
+(Practice 6.11, Permanent Seeding).  Incorporate lime to a depth of at least 2 
+inches by disking.
+Roughening—Immediately prior to spreading the topsoil, loosen the subgrade 
+by disking or scarifying to a depth of at least 4 inches, to ensure bonding of the 
+topsoil and subsoil.  If no amendments have been incorporated, loosen the soil 
+to a depth of at least 6 inches before spreading topsoil.
+SPREADING TOPSOIL
+Uniformly distribute topsoil to a minimum compacted depth of 2 inches on 
+3:1 slopes and 4 inches on flatter slopes.  To determine the volume of topsoil 
+required for application to various depths, use Table 6.04a.  Do not spread 
+topsoil while it is frozen or muddy or when the subgrade is wet or frozen. 
+Correct any irregularities in the surface that result from topsoiling or other 
+operations to prevent the formation of depressions or water pockets.
+Compact the topsoil enough to ensure good contact with the underlying 
+soil, but avoid excessive compaction, as it increases runoff and inhibits 
+seed germination.  Light packing with a roller is recommended where high-
+maintenance turf is to be established.
+
+6
+table 6.04a
+cubic yards of topsoil
+Required for application to
+Various depths
+ depth 
+(inches)
+Per 1,000 
+sq. ft.
+Per 
+acre
+1
+3.1
+134
+2
+6.2
+268
+3
+9.3
+403
+4
+12.4
+536
+5
+15.5
+670
+6
+18.6
+804
+On slopes and areas that will not be mowed, the surface may be left rough after 
+spreading topsoil.  A disk may be used to promote bonding at the interface 
+between the topsoil and subsoil.
+After topsoil application, follow procedures for seedbed preparation, taking 
+care to avoid excessive mixing of topsoil into the subsoil.
+References
+Site Preparation
+6.03, Surface Roughening
+Surface Stabilization
+6.10, Temporary Seeding 
+6.11, Permanent Seeding
+Chapter 3, Vegetative Considerations
+6.04.4
+
+Rev. 5/08 
+6.05.1
+Practice Standards and Specifications
+tRee PRotection
+6.05 
+Definition
+Practices to preserve and protect desirable trees from damage during project 
+development.
+Purpose
+To preserve and protect trees that have present or future value for their use in 
+protection from erosion, for their landscape and aesthetic value, or for other 
+environmental benefits.
+Conditions Where 
+Practice Applies
+Planning 
+Considerations
+On development sites containing trees or stands of trees.
+Conserving the right trees can reap rewards for developers, homeowners, 
+and communities. Healthy trees enhance property values and community 
+development by providing shade, wildlife habitat, and beauty. Sickly, stressed 
+trees reduce property values, discourage potential buyers and detract from a 
+community. Post-construction maintenance and removal of trees is difficult 
+and expensive. Replacing trees after construction can also be costly and time 
+consuming.
+Figure 6.05a Tree protection zone. A protected zone preserves roots and soil and keeps branches 
+clear of contact with construction equipment and materials. 
+
+6
+6.05.2 
+Rev. 5/08
+Preserving and protecting trees and other natural plant groups often results in 
+a more stable and aesthetically pleasing development. During site evaluation, 
+note where valuable trees and other natural landscape features should be 
+preserved, then consider these trees and plants when determining the location 
+of roads, buildings, or other structures.
+Trees that are near construction zones should be either protected or removed 
+because damage during construction activities may cause the death of the tree 
+at a later time.
+Trees should be considered for preservation for the following benefits:
+• They stabilize the soil and prevent erosion.
+• They reduce stormwater runoff by intercepting rainfall, promote 
+infiltration, and lower the water table through transpiration.
+• They moderate temperature changes, promote shade, and reduce the force 
+of wind.
+• They provide buffers and screens against noise and visual disturbance, 
+providing a degree of privacy.
+• They filter pollutants from the air, remove carbon dioxide from the air, 
+and produce oxygen.
+• They provide a habitat for animals and birds.
+• They increase property values and improve site aesthetics.
+Consider the following characteristics when selecting trees to be protected and 
+saved:
+Tree vigor—Preserve healthy trees.  A tree of low vigor is susceptible to 
+damage by environmental changes that occur during site development.  Healthy 
+trees are less susceptible to insects and disease.  Indications of poor vigor 
+include dead tips of branches, small annual twig growth, stunted leaf size, 
+sparse foliage, and pale foliage color.  Hollow or rotten trees, cracked, split, or 
+leaning trees, or trees with broken tips also have less chance for survival. 
+Tree age—Old, picturesque trees may be more aesthetically valuable than 
+smaller, younger trees, but they may require more extensive protection.
+Tree species—Preserve those species that are most suitable for site conditions 
+and landscape design.  Trees that are short-lived or brittle or are susceptible to 
+attack by insects and disease may be poor choices for preservation.
+Tree aesthetics—Choose trees that are aesthetically pleasing, shapely, large, 
+or colorful.  Avoid trees that are leaning or in danger of falling.  Occasionally, 
+an odd-shaped tree or one of unusual form may add interest to the landscape if 
+strategically located.  However, be sure the tree is healthy.
+Wildlife benefits—Choose trees that are preferred by wildlife for food, 
+cover, or nesting.  A mixture of evergreens and hardwoods may be beneficial. 
+Evergreen trees are important for cover during the winter months, whereas 
+hardwoods are more valuable for food.
+Construction activities can significantly injure or kill trees unless protective 
+measures are taken.  Although direct contact by equipment is an obvious 
+means of damaging trees, most serious damage is caused by root zone stress 
+from compacting, filling, or excavating too close to the tree.  Clearly mark 
+boundaries to maintain sufficient undisturbed area around the trees.
+
+Practice Standards and Specifications
+Rev. 5/08 
+6.05.3
+Design Criteria 1. Take stock of trees on the site. Hire a professional arborist or urban forester 
+to inventory existing trees. An inventory records the variety, location, size, 
+and health of each tree. A proper tree inventory creates the foundation for 
+a successful tree protection plan. A professional can identify valuable trees 
+and those that need attention or removal. Identify any stressed trees that need 
+removal. Stressed, unhealthy trees have wilting leaves, dying limbs, thinning 
+crowns or other signs of declining health. Always remove insect-, disease-, or 
+storm-damaged trees prior to construction. This is fast, efficient, and saves 
+resources.
+2. Draw a base map. Include all the important site features such as existing 
+vegetation, property lines, utility connections, slopes, and required setback 
+distances before drawing in the proposed building(s): 
+• Map grading and drainage. 
+• Identify priority trees for protection. Mark their locations on the base map 
+and sketch in approximate tree protection zones where temporary fences 
+should be located around priority trees. 
+• Locate the building footprints: the areas where structures and their amenities 
+will affect the landscape. Draw in the driveways, parking areas, and decks.
+• Mark trees that need to be removed or pruned to make room for future 
+structures and construction equipment.
+3. Prepare a tree protection plan. A tree protection plan designates the valuable 
+trees that must be protected during the construction process. Assemble a team 
+to write a tree protection plan before ground is broken. The team should include 
+the site managers as well as professionals who can provide tree protection 
+advice (Table 1). Do not leave anyone out who should be involved. By working 
+together, the team can identify potential conflicts between construction needs 
+and tree protection, and identify compromise solutions. 
+Planning takes time, but it pays off during and after construction. Using the 
+base map, the team can plan for tree protection, foresee problems, and solve 
+them. Early planning helps to keep construction on schedule, reduce costs, and 
+avoid conflicts:
+• Locate construction activities after considering the priority trees and the 
+development requirements. 
+• Look for potential conflicts, and explore alternate solutions.
+• Consider grading and stormwater drainage. Remember that cutting or filling 
+around roots will weaken and eventually kill valuable trees. Weigh alternatives 
+such as retaining walls to protect priority trees.
+• Designate tree protection zones (TPZs). The protection plan should specify 
+the location of temporary tree protection fences to protect trees and their 
+root zones during construction. TPZ fences identify “exclusion zones” where 
+construction and equipment use is prohibited.  Effective TPZs maintain a 
+radius of at least 1.25 feet of protected area for each inch of trunk diameter 
+(Table 6.05a).
+
+6
+6.05.4 
+Rev. 5/08
+Table 6.05a  Mature Tree Protection Zone Guidelines
+ 
+Mature Tree Protection Zone Radius
+Trunk 
+Good 
+Better 
+Best 
+Diameter 
+Protection 
+Protection 
+Protection
+8 inches 
+10 feet 
+12 feet 
+20 feet
+12 inches 
+15 feet 
+18 feet 
+30 feet
+16 inches 
+20 feet 
+24 feet 
+40 feet
+20 inches 
+25 feet 
+30 feet 
+50 feet
+• Identify techniques that will protect valuable trees. A tree professional can 
+develop a schedule of tree maintenance activities, including watering, mulching, 
+and fertilization. Stay committed to this plan throughout the project.
+Figure 6.05b Simple tree protection plan. A plan identifies the size and species of existing trees, 
+designates trees that must be protected, and marks trees to be removed. It also indicates planned 
+structures, vehicle access, and excavation areas.
+
+Practice Standards and Specifications
+Rev. 5/08 
+6.05.5
+Design Criteria The following general criteria should be considered when developing sites in 
+wooded areas:
+• Leave critical areas (such as flood plains, steep slopes and wetlands) with 
+desirable trees in their natural condition or only partially cleared.
+• Locate roadways, storage areas, and parking pads away from valuable tree 
+stands.  Follow natural contours, where feasible, to minimize cutting and 
+filling in the vicinity of trees.
+• Select trees to be preserved before siting roads, buildings, or other 
+structures.
+• Minimize trenching in areas with trees.  Place several utilities in the same 
+trench.
+• Designate groups of trees and individual trees to be saved on the erosion 
+and sedimentation control plan.
+• Do not excavate, traverse, or fill closer than the drip line, or perimeter 
+of the canopy, of trees to be saved.
+Construction
+Specifications
+1. Erect TPZ fences. Restrict access to TPZs, with tall, bright, protective 
+fencing. Most fencing is inexpensive and durable enough to last throughout 
+most construction projects. Temporary tree protection fencing should be 
+erected before clearing, deliveries and other construction activities begin on 
+the site. 
+2. Prohibit or restrict access to TPZs. All on-site workers should be aware 
+of the TPZs and the restrictions on activities within the zones. Use these TPZ 
+guidelines for the best effect:
+• Post “keep out” signs on all sides of fencing. Do not store construction 
+equipment or materials in TPZs.
+• Prohibit construction activities near the most valuable trees, and restrict 
+activities around others. 
+• Assess crew and contractor penalties, if necessary, to keep the TPZs intact. 
+3. Monitor trees. Vigilance is required to protect trees on construction sites. 
+Use a tree professional or train your staff to monitor tree health during and 
+after construction on a regular, frequent basis. Watch for signs of tree stress, 
+such as dieback, leaf loss, or general decline in tree health or appearance. 
+4. Monitor TPZ fences. Assign a crewmember the weekly responsibility 
+of checking the integrity of TPZ fences. Repair and replace TPZ fencing as 
+needed. 
+5. Optimize tree health. Assign a trained crewmember or hire a professional 
+to complete regular tree maintenance tasks, including watering, fertilization, 
+and mulching to protect tree roots. Consult a tree professional for advice on 
+these practices if needed. Survival of protected trees will increase if these 
+practices continue during construction. Healthy trees require undisturbed 
+healthy soils. Do not cause injuries to trees and roots. Do not change the soil, 
+grade, drainage, or aeration without protecting priority trees
+
+6
+6.05.6 
+Rev. 5/08
+Maintenance
+Continue to care for the site until the new owner takes possession. Take 
+these steps after all materials and equipment have been removed from the 
+site: 
+• Remove tree protection zone fences.
+• Prune any damaged trees.  In spite of precautions, some damage to protected 
+trees may occur. In such cases, repair any damage to the crown, trunk, or 
+root system immediately.
+• Repair roots by cutting off the damaged areas and painting them with tree 
+paint. Spread peat moss or moist topsoil over exposed roots.
+• Repair damage to bark by trimming around the damaged area as shown in 
+Figure 6.05d, taper the cut to provide drainage, and paint with tree paint.
+• Cut off all damaged tree limbs above the tree collar at the trunk or main 
+branch. Use three separate cuts as shown in Figure 6.05d to avoid peeling 
+bark from healthy areas of the tree.
+• Continue maintenance care. Pay special attention to any stressed, diseased, or 
+insect-infested trees. Reduce tree stress caused by unintended construction 
+damage by optimizing plant care with water, mulch, and fertilizer where 
+appropriate. Consult your tree expert if needed.
+• Inform the property owner about the measures employed during construction, 
+why those measures were taken, and how the effort can be continued.
+Figure 6.05c Tree protection zone guidelines. 
+
+Practice Standards and Specifications
+Rev. 5/08 
+6.05.7
+References
+Construction and Tree Protection, AG-685 (Revised) North Carolina Cooperative Extension Service
+Figure 6.05d Wound repair and pruning of damaged trees.
+Trim bark wounds with a tapered cut, then 
+apply tree paint.
+Prune damaged branches with three cuts 
+to avoid peeling bark from the trunk when 
+limb falls.
+
+6
+6.05.8
+
+Practice Standards and Specifications 
+Rev. Jan 2026 
+6.06.1 
+6.06 Temporary Construction Entrance/Exit 
+Definition 
+An area or pad located at points where vehicles enter and leave a construction site 
+typically surfaced with stone, riprap, coarse ground wood mulch, wooden logging mats, 
+synthetic/composite products, or other ground stabilizing materials. 
+Purpose 
+To provide an area where mud, soil, and debris can be removed from equipment and 
+vehicle tires to avoid deposition on the public road, where it can be a safety hazard and 
+create muddy runoff and dust. Except for wheel washes, the removal of mud, soil, and 
+debris occurs as a result of abrasion and wheel shaking as the vehicles drive over the right 
+surfaces. 
+Conditions Where Practice Applies 
+Wherever vehicles and equipment will be entering and leaving a construction site and 
+moving directly onto a public road or other paved off-site area. Construction plans should 
+limit traffic to properly constructed entrances and exits. 
+Design Criteria 
+Construction entrances should be 12-ft minimum per lane of traffic. Non-synthetic 
+construction entrance/exits should have geotextile underlayment. 
+Aggregate or mulch thickness should be a minimum of 6-in. A dedicated stockpile of 
+clean material should be available on-site for immediate use to maintain the measure. 
+Location – Locate construction entrances and exits to limit sediment from leaving the 
+site and to provide for maximum utility by all construction vehicles. Avoid steep grades 
+and entrances at curves in public roads. 
+Dimensions of Entrance/Exit Pad - 
+Width – A 12ft-minimum or full width at all points of the vehicular entrance and 
+exit area, whichever is greater. 
+Length – Apply stabilization techniques at lengths necessary to keep mud and 
+debris from entering the paved roadway (Figure 6.06a). Lengths of stabilized 
+roadway entrances and exits may vary by size of the construction site, percent 
+
+Chapter 6 
+6.06.2 
+Rev. Jan 2026 
+cover applied to the site access roadway, stabilization material selected, weight 
+and frequency of traffic, and soil types. 
+Riprap and Stone Pads, Wood Fiber, Wooden Mats, and Synthetic Mats - Each 
+option should achieve the purpose of this standard. Some standard starting points include: 
+Riprap Pads: 
+Aggregate Size – Use 2 - 3 inch stone. NCDOT Class A may be suitable for finer 
+textured soils 
+Length – 50-ft minimum. More stone may be required to minimize trackout on 
+paved surfaces. 
+Stone Pads: 
+Aggregate Size – Use NCDOT #5 or #57 stone. 
+Length – 25-ft minimum for residential or small linear utility sites. 
+Wood chips: 
+Material sizes may vary, but 3-inches or larger is preferred. 
+Wood Mats: 
+A minimum of ¼ inch construction, but various thicknesses may be appropriate. 
+Synthetic Mats: 
+Various thicknesses may be appropriate. 
+Wash Racks and Wheel Washes - If two instances of debris deposited onto the roadway 
+are cited as a safety concern, a wash rack or wheel wash may be required. Otherwise, if 
+conditions at the site are such that soil and other debris are not removed from exiting 
+vehicles, the vehicles should be washed prior to accessing the public roadway. Soil and 
+debris removal by washing should be conducted in a stabilized area that drains into a 
+sediment trap or other suitable collection area or self-contained to filter water for reuse. 
+A pressure washer and wash rack may be used to make washing more convenient and 
+effective. A manufactured wheel wash installed and operated according to manufacturer’s 
+specifications is also an acceptable alternative. The roadway leading to and from wash 
+racks or wheel washes shall be stabilized with appropriate materials. Drain space under 
+wash rack shall be kept open. Damage to wash racks or wheel washes shall be repaired 
+prior to further use. 
+Prefabricated Pad - Prefabricated pads may be used instead of or in conjunction with 
+stone construction entrances provided they are installed according to manufacturer’s 
+recommendations and a sufficient number of pads or stone are installed to provide for a 
+minimum of four tire revolutions while on the pad. More pads may be needed depending 
+
+Practice Standards and Specifications 
+Rev. Jan 2026 
+6.06.3 
+on site conditions. Accumulated materials should be cleaned from the pads daily (more 
+often if necessary) and disposed in the manner specified by the erosion and sediment 
+control plan. 
+Construction Specifications 
+1. Clear the entrance and exit area of all vegetation, roots, and other objectionable 
+material and properly grade it. 
+Figure 6.06a, Typical stone entrance/exit pad (modified from VA SWCC) 
+Figure 6.06b, Stone Entrance/Exit keeps sediment from leaving the construction site 
+
+Chapter 6 
+6.06.4 
+Rev. Jan 2026 
+2. Place the stone or other stabilizing material to the specific grade and dimensions 
+shown on the plans, and smooth it. 
+3. Provide drainage from construction entrance area to carry runoff to a sediment 
+trap or other suitable collection area. 
+4. Divert construction site runoff away from the construction entrance area to nearby 
+erosion and sediment control measures. Do not allow construction sites to outlet 
+runoff through entrances/exits. 
+5. When appropriate to do so, use geotextile fabrics underneath construction 
+entrance material to improve stability of the foundation, especially in locations 
+subject to seepage or a high-water table. 
+Maintenance 
+Maintain the pad or entrance in a condition to prevent mud or sediment from leaving the 
+construction site. If any objectionable material—including sediment—is deposited onto 
+paved roadways from the construction site, remove by manual or mechanical means and 
+return the deposits back to the construction site immediately. Periodic topdressing with 
+stone or coarse ground wood mulch may be needed to prevent debris deposits onto the 
+road, a stockpile shall be maintained on site to quickly address compromised 
+entrances/exits. After each rainfall, inspect any structure used to trap sediment and clean 
+it out as necessary. In circumstances of high-traffic and/or wet conditions, routinely 
+inspect the entrance/exit for sediment and debris removal effectiveness as needed. 
+References 
+Runoff Conveyance Measures 
+6.30, Grass-lined Channels 
+Sediment Traps and Barriers 
+6.60, Temporary Sediment Trap 
+Pennsylvania Erosion and Sediment Pollution Control Program Manual. March 2012. 
+Technical Guidance Number 363-2134-008. pp.13-18 

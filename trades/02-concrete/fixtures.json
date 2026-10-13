@@ -1,0 +1,483 @@
+[
+ {
+  "name": "SOG-4 slab on grade area",
+  "formula": "slab_sf = sum(area_i)",
+  "inputs": {
+   "areas": [
+    {
+     "value": 1917.6,
+     "unit": "SF"
+    }
+   ]
+  },
+  "tolerancePct": 0.5,
+  "source": "line 16 / markup p33",
+  "expected": {
+   "quantity": 1917.6,
+   "unit": "SF"
+  },
+  "estimatorQty": 1917.6
+ },
+ {
+  "name": "Isolation joint at column blockouts",
+  "formula": "joint_lf = sum(run_i)",
+  "inputs": {
+   "runs": [
+    {
+     "value": 39.2,
+     "unit": "LF"
+    }
+   ],
+   "type": "isolation",
+   "width": "1/2\""
+  },
+  "tolerancePct": 0.5,
+  "source": "line 17 / markup p33",
+  "expected": {
+   "quantity": 39.2,
+   "unit": "LF"
+  },
+  "estimatorQty": 39.22
+ },
+ {
+  "name": "Saw-cut control joints",
+  "formula": "joint_lf = sum(run_i)",
+  "inputs": {
+   "runs": [
+    {
+     "value": 364.1,
+     "unit": "LF"
+    }
+   ],
+   "type": "saw-cut",
+   "depthIn": {
+    "value": 1,
+    "unit": "in",
+    "rule": "slab thickness / 4"
+   }
+  },
+  "tolerancePct": 0.5,
+  "source": "line 18 / markup p33",
+  "expected": {
+   "quantity": 364.1,
+   "unit": "LF"
+  },
+  "estimatorQty": 364.11
+ },
+ {
+  "name": "WF20 continuous footing concrete",
+  "formula": "cy = lf * width_ft * depth_ft / 27",
+  "inputs": {
+   "lf": {
+    "value": 124.2,
+    "unit": "LF"
+   },
+   "width": {
+    "value": "2'-0\"",
+    "ft": 2
+   },
+   "depth": {
+    "value": "1'-0\"",
+    "ft": 1
+   }
+  },
+  "tolerancePct": 1,
+  "source": "line 19 / markup p33",
+  "expected": {
+   "quantity": 9.2,
+   "unit": "CY"
+  },
+  "estimatorQty": 9.196296
+ },
+ {
+  "name": "F30 isolated footing concrete",
+  "formula": "cy = count * L_ft * W_ft * D_ft / 27",
+  "inputs": {
+   "count": {
+    "value": 3,
+    "unit": "EA"
+   },
+   "L": {
+    "value": "3'-0\"",
+    "ft": 3.0
+   },
+   "W": {
+    "value": "3'-0\"",
+    "ft": 3.0
+   },
+   "D": {
+    "value": "1'-0\"",
+    "ft": 1.0
+   }
+  },
+  "tolerancePct": 1,
+  "source": "line 20 / markup p33",
+  "expected": {
+   "quantity": 1.0,
+   "unit": "CY"
+  },
+  "estimatorQty": 1.0
+ },
+ {
+  "name": "F38 isolated footing concrete",
+  "formula": "cy = count * L_ft * W_ft * D_ft / 27",
+  "inputs": {
+   "count": {
+    "value": 3,
+    "unit": "EA"
+   },
+   "L": {
+    "value": "3'-8\"",
+    "ft": 3.666667
+   },
+   "W": {
+    "value": "3'-8\"",
+    "ft": 3.666667
+   },
+   "D": {
+    "value": "1'-0\"",
+    "ft": 1.0
+   }
+  },
+  "tolerancePct": 1,
+  "source": "line 21 / markup p33",
+  "expected": {
+   "quantity": 1.493827,
+   "unit": "CY"
+  },
+  "estimatorQty": 1.496544
+ },
+ {
+  "name": "F50 isolated footing concrete",
+  "formula": "cy = count * L_ft * W_ft * D_ft / 27",
+  "inputs": {
+   "count": {
+    "value": 6,
+    "unit": "EA"
+   },
+   "L": {
+    "value": "5'-0\"",
+    "ft": 5.0
+   },
+   "W": {
+    "value": "5'-0\"",
+    "ft": 5.0
+   },
+   "D": {
+    "value": "1'-2\"",
+    "ft": 1.166667
+   }
+  },
+  "tolerancePct": 1,
+  "source": "line 22 / markup p33",
+  "expected": {
+   "quantity": 6.481481,
+   "unit": "CY"
+  },
+  "estimatorQty": 6.5
+ },
+ {
+  "name": "F60 isolated footing concrete",
+  "formula": "cy = count * L_ft * W_ft * D_ft / 27",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "L": {
+    "value": "6'-0\"",
+    "ft": 6.0
+   },
+   "W": {
+    "value": "6'-0\"",
+    "ft": 6.0
+   },
+   "D": {
+    "value": "1'-4\"",
+    "ft": 1.333333
+   }
+  },
+  "tolerancePct": 1,
+  "source": "line 23 / markup p33",
+  "expected": {
+   "quantity": 1.777778,
+   "unit": "CY"
+  },
+  "estimatorQty": 1.773333
+ },
+ {
+  "name": "F70 isolated footing concrete",
+  "formula": "cy = count * L_ft * W_ft * D_ft / 27",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "L": {
+    "value": "7'-0\"",
+    "ft": 7.0
+   },
+   "W": {
+    "value": "7'-0\"",
+    "ft": 7.0
+   },
+   "D": {
+    "value": "1'-4\"",
+    "ft": 1.333333
+   }
+  },
+  "tolerancePct": 1,
+  "source": "line 24 / markup p33",
+  "expected": {
+   "quantity": 2.419753,
+   "unit": "CY"
+  },
+  "estimatorQty": 2.413704
+ },
+ {
+  "name": "F7040 isolated footing concrete",
+  "formula": "cy = count * L_ft * W_ft * D_ft / 27",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "L": {
+    "value": "4'-0\"",
+    "ft": 4.0
+   },
+   "W": {
+    "value": "7'-0\"",
+    "ft": 7.0
+   },
+   "D": {
+    "value": "1'-4\"",
+    "ft": 1.333333
+   }
+  },
+  "tolerancePct": 1,
+  "source": "line 25 / markup p33",
+  "expected": {
+   "quantity": 1.382716,
+   "unit": "CY"
+  },
+  "estimatorQty": 1.379259
+ },
+ {
+  "name": "F10050 isolated footing concrete",
+  "formula": "cy = count * L_ft * W_ft * D_ft / 27",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "L": {
+    "value": "5'-0\"",
+    "ft": 5.0
+   },
+   "W": {
+    "value": "10'-0\"",
+    "ft": 10.0
+   },
+   "D": {
+    "value": "1'-2\"",
+    "ft": 1.166667
+   }
+  },
+  "tolerancePct": 1,
+  "source": "line 26 / markup p33",
+  "expected": {
+   "quantity": 2.160494,
+   "unit": "CY"
+  },
+  "estimatorQty": 2.166667
+ },
+ {
+  "name": "8in stem wall concrete",
+  "formula": "cy = lf * height_ft * thickness_ft / 27",
+  "inputs": {
+   "lf": {
+    "value": 193.8,
+    "unit": "LF"
+   },
+   "height": {
+    "value": "2'-0\"",
+    "ft": 2
+   },
+   "thickness": {
+    "value": "8\"",
+    "ft": 0.666667
+   }
+  },
+  "tolerancePct": 1,
+  "source": "line 27 / markup p33",
+  "expected": {
+   "quantity": 9.57037,
+   "unit": "CY"
+  },
+  "estimatorQty": 9.628148
+ },
+ {
+  "name": "10in wing-wall stem concrete",
+  "formula": "cy = lf * height_ft * thickness_ft / 27",
+  "inputs": {
+   "lf": {
+    "value": 8.4,
+    "unit": "LF"
+   },
+   "height": {
+    "value": "2'-0\"",
+    "ft": 2
+   },
+   "thickness": {
+    "value": "10\"",
+    "ft": 0.833333
+   }
+  },
+  "tolerancePct": 1,
+  "source": "line 28 / markup p33",
+  "expected": {
+   "quantity": 0.518519,
+   "unit": "CY"
+  },
+  "estimatorQty": 0.522593,
+  "perDrawings": {
+   "thickness": "10 3/4\" (S-201 plan dimension at 6/S-600 callout; 6/S-600)",
+   "quantity": 0.557407,
+   "unit": "CY"
+  }
+ },
+ {
+  "name": "Cleanout pad concrete",
+  "formula": "cy = count * L_ft * W_ft * T_ft / 27",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "L": {
+    "value": "18\"",
+    "ft": 1.5
+   },
+   "W": {
+    "value": "18\"",
+    "ft": 1.5
+   },
+   "T": {
+    "value": "6\"",
+    "ft": 0.5
+   }
+  },
+  "tolerancePct": 1,
+  "source": "line 29 / markup p57",
+  "expected": {
+   "quantity": 0.041667,
+   "unit": "CY"
+  },
+  "estimatorQty": 0.041667,
+  "note": "count 1 = the plumbing-scope pad (P-302 note 3). The 6 C-5.0 civil cleanout pads are carried separately in Div 32 line 658 (18\"x18\"x8\", 6 EA, 13.5 SF); do not add them here."
+ },
+ {
+  "name": "Foundation formwork contact area (rolled up)",
+  "formula": "sf = ceil(sum(contact_sf_i)/10)*10",
+  "inputs": {
+   "continuousFooting": {
+    "lf": 124.2,
+    "depthFt": 1,
+    "faces": 2
+   },
+   "isolatedFootings": [
+    {
+     "tag": "F30",
+     "count": 3,
+     "Lft": 3.0,
+     "Wft": 3.0,
+     "Dft": 1.0,
+     "sides": 4
+    },
+    {
+     "tag": "F38",
+     "count": 3,
+     "Lft": 3.666667,
+     "Wft": 3.666667,
+     "Dft": 1.0,
+     "sides": 4
+    },
+    {
+     "tag": "F50",
+     "count": 6,
+     "Lft": 5.0,
+     "Wft": 5.0,
+     "Dft": 1.166667,
+     "sides": 4
+    },
+    {
+     "tag": "F60",
+     "count": 1,
+     "Lft": 6.0,
+     "Wft": 6.0,
+     "Dft": 1.333333,
+     "sides": 4
+    },
+    {
+     "tag": "F70",
+     "count": 1,
+     "Lft": 7.0,
+     "Wft": 7.0,
+     "Dft": 1.333333,
+     "sides": 4
+    },
+    {
+     "tag": "F7040",
+     "count": 1,
+     "Lft": 4.0,
+     "Wft": 7.0,
+     "Dft": 1.333333,
+     "sides": 4
+    },
+    {
+     "tag": "F10050",
+     "count": 1,
+     "Lft": 5.0,
+     "Wft": 10.0,
+     "Dft": 1.166667,
+     "sides": 4
+    }
+   ],
+   "stemWalls": [
+    {
+     "lf": 193.8,
+     "heightFt": 2,
+     "faces": 2
+    },
+    {
+     "lf": 8.4,
+     "heightFt": 2,
+     "faces": 2
+    }
+   ],
+   "pad": {
+    "count": 1,
+    "Lft": 1.5,
+    "Wft": 1.5,
+    "Tft": 0.5
+   },
+   "roundUpTo": {
+    "value": 10,
+    "unit": "SF"
+   }
+  },
+  "tolerancePct": 1,
+  "source": "line 30 / markup p33, p57",
+  "expected": {
+   "quantity": 1420,
+   "unit": "SF"
+  },
+  "estimatorQty": 1420.0,
+  "note": "expected 1420 is the estimator's reported line. The reproducible quantity is the raw contact area, 1413.87 SF from these inputs (-0.43%, inside tolerancePct). roundUpTo 10 SF is a hypothesis fitted from this single line: with the estimator's own inputs (1415.26 SF), round-to-nearest-10 also gives 1420.",
+  "recomputed": {
+   "rawContactSf": 1413.87,
+   "unit": "SF"
+  }
+ }
+]

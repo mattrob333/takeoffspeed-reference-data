@@ -1,0 +1,48 @@
+[gpt-6-astra tokens in 3146 out 3253]
+## 1. Where the XPS is drawn
+
+The XPS leader points to the **thin horizontal layer immediately beneath the main slab**. That layer runs continuously from the dimensioned downstand near the left side of the section to the right-hand stem wall. Vertical insulation legs are shown at its edge conditions.
+
+The **2′-0″ dimension is vertical**, from the slab-underside level down to the bottom of the vertical insulation leg. It is **not**:
+- A 2-foot-wide horizontal perimeter strip;
+- The insulation thickness; or
+- A dimension requiring two layers.
+
+Thus, the detail depicts a **continuous underslab layer plus vertical edge insulation**, rather than horizontal perimeter-only insulation. Strictly, the clearly drawn horizontal band covers the *main slab portion* between those edge conditions; this schematic section does not independently establish insulation coverage over every part of the slab plan. Applying it to the entire 1,917.6 SF is a full-coverage estimating assumption.
+
+## 2. When it is required—and the project’s climate zone
+
+The note reads:
+
+> **SLAB ON GRADE (WHERE REQ’D ZONES >4):**  
+> **EXTRUDED POLYSTYRENE (XPS)**  
+> **R = 5/INCH**
+
+“Zones >4” means **climate zones 5 and higher**, not zone 4 and higher.
+
+**Warner Robins, Houston County, Georgia, is IECC Climate Zone 3A.** Consequently, **this note does not require the underslab XPS for this project**. A separate specification, detail, or other applicable requirement could still require it.
+
+Also, **R = 5/inch specifies thermal resistance per inch, not an insulation thickness**. The separate wall callout for 2-inch XPS does not establish the underslab thickness.
+
+## 3. Takeoff formula and quantity
+
+If carrying an allowance for **full underslab coverage plus a 2-foot vertical leg around the entire stem-wall perimeter**, use:
+
+\[
+A_{\mathrm{XPS}}=A_{\mathrm{slab}}+
+\left(L_{8''\mathrm{\ stem}}+L_{10''\mathrm{\ stem}}\right)d
+\]
+
+\[
+=1,917.6+(193.8+8.4)(2.0)
+\]
+
+| Component | XPS area |
+|---|---:|
+| Horizontal underslab layer | 1,917.6 SF |
+| Vertical perimeter legs: 202.2 LF × 2 FT | 404.4 SF |
+| **Total theoretical allowance** | **2,322.0 SF** |
+
+This is a gross installed-area allowance, before waste, assuming the supplied slab area is the actual slab area and the stem-wall lengths represent the insulated perimeter. The 8-inch and 10-inch wall thicknesses are not multipliers in this area calculation.
+
+**Estimating conclusion:** Carry **0 SF as required by this particular climate-zone-conditioned note** for Warner Robins. If pricing the illustrated assembly as an alternate or allowance, carry **2,322.0 SF**, subject to confirmation of full slab coverage, perimeter returns, and insulation thickness.

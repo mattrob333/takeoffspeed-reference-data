@@ -46,16 +46,16 @@ const norm = s => String(s || '').toUpperCase().replace(/[\s'"’”]+/g, '').re
 const key = it => `${norm(it.name)}|${norm(it.unit)}`
 
 function compare(a, b) {
-  // a, b: PAGE objects for the same page from two readers
-  const A = new Map((a?.items || []).map(it => [key(it), it]))
-  const B = new Map((b?.items || []).map(it => [key(it), it]))
+  // a, b: PAGE objects for the same page from two readers. Rows are matched as a
+  // multiset (a page can repeat one item name with different quantities).
+  const rest = [...(b?.items || [])]
   const agreed = [], disputed = []
-  for (const [k, it] of A) {
-    const o = B.get(k)
-    if (o && Math.abs(o.quantity - it.quantity) <= Math.max(0.051, Math.abs(it.quantity) * 0.0005)) agreed.push(it)
-    else disputed.push({ readerA: it, readerB: o || null })
+  for (const it of a?.items || []) {
+    const k = rest.findIndex(o => key(o) === key(it) && Math.abs(o.quantity - it.quantity) <= Math.max(0.051, Math.abs(it.quantity) * 0.0005))
+    if (k >= 0) { agreed.push(it); rest.splice(k, 1) }
+    else disputed.push({ readerA: it, readerB: rest.find(o => key(o) === key(it)) || null })
   }
-  for (const [k, it] of B) if (!A.has(k)) disputed.push({ readerA: null, readerB: it })
+  for (const o of rest) if (!disputed.some(d => d.readerB === o)) disputed.push({ readerA: null, readerB: o })
   return { agreed, disputed }
 }
 

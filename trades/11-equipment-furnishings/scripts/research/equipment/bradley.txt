@@ -1,0 +1,497 @@
+--- p1
+Accessories
+Faucets
+Showers
+Toilets
+Lavatories
+ADA Design Guide
+Washrooms & Showers
+interactive version available at bradleycorp.com/ADAguide.pdf
+
+--- p2
+2
+C L
+There are many dimensions to consider when designing an accessible bathroom stall. 
+Distances should allow for common usage by people with a limited range of motion. 
+Dimension guidelines when dispensers 
+protrude from the wall in toilet rooms and 
+toilet compartments.
+Anything that a person might need to reach 
+should be a maximum of 48" (1220 mm) off of 
+the finished floor.
+Toilet tissue needs to be easily within arm’s 
+reach. The outlet of a tissue dispenser must 
+be between 24" (610 mm) minimum and 
+42" (1070 mm) maximum from the back 
+wall, and per the ANSI standard, at least 
+18" above the finished floor. The ADA guide 
+defines “easily with arm’s reach” as being 
+within 7-9" (180–230 mm) from the front of 
+the bowl and at least 15" (380 mm) above 
+the finished floor (48" (1220 mm) maximum).
+Door latches or other operable parts cannot 
+require tight grasping, pinching, or twisting of 
+the wrist. They must  be operable with one 
+hand, using less than five pounds of pressure.
+Dimensions for grab bars.
+Grab Bars need to be mounted lower for 
+better leverage (33-36" (840–915 mm) high). 
+Horizontal side wall grab bars need to be 
+42" (1065 mm) minimum length.
+Vertical grab bars are not yet covered in the 
+ADA guidelines, however, ANSI specifies the 
+dimensions  shown in the diagram.
+A
+A
+B
+B
+36" max
+915 mm
+48" max
+1220 mm
+39"–41" max
+990-1040 mm
+33"–36" 
+840-915 mm
+24" min
+610 mm
+24" min
+610 mm
+12" min
+305 mm
+12" max
+305 mm
+42" max
+1070 mm
+54" max
+1370 mm
+42" min
+1065 mm
+18" min
+455 mm
+18" min
+455 mm
+7"–9"
+180–230 mm
+39"–41"
+990–1040 mm
+Accessible Stall Design
+
+--- p3
+3
+ADA Figure 609.3
+Dimensions for rear grab bar installation.
+Rear wall grab bars shall be 36" (915 mm) long, and 
+mounted so 24" (610 mm) are to the transfer side 
+of the toilet and the other 12" (305 mm) to the wall 
+side. The rear grab bar can be split or shifted to the 
+open side to accommodate the required location of 
+the flush control valves.
+Be sure to verify all accessibility guidelines with your local 
+codes, as they are often more strict than national codes.
+D
+Dimensions are shown for grab bars installed with protruding or recessed dispensers.
+Protruding (non-recessed) dispensers must be more than 12" (305 mm) above or  1½" (38 mm) below or at 
+the end of grab bars. ANSI allows recessed dispensers at the ends of the grab bar. Recessed dispensers are 
+allowed within the 12" (305 mm) space above and 1½" (38 mm) space below  and at the end of a grab bar, 
+for ADA the recessed dispenser must be flush. However, ANSI allows for ¼" (6 mm) projection in the allowed 
+area. For ADA and ANSI, nothing can be installed directly behind the grab bar.  
+C
+C
+Protruding dispensers
+(Side View)
+Recessed dispensers
+(Side View)
+Front View
+1½" max
+40 mm
+Grab Bar
+Grab Bar
+1½" max
+40 mm
+1½" min
+40 mm
+1½" min
+40 mm
+¼" max
+5 mm
+12" min
+305 mm
+12" min
+305 mm
+Recessed 
+Dispenser
+Recessed 
+Dispenser
+℄
+D
+12" min
+305 mm
+24" min
+610 mm
+36" min
+915 mm
+
+--- p4
+*
+Wheelchair Accessible
+Compartment Water Closet
+59" min
+1500 mm
+16"–18" *
+405–455 mm
+60" min
+1525 mm
+32" min
+815 mm
+4" min
+100 mm
+*	42" min 
+clearance 
+applies to 
+all doors
+60" min
+1525 mm
+42" min*
+1065 mm
+35"–37" min
+890–940 mm
+17"–19"
+430–485 mm
+Ambulatory 
+Compartment
+Stall Dimensions
+4
+Forward & Side Approaches for Unobstructed Reach
+48" max height
+(1220 mm)
+15" to 48"
+(380–1220 mm)
+to ensure 
+forward reach
+35" max (890 mm) to 
+bottom of reflective surface
+40" max  (1015 mm) allowed 
+over sinks and counters
+33" to 36"
+(840–915 mm)
+Dimensions change if mounted over counter or lavatory.
+Operable parts must be beneath maximum height.
+*	Advisory Specifications for Children 
+Ages 3 through 12
+Water Closet 
+Centerline
+Ages 3–4
+12"
+(305 mm)
+Ages 5–8
+12"–15"
+(305–380 mm)
+Ages 9–12
+15"–18"
+(380–455 mm)
+
+--- p5
+56" min
+1420 mm
+Door shall 
+not swing into 
+the required 
+minimum area of 
+the compartment
+Wheelchair Accessible Compartment 
+Door Openings –Alternate
+59" min
+1500 mm
+(Wall mounted W.C.) Adult
+Partition
+Partition
+(Floor mounted W.C.) Adult
+(Wall & Floor mounted W.C.) Children
+12"–18" Children
+305–455 mm
+16"–18" Adult
+405–455 mm
+60" min
+1525 mm
+6"
+150 mm
+6"
+150 mm
+9" min.
+230 mm
+12" min.
+305 mm
+Toe Clearance
+(Adult)
+Toe Clearance
+(Children)
+5
+48" max height
+(1220 mm)
+In order to create a safe environment for 
+visually impaired patrons, fixtures must 
+be detectable with a cane. The diagram 
+above highlights this requirement.
+ADA guidelines state that fixtures above 
+27" (685 mm) must not protrude from 
+the wall more than 4" (100 mm). A low 
+fixture such as a waste receptacle can 
+satisfy this requirement if it is detectable 
+below the protruding fixture (usually 
+hand dryers or towel dispensers).
+Keep in mind that it’s always important 
+to double check requirements with 
+local codes, as these supersede 
+Federal requirements.
+4" max
+100 mm
+Higher than 27"
+685 mm
+
+--- p6
+6
+Single Occupant Room
+Single occupant restroom design should allow for a patron to enter the 
+room and maneuver to all fixtures from a wheelchair. The diagram at left  shows how the ADA 
+required dimensions create an environment that is accessible to anyone. These requirements 
+may be change depending on  the specific application.
+Check your local codes to be sure.
+•	 Sinks must have 30" x 48" (760 x 1220 mm) of access. Measurement starts from the point where 
+a person has 9" vertical clearance for their feet and 27" vertical clearance for their knees.
+•	 For wheelchair accessibility, the center line of the toilet must be between 16"–18"
+(405–455 mm) from the wall. This distance ensures that grab bars can be effectively used to 
+maneuver one’s self as needed.
+•	 30" x 48" (760 x 1220 mm) of clear floor space is required in every restroom.
+When 30" x 48" (760 x 1220 mm) clear floor space is provided beyond the arc of the door 
+swing (shaded area to right of door opening), the door is permitted to swing into the clear 
+floor space or clearance required for any fixture.
+•	 A door may swing into a required wheelchair turning space. A door may not swing into a 
+required clear floor or ground space at a fixture. However, an exception is made in single 
+occupancy toilet rooms if another required clear floor or ground space is available that is 
+outside of the radius of the door swing (section 603.2.3). This allows the wheelchair user 
+adequate room to maneuver out of the path of the door.
+9"
+230 mm
+30" min
+760 mm
+17"–25" 
+430–635 mm
+6" max
+150 mm
+Toe Clearance
+A
+1
+1
+Be sure to verify all distances and heights with 
+your local codes to ensure compliance.
+
+--- p7
+7
+7'
+2 m
+60" min
+1525 mm
+30" min
+760 mm
+27" min
+685 mm
+25" 
+635 mm
+11" min
+280 mm
+9" min
+230 mm
+8" min
+205 mm
+60" min
+1525 mm
+42" min
+1065 mm
+16"–18" min
+405–455 mm
+Shaded Area:
+30"–48" min
+760–1220 mm
+Knee Clearance
+7' min
+2 m
+56" min
+1420 mm
+A
+1
+
+--- p8
+8
+Bradley
+Bradley Accessibility Solutions
+A
+A
+B
+B
+D
+D
+C
+C
+Frequency® Lavatory Systems
+Frequency® lavatory systems feature a 
+wave design that offers a unique solution 
+for meeting ADA needs and standard height 
+washing comfort. All Bradley Lavatory fixtures 
+are designed so that ADA toe and knee 
+clearance starts at the wall.
+Towel Dispenser/Waste Receptacles
+Combination towel dispenser / waste receptacles provide 
+practical use of space. To avoid a hazardous restroom,  install 
+towel dispensers next to the sink. This is more convenient for 
+people with disabilities as well. In order to meet the 4" (100 mm) 
+maximum limit for objects that protrude into  the circulation 
+path, consider recessed accessories.
+Capacitive Sensing faucets
+Bradley’s Capacitive Sensing Faucets 
+automatically activate water flow through 
+proximity sensing. Activation without 
+grasping, pinching, or applying more than 5 
+lb pressure is required by ADA Guidelines.
+Mirrors
+ADA compliance requires at least one mirror with the reflective 
+surface beginning no higher than 40" (1015 mm) off the ground. 
+Bradley recommends installing a full length mirror next to 
+the sink to satisfy this requirement. This is a more convenient 
+solution for people who use a wheelchair, and ensures 
+compliance with any state or local code.
+
+--- p9
+9
+E
+E
+G
+G
+F
+F
+H
+H
+ANSI requires 18" (455 mm) minimum vertical 
+grab bars in addition to the horizontal bars 
+required in accessible toilet or shower stalls.
+Showers
+ADA Compliance for showers requires a hand-held 
+shower head with 59" (1500 mm) hose that can be 
+used both as a fixed-position shower head and as a 
+hand-held shower. Shower controls must require less 
+than 5 lb of pressure with no grasping. Bradley offers 
+several options  for accessible showers.
+Shower seats
+Bradley offers a variety of shower seats for ADA 
+compliance, including bariatric models. Select
+anti-microbial models available.
+Grab Bars
+The ADA emphasizes grab bar installation 
+because they help the individual maintain 
+balance, transfer, and prevent falls. Bradley 
+offers grab bars in various lengths, styles and 
+finishes to fit any application.
+Toilet Tissue Dispensers
+To comply with ADA, toilet tissue dispensers 
+cannot control delivery or limit paper flow.
+
+--- p10
+10
+Accessibility Standards & Guides
+The two primary sources for accessibility information are:
+•	 The Americans with Disabilities Act (ADA) – Architectural Barriers Act (ABA) Accessibility Guidelines (ADAAG)
+•	 The American National Standards Institute (ICC/ANSI A117.1) 
+Many people use the term "ADA compliant" generically even if they mean compliant to a different accessibility guide or 
+code that applies to their specific building. ADA is a federal civil rights statute, not a building code. Though not enforced 
+by building code officials, failure to comply is enforced through legal action from the Department of Justice.
+Accessibility Guidelines
+Organization
+Applicable to
+UFAS
+Uniform Federal Accessibility Standards
+Certain governmental organizations
+http://www.access-board.gov/guidelines-and-standards/buildings-and-sites
+/about-the-aba-standards/ufas
+ADAAG
+Americans with Disabilities Act Accessibility Guide
+Private sector facilities and state and 
+local government facilities
+https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/
+about-the-ada-standards/background/adaag
+ANSI*
+American National Standards Institute A117.1
+Most state building codes
+http://www.access-board.gov/
+*	 The American National Standards Institute is a commercial standards setting organization.
+A copy of the guides can be purchased at the ICC website: http://shop.iccsafe.org/topics/accessibility.html
+State Codes
+Accessibility codes may be part of a state’s building codes or may be stand-alone codes developed by a separate state 
+agency or department. Most state building codes have adopted ANSI A117.1, ADAAG, or a modification of the Standard, as 
+the State Accessibility Code, thus making it enforceable. Always refer to your state’s building codes to ensure compliance: 
+http://www.access-board.gov/
+
+--- p11
+11
+Federal Organizations & Accessibility
+Organization
+Applicable to
+Applicable 
+Guidelines
+DOD
+Department of Defense
+Department of Defense installations
+UFAS
+http://www.access-board.gov/guidelines-and-standards/buildings-and-sites/
+about-the-aba-standards/aba-standards
+DOJ
+Department of Justice
+Public accommodation, Commercial or State and 
+Local Government facility installations except for 
+Transportation facilities
+DOJ or UFAS
+http://www.ada.gov/2010ADAstandards_index.htm
+DOT
+Department of Transportation
+Department of Transportation installations
+UFAS
+http://www.dot.gov/citizen_services/disability/disability.html
+USPS
+United States Postal Service
+Postal Facilities
+UFAS
+http://www.access-board.gov/guidelines-and-standards/buildings-and-sites/
+about-the-aba-standards/aba-standards
+HUD*
+Department of Housing and 
+Urban Development
+Residential Structures covered by the ABA, except 
+those funded by the DOD
+ABA 
+http://portal.hud.gov/hudportal/HUD?src=/program_offices/fair_housing_equal_opp/disabilities/accessibilityR
+GSA
+General Service  Administration
+Buildings subject to accessibility standards but not 
+other standard-setting organizations
+UFAS & ADA/ABA
+http://www.access-board.gov/guidelines-and-standards/buildings-and-sites/
+about-the-aba-standards/aba-standards
+*	 Fair Housing Act Design Standard
+
+--- p12
+Advocate Lavatory System
+All-in-One Touchless Handwashing Convenience
+While restrooms with separate areas for handwashing and drying certainly meet ADA, maintaining the 
+whole experience at one fixture is easier for anyone with impaired mobility. Imagine someone washing 
+their hands then wheeling over to the dryer or towel dispenser. Their hands will be dirty by the time they 
+reach the dryer and quite possibly have dripped all over their clothes, the chair or the floor before reaching 
+the drying area. A wet floor is a potential slip hazard. The Advocate Lavatory System is a unique all-in-one 
+handwashing and hand drying fixture with touchless activation of soap, water and dryer. The Advocate 
+provides all users with the convenience and safety of having all necessary components within easy reach.
+262 251 6000
+800 BRADLEY  bradleycorp.com
+ W142 N9101 Fountain Boulevard
+ Menomonee Falls, WI USA 53051
+3931-WEB-0815
+Bradley's ADA Design Guide is of an advisory nature only and based on our interpretation of the
+ADA (and ICC/ANSI A117.1) requirements for public restrooms. Please consult the national, state
+and local codes in your area.

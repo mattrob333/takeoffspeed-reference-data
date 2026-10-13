@@ -1,0 +1,205 @@
+[
+ {
+  "name": "WT-1 wall tile = sum of traced WT-1 field areas",
+  "formula": "tagArea",
+  "inputs": {
+   "areas_sf": {
+    "A-410 restrooms (both)": 120.7,
+    "A-703 service counter backsplash": 15.3,
+    "A-705 employee lounge backsplash": 8.2
+   }
+  },
+  "expected": {
+   "quantity": 144.19,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "235 / markup p16, p27, p32"
+ },
+ {
+  "name": "WT-2 wall tile = sum of traced WT-2 accent areas",
+  "formula": "tagArea",
+  "inputs": {
+   "areas_sf": {
+    "A-410 restrooms (both)": 43.8,
+    "A-703": 1.4,
+    "A-705": 1.6
+   }
+  },
+  "expected": {
+   "quantity": 46.72,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "236 / markup p16, p27, p32"
+ },
+ {
+  "name": "WT-3 transaction bar front tile field",
+  "formula": "bandArea",
+  "inputs": {
+   "walls_ft": [
+    10.3542
+   ],
+   "walls_printed": [
+    "10'-6 3/4\" (3/A-700 back elevation, face of wall to outside of waterfall edge) less 2 x 1 1/4\" SLD-1 returns (4/A-700) = 10'-4 1/4\""
+   ],
+   "height_ft": 3.7083,
+   "height_printed": "3'-8 1/2\"",
+   "openings": [],
+   "walls_check": "PDF vectors of 4/A-700 at 54 pt/ft: tile field 814.51 to 1374.19 pt = 10'-4 3/8\" (38.44 SF); the drawn overall is about 1/8\" longer than the printed 10'-6 3/4\""
+  },
+  "expected": {
+   "quantity": 38.42,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "237 / markup p23, A-700 details 3 and 4 (printed basis 38.40 SF, -0.06%)"
+ },
+ {
+  "name": "WT-9 wall tile = sum of traced WT-9 areas",
+  "formula": "tagArea",
+  "inputs": {
+   "areas_sf": {
+    "A-410 restrooms (both)": 50.6,
+    "A-703": 1.3,
+    "A-705": 1.3
+   }
+  },
+  "expected": {
+   "quantity": 53.22,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "238 / markup p16, p27, p32"
+ },
+ {
+  "name": "WC-1 weather vestibule north wall to ceiling",
+  "formula": "runTimesHeight",
+  "inputs": {
+   "run_lf": 10.1,
+   "height_ft": 12.0,
+   "height_basis": "WC1 @ 12'H; A-130 WEATHER VESTIBULE 12'-0\" A.F.F."
+  },
+  "expected": {
+   "quantity": 120.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.5,
+  "source": "239 / markup p08. Recomputes 121.2 SF (+1.00%, exactly on 1%); the estimator's 120.0 is a rounded 10 x 12 against the measured 10.1 LF, so the tolerance is 1.5% to stay clear of a floating-point boundary"
+ },
+ {
+  "name": "Assumed wallcovering over PT-7 wallcovering primer",
+  "formula": "runTimesHeight",
+  "inputs": {
+   "run_lf": 10.3,
+   "height_ft": 10.0,
+   "primerTag": "PT-7",
+   "assumed": true
+  },
+  "expected": {
+   "quantity": 103.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "240 / markup p08"
+ },
+ {
+  "name": "FRP-1 behind 24x24 corner mop sink",
+  "formula": "runTimesHeight",
+  "inputs": {
+   "run_lf": 4.0,
+   "run_basis": "2 walls x 2'-0\" at MSK-2424, BOTH SIDES",
+   "height_ft": 4.0,
+   "basis": "FRP PANEL @ MOP SINK, BOTH SIDES; MSK-2424; 48\" H"
+  },
+  "expected": {
+   "quantity": 16.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "241 / markup p08, A-410 det 1 & 3"
+ },
+ {
+  "name": "CROSS-CHECK restroom tile band, both rooms (WT-1+WT-2+WT-9 on A-410)",
+  "formula": "bandArea x roomRepeat",
+  "inputs": {
+   "walls_ft": [
+    7.5083,
+    7.675,
+    4.0056,
+    0.3333
+   ],
+   "walls_basis": "A-410 elevations B, C, D (D = 4'-0\" left of door + 4\" right of door frame), scaled from vectors at 1/2\"=1'-0\"",
+   "height_ft": 5.5,
+   "height_printed": "5'-6\"",
+   "openings": "door in D excluded from the wall list",
+   "roomRepeat": 2,
+   "repeat_basis": "NOTE: MENS INTERIOR ELEVATIONS ARE SIMILAR TO WOMENS"
+  },
+  "expected": {
+   "quantity": 215.1,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "235+236+238 restroom share / markup p16"
+ },
+ {
+  "name": "CROSS-CHECK A-703 service counter backsplash (WT-1+WT-2+WT-9)",
+  "formula": "bandArea",
+  "inputs": {
+   "walls_ft": [
+    6.75
+   ],
+   "walls_printed": [
+    "3'-4\" + 3'-4\" + 1\""
+   ],
+   "height_ft": 2.6667,
+   "height_printed": "32\""
+  },
+  "expected": {
+   "quantity": 18.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "markup p27 / A-703 detail 2"
+ },
+ {
+  "name": "CROSS-CHECK A-705 employee lounge backsplash (WT-1+WT-2+WT-9)",
+  "formula": "bandArea",
+  "inputs": {
+   "walls_ft": [
+    7.1667
+   ],
+   "walls_printed": [
+    "2'-4\" x 3 + 2\""
+   ],
+   "height_ft": 1.5417,
+   "height_printed": "1'-6 1/2\"",
+   "note": "microwave in front of the band not deducted"
+  },
+  "expected": {
+   "quantity": 11.1,
+   "unit": "SF"
+  },
+  "tolerancePct": 1.0,
+  "source": "markup p32 / A-705 detail 2"
+ },
+ {
+  "name": "CROSS-CHECK schedule mix fallback for the WT-1/2/9 blend",
+  "formula": "tagArea = blendArea x mixPct",
+  "inputs": {
+   "blend_sf": 244.13,
+   "mix": {
+    "WT-1": 0.6,
+    "WT-2": 0.2,
+    "WT-9": 0.2
+   }
+  },
+  "expected": {
+   "quantity": 146.48,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "A-170 FINISHES SCHEDULE MIX 60%/20%/20% (WT-1 shown; estimator 144.19 = +1.6%, WT-2 +4.5%, WT-9 -8.3%)"
+ }
+]

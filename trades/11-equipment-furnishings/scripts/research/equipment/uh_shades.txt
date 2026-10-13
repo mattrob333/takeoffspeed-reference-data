@@ -1,0 +1,378 @@
+University of Houston Master Specification 
+<Insert Project Name> 
+<Insert Issue Name> 
+<Insert U of H Proj #> 
+<Insert Issue Date> 
+<Insert A/E Name> 
+12 2413 Window Roller Shades: Manual 
+AE Project #: <Insert Project Number> 
+UH Master: 09.2023 
+SECTION 12 2413 - WINDOW ROLLER SHADES – MANUAL OPERATION 
+Maintain Section format, including the UH master spec designation and version date in bold in the center columns 
+of the header and footer.  Complete the header and footer with Project information.  
+Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may 
+have changed.  
+Delete hidden text after this Section has been edited for the Project. 
+PART 1 - GENERAL 
+1.1 
+SUMMARY 
+A.
+Section Includes:
+1.
+Roller shades, manual operation and accessories.
+2.
+Shade fabric.
+1.2 
+RELATED DOCUMENTS 
+A.
+Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+B.
+The Contractor's attention is specifically directed, but not limited, to the following documents for
+additional requirements:
+1.
+The current version of the Uniform General Conditions for Construction Contracts, State of Texas,
+available on the web site of the Texas Facilities Commission.
+2.
+The University of Houston’s Supplemental General Conditions and Special Conditions for
+Construction.
+1.3 
+ALLOWANCES 
+A.
+None.
+1.4 
+ACTION SUBMITTALS 
+A.
+Product Data: For each type of product.
+1.
+Include construction details, material descriptions, dimensions of individual components and
+profiles, features, finishes, and operating instructions for roller shades.
+B.
+Shop Drawings:
+1.
+Prepare shop drawings to include plans, elevations, sections, product details, installation details,
+operational clearances, and relationship to adjacent work.
+ 1
+
+University of Houston Master Specification 
+<Insert Project Name> 
+<Insert Issue Name> 
+<Insert U of H Proj #> 
+<Insert Issue Date> 
+<Insert A/E Name> 
+12 2413 Window Roller Shades: Manual 
+2 
+AE Project #: <Insert Project Number> 
+UH Master: 09.2023 
+ 
+2.
+Provide location plan showing all manual shade control locations. Cross-reference
+furniture plans for optimal positioning of chains.
+3.
+Provide elevations showing shade band layout. Indicate any necessary seam
+or batten locations, and align with horizontal mullions where possible.
+4.
+Submit all documents in electronic format.
+C.
+Samples for Selection and Verification: For each type of roller shade.
+1.
+Shade Fabric: Not less than 10 inches square. Mark interior face of material if applicable.
+2.
+Roller Shade: Full-size operating unit, not less than 16 inches wide by 36 inches long for each
+type of roller shade indicated.
+3.
+Installation Accessories: Full-size unit, not less than 10 inches long.
+D.
+Product Schedule: For roller shades.
+1.5 
+INFORMATIONAL SUBMITTALS 
+A.
+Qualification Data: For Installer.  Refer to Section 01 4000 "Quality Requirements.”
+B.
+Product Certificates: From manufacturer for each type of shade material.
+1.
+Submit Greenguard, Clean Air and Cradle to Cradle certifications.
+C.
+Product Test Reports: For each type of shade material, for tests performed by a qualified testing agency.
+1.6 
+MOCK-UP 
+A.
+Provide a mock-up of one roller shade assembly for evaluation of mounting, appearance and
+accessories.
+1.
+Locate mock-up in window designated by Architect.
+2.
+Mockup Size: Full size.
+3.
+Intent of mock-up is to demonstrate quality of workmanship and visual appearance.
+4.
+If mock-up is not acceptable, rebuild mock-up until satisfactory results are achieved.
+5.
+Do not proceed with remaining work until mock-up is accepted by Architect.
+6.
+Retain mock-up during construction as a standard for comparison with completed
+work.
+7.
+Do not alter or remove mock-up until work is completed or removal is authorized.
+8.
+Full-sized mock-up may become part of the final installation.
+1.7 
+STORAGE, AND HANDLING 
+A.
+Deliver roller shades in factory packages, marked with manufacturer, product name, and location of
+installation using same designations indicated on Drawings.
+
+University of Houston Master Specification 
+<Insert Project Name> 
+<Insert Issue Name> 
+<Insert U of H Proj #> 
+<Insert Issue Date> 
+<Insert A/E Name> 
+12 2413 Window Roller Shades: Manual 
+3 
+AE Project #: <Insert Project Number> 
+UH Master: 09.2023 
+ 
+1.8 
+FIELD CONDITIONS 
+A.
+Environmental Limitations: Do not install roller shades until construction and finish work in spaces,
+including painting, is complete and dry and ambient temperature and humidity conditions are
+maintained at the levels indicated for Project when occupied for its intended use.
+B.
+Field Measurements: Where roller shades are indicated to fit to other construction, verify dimensions of
+other construction by field measurements before fabrication and indicate measurements on Shop
+Drawings. Allow clearances for operating hardware of operable glazed units through entire operating
+range. Notify Architect and Owner of installation conditions that vary from Drawings. Coordinate
+fabrication schedule with construction progress to avoid delaying the Work.
+1.9 
+CLOSEOUT SUBMITTALS 
+A.
+Operation and Maintenance Data: For roller shades to include in Owner’s maintenance manuals.
+B.
+Maintenance Materials (Attic Stock): Furnish extra materials that match products installed and that are
+packaged with protective covering for storage and identified with labels describing contents.
+1.
+Roller Shades: Full-size units equal to 5 percent of quantity installed for each size, color, and
+shade material indicated, but no fewer than two (2) units.
+1.10 
+ WARRANTY 
+A.
+Roller Shade Hardware and Chain Warranty: Manufacturer's standard non-depreciating,
+transferrable warranty for interior shading.
+1.
+Shade Hardware: 25 years unless otherwise indicated.
+2.
+Shade Fabric: Manufacturer's standard 25-year warranty.
+3.
+Roller Shade Installation: One year from date of Substantial Completion, not including
+scaffolding, lifts or other means to reach inaccessible areas.
+PART 2 - PRODUCTS 
+2.1 
+SOURCE LIMITATIONS 
+A.
+Obtain roller shades from a single source from a single manufacturer.
+2.2 
+SINGLE-ROLLER SHADES 
+A.
+Manufacturers: Subject to compliance with requirements, provide products by one of the following:
+1.
+Draper, Inc.
+2.
+Hunter Douglas Architectural
+3.
+MechoShade Systems
+4.
+Springs Window Fashions (SWF Contract)
+
+University of Houston Master Specification 
+<Insert Project Name> 
+<Insert Issue Name> 
+<Insert U of H Proj #> 
+<Insert Issue Date> 
+<Insert A/E Name> 
+12 2413 Window Roller Shades: Manual 
+4 
+AE Project #: <Insert Project Number> 
+UH Master: 09.2023 
+ 
+B.
+Manual Operation: Chain-and-Clutch Operating Mechanisms with continuous-loop bead chain and
+clutch that stops shade movement when bead chain is released; permanently adjusted and lubricated.
+1.
+Bead Chains:  Stainless steel.
+a.
+Loop Length:  Full length of roller shade.
+b.
+Limit Stops: Provide upper and lower ball stops.
+c.
+Chain-Retainer Type:  Clip, jamb mount.
+2.
+Spring Lift-Assist Mechanisms: Manufacturer's standard for balancing roller shade weight and for
+lifting heavy roller shades.
+a.
+Provide for shades that weigh more than 10 lbs. or for shades as recommended by
+manufacturer, whichever criterion is more stringent.
+C.
+Rollers: Corrosion-resistant steel or extruded-aluminum tubes of diameters and wall thicknesses
+required to accommodate operating mechanisms and weights and widths of shades indicated without
+deflection. Provide with permanently lubricated drive-end assemblies and idle-end assemblies designed
+to facilitate removal of shades for service.
+1.
+Roller Drive-End Location:  Right side of interior face of shade.
+2.
+Direction of Shade Roll:  Regular, from back (exterior face) of roller.
+3.
+Shade-to-Roller Attachment:  Removable spline fitting into integral channel in tube.
+D.
+Mounting Hardware: Brackets or endcaps, corrosion resistant and compatible with roller assembly,
+operating mechanism, installation accessories, and mounting location and conditions indicated.
+E.
+Roller-Coupling Assemblies: Coordinated with operating mechanism and designed to join up to three
+inline rollers into a multiband shade that is operated by one roller drive-end assembly.
+F.
+Shades:
+1.
+Shade Fabric:  Light-filtering fabric, color as specified in “Shade Materials” below.
+2.
+Shade Bottom (Hem) Bar: Steel or extruded aluminum.
+a.
+Type:  Enclosed in sealed pocket of shade material.
+b.
+Color and Finish: Match fabric.
+G.
+Installation Accessories:
+1.
+Front Fascia: Aluminum extrusion that conceals front and underside of roller and operating
+mechanism and attaches to roller endcaps without exposed fasteners.
+a.
+Shape:  L-shaped.
+b.
+Height: Manufacturer's standard height required to conceal roller and shade assembly
+when shade is fully open, but not less than four inches.
+2.
+Endcap Covers: To cover exposed endcaps.
+
+University of Houston Master Specification 
+<Insert Project Name> 
+<Insert Issue Name> 
+<Insert U of H Proj #> 
+<Insert Issue Date> 
+<Insert A/E Name> 
+12 2413 Window Roller Shades: Manual 
+5 
+AE Project #: <Insert Project Number> 
+UH Master: 09.2023 
+ 
+2.3 
+SHADE MATERIALS 
+A.
+Shade Material Flame-Resistance Rating: Comply with NFPA 701. Testing by a qualified testing agency.
+Identify products with appropriate markings of applicable testing agency.
+B.
+Light-Filtering Fabric: Woven fabric, stain and fade resistant.
+1.
+Source:  Roller shade manufacturer.
+2.
+Type: PVC-Free.
+3.
+Weave:  Mesh.
+4.
+Roll Widths and Lengths: As required by window openings.  Refer to Drawings.
+5.
+Orientation on Shade:  Railroaded.
+6.
+Openness Factor:
+a.
+Five (5) percent open at north- and east-facing windows.
+b.
+Three (3) percent open at south- and west-facing windows.
+c.
+Use the lower openness factor in spaces that face in multiple directions.
+d.
+Color: Architect to select from manufacturers’ standard medium-to-dark grey fabrics.
+Approved colors (no substitutions):
+1)
+Draper: “Rain” or “Storm” or “Slate.”
+2)
+MechoShades: “Charcoal” or “Graphite.”
+3)
+Hunter Douglas Architectural: “Slate.”
+4)
+SWF Contract: “Charcoal/Grey” or Ebony/Slate” or “Obsidian” or “Shadow/Ebony”
+or “Slate” or “Steel Grey.”
+2.4 
+ROLLER SHADE FABRICATION 
+A.
+Product Safety Standard: Fabricate roller shades to comply with WCMA A 100.1, including requirements
+for flexible, chain-loop devices; lead content of components; and warning labels.
+B.
+Unit Sizes: Fabricate units in sizes to fill window and other openings as follows, measured at 74 deg F:
+1.
+Between (Inside) Jamb Installation:
+a.
+Width equal to jamb-to-jamb dimension of opening in which shade is installed less 1/4
+inch per side or 1/2-inch total, plus or minus 1/8 inch.
+b.
+Length equal to head-to-sill or -floor dimension of opening in which shade is installed less
+1/4 inch, plus or minus 1/8 inch.
+C.
+Shade Fabrication: Fabricate shades without battens or seams to extent possible, except as follows:
+1.
+Vertical Shades: Where width-to-length ratio of shade is equal to or greater than 1:4, provide
+battens and seams at uniform spacings along shade length to ensure shade tracking and
+alignment through its full range of movement without distortion of the material.
+2.
+Railroaded Materials: Railroad material where material roll width is less than the required width
+of shade and where indicated. Provide battens and seams as required by railroaded material to
+produce shades with full roll-width panel(s) plus, if required, one partial roll-width panel located
+at top of shade.
+
+University of Houston Master Specification 
+<Insert Project Name> 
+<Insert Issue Name> 
+<Insert U of H Proj #> 
+<Insert Issue Date> 
+<Insert A/E Name> 
+12 2413 Window Roller Shades: Manual 
+6 
+AE Project #: <Insert Project Number> 
+UH Master: 09.2023 
+ 
+PART 3 - EXECUTION 
+3.1 
+EXAMINATION 
+A.
+Examine substrates, areas, and conditions, with Installer present, for compliance with requirements for
+installation tolerances, operational clearances, and other conditions affecting performance of the Work.
+B.
+Proceed with installation only after unsatisfactory conditions have been corrected.
+3.2 
+ROLLER SHADE INSTALLATION 
+A.
+Install roller shades level, plumb, and aligned with adjacent units according to manufacturer's written
+instructions.
+1.
+Shades: Located so shade is not closer than 2 inches to interior face of glass. Allow clearances for
+window operation hardware.
+B.
+Roller Shade Locations:  As indicated on Drawings.
+3.3 
+ADJUSTING 
+A.
+Adjust and balance roller shades to operate smoothly, easily, safely, and free from binding or
+malfunction throughout entire operational range.
+3.4 
+CLEANING AND PROTECTION 
+A.
+Clean roller shade surfaces after installation according to manufacturer's written instructions.
+B.
+Protect installed products and maintain conditions, in a manner acceptable to manufacturer and
+installer, to ensure that roller shades are without damage or deterioration at time of Substantial
+Completion.
+C.
+Clean soiled shades and exposed components as recommended by manufacturer.
+D.
+Replace damaged roller shades that cannot be cleaned or repaired in a manner approved by Architect
+before time of Substantial Completion.
+END OF SECTION 12 2413 

@@ -1,0 +1,372 @@
+## Basis and labels
+
+- **[C]** = estimating convention, including waste allowances; not a manufacturer/FM requirement.
+- **[S: name]** = input controlled by the named source and the selected roof assembly.
+- Dimensions below are **feet**, areas **SF**, unless marked otherwise. Round purchased rolls, boards, bars, containers, and accessories up to whole units.
+- Apply waste **once**, after including required laps and flashing material. Take off different thicknesses, widths, colors, and products separately.
+
+## 1. TPO membrane SF, including laps and flashings
+
+The most reliable cut-sheet takeoff is:
+
+\[
+A_{\text{field,cut}}=\sum_p(\text{cut width}_p)(\text{cut length}_p)
+\]
+
+Cut dimensions include the specified side laps and end laps.
+
+For a rectangular roof section \(R\times D\), with \(n\) sheet courses and \(m\) segments per course:
+
+\[
+A_{\text{field,cut}}
+=
+[R+(n-1)o_s]\,[D+(m-1)o_e]
+\]
+
+where \(o_s,o_e\) are side- and end-lap widths. This includes overlap intersections.
+
+Separate flashing strips:
+
+\[
+A_{\text{flashing}}
+=
+\sum_i d_i(L_i+J_i o_i)+\sum A_{\text{patches}}
+\]
+
+- \(d_i\): developed flashing width—vertical height plus required horizontal legs, turn-ins, and allowances.
+- \(L_i\): installed flashing length.
+- \(J_i\): number of flashing-strip joints.
+- \(o_i\): overlap at each joint.
+- Count continuous field-sheet turn-ups **either in the field cut sheet or as flashing, not both**.
+
+\[
+\boxed{A_{\text{membrane,order}}
+=(A_{\text{field,cut}}+A_{\text{flashing}})(1+w_m)}
+\]
+
+**Laps, flashing dimensions, and patches:** **[S: selected manufacturer’s details, e.g., Carlisle Sure-Weld TPO installation instructions/details].**  
+**Small penetrations:** commonly not deducted from field area **[C]**.
+
+## 2. Membrane rolls
+
+Nominal roll areas:
+
+\[
+10'\times100'=1{,}000\ \text{SF}
+\]
+
+\[
+12'4''\times100'=\frac{37}{3}\times100
+=1{,}233\tfrac13\ \text{SF}
+\]
+
+Area-based purchase allowances:
+
+\[
+\boxed{N_{10}=\left\lceil\frac{A_{\text{membrane,order}}}{1{,}000}\right\rceil}
+\]
+
+\[
+\boxed{N_{12'4''}=\left\lceil
+\frac{A_{\text{membrane,order}}}{1{,}233\tfrac13}
+\right\rceil}
+\]
+
+**[C]** These are area-based counts; final counts require a roll-cutting layout because remnants may not furnish the required sheet lengths or flashing widths.
+
+For preliminary rectangular course layout using roll width \(b\):
+
+\[
+n=\max\!\left(1,\left\lceil\frac{R-o_s}{b-o_s}\right\rceil\right)
+\]
+
+\[
+m=\max\!\left(1,\left\lceil\frac{D-o_e}{100-o_e}\right\rceil\right)
+\]
+
+Do **not** deduct lap coverage from nominal roll area again when laps are already included in membrane-order SF.
+
+## 3. Polyiso insulation: 4 × 8 boards per layer
+
+For each layer \(\ell\):
+
+\[
+\boxed{N_{\ell}
+=\left\lceil\frac{A_{\ell}(1+w_{\ell})}{32}\right\rceil}
+\]
+
+\[
+N_{\text{total}}=\sum_{\ell}N_{\ell}
+\]
+
+Count separately by thickness, layer, and product. Staggering does not itself add another layer; associated cutting is included in waste **[C]**. Final board layout governs.
+
+## 4. Fasteners and plates by FM zone
+
+Use **nonoverlapping** field, perimeter, and corner areas:
+
+\[
+A_F+A_P+A_C=A_{\text{roof}}
+\]
+
+**Zone geometry and fastening requirements:** **[S: FM Property Loss Prevention Data Sheet 1-29 and the applicable FM RoofNav-approved assembly/project attachment schedule].**
+
+### Insulation/cover-board attachment
+
+For zone \(z\in\{F,P,C\}\):
+
+\[
+\boxed{F_{\text{ins},z}=\sum_k\sum_j B_{k,z,j}\,p_{k,z,j}}
+\]
+
+- \(k\): each independently required fastening pass.
+- \(B_{k,z,j}\): **installed** boards/pieces receiving pattern \(j\), not purchased boards including waste.
+- \(p_{k,z,j}\): specified fasteners per board/piece.
+
+Where one plate is required per fastener:
+
+\[
+P_{\text{ins},z}=F_{\text{ins},z}
+\]
+
+If an approved schedule instead specifies fastener density \(\rho_z\), preliminary counts are:
+
+\[
+F_{\text{ins},z}\approx\left\lceil A_z\rho_z\right\rceil
+\]
+
+Final counts follow the required board/row layout. Do not multiply by insulation-layer count when a single fastening pass secures the complete stack.
+
+### Mechanically attached membrane
+
+For each attachment row segment \(r\), length \(L_{r,z}\), spacing \(s_{r,z}\) in inches:
+
+\[
+\boxed{F_{\text{mem},z}
+=\sum_r\left[
+\left\lceil\frac{12L_{r,z}}{s_{r,z}}\right\rceil+1
+\right]}
+\]
+
+This expression assumes anchors at both segment ends; count shared end anchors once and follow specified end offsets.
+
+\[
+P_{\text{mem},z}=F_{\text{mem},z}
+\]
+
+when the specified system uses one plate per fastener. Include additional boundary/detail rows required by the assembly. Fully adhered membrane has no membrane field-attachment rows, but may have separate perimeter/detail securement.
+
+\[
+F_{\text{order}}
+=\left\lceil
+\left[\sum_z(F_{\text{ins},z}+F_{\text{mem},z})+F_{\text{details}}\right]
+(1+w_f)
+\right\rceil
+\]
+
+Calculate plates similarly, excluding fasteners that do not use plates.
+
+**There is no universal FM field/perimeter/corner fastener count or multiplier.**
+
+## 5. Membrane bonding adhesive gallons
+
+If published coverage \(C_{\text{finished}}\) is **SF of completed bonded roof per gallon**, including all required coated faces:
+
+\[
+\boxed{G=\frac{A_{\text{bonded}}}{C_{\text{finished}}}(1+w_a)}
+\]
+
+If published coverage \(C_{\text{face}}\) is **SF per gallon per coated face**:
+
+\[
+\boxed{G=
+\frac{\sum A_{\text{coated faces}}}{C_{\text{face}}}(1+w_a)}
+\]
+
+For equal coverage on two faces, the numerator is \(2A_{\text{bonded}}\). Do not double it when the published coverage already represents finished bonded area.
+
+\[
+N_{\text{containers}}=\left\lceil\frac{G}{G_{\text{container}}}\right\rceil
+\]
+
+Calculate field membrane and flashings separately if products or coverage differ.
+
+**Coverage and number of coated faces:** **[S: selected adhesive product data sheet, e.g., Carlisle Sure-Weld Bonding Adhesive product data].**
+
+## 6. Seam tape and cover strip LF
+
+**Ordinary heat-welded TPO seams:**
+
+\[
+\boxed{L_{\text{seam tape}}=0}
+\]
+
+unless the specified system/detail expressly requires tape.
+
+For specified cover-strip or tape runs:
+
+\[
+\boxed{L_{\text{order}}
+=\left(\sum L_{\text{installed runs}}+\sum J_i o_i\right)(1+w_s)}
+\]
+
+\[
+N_{\text{rolls}}=\left\lceil\frac{L_{\text{order}}}{L_{\text{roll}}}\right\rceil
+\]
+
+Take off each width/product separately; count discrete patches separately.  
+**Required locations, widths, and overlaps:** **[S: selected TPO manufacturer’s details].**
+
+## 7. Termination bar LF
+
+\[
+\boxed{L_{\text{bar,order}}=\sum L_{\text{actual bar locations}}(1+w_b)}
+\]
+
+\[
+N_{\text{bars}}\approx
+\left\lceil\frac{L_{\text{bar,order}}}{L_{\text{stock bar}}}\right\rceil
+\]
+
+Final count follows the cut schedule. Do not equate all roof perimeter LF with termination-bar LF.
+
+For termination-bar fasteners, use the row-count formula above with the specified spacing and endpoint rules; these generally do not consume roof insulation plates.
+
+**Locations and spacing:** **[S: selected manufacturer’s termination details/project details].**
+
+## 8. Pipe boots, drains, and walkway pads
+
+### Pipe boots
+
+\[
+\boxed{N_{\text{boots},d}
+=\text{count of penetrations requiring boot type/size }d}
+\]
+
+Separate standard, split/retrofit, and field-fabricated flashing conditions.
+
+### Drains
+
+\[
+\boxed{N_{\text{primary}}=\text{scheduled primary drain locations}}
+\]
+
+\[
+\boxed{N_{\text{overflow}}=\text{scheduled overflow drain locations}}
+\]
+
+Separate new drains, retrofit inserts, and existing drains requiring flashing only. Count accessory components separately only when not included in the drain assembly.
+
+### Walkway pads
+
+Area-based allowance:
+
+\[
+\boxed{N_{\text{pads}}\approx
+\left\lceil\frac{A_{\text{actual pad coverage}}(1+w_w)}
+{A_{\text{one pad}}}\right\rceil}
+\]
+
+Exclude intentional gaps from actual pad coverage. Final count follows the pad layout.
+
+For roll walkway:
+
+\[
+L_{\text{walkway,order}}=\sum L_{\text{strip runs}}(1+w_w)
+\]
+
+**Locations/counts:** project drawings. **Accessory compatibility and walkway gaps:** **[S: selected TPO manufacturer’s details].**
+
+## 9. Cover board
+
+For board area \(a_c\):
+
+\[
+\boxed{N_{\text{cover},\ell}
+=\left\lceil\frac{A_{\text{cover},\ell}(1+w_c)}{a_c}\right\rceil}
+\]
+
+For 4 × 8 boards, \(a_c=32\) SF. Count each layer separately; include its attachment in Section 4 without duplicating shared fastening passes.
+
+## 10. Tapered insulation crickets: SF, volume, board-feet
+
+### Footprint SF
+
+\[
+A_{\text{rectangle}}=LW
+\qquad
+A_{\text{triangle}}=\frac{bh}{2}
+\qquad
+A_{\text{diamond}}=\frac{d_1d_2}{2}
+\]
+
+Split irregular crickets into triangles or rectangles.
+
+### Thickness from slope
+
+Let \(q\) be taper in **inches per foot**, and \(R\) the horizontal run in that taper direction:
+
+\[
+\boxed{\Delta t_{\text{in}}=qR}
+\]
+
+For thickness-gradient slope \(s\) in ft/ft:
+
+\[
+\Delta t_{\text{in}}=12sR
+\]
+
+Use the insulation’s thickness gradient relative to its substrate—not automatically the finished roof’s absolute slope.
+
+### Exact volume using planar triangular facets
+
+For each triangular facet \(j\), with vertex thicknesses \(t_1,t_2,t_3\) in inches:
+
+\[
+\bar t_j=\frac{t_1+t_2+t_3}{3}
+\]
+
+\[
+\boxed{V_{\text{ft}^3}=\sum_j\frac{A_j\bar t_j}{12}}
+\]
+
+\[
+\boxed{BF=\sum_j A_j\bar t_j=12V_{\text{ft}^3}}
+\]
+
+Useful special cases:
+
+- Rectangular wedge from \(t_0\) to \(t_0+\Delta t\):
+  \[
+  \bar t=t_0+\frac{\Delta t}{2}
+  \]
+- Triangular facet with one high vertex and two vertices at \(t_0\):
+  \[
+  \bar t=t_0+\frac{\Delta t}{3}
+  \]
+
+\[
+A_{\text{taper,allowance}}=A_{\text{footprint}}(1+w_t)
+\qquad
+BF_{\text{allowance}}=BF(1+w_t)
+\]
+
+Do not include uniform base layers already counted elsewhere. Final tapered-panel quantities must be counted by taper designation, thickness, and fill layer from the shop layout—not inferred from volume alone **[C]**.
+
+## Typical estimating waste allowances
+
+**All percentages below are [C], not requirements from the named sources.**
+
+| Quantity | Typical waste allowance |
+|---|---:|
+| TPO membrane, after explicit laps/flashings | 5–10% simple; 10–15% cut-up/congested |
+| Flat polyiso, each layer | 3–5% simple; 5–10% cut-up |
+| Fasteners and plates | 3–5% |
+| Bonding adhesive | 5–10%, beyond stated coverage consumption |
+| Specified seam tape/cover strip | 5–10%, after explicit splices |
+| Termination bar | 3–5% simple; 5–10% numerous short runs |
+| Pipe boots | 0%; add explicitly requested spares |
+| Drains | 0%; count scheduled units |
+| Walkway pads/roll walkway | 5–10% for cutting; whole-pad layouts may need 0% |
+| Cover board | 3–5% simple; 5–10% cut-up |
+| Tapered cricket material | 5–10% simple; 10–15% complex; reconcile with panel layout |

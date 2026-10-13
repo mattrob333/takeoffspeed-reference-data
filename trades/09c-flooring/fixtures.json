@@ -1,0 +1,291 @@
+[
+ {
+  "name": "CON-1 sealed concrete = CON-1 polygon area",
+  "formula": "tagArea",
+  "inputs": {
+   "areas_sf": {
+    "ELEC./I.T. 106 (net of MAT-1, to door centreline)": 68.8
+   }
+  },
+  "expected": {
+   "quantity": 68.78,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "217 / markup p08"
+ },
+ {
+  "name": "CR-1 carpet tile = \u03a3 CR-1 field polygons net of insets",
+  "formula": "tagArea",
+  "inputs": {
+   "areas_sf": {
+    "MEETING ROOM 105 + RELAXED SEATING 102 field": 131.4
+   }
+  },
+  "expected": {
+   "quantity": 131.36,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "218 / markup p08"
+ },
+ {
+  "name": "CR-2 carpet tile = \u03a3 CR-2 polygons",
+  "formula": "tagArea",
+  "inputs": {
+   "areas_sf": {
+    "PHONE 114 + WORK 111 + TRANSACTION BAR 108 + BOOTH 104 + insets 105/102": 435.7
+   }
+  },
+  "expected": {
+   "quantity": 435.67,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "219 / markup p08"
+ },
+ {
+  "name": "CR-3 carpet tile = CR-3 inset polygon",
+  "formula": "tagArea",
+  "inputs": {
+   "areas_sf": {
+    "RELAXED SEATING 102 inner inset": 27.1
+   }
+  },
+  "expected": {
+   "quantity": 27.08,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "220 / markup p08"
+ },
+ {
+  "name": "CR-4 walk-off = WEATHER VESTIBULE 100 polygon",
+  "formula": "tagArea",
+  "inputs": {
+   "areas_sf": {
+    "WEATHER VESTIBULE 100": 82.4
+   }
+  },
+  "expected": {
+   "quantity": 82.42,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "221 / markup p08"
+ },
+ {
+  "name": "FT-1 floor tile = \u03a3 FT-1 polygons",
+  "formula": "tagArea",
+  "inputs": {
+   "areas_sf": {
+    "all FT-1 rooms": 946.1
+   }
+  },
+  "expected": {
+   "quantity": 946.11,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "222 / markup p08"
+ },
+ {
+  "name": "LVT-1 = GATHERING AREA 103 rectangle",
+  "formula": "rectArea",
+  "inputs": {
+   "rooms_ft": [
+    [
+     9.739,
+     9.622
+    ]
+   ],
+   "rooms_printed": [
+    "scaled 9.74 x 9.62 ft (A-150 vector hatch extents)"
+   ]
+  },
+  "expected": {
+   "quantity": 93.95,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "223 / markup p08, A-150"
+ },
+ {
+  "name": "GR-1 grout area = ceil50(1.10 x FT-1 SF)",
+  "formula": "groutAreaRoundUp",
+  "inputs": {
+   "tile_sf": {
+    "FT-1": 946.11
+   },
+   "allowancePct": 10,
+   "roundUpTo_sf": 50
+  },
+  "expected": {
+   "quantity": 1050.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "225 / A-170, line 222"
+ },
+ {
+  "name": "GR-3 grout area = ceil50(1.10 x restroom/backsplash wall tile SF)",
+  "formula": "groutAreaRoundUp",
+  "inputs": {
+   "tile_sf": {
+    "WT-1": 144.19,
+    "WT-2": 46.72,
+    "WT-9": 53.22
+   },
+   "allowancePct": 10,
+   "roundUpTo_sf": 50
+  },
+  "expected": {
+   "quantity": 300.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "226 / A-170, lines 235, 236, 238"
+ },
+ {
+  "name": "WB-1 rubber base = \u03a3 traced wall runs",
+  "formula": "tracedRun",
+  "inputs": {
+   "runs_lf": {
+    "all rooms, A-150": 404.7
+   }
+  },
+  "expected": {
+   "quantity": 404.72,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "227 / markup p08"
+ },
+ {
+  "name": "WT-8 bullnose base = \u03a3 traced runs on elevation A (two side walls)",
+  "formula": "tracedRun",
+  "inputs": {
+   "runs_lf": {
+    "Women's east wall, no door (elevation A full width 7'-3 1/2\")": 7.292,
+    "Men's west wall net of Janitor door 115 (3.67 + 0.22)": 3.89
+   }
+  },
+  "expected": {
+   "quantity": 11.28,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "228 / markup p16, A-410 elevation 10 and plan 6"
+ },
+ {
+  "name": "FTS-1 = \u03a3 carpet-to-tile boundary LF",
+  "formula": "tracedRun",
+  "inputs": {
+   "runs_lf": {
+    "all carpet/tile interfaces, A-150": 51.6
+   }
+  },
+  "expected": {
+   "quantity": 51.63,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "229 / markup p08"
+ },
+ {
+  "name": "FTS-2 = open perimeter of the LVT-1 area",
+  "formula": "boundaryRun",
+  "inputs": {
+   "sides_ft": [
+    9.622,
+    9.739,
+    9.622
+   ],
+   "basis": "west, south, east edges of GATHERING AREA 103; north edge is the wall"
+  },
+  "expected": {
+   "quantity": 28.99,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "230 / markup p08, A-150"
+ },
+ {
+  "name": "FTS-3 = \u03a3 threshold openings",
+  "formula": "tracedRun",
+  "inputs": {
+   "runs_lf": {
+    "ELEC./I.T. 106 clear opening (A-150 vector, = A-600 3'-0\")": 3.0,
+    "EMPLOYEE LOUNGE 110 exterior storefront opening (F004)": 3.17,
+    "WEATHER VESTIBULE 100 exterior pair opening (F004)": 6.08
+   }
+  },
+  "expected": {
+   "quantity": 12.24,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "231 / markup p08, A-150 vectors, A-600"
+ },
+ {
+  "name": "FTS-4 = perimeter of MAT-1",
+  "formula": "perimeter",
+  "inputs": {
+   "rect_ft": [
+    2.0,
+    3.0
+   ],
+   "basis": "MAT-1 as drawn on A-150 (2'-0\" x 3'-0\")"
+  },
+  "expected": {
+   "quantity": 10.02,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.5,
+  "source": "232 / markup p08, A-150"
+ },
+ {
+  "name": "Schluter cove trim = all four walls of both restrooms net of doors 112, 113, 115",
+  "formula": "tracedRun",
+  "inputs": {
+   "runs_lf": {
+    "Men's north (C)": 7.667,
+    "Men's east partition (B)": 7.677,
+    "Men's south net of door 113 (D)": 4.667,
+    "Men's west net of Janitor door 115 (A)": 4.677,
+    "Women's north (C)": 7.531,
+    "Women's west partition (B)": 7.677,
+    "Women's south net of door 112 (D)": 4.531,
+    "Women's east, no door (A similar)": 7.677
+   }
+  },
+  "expected": {
+   "quantity": 51.87,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "233 / markup p16, A-410 plan 6 dimensions"
+ },
+ {
+  "name": "Schluter top trim = \u03a3 band walls B + C + D net of door, both restrooms",
+  "formula": "bandTopEdge",
+  "inputs": {
+   "walls_ft": [
+    7.667,
+    7.677,
+    4.667,
+    7.531,
+    7.677,
+    4.531
+   ],
+   "rooms": 1,
+   "basis": "A-410 plan dims: Men's C 7'-8\", B 7'-8 1/8\", D 7'-8\" - 3'-0\" door; Women's C 7'-6 3/8\", B 7'-8 1/8\", D 7'-6 3/8\" - 3'-0\" door"
+  },
+  "expected": {
+   "quantity": 39.55,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "234 / markup p16, A-410 plan 6 dimensions"
+ }
+]

@@ -1,0 +1,495 @@
+[
+ {
+  "name": "KN1 curb & gutter removal",
+  "assembly": "demolition.curb",
+  "formula": "lf = sum(run_i)",
+  "inputs": {
+   "runs": [
+    {
+     "value": 987.2,
+     "unit": "LF"
+    }
+   ],
+   "curbType": "CURB & GUTTER",
+   "keynote": "1"
+  },
+  "engineInputs": {
+   "runs": "987.2 LF",
+   "curbType": "CURB & GUTTER",
+   "keynote": "1"
+  },
+  "expected": {
+   "quantity": 987.2,
+   "unit": "LF"
+  },
+  "expectedLines": [
+   {
+    "line": 2,
+    "key": "curb:CURB & GUTTER",
+    "quantity": 987.2,
+    "unit": "LF",
+    "tolerancePct": 0.5,
+    "estimatorQty": 987.22
+   }
+  ],
+  "tolerancePct": 0.5,
+  "source": "line 2 / markup p64 (C-1.0)",
+  "estimatorQty": 987.22
+ },
+ {
+  "name": "KN2 two-storey building removal volume",
+  "assembly": "demolition.building",
+  "formula": "cf = round(footprint_sf * stories * story_height_ft, -1)",
+  "inputs": {
+   "keynote": "2",
+   "footprintAreas": [
+    {
+     "value": 4489.1,
+     "unit": "SF"
+    }
+   ],
+   "stories": {
+    "value": 2,
+    "unit": "EA"
+   },
+   "storyHeight": {
+    "value": 10,
+    "unit": "FT",
+    "basis": "estimator convention, no height on plans"
+   },
+   "rounding": "nearest 10 CF"
+  },
+  "engineInputs": {
+   "keynote": "2",
+   "footprintAreas": "4489.1 SF",
+   "stories": "2",
+   "storyHeight": "10'"
+  },
+  "expected": {
+   "quantity": 89780,
+   "unit": "CF"
+  },
+  "expectedLines": [
+   {
+    "line": 3,
+    "key": "building:2:44891/10:20",
+    "quantity": 89780,
+    "unit": "CF",
+    "tolerancePct": 0.1,
+    "estimatorQty": 89780.0
+   }
+  ],
+  "tolerancePct": 0.1,
+  "source": "line 3 / markup p64 (C-1.0)",
+  "estimatorQty": 89780.0
+ },
+ {
+  "name": "KN2 one-storey building removal volume",
+  "assembly": "demolition.building",
+  "formula": "cf = round(footprint_sf * stories * story_height_ft, -1)",
+  "inputs": {
+   "keynote": "2",
+   "footprintAreas": [
+    {
+     "value": 1713.7,
+     "unit": "SF"
+    }
+   ],
+   "stories": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "storyHeight": {
+    "value": 10,
+    "unit": "FT",
+    "basis": "estimator convention"
+   },
+   "rounding": "nearest 10 CF"
+  },
+  "engineInputs": {
+   "keynote": "2",
+   "footprintAreas": "1713.7 SF",
+   "stories": "1",
+   "storyHeight": "10'"
+  },
+  "expected": {
+   "quantity": 17140,
+   "unit": "CF"
+  },
+  "expectedLines": [
+   {
+    "line": 4,
+    "key": "building:1:17137/10:10",
+    "quantity": 17140,
+    "unit": "CF",
+    "tolerancePct": 0.1,
+    "estimatorQty": 17140.0
+   }
+  ],
+  "tolerancePct": 0.1,
+  "source": "line 4 / markup p64 (C-1.0)",
+  "estimatorQty": 17140.0
+ },
+ {
+  "name": "KN9 sidewalk removal",
+  "assembly": "demolition.pavement",
+  "formula": "sf = sum(area_i)",
+  "inputs": {
+   "areas": [
+    {
+     "value": 390.2,
+     "unit": "SF"
+    }
+   ],
+   "description": "SIDEWALK",
+   "keynote": "9"
+  },
+  "engineInputs": {
+   "areas": "390.2 SF",
+   "description": "SIDEWALK",
+   "keynote": "9"
+  },
+  "expected": {
+   "quantity": 390.2,
+   "unit": "SF"
+  },
+  "expectedLines": [
+   {
+    "line": 5,
+    "key": "remove:SIDEWALK",
+    "quantity": 390.2,
+    "unit": "SF",
+    "tolerancePct": 0.5,
+    "estimatorQty": 390.17
+   }
+  ],
+  "tolerancePct": 0.5,
+  "source": "line 5 / markup p64 (C-1.0)",
+  "estimatorQty": 390.17
+ },
+ {
+  "name": "KN10 monument sign removal",
+  "assembly": "demolition.feature",
+  "formula": "ea = count(tag 10)",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA"
+   },
+   "feature": "MONUMENT SIGN",
+   "keynote": "10"
+  },
+  "engineInputs": {
+   "count": "1",
+   "feature": "MONUMENT SIGN",
+   "keynote": "10"
+  },
+  "expected": {
+   "quantity": 1,
+   "unit": "EA"
+  },
+  "expectedLines": [
+   {
+    "line": 6,
+    "key": "feature:MONUMENT SIGN:",
+    "quantity": 1,
+    "unit": "EA",
+    "tolerancePct": 0,
+    "estimatorQty": 1.0
+   }
+  ],
+  "tolerancePct": 0,
+  "source": "line 6 / markup p64 (C-1.0)",
+  "estimatorQty": 1.0
+ },
+ {
+  "name": "KN11 concrete ramp removal + brick stair steps",
+  "assembly": "demolition.pavement",
+  "formula": "sf = sum(area_i); ea = count(drawn step lines)",
+  "inputs": {
+   "areas": [
+    {
+     "value": 442.4,
+     "unit": "SF"
+    }
+   ],
+   "description": "CONCRETE RAMP",
+   "keynote": "11",
+   "stairSteps": {
+    "value": 7,
+    "unit": "EA",
+    "basis": "7 drawn step lines from the top landing edge (y=953.4 pt) down to the walk edge (y=973.4 pt) on C-1.0"
+   }
+  },
+  "engineInputs": {
+   "areas": "442.4 SF",
+   "description": "CONCRETE RAMP",
+   "keynote": "11",
+   "stairSteps": "7"
+  },
+  "expected": {
+   "quantity": 442.4,
+   "unit": "SF"
+  },
+  "expectedLines": [
+   {
+    "line": 7,
+    "key": "remove:CONCRETE RAMP",
+    "quantity": 442.4,
+    "unit": "SF",
+    "tolerancePct": 0.5,
+    "estimatorQty": 442.37
+   },
+   {
+    "line": 8,
+    "key": "remove:stair-steps",
+    "quantity": 7,
+    "unit": "EA",
+    "tolerancePct": 0,
+    "estimatorQty": 7.0
+   }
+  ],
+  "tolerancePct": 0.5,
+  "source": "lines 7 and 8 / markup p64 (C-1.0)",
+  "estimatorQty": 442.37
+ },
+ {
+  "name": "KN7 asphalt pavement removal incl. striping",
+  "assembly": "demolition.pavement",
+  "formula": "sf = sum(area_i)",
+  "inputs": {
+   "areas": [
+    {
+     "value": 19363.6,
+     "unit": "SF"
+    }
+   ],
+   "description": "PAVEMENT",
+   "incidentals": "PAVEMENT STRIPING",
+   "keynote": "7"
+  },
+  "engineInputs": {
+   "areas": "19363.6 SF",
+   "description": "PAVEMENT",
+   "incidentals": "PAVEMENT STRIPING",
+   "keynote": "7"
+  },
+  "expected": {
+   "quantity": 19363.6,
+   "unit": "SF"
+  },
+  "expectedLines": [
+   {
+    "line": 9,
+    "key": "remove:PAVEMENT",
+    "quantity": 19363.6,
+    "unit": "SF",
+    "tolerancePct": 0.5,
+    "estimatorQty": 19363.57
+   }
+  ],
+  "tolerancePct": 0.5,
+  "source": "line 9 / markup p64 (C-1.0)",
+  "estimatorQty": 19363.57
+ },
+ {
+  "name": "KN8 tree removal (unsized)",
+  "assembly": "demolition.trees",
+  "formula": "ea = count(X symbols)",
+  "inputs": {
+   "unsized": {
+    "value": 2,
+    "unit": "EA"
+   },
+   "keynote": "8"
+  },
+  "engineInputs": {
+   "unsized": "2",
+   "keynote": "8"
+  },
+  "expected": {
+   "quantity": 2,
+   "unit": "EA"
+  },
+  "expectedLines": [
+   {
+    "line": 10,
+    "key": "tree:unsized",
+    "quantity": 2,
+    "unit": "EA",
+    "tolerancePct": 0,
+    "estimatorQty": 2.0
+   }
+  ],
+  "tolerancePct": 0,
+  "source": "line 10 / markup p64 (C-1.0)",
+  "estimatorQty": 2.0
+ },
+ {
+  "name": "KN6 water line removal",
+  "assembly": "demolition.utility",
+  "formula": "lf = sum(run_i)",
+  "inputs": {
+   "runs": [
+    {
+     "value": 55.6,
+     "unit": "LF"
+    }
+   ],
+   "utility": "WATER",
+   "keynote": "6"
+  },
+  "engineInputs": {
+   "runs": "55.6 LF",
+   "utility": "WATER",
+   "keynote": "6"
+  },
+  "expected": {
+   "quantity": 55.6,
+   "unit": "LF"
+  },
+  "expectedLines": [
+   {
+    "line": 11,
+    "key": "utility:remove:WATER",
+    "quantity": 55.6,
+    "unit": "LF",
+    "tolerancePct": 0.5,
+    "estimatorQty": 55.6
+   }
+  ],
+  "tolerancePct": 0.5,
+  "source": "line 11 / markup p64 (C-1.0)",
+  "estimatorQty": 55.6
+ },
+ {
+  "name": "KN5 power/telecom line removal",
+  "assembly": "demolition.utility",
+  "formula": "lf = sum(run_i)",
+  "inputs": {
+   "runs": [
+    {
+     "value": 965.4,
+     "unit": "LF"
+    }
+   ],
+   "utility": "POWER",
+   "keynote": "5"
+  },
+  "engineInputs": {
+   "runs": "965.4 LF",
+   "utility": "POWER",
+   "keynote": "5"
+  },
+  "expected": {
+   "quantity": 965.4,
+   "unit": "LF"
+  },
+  "expectedLines": [
+   {
+    "line": 12,
+    "key": "utility:remove:POWER",
+    "quantity": 965.4,
+    "unit": "LF",
+    "tolerancePct": 0.5,
+    "estimatorQty": 965.36
+   }
+  ],
+  "tolerancePct": 0.5,
+  "source": "line 12 / markup p64 (C-1.0)",
+  "estimatorQty": 965.36
+ },
+ {
+  "name": "Metal handrail removal",
+  "assembly": "demolition.linear",
+  "formula": "lf = sum(run_i)",
+  "inputs": {
+   "runs": [
+    {
+     "value": 76.2,
+     "unit": "LF"
+    }
+   ],
+   "feature": "METAL HANDRAIL"
+  },
+  "engineInputs": {
+   "runs": "76.2 LF",
+   "feature": "METAL HANDRAIL"
+  },
+  "expected": {
+   "quantity": 76.2,
+   "unit": "LF"
+  },
+  "expectedLines": [
+   {
+    "line": 13,
+    "key": "linear:METAL HANDRAIL:",
+    "quantity": 76.2,
+    "unit": "LF",
+    "tolerancePct": 0.5,
+    "estimatorQty": 76.2
+   }
+  ],
+  "tolerancePct": 0.5,
+  "source": "line 13 / markup p64 (C-1.0)",
+  "estimatorQty": 76.2
+ },
+ {
+  "name": "KN4 storm sewer removal (assumed) + storm structures",
+  "assembly": "demolition.utility",
+  "formula": "lf = sum(run_i); ea = count(structures at the line ends)",
+  "inputs": {
+   "runs": [
+    {
+     "value": 107.1,
+     "unit": "LF"
+    }
+   ],
+   "utility": "STORM SEWER",
+   "size": "15\"",
+   "material": "HDPE",
+   "assumed": true,
+   "keynote": "4",
+   "structures": {
+    "value": 2,
+    "unit": "EA"
+   },
+   "structureType": "STORM STRUCTURE"
+  },
+  "engineInputs": {
+   "runs": "107.1 LF",
+   "utility": "STORM SEWER",
+   "size": "15\"",
+   "material": "HDPE",
+   "assumed": "yes",
+   "keynote": "4",
+   "structures": "2",
+   "structureType": "STORM STRUCTURE"
+  },
+  "expected": {
+   "quantity": 107.1,
+   "unit": "LF"
+  },
+  "expectedLines": [
+   {
+    "line": 14,
+    "key": "utility:remove:15\" HDPE STORM SEWER",
+    "quantity": 107.1,
+    "unit": "LF",
+    "tolerancePct": 0.5,
+    "estimatorQty": 107.11
+   },
+   {
+    "line": 15,
+    "key": "structure:STORM STRUCTURE",
+    "quantity": 2,
+    "unit": "EA",
+    "tolerancePct": 0,
+    "estimatorQty": 2.0
+   }
+  ],
+  "tolerancePct": 0.5,
+  "source": "lines 14 and 15 / markup p64 (C-1.0)",
+  "estimatorQty": 107.11
+ }
+]

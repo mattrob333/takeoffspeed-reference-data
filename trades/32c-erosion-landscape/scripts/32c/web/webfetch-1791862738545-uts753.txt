@@ -1,0 +1,505 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+- -
+-
+Stormwater Best Management Practice 
+Storm Drain Inlet Protection 
+Minimum Measure: Construction Site Stormwater Runoff Control 
+Subcategory: Sediment Control 
+Description 
+Storm drain inlet protection controls prevent soil and 
+debris from entering storm drain inlets. These controls 
+are usually temporary and allow storm drain inlets on-
+site to remain operational prior to permanent site 
+stabilization. Inlet protection is often the last opportunity 
+to provide treatment to stormwater prior to discharge. 
+There are several types of inlet protections that 
+construction site operators can use depending on site 
+conditions, inlet configurations and material availability. 
+Inlet protection can be either internal or external. Internal 
+controls consist of a filter insert that construction staff 
+place within a storm drain, and these controls are 
+generally only useful for larger sediment. External 
+controls enable ponding around the storm drain inlet 
+using some type of filter barrier made of stone, gravel or 
+fabric. Construction staff can create the ponded area by 
+either excavating around a drop inlet or by building the 
+filter material up around a drop inlet’s perimeter. External 
+controls slow flow velocities and allow for sediment 
+settling and filtration before stormwater enters the inlet. 
+A variety of controls can protect storm drain 
+inlets, such as the mostly structural controls 
+that this fact sheet discusses or non-
+structural controls that the Compost Filter 
+Socks and Fiber Rolls fact sheets discuss in 
+greater detail. 
+Applicability 
+Inlet protection is applicable to operational inlets for 
+which all or some of the inlet’s drainage area is 
+disturbed. Storm drain inlet protection is a secondary 
+control device, meaning that construction staff should 
+always use inlet protection in conjunction with other 
+sediment and erosion control practices. 
+Internal controls are applicable to areas with high 
+construction traffic or where roadway flooding is a 
+concern (WSDOT, 2019). External controls—which 
+Storm drains and curb inlets should be protected with filter 
+fabric and filter socks, which trap sediment and allow water 
+to flow through. 
+Photo Credit: PG Environmental for USEPA 
+require more space for stormwater ponding but are 
+generally more effective as sediment control practices— 
+are applicable to a wide range of inlet configurations. 
+Excavated drop inlet protection and block and gravel 
+inlet protection are applicable to areas of high flow, 
+where drain overflow is likely. Fabric (e.g., silt fence or 
+geotextile) barriers are applicable to smaller, flatter 
+drainage areas, but construction staff should be aware 
+that some locations caution against this practice due to 
+its high failure rate (e.g., TDEC, 2012). 
+Siting and Design Considerations 
+Construction staff should install temporary inlet 
+protection controls before any soil disturbance occurs in 
+the drainage area. Generally, drainage areas to each 
+control should be no greater than 1 acre per inlet. In all 
+cases, the overtopping depth of an inlet protection 
+control should not be greater than any surrounding low 
+point in the drainage area so that stormwater does not 
+bypass the inlet. In some cases, controls may require an 
+emergency overflow (City of Seattle, 2017). 
+https://www.epa.gov/npdes 
+EPA-832-F-21-028GG 
+December 2021 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+—
+NPDES: Stormwater Best Management Practice—Storm Drain Inlet Protection 
+Given the wide variety of inlet protection types, design 
+engineers and construction staff should always consult 
+local, state and manufacturer specifications for siting, 
+installation and maintenance requirements. 
+Considerations for common inlet protection controls are 
+below (City of Seattle, 2017; DC, 2017; Lake, 2016; 
+TDEC, 2012; WSDOT, 2019): 
+• 
+Excavated drop inlet protection – This consists of
+a small area that construction staff can excavate or
+leave below grade around an inlet to create a
+settling pool. Small holes (also called weep holes)
+with gravel and/or filter fabric protection slowly
+release stormwater into the inlet. Recommended
+depths vary by location but are generally between 1
+and 2 feet depending on site configurations. Most
+jurisdictions also provide recommendations for
+minimum storage volume as a function of drainage
+area. For example, the New York State Department
+of Environmental Conservation recommends a
+minimum of 35 cubic yards per acre disturbed (Lake,
+2016).
+• 
+Fabric drop inlet protection – This consists of a
+barrier of porous fabric around an inlet that creates a
+shield against sediment while allowing water to flow
+into the inlet. This barrier slows stormwater while
+catching soil and other debris. If water levels are
+high enough, water should be able to overflow into
+the inlet leaving settled sediment behind. Most
+jurisdictions specify a maximum fabric height of 1.5
+feet unless adequate reinforcement is in place.
+• 
+Block and gravel inlet protection – Standard
+concrete blocks and gravel form a barrier to
+sediments that permits stormwater to flow through
+select sideways blocks. Similar to fabric drop inlet
+protection, block and gravel controls should be high
+enough to pond stormwater and enable settling of
+sediments, but not so high as to prohibit overtopping
+during times of high flows. Designs typically require
+wire mesh between the blocks and gravel to prevent
+gravel from entering the inlet.
+• 
+Sod inlet protection – For permanent inlet
+protection after construction staff have stabilized the
+surrounding area, staff can install sod. This
+permanent measure is an aesthetically pleasing way
+to slow stormwater near drop inlet entrances and to
+remove sediments and other pollutants from
+stormwater. Only use sod inlet protection after staff
+have stabilized the entire drainage area.
+Limitations 
+Stormwater inlet protection is not appropriate as a 
+primary sediment control. Construction staff should 
+always use it with other controls, such as an upstream 
+buffer strip or storm drain diversion (Lake, 2016). In 
+general, stormwater inlet protection is only practical for 
+areas receiving relatively clean stormwater that does not 
+contain large amounts of sediment, as the controls often 
+clog quickly. If sediment and other debris clog the water 
+intake, inlet protection controls can cause stormwater to 
+bypass the inlet and erode unprotected areas. 
+Maintenance Considerations 
+Storm drain inlet protection controls require regular 
+maintenance to prevent clogging and ensure effective 
+operation. Regular maintenance activities include: 
+• 
+Checking all controls after each storm event.
+• 
+Removing accumulated sediment from settling areas
+when the capacity decreases by half.
+• 
+Removing sediment from the settling area or
+unclogging weep holes if the control does not drain
+within 48 hours.
+• 
+Immediately replacing tears in fabric controls or
+internal filtering controls. This may require replacing
+the entire control depending on the amount of
+damage.
+• 
+Periodically removing additional debris from the
+shallow pools.
+Effectiveness 
+Inlet protection controls alone have limited effectiveness, 
+as stormwater would quickly overwhelm them if used as 
+a primary control. However, inlet protection can provide 
+a moderate level of pollutant removal in conjunction with 
+other controls. Given the wide variability in designs of 
+external controls, performance data for external controls 
+is limited. In a review of 11 internal inlet protection 
+controls, Clary et al. (2011) found inlet inserts to reduce 
+total suspended solids concentrations from a median 
+influent concentration of 52 mg/L to a median effluent 
+concentration of 33 mg/L. Removals for other 
+parameters, including metals and nutrients, were 
+variable but mostly positive. 
+Page 2 
+Office of Water, 4203M 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+—
+NPDES: Stormwater Best Management Practice—Storm Drain Inlet Protection 
+Cost Considerations1
+The cost of implementing storm drain inlet protection 
+controls varies depending on many factors including the 
+control type, availability and proximity of materials, 
+prevailing wage rates, and regional cost trends. It is 
+therefore difficult to develop cost estimates that apply 
+nationwide. The New York State Department of 
+Environmental Conservation used average bid prices 
+from 2013 to estimate a cost of $210 for each filter fabric 
+inlet control and $1,100 for each excavated or block and 
+gravel inlet control; they also suggest maintenance costs 
+to be about 60 percent of construction costs (Lake, 
+2016). 
+1Prices updated to 2020 dollars. Inflation rates obtained from the 
+Bureau of Labor Statistics CPI Inflation Calculator Web site 
+https://data.bls.gov/cgi-bin/cpicalc.pl. Reference dates for the 
+calculation are October 2011 and September 2019." 
+Additional Information 
+Additional information on related practices and the Phase II MS4 program can be found at 
+EPA’s National Menu of Best Management Practices (BMPs) for Stormwater website 
+References 
+City of Seattle. (2017). Volume 2: Construction stormwater control. In City of Seattle stormwater manual. 
+Clary, J., Leisenring, M., Poresky, A., Earles, A., & Jones, J. (2011). BMP performance analysis results for the 
+international stormwater BMP database. In World Environmental and Water Resources Congress 2011: Bearing 
+knowledge for sustainability (pp. 441-449). 
+District of Columbia (DC). (2017). Erosion and sediment control manual. 
+Lake, D. W. (2016). New York State standards and specifications for erosion and sediment control. New York State 
+Department of Environmental Conservation. 
+Tennessee Department of Environment and Conservation (TDEC). (2012). Erosion & sediment control handbook: A 
+stormwater planning and design manual for construction activities. 
+Washington State Department of Transportation (WSDOT). (2019). Temporary erosion and sediment control manual. 
+Disclaimer 
+This fact sheet is intended to be used for informational purposes only. These examples and references are not intended to be 
+comprehensive and do not preclude the use of other technically sound practices. State or local requirements may apply. 
+Page 3 
+Office of Water, 4203M 

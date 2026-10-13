@@ -2355,6 +2355,13 @@
     "unit": "FT",
     "color": "slate blue / indigo",
     "verified": "two readers agree"
+   },
+   {
+    "name": "HSS6x4x3/8 BEAM",
+    "quantity": 22.2,
+    "unit": "FT",
+    "color": "brown / dusty red",
+    "verified": "two readers agree (duplicate name restored)"
    }
   ],
   "disputedCount": 0,
@@ -2522,10 +2529,10 @@
   "items": [
    {
     "name": "1\"DIA CONDUIT",
-    "quantity": 15.4,
+    "quantity": 4.8,
     "unit": "FT",
-    "color": "dusty brown/rose",
-    "verified": "two readers agree"
+    "color": "magenta",
+    "verified": "added on review: dropped by the reader-merge step (same normalised name); Claude render + GPT-6 Astra agree"
    },
    {
     "name": "(2) 2\"DIA CONDUIT",
@@ -2533,10 +2540,17 @@
     "unit": "FT",
     "color": "cyan",
     "verified": "two readers agree"
+   },
+   {
+    "name": "1\"DIA CONDUIT",
+    "quantity": 15.4,
+    "unit": "FT",
+    "color": "dusty brown/rose",
+    "verified": "two readers agree"
    }
   ],
   "disputedCount": 0,
-  "notes": "Legend is at bottom-left of the page, 3 rows, all clearly legible. The two 1\"DIA CONDUIT rows are separate legend entries with different swatches (magenta 4.8 FT, brown 15.4 FT); not merged. | Legend sits at the bottom-left corner of the page. All 3 rows read clearly at 3.2x. Two separate rows are both named '1\"DIA CONDUIT' (pink 4.8 FT and brown 15.4 FT). I kept them as separate rows and did not merge them."
+  "notes": "Legend is at bottom-left of the page, 3 rows, all clearly legible. The two 1\"DIA CONDUIT rows are separate legend entries with different swatches (magenta 4.8 FT, brown 15.4 FT); not merged. | Legend sits at the bottom-left corner of the page. All 3 rows read clearly at 3.2x. Two separate rows are both named '1\"DIA CONDUIT' (pink 4.8 FT and brown 15.4 FT). I kept them as separate rows and did not merge them. | Review 2026-10-13: the 4.8 FT magenta 1\"DIA CONDUIT row was missing (the two readers' rows were merged on the same normalised name, so only 15.4 survived); restored as row 1. Page now has its 3 printed rows."
  },
  {
   "page": 42,
@@ -2549,7 +2563,8 @@
     "quantity": 0,
     "unit": "EA",
     "color": "slate blue/indigo (circle)",
-    "verified": "two readers agree"
+    "verified": "two readers agree",
+    "printed": "NAN EA"
    },
    {
     "name": "120V, 20A TOGGLE SWITCH IN METALLIC BELL BOX W/ METALLIC...",
@@ -2637,7 +2652,7 @@
    }
   ],
   "disputedCount": 0,
-  "notes": "Legend at bottom-left, 13 rows, all legible. IMPORTANT: the first row SAFETY SWITCH, 30A, 3 POLE, FUSED@ 20A prints its quantity as the literal text 'NAN EA' (PlanSwift not-a-number, nothing measured/placed); the schema requires a number so it is entered as 0 - treat it as NO VALUE/unmeasured, not a real zero. Row 2 name and row 8 name are truncated with '...' in the printed legend (METALLIC... and REQUIREMENT...); full text not available on the page. Quantities are printed to one decimal (e.g. 1.0 EA). Several rows share similar swatch colours (purple: toggle switch and slabbox; teal: GFCI receptacle and utility meter; salmon red: DDCV hot box and service disconnect) but are distinct rows. | Legend sits at the bottom-left corner of the page. It has 13 rows, all readable. IMPORTANT: The quantity for 'SAFETY SWITCH, 30A, 3 POLE, FUSED@ 20A' is printed as 'NAN EA', which is PlanSwift's not-a-number value, so there is no real measured quantity. 0 is only a stand-in because the schema needs a number. It is NOT a measured zero and should be treated as unknown ('\u2014'). On the drawing I could not see any marker in that slate-blue colour. Two names are cut off with '...' as printed: '120V, 20A TOGGLE SWITCH IN METALLIC BELL BOX W/ METALLIC...' and 'STUBOUT & TERMINATE PER UTILITY COMPANY REQUIREMENT...'. I copied them as shown. Several colours repeat across different items (purple: toggle switch and transformer slabbox; teal: GFCI receptacle and utility meter; red: DDCV hot box and service disconnect)."
+  "notes": "Legend at bottom-left, 13 rows, all legible. IMPORTANT: the first row SAFETY SWITCH, 30A, 3 POLE, FUSED@ 20A prints its quantity as the literal text 'NAN EA' (PlanSwift not-a-number, nothing measured/placed); the schema requires a number so it is entered as 0 - treat it as NO VALUE/unmeasured, not a real zero. Row 2 name and row 8 name are truncated with '...' in the printed legend (METALLIC... and REQUIREMENT...); full text not available on the page. Quantities are printed to one decimal (e.g. 1.0 EA). Several rows share similar swatch colours (purple: toggle switch and slabbox; teal: GFCI receptacle and utility meter; salmon red: DDCV hot box and service disconnect) but are distinct rows. | Legend sits at the bottom-left corner of the page. It has 13 rows, all readable. IMPORTANT: The quantity for 'SAFETY SWITCH, 30A, 3 POLE, FUSED@ 20A' is printed as 'NAN EA', which is PlanSwift's not-a-number value, so there is no real measured quantity. 0 is only a stand-in because the schema needs a number. It is NOT a measured zero and should be treated as unknown ('\u2014'). On the drawing I could not see any marker in that slate-blue colour. Two names are cut off with '...' as printed: '120V, 20A TOGGLE SWITCH IN METALLIC BELL BOX W/ METALLIC...' and 'STUBOUT & TERMINATE PER UTILITY COMPANY REQUIREMENT...'. I copied them as shown. Several colours repeat across different items (purple: toggle switch and transformer slabbox; teal: GFCI receptacle and utility meter; red: DDCV hot box and service disconnect). | Review 2026-10-13: the SAFETY SWITCH row prints NAN EA; quantity 0 is a placeholder, now marked printed: NAN EA."
  },
  {
   "page": 43,
@@ -2670,11 +2685,11 @@
   "legendFound": true,
   "items": [
    {
-    "name": "QUAD RECEPTACLE, 20A, 125V",
-    "quantity": 3,
+    "name": "QUAD RECEPTACLE 20A, 125V",
+    "quantity": 1,
     "unit": "EA",
-    "color": "brownish red",
-    "verified": "two readers agree"
+    "color": "magenta",
+    "verified": "added on review: dropped by the reader-merge step (same normalised name); Claude render + GPT-6 Astra agree"
    },
    {
     "name": "DUPLEX RECEPTACLE, SURGE PROTECTIVE (LEVITON T5380W) 20A, 125V",
@@ -2754,11 +2769,19 @@
     "verified": "two readers agree"
    },
    {
+    "name": "QUAD RECEPTACLE, 20A, 125V",
+    "quantity": 3,
+    "unit": "EA",
+    "color": "brownish red",
+    "verified": "two readers agree"
+   },
+   {
     "name": "TEMPER RESISTANT GFCI DUPLEX RECEPTACLE, 20A, 125V",
-    "quantity": 1,
+    "quantity": 0,
     "unit": "EA",
     "color": "medium green",
-    "verified": "two readers agree"
+    "printed": "NAN EA",
+    "verified": "added on review: dropped by the reader-merge step (same normalised name); Claude render + GPT-6 Astra agree; prints NAN EA, 0 is a placeholder (unknown, not a measured zero)"
    },
    {
     "name": "MOTOR RATED SINGLE SWITCH, 120/277V, TOOGLE TYPE",
@@ -2852,6 +2875,13 @@
     "verified": "two readers agree"
    },
    {
+    "name": "TEMPER RESISTANT GFCI DUPLEX RECEPTACLE, 20A, 125V",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "medium green",
+    "verified": "two readers agree"
+   },
+   {
     "name": "4\" SQUARE JUNCTION BOX",
     "quantity": 1,
     "unit": "EA",
@@ -2930,7 +2960,7 @@
    }
   ],
   "disputedCount": 0,
-  "notes": "Legend is a 39-row block at the lower-left of the sheet, listed top to bottom; the full-page view and the 5x crop of the top rows confirm QUAD RECEPTACLE 20A, 125V is the first row and VOLUMN CONTROL SWITCH is the last. Rows 14 (TEMPER RESISTANT GFCI DUPLEX RECEPTACLE, 20A, 125V, first occurrence) prints 'NAN EA' instead of a number; I entered 0 as a placeholder because the schema requires a number, so treat it as unknown/not-a-number (the plan shows no measured quantity). Three names are truncated with '...' in the print and are transcribed as printed: the RECESSED FLOOR BOX row, the TEMPER RESISTANT DUPLEX ... FACTORY ENGRAVED row, and the GFCI DUPLEX ... FACTORY ENGRAVED COVER PLATE row. Spellings as printed (TOOGLE, TEMPER, TAMPER, RECETACLE, VOLUMN) are kept. Several names repeat with different swatches or quantities (e.g. TEMPER RESISTANT GFCI DUPLEX RECEPTACLE appears twice, NAN and 1.0) and were not merged. Four rows are linear conduit (square swatches, FT units); the rest are EA with round swatches. Swatch colours are approximate descriptions, and several rows share similar hues (olive, blue, magenta repeat). | Legend runs down the bottom-left edge (about x 0-0.28, y 0.61-0.97) with 38 rows, all read at 4x. Row 14 'TEMPER RESISTANT GFCI DUPLEX RECEPTACLE, 20A, 125V' (green) prints its quantity as 'NAN EA'. That is a PlanSwift NaN, not a measured zero. The value 0 was entered only because the schema requires a number, so treat it as unknown. A second row with the same name, further down (green), reads 1.0 EA. Typos are kept as printed: TOOGLE, TEMPER, RECETACLE, VOLUMN. Three names end in '...' because PlanSwift cut them off: the RECESSED FLOOR BOX row, the TEMPER RESISTANT DUPLEX ... FACTORY ENGRAVED row and the GFCI DUPLEX ... COVER PLATE row. The full text is not on the page. The conduit rows (19.6 FT, 19.5 FT, 30.2 FT, 30.2 FT) have square swatches. Swatch colours are approximate."
+  "notes": "Legend is a 39-row block at the lower-left of the sheet, listed top to bottom; the full-page view and the 5x crop of the top rows confirm QUAD RECEPTACLE 20A, 125V is the first row and VOLUMN CONTROL SWITCH is the last. Rows 14 (TEMPER RESISTANT GFCI DUPLEX RECEPTACLE, 20A, 125V, first occurrence) prints 'NAN EA' instead of a number; I entered 0 as a placeholder because the schema requires a number, so treat it as unknown/not-a-number (the plan shows no measured quantity). Three names are truncated with '...' in the print and are transcribed as printed: the RECESSED FLOOR BOX row, the TEMPER RESISTANT DUPLEX ... FACTORY ENGRAVED row, and the GFCI DUPLEX ... FACTORY ENGRAVED COVER PLATE row. Spellings as printed (TOOGLE, TEMPER, TAMPER, RECETACLE, VOLUMN) are kept. Several names repeat with different swatches or quantities (e.g. TEMPER RESISTANT GFCI DUPLEX RECEPTACLE appears twice, NAN and 1.0) and were not merged. Four rows are linear conduit (square swatches, FT units); the rest are EA with round swatches. Swatch colours are approximate descriptions, and several rows share similar hues (olive, blue, magenta repeat). | Legend runs down the bottom-left edge (about x 0-0.28, y 0.61-0.97) with 38 rows, all read at 4x. Row 14 'TEMPER RESISTANT GFCI DUPLEX RECEPTACLE, 20A, 125V' (green) prints its quantity as 'NAN EA'. That is a PlanSwift NaN, not a measured zero. The value 0 was entered only because the schema requires a number, so treat it as unknown. A second row with the same name, further down (green), reads 1.0 EA. Typos are kept as printed: TOOGLE, TEMPER, RECETACLE, VOLUMN. Three names end in '...' because PlanSwift cut them off: the RECESSED FLOOR BOX row, the TEMPER RESISTANT DUPLEX ... FACTORY ENGRAVED row and the GFCI DUPLEX ... COVER PLATE row. The full text is not on the page. The conduit rows (19.6 FT, 19.5 FT, 30.2 FT, 30.2 FT) have square swatches. Swatch colours are approximate. | Review 2026-10-13: rows 1 (QUAD RECEPTACLE 20A, 125V, 1.0 EA, magenta) and 14 (TEMPER RESISTANT GFCI DUPLEX RECEPTACLE, 20A, 125V, NAN EA, green) were missing because the reader-merge step keyed on the normalised name and kept one row per name; the surviving 3.0 QUAD and 1.0 TR GFCI rows had taken the earlier positions. All 39 rows restored in printed order; the NAN row carries quantity 0 as a placeholder plus printed: NAN EA."
  },
  {
   "page": 45,
@@ -3443,6 +3473,13 @@
     "unit": "EA",
     "color": "blue/periwinkle",
     "verified": "two readers agree"
+   },
+   {
+    "name": "FIRE ALARM ADA AP...",
+    "quantity": 9,
+    "unit": "EA",
+    "color": "purple/orchid",
+    "verified": "two readers agree (duplicate name restored)"
    }
   ],
   "disputedCount": 0,
@@ -3968,6 +4005,62 @@
     "unit": "EA",
     "color": "teal",
     "verified": "two readers agree"
+   },
+   {
+    "name": "LSD (3-48\")",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "cyan",
+    "verified": "two readers agree (duplicate name restored)"
+   },
+   {
+    "name": "LSD (2-24\")",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree (duplicate name restored)"
+   },
+   {
+    "name": "24\"x24\" SUPPLY AIR DIFFUSER",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "magenta",
+    "verified": "two readers agree (duplicate name restored)"
+   },
+   {
+    "name": "24\"x24\" SUPPLY AIR DIFFUSER",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "magenta",
+    "verified": "two readers agree (duplicate name restored)"
+   },
+   {
+    "name": "24\"x24\" SUPPLY AIR DIFFUSER",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "magenta",
+    "verified": "two readers agree (duplicate name restored)"
+   },
+   {
+    "name": "24\"x24\" SUPPLY AIR DIFFUSER",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "magenta",
+    "verified": "two readers agree (duplicate name restored)"
+   },
+   {
+    "name": "24\"x24\" RETURN AIR GRILLE",
+    "quantity": 2,
+    "unit": "EA",
+    "color": "purple",
+    "verified": "two readers agree (duplicate name restored)"
+   },
+   {
+    "name": "24\"x24\" RETURN AIR GRILLE",
+    "quantity": 1,
+    "unit": "EA",
+    "color": "teal",
+    "verified": "two readers agree (duplicate name restored)"
    }
   ],
   "disputedCount": 0,
@@ -4632,6 +4725,13 @@
     "unit": "SQ FT",
     "color": "coral red",
     "verified": "two readers agree"
+   },
+   {
+    "name": "DS1, DS2 & DU",
+    "quantity": 20298.9,
+    "unit": "SQ FT",
+    "color": "teal",
+    "verified": "two readers agree (duplicate name restored)"
    }
   ],
   "disputedCount": 0,
@@ -4908,6 +5008,13 @@
     "unit": "EA",
     "color": "cyan (circle)",
     "verified": "two readers agree"
+   },
+   {
+    "name": "21: HEAVY DUTY CONCRETE PAVE...",
+    "quantity": 384.3,
+    "unit": "SQ FT",
+    "color": "purple/mauve",
+    "verified": "two readers agree (duplicate name restored)"
    }
   ],
   "disputedCount": 0,
@@ -5009,6 +5116,13 @@
     "unit": "SQ FT",
     "color": "pale sky blue",
     "verified": "two readers agree"
+   },
+   {
+    "name": "439.500 - Proposed",
+    "quantity": 3841.3,
+    "unit": "SQ FT",
+    "color": "very pale cyan",
+    "verified": "two readers agree (duplicate name restored)"
    }
   ],
   "disputedCount": 0,
@@ -5473,6 +5587,55 @@
     "unit": "CU YD",
     "color": "none",
     "verified": "two readers agree"
+   },
+   {
+    "name": "440 - Proposed Contour",
+    "quantity": 51.72,
+    "unit": "CU YD",
+    "color": "none",
+    "verified": "two readers agree (duplicate name restored)"
+   },
+   {
+    "name": "440 - Proposed Contour",
+    "quantity": 149.24,
+    "unit": "CU YD",
+    "color": "none",
+    "verified": "two readers agree (duplicate name restored)"
+   },
+   {
+    "name": "440 - Proposed Contour",
+    "quantity": 224.56,
+    "unit": "CU YD",
+    "color": "none",
+    "verified": "two readers agree (duplicate name restored)"
+   },
+   {
+    "name": "440 - Proposed Contour",
+    "quantity": 199,
+    "unit": "CU YD",
+    "color": "none",
+    "verified": "two readers agree (duplicate name restored)"
+   },
+   {
+    "name": "440 - Proposed Contour",
+    "quantity": 2.11,
+    "unit": "CU YD",
+    "color": "none",
+    "verified": "two readers agree (duplicate name restored)"
+   },
+   {
+    "name": "439.5 - Proposed Contour",
+    "quantity": 22.91,
+    "unit": "CU YD",
+    "color": "none",
+    "verified": "two readers agree (duplicate name restored)"
+   },
+   {
+    "name": "439 - Proposed Contour",
+    "quantity": 10.42,
+    "unit": "CU YD",
+    "color": "none",
+    "verified": "two readers agree (duplicate name restored)"
    }
   ],
   "disputedCount": 0,

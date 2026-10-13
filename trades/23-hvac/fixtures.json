@@ -1,0 +1,1123 @@
+[
+ {
+  "name": "23-hvac line 446: 26 ga galvanized metal ductwork",
+  "formula": "duct sheet-metal LBS = bare rigid surface SF x lb/SF(gauge)",
+  "inputs": {
+   "8x10_LF": {
+    "value": 31.1,
+    "unit": "LF",
+    "legendItem": "8x10 DUCT",
+    "markupPage": 53
+   },
+   "14x12_LF": {
+    "value": 7.3,
+    "unit": "LF",
+    "legendItem": "14x12 DUCT",
+    "markupPage": 53
+   },
+   "20x12_LF": {
+    "value": 94.4,
+    "unit": "LF",
+    "legendItem": "20x12 DUCT",
+    "markupPage": 53
+   },
+   "24x12_LF": {
+    "value": 13.3,
+    "unit": "LF",
+    "legendItem": "24x12 DUCT",
+    "markupPage": 53
+   },
+   "16x12_LF": {
+    "value": 41.4,
+    "unit": "LF",
+    "legendItem": "16x12 DUCT",
+    "markupPage": 53
+   },
+   "10x10_LF": {
+    "value": 7.4,
+    "unit": "LF",
+    "legendItem": "10x10 DUCT",
+    "markupPage": 53
+   },
+   "8x8_LF": {
+    "value": 10.6,
+    "unit": "LF",
+    "legendItem": "8x8 DUCT",
+    "markupPage": 53
+   },
+   "12x12_LF": {
+    "value": 9.8,
+    "unit": "LF",
+    "legendItem": "12x12 DUCT",
+    "markupPage": 53
+   },
+   "8in_round_LF": {
+    "value": 113.7,
+    "unit": "LF",
+    "legendItem": "8\" DUCT",
+    "markupPage": 53
+   },
+   "6in_round_LF": {
+    "value": 18.0,
+    "unit": "LF",
+    "legendItem": "6\" DUCT",
+    "markupPage": 53
+   },
+   "10in_round_LF": {
+    "value": 10.5,
+    "unit": "LF",
+    "legendItem": "10\" DUCT",
+    "markupPage": 53
+   },
+   "14in_round_LF": {
+    "value": 10.2,
+    "unit": "LF",
+    "legendItem": "14\" DUCT",
+    "markupPage": 53
+   },
+   "gauge": {
+    "value": 26,
+    "unit": "ga",
+    "source": "M-001 Part 2 1.B"
+   },
+   "lbPerSF": {
+    "value": 0.906,
+    "unit": "lb/SF",
+    "basis": "26 ga galvanized"
+   },
+   "seamAllowance": {
+    "value": 0,
+    "unit": "fraction"
+   }
+  },
+  "expected": {
+   "quantity": 1200.0,
+   "unit": "LBS"
+  },
+  "tolerancePct": 0.5,
+  "source": "446 / markup p53"
+ },
+ {
+  "name": "23-hvac line 447: 1.5\" fiberglass duct insulation",
+  "formula": "duct insulation SF = bare rigid duct surface SF",
+  "inputs": {
+   "8x10_LF": {
+    "value": 31.1,
+    "unit": "LF",
+    "legendItem": "8x10 DUCT",
+    "markupPage": 53
+   },
+   "14x12_LF": {
+    "value": 7.3,
+    "unit": "LF",
+    "legendItem": "14x12 DUCT",
+    "markupPage": 53
+   },
+   "20x12_LF": {
+    "value": 94.4,
+    "unit": "LF",
+    "legendItem": "20x12 DUCT",
+    "markupPage": 53
+   },
+   "24x12_LF": {
+    "value": 13.3,
+    "unit": "LF",
+    "legendItem": "24x12 DUCT",
+    "markupPage": 53
+   },
+   "16x12_LF": {
+    "value": 41.4,
+    "unit": "LF",
+    "legendItem": "16x12 DUCT",
+    "markupPage": 53
+   },
+   "10x10_LF": {
+    "value": 7.4,
+    "unit": "LF",
+    "legendItem": "10x10 DUCT",
+    "markupPage": 53
+   },
+   "8x8_LF": {
+    "value": 10.6,
+    "unit": "LF",
+    "legendItem": "8x8 DUCT",
+    "markupPage": 53
+   },
+   "12x12_LF": {
+    "value": 9.8,
+    "unit": "LF",
+    "legendItem": "12x12 DUCT",
+    "markupPage": 53
+   },
+   "8in_round_LF": {
+    "value": 113.7,
+    "unit": "LF",
+    "legendItem": "8\" DUCT",
+    "markupPage": 53
+   },
+   "6in_round_LF": {
+    "value": 18.0,
+    "unit": "LF",
+    "legendItem": "6\" DUCT",
+    "markupPage": 53
+   },
+   "10in_round_LF": {
+    "value": 10.5,
+    "unit": "LF",
+    "legendItem": "10\" DUCT",
+    "markupPage": 53
+   },
+   "14in_round_LF": {
+    "value": 10.2,
+    "unit": "LF",
+    "legendItem": "14\" DUCT",
+    "markupPage": 53
+   },
+   "insulationThickness": {
+    "value": 1.5,
+    "unit": "in",
+    "note": "estimator text; not used in the area"
+   },
+   "lapIn": {
+    "value": 0,
+    "unit": "in"
+   }
+  },
+  "expected": {
+   "quantity": 1325.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "447 / markup p53"
+ },
+ {
+  "name": "23-hvac line 448: 6\" dia flexible duct",
+  "formula": "measured LF = legend LF",
+  "inputs": {
+   "flex_LF": {
+    "value": 6.9,
+    "unit": "LF",
+    "legendItem": "6\"DIA FLEXIBEL DUCT",
+    "markupPage": 53
+   },
+   "diameter": {
+    "value": 6,
+    "unit": "in"
+   }
+  },
+  "expected": {
+   "quantity": 6.92,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "448 / markup p53"
+ },
+ {
+  "name": "23-hvac line 449: 8\" dia flexible duct",
+  "formula": "measured LF = legend LF",
+  "inputs": {
+   "flex_LF": {
+    "value": 50.1,
+    "unit": "LF",
+    "legendItem": "8\"DIA FLEXIBLE DUCT",
+    "markupPage": 53
+   },
+   "diameter": {
+    "value": 8,
+    "unit": "in"
+   }
+  },
+  "expected": {
+   "quantity": 50.09,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "449 / markup p53"
+ },
+ {
+  "name": "23-hvac line 450: 10\" dia flexible duct",
+  "formula": "measured LF = legend LF",
+  "inputs": {
+   "flex_LF": {
+    "value": 4.8,
+    "unit": "LF",
+    "legendItem": "10\"DIA FLEXIBLE DUCT",
+    "markupPage": 53
+   },
+   "diameter": {
+    "value": 10,
+    "unit": "in"
+   }
+  },
+  "expected": {
+   "quantity": 4.83,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "450 / markup p53"
+ },
+ {
+  "name": "23-hvac line 451: 14\" dia flexible duct",
+  "formula": "measured LF = legend LF",
+  "inputs": {
+   "flex_LF": {
+    "value": 3.1,
+    "unit": "LF",
+    "legendItem": "14\"DIA FLEXIBLE DUCT",
+    "markupPage": 53
+   },
+   "diameter": {
+    "value": 14,
+    "unit": "in"
+   }
+  },
+  "expected": {
+   "quantity": 3.12,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "451 / markup p53"
+ },
+ {
+  "name": "23-hvac line 452: Refrigerant piping, size not given",
+  "formula": "measured LF = legend LF (whole purple trace: both drawn pipes + extra leg)",
+  "inputs": {
+   "trace_LF": {
+    "value": 30.9,
+    "unit": "LF",
+    "legendItem": "REFRIGERANT PIPING, SIZE NOT GIVEN",
+    "markupPage": 53
+   },
+   "traceSegments_FT": {
+    "FCU riser leg": 1.22,
+    "upper pipe": 10.52,
+    "end cap": 0.36,
+    "lower pipe": 9.89,
+    "drop": 0.89,
+    "third leg (no pipe drawn)": 7.97
+   },
+   "routeOnceForReference": {
+    "value": 11.75,
+    "unit": "LF",
+    "note": "FCU riser leg + one pipe; NOT what the estimator carried"
+   }
+  },
+  "expected": {
+   "quantity": 30.86,
+   "unit": "LF"
+  },
+  "tolerancePct": 1.0,
+  "source": "452 / markup p53"
+ },
+ {
+  "name": "23-hvac line 453: LSD (2-48\") 185 CFM",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "LSD (2-48\")",
+    "legendRow": "\"LSD (2-48\")\" 1.0 EA (magenta)",
+    "planTag": "LSD (2-48\") / 185 CFM",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "453 / markup p53"
+ },
+ {
+  "name": "23-hvac line 454: LSD (3-48\") 185 CFM",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "LSD (3-48\")",
+    "legendRow": "\"LSD (3-48\")\" 1.0 EA (cyan, legend row 15 of 55)",
+    "planTag": "LSD (3-48\") / 185 CFM",
+    "markupPage": 53,
+    "legendsJson": "restored to legends.json on review, tagged \"duplicate name restored\""
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "454 / markup p53"
+ },
+ {
+  "name": "23-hvac line 455: LSD (2-48\") 140 CFM",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 6,
+    "unit": "EA",
+    "legendItem": "LSD (2-48\")CFM: 140",
+    "legendRow": "\"LSD (2-48\")CFM: 140\" 6.0 EA",
+    "planTag": "LSD (2-48\") / 140 CFM",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 6.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "455 / markup p53"
+ },
+ {
+  "name": "23-hvac line 456: LSD (3-48\") 330 CFM",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "LSD (3-48\")",
+    "legendRow": "\"LSD (3-48\")\" 1.0 EA (olive, legend row 18 of 55)",
+    "planTag": "LSD (3-48\") / 330 CFM",
+    "markupPage": 53,
+    "legendsJson": "kept by the original reader merge (last occurrence of the name)"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "456 / markup p53"
+ },
+ {
+  "name": "23-hvac line 457: LSD (1-48\") 110 CFM",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "LSD (1-48\")",
+    "legendRow": "\"LSD (1-48\")\" 1.0 EA (indigo)",
+    "planTag": "LSD (1-48\") / 110 CFM",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "457 / markup p53"
+ },
+ {
+  "name": "23-hvac line 458: LSD (1-48\") 90 CFM",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "LSD (1-48\")CFM: 90",
+    "legendRow": "\"LSD (1-48\")CFM: 90\" 1.0 EA",
+    "planTag": "LSD (1-48\") / 90 CFM",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "458 / markup p53"
+ },
+ {
+  "name": "23-hvac line 459: LSD (2-24\") 60 CFM",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 2,
+    "unit": "EA",
+    "legendItem": "LSD (2-24\")",
+    "legendRow": "\"LSD (2-24\")\" 2.0 EA (teal, legend row 21 of 55)",
+    "planTag": "LSD (2-24\") / 60 CFM",
+    "markupPage": 53,
+    "legendsJson": "restored to legends.json on review, tagged \"duplicate name restored\""
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "459 / markup p53"
+ },
+ {
+  "name": "23-hvac line 460: LSD (2-24\") 150 CFM",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 2,
+    "unit": "EA",
+    "legendItem": "LSD (2-24\")",
+    "legendRow": "\"LSD (2-24\")\" 2.0 EA (salmon, legend row 22 of 55)",
+    "planTag": "LSD (2-24\") / 150 CFM",
+    "markupPage": 53,
+    "legendsJson": "kept by the original reader merge (last occurrence of the name)"
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "460 / markup p53"
+ },
+ {
+  "name": "23-hvac line 461: LSR (3-48\") 350 CFM",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "LSR (3-48\")",
+    "legendRow": "\"LSR (3-48\")\" 1.0 EA",
+    "planTag": "LSR (3-48\") / 350 CFM",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "461 / markup p53"
+ },
+ {
+  "name": "23-hvac line 462: 24x24 supply diffuser 80 CFM, 6\" neck",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "24\"x24\" SUPPLY AIR DIFFUSER",
+    "legendRow": "\"24\"x24\" SUPPLY AIR DIFFUSER\" 1.0 EA (magenta, legend row 26 of 55)",
+    "planTag": "80S",
+    "markupPage": 53,
+    "legendsJson": "restored to legends.json on review, tagged \"duplicate name restored\""
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "462 / markup p53"
+ },
+ {
+  "name": "23-hvac line 463: 12x12 supply diffuser 65 CFM, 6\" neck",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 2,
+    "unit": "EA",
+    "legendItem": "12\"x12\" SUPPLY AIR DIFFUSERCFM: 65",
+    "legendRow": "\"12\"x12\" SUPPLY AIR DIFFUSERCFM: 65\" 2.0 EA",
+    "planTag": "65S",
+    "markupPage": 53,
+    "face": "12x12 from the drawn 1'-0\" symbol on M-301 (not from the CFM band)"
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "463 / markup p53"
+ },
+ {
+  "name": "23-hvac line 464: 24x24 supply diffuser 60 CFM, 6\" neck",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "24\"x24\" SUPPLY AIR DIFFUSER",
+    "legendRow": "\"24\"x24\" SUPPLY AIR DIFFUSER\" 1.0 EA (brown, legend row 28 of 55)",
+    "planTag": "60S",
+    "markupPage": 53,
+    "legendsJson": "restored to legends.json on review, tagged \"duplicate name restored\"; legends.json gives it colour \"magenta\", the image shows brown"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "464 / markup p53"
+ },
+ {
+  "name": "23-hvac line 465: 24x24 supply diffuser 160 CFM, 8\" neck",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "24\"x24\" SUPPLY AIR DIFFUSER",
+    "legendRow": "\"24\"x24\" SUPPLY AIR DIFFUSER\" 1.0 EA (medium green, legend row 29 of 55)",
+    "planTag": "160S",
+    "markupPage": 53,
+    "legendsJson": "restored to legends.json on review, tagged \"duplicate name restored\"; legends.json gives it colour \"magenta\", the image shows medium green"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "465 / markup p53"
+ },
+ {
+  "name": "23-hvac line 466: 24x24 supply diffuser 370 CFM, 12\" neck",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "24\"x24\" SUPPLY AIR DIFFUSER",
+    "legendRow": "\"24\"x24\" SUPPLY AIR DIFFUSER\" 1.0 EA (indigo, legend row 31 of 55)",
+    "planTag": "370S",
+    "markupPage": 53,
+    "legendsJson": "restored to legends.json on review, tagged \"duplicate name restored\"; legends.json gives it colour \"magenta\", the image shows indigo"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "466 / markup p53"
+ },
+ {
+  "name": "23-hvac line 467: 24x24 supply diffuser 240 CFM, 10\" neck",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "24\"x24\" SUPPLY AIR DIFFUSER",
+    "legendRow": "\"24\"x24\" SUPPLY AIR DIFFUSER\" 1.0 EA (bright green, legend row 35 of 55)",
+    "planTag": "240S",
+    "markupPage": 53,
+    "legendsJson": "kept by the original reader merge (last occurrence of the name)"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "467 / markup p53"
+ },
+ {
+  "name": "23-hvac line 468: 24x24 return grille 12x12 neck 360 CFM",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "24\"x24\" RETURN AIR GRILLENECK SIZE: 12\"x12\"CFM: 360",
+    "legendRow": "\"24\"x24\" RETURN AIR GRILLENECK SIZE: 12\"x12\"CFM: 360\" 1.0 EA",
+    "planTag": "360R 12\"x12\"",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "468 / markup p53"
+ },
+ {
+  "name": "23-hvac line 469: 24x24 return grille 10x10 neck 220 CFM",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 2,
+    "unit": "EA",
+    "legendItem": "24\"x24\" RETURN AIR GRILLE",
+    "legendRow": "\"24\"x24\" RETURN AIR GRILLE\" 2.0 EA (purple, legend row 32 of 55)",
+    "planTag": "220R 10\"x10\"",
+    "markupPage": 53,
+    "legendsJson": "restored to legends.json on review, tagged \"duplicate name restored\""
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "469 / markup p53"
+ },
+ {
+  "name": "23-hvac line 470: 24x24 return grille 8x8 neck 50 CFM",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "24\"x24\" RETURN AIR GRILLE",
+    "legendRow": "\"24\"x24\" RETURN AIR GRILLE\" 1.0 EA (teal, legend row 33 of 55)",
+    "planTag": "50R 8\"x8\"",
+    "markupPage": 53,
+    "legendsJson": "restored to legends.json on review, tagged \"duplicate name restored\""
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "470 / markup p53"
+ },
+ {
+  "name": "23-hvac line 471: 24x24 return grille 8x8 neck 65 CFM",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "24\"x24\" RETURN AIR GRILLENECK SIZE: 8\"x8\"CFM: 65",
+    "legendRow": "\"24\"x24\" RETURN AIR GRILLENECK SIZE: 8\"x8\"CFM: 65\" 1.0 EA",
+    "planTag": "65R 8\"x8\"",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "471 / markup p53"
+ },
+ {
+  "name": "23-hvac line 472: 24x24 return grille 16x16 neck 895 CFM",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "24\"x24\" RETURN AIR GRILLE",
+    "legendRow": "\"24\"x24\" RETURN AIR GRILLE\" 1.0 EA (yellow, legend row 36 of 55)",
+    "planTag": "895R 16\"x16\"",
+    "markupPage": 53,
+    "legendsJson": "kept by the original reader merge (last occurrence of the name)"
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "472 / markup p53"
+ },
+ {
+  "name": "23-hvac line 473: 24x24 return grille 16x16 neck 1000 CFM",
+  "formula": "count = placements of tag+size+CFM",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "24\"x24\" RETURN AIR GRILLENECK SIZE: 16\"x16\"CFM: 1000",
+    "legendRow": "\"24\"x24\" RETURN AIR GRILLENECK SIZE: 16\"x16\"CFM: 1000\" 1.0 EA",
+    "planTag": "1000R 16\"x16\"",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "473 / markup p53"
+ },
+ {
+  "name": "23-hvac line 474: EF-1 exhaust fan Greenheck SP-B90",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "EF-1",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "474 / markup p53 (M-301)"
+ },
+ {
+  "name": "23-hvac line 475: EF-2 exhaust fan Greenheck SP-B110",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "EF2",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "475 / markup p53 (M-301)"
+ },
+ {
+  "name": "23-hvac line 476: EF-3 exhaust fan Greenheck SP-B110",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "EF3",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "476 / markup p53 (M-301)"
+ },
+ {
+  "name": "23-hvac line 477: RTU-1 rooftop heat pump unit Carrier",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "RTU-1",
+    "markupPage": 54
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "477 / markup p54 (M-302)"
+ },
+ {
+  "name": "23-hvac line 478: RTU-2 rooftop heat pump unit Carrier",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "RTU-2",
+    "markupPage": 54
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "478 / markup p54 (M-302)"
+ },
+ {
+  "name": "23-hvac line 479: Mini-split FCU-1/HP-1 Mitsubishi (indoor+outdoor)",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "HP-1",
+    "markupPage": 54
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "479 / markup p54 (M-302)"
+ },
+ {
+  "name": "23-hvac line 480: 1-1/2\" RTU condensate drain w/ P-trap & vented cap",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "1-1/2\" RTU CONDENSATE DRAIN W/ P-TRAP & REMOVEABLE VENTED CAP",
+    "markupPage": 54
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "480 / markup p54 (M-302)"
+ },
+ {
+  "name": "23-hvac line 481: Supply air temperature sensor",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 2,
+    "unit": "EA",
+    "legendItem": "SUPPLY AIR TEMPERATURE SENSOR",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "481 / markup p53 (M-301)"
+ },
+ {
+  "name": "23-hvac line 482: Return air temperature sensor",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 2,
+    "unit": "EA",
+    "legendItem": "RETURN AIR TEMPERATURE SENSOR",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "482 / markup p53 (M-301)"
+ },
+ {
+  "name": "23-hvac line 483: CO2 sensor",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 2,
+    "unit": "EA",
+    "legendItem": "CARBON DIOXIDE (C02) SENSOR",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "483 / markup p53 (M-301)"
+ },
+ {
+  "name": "23-hvac line 484: VOC sensor",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "VOC SENSOR",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "484 / markup p53 (M-301)"
+ },
+ {
+  "name": "23-hvac line 485: Temperature sensor",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 4,
+    "unit": "EA",
+    "legendItem": "TEMPERATURE SENSOR",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 4.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "485 / markup p53 (M-301)"
+ },
+ {
+  "name": "23-hvac line 486: Outdoor air temperature sensor",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 2,
+    "unit": "EA",
+    "legendItem": "OUTDOOR AIR TEMPERATURE SENSOR",
+    "markupPage": 54
+   }
+  },
+  "expected": {
+   "quantity": 2.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "486 / markup p54 (M-302)"
+ },
+ {
+  "name": "23-hvac line 487: Thermostat control",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 4,
+    "unit": "EA",
+    "legendItem": "THERMOSTAT CONTROL",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 4.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "487 / markup p53 (M-301)"
+ },
+ {
+  "name": "23-hvac line 488: 24x22 exhaust hood (gravity ventilator) eq. Greenheck FGR",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "24\"x22\" EXHAUST HOOD, NOA 19-0802.02 EQUAL TO GREENHECK FGR",
+    "markupPage": 54
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "488 / markup p54 (M-302)"
+ },
+ {
+  "name": "23-hvac line 489: Remote cable operated damper",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 13,
+    "unit": "EA",
+    "legendItem": "REMOTE CABLE OPERATED DAMPER",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 13.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "489 / markup p53 (M-301)"
+ },
+ {
+  "name": "23-hvac line 490: Petroleum-based wax controlled (VAV) damper",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "PETROLEUM BASED WAX CONTROLLED DAMPER",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "490 / markup p53 (M-301)"
+ },
+ {
+  "name": "23-hvac line 491: Manual damper",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "MANUAL DAMPER",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "491 / markup p53 (M-301)"
+ },
+ {
+  "name": "23-hvac line 492: Particle counter eq. Sensirion SP530",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "PARTICLE COUNTER EQUAL TO SENSIRION AG SP530",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "492 / markup p53 (M-301)"
+ },
+ {
+  "name": "23-hvac line 493: Temperature & RH display",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "TEMPERATURE & RELATIVE HUMIDITY DISPLAY",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "493 / markup p53 (M-301)"
+ },
+ {
+  "name": "23-hvac line 494: Titus SB steel sectorizing baffle",
+  "formula": "count = placements of the symbol/tag",
+  "inputs": {
+   "count": {
+    "value": 1,
+    "unit": "EA",
+    "legendItem": "TITUS SB STEEL SECTORIZING BAFFLE",
+    "markupPage": 53
+   }
+  },
+  "expected": {
+   "quantity": 1.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0,
+  "source": "494 / markup p53 (M-301)"
+ }
+]

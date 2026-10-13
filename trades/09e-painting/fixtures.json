@@ -1,0 +1,294 @@
+[
+ {
+  "name": "PT-1 wall paint = sum(run x height) on finish plan + restroom elevation area",
+  "formula": "painting.walls (runTimesHeight per height group + areas)",
+  "inputs": {
+   "runs": [
+    {
+     "run_lf": 62.6,
+     "height_ft": 12,
+     "legend": "PT1 PAINT @ 12'H"
+    },
+    {
+     "run_lf": 15,
+     "height_ft": 11,
+     "legend": "PT1 PAINT @ 11'H"
+    },
+    {
+     "run_lf": 39.7,
+     "height_ft": 8.5,
+     "legend": "PT1 PAINT @ 8'6\"H"
+    },
+    {
+     "run_lf": 4.9,
+     "height_ft": 6.5,
+     "legend": "PT1 PAINT @ 6'6\"H"
+    },
+    {
+     "run_lf": 51.8,
+     "height_ft": 10,
+     "legend": "PT1 PAINT @ 10'H"
+    },
+    {
+     "run_lf": 117.1,
+     "height_ft": 9,
+     "legend": "PT1 PAINT @ 9'H"
+    },
+    {
+     "run_lf": 48,
+     "height_ft": 12.5,
+     "legend": "PT1 PAINT @ 12'6\"H"
+    }
+   ],
+   "areas_sf": {
+    "A-410 restrooms, both rooms (elev A full height less door, B/C/D above tile; copy of A omits door)": 252.6
+   },
+   "primerCoats": 1,
+   "finishCoats": 2
+  },
+  "expected": {
+   "quantity": 3710.84,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "295 / markup p08, p16"
+ },
+ {
+  "name": "PT-4 accent walls = sum(run x height)",
+  "formula": "painting.walls (runTimesHeight)",
+  "inputs": {
+   "runs": [
+    {
+     "run_lf": 5.3,
+     "height_ft": 9.0,
+     "where": "Phone Room 114"
+    },
+    {
+     "run_lf": 10.6,
+     "height_ft": 10.0,
+     "where": "Gathering Area 103 tech wall"
+    }
+   ],
+   "primerCoats": 1,
+   "finishCoats": 2
+  },
+  "expected": {
+   "quantity": 153.62,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "296 / markup p08"
+ },
+ {
+  "name": "PT-6 tech wall recess = traced area, rounded up to 5 SF",
+  "formula": "painting.walls (areas) + ceilTo5",
+  "inputs": {
+   "areas_sf": {
+    "A-704 recess back wall": 37.2
+   },
+   "rounding": "ceil to 5 SF (estimator hand-entry convention)"
+  },
+  "expected": {
+   "quantity": 40.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "297 / markup p28"
+ },
+ {
+  "name": "PT-7 wallcovering primer = run x height, rounded up to 5 SF",
+  "formula": "painting.walls (runTimesHeight, primerCoats=1, finishCoats=0) + ceilTo5",
+  "inputs": {
+   "run_lf": 10.3,
+   "height_ft": 10.0,
+   "where": "Meeting Room 105 north wall",
+   "primerCoats": 1,
+   "finishCoats": 0,
+   "rounding": "ceil to 5 SF"
+  },
+  "expected": {
+   "quantity": 105.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "298 / markup p08"
+ },
+ {
+  "name": "PT-8 meeting room feature wall = run x height, rounded up to 5 SF",
+  "formula": "painting.walls (runTimesHeight) + ceilTo5",
+  "inputs": {
+   "run_lf": 7.4,
+   "height_ft": 10.0,
+   "primerCoats": 1,
+   "finishCoats": 2,
+   "rounding": "ceil to 5 SF"
+  },
+  "expected": {
+   "quantity": 75.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "299 / markup p08"
+ },
+ {
+  "name": "PT-3 gypsum ceiling + soffit faces",
+  "formula": "painting.ceilings (gypsum areas) with soffit faces = sum(LF x face height)",
+  "inputs": {
+   "ceiling_sf": 516.1,
+   "soffits": [
+    {
+     "run_lf": 4.2,
+     "face_height_ft": 7.0,
+     "legend": "SOFFIT @ 3'6\"H, GWB BS (both sides 2 x 3.5)"
+    },
+    {
+     "run_lf": 2.7,
+     "face_height_ft": 4,
+     "legend": "SOFFIT @ 6'6\"H, GWB @ 4'H"
+    },
+    {
+     "run_lf": 6.7,
+     "face_height_ft": 1.5,
+     "legend": "SOFFIT @ 3'6\"H, GWB @ 1'6\"H"
+    },
+    {
+     "run_lf": 30.5,
+     "face_height_ft": 3,
+     "legend": "SOFFIT @ 4'6\"H, GWB @ 3'H"
+    },
+    {
+     "run_lf": 35.3,
+     "face_height_ft": 2.5,
+     "legend": "SOFFIT @ 5'9\"H, GWB @ 2'6\"H"
+    },
+    {
+     "run_lf": 28.1,
+     "face_height_ft": 2,
+     "legend": "SOFFIT @ 2'H"
+    }
+   ],
+   "primerCoats": 1,
+   "finishCoats": 2
+  },
+  "expected": {
+   "quantity": 802.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.5,
+  "source": "300 / markup p05; lines 278, 285"
+ },
+ {
+  "name": "Exposed structure paint = plan area, rounded up to 5 SF",
+  "formula": "painting.ceilings (exposed-structure, surfaceFactor 1.0) + ceilTo5",
+  "inputs": {
+   "areas_sf": {
+    "Janitor 115 + Elec/IT 106": 98.4
+   },
+   "surfaceFactor": 1.0,
+   "rounding": "ceil to 5 SF"
+  },
+  "expected": {
+   "quantity": 100.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "301 / markup p05"
+ },
+ {
+  "name": "PT-5 booth roof = plan area, rounded up to whole SF",
+  "formula": "painting.ceilings (other) + ceilTo1",
+  "inputs": {
+   "areas_sf": {
+    "A-706 booth roof framing plan": 76.2
+   },
+   "rounding": "ceil to 1 SF"
+  },
+  "expected": {
+   "quantity": 77.0,
+   "unit": "SF"
+  },
+  "tolerancePct": 0.1,
+  "source": "302 / markup p29"
+ },
+ {
+  "name": "Painted HM frames = count of HM-framed doors",
+  "formula": "painting.doors-frames (frames count)",
+  "inputs": {
+   "frames": [
+    {
+     "size": "3'-0\" x 7'-0\"",
+     "count": 3,
+     "type": "B welded"
+    },
+    {
+     "size": "3'-0\" x 7'-0\"",
+     "count": 2,
+     "type": "B welded, card reader"
+    },
+    {
+     "size": "3'-0\" x 7'-0\"",
+     "count": 1,
+     "type": "C knock-down"
+    }
+   ]
+  },
+  "expected": {
+   "quantity": 6.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "source": "303 / markup p21"
+ },
+ {
+  "name": "Black-painted diffusers = keynote-tagged device count",
+  "formula": "painting.mep (device count)",
+  "inputs": {
+   "count_by_keynote": {
+    "5 IN UPPER CEILING. PAINT BLACK. (LSD)": 4,
+    "8 LSR(3) plenum painted flat black": 1
+   },
+   "color": "BLACK",
+   "device": "CEILING DIFFUSER"
+  },
+  "expected": {
+   "quantity": 5.0,
+   "unit": "EA"
+  },
+  "tolerancePct": 0.0,
+  "source": "305 / markup p53"
+ },
+ {
+  "name": "Safety-yellow roof gas pipe 3/4\"",
+  "formula": "painting.mep (pipe LF) + ceilTo5",
+  "inputs": {
+   "pipeSize": "3/4\"",
+   "service": "GAS",
+   "color": "SAFETY YELLOW",
+   "pipe_lf": 44.2,
+   "rounding": "ceil to 5 LF"
+  },
+  "expected": {
+   "quantity": 45.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "306 / markup p58"
+ },
+ {
+  "name": "Safety-yellow roof gas pipe 1\"",
+  "formula": "painting.mep (pipe LF) + ceilTo5",
+  "inputs": {
+   "pipeSize": "1\"",
+   "service": "GAS",
+   "color": "SAFETY YELLOW",
+   "pipe_lf": 9.7,
+   "rounding": "ceil to 5 LF"
+  },
+  "expected": {
+   "quantity": 10.0,
+   "unit": "LF"
+  },
+  "tolerancePct": 0.1,
+  "source": "307 / markup p58"
+ }
+]

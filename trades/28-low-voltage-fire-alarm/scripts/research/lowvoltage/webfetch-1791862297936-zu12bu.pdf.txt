@@ -1,0 +1,130 @@
+White Paper
+September 1, 2006
+Guidelines:
+Smoke Detector Spacing on Level Ceilings with Beams and Joists
+
+Smoke Detector Spacing on Level Ceilings with Beams and Joists
+Executive Overview
+NFPA 72, The National Fire Alarm Code, recommends using 900 square feet (30 feet 
+on center) as a guideline for spacing spot type smoke detectors on smooth ceilings. 
+While this is only a recommendation, virtually all manufacturers of smoke detectors 
+follow this guideline. There has always been a question of how detector spacing 
+needs to change when the ceiling is not smooth, but is interrupted by beams or 
+joists. The language in the 2002 edition of NFPA 72 code was based on the fi re 
+dynamics research reported in 1993-1994 and was considered the best available 
+data at that time. However, recent advances in computational ﬂ uid dynamics (CFD) 
+have allowed fi re protection engineers to revisit the current guidelines and make 
+concrete recommendations for changes in NFPA 72.
+Industry Challenges
+The 2002 edition of NFPA 72 requires that when beams project more than 12 inches 
+below the ceiling and when ceiling heights exceed 12 feet, each bay (beam pocket) 
+formed by the beams should/must be treated as a separate area. That is, each bay would 
+need one or more detectors depending upon its physical size. When this requirement 
+was fi rst incorporated into the code, it was backed by the best CFD data available at 
+the time. Subsequent to this code change, many fi re alarm system designers discovered 
+that following the literal code text could mean using a large number of detectors and 
+incurring exorbitant installation costs in many common building designs. Historically, 
+this part of the code has been a subject of contention in the fi re protection industry 
+and among NFPA 72 Initiating Devices Committee members.
+Current Recommendations for Smoke Detector Spacing:
+NFPA 72 requires different detector spacing depending upon whether the structural 
+or ornamental members on the ceiling fall into the defi nition of a beam or a joist 
+and the depth of those members. The code defi nes solid joist construction as 
+members that are greater than 4 inches in depth and spaced 3 feet or less apart. 
+Beam construction, on the other hand, is defi ned as members that are greater than 
+4 inches in depth that are spaced more than 3 feet apart. For the purposes of spot-
+type smoke detectors, the spacing rules are the same for ceilings with beams and 
+solid joist construction.
+For level ceilings, NFPA 72 currently requires spacing smoke detectors at one half 
+their listed spacing, perpendicular to the run of the beams on a ceiling less than or 
+equal to 12 feet in height, when the beams are less than or equal to 12 inches deep. 
+When parallel to the beams, NFPA requires standard spacing for smoke detectors. 
+In this case, the detectors may be mounted on the ceiling or on the bottom of the 
+beams. If the beams exceed 12 inches in depth or the ceiling height of the space 
+exceeds 12 feet, the detectors are required in every beam pocket on the ceiling.
+Research
+In April 2005, the Fire Protection Research Foundation funded new research using 
+CFD computer modeling to reexamine smoke detector spacing on ceilings with beams 
+and/or joists. The CFD analysis was performed by Schirmer Engineering Corporation 
+ 
+System Sensor. Advanced Ideas. Advanced Solutions. 
+2
+Following NFPA 72 2002 
+requirements could result 
+in higher installation costs.
+Ceilings with beams 
+and joists affect detector 
+spacing.
+
+Smoke Detector Spacing on Level Ceilings with Beams and Joists
+ 
+System Sensor. Advanced Ideas. Advanced Solutions. 
+3
+and Vision Systems Ltd. using Fire Dynamics Simulator and Smokeview Version 
+41 (developed by the National Institute of Science and Technology). The results of 
+this research were published in a report entitled, “Smoke Detector Performance 
+for Level Ceilings with Deep Beams and Deep Beam Pocket Confi gurations.”2 The 
+report was issued March 28, 2006 and was the basis for recommended changes to 
+NFPA 72.
+Based on a variety of modeled ﬂ aming ﬁ re scenarios, the results of this 
+study indicate:
+The NFPA 72 2002 edition requirement for placing smoke detectors 
+• 
+in every beam pocket when ceilings are greater than 12 feet in height 
+and/or beams are greater than 12 inches in depth is not supported by 
+this new study.
+The smooth ceiling 30-foot spacing guideline of NFPA 72, with permitted 
+• 
+increases for narrow space geometry, allows smoke detectors to extend 
+to approximately 41 feet on-center and along a corridor. For ceilings up to 
+24 feet in height, the deep-beam confi gurations do not negatively affect 
+expected performance. This means that for corridor conditions, spot 
+smoke detectors can be effectively used with deep beams at spacings for 
+smooth ceilings.
+Standard 900-square-foot smoke detector spacing is adequate for wafﬂ e 
+• 
+or pan type ceilings up to 24 feet in height and for beams up to 24 inches 
+in depth that are spaced no greater than 12 feet on center. 
+Spot smoke detectors may be placed on the bottom of the beams or in 
+• 
+the beam pocket without any signifi cant difference in performance.
+The concern about mounting smoke detectors a minimum of 12 inches 
+• 
+from a ceiling-beam corner, per NFPA 72, is unsubstantiated. The CFD 
+modeling showed no stagnant areas in the beam pockets that would 
+preclude smoke detector activation. Although the modeling results 
+showed no stagnant zones, it does not suggest that spot detectors can 
+be installed in close proximity or contact to the wall or ceiling surface. 
+The research report notes that such close mounting may impact the 
+airﬂ ow characteristics into and around the detector housing, which 
+could have a negative impact on how smoke ﬂ ows into a detector’s 
+sensing chamber. 
+1 The CFD software is available free of charge from the NIST web site: www.ﬁ re.nist.gov/fds.
+2 The full report is available on the National Fire Protection Association web site: www.nfpa.org.
+A recent analysis does 
+not support the spacing 
+requirements in the
+2002 edition.
+
+Smoke Detector Spacing on Level Ceilings with Beams and Joists
+Recommendations
+Based on these findings, the report authors proposed language for addition to the body and annex of NFPA 72. 
+The language clarifies how smoke detectors shall be placed on ceilings with beams and joists. These changes 
+are expected to be incorporated into the 2007 edition of NFPA 72, which will be released in late 2006, to quell 
+some of the debate surrounding the current requirements for smoke detectors on beam ceilings.
+Conclusion
+As a part of the National Fire Protection Association’s mission to “reduce the worldwide burden of fire” by 
+continually updating their consensus codes based on the latest research available, NFPA commissioned this study 
+of smoke detector spacing. The results of this study and accompanying code changes are expected to reduce the 
+overall cost of fire protection systems in beam ceiling applications while not comprising occupant safety.
+Acknowledgement
+This document was written with guidance from Schirmer Engineering Corporation.
+A05-0408-000 • 9/06 • #1703 
+System Sensor. Advanced Ideas. Advanced Solutions.   
+©2006 System Sensor
+For more information regarding Smoke Detector Spacing, please contact:
+System Sensor
+3825 Ohio Avenue
+St. Charles, Illinois 60174
+ 1-800-sensor2
+www.systemsensor.com
